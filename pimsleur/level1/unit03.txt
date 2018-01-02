@@ -1,5 +1,5 @@
 ﻿Guten Tag, Herr Gordon. Wie geht es Ihnen?
-Sehr gut, Frau Meyer. Danke.
+Sehr gut, Frau Meier. Danke.
 Ah, Sie verstehen Deutsch!
 Nur ein bisschen.
 Sie sind Amerikaner?
@@ -11,19 +11,19 @@ Es geht mir gut, danke.
 Es geht mir sehr gut.
 Nicht sehr gut.
 Es geht mir nicht sehr gut.
-========================== 4:40 ==============================
+========================== 4:34 ==============================
 /ameriˈkaːnərɪn/
 Sind Sie Amerikanerin?
 ========================== 6:58 ==============================
 /bɪn/
 Ja. Ich bin Amerikaner.
 ========================== 8:41 ==============================
-/dɔytʃɐ/
+/ˈdɔytʃɐ/
 Ich bin Deutscher.
 Ich bin kein Deutscher.
-Sind Sie Deutscher?
+ˈSind Sie Deutscher?
 
-/dɔytʃə/
+/ˈdɔytʃə/
 Ich bin Deutsche. 
 Ich bin keine Deutsche.
 ========================== 11:32 ==============================
@@ -38,10 +38,12 @@ Sie sind Amerikaner.
 aber
 Aber ich verstehe ein bisschen Deutsch.
 Ich verstehe nicht sehr gut.
-========================= 16:24 ==============================
+========================= 16:19 ==============================
 /ˈbɪtə/
 bitte
 Verstehen Sie nur Deutsch?
+Wie geht es Ihnen?
+Es geht mir gut.
 Nein, es geht mir nicht gut.
 Es geht mir nicht sehr gut.
 Geht es Ihnen gut?
@@ -50,7 +52,7 @@ Es geht mir gut, danke.
 ========================== 22:00 ==============================
 Entschuldigen Sie?
 Ja.
-Guten Tag, Frau Meyer.
+Guten Tag, Frau Meier.
 Ah! Guten Tag, Herr Gordon.
 Wie geht es Ihnen?
 Gut, danke. Und wie geht es Ihnen?
@@ -62,13 +64,13 @@ Nein, Herr Gordon. Ich verstehe kein Englisch. Sind Sie Amerikaner?
 Ja, ich bin Amerikaner. Aber ich verstehe Deutsch. Nur ein bisschen. Nicht sehr gut.
 Aber Sie verstehen sehr gut Deutsch.
 Nein, nein.
-25:31
+========================== 25:31 ==============================
 ?Aber Sie sprechen sehr gut Deutsh.
 Entschuldigen Sie. Ich verstehe nicht.
 /ˈʃprɛçən/
 Sie sprechen sehr gut.
 Nein. Nicht sehr gut.
-Auf Wiedersehen, Frau Meyer!
+Auf Wiedersehen, Frau Meier!
 Auf Wiedersehen, Herr Gordon!
 ========================================================
 sein /zain/ bin, sind, ist /ɪst/ war /vaːr/ gewesen /ɡəˈveːzən/
