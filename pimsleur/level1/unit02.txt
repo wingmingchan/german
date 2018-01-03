@@ -3,9 +3,10 @@ Ja, ein bisschen.
 Sind Sie Amerikaner?
 Ja. Verstehen Sie Englisch?
 Nein. Ich verstehe kein Englisch.
+
 ========================= 6:26 ===============================
 /ˈɡuːtən taːk frau maijə/
-Guten Tag, Frau Meyer.
+Guten Tag, Frau Meier.
 
 /viː geːt ɛs ˈiːnən/
 Wie geht es Ihnen? (Lit. How goes it to you?)
@@ -28,11 +29,11 @@ Nein, ich verstehe nicht.
 
 /auf ˈviːdɐzeːən/
 Auf Wiedersehen!
-========================== 24:13 ==============================
+========================== 24:03 ==============================
 Guten Tag, Herr Gordon.
 Guten Tag, Frau Schneider.
 Wie geht es Ihnen?
-Es geht mir gut. Sehr gut. Danke.
+Es geht mir gut. Sehr gut, danke.
 Sind Sie Amerikaner?
 Ja.
 Verstehen Sie Deutsch?
@@ -40,10 +41,15 @@ Ein bisschen. Ich verstehe ein bisschen Deutsch.
 Sie verstehen sehr gut.
 Nein, nicht sehr gut. Verstehen Sie Englisch?
 Nein. Ich verstehe kein Englisch. Auf Wiedersehen, Herr Gordon!
-Auf Wiedersehen, Frau Schneider!
+Auf Wiedersehen! Auf Wiedersehen, Frau Schneider!
 ========================================================
-1. gehen /ˈɡeːən/ ging /ɡɪŋ/ gegangen /ɡəˈɡaŋən/ to go
-2. sehen /ˈzeːən/ sah /zaː/ gesehen /ɡəˈzeːən/ to see
+1. gehen /ˈɡeːən/ to go
+2. sehen /ˈzeːən/ to see
 3. wieder /ˈviːdɐ/ again
-4. auf: on, in, at
+4. auf on, in, at
 5. das Wiedersehen: meeting, reunion
+
+Wir sind Chinesen
+
+Wie geht's?
+Wie geht es dir?
