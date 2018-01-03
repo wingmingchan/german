@@ -9,10 +9,10 @@ Doch! Sie verstehen sehr gut.
 Nein, nein. Nur ein bisschen.
 ========================= 1:39 ===============================
 Es geht mir gut. Und Ihnen?
-Wie guht es Ihnen?
+Wie gut es Ihnen?
 Nicht sehr gut.
 Es geht mir gut.
-Ich ˈbin Amerikaner.
+Ich bin Amerikaner.
 Ich bin Amerikanerin.
 Sie sind Deutsche.
 Sie sind Deutscher.
@@ -31,22 +31,22 @@ Ich bin kein Deutcher.
 Sie sind kein Amerikaner?
 Doch! Ich ˈbin Amerikaner.
 Ich bin keine Deutche.
-Sie sind keine Amerikanin?
+Sie sind keine Amerikanerin?
 ========================= 12:40 ===============================
 Goethe /ˈgœtə/
 die straße /diː ˈʃtraːsə/
-die Goethe Straße /diː ˈgœtə ˈʃtraːsə/
-die Beethoven Straße /ˈbeːtofən/
+die Goethestraße /diː ˈgœtə ˈʃtraːsə/
+die Beethovenstraße /ˈbeːtofən/
 wo ist ... /voː ɪst/
-Wo ist die Goethe Straße, bitte?
+Wo ist die Goethestraße, bitte?
 der Platz /deːɐ plaʦ/
-der Opernplatz /ˈoːpanplaʦ/
+der Opernplatz /ˈoːpɐnplaʦ/
 Wo ist der Opernplatz, bitte?
 hier /hiːɐ/
 Der Opernplatz ist hier.
 dort drüben /dɔrt ˈdryːbən/
-Ist die Goethe Straße dort drüben?
-Die Goethe Straße ist nicht hier.
+Ist die Goethestraße dort drüben?
+Die Goethestraße ist nicht hier.
 Der Opernplatz ist nicht hier.
 Der Opernplatz ist dort drüben.
 ============================ 22:41 ============================
@@ -58,11 +58,11 @@ Danke, sehr gut. Sind Sie Amerikaner?
 Ja, ich bin Amerikaner.
 Ich bin Deutsche. Verstehen Sie Deutsch?
 Ich verstehe ein bisschen. Nur ein bisschen.
-Entschuldigen Sie. Wo ist die Gorthe Straße, bitte?
-Die Goethe Straße ist hier.
+Entschuldigen Sie. Wo ist die Gorthestraße, bitte?
+Die Goethestraße ist hier.
 Und der Opernplatz?
-Dort drüben. Die Goethe Straße ist nicht dort drüben. Der Opernplatz ist dort drüben.
-Aber die Goethe Straße ist hier.
+Dort drüben. Die Goethestraße ist nicht dort drüben. Der Opernplatz ist dort drüben.
+Aber die Goethestraße ist hier.
 Danke.
 ? 27:32 Wissen Sie ein gut Restaurant?
 Ich verstehe nicht. Entschuldigen Sie. Ich verstehe nicht.
@@ -78,4 +78,4 @@ Gibt es hier in der Nähe einen Supermarkt?
 die Scheiße /ˈʃaisə/ shit, crap
 scheißen /ˈʃaisən/ den Darm /darm/ (intestines) entleeren /ɛntˈleːrən/ (to empty)
 pissen /ˈpɪsən/ Ich muss mal pissen.
-ficken /ˈfɪkən/ mit jemand Sex /sɛks/ haben
+ficken /ˈfɪkən/ mit jemand Sex haben
