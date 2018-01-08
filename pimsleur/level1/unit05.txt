@@ -1,4 +1,8 @@
-﻿Entschuldigen Sie?
+﻿========================================================
+2nd Edition, 2010
+========================================================
+
+Entschuldigen Sie?
 Ja, bitte?
 Wo ist die Goethestraße, bitte?
 Die Goethestraße ist dort drüben.
@@ -20,47 +24,47 @@ Die Goethestraße ist nicht dort drüben.
 Die Goethestraße ist nicht hier.
 Aber der Opernplatz ist hier.
 Mir? Es geht mir gut.
-========================= 7:44 ===============================
+========================= 7:54 ===============================
 /vais/
-07:44 Ich weiß es nicht.
-07:50 Ich weiß es.
-08:57 Mozartstraße /ˈmoʦaːt/
-09:26 Aber ich weiß es. 
-09:42 Die Mozartstraße ist dort drüben.
+07:59 Ich weiß es nicht.
+08:06 Ich weiß es.
+08:19 Mozartstraße
+09:53 Aber ich weiß es. 
+10:10 Die Mozartstraße ist dort drüben.
 /ˈvɪsən/
-09:54 Sie wissen es.
-10:32 Wissen Sie ˈes?
-11:31 Die Mozartstraße ist nicht dort drüben.
-========================= 11:44 ===============================
+10:20 Sie wissen es.
+10:56 Wissen Sie ˈes?
+11:57 Die Mozartstraße ist nicht dort drüben.
+========================= 12:04 ===============================
 /ˈmœçtə/
-11:45 Ich möchte
+12:11 Ich möchte
 /ˈmœçtən/
-12:08 Sie möchten
-13:02 Ich möchte nicht
-========================= 14:07 ===============================
+12:37 Sie möchten
+13:36 Ich möchte nicht
+========================= 14:34 ===============================
 /ˈɛsən/
-14:06 Sie möchten etwas essen.
-14:13 essen
+14:39 Sie möchten etwas essen.
+14:44 essen
 /ˈɛtvas/
-14:32 etwas
-15:01 Sie möchten etwas essen.
-15:21 Möchten Sie etwas essen?
-15:40 Ich möchte.
-15:56 Möchten Sie etwas?
-16:14 Ich möchte essen.
-16:25 Ja, ich möchte etwas essen.
-========================= 17:00 ===============================
+15:00 etwas
+15:28 Sie möchten etwas essen.
+15:45 Möchten Sie etwas essen?
+16:05 Ich möchte.
+16:25 Möchten Sie etwas?
+16:44 Ich möchte essen.
+16:56 Ja, ich möchte etwas essen.
+========================= 17:25 ===============================
 /ˈtrɪŋkən/
-17:00 Ich möchte etwas trinken.
-17:06 trinken
-17:36 Möchten Sie etwas trinken?
-18:38 Aber ich möchte etwas essen.
-21:15 Ich weiß es nicht. 
-21:31 Doch! Ich weiß es.
-========================= 23:02 ===============================
-23:04 Wo?
-23:14 Wo möchten Sie essen?
-24:34 Aber ich nicht!
+17:29 Ich möchte etwas trinken.
+17:34 trinken
+18:04 Möchten Sie etwas trinken?
+19:10 Aber ich möchte etwas essen.
+21:39 Ich weiß es nicht. 
+21:57 Doch! Ich weiß es.
+========================= 23:30 ===============================
+23:35 Wo?
+23:45 Wo möchten Sie essen?
+25:09 Aber ich nicht!
 ========================================================
 wissen /ˈvɪsən/ wusste /ˈvʊstə/ gewusst /ɡəˈvʊst/
 mögen /ˈmøːɡən/ mochte /ˈmɔxtə/ gemocht /ɡəˈmɔxt/
