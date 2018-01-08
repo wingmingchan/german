@@ -1,4 +1,8 @@
-﻿Entschuldigen Sie, Brigitta?
+﻿========================================================
+2nd Edition, 2010
+========================================================
+
+Entschuldigen Sie, Brigitta?
 Ja?
 Wann möchten Sie etwas essen? Jetzt?
 Nein, nicht jetzt. Später, bitte. Aber ich möchte jetzt etwas trinken.
@@ -10,48 +14,67 @@ Möchten Sie hier essen?
 Nein, nicht am Opernplatz.
 Nein, nicht bei Ihnen.
 Ich möchte hier essen.
-========================= 5:54 ===============================
+========================= 5:33 ===============================
 /rɛstoˈrãː/
 das Restaurant
-05:53 im Restaurant
+05:33 im Restaurant
 /vas/
-07:47 Was möchten Sie essen/trinken?
+07:21 Was möchten Sie essen/trinken?
 Und wo möchten Sie essen?
 /vain/
-09:25 der Wein
-09:49 Ich möchte Wein trinken.
- im Restaurant.
-Möchten Sie Wein trinken?
+08:51 der Wein
+09:11 Ich möchte Wein trinken.
+09:24 im Restaurant.
+09:51 Möchten Sie Wein trinken?
+10:05 Ja, gerne.
 /biːɐ/
-das Bier
-Ich möchte Wein/Bier.
-Ich möchte auch Bier (trinken).
-Wo möchten Sie Bier trinken? 
-Im Restaurant bitte. Aber nicht jetzt. Später.
-Möchten Sie jetzt etwas essen?
-Im Restaurant Zum Löwen  /ʦʊm ˈløːvən/
-in der Goethestraße
-Das Restaurant ist in der Goethestraße.
-Nicht am Opernplatz.
-Aber ich möchte jetzt etwas trinken.
-========================= 24:18 ===============================
-Möchten Sie etwas trinken?
-Ja, gerne. Aber nicht jetzt. Später.
-Möchten Sie jetzt etwas essen?
-Ja, gerne.
-Wo möchte Sie essen?
-Im Restaurant Zum Löwen.
-Wo ist das Restaurant Zum Löwen?
-Das Restaurant ist dort drüben, in der Goethestraße.
-Was möchten Sie essen?
-Etwas.
-Gut. Und was möchten Sie trinken? Wein? Bier?
-Möchten Sie Bier trinken?
-Nein, danke. Ich möchte Wein trinken. Aber später.
-Gut. Aber ich möchte jetzt etwas trinken.
-Wo?
-Hier. Im Restaurant Zum Löwen in der Goethestraße.
-
+10:52 das Bier
+11:19 Ich möchte Wein/Bier.
+12:03 Ich möchte auch Bier (trinken).
+12:22 Wo möchten Sie Bier trinken? 
+12:38 Im Restaurant bitte.
+12:52 Aber nicht jetzt.
+13:03 Später.
+14:47 Möchten Sie jetzt etwas essen?
+16:08 Im Restaurant Zum Löwen  /ʦʊm ˈløːvən/
+16:57 Wo ist das Restaurant Zum Löwen?
+17:30 Das Restaurant ist dort drüben.
+17:47 in der Goethestraße
+18:21 Das Restaurant ist in der Goethestraße.
+19:00 Nicht am Opernplatz.
+21:26 Aber ich möchte jetzt etwas trinken.
+========================================================
+Reading
+========================================================
+1. ihn
+2. ihnen
+3. Wie geht es Ihnen?
+4. Danke, gut, und Ihnen?
+5. Auch gut.
+6. Ich heiße Hans.
+7. Und Sie?
+8. Wie heißen Sie?
+9. Sie auch?
+10. Sie heißen auch Hans?
+11. Nein, Sie heißen nicht Hans.
+12. Doch, doch.
+13. Wo ist die Bachstraße?
+14. ist Hier?
+15. Ich bin nicht ?
+16. Doch, ich wisse es.
+17. Die Bachstraße ist dort ?
+18. Wo ist das Opern Café?
+19. ?
+20. Aber ich wisse es nicht.
+21. Wo die ?strße ist
+22. Sind Sie Deutscher?
+23. Ich bin kein Deutscher.
+24. Ich bin auch Amerikaner.
+25. Wo wohnen Sie?
+26. in der Goethestraße
+27. Ja, in der Goethestraße
+28. Nummer eins. 
+29. Auf Wiedersehen!
 ========================================================
 machen /ˈmaxən/ Was machst du da? Was machen wir jetzt?
 jemand /ˈjeːmant/
