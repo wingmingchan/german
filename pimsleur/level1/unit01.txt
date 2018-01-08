@@ -1,4 +1,8 @@
-﻿/ɛntˈʃʊldɪɡən ziː fɛɐˈʃteːən ziː ˈɛŋlɪʃ/
+﻿========================================================
+2nd Edition, 2010
+========================================================
+
+/ɛntˈʃʊldɪɡən ziː fɛɐˈʃteːən ziː ˈɛŋlɪʃ/
 Entschuldigen Sie. Verstehen Sie Englisch?
 
 /nain ɪç fɛɐˈʃteːə kain ˈɛŋlɪʃ/
@@ -11,8 +15,44 @@ Ich verstehe nur ein bisschen Deutsch.
 Sind Sie Amerikaner?
 
 /ja/
-Ja.
-
+Ja, Amerikaner.
+========================================================
+00:49 Sie
+01:07 entschuldigen
+02:22 Englisch
+03:28 verstehen
+06:07 nein
+06:40 ich
+07:35 kein
+11:28 Deutsch
+13:14 ein bisschen
+13:53 nur
+14:54 Amerikaner
+15:29 Sie sind
+16:57 ja
+========================================================
+18:11 Entschuldigen Sie.
+18:25 Verstehen Sie?
+18:42 Verstehen Sie Deutsch?
+19:00 Verstehen Sie Englisch?
+19:19 Ich verstehe kein Englisch.
+19:56 Ich verstehe ein bisschen Deutsch.
+20:15 Nur ein bisschen.
+20:28 Sind Sie Amerikaner?
+20:45 Ja, Amerikaner.
+========================================================
+Reading
+========================================================
+man /man/ somebody, someone
+kann /kan/ können /ˈkœnən/ to be able to
+dann /dan/ then
+denn /dɛn/ because, since
+kennt /kɛnt/ kennen 
+kennen /ˈkɛnən/ to know
+an /an/ at
+am /am/
+nennen /ˈnɛnən/ to call (as a name)
+nannte /ˈnantə/
 ========================================================
 ein bisschen Milch/Wasser /mɪlç ˈvasɐ/
 ein klein bisschen: a little bit
@@ -22,11 +62,12 @@ ein wenig: a little
 ein wenig Salz: a little salt
 ein bisschen wenig /ˈveːnɪç/: not very much
 
-heißen /ˈhaisn/ to call, to be named
+heißen /ˈhaisən/ to call, to be named
 Ich heiße Müller
-zusammentreffen: to meet
-zu treffen: reflexive verb, = zusammentreffen
+zusammentreffen /ʦuˈzaməntrɛfən/ to coincide, concur
+zu treffen: reflexive verb
 Ich freue mich, Sie zu treffen, ...
 
 lernen /ˈlɛrnən/ lesen /ˈleːzn/ schwimmen /ˈʃvɪmən/
 lesen/schwimmen lernen: to learn to read/swim
+
