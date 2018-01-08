@@ -1,55 +1,52 @@
-﻿Guten Tag, Herr Gordon. Wie geht es Ihnen?
+﻿========================================================
+2nd Edition, 2010
+========================================================
+
+Guten Tag, Herr Gordon. Wie geht es Ihnen?
 Sehr gut, Frau Meier. Danke.
 Ah, Sie verstehen Deutsch!
 Nur ein bisschen.
-Sie sind Amerikaner?
-Ja.
+Sind Sie Amerikaner?
+Ja, Amerikaner.
 Aber Sie Verstehen sehr gut Deutsch.
 Nein, nein. Nicht sehr gut.
 ========================================================
-Es geht mir gut, danke.
-Es geht mir sehr gut.
-Nicht sehr gut.
-Es geht mir nicht sehr gut.
-========================== 4:34 ==============================
+03:37 Nicht sehr gut.
 /ameriˈkaːnərɪn/
-Sind Sie Amerikanerin?
-========================== 6:58 ==============================
+04:29 Sind Sie Amerikanerin?
 /bɪn/
-Ja. Ich bin Amerikaner.
-========================== 8:41 ==============================
+06:23 Ja. Ich ˈbin Amerikaner.
 /ˈdɔytʃɐ/
-Ich bin Deutscher.
-Ich bin kein Deutscher.
-ˈSind Sie Deutscher?
-
+07:57 Ich bin Deutscher.
 /ˈdɔytʃə/
-Ich bin Deutsche. 
-Ich bin keine Deutsche.
-========================== 11:32 ==============================
-/ʊnt/
-Ich bin Amerikaner. Und Sie?
-Sie sind Amerikanerin.
+08:20 Ich bin Deutsche.
+08:47 Sind Sie Deutscher?
+09:13 Sind Sie Deutsche?
 /ˈkainə/
-Sie sind keine Amerikanerin.
-Sie sind Amerikaner.
-========================== 14:06 ==============================
+09:44 Ich bin keine Deutsche.
+10:09 Ich bin kein Deutscher.
+/ʊnt/
+10:37 Und Sie?
+11:11 Ich bin Amerikaner. Und Sie?
+11:18 Ich bin Amerikanerin. Und Sie?
+11:30 Sie sind Amerikanerin.
+11:42 Sie sind Amerikaner.
+11:52 Sie sind keine Amerikanerin.
+12:16 Sie sind kein Amerikaner.
 /ˈaːbɐ/
-aber
-Aber ich verstehe ein bisschen Deutsch.
-Ich verstehe nicht sehr gut.
-========================= 16:19 ==============================
+12:56 aber
+13:41 Aber ich verstehe Deutsch.
+14:38 Ich verstehe nicht sehr gut.
 /ˈbɪtə/
-bitte
-Verstehen Sie nur Deutsch?
-Wie geht es Ihnen?
-Es geht mir gut.
-Nein, es geht mir nicht gut.
-Es geht mir nicht sehr gut.
-Geht es Ihnen gut?
-Ja, ja!
-Es geht mir gut, danke.
-========================== 22:00 ==============================
+14:44 bitte
+18:01 Verstehen Sie nur Deutsch?
+18:12 Wie geht es Ihnen?
+18:21 Es geht mir gut.
+18:34 Nein, es geht mir nicht gut.
+18:51 Es geht mir nicht sehr gut.
+19:03 Geht es Ihnen gut?
+19:52 Ja, ja!
+========================== 20:00 ==============================
 Entschuldigen Sie?
 Ja.
 Guten Tag, Frau Meier.
@@ -61,10 +58,9 @@ Entschuldigen Sie?
 Ja?
 Verstehen Sie Englisch?
 Nein, Herr Gordon. Ich verstehe kein Englisch. Sind Sie Amerikaner?
-Ja, ich bin Amerikaner. Aber ich verstehe Deutsch. Nur ein bisschen. Nicht sehr gut.
+Ja, ich bin Amerikaner. Aber ich verstehe Deutsch. Ein bisschen. Nicht sehr gut.
 Aber Sie verstehen sehr gut Deutsch.
 Nein, nein.
-========================== 25:31 ==============================
 ?Aber Sie sprechen sehr gut Deutsh.
 Entschuldigen Sie. Ich verstehe nicht.
 /ˈʃprɛçən/
