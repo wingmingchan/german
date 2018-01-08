@@ -10,7 +10,7 @@ Ich möchte jetzt etwas essen. Möchten Sie mit mir essen?
 Ja. Aber wo? Im Restaurant Zum Bären?
 Wo ist das Restaurant Zum Bären?
 In der Beethovenstrße.
-Ah ja. Ich weiß wo es ist.
+Ah ja. Ich weiß wo das ist.
 Und möchten Sie ein bisschen Wein trinken?
 Ja, gut. Ich auch.
 ========================================================
