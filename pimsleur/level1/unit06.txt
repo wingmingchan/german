@@ -1,48 +1,40 @@
-﻿Guten Tag, Brigitta.
-Guten Tag, Günther. Wie geht es Ihnen?
+﻿========================================================
+2nd Edition, 2010
+========================================================
+
+Guten Tag, Brigette.
+Guten Tag, Güntter. Wie geht es Ihnen?
 Gut, danke. Aber ich möchte etwas essen. Sie auch?
 Nein. Ich möchte etwas trinken.
 Wo? Am Opernplatz?
 Ja, gut.
-========================= 6:45 ===============================
+========================= 6:54 ===============================
 Möchten Sie etwas essen?
-07:09 Wo möchten Sie essen?
-07:23 Bei mir.
-08:04 Bei Ihnen.
-08:30 Ich auch.
-09:23 Ich möchte auch essen.
-========================= 9:53 ===============================
-/van/
-09:57 Wann?
-10:18 Ich weiß es nicht.
-/jɛʦt/
-10:47 jetzt
-11:18 Möchten Sie etwas essen?
-11:28 Wann möchten Sie essen?
-11:49 Wann möchten Sie etwas essen?
-12:49 Möchten Sie jetzt essen?
-13:03 Möchten Sie jetzt etwas essen?
-13:32 Nein, nicht jetzt.
-/ˈʃpɛːtɐr/
-13:45 Später.
-14:38 Sie wissen es nicht?
-16:00 Wo möchten Sie essen?
-16:27 Und wann möchten Sie etwas trinken?
-18:48 Nein, nicht bei mir.
-========================= 18:56 ===============================
-/am/
-19:00 am Opernplatz
-19:22 Nicht bei mir?
-20:20 Ich möchte auch etwas trinken.
-21:03 Ja, ich auch.
-22:15 Möchten Sie etwas bei mir trinken?
-========================= 22:37 ===============================
-/ˈɡɛrnə/
-22:41 gerne
-23:17 Aber ich möchte auch etwas essen.
-23:51 Ich möchte später essen.
-24:07 Wo? Am Opernplatz?
-========================================================
-subject + möchten + time + object + location + verb
-Ich möchte jetzt Bier im Restaurant am Opernplatz trinken.
-Ich möchte später essen im Restaurant.
+Wo möchten Sie essen?
+Bei mir.
+Bei Ihnen.
+Ich auch.
+Ich möchte auch essen.
+========================= 9:57 ===============================
+Wann? /van/
+Ich weiß es nicht.
+Sie wissen es nicht.
+jetzt /jɛʦt/
+Wann möchten Sie essen?
+Möchten Sie jetzt essen?
+Möchten Sie jetzt etwas essen?
+Nein, nicht jetzt.
+Später. /ˈʃpɛːtɐr/
+Und wann möchten Sie etwas trinken?
+Nein, nicht bei mir.
+========================= 19:01 ===============================
+am /am/
+Ich möchte auch etwas trinken.
+Ja, ich auch.
+Möchten Sie etwas bei mir trinken?
+========================= 22:41 ===============================
+gerne /ˈɡɛrnə/
+Aber ich möchte auch etwas essen.
+Ich möchte später essen.
+Wo? Am Opernplatz?
+Gut.
