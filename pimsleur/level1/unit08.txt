@@ -10,75 +10,84 @@ Ja, gut. Was Möchten Sie trinken?
 Ich möchte Wein trinken. Nein, nein. Ich trinke ein Bier.
 Ich auch. Ich möchte auch ein Bier trinken.
 Entschuldigen Sie. Zwei Bier bitte. Wie bitte? Essen? Nein. Jetzt nicht. Später.
-========================= 1:30 ===============================
-Möchten Sie jetzt essen?
-Ja, gerne.
-Möchten Sie jetzt etwas essen?
-Wo möchten Sie essen?
-Nein. Bei Ihnen.
-Möchten Sie jetzt etwas trinken?
+========================================================
+01:20 Möchten Sie jetzt essen?
+01:33 Ja, gerne.
+01:48 Möchten Sie jetzt essen?
+02:25 Wo möchten Sie essen?
+02:37 Im Restaurant?
+02:49 Nein. Bei Ihnen.
+03:01 Ich auch.
+03:11 Aber später.
+03:25 Möchten Sie jetzt etwas trinken?
+03:40 Was möchten Sie trinken?
 Möchten Sie etwas trinken?
-Was möchten Sie trinken?
-Wann möchten Sie etwas trinken?
-Möchten Sie Bier trinken?
-Ein Bier
-Das Bier ist gut.
-Möchten Sie ein Bier trinken?
-Zwei Bier bitte
-========================= 8:12 ===============================
+04:33 Wann möchten Sie etwas trinken?
+05:16 Möchten Sie Bier trinken?
+05:27 Ein Bier
+05:58 Das Bier ist gut.
+06:21 Möchten Sie ein Bier trinken?
+06:37 Zwei Bier bitte
+========================================================
 /ˈoːdɐ/
-oder
-Möchten Sie ein Bier? Oder Wein?
-Ich möchte Wein trinken.
-Kein Bier.
-Ich möchte kein Bier.
-Sie auch?
-Ich möchte ein Bier trinken.
-Wein oder Bier?
-Ich weiß es nicht.
-========================= 13:24 ===============================
+07:14 oder
+07:27 Möchten Sie ein Bier?
+07:41 Oder Wein?
+07:55 Ich möchte Wein trinken.
+08:44 Kein Bier.
+09:00 Ich möchte kein Bier.
+10:12 Sie auch?
+10:28 Ich möchte ein Bier trinken.
+11:02 Wein oder Bier?
+11:14 Ich weiß es nicht.
+========================================================
 /ˈmaxən/
-Was möchten Sie machen?
+12:16 Was möchten Sie machen?
 /hoˈtɛl/
-Im Hotel.
-das Hotel
-Im Restaurant.
-========================= 15:18 ===============================
+13:08 Im Hotel.
+13:18 das Hotel
+13:48 Im Restaurant.
+========================================================
 /ˈkaufən/
-Ich möchte etwas kaufen.
-Was möchten Sie kaufen?
-========================= 16:54 ===============================
+14:15 Ich möchte etwas kaufen.
+14:57 Was möchten Sie kaufen?
+========================================================
 /veːm/
-mit wem
-Mit Ihnen.
-Mit Mir? Ja, mit Ihnen.
-========================= 19:35 ===============================
-Guten Tag.
-Guten Tag. Wie geht es Ihnen?
-Gut, danke. Es geht mir gut.
-
-Was möchten Sie jetzt machen?
-Ich weiß es nicht. Und Sie? Möchten Sie jetzt etwas trinken?
-Ja, ich möchte jetzt etwas trinken. Möchten Sie etwas mit mir trinken?
-Ja, gerne. Aber wann?
-Jetzt. Wo? Im Hotel?
-Nein, nicht im Hotel. Im Restaurant Zum Löwen.
-Ja, gut. Wo ist das Restaurant Zum Löwen?
-Ich weiß es nicht. Wissen Sie wo das Restaurant ist?
-Nein. Ich weiß es nicht. Ich weiß es auch nicht.
-Doch! Ich weiß es. In der Goethestraße.
-Was möchten Sie trinken? Wein oder Bier?
-Ich möchte Wein trinken.
-Möchten Sie auch ein Bier trinken?
-Nein. Aber ich möchte etwas essen. Sie auch?
-Ja, ich auch. Ich möchte auch etwas essen. 
-Aber nicht jetzt. Ich möchte später essen.
+15:51 mit wem
+16:43 Mit Ihnen.
+18:07 Mit Mir? Ja, mit Ihnen.
+========================================================
+18:34 Guten Tag.
+18:40 Guten Tag. Wie geht es Ihnen?
+18:45 Gut, danke. Es geht mir gut.
+18:56 Was möchten Sie jetzt machen?
+19:05 Ich weiß es nicht. Und Sie? Möchten Sie jetzt etwas trinken?
+19:16 Ja, ich möchte jetzt etwas trinken. 
+19:29 Möchten Sie etwas mit mir trinken?
+19:40 Ja, gerne. Aber wann?
+19:46 Jetzt.
+19:55 Wo? Im Hotel?
+19:58 Nein, nicht im Hotel. Im Restaurant Zum Löwen, bitte.
+20:08 Ja, gut. 
+20:19 Wo ist das Restaurant Zum Löwen?
+20:29 Ich weiß es nicht. Wissen Sie wo das Restaurant ist?
+20:38 Nein. Ich weiß es auch nicht.
+20:53 Doch! Ich weiß es.
+21:02 In der Goethestraße.
+21:20 Was möchten Sie trinken? Wein oder Bier?
+21:27 Ich möchte Wein trinken.
+21:37 Möchten Sie auch ein Bier trinken?
+21:48 Nein, nein. Aber ich möchte etwas essen. Sie auch?
+21:58 Ja, ich auch. Ich möchte auch etwas essen. 
+22:14 Aber nicht jetzt. Ich möchte später essen.
 (Ich möchte ein bisschen später essen.)
-Ein bisschen später?
-Ja, ein bisschen später. Ich möchte jetzt etwas kaufen.
-Was möchten Sie kaufen?
-Wein oder Bier? Und ich möchte mit Ihnen essen.
-Ich auch. Ich möchte auch mit Ihnen essen.
+22:27 Ein bisschen später?
+22:34 Ja, ein bisschen später.
+22:49 Ich möchte jetzt etwas kaufen.
+23:00 Was möchten Sie kaufen?
+23:08 Wein oder Bier?
+23:24 Und ich möchte mit Ihnen essen.
+23:29 Ich auch. Ich möchte auch mit Ihnen essen.
 ========================================================
 haben
 Ich kenne eine Frau, die sieben Kinder hat.
