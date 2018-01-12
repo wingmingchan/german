@@ -74,7 +74,7 @@ Guten Tag.
 20:49 Nein. Nicht um acht Uhr. Um neun Uhr.
 20:56 Um neun Uhr geht das nicht. Möchten Sie um zwei Uhr essen?
 21:07 Nein. Nicht um zwei Uhr. Um drei Uhr.
-21:22 Um drei Uhr? Nein. Das geht nicht. Geht das Um vier?
+21:22 Um drei Uhr? Nein. Das geht nicht. Geht das um vier?
 21:33 Nein, nicht um vier Uhr. Um fünf Uhr.
 21:50 Nein. Nicht um fünf Uhr. Das geht nicht.
 22:01 Wann möchten Sie etwas essen?
