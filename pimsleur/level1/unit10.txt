@@ -45,7 +45,7 @@ Hören Sie noch einmal zu
 08:53 Es ist fünf Uhr.
 09:31 Es ist drei Uhr.
 10:08 Es ist vier Uhr.
-11:15 Ist es vier Uhr?
+11:15 Ist es vier Uhr? /istɛs/
 11:38 Nein. Es ist drei Uhr.
 11:53 Es ist acht Uhr.
 13:50 Viel später.
@@ -80,11 +80,12 @@ Guten Tag.
 22:01 Wann möchten Sie etwas essen?
 22:06 Ich weiß nicht wann.
 22:17 Möchten Sie etwas essen? Ja oder nein?
-22:31 Ja, ich möchte etwas essen. Ab er wann?
+22:31 Ja, ich möchte etwas essen. Aber wann?
 22:41 Ich esse jetzt. 
 22:55 Essen Sie mit mir?
 23:07 Ja, sicher. 
 23:20 Ich esse mit Ihnen.
+23:32 Aber wann?
 23:36 Später. Viel später.
 ========================================================
 Reading
