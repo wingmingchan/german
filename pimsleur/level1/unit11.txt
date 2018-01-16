@@ -19,50 +19,109 @@ Ich möchte nicht mit Ihnen essen.
 
 Hören Sie noch einmal zu
 ========================================================
-Wie viel Uhr ist es?
-Ich weiß es nicht.
-Doch! Ich weiß es.
-Es ist drei Uhr.
-Wie viel Uhr ist es?
-Es ist fünf Uhr.
-Möchten Sie jetzt essen?
-Essen Sie jetzt?
-Nein. Ich esse später.
-Um acht Uhr.
-Ich trinke Wein.
-Später. Viel später.
-Um neun Uhr.
-Um wie viel Uhr?
-Wie viel Uhr ist es jetzt?
-Es ist jetzt vier Uhr.
-Ich esse später.
-Möchten Sie mit mir essen?
-Gerne. Wann?
-Wo?
-Wann? Jetzt?
-Nein, nein. Nicht jetzt.
-Sicher nicht jetzt.
+01:10 Wie viel Uhr ist es?
+01:22 Ich weiß es nicht.
+01:31 Doch! Ich weiß es.
+01:39 Es ist drei Uhr.
+01:49 Wie viel Uhr ist es?
+01:57 Es ist fünf Uhr.
+02:08 Möchten Sie jetzt etwas essen?
+02:23 Essen Sie jetzt?
+02:37 Nein. Ich esse später.
+02:45 Um acht Uhr.
+02:53 Ich trinke Wein.
+03:07 Später. Viel später.
+03:16 Um neun Uhr.
+03:24 Um wie viel Uhr?
+03:38 Wie viel Uhr ist es jetzt?
+03:56 Es ist jetzt vier Uhr.
+04:11 Ich esse später.
+04:22 Möchten Sie mit mir etwas essen?
+04:40 Gerne. Wann?
+04:49 Wo?
+04:58 Wann? Jetzt?
+05:08 Nein, nein. Nicht jetzt.
+05:17 Sicher nicht jetzt.
 /zɛks/
-Hören Sie zu und wiederholen Sie
-Um sechs Uhr.
-/ˈziːbən/
-Oder um sieben Uhr.
-Nicht um sechs Uhr.
-Später.
-Sehr gut.
-Also dann um sieben Uhr.
-Heute Abend
-Ich esse mit Ihnen.
+05:27 Hören Sie zu und wiederholen Sie
+05:44 Um sechs Uhr.
+/ˈz:iːbən/
+06:20 Oder um sieben Uhr.
+07:05 Nicht um sechs Uhr.
+07:16 Später.
+07:23 Sehr gut.
+07:31 Also dann um sieben Uhr.
+08:32 Heute Abend
+09:11 Ich esse mit Ihnen.
 
-Hören Sie nur zu
-
-Ich möchte heute Abend mit Ihnen essen.
-Also dann um sieben Uhr. Geht das?
+09:22 Hören Sie nur zu
+09:24 Ich möchte heute Abend mit Ihnen essen.
+10:25 Also dann um sieben Uhr.
+10:33 Geht das?
 /ʦeːn/
-Um zehn Uhr.
-heute Abend
-Ich esse heute Abend um zehn Uhr.
-Um wie viel Uhr heute Abend?
-Ich esse heute Abend um zehn Uhr.
+10:41 Um zehn Uhr.
+11:12 heute Abend
+11:25 Ich esse heute Abend um zehn Uhr.
+11:46 Um wie viel Uhr heute Abend?
+11:57 Ich esse heute Abend um zehn Uhr.
 /ˈmɔrɡən/
-morgen
+12:07 morgen
+12:20 Und morgen?
+12:38 Ich esse morgen mit Ihnen.
+12:54 Morgen um vier Uhr.
+13:08 Nein. Um sechs Uhr oder um sieben Uhr.
+13:28 Nicht um neun Uhr.
+13:43 Also dann
+13:58 Also dann, um zehn Uhr.
+14:11 Morgen
+14:19 heute Abend
+14:41 Morgen Abend
+14:57 Morgen Abend um sieben Uhr.
+15:09 Nein. Um zehn Uhr.
+15:22 heute
+15:35 Hören Sie zu
+15:49 Wiederholen Sie
+16:04 heute
+16:11 morgen
+16:18 morgen Abend
+16:26 heute Abend
+16:48 Möchten Sie heute mit mir essen?
+17:08 Nicht heute. Morgen.
+17:24 Um wie viel Uhr?
+17:38 Um sechs Uhr oder um sieben Uhr.
+17:57 Ich esse jetzt.
+18:07 heute und morgen auch
+18:24 Wie viel Uhr ist es jetzt?
+18:40 Es ist zehn Uhr.
+18:54 Ich möchte heute Abend mit Ihnen essen.
+19:09 Nicht heute Abend. Morgen Abend.
+19:29 Nicht jetzt. Später.
+19:39 Nicht heute. Morgen.
+19:53 Also dann, um acht Uhr bei mir.
+20:09 Gut.
+========================================================
+20:14 Jetzt ein Gespräch mit dem Herrn
+
+20:30 Wie geht es Ihnen?
+20:38 Gut, danke.
+20:47 Was möchten Sie machen?
+20:56 Wann? Jetzt?
+21:08 Was möchten Sie heute Abend machen?
+21:14 Ich weiß es nicht. Was möchten Sie machen?
+21:26 Möchten Sie etwas bei mir trinken?
+21:38 Vielen Dank. Aber heute Abend geht das nicht.
+21:49 Also dann morgen Abend?
+21:54 Ja, morgen Abend geht das.
+22:03 Um wie viel Uhr essen Sie heute Abend?
+22:16 Um sechs Uhr. Ich esse heute Abend um sechs Uhr.
+22:31 Und morgen?
+22:37 Um sieben Uhr. Ich esse morgen um sieben Uhr.
+22:50 Um wie viel Uhr möchten Sie bei mir etwas trinken?
+23:01 Um zehn Uhr. Ich möchte um zehn Uhr bei Ihnen etwas trinken.
+23:17 Was möchten Sie trinken?
+23:24 Ich möchte Wein trinken. Bier bitte. Kaffee bitte.
+23:42 Wie bitte?
+24:12 Bitte, wiederholen Sie.
+24:22 Gut. Aber hören Sie zu.
+24:37 Bis morgen.
+Bis morgen.
