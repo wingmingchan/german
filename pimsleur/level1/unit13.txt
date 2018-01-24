@@ -62,7 +62,7 @@ Bis heute Abend Günther.
 12:52 Nein. Ich habe dreizehn Mark.
 13:06 Aber ich habe fünfzehn Dollar.
 13:14 Sie haben keine sechzehn Dollar?
-13:41 Nein. I habe keine sechzehn Dollar
+13:41 Nein. Ich habe keine sechzehn Dollar
 13:59 Wie viel schulde ich Ihnen?
 14:09 Sie schulden mir
 14:24 fünfzehn Mark
@@ -101,7 +101,7 @@ mit der Verkäuferin
 20:00 Fünfzehn Mark. Ich schulde Ihnen fünfzehn Mark.
 20:10 Ja, fünfzehn Mark. Und eine Mark.
 20:15 Sechzehn Mark. Ich schulde Ihnen sechzehn Mark.
-20:24 Gut. Sie schulden sechzehn Mark. Haben Sie sechzehn Mark?
+20:24 Gut. Sie schulden mir sechzehn Mark. Haben Sie sechzehn Mark?
 20:35 Ich habe keine D-Mark.
 20:54 Und in Dollar?
 21:01 Wie viele Dollar haben Sie?
@@ -131,3 +131,6 @@ mit der Verkäuferin
 24:47 Hier bitte. Hier sind fünf Bier.
 ========================================================
 Bar, die: mit Freunden in eine Bar gehen
+Wie viele Euro haben Sie?
+Ich habe keine Euro
+einen Euro
