@@ -9,7 +9,7 @@ Ah, Sie sind's, Brigitte. Guten Tag. Hier ist Günther.
 Guten Tag Günther. Wie geht es Ihnen?
 Gut, danke. Sagen Sie Brigitte, möchten Sie heute Abend mit mir essen?
 Das geht nicht, Günther. Ich esse heute Abend mit Eriker.
-Aber möchten Sie später etwas bei mir trinken?
+Aber möchten Sie später bei mir etwas trinken?
 Ja, gerne. Um wie viel Uhr?
 Um neun Uhr? Oder später? Um zehn Uhr? Geht das?
 Ja. Das geht. Um zehn Uhr bei Ihnen. Auf Wiederhören, Brigitte!
@@ -132,5 +132,5 @@ mit der Verkäuferin
 ========================================================
 Bar, die: mit Freunden in eine Bar gehen
 Wie viele Euro haben Sie?
-Ich habe keine Euro
+Ich habe keine Euro (not keinen)
 einen Euro
