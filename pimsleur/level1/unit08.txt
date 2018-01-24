@@ -24,7 +24,7 @@ Entschuldigen Sie. Zwei Bier bitte. Wie bitte? Essen? Nein. Jetzt nicht. Später
 Möchten Sie etwas trinken?
 04:33 Wann möchten Sie etwas trinken?
 05:16 Möchten Sie Bier trinken?
-05:27 Ein Bier
+05:27 Ein Bier, das Bier
 05:58 Das Bier ist gut.
 06:21 Möchten Sie ein Bier trinken?
 06:37 Zwei Bier bitte
@@ -37,12 +37,14 @@ Möchten Sie etwas trinken?
 08:44 Kein Bier.
 09:00 Ich möchte kein Bier.
 10:12 Sie auch?
-10:28 Ich möchte ein Bier trinken.
+10:29 Ich möchte ein Bier trinken.
+10:48 Zwei Bier bitte.
 11:02 Wein oder Bier?
 11:14 Ich weiß es nicht.
 ========================================================
 /ˈmaxən/
 12:16 Was möchten Sie machen?
+12:21 machen
 /hoˈtɛl/
 13:08 Im Hotel.
 13:18 das Hotel
@@ -50,22 +52,24 @@ Möchten Sie etwas trinken?
 ========================================================
 /ˈkaufən/
 14:15 Ich möchte etwas kaufen.
+14:20 kaufen
 14:57 Was möchten Sie kaufen?
 ========================================================
 /veːm/
 15:51 mit wem
+15:57 wem
 16:43 Mit Ihnen.
 18:07 Mit Mir? Ja, mit Ihnen.
 ========================================================
 18:34 Guten Tag.
 18:40 Guten Tag. Wie geht es Ihnen?
-18:45 Gut, danke. Es geht mir gut.
+18:45 Sehr gut, danke.
 18:56 Was möchten Sie jetzt machen?
 19:05 Ich weiß es nicht. Und Sie? Möchten Sie jetzt etwas trinken?
 19:16 Ja, ich möchte jetzt etwas trinken. 
-19:29 Möchten Sie etwas mit mir trinken?
+19:29 Möchten Sie mit mir etwas trinken?
 19:40 Ja, gerne. Aber wann?
-19:46 Jetzt.
+19:45 Jetzt.
 19:55 Wo? Im Hotel?
 19:58 Nein, nicht im Hotel. Im Restaurant Zum Löwen, bitte.
 20:08 Ja, gut. 
@@ -85,7 +89,7 @@ Möchten Sie etwas trinken?
 22:34 Ja, ein bisschen später.
 22:49 Ich möchte jetzt etwas kaufen.
 23:00 Was möchten Sie kaufen?
-23:08 Wein oder Bier?
+23:08 Wein oder Bier.
 23:24 Und ich möchte mit Ihnen essen.
 23:29 Ich auch. Ich möchte auch mit Ihnen essen.
 ========================================================
