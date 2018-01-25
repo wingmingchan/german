@@ -5,61 +5,63 @@
 Auf Wiedersehen, Günther! Bis später.
 Auf Wiedersehen? Wohin gehen Sie denn, Jean?
 Ich? Ich gehe etwas kaufen.
-Haben Sie Euro?
-Nein. Kein Euro. Aber ich habe ein paar Dollar.
+Haben Sie D-Mark?
+Nein. Keine D-Mark. Aber ich habe ein paar Dollar.
 Viele Dollar haben Sie?
 Vierzehn oder fünfzehn.
-Ich gebe Ihnen zehn Euro und fünf Dollar.
-Vielen Dank, Günther.
+Ich gebe Ihnen zehn Mark und fünf Dollar.
+Hier. Jetzt haben Sie zehn Mark und ... wie viele Dollar?
+Ich weiß es nicht. Aber ich habe jetzt viele Dollar. Vielen Dank, Günther.
 ========================================================
-Guten Abend.
-Wie bitte?
-Haben Sie ein paar Dollar?
-Haben Sie noch etwas Wein?
-Ich habe keinen Wein.
-Und kein Bier?
-Doch!
-Ich habe noch etwas Bier.
-ein Bier
-Also dann, geben Sie mir ein Bier.
-Hier sind zwei Dollar.
-Hier, bitte.
+01:20 Guten Abend.
+01:31 Wie bitte?
+01:44 Haben Sie ein paar Dollar?
+01:54 Haben Sie noch etwas Wein?
+02:04 Ich habe keinen Wein.
+02:19 Und kein Bier?
+02:31 Doch!
+02:42 Ich habe noch etwas Bier.
+02:59 Also dann, geben Sie mir ein Bier.
+03:16 ein Bier
+03:24 Hier sind fünf Dollar.
+03:43 Hier, bitte.
 /ˈfraːɡən/
-fragen Sie
-Haben Sie keine Euro?
-Ich habe auch ein paar Euro.
-Geben Sir mir siebzehn Euro.
-Wie viele? Achtzehn?
-Nein, sechzehn. Sechzehn Euro bitte.
-Hier sind fünfzehn Euro.
-Das sind vierzehn.
-Also dann, geben Sie mir einen Euro.
-Wie viel schulde ich Ihnen?
-Nicht viel.
-Das Bier ist für Sie.
-für mich?
-mit mir
-Ja, für Sie.
-Das Bier ist für Sie.
-Aber der Wein ist für Günther.
+03:46 fragen Sie: to ask
+03:55 Haben Sie keine D-Mark?
+04:11 Ich habe auch ein paar D-Mark.
+04:26 Geben Sir mir siebzehn Mark.
+04:40 Wie viele? Achtzehn?
+04:49 Nein, sechzehn. Sechzehn Mark bitte.
+05:03 Hier sind fünfzehn Mark.
+05:19 Das sind vierzehn.
+05:35 Also dann, geben Sie mir eine Mark.
+05:51 Wie viel schulde ich Ihnen?
+06:12 Nicht viel.
+06:22 Das Bier ist für Sie.
+06:48 für mich?
+07:09 mit mir
+07:45 Ja, für Sie.
+08:02 Das Bier ist für Sie.
+08:19 Aber der Wein ist für Günther.
 /ˈkɔstən/
-kosten 
-Wie viel kostet ein Bier?
-Ein Bier, einen Euro.
-Ein Bier kostet einen Euro.
-Und der Wein?
-Und der Wein kostet zwei Euro.
+kosten
+08:44 Wie viel kostet ein Bier?
+08:48 kostet
+09:14 Ein Bier, eine Mark.
+09:37 Ein Bier kostet eine Mark.
+09:45 Und der Wein?
+09:55 Der Wein kostet zwei Mark.
 geben Sir mir
-Geben Sir mir drei Euro.
+Geben Sir mir drei Mark.
 /ˈkœnən/
 können
 Ich kann
 Ich kann nicht.
 Sie können
 Können Sie?
-Können Sie mir drei Euro geben?
+Können Sie mir drei D-Mark geben?
 Wie viel kostet der Wein?
-Nur zwei Euro.
+Nur zwei D-Mark.
 Können Sie jetzt essen?
 Ja, ich kann.
 Ich kann nicht.
@@ -82,12 +84,12 @@ Ich kann nicht.
 Sie Können nicht?
 Ich habe keine Dollar.
 Ich habe keine.
-Also dann, geben Sie mir ein paar Euro.
+Also dann, geben Sie mir ein paar D-Mark.
 Ich kann nicht.
 Sie Können nicht?
 Ich kann.
 Aber ich möchte nicht.
-Sie haben Euro.
+Sie haben D-Mark.
 Aber ich möchte keine.
 
 machen
@@ -126,9 +128,9 @@ Ja, gerne.
 Können Sie Wein für mich kaufen?
 Ja. Ich kann Wein für Sie kaufen.
 Ja. Ich kann Wein kaufen.
-Haben Sie Euro?
-Ja. Ich habe Euro.
-Ja. Ich habe ein paar Euro.
+Haben Sie D-Mark?
+Ja. Ich habe D-Mark.
+Ja. Ich habe ein paar D-Mark.
 Viele?
 Ja. Ich habe viele.
 Ja. Viele.
@@ -138,4 +140,3 @@ Also dann können Sie viel Wien kaufen!
 Ja. Ich kann viel Wien kaufen.
 Ja. Ich kann.
 Ja. Dann können Sie mit mir essen.
-
