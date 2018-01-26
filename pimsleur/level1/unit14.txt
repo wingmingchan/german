@@ -18,14 +18,14 @@ Ah, jetzt verstehe ich! Hier bitte. Hier sind acht Mark. Vielen Dank.
 01:20 Hier sind dreizehn Mark
 01:34 Ich möchte zwölf Mark
 01:46 Hier sind vierzehn Mark
-01:59 Haben Sie eine Mark?
-02:08 Möchten Sie eine Mark?
+01:59 Haben Sie eine Mark/einen Euro?
+02:08 Möchten Sie eine Mark/einen Euro?
 02:22 Ich möchte sechzehn Mark.
-02:35 Fünfzehn oder sechzehn Mark
+02:35 Fünfzehn oder sechzehn Mark?
 02:46 Wie viele Dollar haben Sie?
 03:05 Ich habe keine Dollar
-03:36 Ich habe D-Mark
-03:51 viele D-Mark
+03:36 Ich habe D-Mark/Euro
+03:51 viele D-Mark/Euro
 04:08 Aber ich habe keine Dollar
 04:24 Sie haben keine Dollar?
 04:39 Sie sind kein Amerikaner.
@@ -132,3 +132,7 @@ Liest du gerne/viel?
 /ˈarbaitən/
 arbeiten
 Sie arbeitet bei einer Zeitung.
+
+Ich habe keinen Euro/Dollar
+Ich habe einen Dollar
+Ich habe keine fünfzehn Euro
