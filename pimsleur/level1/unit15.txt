@@ -51,92 +51,90 @@ kosten
 09:37 Ein Bier kostet eine Mark.
 09:45 Und der Wein?
 09:55 Der Wein kostet zwei Mark.
-geben Sir mir
-Geben Sir mir drei Mark.
+10:10 geben Sir mir
+10:19 Geben Sir mir drei Mark.
 /ˈkœnən/
 können
-Ich kann
-Ich kann nicht.
-Sie können
-Können Sie?
-Können Sie mir drei D-Mark geben?
-Wie viel kostet der Wein?
-Nur zwei D-Mark.
-Können Sie jetzt essen?
-Ja, ich kann.
-Ich kann nicht.
-Ich möchte nicht.
-Haben Sie Wein?
-Ja. Ich habe noch etwas Wein.
-Sie haben keinen Wein.
-Sie haben keinen Wein?
-Doch! Ich habe noch etwas Wein.
-Haben Sie auch Bier?
-Ja. Ich habe noch etwas Bier.
-Ich habe kein Bier.
-Haben Sie Dollar?
-Ich habe noch Dollar.
-Ich habe noch ein paar Dollar.
-Viele Dollar.
-Nein, ich habe keine.
-Geben Sie mir ein paar Dollar?
-Ich kann nicht.
-Sie Können nicht?
-Ich habe keine Dollar.
-Ich habe keine.
-Also dann, geben Sie mir ein paar D-Mark.
-Ich kann nicht.
-Sie Können nicht?
-Ich kann.
-Aber ich möchte nicht.
-Sie haben D-Mark.
-Aber ich möchte keine.
+10:26 Ich kann nicht.
+10:41 Ich kann
+10:57 Sie können
+11:12 Können Sie?
+11:28 Können Sie mir drei Mark geben?
+11:46 Wie viel kostet der Wein?
+11:55 Nur zwei D-Mark.
+12:04 Können Sie jetzt essen?
+12:17 Ja, ich kann.
+12:25 Ich kann nicht.
+12:32 Ich möchte nicht.
+12:47 Haben Sie Wein?
+13:00 Ja. Ich habe noch etwas Wein.
+13:13 Sie haben keinen Wein.
+13:37 Sie haben keinen Wein?
+13:56 Doch! Ich habe noch etwas Wein.
+14:16 Haben Sie auch Bier?
+14:30 Ja. Ich habe noch etwas Bier.
+14:42 Ich habe kein Bier.
+14:55 Haben Sie Dollar?
+15:11 Ich habe noch Dollar.
+15:26 Ich habe noch ein paar Dollar.
+15:35 Viele Dollar.
+15:46 Nein, ich habe keine.
+16:03 Geben Sie mir ein paar Dollar?
+16:15 Ich kann nicht.
+16:28 Sie Können nicht?
+16:41 Ich habe keine Dollar.
+16:49 Ich habe keine.
+17:05 Also dann, geben Sie mir ein paar D-Mark.
+17:22 Ich kann nicht.
+17:30 Sie Können nicht?
+17:42 Ich kann.
+17:53 Aber ich möchte nicht.
+18:07 Sie haben D-Mark.
+18:18 Aber ich möchte keine.
 
 machen
-Zwei und zwei macht wie viel? Vier.
-Eins und zwei macht wie viel? Drei.
-Zwei und drei macht wie viel? Fünf.
-Vier und vier macht wie viel? Acht.
-Vier und zwei macht wie viel? Sechs.
-Drei und vier macht wie viel? Sieben.
-Sechs und drei macht wie viel? Neun.
-Neun und eins macht wie viel? Zehn.
-Sechs und sieben macht wie viel? Dreizehn.
-Dreizehn und zwei macht wie viel? Fünfzehn.
-Acht und vier macht wie viel? Zwölf.
-Dreizehn und drei macht wie viel? Sechzehn.
-Fünfzehn und zwei macht wie viel? Siebzehn.
-Siebzehn und zwei macht wie viel? Neunzehn.
-Vielen Dank.
+18:38 Zwei und zwei macht wie viel? Vier.
+19:13 Eins und zwei macht wie viel? Drei.
+19:21 Zwei und drei macht wie viel? Fünf.
+19:28 Vier und vier macht wie viel? Acht.
+19:34 Vier und zwei macht wie viel? Sechs.
+19:40 Drei und vier macht wie viel? Sieben.
+19:46 Sechs und drei macht wie viel? Neun.
+19:52 Neun und eins macht wie viel? Zehn.
+19:58 Sechs und sieben macht wie viel? Dreizehn.
+20:06 Dreizehn und zwei macht wie viel? Fünfzehn.
+20:14 Acht und vier macht wie viel? Zwölf.
+20:21 Dreizehn und drei macht wie viel? Sechzehn.
+20:28 Fünfzehn und zwei macht wie viel? Siebzehn.
+20:36 Siebzehn und zwei macht wie viel? Neunzehn.
+20:43 Vielen Dank.
 ========================================================
-Jetzt ein Gespräch mit der Frau
+20:47 Jetzt ein Gespräch mit der Frau
 
-Guten Tag. Geht es Ihnen gut?
-Ja. Es geht mir gut.
-Ja. Sehr gut.
-Möchten Sie mit mir essen?
-Ja. Ich möchte mit Ihnen essen.
-Ja, gerne.
-Wann? Geht es heute Abend?
-Ja. Es geht.
-Ja. Es geht heute Abend.
-Können Sie um sieben Uhr?
-Ja. Ich kann um sieben Uhr.
-Können Sie etwas für mich machen?
-Ja. Ich kann etwas für Sie machen.
-Ja, gerne.
-Können Sie Wein für mich kaufen?
-Ja. Ich kann Wein für Sie kaufen.
-Ja. Ich kann Wein kaufen.
-Haben Sie D-Mark?
-Ja. Ich habe D-Mark.
-Ja. Ich habe ein paar D-Mark.
-Viele?
-Ja. Ich habe viele.
-Ja. Viele.
-Und haben Sie auch Dollar?
-Ja. Ich habe auch Dollar.
-Also dann können Sie viel Wien kaufen!
-Ja. Ich kann viel Wien kaufen.
-Ja. Ich kann.
-Ja. Dann können Sie mit mir essen.
+20:53 Guten Tag. Geht es Ihnen gut?
+20:58 Ja. Sehr gut.
+21:02 Ja. Es geht mir gut.
+21:06 Möchten Sie mit mir essen?
+21:10 Ja, gerne.
+21:15 Ja. Ich möchte mit Ihnen essen.
+21:19 Wann? Geht es heute Abend?
+21:26 Ja. Es geht heute Abend.
+21:34 Können Sie um sieben Uhr?
+21:40 Ja. Ich kann um sieben Uhr.
+21:49 Können Sie etwas für mich machen?
+21:54 Ja, gerne.
+21:56 Ja. Ich kann etwas für Sie machen.
+22:02 Können Sie Wein für mich kaufen?
+22:11 Ja. Ich kann Wein kaufen.
+22:16 Ja. Ich kann Wein für Sie kaufen.
+22:20 Haben Sie D-Mark?
+22:26 Ja. Ich habe ein paar.
+22:31 Ja. Ich habe ein paar D-Mark.
+22:35 Viele?
+22:38 Ja. Viele.
+22:42 Und haben Sie auch Dollar?
+22:47 Ja. Ich habe auch Dollar.
+22:56 Also dann können Sie viel Wien kaufen!
+23:04 Ja. Ich kann viel Wien kaufen.
+23:09 Ja. Ich kann.
+23:12 Ja. Dann können Sie mit mir essen.
