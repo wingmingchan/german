@@ -5,7 +5,7 @@
 Hören Sie diesem Telefongespräch zu. Brigitte spricht mit Karl.
 
 Hallo, Karl. Sie sind's. Guten Abend.
-Guten Abend, Brigitte. Wie geht?
+Guten Abend, Brigitte. Wie geht's?
 Gut, danke. Sagen Sie Karl, möchten Sie mit mir essen?
 Gerne. Wann?
 Morgen Abend. Geht das um sieben Uhr?
@@ -105,17 +105,18 @@ Antworten Sie auf die Fragen.
 18:49 Dreiunddreißig und zehn macht wie viel? Dreiundvierzig.
 19:02 Fünfunzwanzig und elf macht wie viel? Sechsunddreißig.
 
-Hey hören sie auf. Das ist genug. Jetzt sprachen Sie mit dem Herrn.
+Hey hören sie auf. Das ist genug.
+Jetzt sprachen Sie mit dem Herrn.
 
 19:47 Entschuldigen Sie. Haben Sie noch Geld?
 19:54 Ja. Ich habe noch Geld.
 19:59 Haben Sie noch viel Geld?
 20:05 Ja. Ich habe noch viel Geld.
-20:11 Haben Sie ein paar Mark?
-20:17 Ja. Ich habe ein paar Mark.
+20:11 Haben Sie ein paar Dollar?
+20:17 Ja. Ich habe ein paar Dollar.
 20:22 Möchten Sie jetzt etwas machen?
 20:29 Ja. Ich möchte jetzt etwas machen.
-20:39 Ich trinke ein Bier. Möchten Sie ein Bier mit mir trinken?
+20:39 Ich trinke Bier. Möchten Sie ein Bier mit mir trinken?
 20:49 Ja. Ich möchte ein Bier mit Ihnen trinken.
 21:02 Aber ich habe kein Bier hier. Können Sie noch etwas Bier für mich kaufen?
 21:13 Ja. Ich kann noch etwas Bier für Sie kaufen.
