@@ -32,11 +32,12 @@ Ah, das ist interessant.
 02:59 Ich weiß nicht wo er ist.
 03:14 Wo ist ihre Frau?
 03:26 Sie ist im Restaurant.
-03:37 Is ihr Mann auch im Restaurant?
+03:37 Ist ihr Mann auch im Restaurant?
 03:54 Nein, nein. Mein Mann ist nicht hier in Deutschland.
 04:04 Wo ist er denn?
-04:23 Er ist in Amerika.
-04:40 Wir wohnen in Amerika.
+04:22 Er ist in Amerika.
+04:39 Wir wohnen in Amerika.
+
 /ˈkɪndɐ/
 04:52 Haben Sie Kinder?
 04:57 die Kinder
@@ -126,6 +127,7 @@ zwei Töchter
 19:54 Sie verstehen sehr gut Deutsch.
 20:02 Nein. Nicht sehr gut. Aber vielen Dank.
 ========================================================
+
 ========================================================
 denn /dɛn/: used to intensify a question and usually not translated
 einen Jungen but der Junge
