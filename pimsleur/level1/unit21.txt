@@ -147,3 +147,9 @@ unsere kleine Tochter
 unsere kleinen Töchter
 unser kleiner Sohn
 unsere kleinen Söhne
+
+Both Junge and Sohn are masculine. But:
+einen Sohn, ein Junge
+Wie haben einen Jungen.
+Wie haben einen Sohn.
+Wir haben keine Jungen/Söhne
