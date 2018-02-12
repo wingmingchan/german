@@ -19,27 +19,56 @@ Ja, Amerikaner.
 ========================================================
 00:49 Sie
 01:07 entschuldigen
+01:48 Entschuldigen Sie.
 02:22 Englisch
 03:28 verstehen
+04:00 Sie verstehen
+04:40 Sie verstehen Englisch.
+05:23 Verstehen Sie?
+05:53 Verstehen Sie Englisch?
 06:07 nein
-06:40 ich
-07:35 kein
+06:40 ich verstehe
+07:09 ich
+07:25 verstehe
+07:59 Ich verstehe Englisch.
+09:29 Ich verstehe kein Englisch.
+09:35 kein
+09:39 kein Englisch
+09:46 Ich verstehe kein Englisch.
 11:28 Deutsch
-13:14 ein bisschen
+11:59 Ich verstehe Deutsch.
+12:23 Ich verstehe kein Deutsch.
+12:44 Sie verstehen Deutsch.
+13:01 Verstehen Sie Deutsch?
+13:15 ein bisschen
+13:25 bisschen
 13:53 nur
+14:06 nur ein bisschen
+14:16 Ich verstehe nur ein bisschen
+14:43 nur ein bisschen Deutsch
 14:54 Amerikaner
 15:29 Sie sind
+15:57 Sie sind Amerikaner.
+16:16 Sind Sie Amerikaner?
 16:57 ja
+17:25 Ja, Amerikaner.
 ========================================================
 18:11 Entschuldigen Sie.
-18:25 Verstehen Sie?
+18:27 Verstehen Sie?
 18:42 Verstehen Sie Deutsch?
-19:00 Verstehen Sie Englisch?
+19:01 Verstehen Sie Englisch?
+19:10 Nein.
 19:19 Ich verstehe kein Englisch.
-19:56 Ich verstehe ein bisschen Deutsch.
+19:39 Verstehen Sie Deutsch?
+19:57 Ich verstehe ein bisschen Deutsch.
 20:15 Nur ein bisschen.
-20:28 Sind Sie Amerikaner?
+20:29 Sind Sie Amerikaner?
 20:45 Ja, Amerikaner.
+20:55 Verstehen Sie Englisch?
+21:04 Ja! Ich verstehe Englisch.
+21:15 Verstehen Sie Deutsch?
+20:23 Nur ein bisschen.
+21:28 Ich verstehe nur ein bisschen Deutsch.
 ========================================================
 Reading
 ========================================================
@@ -67,18 +96,24 @@ I'm afraid I don't understand French.
 ein bisschen Milch/Wasser /mɪlç ˈvasɐ/
 ein klein bisschen: a little bit
 Ich habe kein bisschen Hunger. /ˈhʊŋɐ/
+der Hunger
 wenig /ˈveːnɪç/ little
 ein wenig: a little
-ein wenig Salz: a little salt
+ein wenig Salz /zalʦ/: a little salt
+das Salz
 ein bisschen wenig /ˈveːnɪç/: not very much
 
 heißen /ˈhaisən/ to call, to be named
 Ich heiße Müller
 zusammentreffen /ʦuˈzaməntrɛfən/ to coincide, concur
-zu treffen: reflexive verb
+zu treffen: reflexive verb, to meet
 Ich freue mich, Sie zu treffen, ...
+zusammen /ʦuˈzamən/: together
+freuen /ˈfrɔyən/: reflexive verb, to be pleased
 
-lernen /ˈlɛrnən/ lesen /ˈleːzn/ schwimmen /ˈʃvɪmən/
+lernen /ˈlɛrnən/
+lesen /ˈleːzn/
+schwimmen /ˈʃvɪmən/
 lesen/schwimmen lernen: to learn to read/swim
 ========================================================
 wollen /ˈvɔlən/: to want
