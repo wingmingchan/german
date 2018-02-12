@@ -129,8 +129,8 @@ Sie sprechen mit Frau Meier.
 20:22 Ja, wir haben auch eine Tochter.
 20:26 Ist ihre Tochter schon groß?
 20:37 Ja, unsere Tochter ist schon groß.
-20:42 Verstehe ihre Tochter Deutsch?
-20:50 Nein, sie verstehe kein Deutsch.
+20:42 Versteht ihre Tochter Deutsch?
+20:50 Nein, sie versteht kein Deutsch.
 20:55 Ihr Junge möchte etwas. Was möchte ihr Junge denn?
 21:04 Wo ist die Toilette bitte?
 21:15 Die Toilette ist dort drüben.
@@ -153,3 +153,6 @@ einen Sohn, ein Junge
 Wie haben einen Jungen.
 Wie haben einen Sohn.
 Wir haben keine Jungen/Söhne
+
+https://upload.wikimedia.org/wikipedia/commons/5/5d/German_indefinite_article_declension.png
+https://www.deutschplus.net/en/pages/Indefinitpronomen_einer_keiner_welcher
