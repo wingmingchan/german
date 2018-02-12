@@ -8,43 +8,76 @@ Ah, Sie verstehen Deutsch!
 Nur ein bisschen.
 Sind Sie Amerikaner?
 Ja, Amerikaner.
-Aber Sie Verstehen sehr gut Deutsch.
+Aber Sie verstehen sehr gut Deutsch.
 Nein, nein. Nicht sehr gut.
 ========================================================
 03:37 Nicht sehr gut.
 /ameriˈkaːnərɪn/
 04:29 Sind Sie Amerikanerin?
+04:36 Amerikanerin
+05:51 Sind Sie Amerikanerin?
+06:09 Sind Sie Amerikaner?
 /bɪn/
 06:23 Ja. Ich ˈbin Amerikaner.
+06:29 ich bin
+06:32 bin
+07:42 Ja. Ich bin Amerikanerin.
 /ˈdɔytʃɐ/
 07:57 Ich bin Deutscher.
+08:01 Deutscher
 /ˈdɔytʃə/
 08:20 Ich bin Deutsche.
+08:23 Deutsche
 08:47 Sind Sie Deutscher?
 09:13 Sind Sie Deutsche?
 /ˈkainə/
-09:44 Ich bin keine Deutsche.
+09:43 Ich bin keine Deutsche.
+09:48 keine
 10:09 Ich bin kein Deutscher.
 /ʊnt/
 10:37 Und Sie?
+10:41 und
 11:11 Ich bin Amerikaner. Und Sie?
 11:18 Ich bin Amerikanerin. Und Sie?
 11:30 Sie sind Amerikanerin.
 11:42 Sie sind Amerikaner.
 11:52 Sie sind keine Amerikanerin.
 12:16 Sie sind kein Amerikaner.
+
 /ˈaːbɐ/
-12:56 aber
+12:55 aber
+13:25 aber ich verstehe
 13:41 Aber ich verstehe Deutsch.
+14:05 Sind Sie Deutsche?
+14:17 Sind Sie Deutscher?
+14:26 Verstehen Sie Deutsch?
 14:38 Ich verstehe nicht sehr gut.
+
 /ˈbɪtə/
-14:44 bitte
+14:55 bitte
+15:14 Entschuldigen Sie.
+15:21 Sie sind
+15:32 ich bin
+15:42 ich verstehe nicht
+15:48 nein
+16:03 Ich verstehe kein Deutsch.
+16:20 Ich bin kein Amerikaner.
+16:32 Sie verstehen kein Englisch.
+16:45 Sie sind keine Amerikanerin.
+17:04 Sie sind kein Deutscher.
+17:17 Ich bin Amerikaner. Und Sie?
+17:23 Ich bin Amerikanerin. Und Sie?
+17:36 Sind Sie Deutscher?
+17:37 Sind Sie Deutsche?
 18:01 Verstehen Sie nur Deutsch?
 18:12 Wie geht es Ihnen?
 18:21 Es geht mir gut.
 18:34 Nein, es geht mir nicht gut.
 18:51 Es geht mir nicht sehr gut.
 19:03 Geht es Ihnen gut?
+19:22 Ja, danke.
+19:29 bitte
+19:40 Geht es Ihnen gut?
 19:52 Ja, ja!
 ========================== 20:00 ==============================
 Entschuldigen Sie?
