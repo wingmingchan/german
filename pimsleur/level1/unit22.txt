@@ -22,7 +22,7 @@ Nein. Die Mädchen sind noch klein. Sehr klein.
 01:58 Wie sagan Sie:
 02:05 Er ist ein großer Junge.
 02:25 Er ist ein sehr großer Junge.
-02:36 Fragen Sie mich viele Kinder ich habe.
+02:36 Fragen Sie mich wie viele Kinder ich habe.
 02:49 Wie viele Kinder haben Sie?
 02:53 Sagen Sie dass Sie drei Kinder haben.
 03:05 Ich habe drei Kinder.
@@ -46,7 +46,7 @@ Nein. Die Mädchen sind noch klein. Sehr klein.
 05:23 Wir haben drei Jungen und zwei Mädchen.
 05:36 Ihre Familie ist groß.
 05:43 Das ist eine großer Familie.
-
+06:00 Und ich habe ein großes Auto.
 /ˈauto/
 06:07 Auto, das
 06:31 ein Auto
@@ -116,7 +116,7 @@ Nein. Die Mädchen sind noch klein. Sehr klein.
 17:36 nicht wahr?
 17:52 Vierzig Liter? Das ist zu viel.
 18:07 Wir haben ein amerikanisches Auto.
-18:31 Haben Sie ein Deutshes Auto?
+18:31 Haben Sie ein deutsches Auto?
 
 /ɡiːpt/ -> geben
 18:45 Es gibt
