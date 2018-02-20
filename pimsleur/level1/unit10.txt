@@ -1,5 +1,7 @@
 ﻿========================================================
 2nd Edition, 2010
+
+Unit 10: Wie viel Uhr ist es?
 ========================================================
 
 Hören Sie dieses Gespräch zu /ˈdiːzəs ɡəˈʃprɛːç/
@@ -9,7 +11,7 @@ Gerne. Aber um wie viel Uhr? Um zwei?
 Nein, nein. Später. Viel später.
 Ah! Ich verstehe. Um acht Uhr oder um neun Uhr?
 Ja! Um neun Uhr.
-Also dann bis neun Uhr Ingrid.
+Also dann bis neun Uhr.
 Auf Wiedersehen!
 
 Hören Sie noch einmal zu
@@ -24,6 +26,7 @@ Hören Sie noch einmal zu
 02:54 Um neun Uhr?
 03:11 Nein, nein. Um acht Uhr.
 03:40 Gut. Um zwei Uhr.
+03:44 zwei
 04:01 Nein. Sie verstehen nicht.
 04:18 Was verstehe ich nicht?
 04:34 Möchten Sie etwas trinken?
@@ -36,6 +39,7 @@ Hören Sie noch einmal zu
 06:02 Ich verstehe nicht.
 06:15 Möchten Sie etwas trinken?
 06:25 Oder möchten Sie etwas essen?
+06:41 Ich möchte etwas essen.
 06:51 Mit mir?
 07:02 Ja. Bei Ihnen.
 07:11 Um wie viel Uhr?
@@ -48,11 +52,23 @@ Hören Sie noch einmal zu
 11:15 Ist es vier Uhr? /istɛs/
 11:38 Nein. Es ist drei Uhr.
 11:53 Es ist acht Uhr.
-13:50 Viel später.
+12:55 Wie viel Uhr ist es?
+13:00 Wie viel Uhr ist es bitte?
+13:10 Ich weiß es nicht.
+13:22 Aber ich möchte etwas essen.
+13:32 Aber nicht jetzt.
+13:42 Ich möchte später etwas essen.
+13:49 Viel später.
+14:10 Möchten Sie später etwas essen?
 14:35 Ich esse jetzt.
 15:01 Sie essen.
+15:14 Essen Sie jetzt?
+15:27 Ja, ich esse jetzt.
 16:07 Ich esse um fünf Uhr.
 16:24 Essen Sie um fünf Uhr?
+16:39 Nein. Später.
+16:47 Viel später.
+16:56 Ich esse um acht Uhr.
 17:16 Aber ich trinke etwas.
 17:27 Wann? 
 17:41 Um drei Uhr oder um vier Uhr.
