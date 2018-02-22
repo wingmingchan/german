@@ -27,9 +27,13 @@ Möchten Sie etwas trinken?
 04:33 Wann möchten Sie etwas trinken?
 05:16 Möchten Sie Bier trinken?
 05:27 Ein Bier, das Bier
+/ain/
+06:10 ein
 05:58 Das Bier ist gut.
 06:21 Möchten Sie ein Bier trinken?
 06:37 Zwei Bier bitte
+/ʦvai/
+06:41 zwei
 ========================================================
 /ˈoːdɐ/
 07:14 oder
