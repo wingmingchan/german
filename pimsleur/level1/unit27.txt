@@ -27,18 +27,23 @@ Aha, Günter.
 01:20 Sie sind geschlossen.
 01:28 Warum?
 01:36 Weil es spät ist.
+01:44 Fragen Sie mich ob ich arbeite.
 01:49 Arbeiten Sie?
 02:00 Ich glaube nicht.
 02:13 Sie glauben
 02:23 Sie glauben schon
 02:32 Sie glauben nicht
-02:57 Ich fahre nach Salzburg
+02:51 Sagen Sie dass Sie nach Salzburg fahren.
+02:57 Ich fahre nach Salzburg.
 03:07 vielleicht
 03:11 Fragen Sie ihn was er dort macht.
 03:21 Was machen Sie dort?
-03:35 Ich besuche dort Freunde
+03:29 Sagen Sie dass Sie dort Freunde besuchen.
+03:35 Ich besuche dort Freunde.
 03:43 meine Freunde
-03:56 Ich habe dort einige Freunde
+03:49 Sagen Sie dass Sie dort einige Freunde haben.
+03:56 Ich habe dort einige Freunde.
+04:01 Sagen Sie dass Sie sie besuchen.
 04:06 Ich besuche sie.
 04:29 Fragen Sie ihn viele Tage er in Salzburg bleibt.
 04:41 Wie viele Tage bleiben Sie in Salzburg?
@@ -73,6 +78,7 @@ Aha, Günter.
 09:25 weil
 09:31 nichts
 09:39 Weil Sie mir nichts schulden.
+09:48 Fragen Sie mich was ich möchte.
 09:57 Was möchten Sie?
 10:07 Ich möchte nichts.
 10:20 Ich habe nichts.
@@ -88,7 +94,6 @@ weg-: away
 11:09 Ich möchte wegfahren
 11:40 Ich möchte morgen wegfahren
 11:53 Ich auch
-
 12:03 Wir fahren
 /ʦuˈzamən/
 12:11 Wir fahren zusammen
