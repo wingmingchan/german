@@ -1,0 +1,11 @@
+﻿Pronouns
+========
+
+ich      mich     mir          mein         meins
+du       dich     dir          dein         deins
+er       ihn      ihm          sein
+sie      sie      ihr          ihr
+es       es       ihm          sein
+wir      uns      uns          unser
+ihr      euch     euch         euer
+sie/Sie  sie/Sie  ihnen/Ihnen  ihnen/Ihnen
