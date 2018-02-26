@@ -1,0 +1,16 @@
+﻿Dative
+======
+aus, außer, bei, mit, nach, seit, von, zu
+Singular masculine and neuter: use -em
+Singular feminine: use -er
+Plural (kein): use -en
+
+Masculine, Neuter	Feminine	Plural
+dem					der			den
+einem				einer		keinen
+meinem				meiner		meinen
+deinem				deiner		deinen
+seinem				seiner		seinen
+ihrem				ihrer		ihren
+unserem				unserer		unseren
+eurem				eurer		euren
