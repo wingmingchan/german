@@ -1,0 +1,21 @@
+﻿Accusative
+==========
+bis, für, durch, gegen, ohne, um
+Masculine: use -en
+Neuter: no suffix
+Feminine and plural: use -e
+
+Masculine        Neuter          Feminine, Plural
+den              das             die
+einen, keinen    ein, kein       eine, keine
+meinen           mein            meine
+deinen           dein            deine
+seinen           sein            seine
+ihren            ihr             ihre
+unseren          unser           unsere
+eueren           euer            eure
+
+für meinen Sohn
+für mein Mädchen
+für meine Familie/Frau/Tochter
+für meine Söhne/Mädchen/Töchter
