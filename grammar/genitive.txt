@@ -1,0 +1,18 @@
+﻿Genitive
+========
+(an)statt, trotz, während, wegen
+Masculine and Neuter: use -es
+Feminine and plural: use -er
+
+Masculine, Neuter        Feminine, Plural
+des                      der
+eines, keines            einer, keiner
+meines                   meiner
+deines                   deiner
+seines                   seiner
+ihres                    ihrer
+unseres                  unserer
+eueres                   eurer
+
+an meiner statt: in my place
+trotz seines Verbotes: in spite of his prohibition
