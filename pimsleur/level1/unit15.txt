@@ -1,8 +1,10 @@
 ﻿========================================================
 2nd Edition, 2010
+
+Unit 15: Wohin gehen Sie?
 ========================================================
 
-Auf Wiedersehen, Günther! Bis später.
+Auf Wiedersehen, Günter! Bis später.
 Auf Wiedersehen? Wohin gehen Sie denn, Jean?
 Ich? Ich gehe etwas kaufen.
 Haben Sie D-Mark?
@@ -11,7 +13,7 @@ Viele Dollar haben Sie?
 Vierzehn oder fünfzehn.
 Ich gebe Ihnen zehn Mark und fünf Dollar.
 Hier. Jetzt haben Sie zehn Mark und ... wie viele Dollar?
-Ich weiß es nicht. Aber ich habe jetzt viele Dollar. Vielen Dank, Günther.
+Ich weiß es nicht. Aber ich habe jetzt viele Dollar. Vielen Dank, Günter.
 ========================================================
 01:20 Guten Abend.
 01:31 Wie bitte?
