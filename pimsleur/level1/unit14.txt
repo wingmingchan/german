@@ -1,5 +1,7 @@
 ﻿========================================================
 2nd Edition, 2010
+
+Unit 14: Geben Sir mir ein paar D-Mark bitte
 ========================================================
 
 /ameriˈkaːnɪʃə ˈʦaitʊŋ/
@@ -32,11 +34,16 @@ Ah, jetzt verstehe ich! Hier bitte. Hier sind acht Mark. Vielen Dank.
 04:55 Sie sind keine Amerikanerin.
 05:15 Doch! Ich bin Amerikaner.
 05:22 Doch! Ich bin Amerikanerin.
+
 /paːɐ/
 05:32 Ich habe ein paar D-Mark.
+05:36 ein paar
 05:53 Ich habe ein paar Dollar.
 06:07 Aber keine D-Mark.
+
+/ˈɡeːbən/
 06:18 Geben Sir mir
+06:22 geben
 06:35 Geben Sir mir ein paar D-Mark.
 06:45 Geben Sir mir ein paar Dollar.
 06:49 Geben Sir mir ein paar Dollar bitte.
@@ -45,8 +52,10 @@ Ah, jetzt verstehe ich! Hier bitte. Hier sind acht Mark. Vielen Dank.
 07:28 Haben Sie ein paar D-Mark?
 07:44 Ja, ich habe D-Mark
 07:57 viele D-Mark
+
 /ˈziːpʦeːn/
 08:04 Ich habe siebzehn Mark
+08:09 siebzehn
 09:01 achtzehn
 09:12 neunzehn
 09:24 Ich habe neunzehn Dollar
