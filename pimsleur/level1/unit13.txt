@@ -1,19 +1,21 @@
 ﻿========================================================
 2nd Edition, 2010
+
+Unit 13: Wie viele Mark haben Sie?
 ========================================================
 
 Hören Sie diesem Telefongespräch zu
 
 Hallo, ich möchte mit Brigitte sprechen bitte?
-Ah, Sie sind's, Brigitte. Guten Tag. Hier ist Günther.
-Guten Tag Günther. Wie geht es Ihnen?
+Ah, Sie sind's, Brigitte. Guten Tag. Hier ist Günter.
+Guten Tag Günter. Wie geht es Ihnen?
 Gut, danke. Sagen Sie Brigitte, möchten Sie heute Abend mit mir essen?
-Das geht nicht, Günther. Ich esse heute Abend mit Eriker.
+Das geht nicht, Günter. Ich esse heute Abend mit Erika.
 Aber möchten Sie später bei mir etwas trinken?
 Ja, gerne. Um wie viel Uhr?
 Um neun Uhr? Oder später? Um zehn Uhr? Geht das?
 Ja. Das geht. Um zehn Uhr bei Ihnen. Auf Wiederhören, Brigitte!
-Bis heute Abend Günther.
+Bis heute Abend Günter.
 ========================================================
 01:26 Wie viel Uhr ist es bitte?
 01:40 Es ist elf Uhr.
@@ -43,6 +45,7 @@ Bis heute Abend Günther.
 07:28 Guten Tag
 07:42 Guten Abend
 07:54 Es geht mir gut
+
 /ˈhaːbən/
 08:06 Wie viele Mark haben Sie?
 08:28 Sie haben
@@ -59,6 +62,7 @@ Bis heute Abend Günther.
 11:48 fünfzehn
 /ˈzɛçʦeːn/
 12:21 Haben Sie sechzehn Mark?
+12:25 sechzehn
 12:52 Nein. Ich habe dreizehn Mark.
 13:06 Aber ich habe fünfzehn Dollar.
 13:14 Sie haben keine sechzehn Dollar?
@@ -132,5 +136,5 @@ mit der Verkäuferin
 ========================================================
 Bar, die: mit Freunden in eine Bar gehen
 Wie viele Euro haben Sie?
-Ich habe keine Euro (not keinen)
+Ich habe keine Euro (not keinen, because it is plural)
 einen Euro
