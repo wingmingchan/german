@@ -1,0 +1,18 @@
+﻿Nominative
+==========
+der, das, die, die
+Masculine and neuter: no suffix
+Feminine and plural: use -e
+
+Masculine, Neuter          Feminine, Plural
+der, das                   die
+ein                        eine, keine
+mein                       meine
+dein                       deine
+sein                       seine
+ihr                        ihre
+unser                      unsere
+euer                       eure
+
+Unser Sohn ist schon groß
+Unsere Tochter ist schon groß
