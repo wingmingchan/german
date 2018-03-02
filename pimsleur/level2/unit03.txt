@@ -11,7 +11,7 @@ Es ist doch noch nicht spät. Wir haben noch viel Zeit.
 Nein, nein. Ich muss gehen.
 Warum müssen Sie jetzt gehen?
 Ich muss etwas zu trinken kaufen. Ich muss Wein kaufen.
-Aber die Geschäfte sind doch noch lange geöffnen.
+Aber die Geschäfte sind doch noch lange geöffnet.
 Ich weiß. Aber heute Abend kommt ein Freund von mir zu Besuch.
 Ein Freund von Ihnen? Wie heißt er?
 Ach! Sie kennen ihn nicht. Er heißt Bill Jamerson.
@@ -31,6 +31,8 @@ Doch, doch. Ich kenne Bill Jamerson. Er ist auch ein Freund von mir.
 04:50 Haben Sie ihn gesehen?
 05:11 Ja, ich habe ihn gestern gesehen.
 05:32 Seine Frau ist Schweizerin, nicht wahr?
+05:40 seine Frau
+05:43 Schweizerin
 06:13 Ich weiß es nicht.
 06:21 Ich kenne ihn.
 06:40 Aber seine Frau, kenne ich nicht.
@@ -58,6 +60,7 @@ Doch, doch. Ich kenne Bill Jamerson. Er ist auch ein Freund von mir.
 12:29 Ich muss in die Stadt gehen.
 12:50 Leider habe ich keine Zeit.
 13:12 Ein Freund von mir kommt zu Besuch.
+13:26 kommt
 13:45 zu Besuch
 14:04 Ich habe keine Zeit
 14:17 weil ein Freund kommt
@@ -107,7 +110,7 @@ Doch, doch. Ich kenne Bill Jamerson. Er ist auch ein Freund von mir.
 
 25:00 Sagen Sie, haben Sie ein bisschen Zeit?
 25:08 Ja, ich habe ein bisschen Zeit. Warum?
-25:23 Möchten Sie einen Kaffe mit mir trinken?
+25:23 Möchten Sie einen Kaffee mit mir trinken?
 25:38 Oder ein Glas Wein?
 25:43 Ja, trinken wir ein Glas Wein zusammen.
 25:54 Hier ist die Weinkarte.
@@ -125,4 +128,5 @@ Doch, doch. Ich kenne Bill Jamerson. Er ist auch ein Freund von mir.
 27:57 Was bedeutet das Wort prost?
 28:01 Es bedeutet ... oder ...
 28:13 Also, prost!
+28:16 Prost!
 ========================================================
