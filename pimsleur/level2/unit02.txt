@@ -14,106 +14,115 @@ Ich? Ich möchte mit dem Auto webfahren.
 Möchten Sie mit mir mitkommen?
 Ja, gerne. Wann fahren wir?
 ========================================================
-Wann sind Sie in Deutschland angekommen?
-Ich bin Montag Abend angekommen.
-Wie lange sind Sie schon in München?
+01:18 Wann sind Sie in Deutschland angekommen?
+01:36 Ich bin Montag Abend angekommen.
+01:57 Wie lange sind Sie schon in München?
 02:12 Seit zwei Tagen.
 02:29 Ich bin schon seit zwei Tagen hier.
-seit eine Woche
-Gefällt es Ihnen in München?
-Ja, es gefällt mir.
-Wo wohnen Sie?
-Im Hotel Astoria.
-Haben Sie schon etwas von Möchten gesehen?
-Noch nicht.
-Noch nicht viel.
-Wie viel Uhr ist es?
-Es ist ein Uhr.
-Haben Sie schon gegessen?
-Nein, ich habe noch nichts gegessen.
-Möchten Sie etwas mit mir essen?
-Ja, gerne.
-Kennen Sie ...
-Kennen Sie das Restaurant Zum Löwen?
-Nein, ich kenne es noch nicht.
-Es ist nicht weit von hier.
-Nur zwei Kilometer.
-Und hier ist mein Auto.
-Wir können mein Auto nehmen.
+02:47 seit eine Woche
+03:04 Gefällt es Ihnen in München?
+03:20 Ja, es gefällt mir.
+03:35 Wo wohnen Sie?
+03:46 Im Hotel Astoria.
+04:05 Haben Sie schon etwas von Möchten gesehen?
+04:21 Noch nichts.
+04:33 Noch nicht viel.
+04:47 Wie viel Uhr ist es?
+05:02 Es ist ein Uhr.
+05:18 Haben Sie schon gegessen?
+05:37 Nein, ich habe noch nichts gegessen.
+05:42 Nein, noch nichts.
+05:59 Möchten Sie etwas mit mir essen?
+06:15 Ja, gerne.
+06:26 Kennen Sie ...
+06:42 Kennen Sie das Restaurant Zum Löwen?
+07:01 Nein, ich kenne es noch nicht.
+07:18 Es ist nicht weit von hier.
+07:36 Nur zwei Kilometer.
+07:48 Und hier ist mein Auto.
+07:59 Wir können mein Auto nehmen.
+
 08:26 Dort drüben ist ein Freund von mir.
-von mir
-ein Freund von mir
-der Freund
-ein Freund von Ihnen
-Er heißt Willie Klein.
-er heißt
-heißt
-Wie heißt er?
-Kennen Sie Willie Klein schon?
-Nein, noch nicht.
-Angenehm.
-Wie heißen Sie?
-Ich heiße Jamerson.
-Wie heißen Sie?
-Sie heißen Jamerson?
-Heißen Peter Jamerson?
-Nein. Ich heiße Bill.
-Bill ist ein Freund von mir.
-Ich muss jetzt leider gehen.
-leider
-ich muss
-leider
-ich muss
-Sie müssen jetzt gehen?
-Ja, ich muss gehen.
-Ich muss leider gehen.
-15:14 Willie muss jetzt auch gehen.
-er muss
-Muss er wirklich gehen?
-ich muss
-er muss
-ich kann nicht bleiben
-er kann auch nicht bleiben
-Sie können nicht bleiben?
-Wir müssen auch gehen.
-Bill ist ein Freund von mir.
-Leider muss er gehen.
-Also gut.
-Was möchten jetzt machen?
-Ich möchte in die Stadt gehen.
-Sie auch?
-Möchten Sie auch in die Stadt gehen?
-mitkommen
-Ja, ich möchte mitkommen.
-Ich möchte mitkommen.
-Mit Ihnen.
-Ich möchte mit Ihnen mitkommen.
-mit mir
-Sie können mit mir mitkommen.
-Wir können mein Auto nehmen.
-Haben Sie genug Benzin im Auto?
-Ja, ich habe zehn Liter.
-Das ist genug.
-Wohin?
-Wohin möchten Sie fahren?
-in die Stadt
-Möchten Sie mitkommen?
-Gerne.
-Ich möchte mitkommen.
-Freund
-Wie heißt ihr Freund?
-Er heißt Willie Klein.
-Er ist ein Freund von mir.
-mein Freund
-ein Freund, mein Freund
-Er ist Deuscher, nicht wahr?
+08:31 von mir
+08:34 ein Freund von mir
+08:48 der Freund
+09:04 ein Freund von mir
+09:21 ein Freund von Ihnen
+09:39 Er heißt Willie Klein.
+09:44 er heißt
+09:47 heißt
+10:07 Wie heißt er?
+10:24 Kennen Sie Willie Klein schon?
+10:40 Nein, noch nicht.
+10:56 Angenehm.
+11:15 Wie heißen Sie?
+11:31 Ich heiße Jamerson.
+11:49 Wie heißen Sie?
+12:02 Sie heißen Jamerson?
+12:17 Heißen Sie Peter Jamerson?
+12:37 Nein. Ich heiße Bill.
+12:55 Bill ist ein Freund von mir.
+
+13:11 Ich muss jetzt leider gehen.
+13:17 leider
+13:19 ich muss
+13:28 Ich muss jetzt leider gehen.
+13:44 leider
+13:52 ich muss
+14:06 ich muss gehen
+14:17 Sie müssen jetzt gehen?
+14:22 Sie müssen
+14:44 Ja, ich muss gehen.
+15:02 Ich muss leider gehen.
+15:15 Willie muss jetzt auch gehen.
+15:19 er muss
+15:23 muss
+15:49 Muss er wirklich gehen?
+15:59 ich muss, er muss
+16:15 ich kann nicht bleiben
+16:37 er kann auch nicht bleiben
+16:58 Sie können nicht bleiben?
+17:13 ich kann, er kann
+17:30 Wir müssen auch gehen.
+17:48 Bill ist ein Freund von mir.
+18:03 Leider muss er gehen.
+19:01 Also gut.
+
+19:12 Was möchten jetzt machen?
+19:30 Ich möchte in die Stadt gehen.
+19:46 Sie auch?
+19:57 Möchten Sie auch in die Stadt gehen?
+20:11 mitkommen
+20:34 Ich möchte mitkommen
+20:48 mit Ihnen.
+21:02 Ich möchte mit Ihnen mitkommen.
+21:25 mit mir
+21:35 Sie können mit mir mitkommen.
+21:53 Wir können mein Auto nehmen.
+22:10 Haben Sie genug Benzin im Auto?
+22:36 Ja, ich habe zehn Liter.
+22:51 Das ist genug.
+23:02 Wohin?
+23:16 Wohin möchten Sie fahren?
+23:30 in die Stadt
+23:42 Möchten Sie mitkommen?
+23:55 Gerne.
+24:05 Ich möchte mitkommen.
+24:17 Freund, der
+24:31 Wie heißt ihr Freund?
+24:47 Er heißt Willie Klein.
+25:02 Er ist ein Freund von mir.
+25:16 mein Freund
+25:28 ein Freund, mein Freund
+25:45 Er ist Deuscher, nicht wahr?
 
 /ˈʃvaiʦər/
-Nein. Er ist Schweizer.
-Er ist kein Deutscher.
-Sie ist keine Deutsche.
-Sie ist Amerikanerin.
-Aber er ist Schweizer.
-Leider muss ich jetzt gehen.
-Auf Wiedersehen.
+25:58 Nein. Er ist Schweizer.
+26:02 Schweizer
+26:37 Er ist kein Deutscher.
+26:54 Sie ist keine Deutsche.
+27:16 Sie ist Amerikanerin.
+27:29 Aber er ist Schweizer.
+27:49 Leider muss ich jetzt gehen.
+28:04 Auf Wiedersehen.
 ========================================================
