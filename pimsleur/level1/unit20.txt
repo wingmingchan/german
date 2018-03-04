@@ -9,12 +9,12 @@ Frau Meier?
 Ah, Herr Gordon. Kommen Sie bitte herein. Wie geht es Ihnen?
 Es geht mir gut. Danke. Und Ihnen?
 Auch gut, danke.
-Frau Meier, ich möchte mit ihr Mann sprechen. Ist er hier?
+Frau Meier, ich möchte mit Ihr Mann sprechen. Ist er hier?
 Mein Mann? Ja. Jack. Hier ist Herr Gordon. Er ist Amerikaner. Aber er verstehe Deutsch.
 Angenehm, Herr Gordon!
 Was trinken Sie Herr Gordon? Ein Bier oder ein Wein?
 Danke. Nur ein bisschen Wasser, bitte.
-Sagen Sie Herr Gordon. Ist ihre Frau auch in Berlin?
+Sagen Sie Herr Gordon. Ist Ihre Frau auch in Berlin?
 Nein. Meine Frau ist nicht hier. Sie ist in Amerika.
 /ɪntərɛˈsant/
 Ah, das ist interessant.
@@ -27,12 +27,12 @@ Ah, das ist interessant.
 02:02 Haben Sie Milch?
 02:15 Ich habe keine Milch.
 02:27 Möchten Sie Wasser?
-02:34 Wo ist ihr Mann?
+02:34 Wo ist Ihr Mann?
 02:47 Mein Mann?
 02:59 Ich weiß nicht wo er ist.
-03:14 Wo ist ihre Frau?
+03:14 Wo ist Ihre Frau?
 03:26 Sie ist im Restaurant.
-03:37 Ist ihr Mann auch im Restaurant?
+03:37 Ist Ihr Mann auch im Restaurant?
 03:54 Nein, nein. Mein Mann ist nicht hier in Deutschland.
 04:04 Wo ist er denn?
 04:22 Er ist in Amerika.
@@ -122,7 +122,7 @@ zwei Töchter
 19:16 Ja, sie ist auch schon groß.
 19:21 Wo sind die Kinder? Sind sie auch hier?
 19:29 Ja, die Kinder sind auch hier. Sie sind auch hier.
-19:37 Wo ist ihre Frau jetzt? Auch hier bei Ihnen?
+19:37 Wo ist Ihre Frau jetzt? Auch hier bei Ihnen?
 19:44 Ja, sie ist auch hier bei mir.
 19:54 Sie verstehen sehr gut Deutsch.
 20:02 Nein. Nicht sehr gut. Aber vielen Dank.
