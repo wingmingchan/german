@@ -15,7 +15,7 @@ Eine Kollegin? Wer ist es? Kenne ich sie?
 Ich glaube nicht. Meine Kollegin kommt aus Amerika, 
 und bleibt nur drei Wochen in Deutschland.
 Drei Wochen sind nicht lange. 
-Und drei Wochen kommt ihre Kollegin nicht viel von Deutschland sehen.
+Und drei Wochen kommt Ihre Kollegin nicht viel von Deutschland sehen.
 Doch, doch! Für meine Kollegin, sind drei Wochen veil Zeit.
 ========================================================
 01:35 Möchten Sie einen Kaffee mit mir trinken?
@@ -47,13 +47,13 @@ Doch, doch! Für meine Kollegin, sind drei Wochen veil Zeit.
 07:20 Heute kommt eine Kollegin.
 07:37 eine Kollegin von mir
 07:54 Sie kommt nach München.
-08:03 Sie kommt mit ihrem Mann.
-08:08 mit ihrem Mann
+08:03 Sie kommt mit Ihrem Mann.
+08:08 mit Ihrem Mann
 08:26 Sie reist nie alleine.
 08:31 nie alleine
-08:48 mit ihrem Mann
-09:00 Sie kommt immer mit ihrem Mann.
-09:08 immer mit ihrem Mann
+08:48 mit Ihrem Mann
+09:00 Sie kommt immer mit Ihrem Mann.
+09:08 immer mit Ihrem Mann
 09:25 meine Kollegin
 09:36 kommt aus Amerika
 09:40 aus Amerika
@@ -72,7 +72,7 @@ Doch, doch! Für meine Kollegin, sind drei Wochen veil Zeit.
 11:52 Jahr
 11:55 das Jahre
 12:13 Sie kommt aus Washington
-12:31 Wer ist ihre Kollegin?
+12:31 Wer ist Ihre Kollegin?
 12:42 Wer ist sie?
 12:59 Wie heißt sie?
 13:11 Sie kennen sie nicht.
@@ -84,7 +84,7 @@ Doch, doch! Für meine Kollegin, sind drei Wochen veil Zeit.
 15:01 Sie heißt Mary Blake.
 15:13 Ich kenne eine Mary Blake.
 15:31 Aber sie wohnt in Boston.
-15:39 ihr Mann
+15:39 Ihr Mann
 15:54 Ihr Mann ist Schweizer.
 16:08 Er spricht nicht sehr viel Englisch.
 16:26 Nein, nein.
@@ -136,7 +136,7 @@ Doch, doch! Für meine Kollegin, sind drei Wochen veil Zeit.
 26:05 Ich wohne seit drei Jahren dort.
 26:19 Verstehen Sie Englisch?
 26:25 Nein, ich verstehe kein Englisch.
-26:37 Spricht ihre Frau Englisch?
+26:37 Spricht Ihre Frau Englisch?
 26:43 Ja, sie spricht sehr gut Englisch.
 26:55 Die Weinkarte bitte.
 27:06 Wie wäre es mit einem Glas Rotwein oder trinken Sie Weißwein?
