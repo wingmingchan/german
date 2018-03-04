@@ -8,9 +8,9 @@ Ah, Sie sind Herr Gordon. Angenehm! Kommen Sie bitte herein!
 Vielen Dank. Ist Herr Schnyder hier?
 Nein. Noch nicht. Aber Sie können hier warten.
 Danke.
-Sagen Sie, ist ihre Frau auch hier in Deutschland?
+Sagen Sie, ist Ihre Frau auch hier in Deutschland?
 Ja, sie ist hier.
-Und ihre kinder auch?
+Und Ihre kinder auch?
 Nein. Die Kinder sind in Amerika.
 Wie viele Kinder haben Sie?
 Wir haben drei Jungen.
@@ -57,18 +57,18 @@ Nein. Wir haben keine Mädchen.
 08:32 wir haben einen Sohn
 08:39 unsere Tochter ist auch hier
 08:43 unsere
-09:27 ihr Sohn
+09:27 Ihr Sohn
 
 /nɔx klain/
-09:40 Ist ihr Sohn noch klein?
+09:40 Ist Ihr Sohn noch klein?
 10:00 Nein. Er ist schon groß.
 10:08 klein
 10:15 unsere Tochter
-10:23 ihre Tochter
-10:35 und ihre Tochter
+10:23 Ihre Tochter
+10:35 und Ihre Tochter
 10:44 Haben Sie auch eine Tochter?
-10:56 Ist ihre Tochter noch klein?
-11:16 Ist ihre Tochter auch hier?
+10:56 Ist Ihre Tochter noch klein?
+11:16 Ist Ihre Tochter auch hier?
 11:27 wir haben zwei Mädchen
 11:38 unsere kleine Tochter
 11:59 unsere kleine Tochter ist hier
@@ -83,12 +83,12 @@ Nein. Wir haben keine Mädchen.
 13:17 wirklich
 13:46 Ja, wirklich.
 13:55 er ist wirklich klein
-14:09 wo ist ihr Junge?
-14:25 wo ist ihre Tochter?
-14:38 und ihre Frau?
-14:47 ist ihre Tochter hier?
-14:56 ihre große Tochter
-15:10 nicht ihre kleine Tochter
+14:09 wo ist Ihr Junge?
+14:25 wo ist Ihre Tochter?
+14:38 und Ihre Frau?
+14:47 ist Ihre Tochter hier?
+14:56 Ihre große Tochter
+15:10 nicht Ihre kleine Tochter
 15:23 wirklich
 15:30 wo sind die Kinder?
 15:43 Können Sie warten?
@@ -108,7 +108,7 @@ Nein. Wir haben keine Mädchen.
 17:58 die Familie
 18:12 eine Familie
 18:20 unsere Familie
-18:30 wo ist ihre Familie?
+18:30 wo ist Ihre Familie?
 18:43 meine Familie?
 18:54 Die kleinen Kinder sind in Amerika.
 19:05 Die großen Kinder sind hier
@@ -118,7 +118,7 @@ Nein. Wir haben keine Mädchen.
 /ˈfoːɐʃtɛlən/
 vorstellen
 19:37 Stellen Sie sich vor:
-Sie sind mit ihrer Familie in Deutschland. Sie haben zwei Jungen und eine Tochter.
+Sie sind mit Ihrer Familie in Deutschland. Sie haben zwei Jungen und eine Tochter.
 Sie sprechen mit Frau Meier.
 
 19:57 Wer ist der Junge? Ihr Sohn?
@@ -127,11 +127,11 @@ Sie sprechen mit Frau Meier.
 20:12 Wir haben vier Jungen. (drei Jungen)
 20:17 Haben Sie auch eine Tochter?
 20:22 Ja, wir haben auch eine Tochter.
-20:26 Ist ihre Tochter schon groß?
+20:26 Ist Ihre Tochter schon groß?
 20:37 Ja, unsere Tochter ist schon groß.
-20:42 Versteht ihre Tochter Deutsch?
+20:42 Versteht Ihre Tochter Deutsch?
 20:50 Nein, sie versteht kein Deutsch.
-20:55 Ihr Junge möchte etwas. Was möchte ihr Junge denn?
+20:55 Ihr Junge möchte etwas. Was möchte Ihr Junge denn?
 21:04 Wo ist die Toilette bitte?
 21:15 Die Toilette ist dort drüben.
 21:25 Entschuldigen Sie bitte.
