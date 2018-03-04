@@ -31,9 +31,9 @@ Ja. Und ein Mineralwasser viel später bitte.
 03:06 Achtundsechzig? Das ist zu teuer.
 03:17 I gebe Ihnen
 03:31 I gebe Ihnen dreiundfünfzig Mark
-03:48 Wo ist ihre Frau?
+03:48 Wo ist Ihre Frau?
 04:03 Meine Frau? Ich weiß es nicht.
-04:19 Wo is ihr Mann?
+04:19 Wo is Ihr Mann?
 04:29 Mein Mann ist dort drüben.
 04:40 Er ist dort drüben.
 04:59 Mein Mann? Er ist dort drüben.
@@ -44,7 +44,7 @@ Ja. Und ein Mineralwasser viel später bitte.
 05:53 Ihre Frau.
 06:01 Wer? Meine Frau?
 06:17 Sie is nicht dort drüben. Sie ist hier.
-06:36 Was möchte ihr Mann trinken?
+06:36 Was möchte Ihr Mann trinken?
 06:51 Was möchte er trinken?
 07:05 Er möchte Milch trinken.
 07:18 Oder Wasser.
@@ -59,7 +59,7 @@ Ja. Und ein Mineralwasser viel später bitte.
 09:13 Kommen Sie herein bitte!
 09:25 Was möchten Sie trinken?
 09:32 Angenehm!
-09:40 Und ihre Frau?
+09:40 Und Ihre Frau?
 09:48 Was möchte sie trinken?
 10:03 Ich bin Frau Gorden
 
@@ -101,7 +101,7 @@ Ja. Und ein Mineralwasser viel später bitte.
 17:17 Guten Tag.
 17:21 Ich bin Herr Smith.
 17:29 Angenehm, Herr Smith!
-17:32 Sagen Sie, ist ihr Mann hier?
+17:32 Sagen Sie, ist Ihr Mann hier?
 17:40 Nein. Er ist nicht hier.
 17:45 Wo ist er?
 17:52 Er kauft Wein.
@@ -109,7 +109,7 @@ Ja. Und ein Mineralwasser viel später bitte.
 18:13 Wir wohnen in Washington.
 18:27 Und Sie? Wo wohnen Sie?
 18:36 Ich? Ich wohne in Berlin.
-18:43 Und ihre Frau?
+18:43 Und Ihre Frau?
 18:55 Meine Frau wohnt auch in Berlin.
 19:06 Ich wohne mit meiner Frau in Berlin.
 19:20 Das ist mein Mann.
