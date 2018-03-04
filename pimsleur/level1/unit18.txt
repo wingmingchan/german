@@ -77,7 +77,7 @@ Aber Günther.
 11:54 Ich möchte Milch.
 
 /ˈiːrə/
-12:01 ihre Frau
+12:01 Ihre Frau
 12:18 Ihre Frau ist hier.
 /ˈiːə/
 12:26 Ihr Mann ist hier.
@@ -96,8 +96,8 @@ Aber Günther.
 15:15 Wo?
 15:23 Dort drüben.
 15:34 Wer is das?
-15:47 Das ist ihre Frau.
-15:58 Was möchte ihre Frau machen?
+15:47 Das ist Ihre Frau.
+15:58 Was möchte Ihre Frau machen?
 16:11 Wer? Meine Frau?
 16:27 Meine Frau möchte etwas essen.
 16:38 Was möchten Sie trinken?
@@ -106,7 +106,7 @@ Aber Günther.
 17:14 Und Sie können Milch trinken.
 17:26 Wer? Ich?
 17:38 Vielen Dank.
-17:47 Wo ist ihre Frau?
+17:47 Wo ist Ihre Frau?
 17:57 Meine Frau? Ich weiß es nicht.
 18:09 Möchten Sie mit mir etwas essen?
 18:19 Gerne.
@@ -130,10 +130,10 @@ Aber Günther.
 22:22 Doch, doch! Ich trinke Milch.
 22:34 Eine Milch bitte.
 22:47 Und ein Bier für mich.
-22:56 Hier ist ihre Milch.
+22:56 Hier ist Ihre Milch.
 23:09 Und mein Bier.
 23:24 Und dort drüben is mein Mann.
-23:33 Und ihre Frau.
+23:33 Und Ihre Frau.
 
 ========================================================
 werden /ˈveːɐdən/ to become
