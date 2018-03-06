@@ -1,0 +1,22 @@
+﻿========================================================
+V /fau/ V wie Viktor
+========================================================
+
+Verkäuferin 1.14.00:04
+
+verstehen 1.1.03:28
+  Sie verstehen 1.1.04:00
+  Verstehen Sie? 1.1.05:23
+  Ich verstehe 1.1.06:40
+  Was verstehe ich nicht? 1.10.04:18
+
+viel
+  Um wie viel Uhr? 1.9.10:56
+  
+viele 1.15:04:40, 1.15.22:35
+  
+vielen Dank 1.11.21:38
+  
+vier 1.10.10:11
+
+vierzehn 1.13.09:53
