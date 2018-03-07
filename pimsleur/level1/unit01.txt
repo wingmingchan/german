@@ -85,9 +85,14 @@ am /am/
 nennen /ˈnɛnən/ to call (as a name)
 nannte /ˈnantə/
 ========================================================
-du verstehst
-Verstehst du Englisch?
-Bist du Amerikaner?
+entschuldigen:
+  entschuldige, entschuldigst, entschuldigt, habe entschuldigt
+
+verstehen:
+  verstehe, verstehst, versteht, habe verstanden
+
+sein:
+  bin, bist, ist, sind, ihr seid, bin gewesen
 
 Leider verstehe ich kein Französisch /franˈʦøːzɪʃ/.
 I'm afraid I don't understand French.
