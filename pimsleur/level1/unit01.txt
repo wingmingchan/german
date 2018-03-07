@@ -83,7 +83,7 @@ kennen /ˈkɛnən/ to know
 an /an/ at
 am /am/
 nennen /ˈnɛnən/ to call (as a name)
-nannte /ˈnantə/
+nannte /ˈnantə/ => nennen
 ========================================================
 entschuldigen:
   entschuldige, entschuldigst, entschuldigt, habe entschuldigt
