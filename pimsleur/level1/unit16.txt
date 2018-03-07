@@ -29,6 +29,7 @@ Bis morgen, Brigitte.
 03:45 Ich möchte keine.
 03:58 Keine Dollar.
 04:12 Hier sind siebzehn Dollar.
+
 /ɡɛlt/
 04:23 Das ist viel Geld.
 04:28 Geld
@@ -57,8 +58,10 @@ Bis morgen, Brigitte.
 09:08 Nein. Neunundzwanzig.
 09:13 neunundzwanzig
 09:22 Ist das zu viel?
+
 /ɡəˈnuːk/
 09:37 Nein. Das ist genug.
+09:42 genug
 09:59 Das ist nicht genug.
 10:15 Vierunddreißig. Das ist genug.
 10:33 Das ist zu viel.
@@ -106,7 +109,7 @@ Antworten Sie auf die Fragen.
 19:02 Fünfunzwanzig und elf macht wie viel? Sechsunddreißig.
 
 Hey hören sie auf. Das ist genug.
-Jetzt sprachen Sie mit dem Herrn.
+Jetzt sprechen Sie mit dem Herrn.
 
 19:47 Entschuldigen Sie. Haben Sie noch Geld?
 19:54 Ja. Ich habe noch Geld.
