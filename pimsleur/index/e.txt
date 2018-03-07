@@ -20,7 +20,9 @@ Englisch 1.1.02:22
 
 entschuldigen 1.1.01:07
   Entschuldigen Sie. 1.1.01:48
-  
+
+Essen, das 1.16.00:22
+
 essen 1.5.14:44
   Ich esse jetzt 1.10.14:35
 
