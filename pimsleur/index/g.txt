@@ -16,6 +16,10 @@ geht 1.2.05:33
   morgen Abend geht das 1.11.21:54
   Geht es heute Abend? 1.15.21:19
 
+Geld, das 1.16.04:28
+
+genug 1.16.09:42
+
 gerne 1.6.20:42
 
 Goethe 1.4.08:33
