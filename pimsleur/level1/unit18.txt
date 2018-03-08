@@ -52,13 +52,12 @@ Aber Günther.
 07:45 meine Frau
 07:50 die Frau
 08:23 Meine Frau ist dort drüben.
-
 08:38 meine Frau möchte
 08:44 Meine Frau möchte etwas trinken.
 08:56 Ich möchte etwas trinken.
 09:14 Mein Mann möchte etwas trinken.
 09:26 Mein Mann kann etwas trinken.
-09:37 Mein Mann kann Wien trinken.
+09:37 Mein Mann kann Wein trinken.
 
 /mɪlç/
 09:45 Mein Mann kann Milch trinken.
@@ -122,7 +121,7 @@ Aber Günther.
 20:54 Was möchten trinken?
 21:01 Wasser.
 21:10 Sie können Wein trinken.
-21:26 Nein. Der Wien ist zu teuer.
+21:26 Nein. Der Wein ist zu teuer.
 21:37 Also dann, ein Bier?
 21:48 Nein. Ich möchte Milch bitte.
 21:58 Nein, nein.
@@ -134,7 +133,6 @@ Aber Günther.
 23:09 Und mein Bier.
 23:24 Und dort drüben is mein Mann.
 23:33 Und Ihre Frau.
-
 ========================================================
 werden /ˈveːɐdən/ to become
 teurer werden to go up (in price)
