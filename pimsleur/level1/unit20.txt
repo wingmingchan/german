@@ -38,18 +38,23 @@ Ah, das ist interessant.
 04:22 Er ist in Amerika.
 04:39 Wir wohnen in Amerika.
 
-/ˈkɪndɐ/
+/kɪnt ˈkɪndɐ/
+Kind, das
 04:52 Haben Sie Kinder?
 04:57 die Kinder
 05:19 Ja. Wir haben Kinder.
 05:37 Wie viele Kinder haben Sie?
 05:55 Wir haben drei Kinder.
+
 /ˈjʊŋə/
+Junge, der
 06:01 zwei Jungen
 06:06 die Jungen
 06:36 Wir haben zwei Jungen.
+
 /ˈtɔxtɐ/
 06:46 Und eine Tochter.
+06:51 Tochter
 /ˈtœçtɐ/
 zwei Töchter
 07:11 Wir haben eine Tochter.
@@ -57,8 +62,10 @@ zwei Töchter
 07:44 wir möchten
 07:55 Wir möchten einen Junge.
 08:22 Aber wir haben...
+
 /ˈmɛːtçən/
 08:27 Aber wir haben vier Mädchen.
+08:32 Mädchen
 08:51 wie viele Kinder?
 08:59 vier Kinder
 09:09 vier Mädchen
@@ -73,6 +80,7 @@ zwei Töchter
 10:37 und einen Jungen
 10:48 der Junge ist schon groß
 10:56 der Junge ist groß
+11:00 Junge
 /ɡroːs/
 11:05 groß
 /ʃoːn/
@@ -86,7 +94,7 @@ zwei Töchter
 13:54 Wie viele Kinder haben Sie?
 14:07 Ich habe vier Kinder.
 14:18 Nein, wir haben vier Kinder.
-14:27 Sie sind schone groß.
+14:27 Sie sind schon groß.
 14:56 Sie sind hier in Deutschland.
 15:13 Sie sind nicht dort drüben in Amerika.
 15:25 Wie viele Kinder haben Sie?
@@ -96,7 +104,7 @@ zwei Töchter
 15:59 Und eine Tochter.
 16:08 Das Mädchen ist nicht groß.
 16:15 Die Jungen sind groß.
-16:37 Die Jungen sind schone sehr groß.
+16:37 Die Jungen sind schon sehr groß.
 16:55 Meine Frau ist auch groß.
 
 16:59 Jetzt sprechen Sie mit Frau Meier. Antworten Sie wenn sie Englisch spricht.
@@ -108,7 +116,7 @@ zwei Töchter
 17:45 Ja, ich bin Amerikaner. Ja, ich bin Amerikanerin.
 
 (Jetzt antworten Sie auf die Frage.)
-18:09 Ist iher Frau auch hier in Deutschland?
+18:09 Ist Ihre Frau auch hier in Deutschland?
 18:16 Ja, sie ist auch hier in Deutschland. Meine Frau ist hier.
 18:25 Haben Sie Kinder?
 18:30 Ja, wir haben drei Kinder./Ja, wir haben drei.
@@ -127,9 +135,7 @@ zwei Töchter
 19:54 Sie verstehen sehr gut Deutsch.
 20:02 Nein. Nicht sehr gut. Aber vielen Dank.
 ========================================================
-
-========================================================
 denn /dɛn/: used to intensify a question and usually not translated
-einen Jungen but der Junge
+einen Jungen (accusative) but der Junge
 Mädchen, das: singular or plural, also Mädchens
 Ich habe ein Mädchen
