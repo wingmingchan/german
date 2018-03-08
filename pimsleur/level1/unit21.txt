@@ -3,7 +3,7 @@
 ========================================================
 
 Guten Tag. Sie sind?
-Ich bin Herr Gordon. Ich bin Amerikaner aber ich verstehe ein bisschen Deutsch.
+Ich bin Herr Gordon. Ich bin Amerikaner, aber ich verstehe ein bisschen Deutsch.
 Ah, Sie sind Herr Gordon. Angenehm! Kommen Sie bitte herein!
 Vielen Dank. Ist Herr Schnyder hier?
 Nein. Noch nicht. Aber Sie können hier warten.
@@ -30,12 +30,14 @@ Nein. Wir haben keine Mädchen.
 03:24 wir möchten
 03:35 wir können
 03:45 wir können warten
+03:48 warten
 04:04 Können Sie warten?
 04:16 Sie können warten
 04:42 Wir möchten viele Kinder
 
 /zoːn/
 04:52 Wir haben einen Sohn
+04:57 Sohn
 05:27 und eine Tochter
 05:44 wir wohnen
 05:51 meine Frau und ich
@@ -46,7 +48,7 @@ Nein. Wir haben keine Mädchen.
 06:40 wir wohnen in Amerika
 06:50 Die Kinder sind in Amerika
 07:11 Sie sind in Amerika
-07:27 Wo ˈsind Sie?
+07:27 Wo ˈsind sie?
 07:39 Die Kinder sind hier in Deutschland
 07:49 wir haben eine Tochter
 08:01 und einen Sohn
@@ -95,6 +97,7 @@ Nein. Wir haben keine Mädchen.
 
 /toaˈlɛtə/
 15:53 wo ist die Toilette bitte?
+15:57 die Toilette
 16:21 dort drüben
 16:30 wirklich?
 16:39 Ja, wirklich dort drüben
