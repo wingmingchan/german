@@ -5,8 +5,20 @@ S /ɛs/ S wie Siegfried
 sagan
   Sagan Sie 1.9:00:21, 1.9:02:20
 
-schon
+Salzburg 1.26.20:15
+  nach Salzburg 1.26.20:12
+
+schade 1.28.06:59
+
+schlecht 1.29.00:24
+  nicht schlecht 1.29.11:38
+
+schnell 1.17.11:45
+
+schon 1.20.11:21
   Schon gut! 1.4.18:40
+  
+schön 1.18.00:08
 
 schulden
   Wie viel schulde ich Ihnen? 1.12.07:35
@@ -19,6 +31,9 @@ sechs
 sechzehn 1.13.12:25
 
 sehr 1.2.08:04
+
+seit 1.28.10:48
+  seit ein paar Tagen 1.28.10:43
 
 sicher
   sicher nicht 1.9.23:11
@@ -35,6 +50,8 @@ siebzehn 1.14.08:09
 sind 1.1.15:29
   Sie sind 1.1.15:29
 
+Sohn 1.21.04:57
+
 später 1.6.12:08
 
 spreche 1.4.04:40
@@ -43,6 +60,7 @@ spreche 1.4.04:40
 sprechen 1.4.03:55
   Sie sprechen 1.4.03:55
   Sie sprechen gut 1.4.04:26
+  Haben Sie Deutsch gesprochen? 1.30.10:05
   
 Straße 1.4.08:44
   die Straße 1.4.08:44
