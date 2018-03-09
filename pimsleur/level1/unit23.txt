@@ -47,12 +47,14 @@ Jetzt antworten Sie auf die Frage
 
 /moˈmɛnt/
 06:46 Warten Sie einen Moment.
+06:54 einen Moment
 07:12 Sie warten
 07:21 Wir warten
 07:31 Warten Sie einen Moment.
 07:43 Ich brauche fünfzehn Liter
-So fragt man
+07:50 So fragt man
 07:58 Wohin fahren Sie?
+08:02 wohin
 08:12 Fragen Sie die Frau wohin sie fährt.
 08:21 Wohin fahren Sie?
 08:35 Ich fahre nach Berlin.
@@ -93,9 +95,11 @@ So fragt man
 
 /ˈvɛlçə/
 14:34 Welche Straße ist es?
+14:38 welche
 /ˈfyːrən/
 führen
 15:12 Welche Straße führt nach Berlin?
+15:18 führt
 15:56 Berlin? Das ist weit.
 16:10 Wie viele Kilometer?
 16:19 fünfundsiebzig
