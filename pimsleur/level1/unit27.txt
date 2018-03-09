@@ -92,9 +92,12 @@ Weg, der: path
 weg-: away
 /ˈvɛkfaːrən/
 11:09 Ich möchte wegfahren
+11:13 weg
+11:18 wegfahren
 11:40 Ich möchte morgen wegfahren
 11:53 Ich auch
 12:03 Wir fahren
+
 /ʦuˈzamən/
 12:11 Wir fahren zusammen
 12:34 zusammen
@@ -122,6 +125,7 @@ weg-: away
 
 /aˈlainə/
 16:08 Aber ich bin alleine
+16:12 alleine
 16:32 zusammen
 16:41 Sind Sie alleine?
 16:56 Nein. Ich bin mit meinem Mann hier.
