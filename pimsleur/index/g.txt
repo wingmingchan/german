@@ -5,7 +5,11 @@ G /ɡeː/ G wie Gustav
 geben 1.14:06:22
   Geben Sir mir 1.14.06:18
   Ich gebe Ihnen 1.14.22:54
-  
+  Es gibt 1.22.18:45
+
+gefällt
+  Es gefällt mir in Deutschland 1.30.03:30
+
 gehen 1:15:00:12
 
 geht 1.2.05:33
@@ -20,10 +24,27 @@ Geld, das 1.16.04:28
 
 genug 1.16.09:42
 
+geradeaus 1.23.16:34
+
 gerne 1.6.20:42
+
+Geschäft, das 1.25.07:13
+  die Geschäfte 1.25.06:29
+
+geschlossen 1.25.07:32
+  Die Geschäfte sind geschlossen 1.25.08:39
+
+gestern 1.29.07:01
+
+glauben
+  ich glaube schon 1.26.14:10
 
 Goethe 1.4.08:33
   die Goethestraße 1.4.09:12
+
+groß 1.20.11:05
+  Er ist ein sehr großer Junge 1.22.02:25
+  großes Auto 1.22.06:00
 
 gut 1.2.07:54
 
