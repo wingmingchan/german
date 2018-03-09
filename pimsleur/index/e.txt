@@ -6,8 +6,9 @@ ein 1.1.13:14
   ein bisschen 1.1.13:14
   ein Bier 1.8.05:27
   um ein Uhr 1.9.11:44
+  einen
 
-einen
+einige 1.26.07:07
 
 eins
   um eins 1.9.15:24
@@ -25,6 +26,7 @@ Essen, das 1.16.00:22
 
 essen 1.5.14:44
   Ich esse jetzt 1.10.14:35
+  Haben Sie schon gegessen? 1.29.11:45
 
 etwas 1.5.15:00
   etwas Bier 1.14.13:08
