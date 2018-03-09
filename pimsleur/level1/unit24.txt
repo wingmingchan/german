@@ -55,17 +55,21 @@ Ja, mit meiner Frau und meinen drei Kindern.
 
 /ˈneːmən/
 09:43 nehmen Sie die Straße nach Berlin
+09:49 nehmen Sie
 10:30 Welche Straße kann ich nehmen?
 10:43 Welche Straße führt nach Berlin?
 10:58 Fahren Sie geradeaus.
+
 /rɛçʦ/
 11:08 Fahren Sie nach rechts
 11:12 rechts
 11:17 nach rechts
 11:42 Fahren Sie nach rechts.
 11:52 Fahren nicht geradeaus.
+
 richtig /ˈrɪçtɪç/, richtige /ˈrɪçtɪgə/
 12:01 die richtige Straße
+12:06 richtige
 12:36 Die richtige Straße führt nach rechts.
 12:52 Welche ist die richtige Straße?
 13:08 Fahre ich
@@ -75,6 +79,7 @@ richtig /ˈrɪçtɪç/, richtige /ˈrɪçtɪgə/
 13:42 Fahren Sie geradeaus.
 13:51 Warten Sie einen Moment.
 14:02 Die richtige Straße führt nach links.
+14:07 links
 14:26 nach links
 14:33 nach rechts
 14:42 Ist das die richtige Straße?
@@ -112,6 +117,7 @@ richtig /ˈrɪçtɪç/, richtige /ˈrɪçtɪgə/
 21:13 Die richtige Straße ist hier.
 21:22 Fahren Sie nach rechts.
 21:34 Fünfzehn Kilometer weiter.
+21:39 weiter
 21:54 Fahren Sie nach links.
 22:03 Und dann geradeaus.
 22:14 Es ist nicht weit nach Berlin.
