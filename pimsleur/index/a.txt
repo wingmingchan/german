@@ -8,13 +8,17 @@ acht
   acht Uhr 1.9.13:43
   
 achtzehn 1.14.09:01
-  
+
+alleine 1.27.16:12
+ 
 also
   also dann 1.11.07:31, 1.11.13:43
   also gut 1.12.19:30
 
 am 1.6.17:20
   am Opernplatz 1.6.17:20
+
+Amerika 1.19.00:06
   
 Amerikaner 1.1.14:54
   Sie sind Amerikaner 1.1.15:57
@@ -24,9 +28,21 @@ Amerikanerin 1.3.04:36
 
 amerikanische 1.14.00:04
 
+angekommen
+  Wann sind Sie angekommen? 1.30.11:40
+
+angenehm 1.19.08:36
+
+arbeiten 1.26.08:31
+  Arbeitet Hans in München? 1.26.15:38
+
 auch 1.6.08.14
   Ich auch 1.7.12:02
   Sie auch 1.8.21:48
+  
 
 auf 1.2.11:02
   Auf Wiedersehen! 1.2.11:02
+  auf Deutsch 1.22.01:35
+  
+Auto, das 1.22.06:07
