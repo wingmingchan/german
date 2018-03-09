@@ -2,10 +2,24 @@
 W /veː/ W wie Wilhelm
 ========================================================
 
+wahr
+  nicht wahr? 1.20.17:24
+
 wann 1.6.09:31
+
+warten 1.21.03:48
+
+warum 1.25.00:18
+  Warum nicht? 1.25.05:05
 
 was
   Was möchten Sie essen/trinken? 1.7.07:20
+
+Wasser 1.18.10:54
+
+weg 1.27.11:13
+
+wegfahren 1.27.11:18
 
 weiß 1.5.07:59 => wissen
   Ich weiß es 1.5.08:06
@@ -15,10 +29,22 @@ weiß 1.5.07:59 => wissen
   Das weiß ich nicht 1.13.24:04
 
 Wein, der 1.7.08:50
- 
+
+weit 1.22.10:07
+  weiter 1.24.21:39
+
+welche 1.23.14:38
+  Welche ist die richtige Straße? 1.24.12:52
+
 wem 1.8.15:57
   mit wem? 1.8.15:51
- 
+
+wenn 1.17.12:40
+  wenn Sie möchten 1.22.11:57
+  wenn das Auto klein ist 1.23.20:58
+
+wer 1.18.14:58
+
 wie 1.2.05:11
   Wie geht es Ihnen? 1.2.06:05
   Wie bitte? 1.8.00:42
@@ -29,6 +55,10 @@ Wiederhören
 Wiedersehen 1.2.11:02
   Auf Wiedersehen! 1.2.11:02
 
+Wien 1.28.00:37
+
+wirklich 1.21.13:17
+
 wissen
   Sie wissen es 1.5.10:20
   Wissen Sie es? 1.5.10:56
@@ -36,5 +66,15 @@ wissen
 
 wo 1.4.09:46
   wo ist 1.4.10:09
-  
+
+Woche, die 1.29.03:31
+  ein paar Wochen 1.29.03:04
+
 wohin 1.15.00:13
+  Wohin fahren Sie? 1.23.00.07
+
+wohnen 1.19.10:44
+
+Wort, das 1.28.07:41
+
+wunderbar 1.18.00:08
