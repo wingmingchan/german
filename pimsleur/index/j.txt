@@ -8,3 +8,6 @@ ja 1.1.16:57
 jetzt 1.6.10:04
   Jetzt nicht 1.8.00:20
   Möchten Sie jetzt etwas trinken? 1.8.03:25
+
+Junge, der 1.20.11:00
+  Jungen 1.20.06:01
