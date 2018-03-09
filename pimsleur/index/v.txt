@@ -10,13 +10,17 @@ verstehen 1.1.03:28
   Ich verstehe 1.1.06:40
   Was verstehe ich nicht? 1.10.04:18
 
+versuchen 1.23.11:09
+
 viel
   Um wie viel Uhr? 1.9.10:56
   
 viele 1.15:04:40, 1.15.22:35
   
 vielen Dank 1.11.21:38
-  
+
+vielleicht 1.26.12:59
+
 vier 1.10.10:11
 
 vierzehn 1.13.09:53
