@@ -21,6 +21,8 @@ besuchen 1.26.06:19
   ich besuche 1.26.05:50
   Wir haben Freunde besucht 1.30.21:40
 
+besucht 2.1.06:51
+
 Bier, das 1.7.10:52
 
 bin 1.3.06:23
