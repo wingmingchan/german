@@ -10,6 +10,8 @@ geben 1.14:06:22
 gefällt
   Es gefällt mir in Deutschland 1.30.03:30
 
+gegessen 2.1.07:16
+
 gehen 1:15:00:12
 
 geht 1.2.05:33
@@ -22,6 +24,10 @@ geht 1.2.05:33
 
 Geld, das 1.16.04:28
 
+gekauft 2.1.06:26
+
+gemacht 2.1.05:41
+
 genug 1.16.09:42
 
 geradeaus 1.23.16:34
@@ -33,6 +39,10 @@ Geschäft, das 1.25.07:13
 
 geschlossen 1.25.07:32
   Die Geschäfte sind geschlossen 1.25.08:39
+
+gesehen 2.1.09:10
+
+gesprochen 2.1.07:42
 
 gestern 1.29.07:01
 
