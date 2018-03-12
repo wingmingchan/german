@@ -12,6 +12,8 @@ man
 
 Mark 1.12.08:42
 
+mehr 2.1.27:20
+
 Meier 1.2.06:50
 
 mein 1.18.06:19
@@ -34,9 +36,12 @@ mit 1.8.16:24
   mit meinen drei Kindern 1.24.00:14
   mit den Kindern 1.24.01:29
 
+mitkommen 2.2.20:11
+
 möchte
   Ich möchte 1.5.12:11
   Sie möchten 1.5.12:37
+  Ich möchte gerne Wein trinken 2.1.05:18
 
 mögen
   Sie mögen 1.29.15:38
@@ -44,8 +49,12 @@ mögen
 
 Moment, der 1.23.06:54
 
+Montag 2.2.01:36
+
 morgen 1.11.12:07
 
 Mozartstraße 1.5.08:19
 
 München 1.26.04:25
+
+müssen 2.2.14:22
