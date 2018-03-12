@@ -16,6 +16,8 @@ Frau 1.2.06:59
 
 Freund 1.26.05:38
 
+früh 2.1.18:00
+
 führen
   führt 1.23.15:18
   Welche Straße führt nach Berlin? 1.23.15:12
