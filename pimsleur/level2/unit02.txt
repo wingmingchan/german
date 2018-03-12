@@ -4,13 +4,15 @@
 Unit 2: Möchten Sie mit mir mitkommen?
 ========================================================
 
+Hören Sie diesem Gespräch zwischen Bill und seiner Bekannten Brigitte zu
+
 Brigitte, was möchten Sie jetzt machen?
 Ach ich weiß es nicht Bill.
 Möchten Sie veilleicht etwas essen?
 Danke. Ich habe schon gegessen.
 Also was möchten Sie machen?
 Was möchten Sie machen?
-Ich? Ich möchte mit dem Auto webfahren.
+Ich? Ich möchte mit dem Auto wegfahren.
 Möchten Sie mit mir mitkommen?
 Ja, gerne. Wann fahren wir?
 ========================================================
@@ -114,7 +116,7 @@ Ja, gerne. Wann fahren wir?
 25:02 Er ist ein Freund von mir.
 25:16 mein Freund
 25:28 ein Freund, mein Freund
-25:45 Er ist Deuscher, nicht wahr?
+25:45 Er ist Deutscher, nicht wahr?
 
 /ˈʃvaiʦər/
 25:58 Nein. Er ist Schweizer.
