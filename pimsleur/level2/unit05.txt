@@ -1,7 +1,7 @@
 ﻿========================================================
 2nd Edition, 2010
 
-Unit 5: 
+Unit 5: Aber es fährt nicht oft.
 ========================================================
 
 Wie wäre es mit einem Glas Wien, Jean?
@@ -13,7 +13,7 @@ Ich kenne das Café Mozart nicht. Es ist weit von hier?
 Nein. Wir können zu Fuß gehen.
 Sie möchten zu Fuß gehen? Fahren Sie mit dem Auto?
 Aber Jean! Sie möchten mit dem Auto fahren? Fahren Sie in Amerika immer mit dem Auto?
-Ja. Ich gehe nicht zu Fuß wenn ich ein Auto habe.
+Ja. Ich gehe doch nicht zu Fuß wenn ich ein Auto habe.
 ========================================================
 01:29 Guten Tag, Frau White.
 01:41 Wie geht es Ihnen, Herr Meier?
@@ -39,7 +39,7 @@ Ja. Ich gehe nicht zu Fuß wenn ich ein Auto habe.
 07:28 Ein Kollege kommt zu Besuch.
 07:44 Seine Frau kommt auch.
 08:01 Er kommt mit seiner Frau.
-08:23 Sie sind
+08:23 sie sind
 08:41 Sind sie Amerikaner?
 09:11 ihr Kollege und seine Frau
 09:29 sind sie Amerikaner?
@@ -61,7 +61,7 @@ Ja. Ich gehe nicht zu Fuß wenn ich ein Auto habe.
 13:24 Und sie sprechen beide Deutsch.
 13:44 Wann haben sie in Deutschland angekommen?
 14:03 Meine Kollegin und ihr Mann sind gestern Abend angekommen.
-14:30 Aber mein Kollege und seine Frau kommen heute Abend.
+14:30 Aber mein Kollege und seine Frau kommen heute.
 14:55 Wir können ein Glas Wein zusammen trinken.
 15:14 wenn Sie möchten.
 15:23 Ja, gerne.
