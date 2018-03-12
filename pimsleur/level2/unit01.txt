@@ -30,10 +30,16 @@ Noch nicht viel.
 04:54 Ja, ich mag Wein.
 05:18 Ich möchte gerne Wein trinken.
 05:35 Was haben Sie heute gemacht?
+05:41 gemacht
+06:04 Was haben Sie heute gemacht?
 06:20 Ich habe etwas gekauft.
+06:26 ich habe gekauft
 06:44 Und ich habe ein paar Freunde besucht.
+06:51 ich habe besucht
 07:09 Wir haben zusammen gegessen.
+07:16 wir haben gegessen
 07:35 Und ich habe viel Deutsch gesprochen.
+07:42 ich habe gesprochen
 08:03 Gefällt es Ihnen in München?
 08:23 Ja, ich bin gestern angekommen.
 08:38 und heute?
@@ -68,6 +74,7 @@ Noch nicht viel.
 17:05 Möchten Sie in die Stadt gehen?
 17:25 wann?
 17:31 morgen früh
+18:00 früh
 18:12 heute Morgen
 18:49 Ich habe morgen früh keine Zeit
 19:08 Ich kann nicht in die Stadt gehen.
@@ -115,6 +122,8 @@ vom Land in die Stadt ziehen /ˈʦiːən/
 to move from the country to the city
 
 gefallen, gefällt
+
+gut gemacht: well done
 ========================================================
 Grammar:
 
