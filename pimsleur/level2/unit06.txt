@@ -57,6 +57,7 @@ Sicher!
 11:05 oder möchten Sie Ihr Auto nehmen?
 11:25 Nein. Mein Auto ist zu Hause.
 11:38 Wir können mit der U-Bahn fahren.
+11:47 mit der U-Bahn
 11:43 mit der
 12:00 Mit der U-Bahn?
 12:11 Ja, die U-Bahn fährt hier.
@@ -69,7 +70,7 @@ Sicher!
 13:50 Ja, sicher.
 14:04 mit dem Auto
 14:14 mit der U-Bahn
-14:25 Wöchten Sie wirklich zu Fuß gehen?
+14:25 Möchten Sie wirklich zu Fuß gehen?
 14:49 Dann können wir beide zu Fuß gehen.
 15:07 zusammen
 15:18 Wollen wir zusammen zu Fuß gehen?
@@ -85,6 +86,7 @@ Sicher!
 17:34 Was müssen Sie kaufen?
 17:54 Ich möchte ein paar T-Shirts kaufen.
 18:04 T-Shirts? Für wen?
+18:09 wen
 18:24 Für wen?
 18:36 für meine Freunde
 19:06 für meine Freunde in Amerika
@@ -117,10 +119,10 @@ Sicher!
 
 26:10 Wie viel Uhr ist es jetzt?
 26:19 Es ist drei Uhr.
-26:24 Drei Uhr? Ah, ich muss in die Stadt gehen. Ich muss etwas kaufen.
+26:24 Drei Uhr? Ah, ich muss in die Stadt gehen. Ich muss noch etwas kaufen.
 26:40 Ich möchte gerne mitkommen.
 27:00 Haben wir Zeit etwas zu trinken?
-27:07 Möchten Sie vorher zu trinken?
+27:07 Möchten Sie vorher etwas trinken?
 27:22 Ja, vorher. Ich habe nachher keine Zeit.
 27:29 Wir haben beide nachher keine Zeit. Was möchten Sie machen?
 27:41 Ich muss etwas kaufen.
