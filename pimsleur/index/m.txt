@@ -10,6 +10,8 @@ man
   wie sagt man 1.23.03:15
   So fragt man 1.23.07:50
 
+manchmal 2.4.03:41
+
 Mark 1.12.08:42
 
 mehr 2.1.27:20
@@ -35,6 +37,7 @@ mit 1.8.16:24
   mit meiner Frau 1.19.12:23
   mit meinen drei Kindern 1.24.00:14
   mit den Kindern 1.24.01:29
+  mit dem Auto 2.5.22:09
 
 mitkommen 2.2.20:11
 
