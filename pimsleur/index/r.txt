@@ -11,3 +11,7 @@ Restaurant, das 1.7.16:32
   im Restaurant Zum Bären 1.9.00:31
   
 richtige 1.24.12:06
+
+rot 2.3.18:42
+
+Rotwein, der 2.3.18:44
