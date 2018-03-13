@@ -30,6 +30,9 @@ gemacht 2.1.05:41
 
 genug 1.16.09:42
 
+geöffnet
+  Wie lange sind die Geschäfte noch geöffnet? 2.3.27:02
+
 geradeaus 1.23.16:34
 
 gerne 1.6.20:42
@@ -48,6 +51,9 @@ gestern 1.29.07:01
 
 glauben
   ich glaube schon 1.26.14:10
+  
+Glas, das
+  Möchten Sie ein Glas Wein? 2.3.17:10
 
 Goethe 1.4.08:33
   die Goethestraße 1.4.09:12
