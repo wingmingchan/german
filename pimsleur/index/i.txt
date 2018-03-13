@@ -6,15 +6,22 @@ ich 1.1.06:40
   ich bin 1.3.15:32
 
 ihn 1.26.16:22
+  Ich kenne ihn 2.3.06:21
 
 Ihnen 1.2.05:52
 
 Ihr 1.18.12:26
 
+ihr
+  ihr Mann 2.4.15:39
+  mit ihrem Mann 2.4.08:08
+
 Ihre 1.18.12:01
 
 im (in + dem)
   im Restaurant 1.7.05:38
+
+immer 2.3.20:43
 
 in
   in der Goethestraße 1.7.17:47
