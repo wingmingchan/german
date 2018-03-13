@@ -7,6 +7,10 @@ wahr
 
 wann 1.6.09:31
 
+wäre
+  es wäre 2.4.18:19
+  wie wäre es mit 2.4.18:02
+
 warten 1.21.03:48
 
 warum 1.25.00:18
@@ -21,6 +25,10 @@ weg 1.27.11:13
 
 wegfahren 1.27.11:18
 
+Wein, der 1.7.08:50
+
+Weinkarte, die 2.3.18:29
+
 weiß 1.5.07:59 => wissen
   Ich weiß es 1.5.08:06
   Ich weiß es nicht 1.5.07:59
@@ -28,7 +36,9 @@ weiß 1.5.07:59 => wissen
   Ich weiß nicht wann 1.10.22:06
   Das weiß ich nicht 1.13.24:04
 
-Wein, der 1.7.08:50
+weiß 2.3.19:12
+
+Weißwein, der 2.3.19:15
 
 weit 1.22.10:07
   weiter 1.24.21:39
@@ -48,6 +58,7 @@ wer 1.18.14:58
 wie 1.2.05:11
   Wie geht es Ihnen? 1.2.06:05
   Wie bitte? 1.8.00:42
+  wie wäre es mit/wie wär's mit 2.4.18:02
   
 Wiederhören
   Auf Wiederhören 1.12.00:31, 1.13.06:50
@@ -74,6 +85,9 @@ wohin 1.15.00:13
   Wohin fahren Sie? 1.23.00.07
 
 wohnen 1.19.10:44
+
+wollen
+  wollen wir 2.5.19:16
 
 Wort, das 1.28.07:41
 
