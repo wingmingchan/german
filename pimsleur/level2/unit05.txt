@@ -41,7 +41,7 @@ Ja. Ich gehe doch nicht zu Fuß wenn ich ein Auto habe.
 08:01 Er kommt mit seiner Frau.
 08:23 sie sind
 08:41 Sind sie Amerikaner?
-09:11 ihr Kollege und seine Frau
+09:11 Ihr Kollege und seine Frau
 09:29 sind sie Amerikaner?
 09:47 Mein Kollege ist Amerikaner.
 10:04 Aber seine Frau is Schweizerin.
@@ -53,7 +53,7 @@ Ja. Ich gehe doch nicht zu Fuß wenn ich ein Auto habe.
 11:43 sie und ihr Mann
 11:52 beide
 12:14 Wo wohnen sie?
-12:26 ihre Kollegin und ihr Mann
+12:26 Ihre Kollegin und ihr Mann
 12:45 in Washington
 12:54 beide
 13:03 sie sind beide Amerikaner
@@ -116,8 +116,8 @@ das Haus
 
 26:14 Wollen wir die U-Bahn nehmen?
 26:27 Oder wollen wir mit dem Auto fahren?
-26:49 Haben Sie ihr Auto?
-27:03 Mein Auto is zu Hause.
+26:49 Haben Sie Ihr Auto?
+27:03 Mein Auto ist zu Hause.
 27:14 Wir können mit dem Taxi fahren.
 27:28 Ich habe nicht viel Zeit.
 27:44 Ich glaube wir müssen ein Taxi nehmen.
@@ -125,4 +125,3 @@ das Haus
 28:16 Gut. Dort drüben ist ein Taxi.
 ========================================================
 H-Milch: long-life milk
-
