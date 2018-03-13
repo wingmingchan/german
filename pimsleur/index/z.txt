@@ -11,6 +11,9 @@ Zigaretten 1.14:00:04
 
 zu 1.16.05:58
   etwas zu trinken 1.29.09:18
+  zu Besuch 2.3.13:45
+  zu Fuß 2.5.19:45
+  zu Hause 2.5.21:52
 
 zum 1.16.00:22
 
