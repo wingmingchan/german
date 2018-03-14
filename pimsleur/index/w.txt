@@ -29,6 +29,8 @@ Wein, der 1.7.08:50
 
 Weinkarte, die 2.3.18:29
 
+Weinkeller, der 2.7.24:57
+
 weiß 1.5.07:59 => wissen
   Ich weiß es 1.5.08:06
   Ich weiß es nicht 1.5.07:59
