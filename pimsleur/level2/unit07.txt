@@ -61,7 +61,7 @@ Wir müssen zusammen in einen Weinkeller gehen.
 11:38 Der Brief kommt aus Amerika.
 11:52 Er ist von Tom Snynder.
 12:31 Herr Snynder kommt nach Deutschland.
-12:41 Mit seine Frau.
+12:41 Mit seiner Frau.
 12:57 Sie sind beide Amerikaner.
 13:08 Sie kommen am Montag.
 13:14 Montag
@@ -73,6 +73,7 @@ Wir müssen zusammen in einen Weinkeller gehen.
 14:20 Wie viele Tage bleiben sie in Deutschland?
 14:42 Sie bleiben zwei Tage in Deutschland.
 14:53 Sie kommen an.
+14:56 an
 15:24 Sie kommen um fünf Uhr an.
 15:45 Ich komme an.
 16:01 Er kommt am Montag an.
@@ -84,6 +85,7 @@ Wir müssen zusammen in einen Weinkeller gehen.
 17:15 vor
 17:29 Sie kommen um zehn vor fünf an.
 17:50 Doch! Um zehn nach fünf.
+17:58 nach
 18:11 nachher
 18:29 Um zehn nach fünf?
 18:50 Ja, sie kommen um zehn nach fünf an.
@@ -108,7 +110,7 @@ Wir müssen zusammen in einen Weinkeller gehen.
 23:36 Was möchten Sie am Dienstag machen?
 23:46 Wir können in ein Biergarten gehen.
 23:54 der Biergarten
-24:11 In ein Biergarten?
+24:11 in ein Biergarten?
 24:25 Herr Snynder trinkt kein Bier.
 24:42 Aber er trinkt Wein.
 24:51 Weinkeller
@@ -125,7 +127,7 @@ Wir müssen zusammen in einen Weinkeller gehen.
 27:05 Ja? Wann?
 27:15 Sie kommt am Montag um drei Uhr an.
 27:20 Und wie lange bleibt sie?
-27;29 Nur bis Dienstag.
+27:29 Nur bis Dienstag.
 27:41 Frau Elders spricht sehr gut Deutsch.
 27:48 Wollen wir nachher zusammen etwas bei mir trinken?
 27:56 Ja, gerne.
