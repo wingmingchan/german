@@ -10,6 +10,10 @@ danke 1.2.07:42, 1.9.20:18
 dann
   also dann 1.11.07:31, 1.11.13:43
 
+darf
+  Darf ich 2.9.05:23
+  du darfst 2.9.09:57
+  
 das 1.9.00:36
 
 dem
@@ -33,6 +37,8 @@ Deutscher 1.3.07:57
 
 Deutschland 1.13.22:11
 
+dich 2.9.05:40
+
 die 1.4.08:44
   die ist geradeaus 2.4.23:00
 
@@ -42,6 +48,7 @@ dieses
   dieses Wort 1.30.01:22
 
 dir 1.28.00:28
+  von dir 2.9.08:07
 
 doch 1.4.05:10
 
@@ -56,3 +63,6 @@ dreißig 1.16.08:24
 dreizehn 1.12.13:31
 
 du 1.28.00:35
+
+dürfen
+  Darf ich 2.9.05:23
