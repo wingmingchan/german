@@ -23,6 +23,8 @@ vielleicht 1.26.12:59
 
 vier 1.10.10:11
 
+Viertel 2.8.12:53
+
 vierzehn 1.13.09:53
 
 von 
@@ -30,6 +32,7 @@ von
   von hier 2.2.07:08
   von mir 2.2.08:31
   von wem? 2.7.00:17
+  von dir 2.9.08:07
   
 vor 2.7.17:15
   um zehn vor fünf 2.7.16:45
