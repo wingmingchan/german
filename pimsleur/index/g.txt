@@ -21,6 +21,7 @@ geht 1.2.05:33
   Das geht 1.9.09:48
   morgen Abend geht das 1.11.21:54
   Geht es heute Abend? 1.15.21:19
+  Wann gehst du? 2.9.03:55
 
 Geld, das 1.16.04:28
 
@@ -36,6 +37,7 @@ geöffnet
 geradeaus 1.23.16:34
 
 gerne 1.6.20:42
+  nicht sehr gerne 2.9.00:30
 
 Geschäft, das 1.25.07:13
   die Geschäfte 1.25.06:29
