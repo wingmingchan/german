@@ -39,6 +39,7 @@ mit 1.8.16:24
   mit den Kindern 1.24.01:29
   mit dem Auto 2.5.22:09
   mit der U-Bahn 2.6.11:47
+  mit ihrem Mann 2.8.15:37
 
 mitkommen 2.2.20:11
 
@@ -46,6 +47,7 @@ möchte
   Ich möchte 1.5.12:11
   Sie möchten 1.5.12:37
   Ich möchte gerne Wein trinken 2.1.05:18
+  Möchtest du 2.9.02:41
 
 mögen
   Sie mögen 1.29.15:38
