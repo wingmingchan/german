@@ -10,10 +10,15 @@ fahren 1.22.23:24
 fährt => fahren 2.5.17:44
   Die U-Bahn fährt hier 2.5.18:52
 
+fährst => fahren
+  du fährst 2.9.20:20
+
 fragen 1.15.03:46
 
 Frankfurt
   Gefällt es Ihnen in Frankfurt? 1.30.05:18
+
+Freitag 2.8.11:20
 
 Frau 1.2.06:59
 
