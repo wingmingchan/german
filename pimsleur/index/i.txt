@@ -26,6 +26,9 @@ immer 2.3.20:43
 in
   in der Goethestraße 1.7.17:47
 
+ins => in das
+  ins Kino 2.8.22:33
+
 interessant 1.20.00:40
 
 ist 1.4.09:56
