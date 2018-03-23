@@ -29,6 +29,6 @@ in
 ins => in das
   ins Kino 2.8.22:33
 
-interessant 1.20.00:40
+interessant 1.20.00:40, 2.10.16:50
 
 ist 1.4.09:56
