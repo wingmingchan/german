@@ -28,6 +28,9 @@ Milch 1.18.09:50
 
 Mineralwasser 1.18.11:17
 
+Minute, die
+  Minuten, die 2.10.04:29
+
 mir 1.2.09:37
   Es geht mir gut. 1.2.09:37
 
@@ -40,6 +43,7 @@ mit 1.8.16:24
   mit dem Auto 2.5.22:09
   mit der U-Bahn 2.6.11:47
   mit ihrem Mann 2.8.15:37
+  mit Herrn Arnold 2.10.01:47
 
 mitkommen 2.2.20:11
 
