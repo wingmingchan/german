@@ -65,5 +65,6 @@ groß 1.20.11:05
   großes Auto 1.22.06:00
 
 gut 1.2.07:54
+  gute Reise 2.10.24:25
 
 Guten Tag 1.2.04:29
