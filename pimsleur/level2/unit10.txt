@@ -136,3 +136,9 @@ Zucker, der
 26:02 zweiundzwanzig Uhr fünfzehn
 26:18 dreiundzwanzig Uhr fünfundvierzig
 ========================================================
+Das ist Herr Müller. (Nominativ)
+Für Herrn Müller. (Genitiv)
+Ich habe heute Herrn Müller gegoogelt. (Akkusativ)  
+Dieser Stift gehört Herrn Müller. (Dativ)
+This pen belongs to Mr. Müller.
+========================================================
