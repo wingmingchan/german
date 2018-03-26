@@ -13,6 +13,8 @@ fährt => fahren 2.5.17:44
 fährst => fahren
   du fährst 2.9.20:20
 
+Februar, der 2.11.17:22
+
 fragen 1.15.03:46
 
 Frankfurt
@@ -22,7 +24,9 @@ Freitag 2.8.11:20
 
 Frau 1.2.06:59
 
-Freund 1.26.05:38
+Freund, der 1.26.05:38
+
+Freundin, die 2.12.06:38
 
 früh 2.1.18:00
 
@@ -35,6 +39,7 @@ fünf 1.10.08:57
 fünfzehn 1.13.11:48
 
 für 1.15.06:22
+  für Herrn Arnold 2.12.17:47
 
 Fuß, der
   zu Fuß 2.5.19:45
