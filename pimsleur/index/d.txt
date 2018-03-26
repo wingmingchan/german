@@ -44,6 +44,12 @@ die 1.4.08:44
 
 Dienstag 2.7.22:36
 
+diese
+  diese Woche 2.12.04:26
+
+dieser
+  dieser Kaffee 2.12.16:56
+
 dieses
   dieses Wort 1.30.01:22
 
@@ -53,6 +59,8 @@ dir 1.28.00:28
 doch 1.4.05:10
 
 Dollar 1.13.10:50
+
+Donnerstag, der 2.11.08:13
 
 dort drüben 1.4.13:40
 
