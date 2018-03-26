@@ -1,6 +1,5 @@
 ﻿========================================================
 2nd Edition, 2010
-========================================================
 
 Unit 12: Der Kaffee wird kalt
 ========================================================
@@ -119,7 +118,7 @@ werden
 21:54 Herr Arnold ist leider nicht hier.
 22:07 Er kann den Kuchen später essen.
 22:23 wenn er möchte
-22:36 Kennen Sie Herr Arnold gut?
+22:36 Kennen Sie Herrn Arnold gut?
 22:49 Nein, ich kenne ihn nicht sehr gut.
 23:01 Ich kenne ihn.
 23:12 Aber nicht seine Frau.
