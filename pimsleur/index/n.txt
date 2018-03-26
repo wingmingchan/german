@@ -12,6 +12,8 @@ nach 2.7.17:58
 
 nachher 2.6.23:36
 
+natürlich 2.13.20:53
+
 nehmen 1.24.09:49
   nehmen Sie die Straße nach Berlin 1.24.09:43
 
