@@ -6,6 +6,9 @@ machen 1.8.12:21
 
 Mädchen 1.20.08:32
 
+mal
+  Sag mal 2.9.02:14
+
 man
   wie sagt man 1.23.03:15
   So fragt man 1.23.07:50
@@ -30,6 +33,7 @@ Mineralwasser 1.18.11:17
 
 Minute, die
   Minuten, die 2.10.04:29
+  Siebzehn Minuten nach zehn 2.12:11:44
 
 mir 1.2.09:37
   Es geht mir gut. 1.2.09:37
@@ -44,6 +48,7 @@ mit 1.8.16:24
   mit der U-Bahn 2.6.11:47
   mit ihrem Mann 2.8.15:37
   mit Herrn Arnold 2.10.01:47
+  mit ihm 2.12.14:10
 
 mitkommen 2.2.20:11
 
