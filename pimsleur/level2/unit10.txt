@@ -57,6 +57,7 @@ Minute, die
 09:59 Möchten Sie einen Kaffee?
 Tasse, die
 10:11 eine Tasse Kaffee
+10:17 die Tasse
 10:38 Möchten Sie eine Tasse Kaffee?
 10:50 Oder ein Mineralwasser vielleicht?
 11:08 Eine Tasse Kaffee bitte.
