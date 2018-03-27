@@ -34,6 +34,8 @@ Kind, das
 Kino, das 2.8.21:55
   ins Kino 2.8.22:33
 
+Kiosk, der 2.14.00:23
+
 klein 1.21.10:08
 
 Kollege 1.19.00:06
