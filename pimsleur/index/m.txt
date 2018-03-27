@@ -49,8 +49,13 @@ mit 1.8.16:24
   mit ihrem Mann 2.8.15:37
   mit Herrn Arnold 2.10.01:47
   mit ihm 2.12.14:10
+  mit uns 2.15.04:53
+
+mitfahren 2.14.08:44
 
 mitkommen 2.2.20:11
+
+mitnehmen 2.14.08:55
 
 möchte
   Ich möchte 1.5.12:11
