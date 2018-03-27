@@ -30,6 +30,8 @@ Freundin, die 2.12.06:38
 
 früh 2.1.18:00
 
+früher 2.14.17:33
+
 führen
   führt 1.23.15:18
   Welche Straße führt nach Berlin? 1.23.15:12
@@ -40,6 +42,7 @@ fünfzehn 1.13.11:48
 
 für 1.15.06:22
   für Herrn Arnold 2.12.17:47
+  für ihn 2.14.12:47
 
 Fuß, der
   zu Fuß 2.5.19:45
