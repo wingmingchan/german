@@ -9,6 +9,14 @@ Tasse, die 2.10.10:17
 
 Taxi, das 1.26.03:38
 
+Telephon 2.16.14:34
+
+Telephonbuch, das 2.16.15:16
+
+telefonieren 2.16.14:02
+
+Telephonnummer 2.16.15:49
+
 teuer 1.17.08:25
 
 Tochter 1.20.06:51
