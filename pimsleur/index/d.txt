@@ -16,6 +16,8 @@ darf
   
 das 1.9.00:36
 
+dass 1.22.02:53
+
 dem
   mit dem Auto 2.2.00:26
 
@@ -69,6 +71,8 @@ drei 1.10.09:35
 dreißig 1.16.08:24
 
 dreizehn 1.12.13:31
+
+drüben 1.4.13:40
 
 du 1.28.00:35
 
