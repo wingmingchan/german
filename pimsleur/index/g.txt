@@ -9,6 +9,7 @@ geben 1.14:06:22
 
 gefällt
   Es gefällt mir in Deutschland 1.30.03:30
+  Es gefällt mir in der Schweiz 2.15.07:20
 
 gegessen 2.1.07:16
 
@@ -63,6 +64,7 @@ Goethe 1.4.08:33
 groß 1.20.11:05
   Er ist ein sehr großer Junge 1.22.02:25
   großes Auto 1.22.06:00
+  größer 2.15.05:29
 
 gut 1.2.07:54
   gute Reise 2.10.24:25
