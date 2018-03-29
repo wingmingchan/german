@@ -17,6 +17,9 @@ also
   also dann 1.11.07:31, 1.11.13:43
   also gut 1.12.19:30
 
+alt 2.15.09:26
+  wie alt 2.15.09:23
+
 am 1.6.17:20
   am Opernplatz 1.6.17:20
   am Montag 2.7.13:22
@@ -47,6 +50,7 @@ arbeiten 1.26.08:31
 auch 1.6.08.14
   Ich auch 1.7.12:02
   Sie auch 1.8.21:48
+  Und ein Auto habe ich auch nicht 2.15.16:56
 
 auf 1.2.11:02
   Auf Wiedersehen! 1.2.11:02
