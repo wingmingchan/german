@@ -60,12 +60,19 @@ wem 1.8.15:57
 wen 2.6.18:09
   Für wen? 2.6.18:24
 
+wenig 2.15.15:18
+  weniger 2.14.19:15
+
+weniger 2.14.19:15
+
 wenn 1.17.12:40
   wenn Sie möchten 1.22.11:57
   wenn das Auto klein ist 1.23.20:58
 
 wer 1.18.14:58
   Wer weiß? 2.14.06:02
+
+werden 2.15.05:46
 
 Wetter, das 2.13.07:29
 
@@ -83,7 +90,7 @@ Wiedersehen 1.2.11:02
 
 Wien 1.28.00:37
 
-wird 2.12.19:50
+wird => werden 2.12.19:50
 
 wirklich 1.21.13:17
 
