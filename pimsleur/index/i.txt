@@ -31,10 +31,12 @@ in
   in der Goethestraße 1.7.17:47
   in der Schweiz 2.13.05:27
   in die Schweiz 2.13.05:27
+  Es gefällt mir in der Schweiz 2.15.07:20
 
 ins => in das
   ins Kino 2.8.22:33
 
 interessant 1.20.00:40, 2.10.16:50
+  interessanter 2.16:07:18
 
 ist 1.4.09:56
