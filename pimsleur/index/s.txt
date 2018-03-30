@@ -29,6 +29,10 @@ schön 1.18.00:08
   Haben Sie Bill Jamerson schon gesehen? 2.3.04:30
   Wie schön für Sie! 2.10.19:37
 
+schreiben
+  schreibt 2.18.05:33
+  Schreiben Sie viel? 2.18.06:24
+
 schulden
   Wie viel schulde ich Ihnen? 1.12.07:35
   Sie schulden mir elf Mark 1.12.21:54
