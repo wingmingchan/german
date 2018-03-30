@@ -9,6 +9,9 @@ acht
   
 achtzehn 1.14.09:01
 
+Adresse, die
+  die Adresse ist 2.18.03:56
+  
 alleine 1.27.16:12
 
 als 2.1.27:20
@@ -41,6 +44,8 @@ angekommen
   Wann sind Sie angekommen? 1.30.11:40
 
 angenehm 1.19.08:36
+
+Apotheke, die 2.18.25:06
 
 Arbeit, die 2.1.19:42
 
