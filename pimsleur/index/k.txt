@@ -50,9 +50,15 @@ können
   Sie können 1.15.10:57
   Kannst du gehen? 2.9.04:29
 
+könnte => können 2.18.18:20
+
+könnten => können 2.18.19:04
+
 Konzert, das 2.9.07:05
 
 kosten
   kostet 1.15.08:44
+
+krank 2.19.00:13
 
 Kuchen, der 2.10.12:41
