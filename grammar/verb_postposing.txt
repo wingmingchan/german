@@ -1,0 +1,11 @@
+﻿Verb Postposing
+
+When the following words are the head of a non-question clause, move the verb to the end of the clause.
+
+bis:
+Ich warte bis meine Freundin Zeit hat.
+weil:
+weil die Geschäfte geschlossen sind
+wie:
+Können Sie mir zeigen wie ich zu Ihnen komme?
+
