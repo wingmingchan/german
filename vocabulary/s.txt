@@ -12,6 +12,8 @@ sagen: to say
 
 Sau /zau/, die: sow
 
+Schiff /ʃɪf/, das: ship, boat
+
 Schnee /ˈʃneː/, der: snow
   Wir mussten uns einen Weg durch den tiefen /tiːf/ Schnee bahnen.
   We had to make a path through the deep snow. 
@@ -19,6 +21,9 @@ Schnee /ˈʃneː/, der: snow
 Schokolade, die /ʃokoˈlaːdə/: chocolate
 
 Schokoladenkuchen, der: chocolate cake
+
+Schuh /ʃuː/, der: shoe
+  ein Paar Schuhe: a pair of shoes
 
 Schuld, die: guilt, fault, debt
 
@@ -81,13 +86,15 @@ ständig /ˈʃtɛndɪç/: permanent
 
 stehen: to stand
 
-sterben /ˈʃtɛrbən/: to die
-  er stirbt
-  Er starb gestern.
+steigen /ˈʃtaiɡən/: to climb
 
 -stellig /ʃtɛlɪç/: -figure, -digit
   fünfstellige
   einstellig
+
+sterben /ˈʃtɛrbən/: to die
+  er stirbt
+  Er starb gestern.
 
 stillen /ˈʃtɪlən/: to breastfeed
    Planst du, dein Kind zu stillen?
@@ -100,6 +107,9 @@ Stück /ʃtʏk/, das: piece, bit
 Student /ʃtuˈdɛnt/, Studentin: student
   Sie ist Studentin an der Universität Leipzig.
   She is a student at Leipzig University.
+
+studieren /ʃtuˈdiːrən/: to study
+  studiere, studierst, studiert, habe studiert
 
 Sturm /ʃtʊrm/, der: storm
 
