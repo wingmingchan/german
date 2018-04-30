@@ -23,7 +23,7 @@ Prima!
 01:57 sag mal
 02:10 Kennst du Mario Brown?
 02:24 Kennst du sie?
-02:34 , ich kenne sie.
+02:34 Ja, ich kenne sie.
 02:43 eine Bekannte
 02:52 Sie ist eine Bekannte von mir.
 03:14 Eine Bekannte von dir?
@@ -102,7 +102,7 @@ Prima!
 20:33 ich dachte
 20:45 du dachtest
 20:53 Was dachtest du?
-21:16 Ich dachte sie können viel besser als ich Tennis spielen.
+21:16 Ich dachte sie könnten viel besser als ich Tennis spielen.
 21:37 Aber du spielst doch gut.
 21:59 Gut. Spielen wir morgen Abend Tennis?
 22:10 Mittwoch, der
