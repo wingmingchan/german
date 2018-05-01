@@ -6,7 +6,13 @@ fahren /ˈfaːrən/: to drive, to go
    Sollen wir zu Fuß gehen oder fahren?
    Shall we walk or drive? 
 
-falsch: wrong, false
+fallen /ˈfalən/: to fall
+
+falsch /falʃ/: wrong, false, faked
+
+fast /fast/: almost
+
+Feindschaft /ˈfaintʃaft/, die: hostility
 
 Fenster /ˈfɛnstɐ/, das: window
   Möchten Sie am Fenster sitzen oder am Gang?
@@ -14,8 +20,31 @@ Fenster /ˈfɛnstɐ/, das: window
 
 Ferkel /ˈfɛrkəl/, das: piglet
 
+fernhalten /ˈfɛrnhaltən/: to keep away
+
+Festnahme /ˈfɛstnaːmə/, die: arrest
+  Er sitzt seit seiner Festnahme in Köln in Untersuchungshaft.
+  Since his arrest he's been in custody awaiting trial in Cologne.
+
+Feuchtigkeit /ˈfɔʏçtɪçkait/, die: dampness, moisture
+  eine Feuchtigkeitscreme für die Haut: a moisturizing cream for the skin
+
+Feuer /ˈfɔʏɐ/, das: fire
+  das Feuer eröffnen/einstellen: to open/cease fire
+
+fielen => fallen: to be fired
+
 finden /ˈfɪndən/: to find
   finde, findest, findet, habe gefunden
+
+Fleck /flɛk/, der: stain, mark
+
+fliehen /ˈfliːən/: to flee
+  Tausende flohen vor dem Hochwasser aus der Stadt.
+  Thousands fled the city to escape the floods.
+
+flüchten /ˈflʏçtən/: to flee
+  Gebiet /ɡəˈbiːt/, das: region, area
 
 Flug /fluːk/, der: flight
 
@@ -42,5 +71,8 @@ Frost /frɔst/, der: frost
 
 Frühling /ˈfryːlɪŋ/, der: spring
    Endlich wird es Frühling! Spring is here at last!
+
+funktionieren /fʊŋkʦjoˈniːrən/: to function, to work
+  Geburtstag /ɡəˈbuːɐʦtaːk/: birthday
    
 Fuß /fuːs/, der: foot
