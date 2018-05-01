@@ -2,6 +2,8 @@
 S /ɛs/ S wie Siegfried
 ========================================================
 
+Sache /ˈzaxə/, die: thing
+
 Saft /zaft/, der: juice
   Apfelsaft, Orangensaft
 
@@ -10,13 +12,50 @@ sagen: to say
   Ehrlich gesagt: Ich weiß es nicht.
   To be honest, I don’t know.
 
+Salat /zaˈlaːt/, der: lettuce, salad
+
 Sau /zau/, die: sow
 
+sauber /ˈzaubɐ/: clean
+
+saugfähig /ˈzaukfɛːɪç/: absorbent
+  saugfähiges Küchenpapier: absorbent kitchen paper
+
+scharf /ʃarf/: sharp, strong, hot, spicy, rigorous, tough
+
+schaudern /ˈʃaudɐn/: to shiver
+
+Schauspieler, Schauspielerin /ˈʃauʃpiːlɐ/: actor/actress
+
+Scheibe /ˈʃaibə/, die: window pane
+
+scheinen /ˈʃainən/: to shine
+
+schief /ʃiːf/: awry
+
+schießen /ˈʃiːsən/: to shoot, to kick
+
 Schiff /ʃɪf/, das: ship, boat
+
+schlafen /ˈʃlaːfən/: to sleep
+
+Schlagstock /ˈʃlaːkʃtɔk/, der: baton, nightstick
+  Die Beamten setzten Tränengas und Schlagstöcke gegen die Demonstranten ein.
+  The officers employed tear gas and batons against the demonstrators.
+
+Schliere /ˈʃliːrə/, die: smear
+
+Schmutz /ʃmʊʦ/, der: dirt
 
 Schnee /ˈʃneː/, der: snow
   Wir mussten uns einen Weg durch den tiefen /tiːf/ Schnee bahnen.
   We had to make a path through the deep snow. 
+
+Schneeball /ˈʃneːbal/, der: snowball
+
+schneien /ˈʃnaiən/: to snow
+
+Schnurrbart /ˈʃnʊrbaːɐt/, der: mustache
 
 Schokolade, die /ʃokoˈlaːdə/: chocolate
 
@@ -31,7 +70,23 @@ schulden: to own
 
 Schuldige: culprit
   Schuldige besonders: guilty person/party
-  
+
+Schuss /ʃʊs/, Schüsse, der: shot
+
+schwarz /ʃvarʦ/, schwarzen: black
+
+schwer /ʃveːɐ/: severe
+
+schwierig /ˈʃviːrɪç/: difficult
+
+sehr /zeːɐ/: very
+  Ich weiß sehr wohl, dass du mich anlügst!
+  I know perfectly well that you’re lying to me.
+  Bitte sehr!
+  You're very welcome.
+
+Seife /ˈzaifə/, die: soap
+
 sein /zain/: to be
   bin, bist, ist, sind, ihr seid, bin gewesen
   Du bist wohl verrückt! (informal) You must be crazy.
@@ -43,12 +98,6 @@ sein /zain/: to be
   wie wäre es mit ...
   mir ist kalt: I'm cold
 
-sehr /zeːɐ/: very
-  Ich weiß sehr wohl, dass du mich anlügst!
-  I know perfectly well that you’re lying to me.
-  Bitte sehr!
-  You're very welcome.
-
 seit /zait/: since
   seit ein paar Tagen
 
@@ -57,11 +106,25 @@ Sie: you
 sie: she, it, they
   Sie wollen heiraten. They want to get married.
 
+Sekunde /zeˈkʊndə/, die: second
+
+setzen /ˈzɛʦən/: to sit
+
 sitzen /ˈzɪʦən/: to sit
+
+sobald /zoˈbalt/: as soon as
+  Sobald er anruft, gebe ich Ihnen Bescheid.
+  I'll let you know as soon as he phones.
+
+sogar /zoˈɡaːɐ/: even
+
+sogenannt: so-called
 
 solch /zɔlç/: such
   Solch eine Unverschämtheit!
   Such impertinence!
+
+sollen /ˈzɔlən/: to have to, shall
 
 Sommer /ˈzɔmɐ/, der:
   Nächsten Sommer wollen wir verreisen. We want to go away next summer.
@@ -70,23 +133,59 @@ Sonnabend /ˈzɔnaːbənt/, der: Saturday
 
 Sonne /ˈzɔnə/, die: sun, sunlight
 
+Sonnenstrahl, der: sun beam
+
+sonst /zɔnst/: else
+  Kommt sonst noch jemand?
+  Is anyone else coming?
+
+Sorge /ˈzɔrɡə/, die: worry
+
+sowie /zoˈviː/: and, as well as
+
+spähen /ˈʃpɛːən/: to peer
+
 spät /ʃpɛːt/: late
   im späten Mittelalter
   in the late Middle Ages
   ein später Wintereinbruch
   a late winter 
 
+spätestens /ˈʃpɛːtəstəns/: at the latest
+
 Sprache /ˈʃpraːxə/, die: language
   Latein ist eine tote Sprache.
   Latin is a dead language. 
+
+spritzen /ˈʃprɪʦən/: to spray
+  jdm Wasser ins Gesicht spritzen: to spray water in sb's face
+
+sprühen /ˈʃpryːən/: to spray
+  Sie sprühte sich Deo unter die Achseln.
+  She sprayed deodorant under her arms.
+
+spülen /ˈʃpyːlən/: to wash, to rinse, to flush
+
+Staatsanwalt /ˈʃtaːʦ|anvalt/: DA, presecutor
+
+Stadt /ʃtat/, die: city
+
+Stadtteil /ˈʃtattail/, der: district
 
 ständig /ˈʃtɛndɪç/: permanent
    Unterbrich mich nicht ständig!
    Quit interrupting me all the time! 
 
-stehen: to stand
+stark /ʃtark/, stärker: strong 
+
+Status /ˈʃtaːtʊs/, der: status
+
+stecken /ˈʃtɛkən/: to be
+
+stehen /ˈʃteːən/: to stand
 
 steigen /ˈʃtaiɡən/: to climb
+  auf einen Berg steigen: to climb a mountain
 
 -stellig /ʃtɛlɪç/: -figure, -digit
   fünfstellige
@@ -98,7 +197,17 @@ sterben /ˈʃtɛrbən/: to die
 
 stillen /ˈʃtɪlən/: to breastfeed
    Planst du, dein Kind zu stillen?
-   Are you planning to breastfeed your baby? 
+   Are you planning to breastfeed your baby?
+
+stolz /ʃtɔlʦ/: proud
+
+Streifen /ˈʃtraifən/, der: stripe
+
+streifen: to brush against, to graze
+
+streitig /ˈʃtraitɪç/: to dispute sb's right to sth
+  jdm den Meistertitel streitig machen
+  to dispute sb's right to the championship title
 
 Stück /ʃtʏk/, das: piece, bit
   ein Stück Kuchen abschneiden
@@ -111,7 +220,18 @@ Student /ʃtuˈdɛnt/, Studentin: student
 studieren /ʃtuˈdiːrən/: to study
   studiere, studierst, studiert, habe studiert
 
+Stunde /ˈʃtʊndə/, die: hour
+  eine halbe Stunde: half an hour
+
 Sturm /ʃtʊrm/, der: storm
+  Ein Sturm kam auf.
+  A storm blew up.
+
+stürmen /ˈʃtʏrmən/: to storm
 
 Süden /ˈzyːdən/, der: south
 
+schwingen /ˈʃvɪŋən/: to swing
+  schwinge, schwingst, schwingt, habe geschwungen
+  Er schwang drohend einen Knüppel.
+  He brandished a club menacingly.
