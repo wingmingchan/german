@@ -2,15 +2,46 @@
 W /veː/ W wie Wilhelm
 ========================================================
 
+wachen /ˈvaxən/: to watch over
+
+Waffe /ˈvafə/, die: weapon
+
+wahren /ˈvaːrən/: to keep, to maintain, to protect
+
 Wand /vant/, Wände /ˈvɛndə/, die: wall
   ein Bild an die Wand hängen
   to hang a picture on the wall
 
+warm /varm/: warm
+
+warnen /ˈvarnən/: to warn
+  Vor Dieben wird gewarnt!
+  Watch out for thieves!
+  Ich warne dich, mach das ja nicht noch mal!
+  I'm warning you. Don't do that again!
+
+waschen /ˈvaʃən/: to wash
+
 *Weib /vaip/, das: female, babe, woman, wife
+
+weit /vait/: long, far, extensive, vast, big
+
+weiter: further
+
+Welle /ˈvɛlə/, die: wave
+
+wenig /ˈveːnɪç/: little
+
+weniger /ˈveːnɪɡɐ/: less
 
 werden /ˈveːɐdən/: to become
   Es wird schon hell draußen.
   It's already getting light outside. 
+
+werfen /ˈvɛrfən/: to throw
+  werfe, wirfst, wirft, ihr werft, habe geworfen
+  Sie hat (den Ball) zwanzig Meter weit geworfen.
+  She threw (the ball) twenty meters.
 
 Westen /ˈvɛstən/, der: west
 
@@ -30,6 +61,10 @@ wiedersehen
 
 Wind /vɪnt/, der: wind
 
+wischen /ˈvɪʃən/: to wipe
+
+Wischer, der: sponge, wiper
+
 wissen /ˈvɪsən/: to know
   weiß, weißt, weiß, ihr wisst, habe gewusst
 
@@ -46,3 +81,7 @@ Wochenende /ˈvɔxən|ɛndə/, das: weekend
   What are you doing at the weekend?
 
 *Wolke /ˈvɔlkə/, die: cloud
+
+wolkenverhangen: overcast
+
+worden => werden
