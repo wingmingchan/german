@@ -2,9 +2,21 @@
 A /aː/ A wie Anton, Ä wie Ärger
 ========================================================
 
+ab-: from
+
 abbauen /ˈapbauən/: to reduce, to mine, to deteriorate
 
+Abfall /ˈapfal/, der: waste, trash
+  industrielle Abfälle: industrial waste
+
+abfällig /ˈapfɛlɪç/: derogatory
+  eine abfällige Bemerkung über jdn machen: to make a derogatory remark about sb
+
 Abflug /ˈapfluːk/, der: departure
+  Der Abflug verzögert sich um 30 Minuten.
+  The departure will be delayed by 30 minutes.
+  
+abgestoßen: repelled
 
 abräumen /ˈaprɔymən/: to clean up
   Räumst du bitte noch ab, bevor du gehst?
@@ -13,6 +25,33 @@ abräumen /ˈaprɔymən/: to clean up
 abschneiden /ˈapʃnaidən/: to cut off
   sich eine Scheibe Brot abschneiden
   to cut yourself a slice of bread
+
+absetzen /ˈapzɛʦən/: to drop sb off
+  Kannst du mich bitte an der Schule absetzen?
+  Can you drop me off at the school, please?
+
+abstehen /ˈapʃteːən/: to stick out
+  abstehende Ohren haben: to have protruding ears
+
+abstoßen /ˈapʃtoːsən/: to push off, to reject
+
+abstoßend /ˈapʃtoːsənt/: abhorrent, revolting
+
+abwischen /ˈapvɪʃən/: to wipe off
+
+Achsel /ˈaksəl/, die: shoulder, armpit
+
+achten /ˈaxtən/: to respect, to pay attention to
+  auf den Verkehr achten: to pay attention to traffic
+
+Akku /ˈaku/, der: battery
+  den Akku vom Handy aufladen: to charge your cell
+
+allerdings /ˈalɐˈdɪŋs/: however, indeed
+  Die Suppe ist gut, allerdings ein bisschen scharf.
+  The soup's good, but a little spicy.
+  „Ist das denn wichtig?‟ – „Allerdings!‟
+  “Is that really important?” – “Indeed!”
 
 als /als/: when, than, only, as if, as
   Als ich noch in Berlin wohnte, ging ich oft ins Kino.
@@ -26,6 +65,8 @@ als /als/: when, than, only, as if, as
   als Lehrer arbeiten
   to work as a teacher
 
+altbewährt: well-proven
+
 am
   Ich bin am größten!
   I'm tallest!
@@ -35,18 +76,56 @@ Amerikaner, Amerikanerin, Amerikanerinnen: American
 
 amerikanisch /ameriˈkaːnɪʃ/: American
 
+Ammoniak /amoˈniak/, das: ammonia
+
+Ammoniaklösung, die: ammonia solution
+
 an /an/: at, on, from, against
+  Auf geht's, an die Arbeit!
+  Come on, let’s get to work!
+
+Angabe /ˈanɡaːbə/, die: information, statement
+  Er hat der Polizei gegenüber falsche Angaben gemacht.
+  He made false statements to the police.
 
 angeln /ˈaŋəln/: to fish
 
+ankündigen /ˈankʏndɪɡən/: to announce
+  Muss der Lehrer solche Tests ankündigen?
+  Does the teacher have to give advance notice of tests like those?
+
 Ankunft /ˈankʊnft/, die: arrival
+
+anrufen /ˈanruːfən/: to call, to phone
+  Hat jemand für mich angerufen?
+  Did anyone call?
+
+anschießen /ˈanʃiːsən/: to wound
+
+anschließend /ˈanʃliːsənt/: subsequent
+
+ansetzen /ˈanzɛʦən/: to schedule, to estimate, to develop, to place
+  Die nächste Sitzung ist für Montag angesetzt.
+  The next meeting is scheduled for Monday.
+  die Kosten für ein Projekt zu niedrig ansetzen
+  to estimate too low costs for a project
+  Weißt du, wo du den Hebel ansetzen musst?
+  Do you know where you need to focus on?
+
+antrocknen: to begin to dry
 
 Antwort /ˈantvɔrt/, die: answer, reply, response
   die richtige Antwort geben
   to give the right answer
 
+Anwalt /ˈanvalt/: lawyer
+
 antworten /ˈantvɔrtən/: to answer
   mit Ja/Nein antworten: to answer yes/no
+
+anziehen /ˈanʦiːən/: to attract, to get dressed
+  Salz zieht Feuchtigkeit an.
+  Salt attracts damp.
 
 Apfel /ˈapfəl/, der: apple
   Apfelkuchen: apple pie
@@ -55,15 +134,47 @@ arbeiten /ˈarbaitən/: to work
   Er arbeitet in einer Bank.
   He works at a bank. 
 
+archivieren /arçiˈviːrən/: to archive
+  Dokumente/Berichte archivieren: to archive documents/reports
+
+Ärger /ˈɛrɡɐ/, der: anger
+
 Arzt /arʦt/, Ärztin: doctor
   ein Attest des behandelndes Arztes vorlegen
   to hand in a certificate from the attending physician
 
-auf /auf/
+Ast /ast/, Äste /ˈɛstə/, der: branch
+  Die Affen schwingen sich von Ast zu Ast.
+  The monkeys swing from tree to tree.
+
+Attacke /aˈtakə/, die: attack
+
+auf /auf/: on, onto, at, to
   auf dem Sofa sitzen: to sit on the sofa
   auf Englisch: in English
   Auf Wiedersehen!
+  Ist der Supermarkt noch auf?
+  Is the supermarket still open?
+
+aufbrechen /ˈaufbrɛçən/: to break open, to break down
+
+aufkreuzen /ˈaufkrɔyʦən/: to show up
+  Er ist plötzlich wieder bei seinen Eltern aufgekreuzt.
+  He suddenly showed up again at his parents' place.
+
+Auflösung /ˈaufløːzʊŋ/, die: resolution, disintegration
+
+Aufnahme /ˈaufnaːmə/, die: photo, shot
+
+aufschlagen /ˈaufʃlaːɡən/: to open, to add, to hit
+  Ich hielt sie für tot, bis sie die Augen aufschlug.
+  I thought she was dead till she opened her eyes.
 
 Auge /ˈauɡə/, das: eye
   blaue / gute Augen haben
   to have blue eyes / good eyesight
+
+Ausland /ˈauslant/, das: foreign countries
+  ins Ausland reisen: to travel abroad
+
+auslösen /ˈausløːzən/: to trigger
