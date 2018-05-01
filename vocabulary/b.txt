@@ -12,11 +12,17 @@ backen /ˈbakən/: to bake
 
 Bäckerei /bɛkəˈrai/, die: bakery
 
-bahnen: to clear the way for sb to sth
+bahnen /ˈbaːnən/: to clear the way for sb to sth
 
 bald /balt/: soon
 
+Ball /bal/, der: ball
+  Fußball: soccer
+
 bauen /ˈbauən/: to build
+  baue, baust, baut, habe gebaut
+  Die Kinder haben einen Schneemann gebaut.
+  The children have built a snowman.
 
 Baum /baum/, Bäume /ˈbɔymə/, der: tree
    Bäume fällen: to cut down trees 
@@ -24,10 +30,76 @@ Baum /baum/, Bäume /ˈbɔymə/, der: tree
 beginnen /bəˈɡɪnən/: to begin
   Es beginnt zu regnen: It's starting to rain
 
+Begleiter /bəˈɡlaitɐ/: companion
+
+behaupten /bəˈhauptən/: to claim
+  Sie behauptet, krank gewesen zu sein, aber ich halte das für eine Ausrede.
+  She claims to have been ill, but I think that's just an excuse.
+
+Bein /bain/, das: leg
+
+belieben /bəˈliːbən/: to please, to like
+  Kommen Sie wieder, wann es Ihnen beliebt.
+  Come back again whenever you please.
+  Man kann auch nach Belieben noch Zucker hinzufügen.
+  You can also add as much sugar as you please.
+
+Bemerkung /bəˈmɛrkʊŋ/, die: remark, comment
+  eine abfällige Bemerkung machen: to make a snide remark
+
+Bereich /bəˈraiç/, der: area
+  ein verkehrsberuhigter Bereich: a traffic-calmed neighborhood
+
+bereits /bəˈraits/: already, as early as
+  Es schneite bereits im Oktober.
+  It snowed as early as October.
+
 Berg /bɛrk/, der: mountain
+
+Bericht /bəˈrɪçt/, der: report
+
+berichten /bəˈrɪçtən/: to report
+
+Berührung /bəˈryːrʊŋ/, die: touch, contact
+  sanfte Berührungen: gentle touches
+  mit Viren in Berührung kommen: to come into contact with viruses
+
+berühmt /bəˈryːmt/: famous
+  Das Hotel ist für seine gute Küche berühmt.
+  The hotel is famous for its good cuisine.
+
+besaßen => besitzen
+
+Bescheid /bəˈʃait/, der: notification
+
+besitzen /bəˈzɪʦən/: to own
 
 besonder: great, special
   Schuldige besonders: guilty person/party
+
+besonders /bəˈzɔndɐs/: particularly
+
+bestehen /bəˈʃteːən/: to consist of
+  Das Examen besteht aus zwei schriftlichen und zwei mündlichen Prüfungen.
+  The examination consists of two written and two oral tests.
+
+besteigen /bəˈʃtaiɡən/: to climb
+  Sie hat bereits mehrere Achttausender bestiegen.
+  She has already climbed several eight-thousanders.
+
+Bevölkerung /bəˈfœlkərʊŋ/: population, people
+
+bewaffnet /bəˈvafnət/: armed
+
+bewahren /bəˈvaːrən/: to prevent, to save, to maintain
+  jdn davor bewahren, einen großen Fehler zu machen
+  to prevent sb from making a big mistake
+  Sie wollte sich ihre Unabhängigkeit bewahren.
+  She wanted to keep her independence.
+
+bewähren /bəˈvɛːrən/: to prove yourself
+  Er konnte sich in der Krise bewähren.
+  He was able to prove himself in the crisis.
 
 *Bier, das: beer
 
@@ -36,18 +108,46 @@ Bild, das: painting, picture
 billig /ˈbɪlɪç/: cheap
    einen billigen Flug /fluːk/ buchen: to book a cheap flight 
 
+bisher /bɪsˈheːɐ/: up to now, so far
+  Alles bleibt wie bisher.
+  Everything remains the same as it was before.
+
+bislang /bɪsˈlaŋ/: up to now
+
 bisschen /ˈbɪsçən/
   ein bisschen: a little, a bit
   ein klein bisschen: a little bit
   ein ganz bisschen: just a tiny bit/drop
 
-Blei, das: (metal) lead
+bitten /ˈbɪtən/: to ask
+  Sie bat mich, sie nach Hause zu fahren.
+  She asked me to drive her home.
+
+bitter /ˈbɪtɐ/: bitter, bitterly
+
+Blei /blai/, das: (metal) lead
+
+Blick /blɪk/, der: look, glance
+
+Blitzer, der: flashgun, speed trap
 
 Bock /bɔk/, der: buck, ram, billy goat
 
 bohren /ˈboːrən/: to drill, to poke
   ein Loch in die Wand bohren
   to drill a hole in the wall
+
+bohren /ˈboːrən/: to drill
+  ein Loch in die Wand bohren
+  to drill a hole in the wall
+
+Bohrmaschine /ˈboːɐmaʃiːnə/, die: drill
+
+Bordell /bɔrˈdɛl/, das: brothel
+
+Brandfall, der: fire
+
+Bratwurst /ˈbraːtvʊrst/, die: bratwurst
 
 brechen /ˈbrɛçən/: to break
   Sie brach das Brot in zwei Teile.
@@ -67,4 +167,10 @@ Bub /buːp/, der: boy
 Buch /buːx/, das: book
   
 buchen: to book
-   eine Reise online /ˈɔnlain/ buchen: to book a trip online 
+   eine Reise online /ˈɔnlain/ buchen: to book a trip online
+
+bügeln /ˈbyːɡəln/: to iron
+
+bullig /ˈbʊlɪç/: beefy
+
+Bußgeld, das: fine, penalty
