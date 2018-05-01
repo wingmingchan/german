@@ -2,13 +2,17 @@
 N /ɛn/ N wie Nordpol
 ========================================================
 
-nach /naːx/: to, after
+nach /naːx/: to, after, according to
   nach oben schauen
   to look up
   nach dem Mittagessen ein Schläfchen machen
   to have a nap after lunch
-  
+
+Nachbar /ˈnaxbaːɐ/: neighbor
+
 *Nacht, die: night
+
+Nacken /ˈnakən/, der: neck
 
 Nase /ˈnaːzə/, die: nose
   in der Nase bohren
@@ -16,6 +20,9 @@ Nase /ˈnaːzə/, die: nose
 
 nächst /ˈnɛːçst/, nächste: next
   nächsten Sommer: next summer
+
+nass /nas/: wet
+  jdn nass spritzen: to spray sb with water
 
 Nebel /ˈneːbəl/, der: fog
   Über dem Tal lag noch Nebel. The valley was still covered in mist.
@@ -31,13 +38,29 @@ nennen /ˈnɛnən/ to call (as a name)
   Du kannst mich gern Basti nennen.
   You can call me Basti.
 
+Netzwerk /ˈnɛʦvɛrk/, das
+
 nicht /nɪçt/: not
+
+Nichtsnutz /ˈnɪçʦnʊʦ/: good-for-nothing
+
+niemand /ˈniːmant/: nobody
 
 Nil /nil/, der: the Nile
 
 nil /nil/: nothing, zero
 
+nirgends /ˈnɪrɡənts/: nowhere
+
+nirgendwo /ˈnɪrɡəntˈvoː/: nowhere
+
 Norden /ˈnɔrdən/, der: north
+
+nötig /ˈnøːtɪç/: necessary
+  Die Veränderungen sind bitter nötig.
+  The changes are badly needed.
+
+notwendig /ˈnoːtvɛndɪç/: necessary
 
 Null /nʊl/, die: zero
   eine Zahl mit sechs Nullen
@@ -45,8 +68,14 @@ Null /nʊl/, die: zero
   Er ist eine totale Null!
   He's a total loser!
 
+nun /nuːn/: now
+
 nur /nuːɐ/: only
   Er hatte nur leichte Verletzungen.
   He only had minor injuries.
   Sie ist nicht nur hübsch, sondern auch klug.
   She is not only pretty, but also clever.
+
+nutzen /ˈnʊʦən/: to use
+
+nützlich /ˈnʏʦlɪç/: useful
