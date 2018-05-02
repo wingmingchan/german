@@ -22,11 +22,23 @@ warnen /ˈvarnən/: to warn
 
 waschen /ˈvaʃən/: to wash
 
+Wasserwerfer, der: water cannon
+
+Wechsel /ˈvɛksəl/, der: change
+  Beim Wechsel der Fahrspur übersah er das Motorrad.
+  He didn't see the motorcyle when changing lanes.
+
+wegen /ˈveːɡən/: for, over, because of, on account of
+  Hat schon einer wegen des Autos/dem Auto angerufen?
+  Has anyone rung about the car yet?
+  Reich? Von wegen!
+  Rich? You've got to be kidding!
+
 *Weib /vaip/, das: female, babe, woman, wife
 
 weit /vait/: long, far, extensive, vast, big
 
-weiter: further
+weiter: further, other
 
 Welle /ˈvɛlə/, die: wave
 
@@ -42,6 +54,10 @@ werfen /ˈvɛrfən/: to throw
   werfe, wirfst, wirft, ihr werft, habe geworfen
   Sie hat (den Ball) zwanzig Meter weit geworfen.
   She threw (the ball) twenty meters.
+
+Wert /veːɐt/, der: value
+  Das Haus hat einen Wert von 250.000 Euro.
+  The house is worth 250,000 euros.
 
 Westen /ˈvɛstən/, der: west
 
@@ -84,4 +100,8 @@ Wochenende /ˈvɔxən|ɛndə/, das: weekend
 
 wolkenverhangen: overcast
 
+womöglich /voˈmøːklɪç/: possibly
+
 worden => werden
+
+Wurfgeschoss, das: missile, projectile
