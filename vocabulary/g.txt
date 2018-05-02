@@ -17,19 +17,29 @@ Gast /ɡast/, der: guest
   Die Schauspielerin ist zu Gast in einer Talkshow.
   The actress is a guest on a chat show.
 
+Gastgeber /ˈɡastɡeːbɐ/: host/hostess
+  Sie ist eine gute Gastgeberin.
+  She's a good hostess.
+
 Gebirge /ɡəˈbɪrɡə/, das: mountains
   Am Wochenende fahren wir ins Gebirge.
   We're going to the mountains on the weekend.
 
 Gedanke, der: thought
 
+geeignet /ɡəˈ|aiɡnət/: suitable
+
 Gefahr /ɡəˈfaːɐ/, die: danger
+  Es besteht die Gefahr, dass jemand ins Eis einbricht.
+  There is a risk that someone might fall through the ice.
 
 gegen /ˈɡeːɡən/: against, toward
   gegen Missstände protestieren/vorgehen: to protest/act against social evils
 
 gegenüber /ɡeːɡənˈ|yːbɐ/: opposite
   genital /geniˈtaːl/
+
+Gehalt /ɡəˈhalt/, das: salary
 
 Geheimnis /ɡəˈhaimnis/, das: secret
 
@@ -40,22 +50,50 @@ gehen /ˈɡeːən/: to go, to walk, to leave
   
 gehören /ɡəˈhøːrən/: to belong to
 
+gekleideter: clad, dressed
+
 gelaunt /ɡəˈlaunt/ adj: in a ... mood
    gut/schlecht gelaunt sein: to be in a good/bad mood 
 
-gerade /ɡəˈraːdə/: straight
+gemeinsam /ɡəˈmainzaːm/: common, joint, mutual, united, collectively, together, in common, in concert
+
+genau /ɡəˈnau/: exactly
+  Das geschah vor genau vier Jahren.
+  That happened exactly four years ago.
+
+gerade /ɡəˈraːdə/: straight, at the moment
   gerade dann: just then
   gerade jetzt: just now
 
 geradeaus /ɡəraːdəˈ|aus/: straight ahead
 
+geraten /ɡəˈraːtən/: to come/get/run into , to hit, to get
+  in einen Stau/Sturm geraten: to hit a traffic jam/a storm
+  Wie ist sie nur an diesen Kerl geraten?
+  How on earth did she come across that guy?
+  Sie gerät leicht in Wut.
+  She's quick to get angry.
+
+gerundet: rounded
+
+geschah => geschehen
+
 geschehen /ɡəˈʃeːən/: to happen
+  geschehe, geschiehst, geschieht, ihr gescheht, bin geschehen
 
 Geschichte /ɡəˈʃɪçtə/, die: story
 
 gewandt /ɡəˈvant/: skillful
 
 gestern /ˈɡɛstɐn/: yesterday
+
+Gewalttat /ɡəˈvalttaːt/, die: act of violence
+
+Gewerkschaft /ɡəˈvɛrkʃaft/, die: labor union
+
+*Gewitter /ɡəˈvɪtɐ/, das: thunderstorm
+
+Gin, der
 
 Gipfel /ˈɡɪpfəl/, der: summit, peak
   den Gipfel besteigen
@@ -65,7 +103,14 @@ gleichen /ˈɡlaiçən/: to resemble, to be similar
   Die Schwestern gleichen sich sehr.
   The sisters are very similar.
 
+Gold /ɡɔlt/, das
+
+Granit /ɡraˈniːt/, der: granite
+   Granitplatte: granite countertop
+   
 grau /ɡrau/: grey
+
+*Graupel /ˈɡraupəl/, die: sleet
 
 greifen /ˈɡraifən/: to seize, to grab, to reach
   Ich griff mir die Schlüssel und verschwand.
@@ -73,27 +118,18 @@ greifen /ˈɡraifən/: to seize, to grab, to reach
   Sie griff in die Tasche und holte ihren Ausweis heraus.
   She reached into her bag and took out her ID.
 
+Grenze /ˈɡrɛnʦə/, die: border, frontier
+
 grün /ɡryːn/: green
   grüner Salat: lettuce
 
 Grund /ɡrʊnt/, der: reason, ground
 
-gut /ɡuːt/: good
-  Für die Jahreszeit war das Wetter ganz gut.
-  For the time of the year the weather was quite good.
-
-*Gewitter /ɡəˈvɪtɐ/, das: thunderstorm
-
-Gin, der
-
-*Graupel /ˈɡraupəl/, die: sleet
-
-Gold /ɡɔlt/, das
-
-Granit /ɡraˈniːt/, der: granite
-   Granitplatte: granite countertop
-   
 Grün /ɡryːn/, das: green
   ein helles/kräftiges Grün: a light/strong green
 
 Grund /ɡrʊnt/, der: reason
+
+gut /ɡuːt/: good
+  Für die Jahreszeit war das Wetter ganz gut.
+  For the time of the year the weather was quite good.
