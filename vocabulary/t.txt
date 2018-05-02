@@ -23,6 +23,7 @@ Tau /tau/, der: dew
 Tau, das: rope
 
 Teil /tail/, der: part
+  zum Teil: partly
 
 teilen /ˈtailən/: to share, to divide
 
@@ -42,7 +43,15 @@ total /toˈtaːl/: total, really
   a total eclipse of the sun
   Ich finde es total nett von ihm, dass er dich eingeladen hat.
   I think it was really nice of him to invite you.
-  
+
+tränen /ˈtrɛːnən/: Auge(n) sich mit Tränen füllen
+  Der Wind war so kalt, dass meine Augen zu tränen anfingen.
+  The wind was so cold that my eyes began to water.
+
+Träne /ˈtrɛːnə/, die: tear
+
+Tränengas: tear gas
+
 treffen /ˈtrɛfən/: to hit, to meet
   Die Kugel traf genau ins Ziel.
   The bullet hit its target.
