@@ -14,6 +14,10 @@ sagen: to say
 
 Salat /zaˈlaːt/, der: lettuce, salad
 
+sammeln /ˈzaməln/: to gather, to collect
+  Im Herbst gehen wir gerne Pilze sammeln.
+  We like to go mushroom picking in the fall.
+
 Sau /zau/, die: sow
 
 sauber /ˈzaubɐ/: clean
@@ -23,7 +27,14 @@ saugfähig /ˈzaukfɛːɪç/: absorbent
 
 scharf /ʃarf/: sharp, strong, hot, spicy, rigorous, tough
 
+Schatten /ˈʃatən/, der: shadow
+
 schaudern /ˈʃaudɐn/: to shiver
+
+schauen /ˈʃauən/: to look, to look for
+  auf die Uhr schauen: to look at the clock
+  Ich habe schon überall nach dem Schlüssel geschaut.
+  I've already looked all over for the key.
 
 Schauspieler, Schauspielerin /ˈʃauʃpiːlɐ/: actor/actress
 
@@ -45,6 +56,8 @@ Schlagstock /ˈʃlaːkʃtɔk/, der: baton, nightstick
 
 Schliere /ˈʃliːrə/, die: smear
 
+Schlüssel /ˈʃlʏsəl/, der: key
+
 Schmutz /ʃmʊʦ/, der: dirt
 
 Schnee /ˈʃneː/, der: snow
@@ -55,11 +68,18 @@ Schneeball /ˈʃneːbal/, der: snowball
 
 schneien /ˈʃnaiən/: to snow
 
+Schnitt /ʃnɪt/, der: average
+
 Schnurrbart /ˈʃnʊrbaːɐt/, der: mustache
 
 Schokolade, die /ʃokoˈlaːdə/: chocolate
 
 Schokoladenkuchen, der: chocolate cake
+
+Schrott /ʃrɔt/, der: scrap, garbage
+  Schrotthändler: scrap (metal) dealer
+  Im Fernsehen kommt wieder nur Schrott!
+  There's just garbage on TV again.
 
 Schuh /ʃuː/, der: shoe
   ein Paar Schuhe: a pair of shoes
@@ -78,6 +98,8 @@ schwarz /ʃvarʦ/, schwarzen: black
 schwer /ʃveːɐ/: severe
 
 schwierig /ˈʃviːrɪç/: difficult
+
+schwindelerregend: dizzy
 
 sehr /zeːɐ/: very
   Ich weiß sehr wohl, dass du mich anlügst!
@@ -100,6 +122,12 @@ sein /zain/: to be
 
 seit /zait/: since
   seit ein paar Tagen
+
+sicher /ˈzɪçɐ/: certain, clear, positive, safe, secure, steady, sure
+
+Sicherung /ˈzɪçərʊŋ/, die: securing, saving , backing-up, fuse
+
+Sicherungskopie, die: backup
 
 Sie: you
 
@@ -160,11 +188,15 @@ Sprache /ˈʃpraːxə/, die: language
 spritzen /ˈʃprɪʦən/: to spray
   jdm Wasser ins Gesicht spritzen: to spray water in sb's face
 
+sprudelnd: bubbly, fizzy
+
 sprühen /ˈʃpryːən/: to spray
   Sie sprühte sich Deo unter die Achseln.
   She sprayed deodorant under her arms.
 
 spülen /ˈʃpyːlən/: to wash, to rinse, to flush
+
+spürbar /ˈʃpyːɐbaːɐ/: noticeable , perceptible
 
 Staatsanwalt /ˈʃtaːʦ|anvalt/: DA, presecutor
 
@@ -187,6 +219,8 @@ stehen /ˈʃteːən/: to stand
 steigen /ˈʃtaiɡən/: to climb
   auf einen Berg steigen: to climb a mountain
 
+Steigerung /ˈʃtaiɡərʊŋ/, die: increase, improvement
+
 -stellig /ʃtɛlɪç/: -figure, -digit
   fünfstellige
   einstellig
@@ -195,15 +229,29 @@ sterben /ˈʃtɛrbən/: to die
   er stirbt
   Er starb gestern.
 
+Steuer /ˈʃtɔyɐ/, das: steeling wheel
+
+Steuer /ˈʃtɔyɐ/, die: tax
+  Steuern zahlen/hinterziehen
+  to pay/avoid paying tax
+
 stillen /ˈʃtɪlən/: to breastfeed
    Planst du, dein Kind zu stillen?
    Are you planning to breastfeed your baby?
+
+stören /ˈʃtøːrən/: to disturb, to interfere, to interrupt, to intrude, to jam
+  Stört es dich, wenn ich rauche?
+  Does it bother you if I smoke?
+  Das Gewitter stört den Empfang des Senders.
+  The thunderstorm is disrupting the reception of this station.
 
 stolz /ʃtɔlʦ/: proud
 
 Streifen /ˈʃtraifən/, der: stripe
 
 streifen: to brush against, to graze
+
+Streik /ʃtraik/, der: strike
 
 streitig /ˈʃtraitɪç/: to dispute sb's right to sth
   jdm den Meistertitel streitig machen
