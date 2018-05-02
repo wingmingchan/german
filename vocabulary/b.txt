@@ -27,6 +27,8 @@ bauen /ˈbauən/: to build
 Baum /baum/, Bäume /ˈbɔymə/, der: tree
    Bäume fällen: to cut down trees 
 
+Beamte /bəˈ|amtə/: official
+
 beginnen /bəˈɡɪnən/: to begin
   Es beginnt zu regnen: It's starting to rain
 
@@ -37,6 +39,10 @@ behaupten /bəˈhauptən/: to claim
   She claims to have been ill, but I think that's just an excuse.
 
 Bein /bain/, das: leg
+
+Beitrag /ˈbaitraːk/, der: contribution
+
+Beitragszahler: contributor
 
 belieben /bəˈliːbən/: to please, to like
   Kommen Sie wieder, wann es Ihnen beliebt.
@@ -70,6 +76,14 @@ berühmt /bəˈryːmt/: famous
 
 besaßen => besitzen
 
+beschäftigen /bəˈʃɛftɪɡən/: to employ
+  Das Unternehmen beschäftigt 2000 Mitarbeiter.
+  The company has 2000 employees.
+
+beschäftigt /bəˈʃɛftɪçt/: to be employed, busy, engaged
+
+Beschäftigte /bəˈʃɛftɪçtə/: employee
+
 Bescheid /bəˈʃait/, der: notification
 
 besitzen /bəˈzɪʦən/: to own
@@ -79,7 +93,10 @@ besonder: great, special
 
 besonders /bəˈzɔndɐs/: particularly
 
-bestehen /bəˈʃteːən/: to consist of
+bestehen /bəˈʃteːən/: to be, to exist, to pass, to consist of
+  bestehe, bestehst, besteht, habe bestanden
+  Er hat (die Prüfung) nicht bestanden.
+  He didn't pass (the exam).
   Das Examen besteht aus zwei schriftlichen und zwei mündlichen Prüfungen.
   The examination consists of two written and two oral tests.
 
@@ -168,6 +185,8 @@ Buch /buːx/, das: book
   
 buchen: to book
    eine Reise online /ˈɔnlain/ buchen: to book a trip online
+
+Buchhalter /ˈbuːxhaltɐ/: bookkeeper, accountant
 
 bügeln /ˈbyːɡəln/: to iron
 
