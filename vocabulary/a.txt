@@ -67,6 +67,8 @@ als /als/: when, than, only, as if, as
 
 altbewährt: well-proven
 
+Alterssicherung, die: retirement provision
+
 am
   Ich bin am größten!
   I'm tallest!
@@ -96,6 +98,8 @@ ankündigen /ˈankʏndɪɡən/: to announce
 
 Ankunft /ˈankʊnft/, die: arrival
 
+anonym /anoˈnyːm/: anonymous
+
 anrufen /ˈanruːfən/: to call, to phone
   Hat jemand für mich angerufen?
   Did anyone call?
@@ -122,6 +126,10 @@ Anwalt /ˈanvalt/: lawyer
 
 antworten /ˈantvɔrtən/: to answer
   mit Ja/Nein antworten: to answer yes/no
+
+Anzahl /ˈanʦaːl/, die: number
+  Eine gewisse Anzahl von Fehlern kann toleriert werden.
+  A certain number of mistakes can be tolerated.
 
 anziehen /ˈanʦiːən/: to attract, to get dressed
   Salz zieht Feuchtigkeit an.
@@ -178,3 +186,12 @@ Ausland /ˈauslant/, das: foreign countries
   ins Ausland reisen: to travel abroad
 
 auslösen /ˈausløːzən/: to trigger
+
+Aussage /ˈauszaːɡə/, die: statement, message
+  eine klare Aussage der Regierung zur Steuerpolitik fordern
+  to demand a clear statement from the government on its tax policy
+
+Ausschreitung /ˈausʃraitʊŋ/, die: riot
+
+Ausstellung /ˈausʃtɛlʊŋ/, die: exhibition
+  eine Ausstellung eröffnen: to open an exhibition
