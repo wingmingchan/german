@@ -35,6 +35,12 @@ Einfahrt /ˈainfaːɐt/, die: entry
 
 eingeliefert: taken
 
+Einkommen /ˈainkɔmən/, das: income, earnings
+  Wie hoch ist Ihr monatliches Einkommen in etwa?
+  Roughly how high is your monthly income?
+
+Einheit /ˈainhait/, die: unit, unity
+
 einladen /ˈainlaːdən/: to invite, to load in
   Darf ich Sie auf ein Glas Wein einladen?
   Can I get you a glass of wine?
@@ -45,6 +51,12 @@ einliefern /ˈainliːfɐn/: to take
 
 einlud => einladen
 
+Eintritt /ˈaintrɪt/, der: admission, entrance, entry
+  Der Eintritt in die Ausstellung ist frei.
+  Admission to the exhibition is free.
+  Eintritt verboten!
+  No entry.
+
 *Eis /ais/, das: ice
 
 Eisen /ˈaizən/, das: iron
@@ -53,6 +65,16 @@ Eisen /ˈaizən/, das: iron
 Eltern /ˈɛltɐn/: parents
   Da muss ich erst meine Eltern um Erlaubnis fragen.
   I'll have to ask my parents for permission first.
+
+empfangen /ɛmˈpfaŋən/: to receive, to pick up, to get, to greet, to welcome
+  Diesen Sender können wir hier leider nicht empfangen.
+  I'm afraid we don't get that channel here.
+  Haben Sie die Lieferung schon empfangen?
+  Have you received the delivery yet?
+  Wir wurden von unseren Gastgebern sehr herzlich empfangen.
+  We were given a very warm welcome by our hosts.
+
+Empfänger /ɛmˈpfɛŋɐ/: receiver
 
 endlich /ˈɛntlɪç/: finally
   Endlich geht es ihr wieder besser.
@@ -79,6 +101,8 @@ entschuldigen /ɛntˈʃʊldɪɡən/: to excuse, to pardon
 
 Ergebnis /ɛɐˈɡeːpnɪs/, das: result
 
+Erhöhung /ɛɐˈhøːʊŋ/, die: increase
+
 erinnern /ɛɐˈ|ɪnɐn/: to remember
   erinnere, erinnerst, erinnert, habe erinnert
 
@@ -98,7 +122,11 @@ Ermittler /ɛɐˈmɪtlɐ/: investigator
 
 erträglich /ɛɐˈtrɛːklɪç/: bearable
 
-etliche /ˈɛtlɪçə/: quite a few
+erwarten /ɛɐˈvartən/: to expect
+  Ich erwarte dich dann um drei in meinem Büro.
+  So I'll expect you at three in my office.
+
+etliche /ˈɛtlɪçə/: quite a few, a number of
 
 *Erz /eːɐts/, das: ore
 
