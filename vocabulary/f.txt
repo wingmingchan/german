@@ -10,6 +10,10 @@ fallen /ˈfalən/: to fall
 
 falsch /falʃ/: wrong, false, faked
 
+fangen /ˈfaŋən/: to bag, to capture, to catch, to trap
+  Hast du schon einen Fisch gefangen?
+  Have you caught a fish yet?
+
 fast /fast/: almost
 
 Feindschaft /ˈfaintʃaft/, die: hostility
@@ -37,16 +41,25 @@ fielen => fallen: to be fired
 finden /ˈfɪndən/: to find
   finde, findest, findet, habe gefunden
 
+Fisch /fɪʃ/, der: fish
+
 Fleck /flɛk/, der: stain, mark
 
 fliehen /ˈfliːən/: to flee
   Tausende flohen vor dem Hochwasser aus der Stadt.
   Thousands fled the city to escape the floods.
 
+fließen /ˈfliːsən/: to flow
+
+flogen  => fliegen
+
 flüchten /ˈflʏçtən/: to flee
   Gebiet /ɡəˈbiːt/, das: region, area
 
 Flug /fluːk/, der: flight
+
+Flüssigkeit /ˈflʏsɪçkait/, die: fluid, liquid
+  eine farblose/trübe Flüssigkeit: a colorless/cloudy liquid
 
 Fluss /ˈflʊs/, der: river
   Nach den starken Regenfällen trat der Fluss über die Ufer.
@@ -58,6 +71,12 @@ Fohlen, das: foal
 
 Föhn /føːn/, der: hairdryer, Foehn
 
+fordern /ˈfɔrdɐn/: to demand, to claim lives
+  von seinem Chef eine Gehaltserhöhung fordern
+  to demand a raise from your boss
+
+Frankreich /ˈfraŋkraiç/, das: France
+
 Frau /frau/: wife, Mrs
 
 frau /frau/: you, one
@@ -67,10 +86,25 @@ frau /frau/: you, one
 *Fräulein /ˈfrɔylain/, das: miss, waitress
   Fräulein Müller: Miss Müller
 
+Freude /ˈfrɔydə/, die: joy, pleasure
+  die Freuden des Lebens/der Liebe: the joys of life/love
+
+freuen /ˈfrɔyən/: to be pleased, to look forward to
+  Ich freue mich schon auf deinen Besuch.
+  I'm already looking forward to your visit.
+
+Frieden /ˈfriːdən/, der: peace
+  ein langer, ungestörter Frieden: a long period of uninterrupted peace
+
+friedlich /ˈfriːtlɪç/: peaceful
+
 Frost /frɔst/, der: frost
 
 Frühling /ˈfryːlɪŋ/, der: spring
    Endlich wird es Frühling! Spring is here at last!
+
+füllen /ˈfʏlən/: to fill
+  einen Eimer mit Wasser füllen: to fill a bucket with water
 
 funktionieren /fʊŋkʦjoˈniːrən/: to function, to work
   Geburtstag /ɡəˈbuːɐʦtaːk/: birthday
