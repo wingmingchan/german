@@ -92,7 +92,7 @@ dachten => denken
 18:52 ich sag
 19:00 du sagst
 19:14 Was sagst du?
-19:31 Ich sage, nicht zu für
+19:31 Ich sage, nicht zu früh
 19:44 Ja, was du sagst
 19:56 Das ist eine gute Idee
 20:02 die Idee
@@ -101,9 +101,9 @@ dachten => denken
 20:47 eine prima Idee
 21:00 alleine
 21:15 Wir spielen nicht alleine Tennis.
-21:32 eine bekannte
-21:53 eine bekannte von mir
-22:10 Eine bekannte von mir kommt.
+21:32 eine Bekannte
+21:53 eine Bekannte von mir
+22:10 Eine Bekannte von mir kommt.
 22:26 Sie kommt mit ihrem Mann.
 22:42 Wir könnten zusammen spielen.
 22:27 Das ist prima!
@@ -117,7 +117,7 @@ dachten => denken
 23:55 Hast du morgen früh Zeit?
 24:03 Morgen früh? Um wie viel Uhr?
 24:12 Wie wäre es mit neun Uhr?
-24:16 Neun Uhr? Geht nicht. Eine bekannte kommt zu Besuch.
+24:16 Neun Uhr? Geht nicht. Eine Bekannte kommt zu Besuch.
 24:27 Möchtest du früher spielen?
 24:32 Wie wäre es mit sieben Uhr?
 24:40 Sieben Uhr geht.
