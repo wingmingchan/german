@@ -24,10 +24,14 @@ eignen /ˈaiɡnən/: to be suitable
   DVDs eignen sich gut zum Archivieren von Fotos
   DVDs are good for archiving photos on.
 
+eigentlich /ˈaiɡəntlɪç/: actually
+
 ein /ain/: one
   ein für alle Mal: once and for all
 
-einfach /ˈainfax/: easy
+ein-: in, into
+
+einfach /ˈainfax/: easy, simple, easily, simply
 
 Einfahrt /ˈainfaːɐt/, die: entry
   Einfahrt verboten!
@@ -51,6 +55,10 @@ einliefern /ˈainliːfɐn/: to take
 
 einlud => einladen
 
+Einsatz /ˈainzaʦ/, der: operation, deployment, use, effort, commitment
+
+einschleichen /ˈainʃlaiçən/: to sneak in
+
 Eintritt /ˈaintrɪt/, der: admission, entrance, entry
   Der Eintritt in die Ausstellung ist frei.
   Admission to the exhibition is free.
@@ -61,6 +69,8 @@ Eintritt /ˈaintrɪt/, der: admission, entrance, entry
 
 Eisen /ˈaizən/, das: iron
    ein Geländer aus Eisen: an iron handrail
+
+Eloquenz /-ˈkvɛnts/, die
 
 Eltern /ˈɛltɐn/: parents
   Da muss ich erst meine Eltern um Erlaubnis fragen.
@@ -73,6 +83,8 @@ empfangen /ɛmˈpfaŋən/: to receive, to pick up, to get, to greet, to welcome
   Have you received the delivery yet?
   Wir wurden von unseren Gastgebern sehr herzlich empfangen.
   We were given a very warm welcome by our hosts.
+
+Empfang /ɛmˈpfaŋ/, der: welcome
 
 Empfänger /ɛmˈpfɛŋɐ/: receiver
 
@@ -101,12 +113,24 @@ entschuldigen /ɛntˈʃʊldɪɡən/: to excuse, to pardon
 
 Ergebnis /ɛɐˈɡeːpnɪs/, das: result
 
+erheiternd /ɛɐˈhaitɐn/: amusing
+
+Erheiterung: amusement, entertainment
+
 Erhöhung /ɛɐˈhøːʊŋ/, die: increase
 
 erinnern /ɛɐˈ|ɪnɐn/: to remember
   erinnere, erinnerst, erinnert, habe erinnert
 
 erkennen /ɛɐˈkɛnən/: to discern, to recognize
+
+erklären /ɛɐˈklɛːrən/: to declare, to explain
+  Kannst du mir erklären, wie die Kaffeemaschine funktioniert?
+  Can you explain to me how the coffee machine works?
+  Das erklärt, warum sie gestern so schlecht gelaunt war.
+  That explains why she was in such a bad mood yesterday.
+  Die Ministerin hat gestern ihren Rücktritt erklärt.
+  The minister announced her resignation yesterday.
 
 erkunden /ɛɐˈkʊndən/: to explore
 
@@ -143,3 +167,5 @@ etwa /ˈɛtva/: used to express surprise, by any chance
   You didn't forget to buy a ticket, did you?
 
 etwas /ˈɛtvas/: something, a little, somewhat
+
+exzellent /ɛksʦɛˈlɛnt/: excellent
