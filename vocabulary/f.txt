@@ -6,6 +6,17 @@ fahren /ˈfaːrən/: to drive, to go
    Sollen wir zu Fuß gehen oder fahren?
    Shall we walk or drive? 
 
+Fall /fal/, der: case
+  Was macht man in so einem Fall?
+  What do you do in a case like that?
+  auf alle Fälle: in any case, just in case
+  auf jeden Fall: definitely, in any event, at least
+  auf keinen Fall: under no circumstances
+  für alle Fälle: just in case
+  gesetzt den Fall, dass …: supposing (that) …
+  von Fall zu Fall: on a case by case basis
+  etw. ist der Fall: sth is the case
+
 fallen /ˈfalən/: to fall
 
 falsch /falʃ/: wrong, false, faked
@@ -15,6 +26,11 @@ fangen /ˈfaŋən/: to bag, to capture, to catch, to trap
   Have you caught a fish yet?
 
 fast /fast/: almost
+
+Fehler /ˈfeːlɐ/, der: mistake, error
+  Du hättest die Aktien nicht verkaufen sollen, das war ein Fehler.
+  You shouldn't have sold the shares – that was a mistake.
+  Schreibfehler: slip of the pen
 
 Feindschaft /ˈfaintʃaft/, die: hostility
 
@@ -53,9 +69,6 @@ fließen /ˈfliːsən/: to flow
 
 flogen  => fliegen
 
-flüchten /ˈflʏçtən/: to flee
-  Gebiet /ɡəˈbiːt/, das: region, area
-
 Flug /fluːk/, der: flight
 
 Flüssigkeit /ˈflʏsɪçkait/, die: fluid, liquid
@@ -64,6 +77,15 @@ Flüssigkeit /ˈflʏsɪçkait/, die: fluid, liquid
 Fluss /ˈflʊs/, der: river
   Nach den starken Regenfällen trat der Fluss über die Ufer.
   After the heavy rainfall the river burst its banks. 
+
+flüchten /ˈflʏçtən/: to flee
+
+flüchtig /ˈflʏçtɪç/: fleeting, brief, casual, cursory
+  „Seid ihr befreundet?‟ – „Nein, sie ist nur eine flüchtige Bekannte.‟
+  "Are you friends?" – "No, she's just a casual acquaintance."
+
+Flüchtling /ˈflʏçtlɪŋ/, der: refugee
+  politische Flüchtlinge aufnehmen: to take in political refugees
 
 Fohlen, das: foal
   Die Stute hat ihr erstes Fohlen bekommen.
@@ -76,6 +98,8 @@ fordern /ˈfɔrdɐn/: to demand, to claim lives
   to demand a raise from your boss
 
 Frankreich /ˈfraŋkraiç/, das: France
+
+französisch /franˈtsøːzɪʃ/: french
 
 Frau /frau/: wife, Mrs
 
