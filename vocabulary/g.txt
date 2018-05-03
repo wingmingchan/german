@@ -11,6 +11,14 @@ ganz /ganʦ/: whole, entire
 
 ganz und gar: completely
 
+gar /ɡaːɐ/: at all, whatsoever, too, even
+  Das wusste ich noch gar nicht.
+  I wasn't aware of that at all up to now.
+  Man sollte sich nicht gar so wichtig nehmen.
+  You shouldn't take yourself too seriously.
+  Ich glaube gar, er kommt nicht mehr.
+  I even think he's not going to come at all.
+
 garantieren /ɡaranˈtiːrən/: to guarantee
 
 Gast /ɡast/, der: guest
@@ -20,6 +28,10 @@ Gast /ɡast/, der: guest
 Gastgeber /ˈɡastɡeːbɐ/: host/hostess
   Sie ist eine gute Gastgeberin.
   She's a good hostess.
+
+Gatte/Gattin: spouse
+
+Gebiet /ɡəˈbiːt/, das: region, area
 
 Gebirge /ɡəˈbɪrɡə/, das: mountains
   Am Wochenende fahren wir ins Gebirge.
@@ -33,6 +45,9 @@ Gefahr /ɡəˈfaːɐ/, die: danger
   Es besteht die Gefahr, dass jemand ins Eis einbricht.
   There is a risk that someone might fall through the ice.
 
+Gefängnis /ɡəˈfɛŋnɪs/, das: prison
+  im Gefängnis sitzen/sein: to be in prison
+
 gegen /ˈɡeːɡən/: against, toward
   gegen Missstände protestieren/vorgehen: to protest/act against social evils
 
@@ -40,6 +55,8 @@ gegenüber /ɡeːɡənˈ|yːbɐ/: opposite
   genital /geniˈtaːl/
 
 Gehalt /ɡəˈhalt/, das: salary
+
+geheim /ɡəˈhaim/: secret
 
 Geheimnis /ɡəˈhaimnis/, das: secret
 
@@ -54,6 +71,8 @@ gekleideter: clad, dressed
 
 gelaunt /ɡəˈlaunt/ adj: in a ... mood
    gut/schlecht gelaunt sein: to be in a good/bad mood 
+
+Geldwäsche /ˈɡɛltvɛʃə/, die: money laundering
 
 gemeinsam /ɡəˈmainzaːm/: common, joint, mutual, united, collectively, together, in common, in concert
 
@@ -86,6 +105,10 @@ Geschichte /ɡəˈʃɪçtə/, die: story
 gewandt /ɡəˈvant/: skillful
 
 gestern /ˈɡɛstɐn/: yesterday
+
+Gesundheit /ɡəˈzʊnthait/, die: health
+  Er erfreut sich bester Gesundheit.
+  He's in the best of health.
 
 Gewalttat /ɡəˈvalttaːt/, die: act of violence
 
@@ -120,6 +143,8 @@ greifen /ˈɡraifən/: to seize, to grab, to reach
 
 Grenze /ˈɡrɛnʦə/, die: border, frontier
 
+Grinsen /ˈɡrɪnzən/, das: grin
+
 grün /ɡryːn/: green
   grüner Salat: lettuce
 
@@ -129,6 +154,9 @@ Grün /ɡryːn/, das: green
   ein helles/kräftiges Grün: a light/strong green
 
 Grund /ɡrʊnt/, der: reason
+
+günstig /ˈgʏnstɪç/: favorable, convenient
+  ein Haus in günstiger Lage: a conveniently located house
 
 gut /ɡuːt/: good
   Für die Jahreszeit war das Wetter ganz gut.
