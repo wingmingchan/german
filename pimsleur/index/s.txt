@@ -76,6 +76,8 @@ so
   wie so? 2.13.13:40
   Er hat so viel Arbeit 2.13.14:21
 
+sofort 2.22.04:32
+
 Sohn 1.21.04:57
 
 Sonnabend 2.9.11:30
@@ -83,6 +85,8 @@ Sonnabend 2.9.11:30
 spät 1.11.07:28
 
 später 1.6.12:08
+
+spielen 2.22.14:32
 
 spreche 1.4.04:40
   ich spreche 1.4.04:40
