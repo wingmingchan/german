@@ -35,6 +35,8 @@ genug 1.16.09:42
 geöffnet
   Wie lange sind die Geschäfte noch geöffnet? 2.3.27:02
 
+geöffnete 2.21.13:40
+
 geradeaus 1.23.16:34
 
 gerne 1.6.20:42
