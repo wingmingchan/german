@@ -42,17 +42,31 @@ Scheibe /ˈʃaibə/, die: window pane
 
 scheinen /ˈʃainən/: to shine
 
+schieben /ˈˈʃiːbən/: to push, to blame, to reject
+  einen Tisch zur Seite schieben: to push a table aside
+  Er schob sich durch das Gedränge nach vorn zur Theke.
+  He pushed his way through the crowd to the bar at the front.
+  seine Verspätung auf den Verkehr schieben
+  to blame your lateness on the traffic
+  Sie schob den Vorschlag / Vorwurf weit von sich.
+  She rejected the suggestion/accusation completely.
+
 schief /ʃiːf/: awry
 
 schießen /ˈʃiːsən/: to shoot, to kick
 
 Schiff /ʃɪf/, das: ship, boat
 
+schildern /ˈʃɪldɐn/: to describe
+  jdm die Situation schildern: to describe the situation to sb
+
 schlafen /ˈʃlaːfən/: to sleep
 
 Schlagstock /ˈʃlaːkʃtɔk/, der: baton, nightstick
   Die Beamten setzten Tränengas und Schlagstöcke gegen die Demonstranten ein.
   The officers employed tear gas and batons against the demonstrators.
+
+schleichen /ˈʃlaiçən/: to creep, to crawl
 
 Schliere /ˈʃliːrə/, die: smear
 
@@ -65,6 +79,10 @@ Schnee /ˈʃneː/, der: snow
   We had to make a path through the deep snow. 
 
 Schneeball /ˈʃneːbal/, der: snowball
+
+schneiden /ˈʃnaidən/: to cut, to chop, to slice
+  Tomaten klein schneiden
+  to chop tomatoes
 
 schneien /ˈʃnaiən/: to snow
 
@@ -122,6 +140,10 @@ sein /zain/: to be
 
 seit /zait/: since
   seit ein paar Tagen
+  
+Sekunde /zeˈkʊndə/, die: second
+
+setzen /ˈzɛʦən/: to sit
 
 sicher /ˈzɪçɐ/: certain, clear, positive, safe, secure, steady, sure
 
@@ -134,11 +156,14 @@ Sie: you
 sie: she, it, they
   Sie wollen heiraten. They want to get married.
 
-Sekunde /zeˈkʊndə/, die: second
-
-setzen /ˈzɛʦən/: to sit
+Sinn /zɪn/, der: meaning, mind
+  Seine Worte gingen mir nicht aus dem Sinn.
+  I couldn't get his words out of my mind.
 
 sitzen /ˈzɪʦən/: to sit
+
+Skandal /skanˈdaːl/, der: scandal
+  einen Skandal vermeiden/vertuschen: to avoid/hush up a scandal
 
 sobald /zoˈbalt/: as soon as
   Sobald er anruft, gebe ich Ihnen Bescheid.
@@ -155,7 +180,8 @@ solch /zɔlç/: such
 sollen /ˈzɔlən/: to have to, shall
 
 Sommer /ˈzɔmɐ/, der:
-  Nächsten Sommer wollen wir verreisen. We want to go away next summer.
+  Nächsten Sommer wollen wir verreisen.
+  We want to go away next summer.
 
 Sonnabend /ˈzɔnaːbənt/, der: Saturday
 
@@ -169,6 +195,8 @@ sonst /zɔnst/: else
 
 Sorge /ˈzɔrɡə/, die: worry
 
+sorgen /ˈzɔrɡən/: to cater, to provide
+
 sowie /zoˈviː/: and, as well as
 
 spähen /ˈʃpɛːən/: to peer
@@ -180,6 +208,9 @@ spät /ʃpɛːt/: late
   a late winter 
 
 spätestens /ˈʃpɛːtəstəns/: at the latest
+
+Spiegel /ˈʃpiːɡəl/, der: mirror
+  sich im Spiegel betrachten: to look at yourself in the mirror
 
 Sprache /ˈʃpraːxə/, die: language
   Latein ist eine tote Sprache.
@@ -198,6 +229,8 @@ spülen /ˈʃpyːlən/: to wash, to rinse, to flush
 
 spürbar /ˈʃpyːɐbaːɐ/: noticeable , perceptible
 
+Staatsbesuch, der: state visit
+
 Staatsanwalt /ˈʃtaːʦ|anvalt/: DA, presecutor
 
 Stadt /ʃtat/, die: city
@@ -209,6 +242,8 @@ ständig /ˈʃtɛndɪç/: permanent
    Quit interrupting me all the time! 
 
 stark /ʃtark/, stärker: strong 
+
+stattdessen /ʃtatˈdɛsən/: instead
 
 Status /ˈʃtaːtʊs/, der: status
 
