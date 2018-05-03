@@ -23,6 +23,8 @@ was
 
 Wasser 1.18.10:54
 
+wechseln 2.25.11:23
+
 weg 1.27.11:13
 
 wegfahren 1.27.11:18
@@ -46,10 +48,6 @@ Weißwein, der 2.3.19:15
 
 weit 1.22.10:07
   weiter 1.24.21:39
-
-wenig 2.15.15:18
-
-weniger 2.14.19:15
 
 welche 1.23.14:38
   Welche ist die richtige Straße? 1.24.12:52
