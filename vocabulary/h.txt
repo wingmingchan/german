@@ -28,6 +28,8 @@ Handy /ˈhɛndiː/, das: cell, mobile
 
 hängen /ˈhɛŋən/: to hang
 
+häufig /ˈhɔyfɪç/: frequent, common
+
 Haupt /haupt/, das: head
 
 Hausarbeit /ˈhaus|arbait/, die: housework
@@ -53,8 +55,10 @@ heiraten /ˈhairaːtən/: to get married
 heiß /hais/: hot
   Vorsicht, heiß! Careful – hot!
 
-heißen: to be called, named
+heißen: to be called, named, it says
   heiße, heißt, heißt, habe geheißen
+  In dem Artikel heißt es, …
+  It says in the article …
 
 helfen /ˈhɛlfən/: to help
   helfe, hilfst, hilft, habe geholfen
@@ -68,6 +72,8 @@ Henne /ˈhɛnə/, die: hen
   The hen has laid an egg. 
 
 herab /hɛˈrap/: down
+
+heraus /hɛˈraus/: out
 
 herauskommen /hɛˈrauskɔmən/: to come out
 
@@ -84,6 +90,8 @@ herstellen /ˈheːɐʃtɛlən/: to produce
 Herz /hɛrʦ/, das: heart
 
 herzlich /ˈhɛrʦlɪç/: warm, cordial
+
+hießt => heißen
 
 Hilfe /ˈhɪlfə/, die: help
 
@@ -119,3 +127,7 @@ hübsch /hʏpʃ/: pretty
   She really is a pretty girl.
 
 Hund, der; Rüde, der; Hündin, die
+
+Hunger /ˈhʊŋɐ/, der: hunger, starvation, yearning
+
+hungrig /ˈhʊŋrɪç/: hungry
