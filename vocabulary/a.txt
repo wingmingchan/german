@@ -22,6 +22,12 @@ abräumen /ˈaprɔymən/: to clean up
   Räumst du bitte noch ab, bevor du gehst?
   Would you clear the table before you go, please?
 
+abschieben /ˈapʃiːbən/: to deport
+
+Abschiebung /ˈapʃiːbʊŋ/, die: deportation
+
+Abschiebungshaft, die: remand pending deportation
+
 abschneiden /ˈapʃnaidən/: to cut off
   sich eine Scheibe Brot abschneiden
   to cut yourself a slice of bread
@@ -82,9 +88,13 @@ Ammoniak /amoˈniak/, das: ammonia
 
 Ammoniaklösung, die: ammonia solution
 
+Amtszeit, die: term, term of office
+
 an /an/: at, on, from, against
   Auf geht's, an die Arbeit!
   Come on, let’s get to work!
+
+andauernd /ˈandauɐnt/: continuing, persistent, constant, ongoing
 
 Angabe /ˈanɡaːbə/, die: information, statement
   Er hat der Polizei gegenüber falsche Angaben gemacht.
@@ -115,6 +125,8 @@ ansetzen /ˈanzɛʦən/: to schedule, to estimate, to develop, to place
   to estimate too low costs for a project
   Weißt du, wo du den Hebel ansetzen musst?
   Do you know where you need to focus on?
+
+Ausrutscher /ˈausrʊtʃɐ/, der: slip, slip-up
 
 antrocknen: to begin to dry
 
