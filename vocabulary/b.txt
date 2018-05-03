@@ -34,6 +34,8 @@ beginnen /bəˈɡɪnən/: to begin
 
 Begleiter /bəˈɡlaitɐ/: companion
 
+Begriff /bəˈɡrɪf/, der: idea, notion
+
 behaupten /bəˈhauptən/: to claim
   Sie behauptet, krank gewesen zu sein, aber ich halte das für eine Ausrede.
   She claims to have been ill, but I think that's just an excuse.
@@ -44,17 +46,27 @@ Beitrag /ˈbaitraːk/, der: contribution
 
 Beitragszahler: contributor
 
+bekennen /bəˈkɛnən/: to confess, to admit
+
 belieben /bəˈliːbən/: to please, to like
   Kommen Sie wieder, wann es Ihnen beliebt.
   Come back again whenever you please.
   Man kann auch nach Belieben noch Zucker hinzufügen.
   You can also add as much sugar as you please.
 
+bemessen: limited
+
 Bemerkung /bəˈmɛrkʊŋ/, die: remark, comment
   eine abfällige Bemerkung machen: to make a snide remark
 
 Bereich /bəˈraiç/, der: area
   ein verkehrsberuhigter Bereich: a traffic-calmed neighborhood
+
+Berechnung /bəˈrɛçnʊŋ/, die: calculation, charging
+  Nach meiner Berechnung müssten wir jetzt bald ankommen.
+  According to my calculations we should be there soon.
+  Der Flug wurde ohne Berechnung von Gebühren umgebucht.
+  The flight was changed at no additional charge.
 
 bereits /bəˈraits/: already, as early as
   Es schneite bereits im Oktober.
@@ -63,6 +75,8 @@ bereits /bəˈraits/: already, as early as
 Berg /bɛrk/, der: mountain
 
 Bericht /bəˈrɪçt/, der: report
+
+berichtigen /bəˈrɪçtɪɡən/: to correct, to rectify
 
 berichten /bəˈrɪçtən/: to report
 
@@ -103,6 +117,9 @@ bestehen /bəˈʃteːən/: to be, to exist, to pass, to consist of
 besteigen /bəˈʃtaiɡən/: to climb
   Sie hat bereits mehrere Achttausender bestiegen.
   She has already climbed several eight-thousanders.
+
+betrachten /bəˈtraxtən/: to look at, to consider, to observe
+  ein Kunstwerk eingehend betrachten: to view an art work in detail
 
 Bevölkerung /bəˈfœlkərʊŋ/: population, people
 
@@ -169,6 +186,8 @@ Bratwurst /ˈbraːtvʊrst/, die: bratwurst
 brechen /ˈbrɛçən/: to break
   Sie brach das Brot in zwei Teile.
   She broke the bread in two. 
+
+breit /brait/: wide, broad
 
 *Brise /ˈbriːzə/, die: breeze
 
