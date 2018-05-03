@@ -23,6 +23,9 @@ Medizin, die 2.17.11:35
 
 mehr 2.1.27:20
   nicht mehr 2.18.07:53
+  mehr als 2.20.19:04
+  Hast du kein Benzin mehr? 2.21.10.27
+  Kein Benzin mehr? 2.21.10.50
 
 Meier 1.2.06:50
 
@@ -54,13 +57,20 @@ mit 1.8.16:24
   mit ihrem Mann 2.8.15:37
   mit Herrn Arnold 2.10.01:47
   mit ihm 2.12.14:10
+  mit ihr 2.23.04:18
   mit uns 2.15.04:53
+  mit wem 1.8.15:51
+  
+mit
+  Und ich bringe meinen Mann mit 2.25.16:53
 
 mitfahren 2.14.08:44
 
 mitkommen 2.2.20:11
 
 mitnehmen 2.14.08:55
+
+Mittwoch, der 2.23.22:10
 
 möchte
   Ich möchte 1.5.12:11
