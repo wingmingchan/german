@@ -10,6 +10,8 @@ verfeindet /fɛɐˈfaindət/: hostile
 
 vergangen /fɛɐˈɡaŋən/: past, previous, last
 
+Vergangenheit /fɛɐˈɡaŋənhait/, die: past
+
 Vergleich /fɛɐˈɡlaiç/, der: comparison
   Vergleiche zwischen zwei Dingen anstellen / ziehen
   to make/draw comparisons between two things
@@ -42,6 +44,10 @@ veröffentlichen /fɛɐˈ|œfəntlɪçən/: to publish
 
 verraten /fɛɐˈraːtən/: to tell, to reveal
 
+verstecken /fɛɐˈʃtɛkən/: to hide
+
+versteckt: hidden
+
 verstehen: to hear, understand, know
   verstehe, verstehst, versteht, habe verstanden 
   Ich habe nicht verstanden, was er gesagt hat.
@@ -54,6 +60,8 @@ verurteilen /fɛɐˈ|ʊrtailən/: to sentence, to condemn
 
 verwirren /fɛɐˈvɪrən/: to confuse, to bewilder, to ruffle, to get tangled up
   Weißes Haus verwirrt
+
+Verwirrung /fɛɐˈvɪrʊŋ/, die: confusion
 
 verwundet: wounded
 
@@ -79,3 +87,5 @@ verzögern /fɛɐˈʦøːɡɐn/: to delay
 Viertel /ˈfirtəl/, das: quarter
 
 vorgestern /ˈfoːɐɡɛstɐn/: the day before yesterday
+
+vorkommen /ˈfoːɐkɔmən/: to happen, to occur
