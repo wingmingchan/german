@@ -10,6 +10,8 @@ Eber /ˈeːbɐ/, der: boar
 
 effektiv /ɛfɛkˈtiːf/: effective
 
+eher /ˈeːɐ/: rather
+
 ehrlich /ˈeːɐlɪç/: honest
   Möchtest du eine ehrliche Antwort?
   Do you want an honest answer?
@@ -38,6 +40,8 @@ Einfahrt /ˈainfaːɐt/, die: entry
   No entry!
 
 eingeliefert: taken
+
+Eingang /ˈainɡaŋ/, der: entrance, start, receipt, delivery
 
 Einkommen /ˈainkɔmən/, das: income, earnings
   Wie hoch ist Ihr monatliches Einkommen in etwa?
@@ -70,6 +74,8 @@ Eintritt /ˈaintrɪt/, der: admission, entrance, entry
 Eisen /ˈaizən/, das: iron
    ein Geländer aus Eisen: an iron handrail
 
+Ellipse /ɛˈlɪpsə/, die: ellipse
+
 Eloquenz /-ˈkvɛnts/, die
 
 Eltern /ˈɛltɐn/: parents
@@ -95,6 +101,10 @@ endlich /ˈɛntlɪç/: finally
 Englisch /ˈɛŋlɪʃ/
   die englische Sprache
 
+entfernt /ɛntˈfɛrnt/: away, distant, remote
+
+Entfernung /ɛntˈfɛrnʊŋ/, die: distance
+
 enthalten /ɛntˈhaltən/: to contain
   Das Wasser hier enthält viel Kalk.
   The water here is very hard.
@@ -105,11 +115,15 @@ enthüllen /ɛntˈhʏlən/: to reveal
 
 entmannen: to castrate
 
+entscheidend /ɛntˈʃaidənt/: vital, crucial, decisive
+
 entschuldigen /ɛntˈʃʊldɪɡən/: to excuse, to pardon
   entschuldige, entschuldigst, entschuldigt, habe entschuldigt
   ent-: used to express that a process is reversed
   Hast du dich bei deiner Lehrerin entschuldigt?
   Did you apologize to your teacher?
+
+Erfolg /ɛɐˈfɔlk/, der: success
 
 Ergebnis /ɛɐˈɡeːpnɪs/, das: result
 
@@ -144,13 +158,15 @@ erleiden /ɛɐˈlaidən/: to suffer, to sustain
 
 Ermittler /ɛɐˈmɪtlɐ/: investigator
 
+Ernährung /ɛɐˈnɛːrʊŋ/, die: food, diet, nutrition
+
+erreichen /ɛɐˈraiçən/: to reach, to get hold of, to arrive at
+
 erträglich /ɛɐˈtrɛːklɪç/: bearable
 
 erwarten /ɛɐˈvartən/: to expect
   Ich erwarte dich dann um drei in meinem Büro.
   So I'll expect you at three in my office.
-
-etliche /ˈɛtlɪçə/: quite a few, a number of
 
 *Erz /eːɐts/, das: ore
 
@@ -162,10 +178,18 @@ es /ɛs/: it, there
 
 Essig /ˈɛsɪç/, der: vinegar
 
+Etappe /eˈtapə/, die: stage, leg
+  Das war eine wichtige Etappe auf dem Weg zum Erfolg.
+  That was an important stage on the road to success.
+
+etliche /ˈɛtlɪçə/: quite a few, a number of
+
 etwa /ˈɛtva/: used to express surprise, by any chance
   Hast du etwa keine Fahrkarte gekauft?
   You didn't forget to buy a ticket, did you?
 
 etwas /ˈɛtvas/: something, a little, somewhat
+
+Experte, Expertin /ɛksˈpɛrtə/: expert
 
 exzellent /ɛksʦɛˈlɛnt/: excellent
