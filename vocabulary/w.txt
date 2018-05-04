@@ -12,6 +12,8 @@ Wand /vant/, Wände /ˈvɛndə/, die: wall
   ein Bild an die Wand hängen
   to hang a picture on the wall
 
+Wanderung /ˈvandərʊŋ/, die: hike
+  
 warm /varm/: warm
 
 warnen /ˈvarnən/: to warn
@@ -59,6 +61,8 @@ Wert /veːɐt/, der: value
   Das Haus hat einen Wert von 250.000 Euro.
   The house is worth 250,000 euros.
 
+wesentlich /ˈveːzəntlɪç/: considerably, substantially
+
 Westen /ˈvɛstən/, der: west
 
 *Wetter /ˈvɛtɐ/, das: weather
@@ -87,6 +91,10 @@ Wischer, der: sponge, wiper
 
 wissen /ˈvɪsən/: to know
   weiß, weißt, weiß, ihr wisst, habe gewusst
+
+Wissenschaft /ˈvɪsənʃaft/, die: science
+
+Wissenschaftler /ˈvɪsənʃaftlɐ/: scientist
 
 *Witterung /ˈvɪtərʊŋ/, die: weather
    Bei guter Witterung findet das Fest im Freien statt.
