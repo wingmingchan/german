@@ -19,6 +19,8 @@ bald /balt/: soon
 Ball /bal/, der: ball
   Fußball: soccer
 
+Base /ˈbaːzə/, die: base
+
 bauen /ˈbauən/: to build
   baue, baust, baut, habe gebaut
   Die Kinder haben einen Schneemann gebaut.
@@ -28,6 +30,8 @@ Baum /baum/, Bäume /ˈbɔymə/, der: tree
    Bäume fällen: to cut down trees 
 
 Beamte /bəˈ|amtə/: official
+
+bevor /bəˈfoːɐ/: before
 
 beginnen /bəˈɡɪnən/: to begin
   Es beginnt zu regnen: It's starting to rain
@@ -40,7 +44,16 @@ behaupten /bəˈhauptən/: to claim
   Sie behauptet, krank gewesen zu sein, aber ich halte das für eine Ausrede.
   She claims to have been ill, but I think that's just an excuse.
 
+beherzigen /bəˈhɛrʦɪɡən/: to take to heart, to heed
+  Er beherzigte ihre Worte und fuhr vorsichtig.
+  He took her words to heart and drove carefully.
+
 Bein /bain/, das: leg
+
+Beispiel /ˈbaiʃpiːl/, das: example
+  zum Beispiel
+
+beispielsweise /ˈbaiʃpiːlsvaizə/: for example
 
 Beitrag /ˈbaitraːk/, der: contribution
 
@@ -139,6 +152,8 @@ bewähren /bəˈvɛːrən/: to prove yourself
 
 Bild, das: painting, picture
 
+bilden /ˈbɪldən/: to form, to constitute
+
 billig /ˈbɪlɪç/: cheap
    einen billigen Flug /fluːk/ buchen: to book a cheap flight 
 
@@ -182,6 +197,10 @@ Bordell /bɔrˈdɛl/, das: brothel
 Brandfall, der: fire
 
 Bratwurst /ˈbraːtvʊrst/, die: bratwurst
+
+brav /braːf/: good, well-behaved, honest, upright, brave
+  Sei schön brav bei Oma!
+  Now be good for grandma, will you?
 
 brechen /ˈbrɛçən/: to break
   Sie brach das Brot in zwei Teile.
