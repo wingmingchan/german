@@ -18,6 +18,8 @@ man /man/: somebody, someone
 Meer /meːɐ/, das: sea
    aufs offene Meer hinausfahren: to go out onto the open sea 
 
+Meeresspiegel /ˈmeːrəsʃpiːɡəl/, der: sea level
+
 Mehl /meːl/, das: flour
   Für den Kuchen braucht man 500 Gramm Mehl.
   For the cake you need 500 grams of flour.
@@ -34,7 +36,9 @@ meistens /ˈmaistəns/: mostly
 
 merkwürdig /ˈmɛrkvʏrdɪç/: strange, odd
 
-Messing, das: brass
+messen /ˈmɛsən/: to meaure
+
+Messing /ˈmɛsɪŋ/, das: brass
 
 Milliarde /mɪlˈjardə/, die: billion
 
