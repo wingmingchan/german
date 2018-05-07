@@ -18,12 +18,28 @@ sammeln /ˈzaməln/: to gather, to collect
   Im Herbst gehen wir gerne Pilze sammeln.
   We like to go mushroom picking in the fall.
 
+Satz /zaʦ/, der: sentence
+  Ich wurde mitten im Satz unterbrochen.
+  I was interrupted in the middle of a sentence.
+
 Sau /zau/, die: sow
 
 sauber /ˈzaubɐ/: clean
 
 saugfähig /ˈzaukfɛːɪç/: absorbent
   saugfähiges Küchenpapier: absorbent kitchen paper
+
+schade /ˈʃaːdə/: pity, shame
+  Wie schade!
+  What a pity!
+
+schaden /ˈʃaːdən/: to damage, to harm
+  Die Affäre hat seinem Ansehen sehr geschadet.
+  The affair really damaged his reputation.
+  
+Schaden, Schäden, der: damage, harm
+  Sein Verhalten hat viel Schaden angerichtet.
+  His behavior caused a lot of harm.
 
 scharf /ʃarf/: sharp, strong, hot, spicy, rigorous, tough
 
@@ -70,6 +86,9 @@ schleichen /ˈʃlaiçən/: to creep, to crawl
 
 Schliere /ˈʃliːrə/, die: smear
 
+schlimm: bad, nasty
+  Das ist schlimm.
+  
 Schlüssel /ˈʃlʏsəl/, der: key
 
 Schmutz /ʃmʊʦ/, der: dirt
@@ -79,6 +98,8 @@ Schnee /ˈʃneː/, der: snow
   We had to make a path through the deep snow. 
 
 Schneeball /ˈʃneːbal/, der: snowball
+
+Schneefeld, das: snow field
 
 schneiden /ˈʃnaidən/: to cut, to chop, to slice
   Tomaten klein schneiden
@@ -93,6 +114,9 @@ Schnurrbart /ˈʃnʊrbaːɐt/, der: mustache
 Schokolade, die /ʃokoˈlaːdə/: chocolate
 
 Schokoladenkuchen, der: chocolate cake
+
+schreiben /ˈʃraibən/: to write
+  Er schreibt Reportagen /repɔrˈtaːʒən/.
 
 Schrott /ʃrɔt/, der: scrap, garbage
   Schrotthändler: scrap (metal) dealer
@@ -111,6 +135,8 @@ Schuldige: culprit
 
 Schuss /ʃʊs/, Schüsse, der: shot
 
+Schutz /ʃʊʦ/, der: protection , shelter
+
 schwarz /ʃvarʦ/, schwarzen: black
 
 schwer /ʃveːɐ/: severe
@@ -118,6 +144,10 @@ schwer /ʃveːɐ/: severe
 schwierig /ˈʃviːrɪç/: difficult
 
 schwindelerregend: dizzy
+
+See /zeː/, der: lake, sea
+
+Seehöhe, die: sea level
 
 sehr /zeːɐ/: very
   Ich weiß sehr wohl, dass du mich anlügst!
@@ -142,6 +172,8 @@ seit /zait/: since
   seit ein paar Tagen
   
 Sekunde /zeˈkʊndə/, die: second
+
+seltsam /ˈzɛltzaːm/: strange, odd
 
 setzen /ˈzɛʦən/: to sit
 
@@ -173,6 +205,8 @@ sogar /zoˈɡaːɐ/: even
 
 sogenannt: so-called
 
+Sohn m. /zoːn/: son
+
 solch /zɔlç/: such
   Solch eine Unverschämtheit!
   Such impertinence!
@@ -197,19 +231,21 @@ sonst /zɔnst/: else
 
 Sorge /ˈzɔrɡə/, die: worry
 
-sorgen /ˈzɔrɡən/: to cater, to provide
+sorgen /ˈzɔrɡən/: to cater, to provide, to ensure
 
 sowie /zoˈviː/: and, as well as
 
 spähen /ˈʃpɛːən/: to peer
 
+spannend /ˈʃpanənt/: exciting
+
 spät /ʃpɛːt/: late
-  im späten Mittelalter
-  in the late Middle Ages
-  ein später Wintereinbruch
-  a late winter 
+  im späten Mittelalter: in the late Middle Ages
+  ein später Wintereinbruch: a late winter 
 
 spätestens /ˈʃpɛːtəstəns/: at the latest
+  Ich muss spätestens um Mitternacht zu Hause sein.
+  I have to be home no later than midnight.
 
 Spiegel /ˈʃpiːɡəl/, der: mirror
   sich im Spiegel betrachten: to look at yourself in the mirror
@@ -231,6 +267,9 @@ spülen /ˈʃpyːlən/: to wash, to rinse, to flush
 
 spürbar /ˈʃpyːɐbaːɐ/: noticeable , perceptible
 
+Staat /ʃtaːt/, der: state, country
+  ein demokratischer Staat: a democratic state
+
 Staatsbesuch, der: state visit
 
 Staatsanwalt /ˈʃtaːʦ|anvalt/: DA, presecutor
@@ -249,18 +288,29 @@ starten /ˈʃtartən/: to start
   Das Spiel startet in wenigen Minuten.
   The play starts in a few minutes.
 
+Stationierung /ʃtaʦjoˈniːrʊŋ/, die: stationing
+
+statisch /ˈʃtaːtɪʃ/: static
+
+Statistik /ʃtaˈtɪstɪk/, die: statistics
+
 stattdessen /ʃtatˈdɛsən/: instead
 
 Status /ˈʃtaːtʊs/, der: status
 
 stecken /ˈʃtɛkən/: to be
 
-stehen /ˈʃteːən/: to stand
+stehen /ˈʃteːən/: to stand, to be, to have stopped, to depend on
+  stehen bleiben: to stay
+  Egal, was ich machte, der Esel blieb wie angewurzelt stehen.
+  Whatever I did, the donkey stayed rooted to the spot.
 
 steigen /ˈʃtaiɡən/: to climb
   auf einen Berg steigen: to climb a mountain
 
 Steigerung /ˈʃtaiɡərʊŋ/, die: increase, improvement
+
+Steinbock /ˈʃtainbɔk/, der: ibex
 
 -stellig /ʃtɛlɪç/: -figure, -digit
   fünfstellige
@@ -298,6 +348,8 @@ streitig /ˈʃtraitɪç/: to dispute sb's right to sth
   jdm den Meistertitel streitig machen
   to dispute sb's right to the championship title
 
+Streitkräfte /ˈʃtraitkrɛftə/ (pl): armed forces
+
 Stück /ʃtʏk/, das: piece, bit
   ein Stück Kuchen abschneiden
   to cut a piece of cake
@@ -309,6 +361,9 @@ Student /ʃtuˈdɛnt/, Studentin: student
 studieren /ʃtuˈdiːrən/: to study
   studiere, studierst, studiert, habe studiert
 
+Stufe /ˈʃtuːfə/, die: step, stair
+  zwei Stufen auf einmal nehmen: to go up two steps at a time
+
 Stunde /ˈʃtʊndə/, die: hour
   eine halbe Stunde: half an hour
 
@@ -317,6 +372,9 @@ Sturm /ʃtʊrm/, der: storm
   A storm blew up.
 
 stürmen /ˈʃtʏrmən/: to storm
+
+suchen /ˈzuːxən/: to look for
+  Herr Meier sucht ein Zimmer.
 
 Süden /ˈzyːdən/, der: south
 
