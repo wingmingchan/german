@@ -16,8 +16,12 @@ bahnen /ˈbaːnən/: to clear the way for sb to sth
 
 bald /balt/: soon
 
+Balken /ˈbalkən/, der: beam
+
 Ball /bal/, der: ball
   Fußball: soccer
+
+Bande /ˈbandə/, die: gang
 
 Base /ˈbaːzə/, die: base
 
@@ -31,7 +35,30 @@ Baum /baum/, Bäume /ˈbɔymə/, der: tree
 
 Beamte /bəˈ|amtə/: official
 
-bevor /bəˈfoːɐ/: before
+bedienen /bəˈdiːnən/: to serve, to wait tables
+  Sie bedient in einem kleinen Restaurant.
+  She waits tables in a small restaurant.
+
+befriedigen /bəˈfriːdɪɡən/: to satisfy
+  seinen Wissensdurst mit einem Buch befriedigen
+  to satisfy your thirst for knowledge with a book
+
+befriedigend /bəˈfriːdɪɡənt/: satisfactory
+  ein befriedigendes Ergebnis erzielen: to achieve a satisfactory result
+
+Befriedigung /bəˈfriːdɪɡʊŋ/: satisfaction
+
+be-: to turn a noun or adjective to a verb, intransitive -> transitive
+
+begehen /bəˈɡeːən/: to commit, to make, to celebrate, to walk on, to use
+  Er hat mehrere Morde begangen.
+  He committed several murders.
+  Wir müssen aufpassen, dass wir diesen Fehler nicht noch mal begehen.
+  We must be careful not to make that mistake again.
+  seinen Geburtstag mit Freunden begehen
+  to celebrate your birthday with friends
+  Privatweg: Begehen auf eigene Gefahr!
+  Private footpath: use at your own risk.
 
 beginnen /bəˈɡɪnən/: to begin
   Es beginnt zu regnen: It's starting to rain
@@ -71,6 +98,12 @@ bemessen: limited
 
 Bemerkung /bəˈmɛrkʊŋ/, die: remark, comment
   eine abfällige Bemerkung machen: to make a snide remark
+
+beobachten /bəˈ|oːbaxtən/: to observe, to watch
+  Tiere in der Wildnis beobachten: to observe animals in the wild
+
+berauschend /bəˈrauʃənt/: intoxicating
+  => Rausch, der: intoxication
 
 Bereich /bəˈraiç/, der: area
   ein verkehrsberuhigter Bereich: a traffic-calmed neighborhood
@@ -120,6 +153,10 @@ besonder: great, special
 
 besonders /bəˈzɔndɐs/: particularly
 
+bestätigen /bəˈʃtɛːtɪɡən/: to confirm
+  Die Zahlen bestätigten die Schätzungen der Experten.
+  The figures confirmed the experts' estimates.
+
 bestehen /bəˈʃteːən/: to be, to exist, to pass, to consist of
   bestehe, bestehst, besteht, habe bestanden
   Er hat (die Prüfung) nicht bestanden.
@@ -131,10 +168,22 @@ besteigen /bəˈʃtaiɡən/: to climb
   Sie hat bereits mehrere Achttausender bestiegen.
   She has already climbed several eight-thousanders.
 
+bestellen /bəˈʃtɛlən/: to order
+  Frau Berger bestellt einen Salat /zaˈlaːt/.
+
+bestücken /bəˈʃtʏkən/: to equip, to load
+  einen Füller mit Patronen bestücken: to equip a fountain pen with cartridges
+
 betrachten /bəˈtraxtən/: to look at, to consider, to observe
   ein Kunstwerk eingehend betrachten: to view an art work in detail
 
+betrügen /bəˈtryːɡən/: to cheat
+  Er lügt und betrügt, wann es ihm passt.
+  He lies and cheats whenever it's to his advantage.
+
 Bevölkerung /bəˈfœlkərʊŋ/: population, people
+
+bevor /bəˈfoːɐ/: before
 
 bewaffnet /bəˈvafnət/: armed
 
@@ -147,6 +196,10 @@ bewahren /bəˈvaːrən/: to prevent, to save, to maintain
 bewähren /bəˈvɛːrən/: to prove yourself
   Er konnte sich in der Krise bewähren.
   He was able to prove himself in the crisis.
+
+bezaubern: bewitch, charm, enchant
+
+biegen /ˈbiːgən/: to bend
 
 *Bier, das: beer
 
@@ -174,11 +227,20 @@ bitten /ˈbɪtən/: to ask
 
 bitter /ˈbɪtɐ/: bitter, bitterly
 
+blasen /ˈblaːzən/: to blow
+  blasen, damit die Suppe abkühlt
+  to blow on the soup to cool it
+
 Blei /blai/, das: (metal) lead
+
+bleiben /ˈblaibən/: to stay
+  Bleib zu Hause!
 
 Blick /blɪk/, der: look, glance
 
 Blitzer, der: flashgun, speed trap
+
+blühend: blossoming, flourishing, thriving
 
 Bock /bɔk/, der: buck, ram, billy goat
 
