@@ -2,11 +2,20 @@
 V /fau/ V wie Viktor
 ========================================================
 
+Veränderung /fɛɐˈ|ɛndərʊŋ/, die: change
+
+Verbrechen /fɛɐˈbrɛçən/, das: crime
+  ein Verbrechen begehen: to commit a crime
+
 verdienen /fɛɐˈdiːnən/: to earn
 
 Vereinigung /fɛɐˈ|ainɪɡuŋ/, die: organization
 
 verfeindet /fɛɐˈfaindət/: hostile
+
+verfolgen /fɛɐˈfɔlɡən/: to pursue, to follow
+  Wir wurden von einem schwarzen Wagen verfolgt.
+  We were pursued by a black car.
 
 vergangen /fɛɐˈɡaŋən/: past, previous, last
 
@@ -15,6 +24,16 @@ Vergangenheit /fɛɐˈɡaŋənhait/, die: past
 Vergleich /fɛɐˈɡlaiç/, der: comparison
   Vergleiche zwischen zwei Dingen anstellen / ziehen
   to make/draw comparisons between two things
+
+Verhalten /fɛɐˈhaltən/, das: behavior
+  Ich kann sein Verhalten nicht verstehen.
+  I can't understand his behavior.
+
+verhalten /fɛɐˈhaltən/: restrained, cautious, suppressed
+  etw. mit verhaltenem Spott sagen: to say sth with quiet derision
+
+verkaufen /fɛɐˈkaufən/: to sell
+  Er hat sein Auto verkauft.
 
 Verkehr /fɛɐˈkeːɐ/, der: traffic
   Auf dieser Straße ist immer viel Verkehr.
@@ -44,7 +63,15 @@ veröffentlichen /fɛɐˈ|œfəntlɪçən/: to publish
 
 verraten /fɛɐˈraːtən/: to tell, to reveal
 
+verschaffen /fɛɐˈʃafən/: to get, to obtain
+  Ich kann dir günstige Konzertkarten verschaffen.
+  I can get (hold of) cheap concert tickets for you.
+
 verstecken /fɛɐˈʃtɛkən/: to hide
+  Ostereier im Garten verstecken
+  to hide Easter eggs in the garden
+
+Versteckspiel /fɛɐˈʃtɛkʃpiːl/, das: hide-and-go-seek  
 
 versteckt: hidden
 
@@ -77,6 +104,10 @@ verzichten /fɛɐˈʦɪçtən/: to do without, to refrain from, to renounce
 
 vielmehr /ˈfiːlmeːɐ/: rather
 
+Vogel /ˈfoːɡəl/, der: bird
+
+Vogelperspektive /ˈfoːɡəlpɛrspɛktiːvə/, die: bird's-eye view
+
 Vorfall /ˈfoːɐfal/, der: incident
 
 Vorgehensweise, die: approach
@@ -91,9 +122,25 @@ vorsichtig /ˈfoːɐzɪçtɪç/: careful, cautious
   eine vorsichtige Schätzung
   a cautious estimate
 
+Vorsitzende /ˈfoːɐzɪʦəndə/: chair(person) , chairman/chairwoman
+
 Vorsprung /ˈfoːɐʃprʊŋ/, der (M): lead, projection
   Er gewann mit drei Punkten Vorsprung.
   He won by three points.
+
+vorstellen /ˈfoːɐʃtɛlən/: to imagine, to understand sth by sth,
+to introduce, to come/go for an interview, to present, to put forward(s)
+  Unter gutem Unterricht stelle ich mir aber etwas anderes vor!
+  That's not what I understand by good teaching, however!
+  Darf ich Ihnen meine Tochter Kerstin vorstellen?
+  May I introduce my daughter Kerstin to you?
+  Morgen stelle ich mich bei der Bank vor.
+  I'm going for an interview at the bank tomorrow.
+  sein neues Programm vorstellen: to present your new program
+  Am Sonntag müssen wir die Uhren um eine Stunde vorstellen.
+  On Sunday we have to put the clocks forward by an hour.
+
+Vorstellung /ˈfoːɐʃtɛlʊŋ/, die: idea, picture
 
 Vorzeichen /ˈfoːɐʦaiçən/, das: omen
 
