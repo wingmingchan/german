@@ -2,6 +2,8 @@
 G /ɡeː/ G wie Gustav
 ========================================================
 
+Gämse /ˈɡɛmzə/, die: chamois
+
 Ganges , der
 
 Gans /ɡans/, die: goose
@@ -65,6 +67,8 @@ geheimnisvoll /ɡəˈhaimnisfɔl/: mysterious
 gehen /ˈɡeːən/: to go, to walk, to leave
   gehe, gehst, geht, bin gegangen
   
+Gehirn /ɡəˈhɪrn/, das: brain
+
 gehören /ɡəˈhøːrən/: to belong to
 
 gekleideter: clad, dressed
@@ -74,13 +78,26 @@ gelaunt /ɡəˈlaunt/ adj: in a ... mood
 
 Geldwäsche /ˈɡɛltvɛʃə/, die: money laundering
 
-gelten /ˈɡɛltən/: to be valid, to apply
+gelegen /ɡəˈleːɡən/: located, situated
+
+gelten /ˈɡɛltən/: to be valid, to apply, to be in force, to be effective
+  Das gilt nicht!
+  That doesn't count!
+
+geltend: current, established, applicable, valid, in force
+  geltend machen: to assert
+  einen Einwand geltend machen: to raise an objection
+  geltendes Recht sein: to be the law of the land
+
+gemächlich /ɡəˈmɛːçlɪç/: leisurely , unhurried
 
 gemeinsam /ɡəˈmainzaːm/: common, joint, mutual, united, collectively, together, in common, in concert
 
 genau /ɡəˈnau/: exactly
   Das geschah vor genau vier Jahren.
   That happened exactly four years ago.
+
+Genuss /ɡəˈnʊs/, der: enjoyment, pleasure
 
 Geologe /ɡeoˈloːɡə/: geologist
 
@@ -130,6 +147,8 @@ gleichen /ˈɡlaiçən/: to resemble, to be similar
   Die Schwestern gleichen sich sehr.
   The sisters are very similar.
 
+Gletscher /ˈɡlɛʧɐ/, der: glacier
+
 Gold /ɡɔlt/, das
 
 Grad /ɡraːt/, der: degree, level
@@ -151,6 +170,8 @@ Grenze /ˈɡrɛnʦə/, die: border, frontier
 
 Grinsen /ˈɡrɪnzən/, das: grin
 
+Größe /ˈɡrøːsə/, die: size
+
 grün /ɡryːn/: green
   grüner Salat: lettuce
 
@@ -163,6 +184,8 @@ Grund /ɡrʊnt/, der: reason
 
 günstig /ˈgʏnstɪç/: favorable, convenient
   ein Haus in günstiger Lage: a conveniently located house
+  eine Veränderung, die sich günstig auswirkt: a change with favorable consequences
+  günstig einkaufen: to buy things at attractive prices
 
 gut /ɡuːt/: good
   Für die Jahreszeit war das Wetter ganz gut.
