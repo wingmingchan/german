@@ -84,3 +84,7 @@ bringen 2.25.16:00
 Buch, das 2.16.15:05
 
 Büro, das 2.10.02:19
+
+Bus, der 2.26.21:00
+
+Busreise, die 2.26.22:52
