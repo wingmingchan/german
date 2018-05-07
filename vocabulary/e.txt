@@ -33,6 +33,8 @@ ein /ain/: one
 
 ein-: in, into
 
+Eindruck /ˈaindrʊk/, der: impression
+
 einfach /ˈainfax/: easy, simple, easily, simply
 
 Einfahrt /ˈainfaːɐt/, die: entry
@@ -63,11 +65,17 @@ Einsatz /ˈainzaʦ/, der: operation, deployment, use, effort, commitment
 
 einschleichen /ˈainʃlaiçən/: to sneak in
 
+einstige /ˈainstɪɡə/: former, erstwhile, one-time
+  Der einstige Opernstar ist heute Gesangslehrerin.
+  The erstwhile opera star is now a singing coach.
+
 Eintritt /ˈaintrɪt/, der: admission, entrance, entry
   Der Eintritt in die Ausstellung ist frei.
   Admission to the exhibition is free.
   Eintritt verboten!
   No entry.
+
+einzigartig /ˈainʦɪç|aːɐtɪç/: unique
 
 *Eis /ais/, das: ice
 
@@ -123,9 +131,19 @@ entschuldigen /ɛntˈʃʊldɪɡən/: to excuse, to pardon
   Hast du dich bei deiner Lehrerin entschuldigt?
   Did you apologize to your teacher?
 
+erfinden /ɛɐˈfɪndən/: to invent
+  Wer hat die Dampfmaschine erfunden?
+  Who invented the steam engine?
+
 Erfolg /ɛɐˈfɔlk/, der: success
 
+erfüllen /ɛɐˈfʏlən/: to be fulfilled, to come true
+  Leider haben sich meine Träume nicht erfüllt.
+  Unfortunately my dreams weren't fulfilled.
+
 Ergebnis /ɛɐˈɡeːpnɪs/, das: result
+
+erheblich /ɛɐˈheːplɪç/: considerable
 
 erheiternd /ɛɐˈhaitɐn/: amusing
 
@@ -152,6 +170,10 @@ Erlaubnis /ɛɐˈlaupnɪs/, die: permission
   Sie ist ohne die Erlaubnis ihrer Eltern weggegangen.
   She went out without her parents' permission.
 
+erleben /ɛɐˈleːbən/: to experience, to witness
+  Hast du schon mal erlebt, dass der Bus zu früh abfährt?
+  Have you ever had the bus leave too early on you?
+
 erleiden /ɛɐˈlaidən/: to suffer, to sustain
   Sie musste in ihrer Jugend viel Schlimmes erleiden.
   In her youth she suffered many terrible things.
@@ -164,11 +186,16 @@ erreichen /ɛɐˈraiçən/: to reach, to get hold of, to arrive at
 
 erträglich /ɛɐˈtrɛːklɪç/: bearable
 
+Erwachsene /ɛɐˈvaksənə/: adult, grown-up
+
 erwarten /ɛɐˈvartən/: to expect
   Ich erwarte dich dann um drei in meinem Büro.
   So I'll expect you at three in my office.
 
 *Erz /eːɐts/, das: ore
+
+erzielen /ɛɐˈʦiːlən/: to achieve, to attain
+  ein befriedigendes Ergebnis erzielen: to achieve a satisfactory result
 
 es /ɛs/: it, there
   Schau mal das Kind, wie brav es spielt.
@@ -189,6 +216,8 @@ etwa /ˈɛtva/: used to express surprise, by any chance
   You didn't forget to buy a ticket, did you?
 
 etwas /ˈɛtvas/: something, a little, somewhat
+
+Exklave /ɛksˈklaːvə/, die: exclave
 
 Experte, Expertin /ɛksˈpɛrtə/: expert
 
