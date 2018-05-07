@@ -2,7 +2,7 @@
 A /aː/ A wie Anton, Ä wie Ärger
 ========================================================
 
-ab-: from
+ab-: from, away
 
 abbauen /ˈapbauən/: to reduce, to mine, to deteriorate
 
@@ -36,7 +36,7 @@ absetzen /ˈapzɛʦən/: to drop sb off
   Kannst du mich bitte an der Schule absetzen?
   Can you drop me off at the school, please?
 
-abstehen /ˈapʃteːən/: to stick out
+abstehen /ˈapʃteːən/: to stick out, to stand away
   abstehende Ohren haben: to have protruding ears
 
 abstoßen /ˈapʃtoːsən/: to push off, to reject
@@ -50,6 +50,8 @@ Achsel /ˈaksəl/, die: shoulder, armpit
 achten /ˈaxtən/: to respect, to pay attention to
   auf den Verkehr achten: to pay attention to traffic
 
+Adler /ˈaːdlɐ/, der: eagle
+
 akklimatisieren /aklimatiˈziːrən/: to acclimate yourself
 
 Akku /ˈaku/, der: battery
@@ -60,6 +62,10 @@ allerdings /ˈalɐˈdɪŋs/: however, indeed
   The soup's good, but a little spicy.
   „Ist das denn wichtig?‟ – „Allerdings!‟
   “Is that really important?” – “Indeed!”
+
+Alm /alm/, die: alpine pasture
+
+Almrausch, der: alpine rose, rhododendron, mountain rose
 
 als /als/: when, than, only, as if, as
   Als ich noch in Berlin wohnte, ging ich oft ins Kino.
@@ -106,6 +112,8 @@ Angabe /ˈanɡaːbə/, die: information, statement
 
 angeln /ˈaŋəln/: to fish
 
+angewurzelt /anɡəˈvʊrʦɛlt/: rooted to the spot
+
 ankündigen /ˈankʏndɪɡən/: to announce
   Muss der Lehrer solche Tests ankündigen?
   Does the teacher have to give advance notice of tests like those?
@@ -151,6 +159,10 @@ anziehen /ˈanʦiːən/: to attract, to get dressed
   Salz zieht Feuchtigkeit an.
   Salt attracts damp.
 
+anzünden /ˈanʦʏndən/: to light
+  Sie zündete sich eine Zigarette an.
+  She lit a cigarette.
+
 Apfel /ˈapfəl/, der: apple
   Apfelkuchen: apple pie
 
@@ -182,7 +194,11 @@ auf /auf/: on, onto, at, to
   Ist der Supermarkt noch auf?
   Is the supermarket still open?
 
+auf-: upward, opened, getting bigger
+
 aufbrechen /ˈaufbrɛçən/: to break open, to break down
+
+auffahren /ˈauffaːrən/: to run into, to tailgate, to start, to ascend
 
 aufkreuzen /ˈaufkrɔyʦən/: to show up
   Er ist plötzlich wieder bei seinen Eltern aufgekreuzt.
@@ -192,6 +208,12 @@ Auflösung /ˈaufløːzʊŋ/, die: resolution, disintegration
 
 Aufnahme /ˈaufnaːmə/, die: photo, shot
 
+aufpassen /ˈaufpasən/: to be careful, to pay attention
+  Pass auf, dass du nicht hinfällst!
+  Watch out that you don’t fall!
+  Du musst im Unterricht besser aufpassen.
+  You have to pay more attention in classes.
+
 aufschlagen /ˈaufʃlaːɡən/: to open, to add, to hit
   Ich hielt sie für tot, bis sie die Augen aufschlug.
   I thought she was dead till she opened her eyes.
@@ -199,21 +221,38 @@ aufschlagen /ˈaufʃlaːɡən/: to open, to add, to hit
 Auge /ˈauɡə/, das: eye
   blaue / gute Augen haben
   to have blue eyes / good eyesight
+  
+aus-: away, removed, turned off
+
+Ausblick /ˈausblɪk/, der: view, outlook, perspective
+  ein Zimmer mit Ausblick aufs Meer
+  a room with a view of the sea
+
+Ausflug /ˈausfluːk/, der: trip, excursion
+
+ausführen /ˈausfyːrən/: to carry out, to perform, to execute, to export
 
 Ausgang /ˈausɡaŋ/, der: exit, outcome, furlough
 
 Ausgangspunkt /ˈausɡaŋspʊŋkt/, der: starting point
+
+ausgehen /ˈausɡeːən/: to go out, to finish, to run out, to go off
+  etw. geht von jdm/etw. aus
+  welche Gefahr von Adolf Hitler ausgeht
 
 Ausland /ˈauslant/, das: foreign countries
   ins Ausland reisen: to travel abroad
 
 auslösen /ˈausløːzən/: to trigger
 
-Aussage /ˈauszaːɡə/, die: statement, message
+Aussage /ˈauszaːɡə/, die: testimony, statement, message
   eine klare Aussage der Regierung zur Steuerpolitik fordern
   to demand a clear statement from the government on its tax policy
+
+Aussagekraft: expressiveness
 
 Ausschreitung /ˈausʃraitʊŋ/, die: riot
 
 Ausstellung /ˈausʃtɛlʊŋ/, die: exhibition
   eine Ausstellung eröffnen: to open an exhibition
+
