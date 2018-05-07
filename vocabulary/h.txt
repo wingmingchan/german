@@ -24,6 +24,8 @@ Halt /halt/, der: stop
 
 halten /ˈhaltən/: to hold, to keep
 
+Handlung /ˈhandlʊŋ/, die: act, action
+
 Handy /ˈhɛndiː/, das: cell, mobile
 
 hängen /ˈhɛŋən/: to hang
@@ -118,6 +120,10 @@ Hintergrund, der: background
 hoch /hoːx/, hohe /ˈhoːə/: tall, high
   das hohe C
 
+höflich /ˈhøːflɪç/: polite, politely
+  jdn höflich grüßen/um etw. bitten
+  to greet sb politely/ask sb politely for sth
+
 holen /ˈhoːlən/: to get, to fetch
   Holst du bitte mal die Butter aus dem Kühlschrank?
   Could you get the butter from the refrigerator, please?
@@ -131,3 +137,6 @@ Hund, der; Rüde, der; Hündin, die
 Hunger /ˈhʊŋɐ/, der: hunger, starvation, yearning
 
 hungrig /ˈhʊŋrɪç/: hungry
+
+Hütte /ˈhʏtə/, die: hut, shack
+
