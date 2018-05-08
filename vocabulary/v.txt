@@ -7,6 +7,10 @@ Veränderung /fɛɐˈ|ɛndərʊŋ/, die: change
 Verbrechen /fɛɐˈbrɛçən/, das: crime
   ein Verbrechen begehen: to commit a crime
 
+verbessern /fɛɐˈbɛsɐn/: to improve, to correct, to amend
+
+Verbraucher /fɛɐˈbrauxɐ/, Verbraucherin: consumer
+
 verdienen /fɛɐˈdiːnən/: to earn
 
 Vereinigung /fɛɐˈ|ainɪɡuŋ/, die: organization
@@ -16,6 +20,10 @@ verfeindet /fɛɐˈfaindət/: hostile
 verfolgen /fɛɐˈfɔlɡən/: to pursue, to follow
   Wir wurden von einem schwarzen Wagen verfolgt.
   We were pursued by a black car.
+  
+Verfolgung /fɛɐˈfɔlɡʊŋ/, die: prosecution, pursuit
+  Das wird eine strafrechtliche Verfolgung nach sich ziehen.
+  That will result in a criminal prosecution.
 
 vergangen /fɛɐˈɡaŋən/: past, previous, last
 
@@ -24,6 +32,9 @@ Vergangenheit /fɛɐˈɡaŋənhait/, die: past
 Vergleich /fɛɐˈɡlaiç/, der: comparison
   Vergleiche zwischen zwei Dingen anstellen / ziehen
   to make/draw comparisons between two things
+
+vergleichen /fɛɐˈɡlɪçən/: to compare
+  verglichen mit: compared with
 
 Verhalten /fɛɐˈhaltən/, das: behavior
   Ich kann sein Verhalten nicht verstehen.
@@ -38,6 +49,12 @@ verkaufen /fɛɐˈkaufən/: to sell
 Verkehr /fɛɐˈkeːɐ/, der: traffic
   Auf dieser Straße ist immer viel Verkehr.
   There's always a lot of traffic on this road.
+
+verlassen /fɛɐˈlasən/: to leave, to abandon
+  Er verließ das Geschäft, ohne etwas gekauft zu haben.
+  He left the store without buying anything.
+  
+verlassen: deserted, lonely, abandoned
 
 verletzen /fɛɐˈlɛʦən/: to injure
 
@@ -107,6 +124,10 @@ vielmehr /ˈfiːlmeːɐ/: rather
 Vogel /ˈfoːɡəl/, der: bird
 
 Vogelperspektive /ˈfoːɡəlpɛrspɛktiːvə/, die: bird's-eye view
+
+völlig /ˈfœlɪç/: completely, totally
+  Das ist völlig unmöglich.
+  That's completely impossible.
 
 Vorfall /ˈfoːɐfal/, der: incident
 
