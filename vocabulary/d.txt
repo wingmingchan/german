@@ -10,7 +10,7 @@ dabei /daˈbai/: there, at the same time
 
 davon /daˈfɔn/: from it
 
-dafür /daˈfyːɐ/: for it
+dafür /daˈfyːɐ/: for it, for that
 
 daher /daˈheːɐ/: therefore
 
@@ -32,6 +32,10 @@ daran /daˈran/: at it, on it, on them
 darauf /daˈrauf/: about it
 
 darin /ˈdaːrɪn/: in it/them/there
+
+datieren /daˈtiːrən/: to date
+  Er hat den Brief auf den 10. Oktober datiert.
+  He dated the letter October 10th.
 
 dauern /ˈdauɐn/: to last, to take
   Der Film dauert zwei Stunden.
@@ -79,7 +83,9 @@ deswegen /ˈdɛsˈveːɡən/: therefore, so
 
 Detail /deˈtai/, das: detail
 
-deutlich /’dɔytlɪç/: clearly
+deutlich /ˈdɔytlɪç/: clearly
+  Er hat deutliche Fortschritte gemacht.
+  He's made significant progress.
 
 Deutsch /dɔytʃ/, das
   auf/zu Deutsch
@@ -88,7 +94,7 @@ Deutsch /dɔytʃ/, das
 
 Diamant /diaˈmant/, der: diamond
 
-Diät /di’ɛːt/, die: diet
+Diät /diˈɛːt/, die: diet
 
 Dienst /diːnst/, der: service
   der öffentliche Dienst: the civil service
@@ -118,6 +124,10 @@ Dreck /drɛk/, der: dirt
 
 Drehung /ˈdreːʊŋ/, die: rotation, turn, twist
 
+drehen /ˈdreːən/: to turn, to rotate, to spin, to shoot (photo, film)
+  Sie drehte den Kopf zur Seite/nach links.
+  She turned her head to the side/to the left.
+
 Drogenhandel /ˈdroːɡənhandəl/, der: drug dealing/trafficking
 
 drohen /ˈdroːən/: to threaten
@@ -137,6 +147,9 @@ durchgreifen /ˈdʊrçɡraifən/: to reach through
 dünn /dʏn/: thin
   Das Eis wird dich nicht tragen, es ist noch zu dünn.
   The ice won't hold your weight – it's still too thin.
+
+durch /dʊrç/: through, around, by, gone, past, over
+  durch und durch: through and through, completely
 
 dürfen /ˈdʏrfən/: to be allowed to, may, can
   darf, darfst, darf, ihr dürft, ich habe gedurft
