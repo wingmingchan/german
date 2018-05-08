@@ -10,6 +10,8 @@ Taifun /taiˈfuːn/, der: typhoon
 
 Tante, die: aunt
 
+Tasche /ˈtaʃə/, die: pocket, bag
+
 Täter /ˈtɛːtɐ/: culprit
   Die Polizei hat den mutmaßlichen Täter verhaftet.
   The police have arrested the suspect.
@@ -34,6 +36,10 @@ Teil /tail/, der: part
   zum Teil: partly
 
 teilen /ˈtailən/: to share, to divide
+
+testen /ˈtɛstən/: to test
+
+tief /tiːf/: deep
 
 Tippfehler, der: typo, typing error
 
@@ -61,6 +67,10 @@ tränen /ˈtrɛːnən/: Auge(n) sich mit Tränen füllen
 Träne /ˈtrɛːnə/, die: tear
 
 Tränengas: tear gas
+
+traurig /ˈtraurɪç/: sad, unhappy
+  Warum bist du heute so traurig?
+  Why are you so sad today?
 
 treffen /ˈtrɛfən/: to hit, to meet
   Die Kugel traf genau ins Ziel.
