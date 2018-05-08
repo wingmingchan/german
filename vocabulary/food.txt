@@ -55,6 +55,8 @@ Brombeere, die: blackberry
 Brot, das; Brote
   ein Laib Brot: a loaf of bread
 
+Brötchen /ˈbrøːtçən/, das: bread, dinner roll
+
 Butter, die
 
 ========================================================
@@ -167,6 +169,8 @@ Kinderteller, der: children's meal
 Knoblauch /ˈknoːplaux/, der: onion
 
 Kohl /koːl/ , der: cabbage
+
+Korn, das: corn, grain
 
 köstlich /ˈkœstlɪç/
   Die Suppe ist einfach köstlich!
@@ -360,6 +364,10 @@ Wasser, das
 Wein, der
 
 Weinkarte, die
+
+Weintraube, die: grape
+
+Weizen, der: wheat
 
 Weißwurst, die
 
