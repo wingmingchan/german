@@ -143,6 +143,11 @@ erfüllen /ɛɐˈfʏlən/: to be fulfilled, to come true
 
 Ergebnis /ɛɐˈɡeːpnɪs/, das: result
 
+ergehen /ɛɐˈɡeːən/: 
+  jdm ergeht es irgendwie: things go somehow for sb
+  Wie ist es ihr nach dem Umzug in der neuen Stadt ergangen?
+  How did things go for her after her move to the new city?
+
 erheblich /ɛɐˈheːplɪç/: considerable
 
 erheiternd /ɛɐˈhaitɐn/: amusing
@@ -155,6 +160,8 @@ erinnern /ɛɐˈ|ɪnɐn/: to remember
   erinnere, erinnerst, erinnert, habe erinnert
 
 erkennen /ɛɐˈkɛnən/: to discern, to recognize
+  Er starb an inneren Blutungen, die zu spät erkannt wurden.
+  He died of internal bleeding that wasn't diagnosed till it was too late.
 
 erklären /ɛɐˈklɛːrən/: to declare, to explain
   Kannst du mir erklären, wie die Kaffeemaschine funktioniert?
@@ -182,7 +189,19 @@ Ermittler /ɛɐˈmɪtlɐ/: investigator
 
 Ernährung /ɛɐˈnɛːrʊŋ/, die: food, diet, nutrition
 
+erobern /ɛɐˈ|oːbɐn/: to conquer, to seize, to win, to capture
+  Das Dorf wurde von den Wikingern erobert.
+  The village was conquered by the Vikings.
+
 erreichen /ɛɐˈraiçən/: to reach, to get hold of, to arrive at
+  Wann kann ich Sie im Büro am besten erreichen?
+  When's the best time to get hold of you at the office?
+  In Kürze erreichen wir München.
+  We are now approaching Munich.
+
+erstatten /ɛɐˈʃtatən/: to reimburse, to refund, to give, to make, to file
+  Er bekommt von seinem Arbeitgeber die Fahrtkosten zur Arbeit voll erstattet.
+  He gets his travel expenses to the office reimbursed in full by his employer.
 
 erträglich /ɛɐˈtrɛːklɪç/: bearable
 
@@ -193,6 +212,12 @@ erwarten /ɛɐˈvartən/: to expect
   So I'll expect you at three in my office.
 
 *Erz /eːɐts/, das: ore
+
+erzählen /ɛɐˈʦɛːlən/: to tell, to narrate, to recount, to relate
+  Er kann gut erzählen.
+  He's a good storyteller.
+  Er erzählte kurz, was passiert war.
+  He said briefly what had happened.
 
 erzielen /ɛɐˈʦiːlən/: to achieve, to attain
   ein befriedigendes Ergebnis erzielen: to achieve a satisfactory result
