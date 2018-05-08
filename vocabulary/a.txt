@@ -23,6 +23,7 @@ abräumen /ˈaprɔymən/: to clean up
   Would you clear the table before you go, please?
 
 abschieben /ˈapʃiːbən/: to deport
+  habe abgeschoben
 
 Abschiebung /ˈapʃiːbʊŋ/, die: deportation
 
@@ -114,6 +115,8 @@ angeln /ˈaŋəln/: to fish
 
 angewurzelt /anɡəˈvʊrʦɛlt/: rooted to the spot
 
+Anhänger, der: trailer, pendant
+
 ankündigen /ˈankʏndɪɡən/: to announce
   Muss der Lehrer solche Tests ankündigen?
   Does the teacher have to give advance notice of tests like those?
@@ -176,6 +179,14 @@ archivieren /arçiˈviːrən/: to archive
   Dokumente/Berichte archivieren: to archive documents/reports
 
 Ärger /ˈɛrɡɐ/, der: anger
+
+Arm /arm/, der: arm
+
+arm /arm/: poor
+  eines der ärmsten Länder der Erde: one of the poorest countries on earth
+
+Armut /ˈarmuːt/, die: poverty
+  in bitterster Armut leben: to be desperately poor
 
 Arzt /arʦt/, Ärztin: doctor
   ein Attest des behandelndes Arztes vorlegen
