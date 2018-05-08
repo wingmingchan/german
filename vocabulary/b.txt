@@ -10,6 +10,9 @@ Bach /bax/, der: stream, brook
 
 backen /ˈbakən/: to bake
 
+Bäcker /ˈbɛkɐ/, Bäckerin: baker
+  beim Bäcker Brötchen holen: to get bread rolls from the baker's
+
 Bäckerei /bɛkəˈrai/, die: bakery
 
 bahnen /ˈbaːnən/: to clear the way for sb to sth
@@ -60,12 +63,22 @@ begehen /bəˈɡeːən/: to commit, to make, to celebrate, to walk on, to use
   Privatweg: Begehen auf eigene Gefahr!
   Private footpath: use at your own risk.
 
+begeistern /bəˈɡaistɐn/: to be enthusiastic about, to delight, to thrill, to enthuse
+  Er begeistert sich sehr für diesen Sport.
+  He's very keen on that sport.
+  Die Band begeisterte das Publikum.
+  The band had the audience in raptures.
+
 beginnen /bəˈɡɪnən/: to begin
   Es beginnt zu regnen: It's starting to rain
 
 Begleiter /bəˈɡlaitɐ/: companion
 
 Begriff /bəˈɡrɪf/, der: idea, notion
+
+behalten /bəˈhaltən/: to keep, to remember
+  Mama, kann ich den Hund behalten?
+  Mom, can I keep the dog?
 
 behaupten /bəˈhauptən/: to claim
   Sie behauptet, krank gewesen zu sein, aber ich halte das für eine Ausrede.
@@ -87,6 +100,8 @@ Beitrag /ˈbaitraːk/, der: contribution
 Beitragszahler: contributor
 
 bekennen /bəˈkɛnən/: to confess, to admit
+
+bekommen /bəˈkɔmən/: to get, to receive, to have
 
 belieben /bəˈliːbən/: to please, to like
   Kommen Sie wieder, wann es Ihnen beliebt.
@@ -206,6 +221,8 @@ biegen /ˈbiːgən/: to bend
 Bild, das: painting, picture
 
 bilden /ˈbɪldən/: to form, to constitute
+  Nehmt euch an den Händen und bildet einen Kreis.
+  Take each other by the hand and form a circle.
 
 billig /ˈbɪlɪç/: cheap
    einen billigen Flug /fluːk/ buchen: to book a cheap flight 
@@ -237,6 +254,10 @@ bleiben /ˈblaibən/: to stay
   Bleib zu Hause!
 
 Blick /blɪk/, der: look, glance
+
+blicken /ˈblɪkən/: to look, to get
+  aus dem Fenster blicken: to look out of the window
+  traurig blicken: to look sad
 
 Blitzer, der: flashgun, speed trap
 
