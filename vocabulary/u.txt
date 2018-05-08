@@ -10,6 +10,10 @@ U /uː/ U wie Ulrich, Ü wie Übermut
 
 überall /yːbɐˈ|al/: everywhere
 
+überfüllt /yːbɐˈfʏlt/: packed, overcrowded, congested
+  Der Strand war völlig überfüllt.
+  The beach was totally packed.
+
 übergewichtig /ˈyːbɐɡəvɪçtɪç/: overweight
   Es gibt immer mehr übergewichtige Kinder.
   There are more and more overweight children.
@@ -30,6 +34,10 @@ U /uː/ U wie Ulrich, Ü wie Übermut
 
 Übersicht /ˈyːbɐzɪçt/, die: overview
 
+überwachen /yːbɐˈvaxən/: to watch, to keep under surveillance, to supervise
+  Der Verdächtige wird rund um die Uhr überwacht.
+  The suspect is being kept under surveillance around the clock.
+
 übrig /ˈyːbrɪç/: left (over)
   Von dem Kuchen ist nichts übrig geblieben.
   There's no cake left.
@@ -45,7 +53,8 @@ umbringen /ˈʊmbrɪŋən/: to kill
 
 umfänglich /ˈʊmfɛŋlɪç/: extensive
 
-Umfrage /ˈʊmfraːɡə/, die: survey
+Umfrage /ˈʊmfraːɡə/, die: survey, poll
+  eine Umfrage durchführen: to conduct a survey
 
 umgarnen /ʊmˈɡarnən/: to beguile
 
@@ -74,6 +83,8 @@ Unglück /ˈʊnɡlʏk/, das: disaster
 ungünstig: unfavorable
 
 unklar /ˈʊnklaːɐ/: unclear
+
+unmöglich /ˈʊnmøːklɪç/: impossible
 
 Unsinn, der: nonsense
 
@@ -109,5 +120,9 @@ Uran, das: uranium
 
 urig /ˈuːrɪç/: unspoiled, primitive
   eine urige Almhütte: a rustic alpine hut
+
+Ursache /ˈuːɐzaxə/, die: cause
+  Die eigentliche Ursache des Unglücks ist noch nicht geklärt.
+  The real cause of the accident hasn't yet been established.
 
 usw. und so weiter: etc.
