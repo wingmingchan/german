@@ -37,10 +37,20 @@ faszinierend: fascinating
 
 Faust /faust/, die: fist
 
+Fazit /ˈfaːʦɪt/, das: conclusion
+  Er zog ein positives Fazit der Veranstaltung.
+  He described the event as a success.
+
 Fehler /ˈfeːlɐ/, der: mistake, error
   Du hättest die Aktien nicht verkaufen sollen, das war ein Fehler.
   You shouldn't have sold the shares – that was a mistake.
   Schreibfehler: slip of the pen
+
+feiern /ˈfaiɐn/: to celebrate, to acclaim, to laud, to hail
+  Ich bin befördert worden. Jetzt wird erst mal ordentlich gefeiert!
+  I've been promoted. This calls for a real celebration!
+
+Feiertag /ˈfaiɐtaːk/, der: holiday
 
 fein /fain/: fine
 
@@ -71,6 +81,8 @@ finden /ˈfɪndən/: to find
 
 Fisch /fɪʃ/, der: fish
 
+flach /flax/: flat, shallow
+
 Flanke /ˈflaŋkə/, die: flank
 
 Fleck /flɛk/, der: stain, mark
@@ -84,6 +96,11 @@ fließen /ˈfliːsən/: to flow
 flogen  => fliegen
 
 Flug /fluːk/, der: flight
+
+Flüchtling /ˈflʏçtlɪŋ/, Flüchtlinge, der: refugee
+  politische Flüchtlinge aufnehmen: to take in political refugees
+
+Fluchtursache, die: reason to flee
 
 Flüssigkeit /ˈflʏsɪçkait/, die: fluid, liquid
   eine farblose/trübe Flüssigkeit: a colorless/cloudy liquid
@@ -113,6 +130,10 @@ fordern /ˈfɔrdɐn/: to demand, to claim lives
 
 Forscher /ˈfɔrʃɐ/: researcher
 
+fortschreiten /ˈfɔrtʃraitən/: to progress
+  Die Krankheit schreitet weiter fort.
+  The illness is progressing further.
+
 Frankreich /ˈfraŋkraiç/, das: France
 
 französisch /franˈtsøːzɪʃ/: french
@@ -127,6 +148,11 @@ frau /frau/: you, one
   Fräulein Müller: Miss Müller
 
 frei /frai/: free
+
+freiwillig /ˈfraivɪlɪç/: voluntary
+  freiwillige Überstunden: voluntary overtime
+  Er hat freiwillig geholfen.
+  He helped voluntarily.
 
 Freude /ˈfrɔydə/, die: joy, pleasure
   die Freuden des Lebens/der Liebe: the joys of life/love
