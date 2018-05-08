@@ -15,6 +15,12 @@ man /man/: somebody, someone
   man muss es tun: it must be done
   wie sagt man dieses Wort auf Deutsch?
 
+manch /manç/: some, many (a)
+  Ich habe noch manch anderes zu tun.
+  I've still got quite a few other things to do.
+
+manchmal /ˈmançmaːl/: sometimes
+
 Meer /meːɐ/, das: sea
    aufs offene Meer hinausfahren: to go out onto the open sea 
 
@@ -24,7 +30,12 @@ Mehl /meːl/, das: flour
   Für den Kuchen braucht man 500 Gramm Mehl.
   For the cake you need 500 grams of flour.
 
+Mehrheit /ˈmeːɐhait/, die: majority
+  Die Mehrheit der Bevölkerung ist gegen das neue Gesetz.
+  The majority of the population is against the new law.
+
 mehrere /ˈmeːrərə/: several
+  ein Text mit mehreren Fehlern: a text with several mistakes
 
 Meile /ˈmailə/, die: mile
 
@@ -43,6 +54,9 @@ messen /ˈmɛsən/: to meaure
 Messing /ˈmɛsɪŋ/, das: brass
 
 Milliarde /mɪlˈjardə/, die: billion
+
+Minderheit /ˈmɪndɐhait/, die: minority
+  eine diskriminierte/religiöse Minderheit: a minority facing discrimination/religious minority
 
 mindeste /ˈmɪndəstə/: least , slightest
 
@@ -69,6 +83,9 @@ Mitteilung /ˈmɪttailʊŋ/, die: communication, announcement, information, mess
 
 Mittel /ˈmɪtəl/, das: means , way , method
   ein Mittel gegen die Einsamkeit: a means of combatting loneliness
+
+Mittelmeer /ˈmɪtəlmeːɐ/, das: Mediterranean (Sea)
+  eine Insel im Mittelmeer: an island in the Mediterranean
 
 mitten /ˈmɪtən/: in the middle
 
