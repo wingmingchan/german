@@ -19,6 +19,8 @@ kaum /kaum/: barely, hardly
   Ich habe kaum geschlafen.
   I hardly slept a wink.
 
+kehren /ˈkeːrən/ to sweep, to return
+
 kein: not, not a, less than
   Das ist keine schlechte Idee!
   That’s not a bad idea.
@@ -82,11 +84,15 @@ konsequent /kɔnzeˈkvɛnt/: consistently
 
 kontrollieren /kɔntrɔˈliːrən/: to control
 
+Konsument /kɔnzʊˈmɛnt/, der: consumer
+
 Kopf /kɔpf/, der: head
   Er ist einen Kopf größer als ich.
   He's a head taller than me.
 
 Kopie /koˈpiː/, die: copy
+
+Korn /kɔrn/, das: seed, grain, corn
 
 Körper /ˈkœrpɐ/, der: body, torso
   einen muskulösen Körper haben: to have a muscular body
@@ -133,5 +139,10 @@ kündigen /ˈkʏndɪɡən/: to cancel, to terminate, to give notice
 
 Kupfer, das: copper
 
-kurz /kʊrʦ/: short
+kurz /kʊrʦ/: short, briefly
   kurze Haare haben: to have short hair
+  Sie erzählte kurz, was passiert war.
+  She said briefly what had happened.
+
+Kürze /ˈkʏrʦə/, die: shortness, brevity
+  in Kürze: shortly
