@@ -4,12 +4,18 @@ V /fau/ V wie Viktor
 
 Veränderung /fɛɐˈ|ɛndərʊŋ/, die: change
 
-Verbrechen /fɛɐˈbrɛçən/, das: crime
-  ein Verbrechen begehen: to commit a crime
+verbergen /fɛɐˈbɛrɡən/: to hide
+
+verbrannt => verbrennen
 
 verbessern /fɛɐˈbɛsɐn/: to improve, to correct, to amend
 
+verbrennen /fɛɐˈbrɛnən/: to burn
+
 Verbraucher /fɛɐˈbrauxɐ/, Verbraucherin: consumer
+
+Verbrechen /fɛɐˈbrɛçən/, das: crime
+  ein Verbrechen begehen: to commit a crime
 
 verdienen /fɛɐˈdiːnən/: to earn
 
@@ -42,6 +48,10 @@ Verhalten /fɛɐˈhaltən/, das: behavior
 
 verhalten /fɛɐˈhaltən/: restrained, cautious, suppressed
   etw. mit verhaltenem Spott sagen: to say sth with quiet derision
+
+Verhandlung /fɛɐˈhandlʊŋ/, die: negotiation
+  Die Verhandlungen blieben leider ohne Ergebnis.
+  Unfortunately the negotiations did not end in agreement.
 
 verkaufen /fɛɐˈkaufən/: to sell
   Er hat sein Auto verkauft.
@@ -78,11 +88,17 @@ vernetzen /fɛɐˈnɛʦən/: to network
 
 veröffentlichen /fɛɐˈ|œfəntlɪçən/: to publish
 
+Verpflegung /fɛɐˈpfleːɡʊŋ/, die: food, catering
+  Habt ihr für den Ausflug genügend Verpflegung dabei?
+  Have you taken enough food for the trip?
+
 verraten /fɛɐˈraːtən/: to tell, to reveal
 
 verschaffen /fɛɐˈʃafən/: to get, to obtain
   Ich kann dir günstige Konzertkarten verschaffen.
   I can get (hold of) cheap concert tickets for you.
+
+verschärfen /fɛɐˈʃɛrfən/: to tighten, to make stricter/more severe, to make worse, to exacerbate
 
 verstecken /fɛɐˈʃtɛkən/: to hide
   Ostereier im Garten verstecken
@@ -99,6 +115,9 @@ verstehen: to hear, understand, know
   etwas falsch verstehen: to misunderstand sth, to mishear sth
 
 verstricken: to be caught up with
+
+Vertrag /fɛɐˈtraːk/, der: contract
+  einen Vertrag mit jdm schließen: to sign a contract with sb
 
 verurteilen /fɛɐˈ|ʊrtailən/: to sentence, to condemn
 
