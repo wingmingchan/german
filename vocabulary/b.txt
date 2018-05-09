@@ -36,11 +36,17 @@ bauen /ˈbauən/: to build
 Baum /baum/, Bäume /ˈbɔymə/, der: tree
    Bäume fällen: to cut down trees 
 
+be-: to turn a noun or adjective to a verb, intransitive -> transitive
+
 Beamte /bəˈ|amtə/: official
+
+bedecken /bəˈdɛkən/: to cover sb with sth, to blanket
 
 bedienen /bəˈdiːnən/: to serve, to wait tables
   Sie bedient in einem kleinen Restaurant.
   She waits tables in a small restaurant.
+
+Bedienung /bəˈdiːnʊŋ/: waiter, waitress
 
 befriedigen /bəˈfriːdɪɡən/: to satisfy
   seinen Wissensdurst mit einem Buch befriedigen
@@ -50,8 +56,6 @@ befriedigend /bəˈfriːdɪɡənt/: satisfactory
   ein befriedigendes Ergebnis erzielen: to achieve a satisfactory result
 
 Befriedigung /bəˈfriːdɪɡʊŋ/: satisfaction
-
-be-: to turn a noun or adjective to a verb, intransitive -> transitive
 
 begehen /bəˈɡeːən/: to commit, to make, to celebrate, to walk on, to use
   Er hat mehrere Morde begangen.
@@ -243,6 +247,8 @@ bitten /ˈbɪtən/: to ask
   She asked me to drive her home.
 
 bitter /ˈbɪtɐ/: bitter, bitterly
+
+blamieren /blaˈmiːrən/: to embarrass, to disgrace
 
 blasen /ˈblaːzən/: to blow
   blasen, damit die Suppe abkühlt
