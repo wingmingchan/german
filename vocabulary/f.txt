@@ -83,6 +83,8 @@ Fisch /fɪʃ/, der: fish
 
 flach /flax/: flat, shallow
 
+Flagge /ˈflaɡə/, die: flag
+
 Flanke /ˈflaŋkə/, die: flank
 
 Fleck /flɛk/, der: stain, mark
@@ -101,6 +103,8 @@ Flüchtling /ˈflʏçtlɪŋ/, Flüchtlinge, der: refugee
   politische Flüchtlinge aufnehmen: to take in political refugees
 
 Fluchtursache, die: reason to flee
+
+Flüchtlingscamp, das: refugee camp
 
 Flüssigkeit /ˈflʏsɪçkait/, die: fluid, liquid
   eine farblose/trübe Flüssigkeit: a colorless/cloudy liquid
@@ -124,9 +128,13 @@ Fohlen, das: foal
 
 Föhn /føːn/, der: hairdryer, Foehn
 
-fordern /ˈfɔrdɐn/: to demand, to claim lives
+folgen /ˈfɔlɡən/: to follow
+
+fordern /ˈfɔrdɐn/: to demand, to press for, to claim lives
   von seinem Chef eine Gehaltserhöhung fordern
   to demand a raise from your boss
+  Die Schwachen sollen in der Schule gefördert und die Starken gefordert werden.
+  At school, the weak students should be encouraged and the strong ones challenged.
 
 Forscher /ˈfɔrʃɐ/: researcher
 
