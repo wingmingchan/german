@@ -15,8 +15,19 @@ abfällig /ˈapfɛlɪç/: derogatory
 Abflug /ˈapfluːk/, der: departure
   Der Abflug verzögert sich um 30 Minuten.
   The departure will be delayed by 30 minutes.
-  
+
+Abgeordnete /ˈapɡə|ɔrdnətə/: representative
+  eine Abgeordnete des deutschen Bundestages: a Member of the German Federal Parliament
+
 abgestoßen: repelled
+
+Abkommen /ˈapkɔmən/, das: agreement
+  ein Friedensabkommen unterzeichnen: to sign a peace treaty
+
+abkommen: to go off sth, to give up sth
+  ein Sünder, der vom rechten Weg abgekommen ist: a sinner who has gone astray
+  Ich bin davon abgekommen, alles allein schaffen zu wollen.
+  I've given up the ideal of trying to all of that on my own.
 
 abräumen /ˈaprɔymən/: to clean up
   Räumst du bitte noch ab, bevor du gehst?
@@ -196,6 +207,9 @@ Ast /ast/, Äste /ˈɛstə/, der: branch
   Die Affen schwingen sich von Ast zu Ast.
   The monkeys swing from tree to tree.
 
+Atom /aˈtoːm/, das: atom
+  Atombombe: atomic bomb
+
 Attacke /aˈtakə/, die: attack
 
 auf /auf/: on, onto, at, to
@@ -228,6 +242,8 @@ aufpassen /ˈaufpasən/: to be careful, to pay attention
 aufschlagen /ˈaufʃlaːɡən/: to open, to add, to hit
   Ich hielt sie für tot, bis sie die Augen aufschlug.
   I thought she was dead till she opened her eyes.
+
+auftauchen /ˈauftauxən/: to appear, to surface, to arise, to come up, to surface
 
 Auge /ˈauɡə/, das: eye
   blaue / gute Augen haben
@@ -264,6 +280,14 @@ Aussagekraft: expressiveness
 
 Ausschreitung /ˈausʃraitʊŋ/, die: riot
 
+aussteigen /ˈausʃtaiɡən/: to get out, disembark, to drop out
+  Sind die Passagiere schon alle ausgestiegen?
+  Have all the passengers exited already?
+  aus einem Vertrag aussteigen wollen
+  to want to back out of a contract
+
 Ausstellung /ˈausʃtɛlʊŋ/, die: exhibition
   eine Ausstellung eröffnen: to open an exhibition
 
+Ausstieg /ˈausʃtiːk/, der: pullout, withdrawal, exit
+  den Ausstieg aus der Atomkraft fordern: to demand a pullout from nuclear energy
