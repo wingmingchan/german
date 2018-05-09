@@ -41,6 +41,8 @@ Schaden, Schäden, der: damage, harm
   Sein Verhalten hat viel Schaden angerichtet.
   His behavior caused a lot of harm.
 
+schaffen /ˈʃafən/: to do, to manage, to finish, to take, to put, to work, to create
+
 scharf /ʃarf/: sharp, strong, hot, spicy, rigorous, tough
 
 Schatten /ˈʃatən/, der: shadow
@@ -88,6 +90,14 @@ Schlagstock /ˈʃlaːkʃtɔk/, der: baton, nightstick
 Schlauchboot /ˈʃlauxboːt/, das: rubber dinghy, rubber boat, life raft
 
 schleichen /ˈʃlaiçən/: to creep, to crawl
+
+schließen /ˈʃliːsən/: to close, conclude, contract, fasten, reason, shut, shut up, wind up
+  Würdest du bitte das Fenster schließen?
+  Would you close the window, please?
+  Um wie viel Uhr schließt die Bank?
+  What time does the bank close?
+  jdn/sich in ein Zimmer schließen: to lock sb/yourself in a room
+  einen Vertrag mit jdm schließen: to sign a contract with sb
 
 Schliere /ˈʃliːrə/, die: smear
 
@@ -316,8 +326,9 @@ stehen /ˈʃteːən/: to stand, to be, to have stopped, to depend on
   Egal, was ich machte, der Esel blieb wie angewurzelt stehen.
   Whatever I did, the donkey stayed rooted to the spot.
 
-steigen /ˈʃtaiɡən/: to climb
+steigen /ˈʃtaiɡən/: to climb, to get in/on/out/off
   auf einen Berg steigen: to climb a mountain
+  aus dem/ins Auto steigen
 
 Steigerung /ˈʃtaiɡərʊŋ/, die: increase, improvement
 
