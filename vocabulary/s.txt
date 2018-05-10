@@ -148,6 +148,11 @@ schulden: to own
 Schuldige: culprit
   Schuldige besonders: guilty person/party
 
+Schule /ˈʃuːlə/, die: school
+
+schulen /ˈʃuːlən/: to train
+  Mitarbeiter im Umgang mit der neuen Software schulen: to train employees to use the new software
+
 Schuss /ʃʊs/, Schüsse, der: shot
 
 Schutz /ʃʊʦ/, der: protection , shelter
@@ -207,6 +212,8 @@ Sie: you
 sie: she, it, they
   Sie wollen heiraten. They want to get married.
 
+siegeln /ˈziːɡəln/: to seal
+
 Sinn /zɪn/, der: meaning, mind
   Seine Worte gingen mir nicht aus dem Sinn.
   I couldn't get his words out of my mind.
@@ -215,6 +222,10 @@ sitzen /ˈzɪʦən/: to sit
 
 Skandal /skanˈdaːl/, der: scandal
   einen Skandal vermeiden/vertuschen: to avoid/hush up a scandal
+
+skurril /skuˈriːl/: absurd
+  Ich finde die Idee schon ein wenig skurril.
+  I think the idea's pretty absurd.
 
 sobald /zoˈbalt/: as soon as
   Sobald er anruft, gebe ich Ihnen Bescheid.
@@ -238,6 +249,10 @@ Sommer /ˈzɔmɐ/, der:
 
 somit /zoˈmɪt/: therefore
 
+sonderbar /ˈzɔndɐbaːɐ/: strange
+  Ich finde es sonderbar, dass er noch nicht hier ist.
+  I think it's strange that he isn't here yet.
+
 Sonnabend /ˈzɔnaːbənt/, der: Saturday
 
 Sonne /ˈzɔnə/, die: sun, sunlight
@@ -257,6 +272,10 @@ sowie /zoˈviː/: and, as well as
 spähen /ˈʃpɛːən/: to peer
 
 spannend /ˈʃpanənt/: exciting
+
+sparen /ˈʃpaːrən/: to save
+  Er hat schon 5.000 Euro gespart.
+  He has already saved 5,000 euros.
 
 spät /ʃpɛːt/: late
   im späten Mittelalter: in the late Middle Ages
