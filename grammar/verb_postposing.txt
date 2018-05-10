@@ -4,8 +4,12 @@ When the following words are the head of a non-question clause, move the verb to
 
 bis:
 Ich warte bis meine Freundin Zeit hat.
+
 weil:
 weil die Geschäfte geschlossen sind
+
 wie:
 Können Sie mir zeigen wie ich zu Ihnen komme?
 
+dass:
+dass er noch nicht hier ist
