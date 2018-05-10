@@ -2,6 +2,8 @@
 V /fau/ V wie Viktor
 ========================================================
 
+ver-: off, end of a state
+
 Veränderung /fɛɐˈ|ɛndərʊŋ/, die: change
 
 verbergen /fɛɐˈbɛrɡən/: to hide
@@ -100,6 +102,15 @@ verschaffen /fɛɐˈʃafən/: to get, to obtain
 
 verschärfen /fɛɐˈʃɛrfən/: to tighten, to make stricter/more severe, to make worse, to exacerbate
 
+verschicken /fɛɐˈʃɪkən/: to send (off/out)
+  Die Pakete wurden bereits gestern verschickt.
+  The parcels were already sent off/dispatched yesterday.
+
+versetzen /fɛɐˈzɛʦən/: to transfer, to promote, to move, 
+
+versiegeln /fɛɐˈziːɡəln/: to seal
+  ein versiegelter Umschlag: a sealed envelope
+
 verstecken /fɛɐˈʃtɛkən/: to hide
   Ostereier im Garten verstecken
   to hide Easter eggs in the garden
@@ -118,6 +129,10 @@ verstricken: to be caught up with
 
 Vertrag /fɛɐˈtraːk/, der: contract
   einen Vertrag mit jdm schließen: to sign a contract with sb
+
+vertuschen /fɛɐˈtʊʃən/: to cover up
+  Er versuchte seinen Fehler zu vertuschen.
+  He tried to cover up his mistake.
 
 verurteilen /fɛɐˈ|ʊrtailən/: to sentence, to condemn
 
