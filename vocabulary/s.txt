@@ -14,7 +14,7 @@ sagen: to say
 
 Salat /zaˈlaːt/, der: lettuce, salad
 
-sammeln /ˈzaməln/: to gather, to collect
+sammeln /ˈzaməln/: to gather, to collect, to assemble
   Im Herbst gehen wir gerne Pilze sammeln.
   We like to go mushroom picking in the fall.
 
@@ -169,6 +169,9 @@ See /zeː/, der: lake, sea
 
 Seehöhe, die: sea level
 
+sehen
+  sehe, siehst, sieht, ihr seht, habe gesehen
+
 sehr /zeːɐ/: very
   Ich weiß sehr wohl, dass du mich anlügst!
   I know perfectly well that you’re lying to me.
@@ -194,6 +197,8 @@ seit /zait/: since
 Sekunde /zeˈkʊndə/, die: second
 
 seltsam /ˈzɛltzaːm/: strange, odd
+  Das kommt mir seltsam vor.
+  That seems strange to me.
 
 setzen /ˈzɛʦən/: to sit
 
@@ -231,7 +236,9 @@ sobald /zoˈbalt/: as soon as
   Sobald er anruft, gebe ich Ihnen Bescheid.
   I'll let you know as soon as he phones.
 
-sogar /zoˈɡaːɐ/: even
+sogar /zoˈɡaːɐ/: even, no less
+  Sogar ein Hund kann das lernen!
+  Even a dog can learn it!
 
 sogenannt: so-called
 
@@ -240,6 +247,7 @@ Sohn m. /zoːn/: son
 solch /zɔlç/: such
   Solch eine Unverschämtheit!
   Such impertinence!
+  mit solchem Unsinn
 
 sollen /ˈzɔlən/: to have to, shall
 
@@ -265,7 +273,7 @@ sonst /zɔnst/: else
 
 Sorge /ˈzɔrɡə/, die: worry
 
-sorgen /ˈzɔrɡən/: to cater, to provide, to ensure
+sorgen /ˈzɔrɡən/: to cater, to provide, to ensure, to worry
 
 sowie /zoˈviː/: and, as well as
 
@@ -378,6 +386,8 @@ stören /ˈʃtøːrən/: to disturb, to interfere, to interrupt, to intrude, to 
   The thunderstorm is disrupting the reception of this station.
 
 stolz /ʃtɔlʦ/: proud
+  Sie ist stolze Besitzerin einer Jacht.
+  She is the proud owner of a yacht.
 
 Streifen /ˈʃtraifən/, der: stripe
 
