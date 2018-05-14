@@ -72,6 +72,10 @@ verletzen /fɛɐˈlɛʦən/: to injure
 
 verletzt: injured
 
+Verletzte /fɛɐˈlɛʦtə/: casualty, injured/wounded person
+  Die Verletzten wurden sofort ins Krankenhaus gebracht.
+  The injured were immediately taken to the hospital.
+
 vermeiden /fɛɐˈmaidən/: to avoid
   Sie konnte einen Zusammenstoß gerade noch vermeiden.
   She was just able to avoid a collision.
@@ -111,6 +115,10 @@ versetzen /fɛɐˈzɛʦən/: to transfer, to promote, to move,
 versiegeln /fɛɐˈziːɡəln/: to seal
   ein versiegelter Umschlag: a sealed envelope
 
+Versprechen, das: promise
+
+versprechen /fɛɐˈʃprɛçən/: to promise, to make a mistake
+
 verstecken /fɛɐˈʃtɛkən/: to hide
   Ostereier im Garten verstecken
   to hide Easter eggs in the garden
@@ -125,7 +133,10 @@ verstehen: to hear, understand, know
   I did not hear what he said.
   etwas falsch verstehen: to misunderstand sth, to mishear sth
 
-verstricken: to be caught up with
+verstricken /fɛɐˈʃtrɪkən/: to be caught up with, to involve sb in sth
+  in einen Skandal verstrickt werden: to become involved in a scandal
+  Die Verdächtige hat sich in Lügen/Widersprüche verstrickt.
+  The suspect has become caught up in a web of lies/contradictions.
 
 Vertrag /fɛɐˈtraːk/, der: contract
   einen Vertrag mit jdm schließen: to sign a contract with sb
@@ -171,11 +182,21 @@ Vorherrschaft /ˈfoːɐhɛrʃaft/, die: domination, supremacy
 
 Vorhersage /foːɐˈheːɐzaːɡə/, die: forecast, prediction
 
+vorkommen /ˈfoːɐkɔmən/: to happen, to occur, to be found, to seem, to come forward
+  Das kann schon mal vorkommen.
+  That can happen.
+  Eisbären kommen nur in der Arktis vor.
+  Polar bears are only found in the Arctic.
+  Das kommt mir seltsam vor.
+  That seems strange to me.
+
 vorn /fɔrn/: in front
 
 vorsichtig /ˈfoːɐzɪçtɪç/: careful, cautious
   eine vorsichtige Schätzung
   a cautious estimate
+
+vorsitzen: to chair
 
 Vorsitzende /ˈfoːɐzɪʦəndə/: chair(person) , chairman/chairwoman
 
@@ -196,6 +217,9 @@ to introduce, to come/go for an interview, to present, to put forward(s)
   On Sunday we have to put the clocks forward by an hour.
 
 Vorstellung /ˈfoːɐʃtɛlʊŋ/, die: idea, picture
+
+Vorwurf /ˈfoːɐvʊrf/, der: reproach
+  jdm bittere Vorwürfe machen: to reproach sb bitterly
 
 Vorzeichen /ˈfoːɐʦaiçən/, das: omen
 
