@@ -49,6 +49,11 @@ Einkommen /ˈainkɔmən/, das: income, earnings
   Wie hoch ist Ihr monatliches Einkommen in etwa?
   Roughly how high is your monthly income?
 
+einhalten /ˈainhaltən/: to adhere/stick to, to abide by, to stop
+  eine Diät streng einhalten: to adhere to a strict diet
+  Haltet ein!
+  Stop it!
+
 Einheit /ˈainhait/, die: unit, unity
 
 einladen /ˈainlaːdən/: to invite, to load in
@@ -75,12 +80,18 @@ Eintritt /ˈaintrɪt/, der: admission, entrance, entry
   Eintritt verboten!
   No entry.
 
+einzig /ˈainʦɪç/: only , solely
+  Das ist die einzig mögliche Lösung.
+  That's the only possible solution.
+
 einzigartig /ˈainʦɪç|aːɐtɪç/: unique
 
 *Eis /ais/, das: ice
 
 Eisen /ˈaizən/, das: iron
    ein Geländer aus Eisen: an iron handrail
+
+Elektrogerät, das: electrical appliance
 
 Ellipse /ɛˈlɪpsə/, die: ellipse
 
@@ -123,13 +134,26 @@ enthüllen /ɛntˈhʏlən/: to reveal
 
 entmannen: to castrate
 
+entscheiden /ɛntˈʃaidən/: to decide, to judge, to rule
+
 entscheidend /ɛntˈʃaidənt/: vital, crucial, decisive
+
+Entscheidung /ɛntˈʃaidʊŋ/, die: decision
+
+entschieden => entscheiden
 
 entschuldigen /ɛntˈʃʊldɪɡən/: to excuse, to pardon
   entschuldige, entschuldigst, entschuldigt, habe entschuldigt
   ent-: used to express that a process is reversed
   Hast du dich bei deiner Lehrerin entschuldigt?
   Did you apologize to your teacher?
+
+entwickeln /ɛntˈvɪkəln/: to develop
+
+Entwicklung /ɛntˈvɪklʊŋ/, die: development
+
+Erfahrung /ɛɐˈfaːrʊŋ/, die: experience
+  Erfahrungen sammeln: to gain experience
 
 erfinden /ɛɐˈfɪndən/: to invent
   Wer hat die Dampfmaschine erfunden?
@@ -141,12 +165,20 @@ erfüllen /ɛɐˈfʏlən/: to be fulfilled, to come true
   Leider haben sich meine Träume nicht erfüllt.
   Unfortunately my dreams weren't fulfilled.
 
-Ergebnis /ɛɐˈɡeːpnɪs/, das: result
+Ergebnis /ɛɐˈɡeːpnɪs/, das: result, conclusion
+  Die Verhandlungen blieben ohne Ergebnis.
+  The negotiations did not produce any concrete results.
+  Zu welchem Ergebnis ist der Ausschuss gekommen?
+  What conclusion did the committee come to?
 
 ergehen /ɛɐˈɡeːən/: 
   jdm ergeht es irgendwie: things go somehow for sb
   Wie ist es ihr nach dem Umzug in der neuen Stadt ergangen?
   How did things go for her after her move to the new city?
+
+erhalten /ɛɐˈhaltən/: to receive, to get
+  Haben Sie meinen Brief erhalten?
+  Did you get my letter?
 
 erheblich /ɛɐˈheːplɪç/: considerable
 
@@ -193,6 +225,9 @@ erobern /ɛɐˈ|oːbɐn/: to conquer, to seize, to win, to capture
   Das Dorf wurde von den Wikingern erobert.
   The village was conquered by the Vikings.
 
+Eröffnung /ɛɐˈ|œfnʊŋ/, die: opening
+  die Eröffnung des neuen Sportzentrums: the opening of a new sports center
+
 erreichen /ɛɐˈraiçən/: to reach, to get hold of, to arrive at
   Wann kann ich Sie im Büro am besten erreichen?
   When's the best time to get hold of you at the office?
@@ -227,6 +262,10 @@ es /ɛs/: it, there
   Look at how nicely the child is playing.
   Es regnet.
   It's raining.
+
+Eskalation /ɛskalaˈʦjoːn/, die: escalation
+  Die Weltgemeinschaft fürchtet eine Eskalation der Gewalt im Nahen Osten.
+  The global community fears an escalation of violence in the Middle East.
 
 Essig /ˈɛsɪç/, der: vinegar
 
