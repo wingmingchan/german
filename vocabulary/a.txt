@@ -2,9 +2,25 @@
 A /aː/ A wie Anton, Ä wie Ärger
 ========================================================
 
+Aal /aːl/, der: eel
+
+aalen /ˈaːlən/: to laze, to bask
+  Wir haben uns stundenlang in der Sonne geaalt.
+  We basked in the sun for hours.
+
+ab
+  ab und zu/an: manchmal
+
 ab-: from, away
 
 abbauen /ˈapbauən/: to reduce, to mine, to deteriorate
+
+abbiegen /ˈapbiːɡən/: to turn, to turn off
+  nach links/rechts abbiegen: to turn left/right
+
+abdrucken /ˈapdrʊkən/: to print
+  Ihr Leserbrief wurde in der Zeitung abgedruckt.
+  Her letter to the editor was printed in the newspaper.
 
 Abfall /ˈapfal/, der: waste, trash
   industrielle Abfälle: industrial waste
@@ -108,6 +124,12 @@ Ammoniak /amoˈniak/, das: ammonia
 
 Ammoniaklösung, die: ammonia solution
 
+Amt /amt/, das: office, position
+  im Gesundheitsamt/Jugendamt/Sozialamt arbeiten
+  to work at the health authority/youth welfare service/social security office
+  in das Amt des Vereinsvorsitzenden gewählt werden
+  to be elected to the post of club chairman
+
 Amtszeit, die: term, term of office
 
 an /an/: at, on, from, against
@@ -125,6 +147,9 @@ Angabe /ˈanɡaːbə/, die: information, statement
 angeln /ˈaŋəln/: to fish
 
 angewurzelt /anɡəˈvʊrʦɛlt/: rooted to the spot
+
+Angriff /ˈanɡrɪf/, der: attack
+  einen feindlichen Angriff abwehren/zurückschlagen: to repel/beat back an enemy attack
 
 Anhänger, der: trailer, pendant
 
@@ -280,6 +305,15 @@ Aussage /ˈauszaːɡə/, die: testimony, statement, message
 Aussagekraft: expressiveness
 
 Ausschreitung /ˈausʃraitʊŋ/, die: riot
+
+Ausschuss /ˈausʃʊs/, der: committee, wastage
+  Wir haben heute nur Ausschuss produziert.
+  All we produced today was rejects.
+
+Aussehen /ˈauszeːən/, das: appearance
+
+aussehen /ˈauszeːən/: to look
+  krank/gesund aussehen: to look ill/healthy
 
 aussteigen /ˈausʃtaiɡən/: to get out, disembark, to drop out
   Sind die Passagiere schon alle ausgestiegen?
