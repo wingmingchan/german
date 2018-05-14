@@ -45,9 +45,14 @@ meistens /ˈmaistəns/: mostly
   Ich gehe meistens früh ins Bett.
   I go to bed early most of the time.
 
+Menge /ˈmɛŋə/, die: amount, quantity
+  eine geringe Menge Wasser zugeben: to add a small amount of water
+
 Mensch /mɛnʃ/, Menschen, der: human
 
 merkwürdig /ˈmɛrkvʏrdɪç/: strange, odd
+  Das kommt mir merkwürdig vor.
+  That seems odd to me.
 
 messen /ˈmɛsən/: to meaure
 
@@ -89,7 +94,15 @@ Mittelmeer /ˈmɪtəlmeːɐ/, das: Mediterranean (Sea)
 
 mitten /ˈmɪtən/: in the middle
 
+mittlerweile /ˈmɪtlɐˈvailə/: meanwhile, in the meantime, since then
+  Ich habe mich mittlerweile daran gewöhnt.
+  In the meantime I've gotten used to it.
+
 Mittwoch /ˈmɪtvɔx/, der: Wednesday
+
+Möbel /ˈmøːbəl/, pl: furniture
+  Ich habe mir neue Büromöbel angeschafft.
+  I got some new office furniture.
 
 modern /moˈdɛrn/
 
@@ -97,6 +110,10 @@ mögen /ˈmøːɡən/: to want, to like
   mag, magst, mag, ihr mögt, ich habe gemocht
 
 möglich /ˈmøːklɪç/: possible
+
+Möglichkeit /ˈmøːklɪçkait/, die: possibility, chance, 
+  Ich hatte leider keine Möglichkeit, dich anzurufen.
+  I'm afraid I didn’t have a chance to call you.
 
 möglicherweise /ˈmøːklɪçɐˈvaizə/: possibly
 
