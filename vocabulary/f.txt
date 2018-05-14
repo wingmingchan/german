@@ -2,6 +2,9 @@
 F /ɛf/ F wie Friedrich
 ========================================================
 
+Fahndung /ˈfaːndʊŋ/, die: search, manhunt
+  Fahndungsfoto: mug shot
+
 fahren /ˈfaːrən/: to drive, to go
    Sollen wir zu Fuß gehen oder fahren?
    Shall we walk or drive? 
@@ -63,6 +66,8 @@ Fenster /ˈfɛnstɐ/, das: window
 Ferkel /ˈfɛrkəl/, das: piglet
 
 fernhalten /ˈfɛrnhaltən/: to keep away
+
+fest /fɛst/: firm, solid
 
 Festnahme /ˈfɛstnaːmə/, die: arrest
   Er sitzt seit seiner Festnahme in Köln in Untersuchungshaft.
@@ -178,6 +183,12 @@ Frieden /ˈfriːdən/, der: peace
   ein langer, ungestörter Frieden: a long period of uninterrupted peace
 
 friedlich /ˈfriːtlɪç/: peaceful
+
+froh /froː/: glad, happy, good
+
+fröhlich /ˈfrøːlɪç/: happy, cheerful, merrily
+  Die Kinder sprangen fröhlich herum.
+  The children were bouncing around merrily.
 
 Frost /frɔst/, der: frost
 
