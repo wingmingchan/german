@@ -19,6 +19,8 @@ U /uː/ U wie Ulrich, Ü wie Übermut
   There are more and more overweight children.
 
 überleben /yːbɐˈleːbn/: to survive
+  20 Menschen überlebten den Flugzeugabsturz.
+  20 people survived the plane crash.
 
 übermorgen /ˈyːbɐmɔrɡən/: the day after tomorrow
 
@@ -86,6 +88,10 @@ umstritten /ʊmˈʃtrɪtən/: controversial
   Diese Theorie ist ziemlich umstritten.
   This theory is pretty controversial.
 
+umziehen /ˈʊmʦiːən/: to move
+  Letztes Jahr sind wir von Hamburg nach Berlin umgezogen.
+  We moved from Hamburg to Berlin last year.
+
 Unabhängigkeit /ˈʊn|aphɛŋɪçkait/, die: independence
 
 unbekannt /ˈʊnbəkant/: unfamiliar, unknown
@@ -106,6 +112,8 @@ ungünstig: unfavorable
 unklar /ˈʊnklaːɐ/: unclear
 
 unmöglich /ˈʊnmøːklɪç/: impossible
+
+Unruhe /ˈʊnruːə/, die: anxiety, restlessness, unrest
 
 Unsinn, der: nonsense
 
@@ -150,5 +158,9 @@ urig /ˈuːrɪç/: unspoiled, primitive
 Ursache /ˈuːɐzaxə/, die: cause
   Die eigentliche Ursache des Unglücks ist noch nicht geklärt.
   The real cause of the accident hasn't yet been established.
+
+urteilen /ˈuːɐtailən/: to judge
+  Ihrem Gesichtsausdruck nach zu urteilen hat sie eine gute Nachricht erhalten.
+  To judge by her expression she's had some good news.
 
 usw. und so weiter: etc.
