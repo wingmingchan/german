@@ -74,7 +74,7 @@ das essen
 14:09 Schnee bedeutet snow, nicht wahr?
 14:30 Richtig.
 14:38 Schnee, der
-14:54 Bei uns, das Wetter ist nicht kalt genug.
+14:54 Bei uns, es ist nicht kalt genug.
 15:09 Es ist nie kalt genug.
 15:22 Wir haben keinen Schnee.
 /ˈreːɡən/
@@ -143,4 +143,4 @@ August /auˈɡʊst/
 September /zɛpˈtɛmbɐ/
 Oktober /ɔkˈtoːbɐ/
 November /noˈvɛmbɐ/
-Dezember /de’ʦɛmbɐ/
+Dezember /deˈʦɛmbɐ/
