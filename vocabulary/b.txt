@@ -24,6 +24,8 @@ Balken /ˈbalkən/, der: beam
 Ball /bal/, der: ball
   Fußball: soccer
 
+band => binden
+
 Bande /ˈbandə/, die: gang
 
 Base /ˈbaːzə/, die: base
@@ -35,6 +37,8 @@ bauen /ˈbauən/: to build
 
 Baum /baum/, Bäume /ˈbɔymə/, der: tree
    Bäume fällen: to cut down trees 
+
+bayerisch /ˈbaiərɪʃ/: Bavarian
 
 be-: to turn a noun or adjective to a verb, intransitive -> transitive
 
@@ -166,6 +170,12 @@ Beschäftigte /bəˈʃɛftɪçtə/: employee
 Bescheid /bəˈʃait/, der: notification
 
 besitzen /bəˈzɪʦən/: to own
+  habe besessen, besaß, besaßest
+  Er besitzt ein Haus am Meer.
+  He owns a house by the sea.
+  viel Erfahrung besitzen: to have a lot of experience
+
+Besitzer /bəˈzɪʦɐ/, Besitzerin: owner
 
 besonder: great, special
   Schuldige besonders: guilty person/party
@@ -218,7 +228,7 @@ bewähren /bəˈvɛːrən/: to prove yourself
 
 bezaubern: bewitch, charm, enchant
 
-biegen /ˈbiːgən/: to bend
+biegen /ˈbiːgən/: to bend, to turn
 
 *Bier, das: beer
 
@@ -230,6 +240,8 @@ bilden /ˈbɪldən/: to form, to constitute
 
 billig /ˈbɪlɪç/: cheap
    einen billigen Flug /fluːk/ buchen: to book a cheap flight 
+
+binden /ˈbɪndən/: to tie
 
 bisher /bɪsˈheːɐ/: up to now, so far
   Alles bleibt wie bisher.
@@ -269,6 +281,11 @@ Blitzer, der: flashgun, speed trap
 
 blühend: blossoming, flourishing, thriving
 
+blutig /ˈbluːtɪç/: bloody, gory, violently
+  Der Verband war schon ganz blutig.
+  The bandage was already pretty bloodstained.
+  blutige Rassenunruhen: bloody race riots
+
 Bock /bɔk/, der: buck, ram, billy goat
 
 bohren /ˈboːrən/: to drill, to poke
@@ -282,6 +299,11 @@ bohren /ˈboːrən/: to drill
 Bohrmaschine /ˈboːɐmaʃiːnə/, die: drill
 
 Bordell /bɔrˈdɛl/, das: brothel
+
+Botschaft /ˈboːtʃaft/, die: message, embassy
+  Ich habe eine frohe Botschaft für dich!
+  I have good news for you!
+  die deutsche Botschaft in Paris: the German embassy in Paris
 
 Brandfall, der: fire
 
@@ -320,6 +342,8 @@ buchen: to book
 Buchhalter /ˈbuːxhaltɐ/: bookkeeper, accountant
 
 bügeln /ˈbyːɡəln/: to iron
+
+Bulle /ˈbʊlə/, der: bull, cop
 
 bullig /ˈbʊlɪç/: beefy
 
