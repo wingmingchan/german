@@ -18,6 +18,10 @@ Hahn /haːn/, Hahn(e)s or Hähne /ˈhɛːnə/, der: rooster
 
 halb /halp/: half
 
+Hals /hals/, der: neck
+  Ich band mir ein Tuch um den Hals.
+  I tied a scarf around my neck.
+
 Halt /halt/, der: stop
   Nächster Halt: Hauptbahnhof.
   Next stop: Central Station.
@@ -76,6 +80,8 @@ hell /hɛl/: light, bright
   ein helles Zimmer: a bright room
   ein helles Grün: a light green 
 
+hält => halten
+
 Henne /ˈhɛnə/, die: hen
   Die Henne hat ein Ei gelegt.
   The hen has laid an egg. 
@@ -95,6 +101,10 @@ Herr /hɛr/: gentleman, Mr.
 herrschen /ˈhɛrʃən/: to prevail, to rule
 
 herstellen /ˈheːɐʃtɛlən/: to produce
+  Diese Firma stellt Elektrogeräte her.
+  This company produces electrical appliances.
+
+herum /hɛˈrʊm/: (a)round
 
 Herz /hɛrʦ/, das: heart
 
@@ -116,9 +126,13 @@ hinken /ˈhɪŋkən/: to limp
 
 hinter /ˈhɪntɐ/: behind
 
+hinterlassen /hɪntɐˈlasən/: to leave behind
+
 hinüber /hɪˈnyːbɐ/: over
 
-hinterlassen /hɪntɐˈlasən/: to leave behind
+Hinweis /ˈhɪnvaɪs/, der: information, clue, lead, evidence, indication
+  Die Polizei bittet um Hinweise aus der Bevölkerung.
+  The police are asking for information from the public.
 
 hinweisen /ˈhɪnvaizən/: to point sth out to sb
 
@@ -126,6 +140,8 @@ Hintergrund, der: background
 
 hoch /hoːx/, hohe /ˈhoːə/: tall, high
   das hohe C
+
+hoffen /ˈhɔfən/: to hope
 
 höflich /ˈhøːflɪç/: polite, politely
   jdn höflich grüßen/um etw. bitten
