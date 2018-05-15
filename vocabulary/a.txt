@@ -32,6 +32,13 @@ Abflug /ˈapfluːk/, der: departure
   Der Abflug verzögert sich um 30 Minuten.
   The departure will be delayed by 30 minutes.
 
+abgeben /ˈapɡeːbən/: to hand in, to check, to share sth with sb
+  Wann müssen wir den Aufsatz abgeben?
+  When do we have to hand in the essay?
+  seinen Mantel an der Garderobe abgeben: to give up your coat at the cloakroom
+  Gibst du mir ein Stück von deinem Kuchen ab?
+  Are you going to give me a piece of your cake?
+
 Abgeordnete /ˈapɡə|ɔrdnətə/: representative
   eine Abgeordnete des deutschen Bundestages: a Member of the German Federal Parliament
 
@@ -44,6 +51,10 @@ abkommen: to go off sth, to give up sth
   ein Sünder, der vom rechten Weg abgekommen ist: a sinner who has gone astray
   Ich bin davon abgekommen, alles allein schaffen zu wollen.
   I've given up the ideal of trying to all of that on my own.
+
+abrasieren /ˈapraziːrən/: to shave off
+  Der Sturm hat alle Bäume entlang der Straße abrasiert.
+  The storm razed all the trees lining the road.
 
 abräumen /ˈaprɔymən/: to clean up
   Räumst du bitte noch ab, bevor du gehst?
@@ -78,6 +89,12 @@ Achsel /ˈaksəl/, die: shoulder, armpit
 achten /ˈaxtən/: to respect, to pay attention to
   auf den Verkehr achten: to pay attention to traffic
 
+Achtung /ˈaxtʊŋ/, die: respect, attention
+  Ich habe große Achtung vor ihrer Leistung/vor ihr.
+  I respect her/her work immensely.
+  Achtung, Baum fällt!
+  Look out! Tree falling!
+
 Adler /ˈaːdlɐ/, der: eagle
 
 akklimatisieren /aklimatiˈziːrən/: to acclimate yourself
@@ -104,8 +121,7 @@ als /als/: when, than, only, as if, as
   Right now all I want to do is sleep.
   Er tat so, als hätte er mich nicht gehört.
   He acted as if he hadn’t heard me.
-  als Lehrer arbeiten
-  to work as a teacher
+  als Lehrer arbeiten: to work as a teacher
 
 altbewährt: well-proven
 
@@ -158,6 +174,8 @@ ankündigen /ˈankʏndɪɡən/: to announce
   Does the teacher have to give advance notice of tests like those?
 
 Ankunft /ˈankʊnft/, die: arrival
+
+Anmeldung /ˈanmɛldʊŋ/, die: enrollment, registration, application, registration form
 
 anonym /anoˈnyːm/: anonymous
 
