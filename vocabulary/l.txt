@@ -84,6 +84,10 @@ leiden /ˈlaidən/: to suffer
 
 leihen /ˈlaiən/: to lend, to borrow, to loan
 
+Leistung /ˈlaistʊŋ/, die: performance, achievement
+  Das war aber eine schwache Leistung!
+  That really wasn't very good.
+
 Leiter, Leiterin: head, manager, leader
 
 Leiter, der: ladder, conductor
@@ -98,6 +102,10 @@ licht /lɪçt/: thin, sparse
 
 lieb /ˈliːp/: dear
   liebe Gäste: dear guests
+
+liefern /ˈliːfɐn/: to deliver, to supply, to produce, to provide
+  Die Möbel wurden termingerecht geliefert.
+  The furniture was delivered on time.
 
 liegen /ˈliːɡən/: to lie, to be
   liege, liegst, liegt, habe gelegen
