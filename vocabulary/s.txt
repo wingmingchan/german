@@ -60,6 +60,9 @@ Scheibe /ˈʃaibə/, die: window pane
 
 scheinen /ˈʃainən/: to shine
 
+Schicksal /ˈʃɪkzaːl/, das: fate, destiny
+  ein schweres Schicksal haben: to be fated to have a hard life
+
 schieben /ˈˈʃiːbən/: to push, to blame, to reject
   einen Tisch zur Seite schieben: to push a table aside
   Er schob sich durch das Gedränge nach vorn zur Theke.
@@ -153,13 +156,25 @@ Schule /ˈʃuːlə/, die: school
 schulen /ˈʃuːlən/: to train
   Mitarbeiter im Umgang mit der neuen Software schulen: to train employees to use the new software
 
+Schubs /ʃʊps/, der: shove, push
+  Sie gab dem Schlitten einen Schubs, sodass er sich in Bewegung setzte.
+  She gave the sled a push to get it moving.
+
 Schuss /ʃʊs/, Schüsse, der: shot
 
 Schutz /ʃʊʦ/, der: protection , shelter
 
+schwach /ʃvax/: weak, poor
+  Dafür sind seine Muskeln zu schwach.
+  My muscles are too weak for that.
+
+Schwäche /ˈʃvɛçə/, die: weakness, failing
+  Sie bekam einen Schwächeanfall.
+  She suddenly felt faint.
+
 schwarz /ʃvarʦ/, schwarzen: black
 
-schwer /ʃveːɐ/: severe
+schwer /ʃveːɐ/: severe, difficult
 
 schwierig /ˈʃviːrɪç/: difficult
 
@@ -195,6 +210,9 @@ seit /zait/: since
   seit ein paar Tagen
   
 Sekunde /zeˈkʊndə/, die: second
+
+selbst /zɛlpst/: in person, self
+  ich selbst: myself
 
 seltsam /ˈzɛltzaːm/: strange, odd
   Das kommt mir seltsam vor.
@@ -235,6 +253,8 @@ skurril /skuˈriːl/: absurd
 sobald /zoˈbalt/: as soon as
   Sobald er anruft, gebe ich Ihnen Bescheid.
   I'll let you know as soon as he phones.
+
+sodass /zoˈdas/: so that
 
 sogar /zoˈɡaːɐ/: even, no less
   Sogar ein Hund kann das lernen!
@@ -316,9 +336,11 @@ spürbar /ˈʃpyːɐbaːɐ/: noticeable , perceptible
 Staat /ʃtaːt/, der: state, country
   ein demokratischer Staat: a democratic state
 
+Staatsanwalt /ˈʃtaːʦ|anvalt/: DA, presecutor
+
 Staatsbesuch, der: state visit
 
-Staatsanwalt /ˈʃtaːʦ|anvalt/: DA, presecutor
+Staatsgründung: founding of a state
 
 Stadt /ʃtat/, die: city
 
@@ -400,6 +422,15 @@ streitig /ˈʃtraitɪç/: to dispute sb's right to sth
   to dispute sb's right to the championship title
 
 Streitkräfte /ˈʃtraitkrɛftə/ (pl): armed forces
+
+Strom /ʃtroːm/, der: electricity, torrent, stream, current
+  Der alte Kühlschrank verbraucht zu viel Strom.
+  The old fridge uses too much electricity.
+  Der Fluss schwoll zu einem reißenden Strom an.
+  The river swelled to a raging torrent.
+  in Strömen: in large quantities
+
+strömen /ˈʃtrøːmən/: to stream, to flow, to flock, to gush, to pour
 
 Stück /ʃtʏk/, das: piece, bit
   ein Stück Kuchen abschneiden
