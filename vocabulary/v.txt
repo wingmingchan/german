@@ -6,6 +6,8 @@ ver-: off, end of a state
 
 Veränderung /fɛɐˈ|ɛndərʊŋ/, die: change
 
+verantwortlich /fɛɐˈ|antvɔrtlɪç/: responsible
+
 verbergen /fɛɐˈbɛrɡən/: to hide
 
 verbrannt => verbrennen
@@ -75,6 +77,12 @@ verletzt: injured
 Verletzte /fɛɐˈlɛʦtə/: casualty, injured/wounded person
   Die Verletzten wurden sofort ins Krankenhaus gebracht.
   The injured were immediately taken to the hospital.
+
+verlieren /fɛɐˈliːrən/: to lose
+  Ich kann den Ausweis nicht finden, vielleicht habe ich ihn verloren.
+  I can't find my ID card. Perhaps I've lost it.
+
+verloren => verlieren
 
 vermeiden /fɛɐˈmaidən/: to avoid
   Sie konnte einen Zusammenstoß gerade noch vermeiden.
@@ -173,6 +181,10 @@ Vogelperspektive /ˈfoːɡəlpɛrspɛktiːvə/, die: bird's-eye view
 völlig /ˈfœlɪç/: completely, totally
   Das ist völlig unmöglich.
   That's completely impossible.
+
+Voraussetzung /foˈrauszɛʦʊŋ/, die: assumption, prerequisite, requirement
+  unter der Voraussetzung, dass …: on condition that …
+  unter bestimmten Voraussetzungen: under certain circumstances
 
 Vorfall /ˈfoːɐfal/, der: incident
 
