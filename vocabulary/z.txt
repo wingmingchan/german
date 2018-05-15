@@ -31,6 +31,7 @@ zeugen /ˈʦɔyɡən/: to father, to conceive, to testify, to show sth
 
 ziehen /ˈʦiːən/: to pull, to move, to go
   ziehe, ziehst, zieht, habe gezogen
+  etw. nach sich ziehen: to result in/entail sth
 
 ziemlich /ˈʦiːmlɪç/: quite, rather
 
@@ -42,11 +43,17 @@ zirka /ˈʦɪrka/ => circa
 
 zitieren /ʦiˈtiːrən/: to quote
 
+zog => ziehen
+
 zögern /ˈʦøːɡɐn/: to hesitate
   Sie zögerte einen Moment mit ihrer Antwort.
   She hesitated a moment before answering.
 
 Zorn /ʦɔrn/, der: rage, anger
+
+zudem /ʦuˈdeːm/: moreover , besides
+  Sie ist hübsch und zudem intelligent.
+  Besides being pretty she is also intelligent.
 
 zufällig /ˈʦuːfɛlɪç/: by chance
   Wir haben uns zufällig in der U-Bahn getroffen.
@@ -86,6 +93,10 @@ zurückkehren /ʦuˈrʏkkeːrən/: to return , to come/go back
 zurückschlagen /ʦuˈrʏkʃlaːɡən/: to hit back, to strike back
 
 Zweifel /ˈʦvaifəl/, der: doubt
+
+zwingen /ˈʦvɪŋən/: to force
+  Du kannst mich nicht dazu zwingen, dir zu helfen!
+  You can't force me to help you!
 
 zwischen /ˈʦvɪʃən/: between
   Er setzte sich zwischen mich und das Fenster.
