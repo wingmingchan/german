@@ -102,21 +102,12 @@ fließen /ˈfliːsən/: to flow
 
 flogen  => fliegen
 
-Flug /fluːk/, der: flight
-
 Flüchtling /ˈflʏçtlɪŋ/, Flüchtlinge, der: refugee
   politische Flüchtlinge aufnehmen: to take in political refugees
 
 Fluchtursache, die: reason to flee
 
 Flüchtlingscamp, das: refugee camp
-
-Flüssigkeit /ˈflʏsɪçkait/, die: fluid, liquid
-  eine farblose/trübe Flüssigkeit: a colorless/cloudy liquid
-
-Fluss /ˈflʊs/, der: river
-  Nach den starken Regenfällen trat der Fluss über die Ufer.
-  After the heavy rainfall the river burst its banks. 
 
 flüchten /ˈflʏçtən/: to flee
 
@@ -127,11 +118,28 @@ flüchtig /ˈflʏçtɪç/: fleeting, brief, casual, cursory
 Flüchtling /ˈflʏçtlɪŋ/, der: refugee
   politische Flüchtlinge aufnehmen: to take in political refugees
 
+Flug /fluːk/, der: flight
+
+Flüssigkeit /ˈflʏsɪçkait/, die: fluid, liquid
+  eine farblose/trübe Flüssigkeit: a colorless/cloudy liquid
+
+Fluss /ˈflʊs/, der: river
+  Nach den starken Regenfällen trat der Fluss über die Ufer.
+  After the heavy rainfall the river burst its banks. 
+
+fluten /ˈfluːtən/: to flood, to overflow
+
 Fohlen, das: foal
   Die Stute hat ihr erstes Fohlen bekommen.
   The mare has had her first foal.
 
 Föhn /føːn/, der: hairdryer, Foehn
+
+Folge /ˈfɔlɡə/, die: consequence, result, episode
+  Sein Fehler zog unangenehme Folgen nach sich.
+  His mistake had unpleasant consequences.
+  Ich habe die letzte Folge meiner Lieblingsserie verpasst!
+  I missed the last episode in my favorite series!
 
 folgen /ˈfɔlɡən/: to follow
 
