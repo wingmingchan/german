@@ -52,7 +52,8 @@ Haut /haut/, die: skin
 
 Hebel /ˈheːbəl/, der: lever
 
-Heck /hɛk/, das: rear
+Heck /hɛk/, das: rear, stern
+  Heckklappe: tailgate
 
 heftig /ˈhɛftɪç/: violent
 
@@ -110,6 +111,9 @@ Herz /hɛrʦ/, das: heart
 
 herzlich /ˈhɛrʦlɪç/: warm, cordial
 
+heutig, heutige /ˈhɔytɪɡə/: today's, contemporary, modern
+  am heutigen Nachmittag: this afternoon
+
 hießt => heißen
 
 Hilfe /ˈhɪlfə/, die: help
@@ -140,6 +144,10 @@ Hintergrund, der: background
 
 hoch /hoːx/, hohe /ˈhoːə/: tall, high
   das hohe C
+
+Hochwasser /ˈhoːxvasɐ/, das: flood(ing)
+  Hochwasserkatastrophe: flood disaster
+  Hochwassergefahr: danger of flooding
 
 hoffen /ˈhɔfən/: to hope
 
