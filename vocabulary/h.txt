@@ -28,6 +28,13 @@ Halt /halt/, der: stop
 
 halten /ˈhaltən/: to hold, to keep
 
+handeln /ˈhandəln/: to deal, to trade, to bargin, to negotiate, to act
+  Er handelt mit Gebrauchtwagen.
+  He's a used-car dealer.
+  Sie lässt nicht mit sich handeln.
+  He refuses to negotiate.
+  es handelt sich um jdn / etw.: to be about sb/sth
+
 Handlung /ˈhandlʊŋ/, die: act, action
 
 Handy /ˈhɛndiː/, das: cell, mobile
@@ -73,6 +80,13 @@ heißen: to be called, named, it says
   heiße, heißt, heißt, habe geheißen
   In dem Artikel heißt es, …
   It says in the article …
+
+heiter /ˈhaitɐ/: cheerful, fair, fine
+  -> fröhlich
+
+Heiterkeit /ˈhaitɐkait/, die: cheerfulness, merriment
+  Diese Bemerkung trug sehr zur allgemeinen Heiterkeit bei.
+  That remark added greatly to the general amusement.
 
 helfen /ˈhɛlfən/: to help
   helfe, hilfst, hilft, habe geholfen
