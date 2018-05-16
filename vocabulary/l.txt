@@ -14,6 +14,8 @@ lagen => liegen
 
 Lamm /lam/, das
 
+Land /lant/, Länder /ˈlɛndɐ/, das: state
+
 lang /laŋ/: long
   Sie hat lange Beine/Haare.
   She has long legs/hair.
@@ -45,6 +47,8 @@ lassen /ˈlasən/: to let, to allow, to cause, to leave
   Would you just stop that! It's annoying!
 
 laufen /ˈlaufən/: to run, to walk
+  laufe, läufst, läuft, ihr lauft, bin gelaufen
+  lief, liefst, lief, liefen, lieft
   Wollen wir laufen oder fahren?
   Do we want to walk or drive?
 
@@ -54,6 +58,11 @@ lauten /ˈlautən/: to be
   Wie lautet Ihre Antwort?
   What is your answer?
 
+Leben /ˈleːbən/, das: life
+  ums Leben kommen: to be killed
+
+leben: to live
+
 Lebensgefahr /ˈleːbənsɡəfaːɐ/, die: mortal danger
 
 lecker /ˈlɛkɐ/: delicious
@@ -61,6 +70,8 @@ lecker /ˈlɛkɐ/: delicious
 Leder/ˈleːdɐ/, das: leather
 
 lediglich /ˈleːdɪklɪç/: only, merely
+  Es handelt sich lediglich um eine Ausnahme.
+  This is just an exception.
 
 legendär /leɡɛnˈdɛːɐ/: legendary
 
