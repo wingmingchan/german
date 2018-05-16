@@ -51,6 +51,10 @@ Gefahr /ɡəˈfaːɐ/, die: danger
   Es besteht die Gefahr, dass jemand ins Eis einbricht.
   There is a risk that someone might fall through the ice.
 
+gefährlich /ɡəˈfɛːɐlɪç/: dangerous
+  Vorsicht! Der Täter ist bewaffnet und sehr gefährlich.
+  Warning! The perpetrator is armed and very dangerous.
+
 Gefängnis /ɡəˈfɛŋnɪs/, das: prison
   im Gefängnis sitzen/sein: to be in prison
 
@@ -76,7 +80,9 @@ gehen /ˈɡeːən/: to go, to walk, to leave
   
 Gehirn /ɡəˈhɪrn/, das: brain
 
-gehören /ɡəˈhøːrən/: to belong to
+gehören /ɡəˈhøːrən/: to belong to, to be among, to go, to require
+  Wem gehört dieser Stift?
+  Whose pen is this?
 
 geistern /ˈɡaistɐn/: to wander, to keep running through
   Warum geisterst du so spät abends noch durchs Haus?
