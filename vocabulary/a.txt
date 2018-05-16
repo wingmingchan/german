@@ -102,6 +102,11 @@ akklimatisieren /aklimatiˈziːrən/: to acclimate yourself
 Akku /ˈaku/, der: battery
   den Akku vom Handy aufladen: to charge your cell
 
+Aktie /ˈakʦjə/, die: share, stock
+  sein Vermögen in Aktien anlegen: to invest your fortune in shares
+
+Aktien => Aktie
+
 allerdings /ˈalɐˈdɪŋs/: however, indeed
   Die Suppe ist gut, allerdings ein bisschen scharf.
   The soup's good, but a little spicy.
@@ -125,7 +130,13 @@ als /als/: when, than, only, as if, as
 
 altbewährt: well-proven
 
+Alter /ˈaltɐ/, das: age, old age
+  im Alter von 50 Jahren: at the age of 50
+  im Alter gesund bleiben: to remain healthy in old age
+
 Alterssicherung, die: retirement provision
+
+Altersvorsorge /ˈaltɐsfoːɐzɔrɡə/, die: pension plan
 
 am
   Ich bin am größten!
@@ -166,6 +177,13 @@ angewurzelt /anɡəˈvʊrʦɛlt/: rooted to the spot
 
 Angriff /ˈanɡrɪf/, der: attack
   einen feindlichen Angriff abwehren/zurückschlagen: to repel/beat back an enemy attack
+
+Angst /aŋst/, die: fear, worry
+  Angst vor Hunden haben: to be afraid of dogs
+  jdm Angst machen: to frighten sb
+
+angst
+  jd hat/bekommt Angst: sb is/gets scared (stiff)
 
 Anhänger, der: trailer, pendant
 
@@ -251,6 +269,10 @@ Ast /ast/, Äste /ˈɛstə/, der: branch
   Die Affen schwingen sich von Ast zu Ast.
   The monkeys swing from tree to tree.
 
+Asyl /aˈzyːl/, das: asylum
+  Asyl beantragen: to seek asylum
+  Obdachlosenasyl: homeless shelter
+
 Atom /aˈtoːm/, das: atom
   Atombombe: atomic bomb
 
@@ -272,6 +294,8 @@ auffahren /ˈauffaːrən/: to run into, to tailgate, to start, to ascend
 aufkreuzen /ˈaufkrɔyʦən/: to show up
   Er ist plötzlich wieder bei seinen Eltern aufgekreuzt.
   He suddenly showed up again at his parents' place.
+
+Auflistung, die: listing
 
 Auflösung /ˈaufløːzʊŋ/, die: resolution, disintegration
 
@@ -307,6 +331,9 @@ Ausgang /ˈausɡaŋ/, der: exit, outcome, furlough
 
 Ausgangspunkt /ˈausɡaŋspʊŋkt/, der: starting point
 
+ausgeben /ˈausɡeːbən/: to spend
+  sein Geld für Bücher ausgeben: to spend your money on books
+
 ausgehen /ˈausɡeːən/: to go out, to finish, to run out, to go off
   etw. geht von jdm/etw. aus
   welche Gefahr von Adolf Hitler ausgeht
@@ -315,6 +342,9 @@ Ausland /ˈauslant/, das: foreign countries
   ins Ausland reisen: to travel abroad
 
 auslösen /ˈausløːzən/: to trigger
+
+Ausnahme /ˈausnaːmə/, die: exception
+  von wenigen Ausnahmen abgesehen: aside from very few exceptions
 
 Aussage /ˈauszaːɡə/, die: testimony, statement, message
   eine klare Aussage der Regierung zur Steuerpolitik fordern
