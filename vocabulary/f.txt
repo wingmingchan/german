@@ -197,6 +197,7 @@ froh /froː/: glad, happy, good
 fröhlich /ˈfrøːlɪç/: happy, cheerful, merrily
   Die Kinder sprangen fröhlich herum.
   The children were bouncing around merrily.
+  -> heiter
 
 Frost /frɔst/, der: frost
 
