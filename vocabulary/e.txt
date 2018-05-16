@@ -28,6 +28,8 @@ eignen /ˈaiɡnən/: to be suitable
 
 eigentlich /ˈaiɡəntlɪç/: actually
 
+Eilmeldung, die: newsflash
+
 ein /ain/: one
   ein für alle Mal: once and for all
 
@@ -186,6 +188,10 @@ erheiternd /ɛɐˈhaitɐn/: amusing
 
 Erheiterung: amusement, entertainment
 
+erhöhen /ɛɐˈhøːən/: to increase, to raise
+  Schnelles Fahren erhöht das Unfallrisiko.
+  Fast driving increases the risk of accidents.
+
 Erhöhung /ɛɐˈhøːʊŋ/, die: increase
 
 erinnern /ɛɐˈ|ɪnɐn/: to remember
@@ -204,6 +210,9 @@ erklären /ɛɐˈklɛːrən/: to declare, to explain
   The minister announced her resignation yesterday.
 
 erkunden /ɛɐˈkʊndən/: to explore
+
+Erlass /ɛɐˈlas/, der: decree, remission, release
+  Schuldenerlass: debt relief
 
 Erlaubnis /ɛɐˈlaupnɪs/, die: permission
   Sie ist ohne die Erlaubnis ihrer Eltern weggegangen.
@@ -227,6 +236,10 @@ erobern /ɛɐˈ|oːbɐn/: to conquer, to seize, to win, to capture
 
 Eröffnung /ɛɐˈ|œfnʊŋ/, die: opening
   die Eröffnung des neuen Sportzentrums: the opening of a new sports center
+
+errechnen /ɛɐˈrɛçnən/: to calculate
+  Die errechneten Werte/Entfernungen stimmen mit meiner Schätzung überein.
+  The values/distances that have been calculated tally with my estimate.
 
 erreichen /ɛɐˈraiçən/: to reach, to get hold of, to arrive at
   Wann kann ich Sie im Büro am besten erreichen?
