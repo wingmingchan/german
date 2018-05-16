@@ -137,6 +137,10 @@ Berechnung /bəˈrɛçnʊŋ/, die: calculation, charging
   Der Flug wurde ohne Berechnung von Gebühren umgebucht.
   The flight was changed at no additional charge.
 
+bereiten /bəˈraitən/: to cause, to give
+  Ich wollte dir damit eine kleine Freude bereiten.
+  I wanted to give you a little treat.
+
 bereits /bəˈraits/: already, as early as
   Es schneite bereits im Oktober.
   It snowed as early as October.
@@ -233,6 +237,13 @@ bewähren /bəˈvɛːrən/: to prove yourself
   Er konnte sich in der Krise bewähren.
   He was able to prove himself in the crisis.
 
+Bewältigung /bəˈvɛltɪɡʊŋ/, die: coping (with), handling
+  die Bewältigung einer Krise: coping with a crisis
+
+Bewegung /bəˈveːɡʊŋ/, die: movement
+  in Bewegung: in motion
+  Bewegung in etw. bringen: to get sth going/moving
+
 bezahlen /bəˈʦaːlən/: to pay for
   eine Rechnung bar bezahlen: to pay an invoice in cash
   Was bezahlst du deiner Putzfrau pro Stunde?
@@ -312,10 +323,16 @@ Bohrmaschine /ˈboːɐmaʃiːnə/, die: drill
 
 Bordell /bɔrˈdɛl/, das: brothel
 
+Börse /ˈbœrzə/, die: stock market, wallet
+
 Botschaft /ˈboːtʃaft/, die: message, embassy
   Ich habe eine frohe Botschaft für dich!
   I have good news for you!
   die deutsche Botschaft in Paris: the German embassy in Paris
+
+Brand /brant/, der: fire
+  Die Feuerwehr konnte den Brand löschen.
+  The fire department managed to put out the fire.
 
 Brandfall, der: fire
 
@@ -359,6 +376,14 @@ Bulle /ˈbʊlə/, der: bull, cop
 
 bullig /ˈbʊlɪç/: beefy
 
+Bund /bʊnt/, der: federal government, confederacy
+  Bund und Länder: the German federal government and the Länder
+
 Bundesamt, das: Federal Office
+
+Burger /ˈbəːɡə/, der: burger
+
+Bürger /ˈbʏrɡɐ/, der: citizen
+  die amerikanischen Bürgerinnen und Bürger: the citizens of the USA
 
 Bußgeld, das: fine, penalty
