@@ -146,7 +146,15 @@ Schuh /ʃuː/, der: shoe
 
 Schuld, die: guilt, fault, debt
 
-schulden: to own
+schulden: to owe
+  Du schuldest mir noch 10 Euro.
+  You still owe me 10 euros.
+
+Schulden haben: in debt
+
+Schulden tilgen: to pay up
+
+Schuldenerlass: debt relief
 
 Schuldige: culprit
   Schuldige besonders: guilty person/party
@@ -292,6 +300,7 @@ sonst /zɔnst/: else
   Is anyone else coming?
 
 Sorge /ˈzɔrɡə/, die: worry
+  jdm Sorgen machen/bereiten: to cause sb a lot of worry; to worry sb
 
 sorgen /ˈzɔrɡən/: to cater, to provide, to ensure, to worry
 
