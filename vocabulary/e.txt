@@ -35,6 +35,13 @@ ein /ain/: one
 
 ein-: in, into
 
+eindeutig /ˈaindɔytɪç/: clear
+  eindeutige Anweisungen geben: to give clear instructions
+  Die Beweise gegen sie sind eindeutig.
+  The evidence against her is conclusive.
+  So ist das eindeutig besser!
+  That's much better.
+
 Eindruck /ˈaindrʊk/, der: impression
 
 einfach /ˈainfax/: easy, simple, easily, simply
@@ -250,6 +257,10 @@ erreichen /ɛɐˈraiçən/: to reach, to get hold of, to arrive at
 erstatten /ɛɐˈʃtatən/: to reimburse, to refund, to give, to make, to file
   Er bekommt von seinem Arbeitgeber die Fahrtkosten zur Arbeit voll erstattet.
   He gets his travel expenses to the office reimbursed in full by his employer.
+
+ersticken /ɛɐˈʃtɪkən/: to suffocate
+  Das Tier ist in der Kiste qualvoll erstickt.
+  The animal died an agonizing death from suffocation in the box.
 
 erträglich /ɛɐˈtrɛːklɪç/: bearable
 
