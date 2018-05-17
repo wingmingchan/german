@@ -9,6 +9,9 @@ langsam 2.20.09:17
 
 leider 2.2.13:17
 
+lernen
+  sie lernt 2.30.23:27
+
 lesen 2.19.14:08
 
 lieber 2.8.19:43
