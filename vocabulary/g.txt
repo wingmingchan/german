@@ -69,7 +69,11 @@ gegenüber /ɡeːɡənˈ|yːbɐ/: opposite
 
 Gehalt /ɡəˈhalt/, das: salary
 
-geheim /ɡəˈhaim/: secret
+geheim /ɡəˈhaim/: secret, confidential
+  Diese Dokumente sind streng geheim!
+  These documents are top secret.
+  etw. (vor jdm) geheim halten: to keep sth secret (from sb)
+  über geheime Kräfte verfügen: to have mysterious powers
 
 Geheimnis /ɡəˈhaimnis/, das: secret
 
@@ -140,6 +144,8 @@ gerundet: rounded
 
 geschah => geschehen
 
+Geschäft /ɡəˈʃɛft/, das: store, business, deal, trade
+
 geschehen /ɡəˈʃeːən/: to happen
   geschehe, geschiehst, geschieht, ihr gescheht, bin geschehen
 
@@ -173,6 +179,10 @@ Gin, der
 Gipfel /ˈɡɪpfəl/, der: summit, peak
   den Gipfel besteigen
   to climb to the top of the mountain
+
+gleich /ɡlaiç/: same, equal
+  Die beiden Arbeiten haben die gleiche Zahl von Fehlern.
+  The two papers have the same number of mistakes.
 
 gleichen /ˈɡlaiçən/: to resemble, to be similar
   Die Schwestern gleichen sich sehr.
