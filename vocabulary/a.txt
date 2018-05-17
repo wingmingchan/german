@@ -22,7 +22,7 @@ abdrucken /ˈapdrʊkən/: to print
   Ihr Leserbrief wurde in der Zeitung abgedruckt.
   Her letter to the editor was printed in the newspaper.
 
-Abfall /ˈapfal/, der: waste, trash
+Abfall /ˈapfal/, Abfälle /ˈapfɛlə/, der: waste, trash
   industrielle Abfälle: industrial waste
 
 abfällig /ˈapfɛlɪç/: derogatory
@@ -286,6 +286,10 @@ auf /auf/: on, onto, at, to
   Is the supermarket still open?
 
 auf-: upward, opened, getting bigger
+
+aufbauen /ˈaufbauən/: to build, to assemble, to set up, to build up
+  Die Zelte waren schnell aufgebaut.
+  The tents were built up quickly.
 
 aufbrechen /ˈaufbrɛçən/: to break open, to break down
 
