@@ -25,6 +25,8 @@ Wasser 1.18.10:54
 
 wechseln 2.25.11:23
 
+Weg, der 2.29.16:46
+
 weg 1.27.11:13
 
 wegfahren 1.27.11:18
@@ -102,6 +104,8 @@ wo 1.4.09:46
 
 Woche, die 1.29.03:31
   ein paar Wochen 1.29.03:04
+
+Wochenende 2.27.11:34
 
 wohin 1.15.00:13
   Wohin fahren Sie? 1.23.00.07
