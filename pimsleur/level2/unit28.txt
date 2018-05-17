@@ -5,7 +5,7 @@ Unit 28: Ich kann Ihnen zeigen wo die Beethovenstraße ist
 ========================================================
 
 Frau White, sind Sie am Wochenende hier oder fahren Sie weg?
-Nein, Herr Schnyder. Ich fahren nicht weg. Ich bleibe hier.
+Nein, Herr Schnyder. Ich fahre nicht weg. Ich bleibe hier.
 Möchten Sie vielleicht Sonntag zum Abendessen kommen?
 Oh Sonntag Abend kann ich leider nicht.
 Wie wäre es mit Samstag Abend?
@@ -110,7 +110,7 @@ Ja, in zwei Wochen bin ich sicher auch hier. Und dann habe ich mehr Zeit.
 24:36 Zur welche Bank gehen Sie?
 24:59 Zur Bank in der Goethestraße.
 25:15 und dann, gehe ich ins Café.
-25:40 in welche Café?
+25:40 in welches Café?
 26:00 ins Operncafé
 26:10 ins Kino
 26:24 und dann, gehe ich ins Kino.
