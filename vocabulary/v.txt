@@ -4,6 +4,10 @@ V /fau/ V wie Viktor
 
 ver-: off, end of a state
 
+verarbeiten /fɛɐˈ|arbaitən/: to use, to process
+  Wir verarbeiten nur frische Zutaten.
+  We only use fresh ingredients.
+
 verabschieden /fɛɐˈ|apʃiːdən/: to say goodbye, to see off, to pass, to adopt
   Der Haushalt wurde gestern vom Parlament verabschiedet.
   The budget was adopted by parliament yesterday.
@@ -38,6 +42,10 @@ verfolgen /fɛɐˈfɔlɡən/: to pursue, to follow
 Verfolgung /fɛɐˈfɔlɡʊŋ/, die: prosecution, pursuit
   Das wird eine strafrechtliche Verfolgung nach sich ziehen.
   That will result in a criminal prosecution.
+
+verfügen /fɛɐˈfyːɡən/: to have (at your disposal), to be in charge, to order, to decree
+  Das Hotel verfügt über vierzig Doppelzimmer.
+  The hotel has over forty double rooms.
 
 vergangen /fɛɐˈɡaŋən/: past, previous, last
 
@@ -106,6 +114,8 @@ vernetzen /fɛɐˈnɛʦən/: to network
 
 veröffentlichen /fɛɐˈ|œfəntlɪçən/: to publish
 
+verpacken /fɛɐˈpakən/: to pack(age), to wrap (up)
+
 Verpflegung /fɛɐˈpfleːɡʊŋ/, die: food, catering
   Habt ihr für den Ausflug genügend Verpflegung dabei?
   Have you taken enough food for the trip?
@@ -130,6 +140,7 @@ versiegeln /fɛɐˈziːɡəln/: to seal
 Versprechen, das: promise
 
 versprechen /fɛɐˈʃprɛçən/: to promise, to make a mistake
+  sich etw. von etw. versprechen: to hope for sth from sth
 
 verstecken /fɛɐˈʃtɛkən/: to hide
   Ostereier im Garten verstecken
