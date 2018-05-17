@@ -186,7 +186,14 @@ schwer /ʃveːɐ/: severe, difficult
 
 schwierig /ˈʃviːrɪç/: difficult
 
+Schwierigkeit /ˈʃviːrɪçkait/, die: difficulty, complexity
+
 schwindelerregend: dizzy
+
+schwingen /ˈʃvɪŋən/: to swing
+  schwinge, schwingst, schwingt, habe geschwungen
+  Er schwang drohend einen Knüppel.
+  He brandished a club menacingly.
 
 See /zeː/, der: lake, sea
 
@@ -340,6 +347,9 @@ sprühen /ˈʃpryːən/: to spray
 
 spülen /ˈʃpyːlən/: to wash, to rinse, to flush
 
+spüren /ˈʃpyːrən/: to feel, to notice
+  die Folgen von etw. zu spüren bekommen: to feel the consequences of sth
+
 spürbar /ˈʃpyːɐbaːɐ/: noticeable , perceptible
 
 Staat /ʃtaːt/, der: state, country
@@ -469,7 +479,3 @@ suchen /ˈzuːxən/: to look for
 
 Süden /ˈzyːdən/, der: south
 
-schwingen /ˈʃvɪŋən/: to swing
-  schwinge, schwingst, schwingt, habe geschwungen
-  Er schwang drohend einen Knüppel.
-  He brandished a club menacingly.
