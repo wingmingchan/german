@@ -71,6 +71,11 @@ begehen /bəˈɡeːən/: to commit, to make, to celebrate, to walk on, to use
   Privatweg: Begehen auf eigene Gefahr!
   Private footpath: use at your own risk.
 
+begehrt /bəˈɡeːɐt/: coveted, sought-after, in demand, popular
+  Der Oscar ist der begehrteste Filmpreis der Welt.
+  The Oscar is the most coveted film award in the world.
+  die begehrtesten Junggesellen: the most eligible bachelors
+
 begeistern /bəˈɡaistɐn/: to be enthusiastic about, to delight, to thrill, to enthuse
   Er begeistert sich sehr für diesen Sport.
   He's very keen on that sport.
@@ -329,6 +334,12 @@ Botschaft /ˈboːtʃaft/, die: message, embassy
   Ich habe eine frohe Botschaft für dich!
   I have good news for you!
   die deutsche Botschaft in Paris: the German embassy in Paris
+
+Botschafter /ˈboːtʃaftɐ/: ambassador
+
+Branche /ˈbrãːʃə/, die: sector, industry, business
+  Wir sind in der gleichen Branche tätig.
+  We're in the same business.
 
 Brand /brant/, der: fire
   Die Feuerwehr konnte den Brand löschen.
