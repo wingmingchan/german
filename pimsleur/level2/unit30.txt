@@ -1,7 +1,7 @@
 ﻿========================================================
 2nd Edition, 2010
 
-Unit 30: 
+Unit 30: Wir haben keinen Schnee
 ========================================================
 
 Guten Tag, Herr Smith. Ich komme leider zu spät.
@@ -36,8 +36,8 @@ Angenehm, Frau Scott.
 05:25 ins Restaurant Zu Den Alpen
 05:46 im Restaurant Zu Den Alpen
 05:55 essen
-das essen
-06:14 Das essen im Restaurant Zu Den Alpen ist sehr gut.
+das Essen
+06:14 Das Essen im Restaurant Zu Den Alpen ist sehr gut.
 06:29 Ja, es ist prima!
 06:41 Aber muss ich jetzt gehen. Auf Wiedersehen.
 06:57 Ja, auf Wiedersehen. Und danke.
@@ -85,7 +85,7 @@ das essen
 16:46 Gutes Wetter?
 17:00 Oder schlechtes Wetter?
 17:12 Es gefällt mir in Arizona.
-17:31 Es ist sehr schön in Arozona.
+17:31 Es ist sehr schön in Arizona.
 17:42 machen
 17:51 Ich möchte eine Reise machen.
 18:16 eine Reise mit meine Familie
@@ -110,7 +110,7 @@ das essen
 21:38 Das ist unser Sohn Jake.
 21:48 Was macht er denn?
 22:03 Er studiert.
-22:16 Er geht zu Universität von Arizona.
+22:16 Er geht zur Universität von Arizona.
 22:32 Und das ist unsere Tochter Anne.
 22:43 Wie alt ist sie denn?
 22:58 Sie ist fünfzehn.
