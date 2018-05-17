@@ -14,6 +14,9 @@ gefällt
 gegessen 2.1.07:16
 
 gehen 1:15:00:12
+  gehe ins Kino/Restaurant
+  gehe zur Bank/Post
+  gehe zum Arzt
 
 geht 1.2.05:33
   geht es 1.2.05:33
