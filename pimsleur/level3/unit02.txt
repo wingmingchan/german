@@ -5,14 +5,14 @@ Unit 2: Meine Schwester ist mit einem Amerikaner verheiratet
 ========================================================
 
 Guten Abend. Darf ich mich vorstellen? Ich heiße Jim Gordon.
-Angenehm Herr Gordon. Ich heiße Erika Kurt?.
+Angenehm Herr Gordon. Ich heiße Erika Kurt.
 Woher kommen Sie, Frau Kurt?
 Aus Berlin. Und Sie?
 Aus Amerika. Ich wohne mit meiner Familie in Washington.
 Sie sind in Washington aufgewachsen?
 Nein. Aber ich wohne schon seit fünf Jahren dort. Meine Frau ist Lehrerin.
 Und Sie? Was sind Sie von Beruf?
-Ich bin Manager bei eine Bank. Und wo arbeiten Sie?
+Ich bin Manager bei einer Bank. Und wo arbeiten Sie?
 Bei Siemens in Berlin.
 ========================================================
 /ɛɐˈ|ɪnɐn/
@@ -41,7 +41,7 @@ Bei Siemens in Berlin.
 07:02 Was sind Sie von Beruf?
 07:14 Sind Sie Lehrer?
 07:21 Nein, nein.
-07:32 Ich arbeite bei eine Bank.
+07:32 Ich arbeite bei einer Bank.
 07:47 Sie sind in Hamburg aufgewachsen?
 08:13 Meine Frau und ich
 08:25 Wir machen eine Reise.
@@ -89,11 +89,11 @@ Bei Siemens in Berlin.
 21:30 ich weiß
 21:43 dass sie nicht lange bleiben
 22:08 Und Sie? Was sind Sie von Beruf?
-22:23 Ich arbeite bei eine Bank.
+22:23 Ich arbeite bei einer Bank.
 /ˈmɛnɪdʒɐ/
 22:39 Ich bin Manager
 22:44 Manager
-23:03 Ich bin Manager bei eine Bank.
+23:03 Ich bin Manager bei einer Bank.
 23:20 Bei der Citibank in Frankfurt.
 23:45 bei einer amerikanischen Bank
 24:02 bei der Citibank
