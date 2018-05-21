@@ -24,6 +24,10 @@ Balken /ˈbalkən/, der: beam
 Ball /bal/, der: ball
   Fußball: soccer
 
+Band /bant/, das: ribbon
+  ein Band im Haar tragen
+  to wear a ribbon in your hair
+
 band => binden
 
 Bande /ˈbandə/, die: gang
@@ -43,6 +47,13 @@ bayerisch /ˈbaiərɪʃ/: Bavarian
 be-: to turn a noun or adjective to a verb, intransitive -> transitive
 
 Beamte /bəˈ|amtə/: official
+
+beantragen /bəˈ|antraːɡən/: to apply for
+  ein Visum beantragen: to apply for a visa
+
+Beben /ˈbeːbən/, das: quake
+  ein Beben der Stärke 8 auf der Richter-Skala
+  an earthquake with a magnitude of 8 on the Richter scale
 
 bedecken /bəˈdɛkən/: to cover sb with sth, to blanket
 
@@ -85,6 +96,10 @@ begeistern /bəˈɡaistɐn/: to be enthusiastic about, to delight, to thrill, to
 beginnen /bəˈɡɪnən/: to begin
   Es beginnt zu regnen: It's starting to rain
 
+begleiten /bəˈɡlaitən/: to accompany
+  Soll ich dich nach Hause begleiten?
+  Shall I accompany you home?
+
 Begleiter /bəˈɡlaitɐ/: companion
 
 Begriff /bəˈɡrɪf/, der: idea, notion
@@ -92,6 +107,12 @@ Begriff /bəˈɡrɪf/, der: idea, notion
 behalten /bəˈhaltən/: to keep, to remember
   Mama, kann ich den Hund behalten?
   Mom, can I keep the dog?
+
+behandeln /bəˈhandəln/: to treat
+  Er hat mich sehr unhöflich behandelt.
+  He treated me very impolitely.
+  eine Krankheit mit Medikamenten behandeln
+  to treat an illness with medication
 
 behaupten /bəˈhauptən/: to claim
   Sie behauptet, krank gewesen zu sein, aber ich halte das für eine Ausrede.
@@ -122,10 +143,19 @@ belieben /bəˈliːbən/: to please, to like
   Man kann auch nach Belieben noch Zucker hinzufügen.
   You can also add as much sugar as you please.
 
+beliebt /bəˈliːpt/: popular
+
 bemessen: limited
 
 Bemerkung /bəˈmɛrkʊŋ/, die: remark, comment
   eine abfällige Bemerkung machen: to make a snide remark
+
+benötigen /bəˈnøːtɪɡən/: to need, to require
+  Ich benötige deine Hilfe.
+  I need your help.
+  Es benötigt mehrere Stunden, bis der Lack trocken ist.
+  It takes several hours for the paint to dry.
+  => nötig
 
 beobachten /bəˈ|oːbaxtən/: to observe, to watch
   Tiere in der Wildnis beobachten: to observe animals in the wild
@@ -189,7 +219,10 @@ Besitzer /bəˈzɪʦɐ/, Besitzerin: owner
 besonder: great, special
   Schuldige besonders: guilty person/party
 
-besonders /bəˈzɔndɐs/: particularly
+besonders /bəˈzɔndɐs/: particularly, especially
+  ein besonders erfolgreiches Jahr: a particularly successful year
+  Sie ist nicht besonders hübsch.
+  She's not particularly pretty.
 
 bestätigen /bəˈʃtɛːtɪɡən/: to confirm
   Die Zahlen bestätigten die Schätzungen der Experten.
@@ -218,6 +251,10 @@ bestimmt /bəˈʃtɪmt/: certain, firm, decisive, certainly
 
 bestücken /bəˈʃtʏkən/: to equip, to load
   einen Füller mit Patronen bestücken: to equip a fountain pen with cartridges
+
+beten /ˈbeːtən/: to pray
+  Er betet jeden Abend vor dem Schlafengehen.
+  He prays every night before he goes to bed.
 
 betrachten /bəˈtraxtən/: to look at, to consider, to observe
   ein Kunstwerk eingehend betrachten: to view an art work in detail
@@ -254,11 +291,22 @@ bezahlen /bəˈʦaːlən/: to pay for
   Was bezahlst du deiner Putzfrau pro Stunde?
   How much do you pay your cleaning lady an hour?
 
+bewerfen /bəˈvɔrfən/: to pelt, to bombard
+  jdn/etw mit etw bewerfen: to throw sth at sb/sth
+
 bezaubern: bewitch, charm, enchant
+
+bezwingen /bəˈʦvɪŋən/: to defeat
+  Am Ende konnte der Champion den Neuling in 5 Sätzen bezwingen.
+  In the end the champion managed to overcome the newcomer in 5 sets.
 
 biegen /ˈbiːgən/: to bend, to turn
 
 *Bier, das: beer
+
+bieten /ˈbiːtən/: to bid, to offer, to provide
+  2000 Euro sind geboten. Wer bietet mehr?
+  I have a bid for 2000 euros. Any other bids?
 
 Bild, das: painting, picture
 
@@ -307,6 +355,9 @@ blicken /ˈblɪkən/: to look, to get
 
 Blitzer, der: flashgun, speed trap
 
+bloß /bloːs/: bare
+  mit bloßen Händen
+
 blühend: blossoming, flourishing, thriving
 
 blutig /ˈbluːtɪç/: bloody, gory, violently
@@ -349,6 +400,8 @@ Brandfall, der: fire
 
 Bratwurst /ˈbraːtvʊrst/, die: bratwurst
 
+Brautstrauß, der: bridal bouquet
+
 brav /braːf/: good, well-behaved, honest, upright, brave
   Sei schön brav bei Oma!
   Now be good for grandma, will you?
@@ -363,7 +416,11 @@ brennen /ˈbrɛnən/: to burn , to be on fire
   Es brennt!
   Fire!
 
+Briefträger /ˈbriːftrɛːɡɐ/: mail carrier
+
 *Brise /ˈbriːzə/, die: breeze
+
+*Bronze /ˈbrõːsə/, die: bronze
 
 Brot /broːt/, das: 
 
@@ -373,7 +430,7 @@ Bruch /brʊx/, der: break, breach
 
 Bub /buːp/, der: boy
   das Büblein: the little boy
-  
+
 Buch /buːx/, das: book
   
 buchen: to book
