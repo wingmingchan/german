@@ -4,6 +4,10 @@ V /fau/ V wie Viktor
 
 ver-: off, end of a state
 
+verändern /fɛɐˈ|ɛndɐn/: to change
+  Sie hat sich in den letzten Jahren sehr verändert.
+  She has changed a lot over the last few years.
+
 verarbeiten /fɛɐˈ|arbaitən/: to use, to process
   Wir verarbeiten nur frische Zutaten.
   We only use fresh ingredients.
@@ -51,6 +55,8 @@ vergangen /fɛɐˈɡaŋən/: past, previous, last
 
 Vergangenheit /fɛɐˈɡaŋənhait/, die: past
 
+vergewaltigen: to rape
+
 Vergleich /fɛɐˈɡlaiç/, der: comparison
   Vergleiche zwischen zwei Dingen anstellen / ziehen
   to make/draw comparisons between two things
@@ -69,12 +75,26 @@ Verhandlung /fɛɐˈhandlʊŋ/, die: negotiation
   Die Verhandlungen blieben leider ohne Ergebnis.
   Unfortunately the negotiations did not end in agreement.
 
+verhangen: overcast
+
+verhängen /fɛɐˈhɛŋən/: to impose, to drape
+
+verheiraten: to marry, to get married
+
+verheiratet /fɛɐˈhairatət/: married
+
 verkaufen /fɛɐˈkaufən/: to sell
   Er hat sein Auto verkauft.
 
 Verkehr /fɛɐˈkeːɐ/, der: traffic
   Auf dieser Straße ist immer viel Verkehr.
   There's always a lot of traffic on this road.
+
+verlängern /fɛɐˈlɛŋɐn/: to renew, to extend, to lengthen, to prolong
+  Ich muss meinen Pass verlängern lassen.
+  I need to renew my passport.
+
+verlängert: elongated
 
 verlassen /fɛɐˈlasən/: to leave, to abandon
   Er verließ das Geschäft, ohne etwas gekauft zu haben.
@@ -189,6 +209,10 @@ verzichten /fɛɐˈʦɪçtən/: to do without, to refrain from, to renounce
 
 vielmehr /ˈfiːlmeːɐ/: rather
 
+Visum /ˈviːzʊm/, Visa /ˈviːza/, das: visa
+  Für die Einreise nach Nepal benötigt man ein gültiges Visum.
+  You need a valid visa to enter Nepal.
+
 Vogel /ˈfoːɡəl/, der: bird
 
 Vogelperspektive /ˈfoːɡəlpɛrspɛktiːvə/, die: bird's-eye view
@@ -205,7 +229,13 @@ voraussichtlich /foˈrauszɪçtlɪç/: expected, probably
   Der voraussichtliche Geburtstermin ist der 16. Mai.
   The expected due date is May 16th.
 
+vorbeifliegen: to fly past
+
 Vorfall /ˈfoːɐfal/, der: incident
+
+Vorgehen /ˈfoːɐɡeːən/, das: action
+
+vorgehen: to proceed, to act
 
 Vorgehensweise, die: approach
 
@@ -257,6 +287,11 @@ Vorwurf /ˈfoːɐvʊrf/, der: reproach
   jdm bittere Vorwürfe machen: to reproach sb bitterly
 
 Vorzeichen /ˈfoːɐʦaiçən/, das: omen
+
+vorzeitig /ˈfoːɐʦaitɪç/: early, premature
+  seine vorzeitige Entlassung aus der Haft: his early release from prison
+  Der Vertrag wurde vorzeitig aufgelöst.
+  The contract was terminated prematurely.
 
 verzögern /fɛɐˈʦøːɡɐn/: to delay
   verzögere, verzögerst, verzögert, habe verzögern
