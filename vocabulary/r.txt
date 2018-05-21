@@ -10,6 +10,8 @@ randalieren /randaˈliːrən/: to rampage
 
 Randalierer /randaˈliːrɐ/: hooligan
 
+rangeln /ˈraŋəln/: to wrestle, to scuffle
+
 ranghöher: senior
 
 rauchen /ˈrauxən/: to smoke
@@ -17,6 +19,9 @@ rauchen /ˈrauxən/: to smoke
   Do you smoke?
   Stört es Sie, wenn ich rauche?
   Do you mind if I smoke?
+
+rasch /raʃ/: rapid, quickly
+  rasche Fortschritte machen: to make rapid progress
 
 rasen /ˈraːzən/: to rush, to race
 
@@ -37,7 +42,7 @@ Ratschlag /ˈraːtʃlaːk/, der: piece of advice
   Auf solche Ratschläge kann ich verzichten!
   I can do without advice like that!
 
-Raum /raum/, Räume /ˈrɔymə/, der: room
+Raum /raum/, Räume /ˈrɔymə/, der: room, space
 
 räumen /ˈrɔymən/: to clear, to put away, to vacate
   Hindernisse/Mitwisser/Probleme aus dem Weg räumen
@@ -107,12 +112,18 @@ Renteneintritt, der: retirement
 
 Rest /rɛst/, der: rest, remainder
 
+retten /ˈrɛtən/: to rescue
+
+rettete => retten
+
 Rezept /reˈʦɛpt/, das: recipe, prescription
   ein Rezept für Käsekuchen: a recipe for cheesecake
 
 richten /ˈrɪçtən/: to direct, to point, to turn
 
 Riese /ˈriːzə/: giant
+
+riesig /ˈriːzɪç/: huge, gigantic
 
 Rind /rɪnt/, das: bovine
 
@@ -128,10 +139,14 @@ Rot /roːt/, das: red
 Rückkehr ˈrʏkkeːɐ/, die: return
   die Rückkehr der Flüchtlinge in die Heimat: the refugees' return home
 
+rückwärts /ˈrʏkvɛrʦ/: backward
+
 rufen /ˈruːfən/: to call, to shout, to cry
   um Hilfe rufen: to cry for help
 
 Ruhe /ˈruːə/, die: calm, calmness, placidness, quiet, repose, rest, tranquillity
+
+Ruhm /ruːm/, der: fame
 
 russisch
 
