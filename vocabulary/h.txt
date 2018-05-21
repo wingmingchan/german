@@ -10,6 +10,8 @@ haben /ˈhaːbən/: to have
   habe, hast, hat, ihr habt, habe gehabt
   hatte, hattest, hatte, ihr hattet, hatten
 
+Haferbrei, der: porridge, oatmeal
+
 -haft: -like
 
 Hagel /ˈhaːɡəl/, der: hail
@@ -26,6 +28,8 @@ Halt /halt/, der: stop
   Nächster Halt: Hauptbahnhof.
   Next stop: Central Station.
 
+hält => halten
+
 halten /ˈhaltən/: to hold, to keep
 
 handeln /ˈhandəln/: to deal, to trade, to bargin, to negotiate, to act
@@ -40,6 +44,8 @@ Handlung /ˈhandlʊŋ/, die: act, action
 Handy /ˈhɛndiː/, das: cell, mobile
 
 hängen /ˈhɛŋən/: to hang
+
+hart /hart/: hard
 
 häufig /ˈhɔyfɪç/: frequent, common
 
@@ -95,8 +101,6 @@ hell /hɛl/: light, bright
   ein helles Zimmer: a bright room
   ein helles Grün: a light green 
 
-hält => halten
-
 Henne /ˈhɛnə/, die: hen
   Die Henne hat ein Ei gelegt.
   The hen has laid an egg. 
@@ -123,7 +127,11 @@ herum /hɛˈrʊm/: (a)round
 
 Herz /hɛrʦ/, das: heart
 
+Herzinfarkt /ˈhɛrʦ|ɪnfarkt/, der: heart attack, coronary
+
 herzlich /ˈhɛrʦlɪç/: warm, cordial
+
+Herzog /ˈhɛrʦoːk/, Herzogin: duke/duchess
 
 heutig, heutige /ˈhɔytɪɡə/: today's, contemporary, modern
   am heutigen Nachmittag: this afternoon
@@ -134,11 +142,15 @@ Hilfe /ˈhɪlfə/, die: help
 
 Himmel /ˈhɪməl/, der: sky
 
+hinaus /hɪˈnaus/: out
+
 hindern /ˈhɪndɐn/: to prevent, to hinder
 
 Hindernis /ˈhɪndɐnɪs/, das: obstacle
   Nach dem Sturm lagen Bäume und Äste als Hindernisse auf der Straße.
   After the storm, trees and branches formed obstacles on the road.
+
+hing => hängen
 
 hinken /ˈhɪŋkən/: to limp
 
@@ -159,6 +171,15 @@ Hintergrund, der: background
 hoch /hoːx/, hohe /ˈhoːə/: tall, high
   das hohe C
 
+Hochzeit /ˈhɔxʦait/, die: wedding
+  die kirchliche/standesamtliche Hochzeit
+  the church wedding/civil wedding ceremony
+  => Trauung
+  
+Hochzeitstorte, die: wedding cake
+  Das Paar schnitt gemeinsam die Hochzeitstorte an.
+  The couple cut the wedding cake together.
+
 Hochwasser /ˈhoːxvasɐ/, das: flood(ing)
   Hochwasserkatastrophe: flood disaster
   Hochwassergefahr: danger of flooding
@@ -169,9 +190,14 @@ höflich /ˈhøːflɪç/: polite, politely
   jdn höflich grüßen/um etw. bitten
   to greet sb politely/ask sb politely for sth
 
+Höhle /ˈhøːlə/, die: cave
+  sich in einer Höhle verstecken: to hide in a cave
+
 holen /ˈhoːlən/: to get, to fetch
   Holst du bitte mal die Butter aus dem Kühlschrank?
   Could you get the butter from the refrigerator, please?
+
+Hölle /ˈhœlə/, die: hell
 
 hübsch /hʏpʃ/: pretty
   Sie ist wirklich ein hübsches Mädchen.
