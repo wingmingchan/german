@@ -18,6 +18,10 @@ damit /daˈmɪt/: with it
 
 danach /daˈnaːx/: afterward
 
+daneben /daˈneːbən/: next to it, besides
+  Der Supermarkt ist um die Ecke und die Tankstelle direkt daneben.
+  The supermarket is just around the corner and the gas station's right next to it.
+
 dann /dan/: then
   Und was dann?
   Bis dann! See you.
@@ -84,6 +88,9 @@ dennoch /ˈdɛnɔx/: nevertheless , still
 
 Deo /ˈdeːo/, das: deodorant
 
+deren /ˈdeːrən/: her
+  meine Schwester und deren Mann: my sister and her husband
+
 derzeit /ˈdeːɐˈʦait/: at the moment
 
 deshalb /ˈdɛsˈhalp/: therefore
@@ -111,6 +118,9 @@ Dienst /diːnst/, der: service
 Ding, das: thing
   Wir konnten nur wenige persönliche Dinge mitnehmen.
   We were only able to take a few personal items with us.
+
+direkt /diˈrɛkt/: direct
+  der direkte Weg zum Flughafen: the direct way to the airport
 
 doppelt /ˈdɔpəlt/: double
   die doppelte Menge: double the amount
@@ -147,18 +157,22 @@ drohen /ˈdroːən/: to threaten, to impend
 drücken: to push
   (auf) die Austaste drücken: to press the off button
 
-durch /dʊrç/: by, through, around
-  Der Ball flog durch die Scheibe.
-  The ball flew through the window.
-
-durchgreifen /ˈdʊrçɡraifən/: to reach through
+dumm /dʊm/: dumb, stupid
 
 dünn /dʏn/: thin
   Das Eis wird dich nicht tragen, es ist noch zu dünn.
   The ice won't hold your weight – it's still too thin.
 
 durch /dʊrç/: through, around, by, gone, past, over
+  Der Ball flog durch die Scheibe.
+  The ball flew through the window.
   durch und durch: through and through, completely
+
+durcharbeiten /ˈdʊrç|arbaitən/: to work through
+  Sie hat fast zwei Tage durchgearbeitet und braucht jetzt eine Pause.
+  She's been working for almost two days without a break and needs a rest now.
+
+durchgreifen /ˈdʊrçɡraifən/: to reach through
 
 dürfen /ˈdʏrfən/: to be allowed to, may, can
   darf, darfst, darf, ihr dürft, ich habe gedurft
