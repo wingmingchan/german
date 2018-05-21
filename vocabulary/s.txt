@@ -4,6 +4,8 @@ S /ɛs/ S wie Siegfried
 
 Sache /ˈzaxə/, die: thing
 
+sachlich /ˈzaxlɪç/: objective, matter-of-fact, factual, objectively
+
 Saft /zaft/, der: juice
   Apfelsaft, Orangensaft
 
@@ -12,11 +14,15 @@ sagen: to say
   Ehrlich gesagt: Ich weiß es nicht.
   To be honest, I don’t know.
 
+sah => sehen
+
 Salat /zaˈlaːt/, der: lettuce, salad
 
 sammeln /ˈzaməln/: to gather, to collect, to assemble
   Im Herbst gehen wir gerne Pilze sammeln.
   We like to go mushroom picking in the fall.
+
+saß /zaːs/ => sitzen
 
 Satz /zaʦ/, der: sentence
   Ich wurde mitten im Satz unterbrochen.
@@ -25,6 +31,8 @@ Satz /zaʦ/, der: sentence
 Sau /zau/, die: sow
 
 sauber /ˈzaubɐ/: clean
+
+*Sauerstoff /ˈzauɐʃtɔf/, der: oxygen
 
 saugfähig /ˈzaukfɛːɪç/: absorbent
   saugfähiges Küchenpapier: absorbent kitchen paper
@@ -58,7 +66,13 @@ Schauspieler, Schauspielerin /ˈʃauʃpiːlɐ/: actor/actress
 
 Scheibe /ˈʃaibə/, die: window pane
 
-scheinen /ˈʃainən/: to shine
+scheinen /ˈʃainən/: to shine, to seem
+  Das scheint mir keine gute Idee zu sein.
+  That doesn't seem a very good idea to me.
+
+scheitern /ˈʃaitɐn/: to fail, to fall through, to collapse, to break down
+  bereits zwei gescheiterte Versuche hinter sich haben
+  to already have two failed attempts behind you
 
 Schicksal /ˈʃɪkzaːl/, das: fate, destiny
   ein schweres Schicksal haben: to be fated to have a hard life
@@ -106,8 +120,17 @@ Schliere /ˈʃliːrə/, die: smear
 
 schlimm: bad, nasty
   Das ist schlimm.
-  
+
+Schlingel /ˈʃlɪŋəl/, der: brat, scoundrel, rogue
+
+Schluss /ʃlʊs/, der: end, conclusion
+  zu dem Schluss kommen, dass …: to come to the conclusion that …
+
 Schlüssel /ˈʃlʏsəl/, der: key
+
+Schmatz /ʃmaʦ/, der: smacker
+  Sie gab ihm einen dicken Schmatz auf die Backe.
+  She gave him a big smacker on the cheek.
 
 Schmutz /ʃmʊʦ/, der: dirt
 
@@ -135,6 +158,8 @@ Schokoladenkuchen, der: chocolate cake
 
 schreiben /ˈʃraibən/: to write
   Er schreibt Reportagen /repɔrˈtaːʒən/.
+
+schreien /ˈʃraiən/: to scream
 
 Schrott /ʃrɔt/, der: scrap, garbage
   Schrotthändler: scrap (metal) dealer
@@ -181,6 +206,11 @@ Schwäche /ˈʃvɛçə/, die: weakness, failing
   She suddenly felt faint.
 
 schwarz /ʃvarʦ/, schwarzen: black
+
+schwatzen /ˈʃvaʦən/: to chat
+  mit einer Freundin am Telefon schwatzen: to chat with a friend on the phone
+
+*Schwefel /ˈʃveːfəl/, der: sulfur
 
 schwer /ʃveːɐ/: severe, difficult
 
@@ -232,6 +262,14 @@ selbst /zɛlpst/: in person, self
 seltsam /ˈzɛltzaːm/: strange, odd
   Das kommt mir seltsam vor.
   That seems strange to me.
+
+Service /zɛrˈviːs/, das: dinner/coffee/tea service
+
+Service ˈsøːɐvɪs/, der: service, custom service
+  Das Restaurant ist für seinen guten Service bekannt.
+  This restaurant is famous for its good service.
+  Kostenlose Lieferung gehört zu unserem Service.
+  Free delivery is part of our service.
 
 setzen /ˈzɛʦən/: to sit
 
@@ -332,6 +370,8 @@ spätestens /ˈʃpɛːtəstəns/: at the latest
 Spiegel /ˈʃpiːɡəl/, der: mirror
   sich im Spiegel betrachten: to look at yourself in the mirror
 
+Spitzname /ˈʃpɪʦnaːmə/, der: nickname
+
 Sprache /ˈʃpraːxə/, die: language
   Latein ist eine tote Sprache.
   Latin is a dead language. 
@@ -365,11 +405,15 @@ Stadt /ʃtat/, die: city
 
 Stadtteil /ˈʃtattail/, der: district
 
+*Stahl /ʃtaːl/, der: steel
+
 ständig /ˈʃtɛndɪç/: permanent
    Unterbrich mich nicht ständig!
    Quit interrupting me all the time! 
 
-stark /ʃtark/, stärker: strong 
+stark /ʃtark/, stärker: strong
+
+Stärke /ˈʃtɛrkə/, die: strength, power, intensity, strong point
 
 starten /ˈʃtartən/: to start
   Das Spiel startet in wenigen Minuten.
@@ -387,7 +431,13 @@ stattdessen /ʃtatˈdɛsən/: instead
 
 Status /ˈʃtaːtʊs/, der: status
 
-stecken /ˈʃtɛkən/: to be
+Stau /ʃtau/, der: traffic jam
+  im Stau stehen: to be in a traffic jam
+
+stecken /ˈʃtɛkən/: to be, to put
+  viel Arbeit/Geld/… in etw. stecken: to put a lot of work/money/… into sth
+
+steckte => stecken
 
 stehen /ˈʃteːən/: to stand, to be, to have stopped, to depend on
   stehen bleiben: to stay
@@ -420,15 +470,25 @@ stillen /ˈʃtɪlən/: to breastfeed
    Planst du, dein Kind zu stillen?
    Are you planning to breastfeed your baby?
 
+Stimmung /ˈʃtɪmʊŋ/, die: mood, atmosphere, good mood
+  Er ist heute in schlechter Stimmung.
+  He's in a bad mood today.
+
+stolz /ʃtɔlʦ/: proud
+  Sie ist stolze Besitzerin einer Jacht.
+  She is the proud owner of a yacht.
+
 stören /ˈʃtøːrən/: to disturb, to interfere, to interrupt, to intrude, to jam
   Stört es dich, wenn ich rauche?
   Does it bother you if I smoke?
   Das Gewitter stört den Empfang des Senders.
   The thunderstorm is disrupting the reception of this station.
 
-stolz /ʃtɔlʦ/: proud
-  Sie ist stolze Besitzerin einer Jacht.
-  She is the proud owner of a yacht.
+stoßen /ˈʃtoːsən/: to push, to shove, to strike, to bump
+  jdn ins Wasser stoßen: to push sb into the water
+  mit dem Kopf an die Decke stoßen: to bump your head on the ceiling
+
+Strand /ʃtrant/, der: flaches Ufer am Meer, beach
 
 Streifen /ˈʃtraifən/, der: stripe
 
@@ -464,6 +524,8 @@ studieren /ʃtuˈdiːrən/: to study
 
 Stufe /ˈʃtuːfə/, die: step, stair
   zwei Stufen auf einmal nehmen: to go up two steps at a time
+
+Stuhl /ʃtuːl/, der: chair
 
 Stunde /ˈʃtʊndə/, die: hour
   eine halbe Stunde: half an hour
