@@ -8,6 +8,10 @@ ebenso /ˈeːbənzoː/: just as
 
 Eber /ˈeːbɐ/, der: boar
 
+Ecke /ˈɛkə/, die: edge, corner
+  Er hat sich an der Ecke des Schranks gestoßen.
+  He bumped into the corner of the closet.
+
 effektiv /ɛfɛkˈtiːf/: effective
 
 eher /ˈeːɐ/: rather
@@ -27,6 +31,8 @@ eignen /ˈaiɡnən/: to be suitable
   DVDs are good for archiving photos on.
 
 eigentlich /ˈaiɡəntlɪç/: actually
+  Eigentlich heißt er Johannes, Hansi ist nur sein Spitzname.
+  Actually his name is Johannes – Hansi's just his nickname.
 
 Eilmeldung, die: newsflash
 
@@ -34,6 +40,8 @@ ein /ain/: one
   ein für alle Mal: once and for all
 
 ein-: in, into
+
+Einbiegung, die: inward bend, curve
 
 eindeutig /ˈaindɔytɪç/: clear
   eindeutige Anweisungen geben: to give clear instructions
@@ -46,13 +54,13 @@ Eindruck /ˈaindrʊk/, der: impression
 
 einfach /ˈainfax/: easy, simple, easily, simply
 
-Einfahrt /ˈainfaːɐt/, die: entry
+Einfahrt /ˈainfaːɐt/, die: entrance, entry, driveway
   Einfahrt verboten!
   No entry!
 
-eingeliefert: taken
-
 Eingang /ˈainɡaŋ/, der: entrance, start, receipt, delivery
+
+eingeliefert: taken
 
 Einkommen /ˈainkɔmən/, das: income, earnings
   Wie hoch ist Ihr monatliches Einkommen in etwa?
@@ -83,6 +91,10 @@ einstige /ˈainstɪɡə/: former, erstwhile, one-time
   Der einstige Opernstar ist heute Gesangslehrerin.
   The erstwhile opera star is now a singing coach.
 
+Eintrag /ˈaintraːk/, der: entry, record
+  Wer hat die letzten Einträge vorgenommen?
+  Who made the latest entries?
+
 Eintritt /ˈaintrɪt/, der: admission, entrance, entry
   Der Eintritt in die Ausstellung ist frei.
   Admission to the exhibition is free.
@@ -99,6 +111,9 @@ einzigartig /ˈainʦɪç|aːɐtɪç/: unique
 
 Eisen /ˈaizən/, das: iron
    ein Geländer aus Eisen: an iron handrail
+
+eklatant /eklaˈtant/: glaring, striking
+  ein eklatanter Altersunterschied: a striking difference in age
 
 Elektrogerät, das: electrical appliance
 
@@ -118,9 +133,15 @@ empfangen /ɛmˈpfaŋən/: to receive, to pick up, to get, to greet, to welcome
   Wir wurden von unseren Gastgebern sehr herzlich empfangen.
   We were given a very warm welcome by our hosts.
 
-Empfang /ɛmˈpfaŋ/, der: welcome
+Empfang /ɛmˈpfaŋ/, der: reception, welcome, receipt
+
+empfangen /ɛmˈpfaŋən/: to receive, to greet, to welcome
 
 Empfänger /ɛmˈpfɛŋɐ/: receiver
+
+Ende /ˈɛndə/, das: end
+  Am Ende ist das doch egal.
+  In the end it doesn't matter at all.
 
 endlich /ˈɛntlɪç/: finally
   Endlich geht es ihr wieder besser.
@@ -140,6 +161,8 @@ enthalten /ɛntˈhaltən/: to contain
 enthüllen /ɛntˈhʏlən/: to reveal
   Die Fahnder enthüllten Anschlagspläne der terroristischen Vereinigung.
   The investigators revealed plans by the terrorist organization for an attack.
+
+entgegenstellen: to set against
 
 entmannen: to castrate
 
@@ -234,6 +257,10 @@ erleiden /ɛɐˈlaidən/: to suffer, to sustain
   In her youth she suffered many terrible things.
 
 Ermittler /ɛɐˈmɪtlɐ/: investigator
+
+ermorden /ɛɐˈmɔrdən/: to murder
+  Er wurde kaltblütig ermordet.
+  He was murdered in cold blood.
 
 Ernährung /ɛɐˈnɛːrʊŋ/, die: food, diet, nutrition
 
