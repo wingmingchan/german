@@ -28,9 +28,20 @@ Abfall /ˈapfal/, Abfälle /ˈapfɛlə/, der: waste, trash
 abfällig /ˈapfɛlɪç/: derogatory
   eine abfällige Bemerkung über jdn machen: to make a derogatory remark about sb
 
+abfinden /ˈapfɪndən/: to pay off, to come to terms with
+  Der scheidende Manager wurde mit einem Millionenbetrag abgefunden.
+  The manager was given a million-dollar/million-euro golden handshake when he left.
+  Er hat sich damit abgefunden, dass das nicht mehr klappen wird.
+  He had come to accept the fact that it's never going to work.
+
 Abflug /ˈapfluːk/, der: departure
   Der Abflug verzögert sich um 30 Minuten.
   The departure will be delayed by 30 minutes.
+
+Abgabe /ˈapɡaːbə/, die: tax, duty, submission, sale, distribution
+  hohe Abgaben zahlen müssen: to have to pay high taxes
+  
+abgabenfrei: duty-free, tax-exempt, tax-free
 
 abgeben /ˈapɡeːbən/: to hand in, to check, to share sth with sb
   Wann müssen wir den Aufsatz abgeben?
@@ -67,6 +78,12 @@ Abschiebung /ˈapʃiːbʊŋ/, die: deportation
 
 Abschiebungshaft, die: remand pending deportation
 
+Abschied: parting, leave, farewell
+  Der Abschied von ihren Freunden fiel ihr schwer.
+  She found it difficult to say goodbye to her friends.
+
+Abschiedskuss, der: parting kiss
+
 abschneiden /ˈapʃnaidən/: to cut off
   sich eine Scheibe Brot abschneiden
   to cut yourself a slice of bread
@@ -101,6 +118,8 @@ akklimatisieren /aklimatiˈziːrən/: to acclimate yourself
 
 Akku /ˈaku/, der: battery
   den Akku vom Handy aufladen: to charge your cell
+
+Aktentasche /ˈaktəntaʃə/, die: briefcase
 
 Aktie /ˈakʦjə/, die: share, stock
   sein Vermögen in Aktien anlegen: to invest your fortune in shares
@@ -151,11 +170,15 @@ Ammoniak /amoˈniak/, das: ammonia
 
 Ammoniaklösung, die: ammonia solution
 
+Ampere, das: ampère
+
 Amt /amt/, das: office, position
   im Gesundheitsamt/Jugendamt/Sozialamt arbeiten
   to work at the health authority/youth welfare service/social security office
   in das Amt des Vereinsvorsitzenden gewählt werden
   to be elected to the post of club chairman
+
+Amtmann, Amtfrau: bailiff
 
 Amtszeit, die: term, term of office
 
@@ -294,6 +317,17 @@ aufbauen /ˈaufbauən/: to build, to assemble, to set up, to build up
 aufbrechen /ˈaufbrɛçən/: to break open, to break down
 
 auffahren /ˈauffaːrən/: to run into, to tailgate, to start, to ascend
+
+auffallen /ˈauffalən/
+  jd/etw. fällt auf: sb/sth attracts attention
+  Er ist mal wieder unangenehm aufgefallen.
+  He managed to make a spectacle of himself yet again.
+
+auffällig /ˈauffɛlɪç/: noticeable, conspicuous, unusual, odd, strikingly, conspicuously
+  Es ist auffällig, dass …
+  It's noticeable that …
+
+aufhören /ˈaufhøːrən/: to stop
 
 aufkreuzen /ˈaufkrɔyʦən/: to show up
   Er ist plötzlich wieder bei seinen Eltern aufgekreuzt.
