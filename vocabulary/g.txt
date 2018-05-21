@@ -43,6 +43,8 @@ Geburtstag /ɡəˈbuːɐʦtaːk/, der: birthday
   Er feiert dieses Jahr seinen 60. / einen runden Geburtstag.
   He's celebrating his 60th birthday / a big birthday this year.
 
+gedacht => denken
+
 Gedanke, der: thought
 
 geeignet /ɡəˈ|aiɡnət/: suitable
@@ -63,6 +65,8 @@ Gefühl /ɡəˈfyːl/, das: feeling
 
 gegen /ˈɡeːɡən/: against, toward
   gegen Missstände protestieren/vorgehen: to protest/act against social evils
+
+Gegenstelle, die: remote terminal, distant end
 
 gegenüber /ɡeːɡənˈ|yːbɐ/: opposite
   genital /geniˈtaːl/
@@ -87,6 +91,8 @@ Gehirn /ɡəˈhɪrn/, das: brain
 gehören /ɡəˈhøːrən/: to belong to, to be among, to go, to require
   Wem gehört dieser Stift?
   Whose pen is this?
+  Kostenlose Lieferung gehört zu unserem Service.
+  Free delivery is part of our service.
 
 geistern /ˈɡaistɐn/: to wander, to keep running through
   Warum geisterst du so spät abends noch durchs Haus?
@@ -95,6 +101,14 @@ geistern /ˈɡaistɐn/: to wander, to keep running through
   He still can't get the idea of having his own restaurant out of his head.
 
 gekleideter: clad, dressed
+
+geladen, geladene => laden 
+
+gelangen /ɡəˈlaŋən/: to get, to find your way to, to come to
+  Wie ist dieses Schreiben in deine Hände gelangt?
+  How did that letter find its way into your hands?
+  an die Macht/zu Ruhm gelangen
+  to come to power/to rise to fame
 
 gelaunt /ɡəˈlaunt/ adj: in a ... mood
    gut/schlecht gelaunt sein: to be in a good/bad mood 
@@ -115,6 +129,7 @@ geltend: current, established, applicable, valid, in force
 gemächlich /ɡəˈmɛːçlɪç/: leisurely , unhurried
 
 gemeinsam /ɡəˈmainzaːm/: common, joint, mutual, united, collectively, together, in common, in concert
+  gemeinsam wandern/singen: to go hiking/to sing together
 
 genau /ɡəˈnau/: exactly
   Das geschah vor genau vier Jahren.
@@ -164,6 +179,15 @@ Gesundheit /ɡəˈzʊnthait/, die: health
   Er erfreut sich bester Gesundheit.
   He's in the best of health.
 
+getigert /ɡeˈtiːɡɐt/: striped
+
+gewaltig /ɡəˈvaltiç/: huge, vast, intense, almighty
+  Das Schiff wurde von einer gewaltigen Welle zerschmettert.
+  The ship was smashed to pieces by a huge wave.
+
+gewaltsam /ɡəˈvaltzaːm/: violent
+  die gewaltsame Vertreibung der Dorfbewohner: the violent expulsion of the villagers
+
 Gewalttat /ɡəˈvalttaːt/, die: act of violence
 
 Gewerkschaft /ɡəˈvɛrkʃaft/, die: labor union
@@ -175,6 +199,8 @@ Gewerkschaft /ɡəˈvɛrkʃaft/, die: labor union
 gezogen => ziehen
 
 Gin, der
+
+ging => gehen
 
 Gipfel /ˈɡɪpfəl/, der: summit, peak
   den Gipfel besteigen
@@ -190,6 +216,8 @@ gleichen /ˈɡlaiçən/: to resemble, to be similar
 
 Gletscher /ˈɡlɛʧɐ/, der: glacier
 
+glucksen /ˈɡlʊksən/: to gurgle, to burble, to chortle
+
 Gold /ɡɔlt/, das
 
 Grad /ɡraːt/, der: degree, level
@@ -201,7 +229,7 @@ grau /ɡrau/: grey
 
 *Graupel /ˈɡraupəl/, die: sleet
 
-greifen /ˈɡraifən/: to seize, to grab, to reach
+greifen /ˈɡraifən/: to seize, to grab, to reach, to stop
   Ich griff mir die Schlüssel und verschwand.
   I grabbed the keys and disappeared.
   Sie griff in die Tasche und holte ihren Ausweis heraus.
@@ -210,6 +238,8 @@ greifen /ˈɡraifən/: to seize, to grab, to reach
 Grenze /ˈɡrɛnʦə/, Grenzen, die: border, frontier
 
 griechisch: greek
+
+griff => greifen
 
 Grinsen /ˈɡrɪnzən/, das: grin
 
