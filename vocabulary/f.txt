@@ -55,7 +55,10 @@ feiern /ˈfaiɐn/: to celebrate, to acclaim, to laud, to hail
 
 Feiertag /ˈfaiɐtaːk/, der: holiday
 
-fein /fain/: fine
+fein /fain/: fine, subtle
+  Der feine Staub drang in alle Ritzen.
+  The fine dust got in all the cracks.
+  feine Unterschiede machen: to make subtle distinctions
 
 Feindschaft /ˈfaintʃaft/, die: hostility
 
@@ -78,6 +81,14 @@ Feuchtigkeit /ˈfɔʏçtɪçkait/, die: dampness, moisture
 
 Feuer /ˈfɔʏɐ/, das: fire
   das Feuer eröffnen/einstellen: to open/cease fire
+
+Feuerwehr /ˈfɔʏɐveːɐ/, die: fire department
+
+Feuerwehrmann: fireman
+
+Feuerwehrwache, die: fire-station
+
+fiel => fallen
 
 fielen => fallen: to be fired
 
@@ -142,6 +153,8 @@ Folge /ˈfɔlɡə/, die: consequence, result, episode
   I missed the last episode in my favorite series!
 
 folgen /ˈfɔlɡən/: to follow
+  Er folgte dem Verdächtigen unauffällig.
+  He followed the suspect inconspicuously.
 
 fordern /ˈfɔrdɐn/: to demand, to press for, to claim lives
   fordere, forderst, fordert, habe gefordert
@@ -154,11 +167,20 @@ Form /fɔrm/, Formen: form, shape
   Die Schüssel hatte eine ovale Form.
   The key has an oval form.
 
+forschen /ˈfɔrʃən/: to research, to search
+  Die Polizei forscht nach den Ursachen für den Brand.
+  The police are searching for the cause of the fire.
+
 Forscher /ˈfɔrʃɐ/: researcher
 
 fortschreiten /ˈfɔrtʃraitən/: to progress
   Die Krankheit schreitet weiter fort.
   The illness is progressing further.
+
+Fortschritte machen: to advance, to make progress
+
+Foul /faul/, das: foul
+  ein Foul begehen: to commit a foul
 
 Frankreich /ˈfraŋkraiç/, das: France
 
@@ -203,6 +225,12 @@ Frost /frɔst/, der: frost
 
 Frühling /ˈfryːlɪŋ/, der: spring
    Endlich wird es Frühling! Spring is here at last!
+
+fuhr => fahren
+
+Fülle /ˈfʏlə/, die: fullness, volume
+  Dieses Shampoo gibt Ihrem Haar Fülle.
+  This shampoo gives your hair volume.
 
 füllen /ˈfʏlən/: to fill
   einen Eimer mit Wasser füllen: to fill a bucket with water
