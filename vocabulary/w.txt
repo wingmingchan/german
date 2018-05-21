@@ -14,6 +14,8 @@ wahr /ˈvaːɐ/: true
 
 wahren /ˈvaːrən/: to keep, to maintain, to protect
 
+während /ˈvɛːrənt/: while, during, as
+
 Wahrheit /ˈvaːɐhait/, die: truth
   Sag (mir) die Wahrheit!
   Tell (me) the truth!
@@ -23,12 +25,25 @@ wahrscheinlich /vaːɐˈʃainlɪç/: probable, likely
 
 Wald /valt/, der: forest
 
+Waldkauz, der: tawny owl
+
 Wand /vant/, Wände /ˈvɛndə/, die: wall
   ein Bild an die Wand hängen
   to hang a picture on the wall
 
+Wände => Wand
+
+wandern /ˈvandɐn/: to hike
+  wandern gehen: to go hiking
+  Im Urlaub wanderten sie viel.
+  They did a lot of hiking on vacation.
+
 Wanderung /ˈvandərʊŋ/, die: hike
   
+wandte => wenden
+
+Wange /ˈvaŋə/, die: cheek
+
 warm /varm/: warm
 
 warnen /ˈvarnən/: to warn
@@ -50,6 +65,12 @@ wechseln /ˈvɛksəln/: to change
   Wechsel/Wechsle nicht dauernd das Thema!
   Quit changing the subject all the time!
 
+wecken: to wake up, to arouse
+  Weckst du mich morgen um acht?
+  Will you wake me (up) at eight tomorrow?
+  Es gelang ihr nicht, bei den Kindern Interesse zu wecken.
+  She didn't manage to awaken any interest amongst the children.
+
 Weg /veːk/, der: path, way, route
   jdn nach dem Weg fragen: to ask sb the way
 
@@ -62,6 +83,8 @@ wegen /ˈveːɡən/: for, over, because of, on account of
   Rich? You've got to be kidding!
 
 *Weib /vaip/, das: female, babe, woman, wife
+
+weiblich /ˈvaiplɪç/: female
 
 Weihnachtsfeiertag, Weihnachtstag /ˈvainaxʦtaːk/, der: Christmas Day
 
@@ -79,6 +102,10 @@ weiter: further, other
 Weizen /ˈvaiʦən/, der: wheat
 
 Welle /ˈvɛlə/, die: wave
+  Das Schiff schaukelte auf den Wellen.
+  The ship was pitching and tossing on the waves.
+
+wenden /ˈvɛndən/: to turn, to turn over, to turn around, to toss
 
 wenig /ˈveːnɪç/: little
 
@@ -175,6 +202,8 @@ wollen
 
 womöglich /voˈmøːklɪç/: possibly
 
+Woran /voˈran/: on what
+
 worden => werden
 
 Wunsch /vʊnʃ/, der: wish
@@ -188,4 +217,6 @@ Wurfgeschoss, das: missile, projectile
 Wurzel /ˈvʊrʦəl/, die: root
 
 Wut /vuːt/, die: starkes Gefühl des Ärgers, rage, fury
+
+Wutanfall /ˈvuːt|anfal/, der: fit of rage, tantrum
 
