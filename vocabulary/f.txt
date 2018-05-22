@@ -5,9 +5,14 @@ F /ɛf/ F wie Friedrich
 Fahndung /ˈfaːndʊŋ/, die: search, manhunt
   Fahndungsfoto: mug shot
 
+Fahne /ˈfaːnə/, die: flag
+
 fahren /ˈfaːrən/: to drive, to go
-   Sollen wir zu Fuß gehen oder fahren?
-   Shall we walk or drive? 
+  fahre, fährst, fährt, ihr fahrt, bin gefahren
+  fuhr, fuhrst, fuhren
+  Sollen wir zu Fuß gehen oder fahren?
+  Shall we walk or drive?
+  Auto fahren lernen: to learn to drive
 
 Faktor /ˈfaktoːɐ/, der: factor
 
@@ -43,6 +48,12 @@ Faust /faust/, die: fist
 Fazit /ˈfaːʦɪt/, das: conclusion
   Er zog ein positives Fazit der Veranstaltung.
   He described the event as a success.
+
+fehlen /ˈfeːlən/: to be missing, to lack, to be absent
+  An deinem Hemd fehlt ein Knopf.
+  There's a button missing from your shirt.
+  Wer fehlt heute?
+  Who's absent today?
 
 Fehler /ˈfeːlɐ/, der: mistake, error
   Du hättest die Aktien nicht verkaufen sollen, das war ein Fehler.
@@ -94,6 +105,8 @@ fielen => fallen: to be fired
 
 finden /ˈfɪndən/: to find
   finde, findest, findet, habe gefunden
+
+Finnland /ˈfɪnlant/
 
 Fisch /fɪʃ/, der: fish
 
