@@ -98,6 +98,8 @@ schildern /ˈʃɪldɐn/: to describe
 schlafen /ˈʃlaːfən/: to sleep
 
 schlagen /ˈʃlaːɡən/: to hit, to strike, to beat
+  schlage, schlägst, schlägt, ihr schlagt, habe geschlagen
+  schlug, schlugst, schlug, schlugen, ihr schlugt
   jdm mit der Hand/Faust ins Gesicht schlagen: to slap/punch sb in the face
 
 Schlagstock /ˈʃlaːkʃtɔk/, der: baton, nightstick
@@ -122,6 +124,8 @@ schlimm: bad, nasty
   Das ist schlimm.
 
 Schlingel /ˈʃlɪŋəl/, der: brat, scoundrel, rogue
+
+schlugen => schlagen
 
 Schluss /ʃlʊs/, der: end, conclusion
   zu dem Schluss kommen, dass …: to come to the conclusion that …
@@ -209,6 +213,8 @@ schwarz /ʃvarʦ/, schwarzen: black
 
 schwatzen /ˈʃvaʦən/: to chat
   mit einer Freundin am Telefon schwatzen: to chat with a friend on the phone
+
+Schweden /ˈʃveːdən/
 
 *Schwefel /ˈʃveːfəl/, der: sulfur
 
@@ -451,6 +457,9 @@ steigen /ˈʃtaiɡən/: to climb, to get in/on/out/off
 Steigerung /ˈʃtaiɡərʊŋ/, die: increase, improvement
 
 Steinbock /ˈʃtainbɔk/, der: ibex
+
+stellen /ˈʃtɛlən/: to put, to place
+  Blumen in eine Vase stellen: to put some flowers in a vase
 
 -stellig /ʃtɛlɪç/: -figure, -digit
   fünfstellige
