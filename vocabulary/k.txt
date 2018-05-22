@@ -18,6 +18,10 @@ kämpfen /ˈkɛmpfən/: to fight
 Kapazität /kapaʦiˈtɛːt/, die: capacity, expert
   die Speicherkapazität der Festplatte: the storage capacity of the hard drive
 
+kapitulieren /kapituˈliːrən/: to surrender, to give up, to capitulate
+  Das Schiff kapitulierte und hisste die weiße Fahne.
+  The ship surrendered and raised the white flag.
+
 Katze /ˈkaʦə/, die: cat
 
 Kaufmann /ˈkaufman/, Kauffrau: businessman, sales manager, merchant
@@ -71,6 +75,10 @@ Knochen /ˈknɔxən/, der: bone
   sich bis auf die Knochen blamieren: to make a total fool of yourself
   Irans Reaktion auf den Vertragsbruch der USA blamiert Trump bis auf die Knochen
 
+Knopf /knɔpf/, der: button, knob
+  den obersten Hemdknopf offen lassen: to leave your top shirt button undone
+  den richtigen Knopf drücken: to press the right button
+
 Koalition /ko|aliˈʦjoːn/, die: coalition
   große Koalition: Koalition zwischen den größten Parteien
 
@@ -79,6 +87,8 @@ Kobalt, das: 钴
 Koch /kɔx/, Köchin /ˈkœçɪn/: cook, chef
 
 kochen /ˈkɔxən/: to cook
+
+Koffer /ˈkɔfɐ/, der: suitcase
 
 *Kohle /ˈkoːlə/, die: coal
   Kohle abbauen: to mine for coal
@@ -103,6 +113,12 @@ können /ˈkœnən/: to be able to
 
 konsequent /kɔnzeˈkvɛnt/: consistently
   eine konsequente Strategie verfolgen: to pursue a consistent strategy
+
+Konto /ˈkɔnto/, das: account
+  ein Bankkonto eröffnen: to open a bank account
+  etw. geht auf jds Konto: sb is to blame for sth
+  Die Niederlage geht allein auf sein Konto.
+  The defeat is entirely his fault.
 
 kontrollieren /kɔntrɔˈliːrən/: to control
 
@@ -146,6 +162,9 @@ kreuzen /ˈkrɔyʦən/: to cross, to meet
   Our paths crossed by chance.
 
 Krieg /kriːk/, der: war
+
+Kriegsfall, der: case of war
+  im Kriegsfall
 
 Kripo /ˈkriːpo/, die: crime detection agency
 
