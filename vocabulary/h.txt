@@ -101,6 +101,10 @@ hell /hɛl/: light, bright
   ein helles Zimmer: a bright room
   ein helles Grün: a light green 
 
+Hemd /hɛmt/, das: shirt
+  Er trug zur Hose Hemd und Krawatte.
+  He was wearing a shirt and tie with the pants.
+
 Henne /ˈhɛnə/, die: hen
   Die Henne hat ein Ei gelegt.
   The hen has laid an egg. 
@@ -108,6 +112,8 @@ Henne /ˈhɛnə/, die: hen
 herab /hɛˈrap/: down
 
 heraus /hɛˈraus/: out
+
+herausgeben /hɛˈrausɡeːbən/: to release, to return, to give back, to give change, to issue, to publish
 
 herauskommen /hɛˈrauskɔmən/: to come out
 
