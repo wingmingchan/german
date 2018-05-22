@@ -87,6 +87,10 @@ Ton /toːn/, der: sound, tone, clay
   Das Kätzchen gab hohe Töne /ˈtøːnə/ von sich.
   The kitten made high-pitched noises.
 
+Torte /ˈtɔrtə/, die: gateau, (fruit) flan
+  Das Brautpaar schnitt die Hochzeitstorte an.
+  The bride and groom cut into the wedding cake.
+
 total /toˈtaːl/: total, really
   eine totale Sonnenfinsternis
   a total eclipse of the sun
@@ -95,6 +99,12 @@ total /toˈtaːl/: total, really
 
 Tote /ˈtoːtə/: dead person, dead man/woman
   ein unbekannter Toter: an unidentified dead man
+
+tragen /ˈtraːɡən/: to carry, to take, to wear, to hold
+  trage, trägst, trägt, ihr tragt, habe getragen
+  trug, trugst, trug, trugen
+  Trägst du bitte die Koffer ins Haus?
+  Would you take the suitcases inside?
 
 tränen /ˈtrɛːnən/: Auge(n) sich mit Tränen füllen
   Der Wind war so kalt, dass meine Augen zu tränen anfingen.
@@ -140,6 +150,8 @@ trotzdem /ˈtrɔʦdeːm/: nevertheless
   She knew it wasn't allowed, but she did it all the same.
 
 trübe /ˈtryːbə/: dull
+
+trug => tragen
 
 trügen /ˈtryːɡən/: to deceive
   Meine Hoffnungen hatten mich nicht getrogen.
