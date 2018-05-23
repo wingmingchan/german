@@ -34,6 +34,7 @@ Das weiß ich nicht. Das macht ich ohne meine Notizen.
 04:56 Sonst noch etwas?
 05:15 Vielleicht später. Danke sehr.
 05:25 Bitte.
+
 05:41 Ich suche meinen Kugelschreiber.
 05:51 Haben Sie ihn gesehen?
 06:11 Nein. Aber wir können den Kugelschreiber suchen.
@@ -64,6 +65,7 @@ Das weiß ich nicht. Das macht ich ohne meine Notizen.
 12:51 hast reserviert
 13:16 du hast reserviert
 13:26 Du hast das Hotel reserviert?
+13:25 Hast du das Hotel reserviert?
 13:43 noch nicht
 13:51 bald
 14:03 sprechen über
@@ -87,9 +89,10 @@ Das weiß ich nicht. Das macht ich ohne meine Notizen.
 18:03 Sprechen wir noch einmal darüber.
 18:22 Wohin?
 18:32 Wohin wollen wir fahren?
-18:51 Ich möchte in die Schweitz fahren.
-19:01 Ja, vielleicht in die Schweitz.
+18:51 Ich möchte in die Schweiz fahren.
+19:01 Ja, vielleicht in die Schweiz.
 19:13 Oder nach Österreich.
+
 erinnern /ɛɐˈ|ɪnɐn/
 19:26 Erinnerst du dich?
 19:38 erinnerst
@@ -99,9 +102,9 @@ erinnern /ɛɐˈ|ɪnɐn/
 20:49 ich erinnere mich
 21:07 ich erinnere mich sehr gut
 21:20 Zuerst, sag
-21:35 wollen wir in die Schweitz oder nach Österreich fahren?
-21:50 Die Schweitz ist auch sehr schön.
-22:03 Fahren wir in die Schweitz.
+21:35 wollen wir in die Schweiz oder nach Österreich fahren?
+21:50 Die Schweiz ist auch sehr schön.
+22:03 Fahren wir in die Schweiz.
 22:23 Gut. Ich reserviere das Hotel sofort.
 
 22:42 Erika, hast du etwas Zeit?
