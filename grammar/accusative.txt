@@ -1,6 +1,6 @@
 ﻿Accusative
 ==========
-bis, für, durch, gegen, ohne, um
+bis, für, durch, gegen, ohne, über, um
 Masculine: use -en
 Neuter: no suffix
 Feminine and plural: use -e
