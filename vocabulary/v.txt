@@ -111,10 +111,14 @@ Verletzte /fɛɐˈlɛʦtə/: casualty, injured/wounded person
   The injured were immediately taken to the hospital.
 
 verlieren /fɛɐˈliːrən/: to lose
+  habe verloren
+  verlor, verlorst, verlor, verloren, verlort
   Ich kann den Ausweis nicht finden, vielleicht habe ich ihn verloren.
   I can't find my ID card. Perhaps I've lost it.
 
 verloren => verlieren
+
+Verlust /fɛɐˈlʊst/, der: loss
 
 vermeiden /fɛɐˈmaidən/: to avoid
   Sie konnte einen Zusammenstoß gerade noch vermeiden.
@@ -207,13 +211,21 @@ verzichten /fɛɐˈʦɪçtən/: to do without, to refrain from, to renounce
   Kannst du heute mal auf meine Hilfe/mich verzichten?
   Can you manage without my help/me today?
 
+verzögern /fɛɐˈʦøːɡɐn/: to delay
+  verzögere, verzögerst, verzögert, habe verzögern
+  Das Unwetter hat unseren Abflug um zwei Stunden verzögert.
+  The storm delayed our departure by two hours.
+
 vielmehr /ˈfiːlmeːɐ/: rather
+
+Viertel /ˈfirtəl/, das: quarter
 
 Visum /ˈviːzʊm/, Visa /ˈviːza/, das: visa
   Für die Einreise nach Nepal benötigt man ein gültiges Visum.
   You need a valid visa to enter Nepal.
 
-Vogel /ˈfoːɡəl/, der: bird
+Vogel /ˈfoːɡəl/ Vögel /ˈføːɡəl/, der: bird
+  im Winter die Vögel füttern: to feed the birds in winter
 
 Vogelperspektive /ˈfoːɡəlpɛrspɛktiːvə/, die: bird's-eye view
 
@@ -300,16 +312,12 @@ vorzeitig /ˈfoːɐʦaitɪç/: early, premature
   Der Vertrag wurde vorzeitig aufgelöst.
   The contract was terminated prematurely.
 
-verzögern /fɛɐˈʦøːɡɐn/: to delay
-  verzögere, verzögerst, verzögert, habe verzögern
-  Das Unwetter hat unseren Abflug um zwei Stunden verzögert.
-  The storm delayed our departure by two hours.
-
-Viertel /ˈfirtəl/, das: quarter
-
 vorgestern /ˈfoːɐɡɛstɐn/: the day before yesterday
 
 vorkommen /ˈfoːɐkɔmən/: to happen, to occur
+
+Vorwurf /ˈfoːɐvʊrf/, Vorwürfe, der: reproach
+  jdm bittere Vorwürfe machen: to reproach sb bitterly
 
 Vulkan /vʊlˈkaːn/, der: volcano
 
