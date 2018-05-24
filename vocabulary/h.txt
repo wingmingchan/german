@@ -65,6 +65,12 @@ Haut /haut/, die: skin
 
 Hebel /ˈheːbəl/, der: lever
 
+heben /ˈheːbən/: to lift, to raise
+  Der Vorhang hob sich zum zweiten Akt.
+  The curtain rose for the second act.
+  Die Tasche ist so schwer, dass ich sie kaum heben kann.
+  The bag is so heavy I can barely lift it.
+
 Heck /hɛk/, das: rear, stern
   Heckklappe: tailgate
 
