@@ -53,7 +53,8 @@ abgeben /ˈapɡeːbən/: to hand in, to check, to share sth with sb
 Abgeordnete /ˈapɡə|ɔrdnətə/: representative
   eine Abgeordnete des deutschen Bundestages: a Member of the German Federal Parliament
 
-abgestoßen: repelled
+abgestoßen: repelled, revoted
+  => stoßen: to push, to shove
 
 Abkommen /ˈapkɔmən/, das: agreement
   ein Friedensabkommen unterzeichnen: to sign a peace treaty
@@ -70,9 +71,15 @@ abrasieren /ˈapraziːrən/: to shave off
 abräumen /ˈaprɔymən/: to clean up
   Räumst du bitte noch ab, bevor du gehst?
   Would you clear the table before you go, please?
+  => räumen: to clear, to put away, to vacate
+
+absagen /ˈapzaːɡən/: to cancel
+  Das Konzert wurde wegen Krankheit abgesagt.
+  The concert was cancelled due to illness.
 
 abschieben /ˈapʃiːbən/: to deport
   habe abgeschoben
+  => schieben: to push, to blame
 
 Abschiebung /ˈapʃiːbʊŋ/, die: deportation
 
@@ -81,12 +88,14 @@ Abschiebungshaft, die: remand pending deportation
 Abschied: parting, leave, farewell
   Der Abschied von ihren Freunden fiel ihr schwer.
   She found it difficult to say goodbye to her friends.
+  => scheiden: to part
 
 Abschiedskuss, der: parting kiss
 
 abschneiden /ˈapʃnaidən/: to cut off
   sich eine Scheibe Brot abschneiden
   to cut yourself a slice of bread
+  => schneiden: to cut
 
 absetzen /ˈapzɛʦən/: to drop sb off
   Kannst du mich bitte an der Schule absetzen?
@@ -100,6 +109,7 @@ abstoßen /ˈapʃtoːsən/: to push off, to reject
 abstoßend /ˈapʃtoːsənt/: abhorrent, revolting
 
 abwischen /ˈapvɪʃən/: to wipe off
+  => wischen: to wipe
 
 Achsel /ˈaksəl/, die: shoulder, armpit
 
@@ -148,6 +158,8 @@ als /als/: when, than, only, as if, as
   als Lehrer arbeiten: to work as a teacher
 
 altbewährt: well-proven
+  => bewährt: proven
+  => bewähren: to prove
 
 Alter /ˈaltɐ/, das: age, old age
   im Alter von 50 Jahren: at the age of 50
@@ -195,6 +207,11 @@ Angabe /ˈanɡaːbə/, die: information, statement
   He made false statements to the police.
 
 angeln /ˈaŋəln/: to fish
+
+angemessen /ˈanɡəmɛsən/: suitable, appropriate
+  In diesem Fall fände ich es angemessener zu schweigen.
+  In this case I think it would be better to remain silent.
+  => gemessen: appropriate
 
 angewurzelt /anɡəˈvʊrʦɛlt/: rooted to the spot
 
@@ -275,6 +292,8 @@ archivieren /arçiˈviːrən/: to archive
   Dokumente/Berichte archivieren: to archive documents/reports
 
 Ärger /ˈɛrɡɐ/, der: anger
+
+ärgern /ˈɛrɡɐn/: to annoy, to make angry
 
 Arm /arm/, der: arm
 
@@ -362,6 +381,18 @@ aus-: away, removed, turned off
 Ausblick /ˈausblɪk/, der: view, outlook, perspective
   ein Zimmer mit Ausblick aufs Meer
   a room with a view of the sea
+
+ausfallen /ˈausfalən/: to be cancelled, to fail, to malfunction, to fall out
+  Leider muss das Fest heute Abend ausfallen.
+  Unfortunately tonight's party has to be cancelled.
+  Weil die Ernte ausfiel, brach eine Hungersnot aus.
+  Famine broke out because the crop failed.
+  Der Lift ist ausgefallen.
+  The elevator is out of order.
+  Das Wachstum ist höher/niedriger ausgefallen als erwartet.
+  Growth has been higher/lower than expected.
+  Dem Vogel fallen die Federn aus.
+  The bird is losing its feathers.
 
 Ausflug /ˈausfluːk/, der: trip, excursion
 
