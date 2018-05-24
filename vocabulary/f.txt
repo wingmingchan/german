@@ -28,12 +28,20 @@ Fall /fal/, der: case
   etw. ist der Fall: sth is the case
 
 fallen /ˈfalən/: to fall
+  falle, fällst, fällt, ihr fallt, bin gefallen
+  fiel, fielst, fiel, fielen, ihr fielt
 
 falsch /falʃ/: wrong, false, faked
+
+fände => finden
 
 fangen /ˈfaŋən/: to bag, to capture, to catch, to trap
   Hast du schon einen Fisch gefangen?
   Have you caught a fish yet?
+
+fassbar /ˈfasbaːɐ/: comprehensible
+  Es ist kaum/schwer fassbar, dass sie das getan haben soll.
+  It's hard to believe that she could have done that.
 
 fast /fast/: almost
 
@@ -105,6 +113,7 @@ fielen => fallen: to be fired
 
 finden /ˈfɪndən/: to find
   finde, findest, findet, habe gefunden
+  fand, fandest, fanden, ihr fandet
 
 Finnland /ˈfɪnlant/
 
