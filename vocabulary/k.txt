@@ -139,6 +139,10 @@ Kost /kɔst/, die: food
 
 Kostprobe , die: taste, sample
 
+krachen /ˈkraxən/: to crash, to bang
+  An der Kreuzung kracht es öfter.
+  There are often accidents at the intersection.
+
 Kraft /kraft/, die: strength
 
 kräftig /ˈkrɛftiç/: powerful, strong, healthy
@@ -160,6 +164,8 @@ kreuzen /ˈkrɔyʦən/: to cross, to meet
   kreuze, kreuzt, kreuzt, habe gekreuzt
   Unsere Wege kreuzten sich zufällig.
   Our paths crossed by chance.
+
+Kreuzung /ˈkrɔyʦʊŋ/, die: intersection
 
 Krieg /kriːk/, der: war
 
