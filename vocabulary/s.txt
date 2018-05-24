@@ -218,7 +218,11 @@ Schweden /ˈʃveːdən/
 
 *Schwefel /ˈʃveːfəl/, der: sulfur
 
-schwer /ʃveːɐ/: severe, difficult
+schweigen /ˈʃvaiɡən/: to remain silent
+  Er sah mich betroffen an und schwieg.
+  He looked at me in dismayed silence.
+
+schwer /ʃveːɐ/: heavy, severe, difficult
 
 schwierig /ˈʃviːrɪç/: difficult
 
@@ -279,6 +283,8 @@ Service ˈsøːɐvɪs/, der: service, custom service
 
 setzen /ˈzɛʦən/: to sit
 
+sexuell /zɛˈksuɛl/: sexual
+
 sicher /ˈzɪçɐ/: certain, clear, positive, safe, secure, steady, sure
 
 Sicherheit /ˈzɪçɐhait/, die: safety, security, certainty
@@ -328,7 +334,9 @@ solch /zɔlç/: such
   Such impertinence!
   mit solchem Unsinn
 
-sollen /ˈzɔlən/: to have to, shall
+sollen /ˈzɔlən/: to have to, shall, to be supposed
+  Diese neue Therapie soll ja sehr erfolgreich sein.
+  This new therapy is supposed to be very successful.
 
 Sommer /ˈzɔmɐ/, der:
   Nächsten Sommer wollen wir verreisen.
