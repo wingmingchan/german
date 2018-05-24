@@ -66,6 +66,12 @@ Gefühl /ɡəˈfyːl/, das: feeling
 gegen /ˈɡeːɡən/: against, toward
   gegen Missstände protestieren/vorgehen: to protest/act against social evils
 
+gegenüber /ɡeːɡənˈ|yːbɐ/: opposite, compared to, in comparison with, toward(s)
+  Die Post ist genau gegenüber dem Bäcker.
+  The post office is opposite the baker's.
+  Erwachsenen gegenüber ist sie immer sehr höflich.
+  She's always very polite toward adults.
+
 Gegenstelle, die: remote terminal, distant end
 
 gegenüber /ɡeːɡənˈ|yːbɐ/: opposite
@@ -131,6 +137,9 @@ gemächlich /ɡəˈmɛːçlɪç/: leisurely , unhurried
 gemeinsam /ɡəˈmainzaːm/: common, joint, mutual, united, collectively, together, in common, in concert
   gemeinsam wandern/singen: to go hiking/to sing together
 
+gemessen /ɡəˈmɛsən/: measured, appropriate
+  => messen: to measure
+
 genau /ɡəˈnau/: exactly
   Das geschah vor genau vier Jahren.
   That happened exactly four years ago.
@@ -169,8 +178,6 @@ Geschichte /ɡəˈʃɪçtə/, die: story
 Gesetz /ɡəˈzɛʦ/, das: law
   die Gesetze befolgen/einhalten: to abide by/stick to the laws
 
-gewandt /ɡəˈvant/: skillful
-
 gestern /ˈɡɛstɐn/: yesterday
 
 gesund /ɡəˈzʊnt/: healthy
@@ -189,6 +196,8 @@ gewaltsam /ɡəˈvaltzaːm/: violent
   die gewaltsame Vertreibung der Dorfbewohner: the violent expulsion of the villagers
 
 Gewalttat /ɡəˈvalttaːt/, die: act of violence
+
+gewandt /ɡəˈvant/: skillful
 
 Gewerkschaft /ɡəˈvɛrkʃaft/, die: labor union
 
