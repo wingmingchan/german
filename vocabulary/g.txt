@@ -264,6 +264,12 @@ Grün /ɡryːn/, das: green
 
 Grund /ɡrʊnt/, der: reason
 
+gültig /ˈɡʏltɪç/: valid, accepted
+  der im Moment gültige Fahrplan/Tarif
+  the currently valid timetable/pricelist
+  
+Gültigkeit /ˈɡʏltɪçkait/, die: validity
+
 günstig /ˈgʏnstɪç/: favorable, convenient
   ein Haus in günstiger Lage: a conveniently located house
   eine Veränderung, die sich günstig auswirkt: a change with favorable consequences
