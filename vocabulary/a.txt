@@ -101,6 +101,10 @@ absetzen /ˈapzɛʦən/: to drop sb off
   Kannst du mich bitte an der Schule absetzen?
   Can you drop me off at the school, please?
 
+Abstand /ˈapʃtant/, der: distance
+  zehn Meter Abstand zum vorausfahrenden Auto halten
+  to keep ten meters distance from the car in front
+
 abstehen /ˈapʃteːən/: to stick out, to stand away
   abstehende Ohren haben: to have protruding ears
 
@@ -110,6 +114,10 @@ abstoßend /ˈapʃtoːsənt/: abhorrent, revolting
 
 abwischen /ˈapvɪʃən/: to wipe off
   => wischen: to wipe
+
+abzocken /ˈapʦɔkən/: to rip off
+  Vorsicht, bei solchen Angeboten wird man nur abgezockt!
+  Be careful – offers like that are one big rip-off!
 
 Achsel /ˈaksəl/, die: shoulder, armpit
 
@@ -135,6 +143,10 @@ Aktie /ˈakʦjə/, die: share, stock
   sein Vermögen in Aktien anlegen: to invest your fortune in shares
 
 Aktien => Aktie
+
+Albtraum /ˈalptraum/, der: nightmare
+  Die Fahrt war der reinste Albtraum!
+  The journey was an absolute nightmare.
 
 allerdings /ˈalɐˈdɪŋs/: however, indeed
   Die Suppe ist gut, allerdings ein bisschen scharf.
@@ -225,7 +237,7 @@ Angst /aŋst/, die: fear, worry
 angst
   jd hat/bekommt Angst: sb is/gets scared (stiff)
 
-Anhänger, der: trailer, pendant
+Anhänger, der: trailer, pendant, follower
 
 ankündigen /ˈankʏndɪɡən/: to announce
   Muss der Lehrer solche Tests ankündigen?
@@ -255,6 +267,10 @@ ansetzen /ˈanzɛʦən/: to schedule, to estimate, to develop, to place
   Do you know where you need to focus on?
 
 Ausrutscher /ˈausrʊtʃɐ/, der: slip, slip-up
+
+Art, die: sort, kind, species, way
+
+Arthritis /arˈtriːtɪs/, die
 
 antrocknen: to begin to dry
 
@@ -356,6 +372,8 @@ Auflistung, die: listing
 
 Auflösung /ˈaufløːzʊŋ/, die: resolution, disintegration
 
+aufmarschieren: march up
+
 Aufnahme /ˈaufnaːmə/, die: photo, shot
 
 aufpassen /ˈaufpasən/: to be careful, to pay attention
@@ -381,6 +399,8 @@ aus-: away, removed, turned off
 Ausblick /ˈausblɪk/, der: view, outlook, perspective
   ein Zimmer mit Ausblick aufs Meer
   a room with a view of the sea
+
+ausdrücken /ˈausdrʏkən/: to express
 
 ausfallen /ˈausfalən/: to be cancelled, to fail, to malfunction, to fall out
   Leider muss das Fest heute Abend ausfallen.
@@ -433,6 +453,11 @@ Aussehen /ˈauszeːən/, das: appearance
 
 aussehen /ˈauszeːən/: to look
   krank/gesund aussehen: to look ill/healthy
+
+aussetzen /ˈauszɛʦən/
+  etw. an jdm/etw. aussetzen: to find fault with sb/sth
+  Er hat ständig etwas an mir auszusetzen.
+  He finds fault with everything I do.
 
 aussteigen /ˈausʃtaiɡən/: to get out, disembark, to drop out
   Sind die Passagiere schon alle ausgestiegen?
