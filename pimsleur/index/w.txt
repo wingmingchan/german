@@ -53,6 +53,8 @@ weit 1.22.10:07
 
 welche 1.23.14:38
   Welche ist die richtige Straße? 1.24.12:52
+  welches Buch 3.4.09:59
+  welcher Weg 3.9.25:49
 
 wem 1.8.15:57
   mit wem? 1.8.15:51
@@ -81,6 +83,7 @@ wie 1.2.05:11
   Wie bitte? 1.8.00:42
   wie wäre es mit/wie wär's mit 2.4.18:02
   Wie ist das Wetter? 2.13.07:46
+  so teuer wie 3.7.12:24
 
 Wiederhören
   Auf Wiederhören 1.12.00:31, 1.13.06:50
@@ -107,14 +110,24 @@ Woche, die 1.29.03:31
 
 Wochenende 2.27.11:34
 
+woher 3.1.14:29
+  Woher kommen Sie? 3.1.14:24
+
 wohin 1.15.00:13
   Wohin fahren Sie? 1.23.00.07
 
 wohnen 1.19.10:44
 
+Wohnung, die 3.8.09:25
+
 wollen
   wollen wir 2.5.19:16
+  wollten 3.7.14:25
+  wollte 3.7.15:59
+  wolltest 3.7.15:11
 
 Wort, das 1.28.07:41
+
+worüber 3.6.10:02
 
 wunderbar 1.18.00:08
