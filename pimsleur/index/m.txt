@@ -13,6 +13,8 @@ man
   wie sagt man 1.23.03:15
   So fragt man 1.23.07:50
 
+Manager 3.2.22:44
+
 manchmal 2.4.03:41
 
 Mannheim 2.16.04:00
@@ -31,6 +33,8 @@ Meier 1.2.06:50
 
 mein 1.18.06:19
   meine 07:45
+
+meisten 3.10:10:14
 
 mich 1.15.06:48
   Ich gehe auch mich 1.16.21:26
@@ -88,6 +92,9 @@ mögen
 
 Moment, der 1.23.06:54
 
+Monat, der 3.8.10:51
+  nächsten Monat 3.1.06:19
+
 Montag 2.2.01:36
 
 morgen 1.11.12:07
@@ -95,5 +102,7 @@ morgen 1.11.12:07
 Mozartstraße 1.5.08:19
 
 München 1.26.04:25
+
+Münster, das 3.10.12:24
 
 müssen 2.2.14:22
