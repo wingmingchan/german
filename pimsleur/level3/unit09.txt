@@ -24,6 +24,7 @@ Neben dem Haus. Dort ist viel Platz für mein Auto.
 03:13 Das Wetter ist prima.
 03:28 Wir sollten später einen Spaziergang machen.
 03:54 Wir könnten zum Park gehen.
+/park/
 04:04 Park, der
 04:17 im Park
 04:32 Möchten Sie einen Spaziergang im Park machen?
