@@ -35,6 +35,8 @@ in
   in die Schweiz 2.13.05:27
   Es gefällt mir in der Schweiz 2.15.07:20
 
+Ingenieur 3.3.09:45
+
 ins => in das
   ins Kino 2.8.22:33
 
