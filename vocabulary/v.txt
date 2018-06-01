@@ -37,7 +37,9 @@ Verbraucher /fɛɐˈbrauxɐ/, Verbraucherin: consumer
 Verbrechen /fɛɐˈbrɛçən/, das: crime
   ein Verbrechen begehen: to commit a crime
 
-verdienen /fɛɐˈdiːnən/: to earn
+verdienen /fɛɐˈdiːnən/: to earn, to make, to deserve
+  Wie viel verdient dein Mann?
+  How much does your husband earn?
 
 Vereinigung /fɛɐˈ|ainɪɡuŋ/, die: organization
 
@@ -122,6 +124,8 @@ verlieren /fɛɐˈliːrən/: to lose
 
 verloren => verlieren
 
+verlumpt: worn-out
+
 Verlust /fɛɐˈlʊst/, der: loss
 
 vermeiden /fɛɐˈmaidən/: to avoid
@@ -149,6 +153,10 @@ Verpflegung /fɛɐˈpfleːɡʊŋ/, die: food, catering
   Have you taken enough food for the trip?
 
 verraten /fɛɐˈraːtən/: to tell, to reveal
+
+versammeln /fɛɐˈzaməln/: to gather, to assemble
+
+versammelt => versammeln
 
 verschaffen /fɛɐˈʃafən/: to get, to obtain
   Ich kann dir günstige Konzertkarten verschaffen.
@@ -239,6 +247,10 @@ völlig /ˈfœlɪç/: completely, totally
   Völlige Freiheit kann es nicht geben.
   Total freedom can't exist.
 
+voraus /foˈraus/: ahead, in front
+  Andere Länder sind uns in Sachen Bildungspolitik weit voraus.
+  Other countries are way ahead of us in terms of educational policy.
+
 Voraussetzung /foˈrauszɛʦʊŋ/, die: assumption, prerequisite, requirement
   unter der Voraussetzung, dass …: on condition that …
   unter bestimmten Voraussetzungen: under certain circumstances
@@ -275,6 +287,8 @@ vorkommen /ˈfoːɐkɔmən/: to happen, to occur, to be found, to seem, to come 
   That seems strange to me.
 
 vorn /fɔrn/: in front
+
+Vorsicht /ˈfoːɐzɪçt/, die: caution, care
 
 vorsichtig /ˈfoːɐzɪçtɪç/: careful, cautious
   eine vorsichtige Schätzung
