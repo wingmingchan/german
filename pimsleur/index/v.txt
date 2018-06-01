@@ -2,7 +2,12 @@
 V /fau/ V wie Viktor
 ========================================================
 
+verheiratet 3.2.12:22
+
 Verkäuferin 1.14.00:04
+
+verkaufen
+  verkauft 3.4.16:18
 
 Vergnügen 2.28.27:27
 
@@ -44,4 +49,9 @@ vorher 2.6.24:24
 
 Vormittag, der 2.27.21:44
 
+vorne 3.8.15:28
+  nach vorne 3.9.10:07
+
 vorstellen 2.11.21:32
+  Das kann ich mir vorstellen 2.11.21:21
+  Darf ich mich vorstellen? 3.1.12:12
