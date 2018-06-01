@@ -70,6 +70,8 @@ decken /ˈdɛkən/: to cover
   eine Decke über einen Verletzten decken
   to cover an injured man with a blanket
 
+Demenz /deˈmɛnʦ/, die: dementia
+
 demolieren /demoˈliːrən/: to trash, to wreck
 
 denken /ˈdɛŋkən/: to think
@@ -118,6 +120,10 @@ Diamant /diaˈmant/, der: diamond
 
 Diät /diˈɛːt/, die: diet
 
+dick /dɪk/: fat, thick
+  Er ist dick geworden.
+  He's gotten fat.
+
 Dienst /diːnst/, der: service
   der öffentliche Dienst: the civil service
 
@@ -128,8 +134,14 @@ Ding, das: thing
 direkt /diˈrɛkt/: direct
   der direkte Weg zum Flughafen: the direct way to the airport
 
+Diskriminierung /dɪskrimiˈniːrʊŋ/, die: discrimination
+
 doppelt /ˈdɔpəlt/: double
   die doppelte Menge: double the amount
+
+Drama /ˈdraːma/, das
+
+drastisch /ˈdrastɪʃ/: strong, drastic
 
 draußen /ˈdrausən/: outside
   Er war schon seit Tagen nicht mehr draußen.
@@ -153,6 +165,9 @@ drehen /ˈdreːən/: to turn, to rotate, to spin, to shoot (photo, film)
   Sie drehte den Kopf zur Seite/nach links.
   She turned her head to the side/to the left.
 
+Droge /ˈdroːɡə/, die: drug
+  Drogen-Dealer
+
 Drogenhandel /ˈdroːɡənhandəl/, der: drug dealing/trafficking
 
 drohen /ˈdroːən/: to threaten, to impend
@@ -160,7 +175,7 @@ drohen /ˈdroːən/: to threaten, to impend
   Er hat mir mit der Faust gedroht.
   He threatened me with his fist.
 
-drücken: to push
+drücken: to push, to press
   (auf) die Austaste drücken: to press the off button
 
 dumm /dʊm/: dumb, stupid
