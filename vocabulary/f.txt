@@ -89,6 +89,10 @@ Ferkel /ˈfɛrkəl/, das: piglet
 
 fernhalten /ˈfɛrnhaltən/: to keep away
 
+fertig /ˈfɛrtɪç/: ready, finished
+  Ich bin fertig, wir können gehen.
+  I'm ready – we can go now.
+
 fest /fɛst/: firm, solid
 
 Festnahme /ˈfɛstnaːmə/, die: arrest
@@ -114,6 +118,8 @@ fielen => fallen: to be fired
 finden /ˈfɪndən/: to find
   finde, findest, findet, habe gefunden
   fand, fandest, fanden, ihr fandet
+
+fingen => fangen
 
 Finnland /ˈfɪnlant/
 
@@ -185,6 +191,8 @@ fordern /ˈfɔrdɐn/: to demand, to press for, to claim lives
   Die Schwachen sollen in der Schule gefördert und die Starken gefordert werden.
   At school, the weak students should be encouraged and the strong ones challenged.
 
+fördern /ˈfœrdɐn/: to promote, to support
+
 Form /fɔrm/, Formen: form, shape
   Die Schüssel hatte eine ovale Form.
   The key has an oval form.
@@ -250,6 +258,14 @@ Frühling /ˈfryːlɪŋ/, der: spring
 
 fuhr => fahren
 
+führen /ˈfyːrən/: to take, to lead, to show, to bring
+  jdn zu seinem Platz führen: to show sb to their seat
+  Touristen durch die Stadt führen: to show tourists around town
+  Der Weg führte über Felder und durch Wälder zum See.
+  The path led over fields and through forests to the lake.
+
+Führung: leadership
+
 Fülle /ˈfʏlə/, die: fullness, volume
   Dieses Shampoo gibt Ihrem Haar Fülle.
   This shampoo gives your hair volume.
@@ -259,11 +275,5 @@ füllen /ˈfʏlən/: to fill
 
 funktionieren /fʊŋkʦjoˈniːrən/: to function, to work
   Geburtstag /ɡəˈbuːɐʦtaːk/: birthday
-
-führen /ˈfyːrən/: to take, to lead, to show, to bring
-  jdn zu seinem Platz führen: to show sb to their seat
-  Touristen durch die Stadt führen: to show tourists around town
-  Der Weg führte über Felder und durch Wälder zum See.
-  The path led over fields and through forests to the lake.
 
 Fuß /fuːs/, der: foot
