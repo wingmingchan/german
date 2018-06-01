@@ -14,6 +14,8 @@ Tante, die: aunt
 
 Tasche /ˈtaʃə/, die: pocket, bag
 
+tat => tun
+
 Täter /ˈtɛːtɐ/: culprit
   Die Polizei hat den mutmaßlichen Täter verhaftet.
   The police have arrested the suspect.
@@ -118,6 +120,8 @@ Träne /ˈtrɛːnə/, die: tear
 
 Tränengas: tear gas
 
+trat => treten: to enter
+
 traurig /ˈtraurɪç/: sad, unhappy
   Warum bist du heute so traurig?
   Why are you so sad today?
@@ -130,9 +134,17 @@ treffen /ˈtrɛfən/: to hit, to meet
   Ich habe sie gestern zufällig in der Stadt getroffen.
   I met her by chance in town yesterday.
 
-treten /ˈtreːtən/: to kick, to trample, to tread
+treiben /ˈtraibən/: to drive
+  Die Hirten trieben die Schafe in den Stall.
+  The shepherds drive the sheep into the pen.
+
+treten /ˈtreːtən/: to kick, to trample, to tread, to enter
   jdm gegen das Schienbein/auf den Fuß treten
   to kick sb in the shin/tread on sb's foot
+  mit jdm in Verhandlungen/in Kontakt treten
+  to enter into negotiations/get in touch with sb
+
+trieb => treiben
 
 trinken: to drink
   trinke, trinkst, trinkt, habe getrunken
