@@ -132,6 +132,10 @@ Schluss /ʃlʊs/, der: end, conclusion
 
 Schlüssel /ˈʃlʏsəl/, der: key
 
+schmähen /ˈʃmɛːən/: to revile
+  Sie schmähten ihn als Feigling.
+  They reviled him as a coward.
+
 Schmatz /ʃmaʦ/, der: smacker
   Sie gab ihm einen dicken Schmatz auf die Backe.
   She gave him a big smacker on the cheek.
@@ -170,6 +174,10 @@ Schrott /ʃrɔt/, der: scrap, garbage
   Im Fernsehen kommt wieder nur Schrott!
   There's just garbage on TV again.
 
+Schubs /ʃʊps/, der: shove, push
+  Sie gab dem Schlitten einen Schubs, sodass er sich in Bewegung setzte.
+  She gave the sled a push to get it moving.
+
 Schuh /ʃuː/, der: shoe
   ein Paar Schuhe: a pair of shoes
 
@@ -193,9 +201,7 @@ Schule /ˈʃuːlə/, die: school
 schulen /ˈʃuːlən/: to train
   Mitarbeiter im Umgang mit der neuen Software schulen: to train employees to use the new software
 
-Schubs /ʃʊps/, der: shove, push
-  Sie gab dem Schlitten einen Schubs, sodass er sich in Bewegung setzte.
-  She gave the sled a push to get it moving.
+schmutzig /ˈʃmʊʦɪç/: dirty
 
 Schuss /ʃʊs/, Schüsse, der: shot
 
@@ -234,6 +240,13 @@ schwingen /ˈʃvɪŋən/: to swing
   schwinge, schwingst, schwingt, habe geschwungen
   Er schwang drohend einen Knüppel.
   He brandished a club menacingly.
+
+schwören /ˈʃvøːrən/: to swear
+  einen Eid auf die Verfassung schwören: to swear (an oath) on the constitution
+
+Schwur /ʃvuːɐ/, der: oath
+
+schwur => schwören
 
 See /zeː/, der: lake, sea
 
@@ -421,7 +434,7 @@ Stadtteil /ˈʃtattail/, der: district
 
 *Stahl /ʃtaːl/, der: steel
 
-ständig /ˈʃtɛndɪç/: permanent
+ständig /ˈʃtɛndɪç/: permanent, constantly
    Unterbrich mich nicht ständig!
    Quit interrupting me all the time! 
 
