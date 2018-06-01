@@ -13,6 +13,9 @@ acht
   
 achtzehn 1.14.09:01
 
+Adler, der 
+  Zum Adler 3.8.07:55
+
 Adresse, die
   die Adresse ist 2.18.03:56
 
@@ -20,6 +23,9 @@ alleine 1.27.16:12
 
 alles 2.19.05:41
   Ist das alles? 2.19.10:44
+
+Alpen
+  Zu Den Alpen 2.30.04:19
 
 als 2.1.27:20
 
@@ -71,6 +77,8 @@ auf 1.2.11:02
   auf Deutsch 1.22.01:35
   auf dem Plan 2.29.15:27
   
+aufgewachsen 3.1.16:49
+
 aus 2.4.09:44
   Sie kommt aus Amerika 2.4.10:11
   
