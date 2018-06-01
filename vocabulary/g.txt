@@ -2,6 +2,9 @@
 G /ɡeː/ G wie Gustav
 ========================================================
 
+Gabe /ˈɡaːbə/, die: gift
+  milde Gabe: donation
+
 Gämse /ˈɡɛmzə/, die: chamois
 
 Ganges , der
@@ -175,8 +178,16 @@ geschehen /ɡəˈʃeːən/: to happen
 
 Geschichte /ɡəˈʃɪçtə/, die: story
 
+Geschick /ɡəˈʃɪk/, das: skill, fate
+
+Geschicklichkeit /ɡəˈʃɪklɪçkait/, die: skillfulness
+  jds handwerkliche Geschicklichkeit bewundern
+  to admire sb's skillfulness with their hands
+
 Gesetz /ɡəˈzɛʦ/, das: law
   die Gesetze befolgen/einhalten: to abide by/stick to the laws
+
+gesperrt: blocked, closed
 
 gestern /ˈɡɛstɐn/: yesterday
 
@@ -205,6 +216,8 @@ Gewerkschaft /ɡəˈvɛrkʃaft/, die: labor union
   Draußen tobte ein heftiges Gewitter.
   A heavy thunderstorm was raging outside.
 
+geworden => werden
+
 gezogen => ziehen
 
 Gin, der
@@ -214,10 +227,16 @@ ging => gehen
 Gipfel /ˈɡɪpfəl/, der: summit, peak
   den Gipfel besteigen
   to climb to the top of the mountain
+  Gipfelkonferenz: summit meeting
 
 gleich /ɡlaiç/: same, equal
   Die beiden Arbeiten haben die gleiche Zahl von Fehlern.
   The two papers have the same number of mistakes.
+
+Gleichberechtigung /ˈɡlaiçbərɛçtɪɡʊŋ/: equal rights
+  gleich => same
+  Berechtigung => right, entitlement
+  gerecht => fair, just
 
 gleichen /ˈɡlaiçən/: to resemble, to be similar
   Die Schwestern gleichen sich sehr.
@@ -225,7 +244,15 @@ gleichen /ˈɡlaiçən/: to resemble, to be similar
 
 Gletscher /ˈɡlɛʧɐ/, der: glacier
 
+glücklich /ˈɡlʏklɪç/: happy, lucky, fortunate
+  Ich bin so glücklich mit dir!
+  I'm so happy for you.
+
 glucksen /ˈɡlʊksən/: to gurgle, to burble, to chortle
+
+Gnade /ˈɡnaːdə/, die: mercy
+
+gnadenlos: merciless
 
 Gold /ɡɔlt/, das
 
@@ -270,7 +297,7 @@ gültig /ˈɡʏltɪç/: valid, accepted
   
 Gültigkeit /ˈɡʏltɪçkait/, die: validity
 
-günstig /ˈgʏnstɪç/: favorable, convenient
+günstig /ˈgʏnstɪç/: favorable, convenient, reasonable
   ein Haus in günstiger Lage: a conveniently located house
   eine Veränderung, die sich günstig auswirkt: a change with favorable consequences
   günstig einkaufen: to buy things at attractive prices
