@@ -16,9 +16,18 @@ schade 1.28.06:59
 schlecht 1.29.00:24
   nicht schlecht 1.29.11:38
 
+schließen
+  schließt 3.9.15:59
+
+Schloss, das 3.9.11:59
+  zum Schloss 3.9.12:08
+  Schlossgarten 3.9.18:58
+
 Schnee, der 2.30.14:38
 
 schnell 1.17.11:45
+
+Schnitzel, das 3.4.20:52
 
 Schokolade, die 2.13.22:19
 
@@ -47,6 +56,8 @@ Schweiz, die 2.11.19:12
   
 Schweizer 2.2.26:02
 
+Schwester 3.2.15:38
+
 sechs
   Um sechs Uhr 1.11.05:44
 
@@ -58,6 +69,9 @@ sein 2.8.00:25
 
 seit 1.28.10:48
   seit ein paar Tagen 1.28.10:43
+  seit letzter Woche
+  seit letztem Jahr
+  seit letztem Monat 3.8.10:47
 
 sicher
   sicher nicht 1.9.23:11
@@ -74,13 +88,19 @@ siebzehn 1.14.08:09
 sind 1.1.15:29
   Sie sind 1.1.15:29
 
+sitzen 3.10.15:44
+
 so
   wie so? 2.13.13:40
   Er hat so viel Arbeit 2.13.14:21
+  so teuer wie 3.7.12:24
 
 sofort 2.22.04:32
 
 Sohn 1.21.04:57
+
+sollen
+  ich sollte 3.8.04:08
 
 Sommer, der 2.30.18:31
 
@@ -88,9 +108,17 @@ Sonnabend 2.9.11:30
 
 Sonntag 2.27.12:11
 
+sonst 3.5.20:32
+  sonst noch etwas 3.5.20:58
+
 spät 1.11.07:28
 
 später 1.6.12:08
+
+Spaziergang, der 3.8.22:58
+  einen Spaziergang machen 3.8.23:11
+
+Speisekarte, die 3.4.18:47
 
 spielen 2.22.14:32
 
@@ -105,6 +133,12 @@ sprechen 1.4.03:55
 Stadt, die 2.1.16:34
 
 Stadtplan, der 2.28.24:04
+
+stehen
+  steht 3.8.14:47
+
+stimmen
+  stimmt 3.9.16:33
 
 Straße 1.4.08:44
   die Straße 1.4.08:44
