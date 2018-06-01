@@ -52,6 +52,10 @@ warnen /ˈvarnən/: to warn
   Ich warne dich, mach das ja nicht noch mal!
   I'm warning you. Don't do that again!
 
+wart => sein
+
+wart (imperative du) => warten
+
 waschen /ˈvaʃən/: to wash
 
 Wasserwerfer, der: water cannon
@@ -205,6 +209,8 @@ womöglich /voˈmøːklɪç/: possibly
 Woran /voˈran/: on what
 
 worden => werden
+
+wundern /ˈvʊndɐn/: to be surprised, to surprise
 
 Wunsch /vʊnʃ/, der: wish
 
