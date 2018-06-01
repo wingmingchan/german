@@ -1,6 +1,6 @@
 ﻿Dative
 ======
-aus, außer, bei, mit, nach, neben, seit, unter, von, zu
+auf, aus, außer, bei, mit, nach, neben, seit, unter, von, zu
 Singular masculine and neuter: use -em
 Singular feminine: use -er
 Plural (kein): use -en
