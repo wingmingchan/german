@@ -15,6 +15,8 @@ Bäcker /ˈbɛkɐ/, Bäckerin: baker
 
 Bäckerei /bɛkəˈrai/, die: bakery
 
+baff /baf/: flabbergasted
+
 bahnen /ˈbaːnən/: to clear the way for sb to sth
 
 bald /balt/: soon
@@ -32,7 +34,19 @@ band => binden
 
 Bande /ˈbandə/, die: gang
 
+Bann /ban/, der: spell
+  jdn in seinen Bann ziehen: jdn faszinieren, to captivate sb
+
 Base /ˈbaːzə/, die: base
+
+basieren /baˈziːrən/
+  etw. basiert auf etw.: sth is based on sth
+
+bat => bitten
+
+Bau, der: building, construction
+  mit dem Bau des Kindergartens beginnen
+  to start with the construction of the kindergarten
 
 bauen /ˈbauən/: to build
   baue, baust, baut, habe gebaut
@@ -54,6 +68,10 @@ beantragen /bəˈ|antraːɡən/: to apply for
 Beben /ˈbeːbən/, das: quake
   ein Beben der Stärke 8 auf der Richter-Skala
   an earthquake with a magnitude of 8 on the Richter scale
+
+bedauerlich /bəˈdauɐlɪç/: regrettable, unfortunate
+
+bedauern /bəˈdauɐn/: to regret, to be sorry
 
 bedecken /bəˈdɛkən/: to cover sb with sth, to blanket
 
@@ -134,6 +152,8 @@ Beitrag /ˈbaitraːk/, der: contribution
 Beitragszahler: contributor
 
 bekennen /bəˈkɛnən/: to confess, to admit
+
+beklagen /bəˈklaːɡən/: to complain, to lament, to mourn
 
 bekommen /bəˈkɔmən/: to get, to receive, to have
 
@@ -217,6 +237,13 @@ Beschäftigte /bəˈʃɛftɪçtə/: employee
 
 Bescheid /bəˈʃait/, der: notification
 
+beschimpfen /bəˈʃɪmpfən/: to insult, to swear at, to abuse
+  jdn am Telefon wüst beschimpfen: to hurl abuse at sb on the phone
+
+besetzen /bəˈzɛʦən/: to fill, to reserve, to occupy
+  eine Führungsposition neu besetzen
+  to find someone new to fill an executive position
+
 besitzen /bəˈzɪʦən/: to own
   habe besessen, besaß, besaßest
   Er besitzt ein Haus am Meer.
@@ -272,6 +299,11 @@ betrügen /bəˈtryːɡən/: to cheat
   Er lügt und betrügt, wann es ihm passt.
   He lies and cheats whenever it's to his advantage.
 
+betteln /ˈbɛtəln/: to beg
+  auf der Straße um Brot betteln: to beg for bread on the street
+
+Bettler /ˈbɛtlɐ/: beggar
+
 Bevölkerung /bəˈfœlkərʊŋ/: population, people
 
 bevor /bəˈfoːɐ/: before
@@ -303,6 +335,8 @@ bezahlen /bəˈʦaːlən/: to pay for
 bewerfen /bəˈvɔrfən/: to pelt, to bombard
   jdn/etw mit etw bewerfen: to throw sth at sb/sth
 
+bewundern /bəˈvʊndɐn/: to admire
+
 bezaubern: bewitch, charm, enchant
 
 bezwingen /bəˈʦvɪŋən/: to defeat
@@ -322,6 +356,10 @@ Bild, das: painting, picture
 bilden /ˈbɪldən/: to form, to constitute
   Nehmt euch an den Händen und bildet einen Kreis.
   Take each other by the hand and form a circle.
+
+Bildung /ˈbɪldʊŋ/, die: education, forming
+  eine Partei mit der Regierungsbildung beauftragen
+  to assign a party the task of forming a government
 
 billig /ˈbɪlɪç/: cheap
    einen billigen Flug /fluːk/ buchen: to book a cheap flight 
