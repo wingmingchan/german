@@ -2,6 +2,10 @@
 E /eː/ E wie Emil
 ========================================================
 
+eben /ˈeːbən/: flat, level, just (gerade jetzt)
+
+ebenfalls: likewise
+
 ebenso /ˈeːbənzoː/: just as
   Sie hat das ebenso gemacht wie du.
   She did it the same way you did.
@@ -12,7 +16,21 @@ Ecke /ˈɛkə/, die: edge, corner
   Er hat sich an der Ecke des Schranks gestoßen.
   He bumped into the corner of the closet.
 
+edel /ˈeːdəl/: noble, fine, premium, pure
+
+Edelleute: nobles
+
+Edelmetall /ˈeːdəlmetal/, das: precious metal
+
+edelmütig /ˈeːdəlmyːtɪç/: generous, magnanimous
+
+Edelstein /ˈeːdəlʃtain/, der: precious stone
+
 effektiv /ɛfɛkˈtiːf/: effective
+
+egal /eˈɡaːl/: whatever, irrelevant
+  „Wann soll ich kommen?‟ – „Das ist ganz egal.‟
+  "When should I come?" – "Any time."
 
 eher /ˈeːɐ/: rather
 
@@ -21,6 +39,8 @@ ehrlich /ˈeːɐlɪç/: honest
   Do you want an honest answer?
 
 Ei /ai/, das: egg
+
+Eid /ait/, der: oath
 
 eigen /ˈaiɡən/: own
   Hast du ein eigenes Auto?
@@ -86,6 +106,8 @@ einliefern /ˈainliːfɐn/: to take
 
 einlud => einladen
 
+Einrede, die: objection, protest, contradiction
+
 Einsatz /ˈainzaʦ/, der: operation, deployment, use, effort, commitment
 
 einschleichen /ˈainʃlaiçən/: to sneak in
@@ -125,6 +147,8 @@ eklatant /eklaˈtant/: glaring, striking
   ein eklatanter Altersunterschied: a striking difference in age
 
 Elektrogerät, das: electrical appliance
+
+Ell(en)bogen /ˈɛl(ən)boːɡən/, der: elbow
 
 Ellipse /ɛˈlɪpsə/, die: ellipse
 
@@ -175,6 +199,8 @@ entgegenstellen: to set against
 
 entmannen: to castrate
 
+entschärfen /ɛntˈʃɛrfən/: to defuse, to disarm
+
 entscheiden /ɛntˈʃaidən/: to decide, to judge, to rule
 
 entscheidend /ɛntˈʃaidənt/: vital, crucial, decisive
@@ -188,6 +214,8 @@ entschuldigen /ɛntˈʃʊldɪɡən/: to excuse, to pardon
   ent-: used to express that a process is reversed
   Hast du dich bei deiner Lehrerin entschuldigt?
   Did you apologize to your teacher?
+
+entstehen /ɛntˈʃteːən/: to originate, to arise, to come into being
 
 entwickeln /ɛntˈvɪkəln/: to develop
 
@@ -302,6 +330,12 @@ erreichen /ɛɐˈraiçən/: to reach, to get hold of, to arrive at
   In Kürze erreichen wir München.
   We are now approaching Munich.
 
+erschaffen /ɛɐˈʃafən/: to create
+  Gott erschuf die Welt und den Menschen.
+  God created the world and humankind.
+
+erschrecken /ɛɐˈʃrɛkən/: to get a fright, to be startled, to frighten
+
 erst /eːɐst/: first, not until, 
   Lass ihn doch erst mal die Jacke ausziehen.
   Let him take off his jacket first.
@@ -321,6 +355,10 @@ ersticken /ɛɐˈʃtɪkən/: to suffocate
 erträglich /ɛɐˈtrɛːklɪç/: bearable
 
 Erwachsene /ɛɐˈvaksənə/: adult, grown-up
+
+erwägen /ɛɐˈvɛːɡən/: to consider
+  Er erwog, sich einen zweiten Computer zu kaufen.
+  He considered buying himself a second computer.
 
 erwarten /ɛɐˈvartən/: to expect
   Ich erwarte dich dann um drei in meinem Büro.
