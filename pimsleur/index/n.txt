@@ -21,6 +21,8 @@ nächste 2.13.06:49
 
 natürlich 2.13.20:53
 
+neben 3.5.14:38
+
 nehmen 1.24.09:49
   nehmen Sie die Straße nach Berlin 1.24.09:43
 
@@ -38,14 +40,16 @@ nicht 1.2.11:51
   Aber ich nicht! 1.5.25:09
   ich nicht 1.9.04:03
 
+nichts 1.9.04:17
+
+nie 2.3.22:00
+
 noch 1.14.13:42
   noch nicht 1.21.00:21
   noch eine 2.16.17:53
   noch einmal 2.16.18:12
 
-nichts 1.9.04:17
-
-nie 2.3.22:00
+Notiz, Notizen, die 3.5.13:28
 
 Nummer, die 1.27.05:16
 
