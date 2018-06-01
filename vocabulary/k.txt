@@ -2,6 +2,9 @@
 K /kaː/ K wie Kaufmann
 ========================================================
 
+Käfig /ˈkɛːfɪç/, der: cage
+  Hühner im Käfig halten: to keep chicken in a cage
+
 Kakao /kaˈkau/, der: cocoa
 
 Kalb, das: calf
@@ -11,6 +14,8 @@ Kalk /kalk/, der: lime
   The water here is very hard.
 
 Kalzium /ˈkalʦjʊm/, das
+
+Kampf /kampf/, der: battle, fight, struggle
 
 kämpfen /ˈkɛmpfən/: to fight
   Wie eine Münchner Lokalzeitung gegen die Nazis kämpfte
@@ -63,6 +68,10 @@ klappen /ˈklapən/: to work out, to go all right
 klären /ˈklɛːrən/: to resolve, to settle, to treat
   die Unfallursache klären: to clarify the cause of the accident
 
+Kleid /klait/, das: dress
+
+Kleider, Kleidung: clothes
+
 Klinge /ˈklɪŋə/, die: blade
 
 klug /kluːk/: clever
@@ -96,6 +105,8 @@ Koffer /ˈkɔfɐ/, der: suitcase
 Kohlensäure /ˈkoːlənzɔyrə/, die: carbonic acid
   ein Mineralwasser mit viel/wenig Kohlensäure
   a highly/low carbonated type of mineral water
+
+komm (imperative du) => kommen
 
 kommen /ˈkɔmən/: to come
   komme, kommst, kommt, bin gekommen
