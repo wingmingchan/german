@@ -20,6 +20,8 @@ Hahn /haːn/, Hahn(e)s or Hähne /ˈhɛːnə/, der: rooster
 
 halb /halp/: half
 
+half => helfen
+
 Hals /hals/, der: neck
   Ich band mir ein Tuch um den Hals.
   I tied a scarf around my neck.
@@ -30,7 +32,13 @@ Halt /halt/, der: stop
 
 hält => halten
 
-halten /ˈhaltən/: to hold, to keep
+halten /ˈhaltən/: to hold, to keep, to give, to deliver, to stop
+  Sie hielt ein Glas in der Hand/das Baby auf dem Arm.
+  She was holding a glass in her hand/the baby in her arm.
+  Die nächste Stunde will unser Lehrer über Zugvögel halten.
+  In the next lesson our teacher wants to talk about migrating birds.
+  an einer roten Ampel halten: to stop at a red light
+  sich an etw. halten: to follow sth, to obey sth
 
 handeln /ˈhandəln/: to deal, to trade, to bargin, to negotiate, to act
   Er handelt mit Gebrauchtwagen.
@@ -46,6 +54,8 @@ Handy /ˈhɛndiː/, das: cell, mobile
 hängen /ˈhɛŋən/: to hang
 
 hart /hart/: hard
+
+Hass /has/, der: hate, hatred
 
 häufig /ˈhɔyfɪç/: frequent, common
 
@@ -148,6 +158,8 @@ Herzog /ˈhɛrʦoːk/, Herzogin: duke/duchess
 heutig, heutige /ˈhɔytɪɡə/: today's, contemporary, modern
   am heutigen Nachmittag: this afternoon
 
+hielt => halten
+
 hießt => heißen
 
 Hilfe /ˈhɪlfə/, die: help
@@ -180,6 +192,8 @@ hinweisen /ˈhɪnvaizən/: to point sth out to sb
 
 Hintergrund, der: background
 
+Hirn /hɪrn/, das: brain, mind
+
 hoch /hoːx/, hohe /ˈhoːə/: tall, high
   das hohe C
 
@@ -210,6 +224,12 @@ holen /ˈhoːlən/: to get, to fetch
   Could you get the butter from the refrigerator, please?
 
 Hölle /ˈhœlə/, die: hell
+
+Hose /ˈhoːzə/, Hosen, die: trousers
+
+Hosen-: trouser-
+
+Hosentasche, die: trouser pocket
 
 hübsch /hʏpʃ/: pretty
   Sie ist wirklich ein hübsches Mädchen.
