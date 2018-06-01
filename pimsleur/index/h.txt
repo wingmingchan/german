@@ -9,6 +9,8 @@ haben
   ich hatte 2.15.17:28
   Sie hatten 2.15.17:56
 
+halb 3.9.13:55
+
 Hallo 1.16.00:07
 
 Hauptstraße, die 2.20:02:11
@@ -32,7 +34,9 @@ heute 1.11.15:22
 
 hier 1.4.12:08
   Möchten Sie hier etwas essen? 1.7.03:00
-  
+
+hinten 3.8.12:15
+
 Hotel
   das Hotel 1.8.13:18
   im Hotel 1.8.13:08
