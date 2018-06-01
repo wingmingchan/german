@@ -9,13 +9,23 @@ langsam 2.20.09:17
 
 leider 2.2.13:17
 
-lernen
+Lehrer 3.1.19:33
+
+Lehrerin 3.2.06:21
+
+lernen 3.4.06:02
   sie lernt 2.30.23:27
+  gelernt 3.3.15:12
 
 lesen 2.19.14:08
 
+Leute, die 3.10.11:12
+
 lieber 2.8.19:43
   Ich bleibe lieber nicht zu Hause 2.8.21:27
+
+liegen 3.5.12:44
+  liegt 3.5.12:15
 
 links 1.24.14:07
   nach links 1.24.14:26
