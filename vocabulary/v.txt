@@ -43,6 +43,10 @@ verdienen /fɛɐˈdiːnən/: to earn, to make, to deserve
 
 Vereinigung /fɛɐˈ|ainɪɡuŋ/, die: organization
 
+verfassen /fɛɐˈfasən/: to write
+  Er schenkte ihr ein selbst verfasstes Gedicht.
+  He gave her a poem he’d written himself.
+
 verfeindet /fɛɐˈfaindət/: hostile
 
 verfolgen /fɛɐˈfɔlɡən/: to pursue, to follow
@@ -128,6 +132,8 @@ verlumpt: worn-out
 
 Verlust /fɛɐˈlʊst/, der: loss
 
+Vermächtnis /fɛɐˈmɛçtnɪs/, das: legacy
+
 vermeiden /fɛɐˈmaidən/: to avoid
   Sie konnte einen Zusammenstoß gerade noch vermeiden.
   She was just able to avoid a collision.
@@ -197,8 +203,12 @@ verstricken /fɛɐˈʃtrɪkən/: to be caught up with, to involve sb in sth
   Die Verdächtige hat sich in Lügen/Widersprüche verstrickt.
   The suspect has become caught up in a web of lies/contradictions.
 
+Versuch /fɛɐˈzuːx/, der: attempt
+
 Vertrag /fɛɐˈtraːk/, der: contract
   einen Vertrag mit jdm schließen: to sign a contract with sb
+
+vertreiben: dispel, evict, expel
 
 vertuschen /fɛɐˈtʊʃən/: to cover up
   Er versuchte seinen Fehler zu vertuschen.
@@ -227,6 +237,8 @@ verzögern /fɛɐˈʦøːɡɐn/: to delay
   verzögere, verzögerst, verzögert, habe verzögern
   Das Unwetter hat unseren Abflug um zwei Stunden verzögert.
   The storm delayed our departure by two hours.
+
+Verzögerung: deferral, delay, lag, retardation
 
 vielmehr /ˈfiːlmeːɐ/: rather
 
@@ -319,6 +331,8 @@ to introduce, to come/go for an interview, to present, to put forward(s)
   On Sunday we have to put the clocks forward by an hour.
 
 Vorstellung /ˈfoːɐʃtɛlʊŋ/, die: idea, picture
+
+vorwärts: forward(s)
 
 Vorwurf /ˈfoːɐvʊrf/, der: reproach
   jdm bittere Vorwürfe machen: to reproach sb bitterly
