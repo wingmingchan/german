@@ -37,7 +37,12 @@ Bande /ˈbandə/, die: gang
 Bann /ban/, der: spell
   jdn in seinen Bann ziehen: jdn faszinieren, to captivate sb
 
+Bart, der: beard
+  sich [dative] einen Bart wachsen lassen: to grow a beard
+
 Base /ˈbaːzə/, die: base
+  Bausteine der DNS sind die vier Basen Adenin, Cytosin, Guanin und Thymin.
+  The components of the DNA are the four bases adenine, cytosine, guanine, and thymine.
 
 basieren /baˈziːrən/
   etw. basiert auf etw.: sth is based on sth
@@ -89,6 +94,12 @@ befriedigend /bəˈfriːdɪɡənt/: satisfactory
   ein befriedigendes Ergebnis erzielen: to achieve a satisfactory result
 
 Befriedigung /bəˈfriːdɪɡʊŋ/: satisfaction
+
+begegnen: to meet, to confront, to face, to confront
+  Ich bin ihm zum ersten Mal auf einer Party begegnet.
+  I first met him at a party.
+  jdm mit Misstrauen / Respekt begegnen: to treat sb with distrust/respect
+  => Gegner: opponent
 
 begehen /bəˈɡeːən/: to commit, to make, to celebrate, to walk on, to use
   Er hat mehrere Morde begangen.
@@ -143,7 +154,7 @@ beherzigen /bəˈhɛrʦɪɡən/: to take to heart, to heed
 Bein /bain/, das: leg
 
 Beispiel /ˈbaiʃpiːl/, das: example
-  zum Beispiel
+  zum Beispiel, z. B., Beisp.: for example
 
 beispielsweise /ˈbaiʃpiːlsvaizə/: for example
 
