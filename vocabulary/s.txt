@@ -32,8 +32,13 @@ Sau /zau/, die: sow
 
 sauber /ˈzaubɐ/: clean
 
+sauer /ˈzauɐ/: sour, pissed, angrily
+
 *Sauerstoff /ˈzauɐʃtɔf/, der: oxygen
 
+saufen: to drink, to booze
+  einen saufen: to have a drink
+  
 saugfähig /ˈzaukfɛːɪç/: absorbent
   saugfähiges Küchenpapier: absorbent kitchen paper
 
@@ -64,6 +69,8 @@ schauen /ˈʃauən/: to look, to look for
 
 Schauspieler, Schauspielerin /ˈʃauʃpiːlɐ/: actor/actress
 
+schauten => schauen
+
 Scheibe /ˈʃaibə/, die: window pane
 
 scheinen /ˈʃainən/: to shine, to seem
@@ -73,6 +80,14 @@ scheinen /ˈʃainən/: to shine, to seem
 scheitern /ˈʃaitɐn/: to fail, to fall through, to collapse, to break down
   bereits zwei gescheiterte Versuche hinter sich haben
   to already have two failed attempts behind you
+
+schenken /ˈʃɛŋkən/: to give (as a present)
+
+schicken /ˈʃɪkən/: to send, to send for, to hurry up
+  ein Päckchen mit der Post schicken
+  to send a package through the mail
+  die Kinder ins Bett / zur Schule schicken
+  to send the children to bed/school
 
 Schicksal /ˈʃɪkzaːl/, das: fate, destiny
   ein schweres Schicksal haben: to be fated to have a hard life
@@ -87,6 +102,8 @@ schieben /ˈˈʃiːbən/: to push, to blame, to reject
   She rejected the suggestion/accusation completely.
 
 schief /ʃiːf/: awry
+
+schien => scheinen
 
 schießen /ˈʃiːsən/: to shoot, to kick
 
@@ -139,6 +156,9 @@ schmähen /ˈʃmɛːən/: to revile
 Schmatz /ʃmaʦ/, der: smacker
   Sie gab ihm einen dicken Schmatz auf die Backe.
   She gave him a big smacker on the cheek.
+
+Schmerz /ʃmɛrʦ/, der: pain
+  ein stechender Schmerz im Knie: a stabbing pain in your knee
 
 Schmutz /ʃmʊʦ/, der: dirt
 
@@ -244,6 +264,9 @@ schwingen /ˈʃvɪŋən/: to swing
 schwören /ˈʃvøːrən/: to swear
   einen Eid auf die Verfassung schwören: to swear (an oath) on the constitution
 
+schwul /ʃvuːl/: gay, homosexual
+  Papst führt privates Gespräch mit schwulem Mann
+
 Schwur /ʃvuːɐ/, der: oath
 
 schwur => schwören
@@ -308,6 +331,13 @@ Sicherung /ˈzɪçərʊŋ/, die: securing, saving , backing-up, fuse
 
 Sicherungskopie, die: backup
 
+Sicht /zɪçt/, die: visibility, sight, (point of) view
+  Der Nebel hatte sich aufgelöst und wir hatten gute Sicht ins Tal.
+  The fog had lifted and we had a good view of the valley.
+  Aus meiner Sicht ist der Vorschlag unsinnig.
+  From my point of view it's a ridiculous suggestion.
+  auf lange/kurze Sicht: in the long/short term
+
 Sie: you
 
 sie: she, it, they
@@ -367,9 +397,13 @@ Sonne /ˈzɔnə/, die: sun, sunlight
 
 Sonnenstrahl, der: sun beam
 
-sonst /zɔnst/: else
+sonst /zɔnst/: normally, else, otherwise
+  Was ist denn heute los mit ihm, er ist doch sonst nicht so empfindlich.
+  What's up with him today, he's not normally so touchy.
   Kommt sonst noch jemand?
   Is anyone else coming?
+  Setz eine Mütze auf, sonst friert es dich an den Ohren.
+  Put a hat on or your ears will get cold.
 
 Sorge /ˈzɔrɡə/, die: worry
   jdm Sorgen machen/bereiten: to cause sb a lot of worry; to worry sb
@@ -382,7 +416,7 @@ spähen /ˈʃpɛːən/: to peer
 
 spannend /ˈʃpanənt/: exciting
 
-sparen /ˈʃpaːrən/: to save
+sparen /ˈʃpaːrən/: to save, to save up
   Er hat schon 5.000 Euro gespart.
   He has already saved 5,000 euros.
 
@@ -471,7 +505,7 @@ stehen /ˈʃteːən/: to stand, to be, to have stopped, to depend on
   Egal, was ich machte, der Esel blieb wie angewurzelt stehen.
   Whatever I did, the donkey stayed rooted to the spot.
 
-steigen /ˈʃtaiɡən/: to climb, to get in/on/out/off
+steigen /ˈʃtaiɡən/: to climb, to get in/on/out/off, to rise
   auf einen Berg steigen: to climb a mountain
   aus dem/ins Auto steigen
 
@@ -518,13 +552,24 @@ stoßen /ˈʃtoːsən/: to push, to shove, to strike, to bump
   jdn ins Wasser stoßen: to push sb into the water
   mit dem Kopf an die Decke stoßen: to bump your head on the ceiling
 
+Straftäter /ˈʃtraːftɛːtɐ/: offender, criminal
+  jugendliche Straftäter: young offender
+
 Strand /ʃtrant/, der: flaches Ufer am Meer, beach
+
+Strecke /ˈʃtrɛkə/, die: distance, route
+
+streichen /ˈʃtraiçən/: to delete, to cut, to cancel
 
 Streifen /ˈʃtraifən/, der: stripe
 
 streifen: to brush against, to graze
 
 Streik /ʃtraik/, der: strike
+
+Streit /ʃtrait/, der: argument, quarrel
+  Ich bekam mit den Nachbarn Streit wegen der Katze.
+  I got into an argument with the neighbors over the cat.
 
 streitig /ˈʃtraitɪç/: to dispute sb's right to sth
   jdm den Meistertitel streitig machen
