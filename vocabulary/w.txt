@@ -8,6 +8,8 @@ wachen /ˈvaxən/: to watch over, to keep watch
 
 Waffe /ˈvafə/, die: weapon
 
+Wahlkampf /ˈvaːlkampf/, der: election campaign
+
 wahr /ˈvaːɐ/: true
   Das darf/kann doch nicht wahr sein!
   That can't be true!
@@ -86,6 +88,9 @@ wegen /ˈveːɡən/: for, over, because of, on account of
   Reich? Von wegen!
   Rich? You've got to be kidding!
 
+wegsaufen: to drink intended for else
+  => saufen
+
 *Weib /vaip/, das: female, babe, woman, wife
 
 weiblich /ˈvaiplɪç/: female
@@ -103,11 +108,16 @@ weit /vait/: long, far, extensive, vast, big
 
 weiter: further, other
 
+weiterhin /ˈvaitɐˈhɪn/: still
+
 Weizen /ˈvaiʦən/, der: wheat
 
 Welle /ˈvɛlə/, die: wave
   Das Schiff schaukelte auf den Wellen.
   The ship was pitching and tossing on the waves.
+
+Welt /vɛlt/, die: world
+  ganzen Welt: all over the world
 
 wenden /ˈvɛndən/: to turn, to turn over, to turn around, to toss
 
@@ -197,6 +207,9 @@ woher /voˈheːɐ/: from where
 
 wohl /voːl/: probably
 
+wohl: well
+  Lebe wohl! Farewell!
+
 *Wolke /ˈvɔlkə/, die: cloud
 
 wolkenverhangen: overcast
@@ -209,6 +222,8 @@ womöglich /voˈmøːklɪç/: possibly
 Woran /voˈran/: on what
 
 worden => werden
+
+wovon /voˈfɔn/: from what, from which
 
 wundern /ˈvʊndɐn/: to be surprised, to surprise
 
@@ -225,4 +240,8 @@ Wurzel /ˈvʊrʦəl/, die: root
 Wut /vuːt/, die: starkes Gefühl des Ärgers, rage, fury
 
 Wutanfall /ˈvuːt|anfal/, der: fit of rage, tantrum
+
+wütend /ˈvyːtənt/: furious
+  Sie war sehr wütend auf ihren Chef.
+  She was absolutely furious with her boss.
 
