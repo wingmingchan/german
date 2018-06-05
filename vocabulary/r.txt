@@ -38,6 +38,12 @@ Rasse /ˈrasə/, die: breed, race
 
 Rassenunruhen, pl: racial disturbances 
 
+Rassismus /raˈsɪsmʊs/, der: racism
+
+ratlos /ˈraːtloːs/: helpless, baffled
+  Da bin ich ratlos.
+  I'm completely at a loss.
+
 Ratschlag /ˈraːtʃlaːk/, der: piece of advice
   Auf solche Ratschläge kann ich verzichten!
   I can do without advice like that!
@@ -54,10 +60,6 @@ Raumschiff /ˈraumʃɪf/, das: spaceship
 Rausch /rauʃ/, der: intoxication
   sich [ dative ] einen Rausch antrinken: to get drunk
 
-recken /ˈrɛkən/: to stretch
-  Er reckte den Hals.
-  He craned his neck.
-
 reagieren /reaˈɡiːrən/: to react, to respond
 
 Reaktion /reakˈʦjoːn/, die: reaction
@@ -69,6 +71,13 @@ Recht /rɛçt/, das: law
 Rechtsstaat /ˈrɛçʦʃtaːt/, der: state founded on the rule of law, constitutional state
   Wir leben in einem Rechtsstaat.
   We live in a constitutional state.
+
+recken /ˈrɛkən/: to stretch
+  Er reckte den Hals.
+  He craned his neck.
+
+Rede /ˈreːdə/, die: speech
+  zum Amtsantritt eine Rede halten: to give/make a speech on entering office
 
 regelrecht /ˈreːɡəlrɛçt/: real, proper
 
@@ -144,9 +153,14 @@ Rückkehr ˈrʏkkeːɐ/, die: return
   die Rückkehr der Flüchtlinge in die Heimat: the refugees' return home
 
 rückwärts /ˈrʏkvɛrʦ/: backward
+  <=> vorwärts
 
 rufen /ˈruːfən/: to call, to shout, to cry
   um Hilfe rufen: to cry for help
+  Die Heizung ist kaputt, wir müssen einen Handwerker rufen.
+  The heating has broken down. We need to call a workman.
+  Er heißt Paul, aber von seinen Eltern wird er „Bubi‟ gerufen.
+  His name is Paul but his parents call him "Bubi."
 
 Ruhe /ˈruːə/, die: calm, calmness, placidness, quiet, repose, rest, tranquillity
 
