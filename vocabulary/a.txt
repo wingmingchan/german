@@ -34,7 +34,7 @@ abfinden /ˈapfɪndən/: to pay off, to come to terms with
   Er hat sich damit abgefunden, dass das nicht mehr klappen wird.
   He had come to accept the fact that it's never going to work.
 
-Abflug /ˈapfluːk/, der: departure
+Abflug /ˈapfluːk/, Abflüge, der: departure
   Der Abflug verzögert sich um 30 Minuten.
   The departure will be delayed by 30 minutes.
 
@@ -64,6 +64,13 @@ abkommen: to go off sth, to give up sth
   Ich bin davon abgekommen, alles allein schaffen zu wollen.
   I've given up the ideal of trying to all of that on my own.
 
+abmachen /ˈapmaxən/: to take off, to agree
+  das Preisschild abmachen: to take the price tag off
+  einen Termin abmachen: to arrange an appointment
+  etw. mit sich selbst/unter sich abmachen: to decide sth for yourself/among yourselves
+  Das Problem müsst ihr unter euch abmachen, ich habe nichts damit zu tun.
+  You'll have to solve the problem among yourselves – it has nothing to do with me.
+
 abrasieren /ˈapraziːrən/: to shave off
   Der Sturm hat alle Bäume entlang der Straße abrasiert.
   The storm razed all the trees lining the road.
@@ -73,21 +80,27 @@ abräumen /ˈaprɔymən/: to clean up
   Would you clear the table before you go, please?
   => räumen: to clear, to put away, to vacate
 
+Abreise /ˈapraizə/, die: departure
+  ihre Abreise nach London: her departure to London
+
 absagen /ˈapzaːɡən/: to cancel
   Das Konzert wurde wegen Krankheit abgesagt.
   The concert was cancelled due to illness.
 
-abschieben /ˈapʃiːbən/: to deport
+abschieben /ˈapʃiːbən/: to deport, to shift
   habe abgeschoben
-  => schieben: to push, to blame
+  => schieben: to push, to blame, to reject
+  illegale Einwanderer in ihr Heimatland abschieben
+  to deport illegal immigrants to their country of origin
 
 Abschiebung /ˈapʃiːbʊŋ/, die: deportation
 
 Abschiebungshaft, die: remand pending deportation
 
-Abschied: parting, leave, farewell
+Abschied, der: parting, leave, farewell
   Der Abschied von ihren Freunden fiel ihr schwer.
   She found it difficult to say goodbye to her friends.
+  von jdm/etw. Abschied nehmen: to take leave of sb/say goodbye to sth
   => scheiden: to part
 
 Abschiedskuss, der: parting kiss
@@ -100,6 +113,12 @@ abschneiden /ˈapʃnaidən/: to cut off
 absetzen /ˈapzɛʦən/: to drop sb off
   Kannst du mich bitte an der Schule absetzen?
   Can you drop me off at the school, please?
+
+Absicht /ˈapzɪçt/, die: intention
+  An guten Absichten fehlt es nicht.
+  There is no lack of good intentions.
+  mit Absicht: intentionally
+  ohne Absicht: unintentionally
 
 Abstand /ˈapʃtant/, der: distance
   zehn Meter Abstand zum vorausfahrenden Auto halten
@@ -155,6 +174,8 @@ allerdings /ˈalɐˈdɪŋs/: however, indeed
   “Is that really important?” – “Indeed!”
 
 Alm /alm/, die: alpine pasture
+
+Almosen /ˈalmoːzən/, das: alms
 
 Almrausch, der: alpine rose, rhododendron, mountain rose
 
@@ -214,6 +235,12 @@ andauernd /ˈandauɐnt/: continuing, persistent, constant, ongoing
 
 Anden: Andes
 
+andere /ˈandərə/: other, else
+  Es tut mir leid, ich liebe einen anderen.
+  I'm sorry, but I love someone else.
+
+anders /ˈandɐs/: differently
+
 Angabe /ˈanɡaːbə/, die: information, statement
   Er hat der Polizei gegenüber falsche Angaben gemacht.
   He made false statements to the police.
@@ -237,13 +264,14 @@ Angst /aŋst/, die: fear, worry
 angst
   jd hat/bekommt Angst: sb is/gets scared (stiff)
 
-Anhänger, der: trailer, pendant, follower
+Anhänger /ˈanhɛŋɐ/, der: trailer, pendant, follower
+  <=> Gegner
 
 ankündigen /ˈankʏndɪɡən/: to announce
   Muss der Lehrer solche Tests ankündigen?
   Does the teacher have to give advance notice of tests like those?
 
-Ankunft /ˈankʊnft/, die: arrival
+Ankunft /ˈankʊnft/, Ankünfte, die: arrival
 
 Anmeldung /ˈanmɛldʊŋ/, die: enrollment, registration, application, registration form
 
@@ -265,6 +293,20 @@ ansetzen /ˈanzɛʦən/: to schedule, to estimate, to develop, to place
   to estimate too low costs for a project
   Weißt du, wo du den Hebel ansetzen musst?
   Do you know where you need to focus on?
+
+anstellen /ˈanʃtɛlən/: to hire, to employ, to engage
+  5 neue Mitarbeiter anstellen: to hire 5 new employees
+  die Waschmaschine anstellen: to turn on the washing machine
+  Was sollen wir jetzt mit all den Kisten anstellen?
+  Now what are we going to do with all these boxes?
+  Stellt mir bloß nichts an, während ich weg bin!
+  Don't get up to any nonsense while I’m away.
+  Sie stellte Vermutungen an, was passiert sein könnte.
+  She speculated about what might have happened.
+  sich hinten anstellen müssen: to have to go to the back of the line
+  sich geschickt anstellen: to act wisely
+  Stell dich nicht so an!
+  Stop making a fuss!
 
 Ausrutscher /ˈausrʊtʃɐ/, der: slip, slip-up
 
@@ -368,6 +410,15 @@ aufkreuzen /ˈaufkrɔyʦən/: to show up
   Er ist plötzlich wieder bei seinen Eltern aufgekreuzt.
   He suddenly showed up again at his parents' place.
 
+Auflage /ˈauflaːɡə/, die: circulation, edition, condition, order, coating
+  Die Zeitschrift hat eine hohe Auflage.
+  The magazine has a high circulation.
+  die zweite Auflage eines Buches: the second edition of a book
+  Er kam unter der Auflage frei, das Land sofort zu verlassen.
+  He was released on condition that he would leave the country at once.
+  eine silberne Uhr mit Goldauflage: a silver watch with gold plating
+  => Lage: situation, location, position, layer
+
 Auflistung, die: listing
 
 Auflösung /ˈaufløːzʊŋ/, die: resolution, disintegration
@@ -402,6 +453,9 @@ Ausblick /ˈausblɪk/, der: view, outlook, perspective
 
 ausdrücken /ˈausdrʏkən/: to express
 
+Ausfall /ˈausfal/, der: loss, cancellation, breakdown
+  Stromausfall: power outage
+
 ausfallen /ˈausfalən/: to be cancelled, to fail, to malfunction, to fall out
   Leider muss das Fest heute Abend ausfallen.
   Unfortunately tonight's party has to be cancelled.
@@ -417,6 +471,8 @@ ausfallen /ˈausfalən/: to be cancelled, to fail, to malfunction, to fall out
 Ausflug /ˈausfluːk/, der: trip, excursion
 
 ausführen /ˈausfyːrən/: to carry out, to perform, to execute, to export
+
+Ausgabe /ˈausɡaːbə/, die: expenditure
 
 Ausgang /ˈausɡaŋ/, der: exit, outcome, furlough
 
@@ -437,6 +493,9 @@ auslösen /ˈausløːzən/: to trigger
 Ausnahme /ˈausnaːmə/, die: exception
   von wenigen Ausnahmen abgesehen: aside from very few exceptions
 
+ausnutzen /ˈausnʊʦən/: to take advantage of
+  => nutzen: to use
+
 Aussage /ˈauszaːɡə/, die: testimony, statement, message
   eine klare Aussage der Regierung zur Steuerpolitik fordern
   to demand a clear statement from the government on its tax policy
@@ -454,7 +513,17 @@ Aussehen /ˈauszeːən/, das: appearance
 aussehen /ˈauszeːən/: to look
   krank/gesund aussehen: to look ill/healthy
 
-aussetzen /ˈauszɛʦən/
+außer /ˈausɐ/: except, besides, outside, out of, unless
+  täglich außer sonntags geöffnet
+  open daily except Sundays
+  Außer meiner Schwester kamen auch noch ihr Mann und ihre Kinder.
+  In addition to my sister, her husband and children were also there.
+  außer Sicht: out of sight
+  außer Gefahr sein: to be out of danger
+
+außerdem /ˈausɐdeːm/: besides, moreover
+
+aussetzen /ˈauszɛʦən/: to interrupt, to fail, to suspend, to abandon, to offer
   etw. an jdm/etw. aussetzen: to find fault with sb/sth
   Er hat ständig etwas an mir auszusetzen.
   He finds fault with everything I do.
@@ -470,3 +539,8 @@ Ausstellung /ˈausʃtɛlʊŋ/, die: exhibition
 
 Ausstieg /ˈausʃtiːk/, der: pullout, withdrawal, exit
   den Ausstieg aus der Atomkraft fordern: to demand a pullout from nuclear energy
+
+Ausweitung /ˈausvaitʊŋ/, die: expansion
+  eine Ausweitung des Problems auf andere Bereiche fürchten
+  to fear that the problem will expand to other areas
+
