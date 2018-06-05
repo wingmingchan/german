@@ -4,11 +4,20 @@ L /ɛl/ L wie Ludwig
 
 lächeln /ˈlɛçəln/: to smile
 
+lachen /ˈlaxən/: to laugh
+
 laden /ˈlaːdən/: to load, to charge
   Die Akkus müssen wieder geladen werden.
   The batteries need recharging.
 
 Lage, die: situation, location, position
+  in einer unangenehmen Lage sein: to be in an unpleasant situation
+  Sie ist krank und nicht in der Lage aufzustehen.
+  She's sick and unable to get up.
+  Das Haus hat eine sehr schöne Lage.
+  The house is in a very beautiful location.
+  etw. in eine horizontale Lage bringen: to put sth into a horizontal position
+  etw. in mehrere Lagen Papier wickeln: to wrap sth in several layers of paper
 
 lagen => liegen
 
@@ -53,6 +62,8 @@ laufen /ˈlaufən/: to run, to walk
   lief, liefst, lief, liefen, lieft
   Wollen wir laufen oder fahren?
   Do we want to walk or drive?
+
+Läufer /ˈlɔyfɐ/: runner
 
 läuft => laufen
   Nun läuft die Hochzeit des Jahres
