@@ -78,7 +78,9 @@ gegenüber /ɡeːɡənˈ|yːbɐ/: opposite, compared to, in comparison with, tow
 Gegenstelle, die: remote terminal, distant end
 
 gegenüber /ɡeːɡənˈ|yːbɐ/: opposite
-  genital /geniˈtaːl/
+
+Gegner /ˈɡeːɡnɐ/, Gegnerin: opponent
+  <=> Anhänger
 
 Gehalt /ɡəˈhalt/, das: salary
 
@@ -147,6 +149,8 @@ genau /ɡəˈnau/: exactly
   Das geschah vor genau vier Jahren.
   That happened exactly four years ago.
 
+genital /geniˈtaːl/
+
 Genuss /ɡəˈnʊs/, der: enjoyment, pleasure
 
 Geologe /ɡeoˈloːɡə/: geologist
@@ -183,6 +187,8 @@ Geschick /ɡəˈʃɪk/, das: skill, fate
 Geschicklichkeit /ɡəˈʃɪklɪçkait/, die: skillfulness
   jds handwerkliche Geschicklichkeit bewundern
   to admire sb's skillfulness with their hands
+
+geschickt: skillful, numbly, cleverly
 
 Gesetz /ɡəˈzɛʦ/, das: law
   die Gesetze befolgen/einhalten: to abide by/stick to the laws
