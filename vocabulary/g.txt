@@ -99,6 +99,8 @@ gehen /ˈɡeːən/: to go, to walk, to leave
   
 Gehirn /ɡəˈhɪrn/, das: brain
 
+Gehölz /ɡəˈhœlʦ/, das: grove, copse, thicket
+
 gehören /ɡəˈhøːrən/: to belong to, to be among, to go, to require
   Wem gehört dieser Stift?
   Whose pen is this?
@@ -128,9 +130,15 @@ Geldwäsche /ˈɡɛltvɛʃə/, die: money laundering
 
 gelegen /ɡəˈleːɡən/: located, situated
 
+Gelegenheit /ɡəˈleːɡənhait/, die: opportunity
+  eine Gelegenheit nutzen/verpassen: to use/miss an opportunity
+
 gelten /ˈɡɛltən/: to be valid, to apply, to be in force, to be effective
   Das gilt nicht!
   That doesn't count!
+  als etw. gelten: to be considered (to be) sth , to be regarded as sth
+  Er gilt als besonnener Politiker.
+  He's regarded as a sober-minded politician.
 
 geltend: current, established, applicable, valid, in force
   geltend machen: to assert
@@ -150,6 +158,8 @@ genau /ɡəˈnau/: exactly
   That happened exactly four years ago.
 
 genital /geniˈtaːl/
+
+genommen => nehmen
 
 Genuss /ɡəˈnʊs/, der: enjoyment, pleasure
 
@@ -225,6 +235,8 @@ Gewerkschaft /ɡəˈvɛrkʃaft/, die: labor union
 geworden => werden
 
 gezogen => ziehen
+
+gilt => gelten
 
 Gin, der
 
