@@ -52,6 +52,8 @@ dauern /ˈdauɐn/: to last, to take
   Der Film dauert zwei Stunden.
   The film lasts for two hours.
 
+dauernd /ˈdauɐnt/: constantly
+
 Dauerregen, der: continuous rain
 
 davon /daˈfɔn/: from it
@@ -82,9 +84,23 @@ Denkmal /ˈdɛŋkmaːl/, das: monument
 
 Denkmalschutz: protection of monuments
 
-denn /dɛn/ because, since
+Denkweise /ˈdɛŋkvaizə/, die: way of thinking, mindset
+  eine komplizierte Denkweise: a complicated way of thinking
+  eine konservative Denkweise: a conservative disposition
+
+denkwürdig /ˈdɛŋkvʏrdɪç/: memorable
+
+denn /dɛn/ because, since, unless
   Er kommt nicht, denn er ist krank.
   He's not coming, because he's ill.
+  Ich werde nicht rechtzeitig fertig, es sei denn, jemand hilft mir.
+  I won't be finished on time unless somebody helps me.
+  besser/mehr/ … denn je (zuvor): better/more/… than ever (before)
+  Mir geht es schlechter denn je!
+  I'm feeling worse than ever!
+  Was/Wer/Wie/ … denn (dann)? Then what/who/how …?
+  „Bist du zu Hause? – „Nein.‟ – „Wo denn dann?‟
+  "Are you home" – "No." – "Then where are you?"
 
 dennoch /ˈdɛnɔx/: nevertheless , still
   Sie sind arm und dennoch glücklich.
