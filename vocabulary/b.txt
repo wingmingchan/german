@@ -131,6 +131,12 @@ begleiten /bəˈɡlaitən/: to accompany
 
 Begleiter /bəˈɡlaitɐ/: companion
 
+Begleitung, die: companion, accompaniment
+  Er kam ohne Begleitung zur Hochzeit.
+  He came to the wedding on his own.
+  in (jds) Begleitung: in (sb's) company
+  die Frau in seiner Begleitung: the woman who accompanied him
+
 Begriff /bəˈɡrɪf/, der: idea, notion
 
 behalten /bəˈhaltən/: to keep, to remember
@@ -319,6 +325,9 @@ Bevölkerung /bəˈfœlkərʊŋ/: population, people
 
 bevor /bəˈfoːɐ/: before
 
+bewachen /bəˈvaxən/: to guard, to watch over
+  ein bewachter Parkplatz: an attended parking lot
+
 bewaffnet /bəˈvafnət/: armed
 
 bewahren /bəˈvaːrən/: to prevent, to save, to maintain
@@ -334,9 +343,13 @@ bewähren /bəˈvɛːrən/: to prove yourself
 Bewältigung /bəˈvɛltɪɡʊŋ/, die: coping (with), handling
   die Bewältigung einer Krise: coping with a crisis
 
+bewegen /bəˈveːɡən/: to move, to budge
+
 Bewegung /bəˈveːɡʊŋ/, die: movement
   in Bewegung: in motion
   Bewegung in etw. bringen: to get sth going/moving
+
+bewusst /bəˈvʊst/: deliberate
 
 bezahlen /bəˈʦaːlən/: to pay for
   eine Rechnung bar bezahlen: to pay an invoice in cash
@@ -418,6 +431,10 @@ bloß /bloːs/: bare
 
 blühend: blossoming, flourishing, thriving
 
+Blut, das: blood
+  Er hat bei dem Unfall viel Blut verloren.
+  He lost a lot of blood in the accident.
+
 blutig /ˈbluːtɪç/: bloody, gory, violently
   Der Verband war schon ganz blutig.
   The bandage was already pretty bloodstained.
@@ -474,6 +491,8 @@ brennen /ˈbrɛnən/: to burn , to be on fire
   Es brennt!
   Fire!
 
+bricht => brechen
+
 Briefträger /ˈbriːftrɛːɡɐ/: mail carrier
 
 *Brise /ˈbriːzə/, die: breeze
@@ -508,6 +527,8 @@ Bund /bʊnt/, der: federal government, confederacy
   Bund und Länder: the German federal government and the Länder
 
 Bundesamt, das: Federal Office
+
+Bündnispolitik, die: policy of alliances
 
 Burger /ˈbəːɡə/, der: burger
 
