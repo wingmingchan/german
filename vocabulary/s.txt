@@ -160,6 +160,11 @@ Schmatz /ʃmaʦ/, der: smacker
 Schmerz /ʃmɛrʦ/, der: pain
   ein stechender Schmerz im Knie: a stabbing pain in your knee
 
+schmieden /ˈʃmiːdən/: to forge, to hatch
+  Schmiedeeisen: wrought iron
+  Sie schmieden schon Urlaubspläne.
+  They're already making vacation plans.
+
 Schmutz /ʃmʊʦ/, der: dirt
 
 Schnee /ˈʃneː/, der: snow
@@ -224,6 +229,8 @@ schulen /ˈʃuːlən/: to train
 schmutzig /ˈʃmʊʦɪç/: dirty
 
 Schuss /ʃʊs/, Schüsse, der: shot
+
+schuf => schaffen
 
 Schutz /ʃʊʦ/, der: protection , shelter
 
