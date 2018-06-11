@@ -28,6 +28,11 @@ Mangel /ˈmaŋəl/, Mängel, der: shortage, lack
 
 männlich /ˈmɛnlɪç/: male
 
+Märchen /ˈmɛːɐçən/, das: fairy tale, story
+  die Märchen der Brüder Grimm: Grimm's fairy tales
+  Erzähl doch keine Märchen!
+  Don't give me that!
+
 Maschine /maˈʃiːnə/, die: machine, plane
 
 Massaker /maˈsaːkɐ/, das: massacre
@@ -36,6 +41,12 @@ maßlos /ˈmaːsloːs/: extreme, excessive
 
 Mauer /ˈmauɐ/, die: wall
   die (Berliner) Mauer
+
+mauern /ˈmauɐn/: to build, to stonewall
+  Er mauerte das Fundament für das Gewächshaus.
+  He was laying the foundations for the greenhouse.
+  Bei der Reform darf nicht gemauert werden.
+  There must be no stonewalling of the reforms.
 
 Maus /maus/, Mäuse /ˈmɔyzə/, die: mouse
 
@@ -150,6 +161,8 @@ Möglichkeit /ˈmøːklɪçkait/, die: possibility, chance,
   I'm afraid I didn't have a chance to call you.
 
 möglicherweise /ˈmøːklɪçɐˈvaizə/: possibly
+
+Monarch /moˈnarç/, Monarchen: monarch
 
 Mond /moːnt/, der: moon
 
