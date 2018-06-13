@@ -18,6 +18,8 @@ Hauptstraße, die 2.20:02:11
 Haus, das 2.29.11:30
   zu Hause 2.5.21:52
 
+heiraten 3.15.18:46
+
 heiß 2.12.20:58
 
 heißen 2.2.11:15
@@ -36,6 +38,13 @@ hier 1.4.12:08
   Möchten Sie hier etwas essen? 1.7.03:00
 
 hinten 3.8.12:15
+
+hinterlassen 3.12.17:56
+
+Hochzeit, die 3.15.17:03
+
+hoffen 3.16.02:41
+  ich hoffe 3.15.11.44
 
 Hotel
   das Hotel 1.8.13:18
