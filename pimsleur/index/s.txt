@@ -23,6 +23,8 @@ Schloss, das 3.9.11:59
   zum Schloss 3.9.12:08
   Schlossgarten 3.9.18:58
 
+Schlossgarten 3.9.18:58
+
 Schnee, der 2.30.14:38
 
 schnell 1.17.11:45
@@ -132,6 +134,8 @@ sprechen 1.4.03:55
 
 Stadt, die 2.1.16:34
 
+Stadtgarten, der 3.11.13:45
+
 Stadtplan, der 2.28.24:04
 
 stehen
@@ -145,7 +149,9 @@ Straße 1.4.08:44
 
 studiert 2.17.11:39
 
-Stunde, die 2.20.16:13
+Studium, das 3.16.20:23
+
+Stunde, die 2.20.16:13, 3.13.18:11
 
 Stuttgart 2.15.19:21
 
