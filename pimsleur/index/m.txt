@@ -64,6 +64,7 @@ mit 1.8.16:24
   mit ihr 2.23.04:18
   mit uns 2.15.04:53
   mit wem 1.8.15:51
+  wie wäre es mit einem Bier 2.5.03:17
   
 mit
   Und ich bringe meinen Mann mit 2.25.16:53
@@ -104,5 +105,7 @@ Mozartstraße 1.5.08:19
 München 1.26.04:25
 
 Münster, das 3.10.12:24
+
+Münsterplatz, der 3.10.13:04
 
 müssen 2.2.14:22
