@@ -22,7 +22,7 @@ Ja, ich komme gerne.
 01:52 Wir sind alle zum Mittagessen eingeladen.
 02:14 Alle?
 02:22 Die ganze Abteilung?
-02:44 Ja, sie ganze Abteilung ist eingeladen.
+02:44 Ja, die ganze Abteilung ist eingeladen.
 03:00 Wie lange dauert das Mittagessen?
 03:25 Das weiß ich nicht. Eine Stunde? Zwei Stunden?
 03:43 Also, ich habe nachher eine Besprechung.
@@ -123,7 +123,7 @@ Ja, ich komme gerne.
 26:44 Einen Dolmetscher, Frau Thompson? Für wann denn?
 26:56 Für die Besprechung mit Herrn Blei.
 27:04 Ah ja! Wann wird sie sein?
-27:15 Montag morgen um zehn Uhr.
+27:15 Montag Morgen um zehn Uhr.
 27:24 Geht das?
 27:29 Ich glaube schon. Haben Sie alles für die Besprechung?
 27:39 Ja. Danke.
