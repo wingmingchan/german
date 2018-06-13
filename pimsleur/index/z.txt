@@ -43,4 +43,6 @@ zwanzig 1.16.06:48
 zwei 1.8.06:41, 1.10.03:44
   um ein Uhr oder um zwei Uhr? 1.9.16:41
 
+zwo 3.11.18:00
+
 zwölf 1.12.11:50
