@@ -1,12 +1,12 @@
 ﻿========================================================
 2nd Edition, 2010
 
-Unit 15: 
+Unit 15: Ich gehe zu einer Hochzeit
 ========================================================
 
 Entschuldigen Sie, Frau White.
 Ja, bitte?
-Wir haben nächste Woche eine wichtige Besprechung mit Herre Lang.
+Wir haben nächste Woche eine wichtige Besprechung mit Herrn Lang.
 Ja, am Dienstag.
 Brauchen Sie einen Dolmetscher für diese Besprechung?
 Ich glaube nicht. Herr Lang spricht etwas Englisch und ich spreche etwas Deutsch.
@@ -14,7 +14,7 @@ Das geht. Sie sprechen sehr gut Deutsch.
 ========================================================
 00:58 Entschuldigen Sie. Ich habe eine Frage.
 01:14 Um wie viel Uhr wird die Besprechung sein?
-01:43 die Besprechung am Montag Nachmittag.
+01:43 Die Besprechung am Montag Nachmittag?
 01:59 Um fünfzehn Uhr.
 02:10 die ganze Abteilung
 02:24 Kommt die ganze Abteilung?
@@ -56,14 +56,14 @@ Erfolg /ɛɐˈfɔlk/, der
 11:44 ich hoffe
 11:49 hoffe
 12:54 zu unserer Party
-13:18 Ich hoffen dass Sie zu unserer Party kommen können.
+13:18 Ich hoffe dass Sie zu unserer Party kommen können.
 13:46 Danke für die Einladung.
 13:59 Aber ich kann nicht kommen.
-14:16 Leider kann ich nicht kommen.
-14:31 Es tut mir Leid.
-14:36 Leid
+14:16 leider kann ich nicht kommen.
+14:31 Es tut mir leid.
+14:36 leid
 14:46 tut
-15:04 Es tut wirklich sehr Leid.
+15:04 Es tut mir wirklich sehr leid.
 15:48 Ich werde am Wochenende nicht hier sein.
 16:10 zu Ihrer Party
 16:31 Ich kann nicht zu Ihrer Party kommen.
@@ -86,11 +86,11 @@ Erfolg /ɛɐˈfɔlk/, der
 20:40 Kennen Sie sie?
 20:58 Ich glaube nicht dass ich sie kenne.
 21:24 Meine Freundin wird mit einem Deutschen heiraten.
-21:42 Ich kann nicht zu Party kommen.
-21:57 Es tut mir Leid.
+21:42 Ich kann nicht zu Ihrer Party kommen.
+21:57 Es tut mir leid.
 22:12 Ich bin zu ihrer Hochzeit eingeladen.
 22:31 Sie ist meine beste Freundin.
-22:48 Es tut mir Leid, dass ich nicht zu Ihrer Party kommen kann.
+22:48 Es tut mir leid, dass ich nicht zu Ihrer Party kommen kann.
 22:14 zu Ihrer Party
 22:33 zu ihrer Hochzeit
 23:46 Sagen Sie, wie geht es Ihrem Bruder?
@@ -103,7 +103,7 @@ Erfolg /ɛɐˈfɔlk/, der
 
 26:15 Hannas, vielen Dank für Ihre Einladung.
 26:23 Ich hoffe dass Sie kommen können.
-26:32 Es tut mir Leid. Aber ich kann nicht.
+26:32 Es tut mir leid. Aber ich kann nicht.
 26:47 Ich werde am Wochenende nicht hier sein.
 26:56 Das ist sehr schade.
 27:05 Ich gehe zu eine Hochzeit.
