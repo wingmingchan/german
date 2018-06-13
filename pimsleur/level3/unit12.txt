@@ -25,7 +25,7 @@ Bitte.
 03:57 Platz, der
 04:12 der Rathausplatz
 04:22 der Münsterplatz
-04:33 der Schlissgarten
+04:33 der Schlossgarten
 04:44 die Stadt
 04:56 der Stadtgarten
 05:08 Wie komme ich zum Stadtgarten?
@@ -93,7 +93,7 @@ Bitte.
 20:22 Vor zwanzig Minuten?
 20:36 Ja, und er hat keine Nachricht hinterlassen.
 
-21:02 Hat jemand angerufen, Frau Klein.
+21:02 Hat jemand angerufen, Frau Klein?
 21:15 Ja, eine Frau hat angerufen.
 21:28 Sie hat vor zehn Minuten angerufen.
 21:47 Vor zehn Minuten?
