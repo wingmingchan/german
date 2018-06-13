@@ -22,6 +22,9 @@ das 1.9.00:36
 
 dass 1.22.02:53
 
+dauern 3.14.17:11
+  dauert 3.13.17:28
+
 dem
   mit dem Auto 2.2.00:26
 
@@ -72,6 +75,8 @@ doch 1.4.05:10
 
 Dollar 1.13.10:50
 
+Dolmetscher, der 3.14.20:52
+
 Donnerstag, der 2.11.08:13
 
 dort
@@ -94,6 +99,8 @@ drüben
   dort drüben 1.4.13:40
 
 du 1.28.00:35
+
+durch 3.16.16:03
 
 dürfen
   Darf ich 2.9.05:23
