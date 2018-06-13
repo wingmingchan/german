@@ -13,6 +13,9 @@ Lehrer 3.1.19:33
 
 Lehrerin 3.2.06:21
 
+leid 3.15.14:36
+  Es tut mir leid 3.15.14:31
+
 lernen 3.4.06:02
   sie lernt 2.30.23:27
   gelernt 3.3.15:12
