@@ -14,6 +14,8 @@ nachher 2.6.23:36
 
 Nachmittag, der 2.27.19:20
 
+Nachricht, die 3.12.17:09
+
 nächste 2.13.06:49
   nächste Woche 2.27.13:10
   nächsten Sonntag 2.27.13:33
@@ -40,9 +42,13 @@ nicht 1.2.11:51
   Aber ich nicht! 1.5.25:09
   ich nicht 1.9.04:03
 
+Nichte, die 3.16.11:16
+
 nichts 1.9.04:17
 
 nie 2.3.22:00
+
+niemand 3.13.05:38
 
 noch 1.14.13:42
   noch nicht 1.21.00:21
@@ -50,6 +56,8 @@ noch 1.14.13:42
   noch einmal 2.16.18:12
 
 Notiz, Notizen, die 3.5.13:28
+
+null 3.11.24:56
 
 Nummer, die 1.27.05:16
 
