@@ -25,6 +25,8 @@ Lamm /lam/, das
 
 Land /lant/, Länder /ˈlɛndɐ/, das: state
 
+Landkreis, der: administrative district
+
 lang /laŋ/: long
   Sie hat lange Beine/Haare.
   She has long legs/hair.
@@ -87,6 +89,9 @@ Lebensgefahr /ˈleːbənsɡəfaːɐ/, die: mortal danger
 
 Lebenszeit: lifetime
 
+Lebewesen /ˈleːbəveːzən/, das: living being
+  einzellige Lebewesen: single-cell organisms
+
 lecker /ˈlɛkɐ/: delicious
 
 Leder/ˈleːdɐ/, das: leather
@@ -144,7 +149,11 @@ liegen /ˈliːɡən/: to lie, to be
   liege, liegst, liegt, habe gelegen
   auf dem Sofa/im Bett liegen: to lie on the sofa / in bed
 
+ließ => lassen
+
 Liguster /liˈgʊstər/, der: common privet
+
+Limo /ˈlɪmo/, die: soda, lemonade, limo
 
 links /lɪŋks/: left
    links des Rheins: to the left-hand side of the Rhine 
@@ -171,7 +180,13 @@ lout: loud, noisy
 Löwe /ˈløːvə/, der: lion, Leo
   Sie ist Löwe. She is Leo.
 
+Lücke /ˈlʏkə/, die: gap, space
+  durch eine Lücke zwischen den Büschen schlüpfen
+  to slip through a gap between the bushes
+
 Luft /lʊft/, die: air
+
+Luftballon /ˈlʊftbalɔŋ/, die: balloon
 
 Lüge /ˈlyːɡə/, die: lie
   jdm Lügen erzählen: to tell sb lies
@@ -179,4 +194,7 @@ Lüge /ˈlyːɡə/, die: lie
 lügen /ˈlyːɡən/: to lie
   Lüg doch nicht so frech!
   Stop telling such bare-faced lies!
+
+lustig: funny
+  sich über jdn/etw. lustig machen: to make fun of sb/sth
 
