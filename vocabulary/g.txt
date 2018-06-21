@@ -56,6 +56,10 @@ Gefahr /ɡəˈfaːɐ/, die: danger
   Es besteht die Gefahr, dass jemand ins Eis einbricht.
   There is a risk that someone might fall through the ice.
 
+gefährden /ɡəˈfɛːɐdən/: to endanger
+  Rauchen gefährdet die Gesundheit.
+  Smoking is dangerous for the health.
+
 gefährlich /ɡəˈfɛːɐlɪç/: dangerous
   Vorsicht! Der Täter ist bewaffnet und sehr gefährlich.
   Warning! The perpetrator is armed and very dangerous.
@@ -69,11 +73,15 @@ Gefühl /ɡəˈfyːl/, das: feeling
 gegen /ˈɡeːɡən/: against, toward
   gegen Missstände protestieren/vorgehen: to protest/act against social evils
 
+Gegenangriff, der: counter-attack
+
 gegenüber /ɡeːɡənˈ|yːbɐ/: opposite, compared to, in comparison with, toward(s)
   Die Post ist genau gegenüber dem Bäcker.
   The post office is opposite the baker's.
   Erwachsenen gegenüber ist sie immer sehr höflich.
   She's always very polite toward adults.
+
+Gegenschlag /ˈɡeːɡənʃlaːk/, der: counter-strike
 
 Gegenstelle, die: remote terminal, distant end
 
@@ -81,6 +89,8 @@ gegenüber /ɡeːɡənˈ|yːbɐ/: opposite
 
 Gegner /ˈɡeːɡnɐ/, Gegnerin: opponent
   <=> Anhänger
+
+gegnerische: opposing
 
 Gehalt /ɡəˈhalt/, das: salary
 
@@ -98,6 +108,8 @@ gehen /ˈɡeːən/: to go, to walk, to leave
   gehe, gehst, geht, bin gegangen
   
 Gehirn /ɡəˈhɪrn/, das: brain
+
+geholt => holen
 
 Gehölz /ɡəˈhœlʦ/, das: grove, copse, thicket
 
@@ -147,6 +159,8 @@ geltend: current, established, applicable, valid, in force
 
 gemächlich /ɡəˈmɛːçlɪç/: leisurely , unhurried
 
+Gemeinde /ɡəˈmaində/, die: municipality, community
+
 gemeinsam /ɡəˈmainzaːm/: common, joint, mutual, united, collectively, together, in common, in concert
   gemeinsam wandern/singen: to go hiking/to sing together
 
@@ -187,7 +201,7 @@ geschah => geschehen
 
 Geschäft /ɡəˈʃɛft/, das: store, business, deal, trade
 
-geschehen /ɡəˈʃeːən/: to happen
+geschehen /ɡəˈʃeːən/: to happen, to occur
   geschehe, geschiehst, geschieht, ihr gescheht, bin geschehen
 
 Geschichte /ɡəˈʃɪçtə/, die: story
@@ -215,6 +229,8 @@ Gesundheit /ɡəˈzʊnthait/, die: health
 
 getigert /ɡeˈtiːɡɐt/: striped
 
+Getränk /ɡəˈtrɛŋk/, das: beverage, drink
+
 gewaltig /ɡəˈvaltiç/: huge, vast, intense, almighty
   Das Schiff wurde von einer gewaltigen Welle zerschmettert.
   The ship was smashed to pieces by a huge wave.
@@ -226,11 +242,16 @@ Gewalttat /ɡəˈvalttaːt/, die: act of violence
 
 gewandt /ɡəˈvant/: skillful
 
+Gewehr /ɡəˈveːɐ/, das: rifle, shotgun
+  Jagdgewehr: hunting rifle
+
 Gewerkschaft /ɡəˈvɛrkʃaft/, die: labor union
 
 *Gewitter /ɡəˈvɪtɐ/, das: thunderstorm
   Draußen tobte ein heftiges Gewitter.
   A heavy thunderstorm was raging outside.
+
+gewöhnlich: normal
 
 geworden => werden
 
@@ -276,6 +297,8 @@ Gold /ɡɔlt/, das
 
 Grad /ɡraːt/, der: degree, level
 
+Graf: earl
+
 Granit /ɡraˈniːt/, der: granite
    Granitplatte: granite countertop
    
@@ -308,6 +331,8 @@ Grün /ɡryːn/, das: green
   ein helles/kräftiges Grün: a light/strong green
 
 Grund /ɡrʊnt/, der: reason
+
+Grundschule: elementary/grade school
 
 gültig /ˈɡʏltɪç/: valid, accepted
   der im Moment gültige Fahrplan/Tarif
