@@ -17,6 +17,8 @@ Maler /ˈmaːlɐ/, Malerin: painter
 man /man/: somebody, someone
   man muss es tun: it must be done
   wie sagt man dieses Wort auf Deutsch?
+  Man hat mir gesagt, dass du krank bist.
+  Somebody told me you were ill.
 
 manch /manç/: some, many (a)
   Ich habe noch manch anderes zu tun.
@@ -24,7 +26,7 @@ manch /manç/: some, many (a)
 
 manchmal /ˈmançmaːl/: sometimes
 
-Mangel /ˈmaŋəl/, Mängel, der: shortage, lack
+Mangel /ˈmaŋəl/, Mängel, der: shortage, lack, defect, fault, flaw
 
 männlich /ˈmɛnlɪç/: male
 
@@ -37,7 +39,13 @@ Maschine /maˈʃiːnə/, die: machine, plane
 
 Massaker /maˈsaːkɐ/, das: massacre
 
+Maß /maːs/, das: measure, dimension
+  => messen
+  über die/alle Maßen: beyond all measure
+
 maßlos /ˈmaːsloːs/: extreme, excessive
+
+Maßnahmenbündel, das, Maßnahmenkatalog, der, Maßnahmenpaket, das: packet of meassures
 
 Mauer /ˈmauɐ/, die: wall
   die (Berliner) Mauer
@@ -92,6 +100,10 @@ merkwürdig /ˈmɛrkvʏrdɪç/: strange, odd
   That seems odd to me.
 
 messen /ˈmɛsən/: to meaure
+
+Messer, das: knife
+
+Messerstecherei /mɛsɐʃtɛçəˈrai/, die: knife fight, stabbing
 
 Messing /ˈmɛsɪŋ/, das: brass
 
