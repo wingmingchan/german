@@ -67,6 +67,7 @@ der Biergarten, der 2.7.23:54
 
 bin 1.3.06:23
   Ich bin Amerikaner 1.3.06:23
+  Ich bin's. 1.12
 
 bis 1.10.00:24
   bis morgen 1.11.24:37
