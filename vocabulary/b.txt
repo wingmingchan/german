@@ -174,6 +174,10 @@ beklagen /bəˈklaːɡən/: to complain, to lament, to mourn
 
 bekommen /bəˈkɔmən/: to get, to receive, to have
 
+belasten /bəˈlastən/: to burden, to pollute
+  Treibgase, die das Klima belasten
+  propellants that have a negative effect on the climate
+
 belästigen /bəˈlɛstɪɡən/: to bother, to annoy, to trouble, to pester, to harass
   ein Frau sexuell belästigen: to sexually harass a woman
 
@@ -198,6 +202,10 @@ benötigen /bəˈnøːtɪɡən/: to need, to require
   Es benötigt mehrere Stunden, bis der Lack trocken ist.
   It takes several hours for the paint to dry.
   => nötig
+
+benutzen: to use
+  Ich benutze das Handy nur zum Telefonieren.
+  I only use my cell for phone calls.
 
 beobachten /bəˈ|oːbaxtən/: to observe, to watch
   Tiere in der Wildnis beobachten: to observe animals in the wild
@@ -312,6 +320,8 @@ beten /ˈbeːtən/: to pray
 betrachten /bəˈtraxtən/: to look at, to consider, to observe
   ein Kunstwerk eingehend betrachten: to view an art work in detail
 
+Betrieb, der: operation, company
+
 betrügen /bəˈtryːɡən/: to cheat
   Er lügt und betrügt, wann es ihm passt.
   He lies and cheats whenever it's to his advantage.
@@ -412,6 +422,8 @@ blamieren /blaˈmiːrən/: to embarrass, to disgrace
 blasen /ˈblaːzən/: to blow
   blasen, damit die Suppe abkühlt
   to blow on the soup to cool it
+
+blass /blas/: pale
 
 Blei /blai/, das: (metal) lead
 
