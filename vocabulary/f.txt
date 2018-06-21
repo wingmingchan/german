@@ -31,6 +31,10 @@ fallen /ˈfalən/: to fall
   falle, fällst, fällt, ihr fallt, bin gefallen
   fiel, fielst, fiel, fielen, ihr fielt
 
+falls: in case, if
+  Falls du keine Zeit hast, können wir den Termin auch verschieben.
+  If you don't have time we can postpone the appointment.
+
 falsch /falʃ/: wrong, false, faked
 
 fände => finden
@@ -82,6 +86,8 @@ fein /fain/: fine, subtle
   feine Unterschiede machen: to make subtle distinctions
 
 Feindschaft /ˈfaintʃaft/, die: hostility
+
+Feld /fɛlt/, das: field
 
 Fenster /ˈfɛnstɐ/, das: window
   Möchten Sie am Fenster sitzen oder am Gang?
@@ -165,6 +171,8 @@ Flüchtling /ˈflʏçtlɪŋ/, der: refugee
 
 Flug /fluːk/, der: flight
 
+Flughafen /ˈfluːkhaːfən/, der: airport
+
 Flüssigkeit /ˈflʏsɪçkait/, die: fluid, liquid
   eine farblose/trübe Flüssigkeit: a colorless/cloudy liquid
 
@@ -198,6 +206,8 @@ fordern /ˈfɔrdɐn/: to demand, to press for, to claim lives
   At school, the weak students should be encouraged and the strong ones challenged.
 
 fördern /ˈfœrdɐn/: to promote, to support
+
+Förderschule: special needs school
 
 Form /fɔrm/, Formen: form, shape
   Die Schüssel hatte eine ovale Form.
@@ -233,6 +243,10 @@ frau /frau/: you, one
 
 frei /frai/: free
 
+Freier: suitor
+
+Freiherr /ˈfraihɛr/: baron
+
 freiwillig /ˈfraivɪlɪç/: voluntary
   freiwillige Überstunden: voluntary overtime
   Er hat freiwillig geholfen.
@@ -249,6 +263,10 @@ Frieden /ˈfriːdən/, der: peace
   ein langer, ungestörter Frieden: a long period of uninterrupted peace
 
 friedlich /ˈfriːtlɪç/: peaceful
+
+Frist /frɪst/, die: period (of time), grace period, deadline
+  Ich gebe Ihnen noch zwei Wochen Frist.
+  I'll give you another two weeks.
 
 froh /froː/: glad, happy, good
 
@@ -281,5 +299,10 @@ füllen /ˈfʏlən/: to fill
 
 funktionieren /fʊŋkʦjoˈniːrən/: to function, to work
   Geburtstag /ɡəˈbuːɐʦtaːk/: birthday
+
+fürchten /ˈfʏrçtən/: to be afraid of, to fear
+  ein gefürchteter Gegnera: formidable opponent
+
+Fürst /fʏrst/: prince
 
 Fuß /fuːs/, der: foot
