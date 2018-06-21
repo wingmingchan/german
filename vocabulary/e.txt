@@ -18,7 +18,7 @@ Ecke /ˈɛkə/, die: edge, corner
 
 edel /ˈeːdəl/: noble, fine, premium, pure
 
-Edelleute: nobles
+Edelleute: nobles, nobility
 
 Edelmetall /ˈeːdəlmetal/, das: precious metal
 
@@ -33,6 +33,12 @@ egal /eˈɡaːl/: whatever, irrelevant
   "When should I come?" – "Any time."
 
 eher /ˈeːɐ/: rather
+
+eheste /ˈeːɐstə/: earliest
+  Das ist der eheste Zug, den wir erreichen können.
+  That's the earliest train we can make.
+
+ehesten /ˈeːɐstən/: first
 
 ehrlich /ˈeːɐlɪç/: honest
   Möchtest du eine ehrliche Antwort?
@@ -74,6 +80,8 @@ Eindruck /ˈaindrʊk/, der: impression
 
 einfach /ˈainfax/: easy, simple, easily, simply
 
+einfahren: to bring in, to make, to retract, to drive into, to come
+
 Einfahrt /ˈainfaːɐt/, die: entrance, entry, driveway
   Einfahrt verboten!
   No entry!
@@ -110,7 +118,9 @@ einliefern /ˈainliːfɐn/: to take
 
 einlud => einladen
 
-Einrede, die: objection, protest, contradiction
+einmischen: to interfere
+
+Einrede, die: objection, protest, contradiction, defense
 
 Einsatz /ˈainzaʦ/, der: operation, deployment, use, effort, commitment
 
@@ -119,6 +129,10 @@ einschleichen /ˈainʃlaiçən/: to sneak in
 einstige /ˈainstɪɡə/: former, erstwhile, one-time
   Der einstige Opernstar ist heute Gesangslehrerin.
   The erstwhile opera star is now a singing coach.
+
+einstürzen /ˈainʃtʏrʦən/: to collapse
+  Das alte Haus ist unter der Schneelast eingestürzt.
+  The old house collapsed under the weight of the snow.
 
 Eintrag /ˈaintraːk/, der: entry, record
   Wer hat die letzten Einträge vorgenommen?
@@ -129,6 +143,11 @@ Eintritt /ˈaintrɪt/, der: admission, entrance, entry
   Admission to the exhibition is free.
   Eintritt verboten!
   No entry.
+
+Einweg-: disposable
+  Einweg-Plastikflaschen
+
+Einwohner /ˈainvoːnɐ/: inhabitants
 
 einzig /ˈainʦɪç/: only , solely
   Das ist die einzig mögliche Lösung.
@@ -184,6 +203,11 @@ endlich /ˈɛntlɪç/: finally
   Endlich geht es ihr wieder besser.
   She's finally feeling better. 
 
+eng: narrow
+
+Engpass /ˈɛŋpas/, der: bottleneck, narrow pass
+  => eng: narrow
+
 Englisch /ˈɛŋlɪʃ/
   die englische Sprache
 
@@ -226,6 +250,9 @@ entstehen /ɛntˈʃteːən/: to originate, to arise, to come into being
 entwickeln /ɛntˈvɪkəln/: to develop
 
 Entwicklung /ɛntˈvɪklʊŋ/, die: development
+  Softwareentwicklung
+
+Entwurf /ɛntˈvʊrf/, der: design, draft, sketch
 
 er-: some result is achieved, the beginning of a process
 
@@ -342,9 +369,13 @@ erschaffen /ɛɐˈʃafən/: to create
   Gott erschuf die Welt und den Menschen.
   God created the world and humankind.
 
+erschrak => erschrecken
+
 erschrecken /ɛɐˈʃrɛkən/: to get a fright, to be startled, to frighten
 
-erst /eːɐst/: first, not until, 
+erschweren /ɛɐˈʃveːrən/: to make more difficult, to aggravate, to impede
+
+erst /eːɐst/: first, not until, only
   Lass ihn doch erst mal die Jacke ausziehen.
   Let him take off his jacket first.
   Der nächste Bus fährt erst um 10 Uhr/in 20 Minuten.
