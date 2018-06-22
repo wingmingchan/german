@@ -6,6 +6,8 @@ machen 1.8.12:21
 
 Mädchen 1.20.08:32
 
+Mal, das 3.18.19:57
+
 mal
   Sag mal 2.9.02:14
 
@@ -31,8 +33,14 @@ mehr 2.1.27:20
 
 Meier 1.2.06:50
 
+Meile, die
+  Meilen 3.19.21:52
+  Meilen pro Stunde 3.19.22:07
+
 mein 1.18.06:19
   meine 07:45
+
+meinen 3.17.18:32
 
 meisten 3.10:10:14
 
@@ -65,6 +73,7 @@ mit 1.8.16:24
   mit uns 2.15.04:53
   mit wem 1.8.15:51
   wie wäre es mit einem Bier 2.5.03:17
+  mit unserem neuen Kunden 3.18.14:08
   
 mit
   Und ich bringe meinen Mann mit 2.25.16:53
