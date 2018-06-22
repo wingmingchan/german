@@ -52,6 +52,10 @@ Rätsel /ˈrɛːʦəl/, das: puzzle, riddle, mystery
   Ich gebe dir ein Rätsel auf: …
   I've got a riddle for you: …
 
+Rang /raŋ/, der: rank, position , status
+
+rauchen /ˈrauxən/: to smoke
+
 Raum /raum/, Räume /ˈrɔymə/, der: room, space
 
 räumen /ˈrɔymən/: to clear, to put away, to vacate
@@ -82,6 +86,9 @@ recken /ˈrɛkən/: to stretch
   Er reckte den Hals.
   He craned his neck.
 
+recyceln /riˈsaikəln/: to recycle
+  Altpapier und Altglas recyceln: to recycle waste paper and glass
+
 Rede /ˈreːdə/, die: speech
   zum Amtsantritt eine Rede halten: to give/make a speech on entering office
 
@@ -103,7 +110,7 @@ regnen /ˈreːɡnən/: to rain
 
 Reich, das: empire
 
-Reihe /ˈraiə/, die: row, line
+Reihe /ˈraiə/, die: row, line, ranks
    Die Bäume stehen in einer Reihe.
    The trees are standing in a row.
 
@@ -129,7 +136,9 @@ Renteneintritt, der: retirement
 
 Rest /rɛst/, der: rest, remainder
 
-retten /ˈrɛtən/: to rescue
+retten /ˈrɛtən/: to rescue, to save
+  jdm das Leben retten: to save sb's life
+  sich retten: to escape
 
 rettete => retten
 
@@ -137,6 +146,10 @@ Rezept /reˈʦɛpt/, das: recipe, prescription
   ein Rezept für Käsekuchen: a recipe for cheesecake
 
 richten /ˈrɪçtən/: to direct, to point, to turn
+
+Richtlinie /ˈrɪçtliːnjə/: guideline
+
+rief => rufen
 
 Riese /ˈriːzə/: giant
 

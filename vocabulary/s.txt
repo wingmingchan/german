@@ -167,6 +167,10 @@ schmieden /ˈʃmiːdən/: to forge, to hatch
 
 Schmutz /ʃmʊʦ/, der: dirt
 
+schmutzig /ˈʃmʊʦɪç/: dirty
+
+Schnabel /ˈʃnaːbəl/, der: beak, bill
+
 Schnee /ˈʃneː/, der: snow
   Wir mussten uns einen Weg durch den tiefen /tiːf/ Schnee bahnen.
   We had to make a path through the deep snow. 
@@ -226,6 +230,9 @@ Schule /ˈʃuːlə/, die: school
 schulen /ˈʃuːlən/: to train
   Mitarbeiter im Umgang mit der neuen Software schulen: to train employees to use the new software
 
+Schuss, Schüssen, der: gun shot
+  => erschießen
+
 schmutzig /ˈʃmʊʦɪç/: dirty
 
 Schuss /ʃʊs/, Schüsse, der: shot
@@ -234,6 +241,8 @@ schuf => schaffen
 
 Schutz /ʃʊʦ/, der: protection , shelter
 
+schützen /ˈʃʏʦən/: to protect
+
 schwach /ʃvax/: weak, poor
   Dafür sind seine Muskeln zu schwach.
   My muscles are too weak for that.
@@ -241,6 +250,8 @@ schwach /ʃvax/: weak, poor
 Schwäche /ˈʃvɛçə/, die: weakness, failing
   Sie bekam einen Schwächeanfall.
   She suddenly felt faint.
+
+schwank: frail, slender
 
 schwarz /ʃvarʦ/, schwarzen: black
 
@@ -256,6 +267,8 @@ schweigen /ˈʃvaiɡən/: to remain silent
   He looked at me in dismayed silence.
 
 schwer /ʃveːɐ/: heavy, severe, difficult
+
+Schwert /ˈʃveːɐt/, das: sword
 
 schwierig /ˈʃviːrɪç/: difficult
 
@@ -324,7 +337,8 @@ Service ˈsøːɐvɪs/, der: service, custom service
   Kostenlose Lieferung gehört zu unserem Service.
   Free delivery is part of our service.
 
-setzen /ˈzɛʦən/: to sit
+setzen /ˈzɛʦən/: to sit, to set
+  Frist gesetzt: deadline set
 
 sexuell /zɛˈksuɛl/: sexual
 
@@ -351,6 +365,8 @@ sie: she, it, they
   Sie wollen heiraten. They want to get married.
 
 siegeln /ˈziːɡəln/: to seal
+
+sieht => sehen
 
 Sinn /zɪn/, der: meaning, mind
   Seine Worte gingen mir nicht aus dem Sinn.
@@ -415,7 +431,7 @@ sonst /zɔnst/: normally, else, otherwise
 Sorge /ˈzɔrɡə/, die: worry
   jdm Sorgen machen/bereiten: to cause sb a lot of worry; to worry sb
 
-sorgen /ˈzɔrɡən/: to cater, to provide, to ensure, to worry
+sorgen /ˈzɔrɡən/: to cater, to provide, to ensure, to worry, to cause
 
 sowie /zoˈviː/: and, as well as
 
@@ -439,6 +455,10 @@ Spiegel /ˈʃpiːɡəl/, der: mirror
   sich im Spiegel betrachten: to look at yourself in the mirror
 
 Spitzname /ˈʃpɪʦnaːmə/, der: nickname
+
+Spott /ʃpɔt/, der: mockery
+  Sie litt sehr unter dem Spott ihrer Mitschüler.
+  She was mercilessly teased by the other kids at her school.
 
 Sprache /ˈʃpraːxə/, die: language
   Latein ist eine tote Sprache.
@@ -469,11 +489,17 @@ Staatsbesuch, der: state visit
 
 Staatsgründung: founding of a state
 
-Stadt /ʃtat/, die: city
+Stäbchen /ˈʃtɛːpçən/, das: chopstick
+
+Stadt /ʃtat/, Städte, die: city
 
 Stadtteil /ˈʃtattail/, der: district
 
 *Stahl /ʃtaːl/, der: steel
+
+Stand /ʃtant/, der: state, level
+
+stand => stehen
 
 ständig /ˈʃtɛndɪç/: permanent, constantly
    Unterbrich mich nicht ständig!
@@ -501,6 +527,8 @@ Status /ˈʃtaːtʊs/, der: status
 
 Stau /ʃtau/, der: traffic jam
   im Stau stehen: to be in a traffic jam
+
+Stecher /ˈʃtɛçɐ/: sex partner
 
 stecken /ˈʃtɛkən/: to be, to put
   viel Arbeit/Geld/… in etw. stecken: to put a lot of work/money/… into sth
@@ -574,7 +602,7 @@ streifen: to brush against, to graze
 
 Streik /ʃtraik/, der: strike
 
-Streit /ʃtrait/, der: argument, quarrel
+Streit /ʃtrait/, der: argument, quarrel, dispute
   Ich bekam mit den Nachbarn Streit wegen der Katze.
   I got into an argument with the neighbors over the cat.
 
@@ -584,12 +612,18 @@ streitig /ˈʃtraitɪç/: to dispute sb's right to sth
 
 Streitkräfte /ˈʃtraitkrɛftə/ (pl): armed forces
 
+streuen /ˈʃtrɔyən/: to scatter, to spread
+
+Strohhalm /ˈʃtroːhalm/: straw
+  Plastikstrohhalme
+
 Strom /ʃtroːm/, der: electricity, torrent, stream, current
   Der alte Kühlschrank verbraucht zu viel Strom.
   The old fridge uses too much electricity.
   Der Fluss schwoll zu einem reißenden Strom an.
   The river swelled to a raging torrent.
   in Strömen: in large quantities
+  Stromausfall
 
 strömen /ˈʃtrøːmən/: to stream, to flow, to flock, to gush, to pour
 

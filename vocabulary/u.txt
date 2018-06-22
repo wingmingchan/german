@@ -24,7 +24,8 @@ U /uː/ U wie Ulrich, Ü wie Übermut
   Es gibt immer mehr übergewichtige Kinder.
   There are more and more overweight children.
 
-überhaupt /yːbɐˈhaupt/: in general, of all, at all
+überhaupt /yːbɐˈhaupt/: in general, of all, anyhow, anyway, at all, actually
+  überhaupt keine Fehler machen: to make no mistakes at all
 
 überleben /yːbɐˈleːbn/: to survive
   20 Menschen überlebten den Flugzeugabsturz.
@@ -33,6 +34,10 @@ U /uː/ U wie Ulrich, Ü wie Übermut
 übermorgen /ˈyːbɐmɔrɡən/: the day after tomorrow
 
 übermüdet /yːbɐˈmyːdət/: overtired
+
+übermütig /ˈyːbɐmyːtɪç/: high-spirited , cocky
+  Durch den Erfolg war sie übermütig geworden.
+  Success had made her cocky.
 
 überprüfen /yːbɐˈpryːfən/: to check
   Überprüf doch noch mal, ob die Fenster wirklich alle zu sind.
@@ -75,6 +80,8 @@ U /uː/ U wie Ulrich, Ü wie Übermut
   There's no cake left.
 
 Ufer /ˈuːfɐ/, das: bank, shore
+  Der Fluss ist über die Ufer getreten.
+  The river burst its banks.
 
 Uhr /uːɐ/, die: watch, clock
   Meine Uhr ist stehen geblieben.
@@ -98,9 +105,16 @@ umgangssprachlich /ˈʊmɡaŋsʃpraːxlɪç/: colloquial, slang
 
 umgarnen /ʊmˈɡarnən/: to beguile
 
+umgeben /ʊmˈɡeːbən/: to surround
+  Das Haus war von einer Hecke umgeben.
+  The house was surrounded by a hedge.
+
 umliegende /ˈʊmliːɡəndə/: surrounding
 
 Umrechnung /ˈʊmrɛçnʊŋ/, die: conversion
+
+umrühren /ˈʊmryːrən/: to stir
+  Stäbchen zum Umrühren
 
 Umschlag /ˈʊmʃlaːk/, der: envelope, cover, jacket
   eine CD in einem wattierten Umschlag verschicken: to send a CD in a padded envelope
@@ -111,6 +125,10 @@ Umstand /ˈʊmʃtant/, der: circumstance
 umstritten /ʊmˈʃtrɪtən/: controversial
   Diese Theorie ist ziemlich umstritten.
   This theory is pretty controversial.
+
+Umwelt /ˈʊmvɛlt/, die: environment
+  Schadstoffe verschmutzen die Umwelt.
+  Harmful substances pollute the environment.
 
 umziehen /ˈʊmʦiːən/: to move
   Letztes Jahr sind wir von Hamburg nach Berlin umgezogen.
@@ -136,9 +154,15 @@ Unfall /ˈʊnfal/, der: accident
 
 unfassbar /ʊnˈfasbaːɐ/: incomprehensible, incredible
 
+unfähig /ˈʊnfɛːɪç/: to be incapable of sth, incompetent
+  Die neue Mitarbeiterin ist völlig unfähig.
+  The new co-worker is completely incompetent.
+
 ungefähr /ˈʊnɡəfɛːɐ/: approximately, roughly
 
 ungewiss /ˈʊnɡəvɪs/: uncertain
+
+ungewöhnlich: unusual
 
 Unglück /ˈʊnɡlʏk/, das: disaster
 
@@ -174,6 +198,8 @@ Unternehmen /ʊntɐˈneːmən/, das: company, firm, business, venture, operation
 unternehmen /ʊntɐˈneːmən/: to do, to go on, to (under)take, to make
   Wollen wir morgen etwas gemeinsam unternehmen?
   Shall we do something together tomorrow?
+
+unternommen => unternehmen
 
 Unterricht /ˈʊntɐrɪçt/, der, pl: classes, instruction, teaching
   (jdm) Unterricht geben

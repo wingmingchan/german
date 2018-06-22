@@ -6,6 +6,10 @@ wachen /ˈvaxən/: to watch over, to keep watch
   darüber wachen, dass sich alle an die Regeln halten
   to watch that everyone keeps to the rules
 
+wachsen /ˈvaksən/: to grow
+
+wächst => wachsen 
+
 Waffe /ˈvafə/, die: weapon
 
 Wahlkampf /ˈvaːlkampf/, der: election campaign
@@ -46,6 +50,8 @@ wandte => wenden
 
 Wange /ˈvaŋə/, die: cheek
 
+ward => werden
+
 warm /varm/: warm
 
 warnen /ˈvarnən/: to warn
@@ -77,6 +83,8 @@ wecken: to wake up, to arouse
   Es gelang ihr nicht, bei den Kindern Interesse zu wecken.
   She didn't manage to awaken any interest amongst the children.
 
+weder … noch: neither … nor
+
 Weg /veːk/, der: path, way, route
   jdn nach dem Weg fragen: to ask sb the way
 
@@ -91,13 +99,19 @@ wegen /ˈveːɡən/: for, over, because of, on account of
 wegsaufen: to drink intended for else
   => saufen
 
+Wegwerfware, die: disposable goods
+
 *Weib /vaip/, das: female, babe, woman, wife
 
 weiblich /ˈvaiplɪç/: female
 
 Weihnachtsfeiertag, Weihnachtstag /ˈvainaxʦtaːk/, der: Christmas Day
 
-weisen /ˈvaizən/: to point, to show
+Wein, der: wine
+
+Weinfass, das: wine cask
+
+weisen /ˈvaizən/: to point, to show, to reject
   weise, weist, weist, habe gewiesen
   wies, wiesest, wies, wiesen, wieset
   Sie wies mit der Hand in seine Richtung.
@@ -210,10 +224,12 @@ Wochenende /ˈvɔxən|ɛndə/, das: weekend
 woher /voˈheːɐ/: from where
   Woher kommt er?
 
-wohl /voːl/: probably
+wohl /voːl/: probably, perhaps, possibly
 
 wohl: well
   Lebe wohl! Farewell!
+
+wohnlich /ˈvoːnlɪç/: cozy
 
 *Wolke /ˈvɔlkə/, die: cloud
 
@@ -232,7 +248,7 @@ wovon /voˈfɔn/: from what, from which
 
 wundern /ˈvʊndɐn/: to be surprised, to surprise
 
-Wunsch /vʊnʃ/, der: wish
+Wunsch /vʊnʃ/, Wünsche /ˈvʏnʃə/, der: wish
 
 wünschen /ˈvʏnʃən/: to wish, to want
   Was wünschst du dir von uns zum Geburtstag?
@@ -242,9 +258,13 @@ Wurfgeschoss, das: missile, projectile
 
 Wurzel /ˈvʊrʦəl/, die: root
 
+wusste => wissen
+
 Wut /vuːt/, die: starkes Gefühl des Ärgers, rage, fury
 
 Wutanfall /ˈvuːt|anfal/, der: fit of rage, tantrum
+
+wüten: to rage, to riot, to wreak havoc
 
 wütend /ˈvyːtənt/: furious
   Sie war sehr wütend auf ihren Chef.

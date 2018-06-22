@@ -22,9 +22,15 @@ verantwortlich /fɛɐˈ|antvɔrtlɪç/: responsible
 
 verbergen /fɛɐˈbɛrɡən/: to hide
 
+verbieten /fɛɐˈbiːtən/: to forbid
+  Meine Eltern haben mir verboten, mit dir zu spielen.
+  My parents have forbidden me from playing with you.
+
 Verbindung /fɛɐˈbɪndʊŋ/, die: connection, link
   Die kürzeste Verbindung zwischen zwei Punkten heißt Strecke.
   The shortest link between two points is called a line.
+
+Verbot /fɛɐˈboːt/, das: ban
 
 verbrannt => verbrennen
 
@@ -73,6 +79,10 @@ Vergleich /fɛɐˈɡlaiç/, der: comparison
 
 vergleichen /fɛɐˈɡlɪçən/: to compare
   verglichen mit: compared with
+
+vergraulen /fɛɐˈɡraulən/: to scare away
+  Die unfreundliche Bedienung vergrault uns die ganzen Gäste!
+  The unfriendly service is scaring away all our guests.
 
 Verhalten /fɛɐˈhaltən/, das: behavior
   Ich kann sein Verhalten nicht verstehen.
@@ -176,10 +186,16 @@ verschicken /fɛɐˈʃɪkən/: to send (off/out)
   Die Pakete wurden bereits gestern verschickt.
   The parcels were already sent off/dispatched yesterday.
 
+verschmäht: jilted lover
+
 versetzen /fɛɐˈzɛʦən/: to transfer, to promote, to move, 
 
 versiegeln /fɛɐˈziːɡəln/: to seal
   ein versiegelter Umschlag: a sealed envelope
+
+Versorgung /fɛɐˈzɔrɡʊŋ/, die: supply, treatment
+  Die Stromversorgung ist gesichert.
+  The electricity supply is secure.
 
 Versprechen, das: promise
 
@@ -209,6 +225,8 @@ Versuch /fɛɐˈzuːx/, der: attempt
 
 Vertrag /fɛɐˈtraːk/, der: contract
   einen Vertrag mit jdm schließen: to sign a contract with sb
+
+vertraulich: confidential
 
 vertreiben: dispel, evict, expel
 
@@ -243,6 +261,8 @@ verzögern /fɛɐˈʦøːɡɐn/: to delay
 Verzögerung: deferral, delay, lag, retardation
 
 vielmehr /ˈfiːlmeːɐ/: rather
+
+vierte: fourth
 
 Viertel /ˈfirtəl/, das: quarter
 
@@ -301,6 +321,10 @@ vorkommen /ˈfoːɐkɔmən/: to happen, to occur, to be found, to seem, to come 
   That seems strange to me.
 
 vorn /fɔrn/: in front
+
+Vorschlag, der: suggestion
+
+vorschlagen: to suggest
 
 Vorsicht /ˈfoːɐzɪçt/, die: caution, care
 
