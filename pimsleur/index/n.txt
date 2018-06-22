@@ -25,6 +25,8 @@ natürlich 2.13.20:53
 
 neben 3.5.14:38
 
+Neffe, der 3.17.16:33
+
 nehmen 1.24.09:49
   nehmen Sie die Straße nach Berlin 1.24.09:43
 
@@ -32,6 +34,9 @@ nein 1.1.06:07
 
 nett 2.9.08:41
   Das ist nett von dir 2.9.16:23
+
+neu 2.22.00:22
+  neues 2.21.24:50
 
 neun
   neun Uhr 1.9.12:36
@@ -54,6 +59,8 @@ noch 1.14.13:42
   noch nicht 1.21.00:21
   noch eine 2.16.17:53
   noch einmal 2.16.18:12
+
+normalerweise 3.20.03:41
 
 Notiz, Notizen, die 3.5.13:28
 
