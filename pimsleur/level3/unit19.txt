@@ -7,7 +7,7 @@ Unit 19: Ich fahre gerne auf der Autobahn wenn nicht viel Verkehr ist
 Wie war Ihre Reise nach Zürich, Frau Thompson?
 Sehr gut, Herr Bach. Vielen Dank. Die Besprechung mit unserem neuen Kunden war erfolgreich.
 Prima! Haben Sie auch etwas von der Stadt gesehen?
-Ja, ich habe einen lang Spaziergang durch die Stadt gemacht.
+Ja, ich habe einen langen Spaziergang durch die Stadt gemacht.
 Und waren Sie auch im Theater? Das Theater in Zürich ist sehr gut.
 Nein, im Theater war ich nicht. Mein Deutsch ist noch nicht gut genug.
 Aber ich war im Konzert.
@@ -19,9 +19,9 @@ Auch nicht schlecht.
 01:54 Sind Sie mit dem Zug gefahren?
 02:15 Nein, mit dem Auto.
 02:19 Wie fragt er, wann Sie in Zürich angekommen sind?
-02:27 Wann sind Sind in Zürich angekommen?
+02:27 Wann sind Sie in Zürich angekommen?
 02:51 Ich bin angekommen
-03:07 Ich bin schon Mittwoche Abend angekommen.
+03:07 Ich bin schon Mittwoch Abend angekommen.
 03:22 Wie war die Besprechung?
 03:32 mit unserem Kunden
 03:43 mit unserem neuen Kunden
@@ -39,7 +39,7 @@ Auch nicht schlecht.
 07:00 Sie haben kein Englisch gesprochen.
 07:16 Im Restaurant, haben wir nur Deutsch gesprochen.
 07:36 Ah ja?
-07:52 Wo ist die die Goethestraße?
+07:52 Wo ist die Goethestraße?
 08:06 Das Restaurant war in der Goethestraße.
 
 /ˈautobaːn/
@@ -51,7 +51,7 @@ Auch nicht schlecht.
 10:16 Sind Sie auf der Autobahn gefahren?
 10:40 Ja, natürlich, auf der Autobahn!
 10:54 Fahren Sie gerne auf der Autobahn?
-11:13 Verkehr, der
+11:13 Verkehr, der /f̯ɛɐˈkeːɐ/
 11:50 Ich fahre gerne auf der Autobahn
 12:03 wenn nicht viel Verkehr ist.
 12:22 Wie war der Verkehr heute?
