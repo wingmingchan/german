@@ -108,6 +108,7 @@ wissen
   Sie wissen es 1.5.10:20
   Wissen Sie es? 1.5.10:56
   Wissen Sie wo das Restaurant ist? 1.8.20:29
+  gewusst 3.20.17:46
 
 wo 1.4.09:46
   wo ist 1.4.10:09
