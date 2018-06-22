@@ -10,12 +10,13 @@ Der Verkehr auf der Autobahn war heute sehr stark.
 Das kann ich mir vorstellen. Es ist besser, am Sonntag nicht auf der Autobahn zu fahren.
 Ja! Nächstes Mal fahre ich sicher nicht auf der Autobahn.
 ? Ist der Verkehr am Sonntag auch immer so stark?
-Nein, normalerweise nur am Feiertagen.
+Nein, normalerweise nur an Feiertagen.
 ========================================================
 01:10 Guten Tag, Jean. Kommen Sie herein.
 01:24 Guten Tag, Thomas.
 01:36 Möchten Sie sich setzen?
 01:52 Danke sehr.
+01:56 Fragen Sie Ihren Bekannten wie es ihn geht.
 02:02 Wie geht es Ihnen?
 02:15 Gut, danke. Und Ihnen?
 02:25 Es geht.
@@ -91,10 +92,10 @@ Nein, normalerweise nur am Feiertagen.
 22:15 Man hat es mir gesagt
 22:27 Man hat es mir gestern gesagt
 22:44 erst gestern
-22:48 erst
+22:48 erst /eːɐst/
 23:13 Erst gestern?
 23:26 nur ein bisschen
-23:47 Ja, man hat es mir erst gestern gesagt
+23:47 Ja, man hat es mir erst gestern gesagt,
 24:15 dass mein nächstes Projekt in Kanada ist.
 24:36 erst gestern
 24:50 Man hat es mir erst gestern gesagt.
@@ -105,7 +106,7 @@ Nein, normalerweise nur am Feiertagen.
 25:52 Am Montag. Das ist ein Feiertag.
 26:04 Es tut mir leid.
 26:17 Am Montag bin ich in Frankreich.
-26:36 Ich habe dort einen Projekt.
+26:36 Ich habe dort ein neues Projekt.
 26:50 Ah ja?
 27:03 Leider werde ich nicht hier sein.
 27:16 Ja, schade!
