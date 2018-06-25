@@ -1,7 +1,7 @@
 ﻿========================================================
 2nd Edition, 2010
 
-Unit 21: 
+Unit 21: Mein Mann ist noch oben
 ========================================================
 
 Guten Tag, Frau Kurt.
@@ -44,9 +44,8 @@ Auf Wiedersehen, Herr Gordon.
 07:34 Ich habe es nicht gewusst.
 07:54 Das habe ich nicht gewusst.
 08:14 Meine Kollegen werden auch weggehen.
-08:39 Eine geht nach Österreich,
-08:51 eine geht in die Schweiz,
-09:06 eine geht mit mir nach Kanada.
+08:39 Einer geht nach Österreich,
+08:51 einer geht mit mir nach Kanada.
 09:22 Aber die meisten Kollegen gehen nach Amerika.
 09:45 zurück nach Amerika
 
