@@ -339,6 +339,10 @@ anzünden /ˈanʦʏndən/: to light
 
 Apfel /ˈapfəl/, der: apple
   Apfelkuchen: apple pie
+  Apfelschorle, die: apple juice and mineral water
+
+Appetit /apeˈtiːt/, der
+  Guten Appetit!
 
 Äquator /ɛˈkvaːtoːɐ/, der: Equator
 
@@ -364,6 +368,8 @@ Armut /ˈarmuːt/, die: poverty
 Arzt /arʦt/, Ärztin: doctor
   ein Attest des behandelndes Arztes vorlegen
   to hand in a certificate from the attending physician
+
+Aschenbecher /ˈaʃənbɛçɐ/, der: ashtray
 
 Ast /ast/, Äste /ˈɛstə/, der: branch
   Die Affen schwingen sich von Ast zu Ast.
@@ -405,6 +411,16 @@ auffällig /ˈauffɛlɪç/: noticeable, conspicuous, unusual, odd, strikingly, c
   It's noticeable that …
 
 aufgeben /ˈaufɡeːbən/: to give up, to stop, to give, to leave
+
+aufgehen: to rise, to open, to work, sb realizes sth
+  Morgen geht die Sonne in Berlin um 4:58 Uhr auf.
+  Tomorrow the sun rises in Berlin at 4.58 am.
+  Plötzlich ging die Tür auf und Robert kam herein.
+  Suddenly the door opened and Robert came in.
+  Die Strategie könnte aufgehen.
+  The strategy might work.
+  Ihm ging auf, dass er einen Fehler gemacht hatte.
+  He realized that he had made a mistake.
 
 aufhalten /ˈaufhaltən/: to hold up, to stop, to detain
 
