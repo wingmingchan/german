@@ -32,7 +32,9 @@ Tau /tau/, der: dew
 
 Tau, das: rope
 
-tauchen /ˈtauxən/: to dive, to swim underwater, to duck
+tauchen /ˈtauxən/: to dive, to swim underwater, to duck, to shroud
+  Der Raum war ins Dunkel/in sanftes Kerzenlicht getaucht.
+  The room was shrouded in darkness/bathed in soft candlelight.
 
 Tausch /tauʃ/, der: exchange, swap
 
@@ -150,6 +152,10 @@ treiben /ˈtraibən/: to drive
   Die Hirten trieben die Schafe in den Stall.
   The shepherds drive the sheep into the pen.
 
+trennen: to separate
+  Eine hohe Mauer trennt die beiden Grundstücke.
+  A high wall separates the two properties.
+
 treten /ˈtreːtən/: to kick, to step, to trample, to tread, to enter
   jdm gegen das Schienbein/auf den Fuß treten
   to kick sb in the shin/tread on sb's foot
@@ -160,6 +166,7 @@ trieb => treiben
 
 trinken: to drink
   trinke, trinkst, trinkt, habe getrunken
+  Zum Trinken?
 
 Trockenheit, die: dryness
   Die Pflanze reagiert sehr empfindlich auf Trockenheit und hohe Temperaturen.
@@ -190,3 +197,4 @@ trügen /ˈtryːɡən/: to deceive
   My hopes didn't deceive me.
 
 Tür /tyːɐ/, Türen, die: door
+  Haustür: front door
