@@ -193,6 +193,8 @@ Schokolade, die /ʃokoˈlaːdə/: chocolate
 
 Schokoladenkuchen, der: chocolate cake
 
+Schorle /ˈʃɔrlə/, die: wine mixed with mineral water or lemonade, fruit juice mixed with mineral water
+
 schreiben /ˈʃraibən/: to write
   Er schreibt Reportagen /repɔrˈtaːʒən/.
 
@@ -266,6 +268,10 @@ schweigen /ˈʃvaiɡən/: to remain silent
   Er sah mich betroffen an und schwieg.
   He looked at me in dismayed silence.
 
+Schwelle: threshold
+  die Braut über die Schwelle tragen
+  to carry the bride over the threshold
+
 schwer /ʃveːɐ/: heavy, severe, difficult
 
 Schwert /ˈʃveːɐt/, das: sword
@@ -305,6 +311,10 @@ sehr /zeːɐ/: very
   You're very welcome.
 
 Seife /ˈzaifə/, die: soap
+
+seicht: shallow
+  Der Fluss ist seicht genug, um hindurchzuwaten.
+  The river is shallow enough to wade through.
 
 sein /zain/: to be
   bin, bist, ist, sind, ihr seid, bin gewesen
@@ -380,6 +390,9 @@ Skandal /skanˈdaːl/, der: scandal
 skurril /skuˈriːl/: absurd
   Ich finde die Idee schon ein wenig skurril.
   I think the idea's pretty absurd.
+
+schmecken: to taste, to like
+  Hat's geschmeckt?
 
 sobald /zoˈbalt/: as soon as
   Sobald er anruft, gebe ich Ihnen Bescheid.
