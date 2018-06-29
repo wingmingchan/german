@@ -58,7 +58,10 @@ schaffen /ˈʃafən/: to do, to manage, to finish, to take, to put, to work, to 
 
 scharf /ʃarf/: sharp, strong, hot, spicy, rigorous, tough
 
-Schatten /ˈʃatən/, der: shadow
+Schatten /ˈʃatən/, der: shadow, shade
+  Er folgte mir wie ein Schatten.
+  He followed me like a shadow.
+  im Schatten sitzen: to sit in the shade
 
 schaudern /ˈʃaudɐn/: to shiver
 
@@ -165,6 +168,9 @@ schmieden /ˈʃmiːdən/: to forge, to hatch
   Sie schmieden schon Urlaubspläne.
   They're already making vacation plans.
 
+schmieren: to spread, to smear, to rub
+  jdm Sonnencreme auf den Rücken schmieren: to rub sun cream on sb's back
+
 Schmutz /ʃmʊʦ/, der: dirt
 
 schmutzig /ˈʃmʊʦɪç/: dirty
@@ -234,8 +240,6 @@ schulen /ˈʃuːlən/: to train
 
 Schuss, Schüssen, der: gun shot
   => erschießen
-
-schmutzig /ˈʃmʊʦɪç/: dirty
 
 Schuss /ʃʊs/, Schüsse, der: shot
 
@@ -464,8 +468,13 @@ spätestens /ˈʃpɛːtəstəns/: at the latest
   Ich muss spätestens um Mitternacht zu Hause sein.
   I have to be home no later than midnight.
 
+spenden /ˈʃpɛndən/: to donate, to give, to provide
+
 Spiegel /ˈʃpiːɡəl/, der: mirror
   sich im Spiegel betrachten: to look at yourself in the mirror
+
+Spinne, die: spider
+  Spinnennetz: spiderweb
 
 Spitzname /ˈʃpɪʦnaːmə/, der: nickname
 
@@ -510,7 +519,8 @@ Stadtteil /ˈʃtattail/, der: district
 
 *Stahl /ʃtaːl/, der: steel
 
-Stand /ʃtant/, der: state, level
+Stand /ʃtant/, der: stall, state, level
+  ein Marktstand mit Gemüse und Früchten: a market stall selling fruit and vegetables
 
 stand => stehen
 
