@@ -8,6 +8,14 @@ aalen /ˈaːlən/: to laze, to bask
   Wir haben uns stundenlang in der Sonne geaalt.
   We basked in the sun for hours.
 
+Aas /aːs/, das: carrion, jackass
+  Geier ernähren sich von Aas.
+  Vultures live on carrion.
+  So ein mieses Aas!
+  What a mean jackass!
+  Das interessiert kein Aas.
+  Nobody gives a damn about that.
+
 ab
   ab und zu/an: manchmal
 
@@ -50,11 +58,19 @@ abgeben /ˈapɡeːbən/: to hand in, to check, to share sth with sb
   Gibst du mir ein Stück von deinem Kuchen ab?
   Are you going to give me a piece of your cake?
 
+abgelegen: remote
+  Das Hotel ist weit abgelegen vom Zentrum.
+  The hotel is miles away from the downtown.
+
 Abgeordnete /ˈapɡə|ɔrdnətə/: representative
   eine Abgeordnete des deutschen Bundestages: a Member of the German Federal Parliament
 
 abgestoßen: repelled, revoted
   => stoßen: to push, to shove
+
+Abgrund /ˈapɡrʊnt/, Abgründe, der: abyss
+  vom Gipfel in den Abgrund blicken: to look down into the depths from the summit
+  ein Abgrund an Gewalt: extreme violence
 
 Abkommen /ˈapkɔmən/, das: agreement
   ein Friedensabkommen unterzeichnen: to sign a peace treaty
@@ -63,6 +79,10 @@ abkommen: to go off sth, to give up sth
   ein Sünder, der vom rechten Weg abgekommen ist: a sinner who has gone astray
   Ich bin davon abgekommen, alles allein schaffen zu wollen.
   I've given up the ideal of trying to all of that on my own.
+
+ablaufen: to expire, to run out, to drain
+  Die Frist läuft nächsten Monat ab.
+  The deadline expires next month.
 
 abmachen /ˈapmaxən/: to take off, to agree
   das Preisschild abmachen: to take the price tag off
@@ -87,6 +107,12 @@ absagen /ˈapzaːɡən/: to cancel
   Das Konzert wurde wegen Krankheit abgesagt.
   The concert was cancelled due to illness.
 
+abscheulich /apˈʃɔylɪç/: hideous, disgusting
+  Sei doch nicht so abscheulich zu deinem Bruder!
+  Don't be so horrible to your brother.
+  Sie findet Spinnen abscheulich.
+  She finds spiders repulsive.
+
 abschieben /ˈapʃiːbən/: to deport, to shift
   habe abgeschoben
   => schieben: to push, to blame, to reject
@@ -104,6 +130,10 @@ Abschied, der: parting, leave, farewell
   => scheiden: to part
 
 Abschiedskuss, der: parting kiss
+
+Abschluss /ˈapʃlʊs/, der: completion, degree
+  etw. zum Abschluss bringen: to bring sth to a close
+  einen guten Abschluss machen: to get a good degree
 
 abschneiden /ˈapʃnaidən/: to cut off
   sich eine Scheibe Brot abschneiden
@@ -134,11 +164,17 @@ abstoßend /ˈapʃtoːsənt/: abhorrent, revolting
 abwischen /ˈapvɪʃən/: to wipe off
   => wischen: to wipe
 
+abwürgen /ˈapvʏrɡən/: to stifle
+  Meine Versuche, mich am Gespräch zu beteiligen, wurden sofort abgewürgt.
+  My attempts to join in the conversation were stifled straight away.
+
 abzocken /ˈapʦɔkən/: to rip off
   Vorsicht, bei solchen Angeboten wird man nur abgezockt!
   Be careful – offers like that are one big rip-off!
 
 Achsel /ˈaksəl/, die: shoulder, armpit
+
+Achtel: eighth
 
 achten /ˈaxtən/: to respect, to pay attention to
   auf den Verkehr achten: to pay attention to traffic
@@ -148,6 +184,9 @@ Achtung /ˈaxtʊŋ/, die: respect, attention
   I respect her/her work immensely.
   Achtung, Baum fällt!
   Look out! Tree falling!
+
+ächzen /ˈɛçʦən/: to groan
+  ächzen und stöhnen: to moan and groan
 
 Adler /ˈaːdlɐ/, der: eagle
 
@@ -163,15 +202,27 @@ Aktie /ˈakʦjə/, die: share, stock
 
 Aktien => Aktie
 
+aktuell /aktuˈɛl/: topical, up-to-date, relevant
+  Aktuelles aus aller Welt: news from around the world
+  Ist das Thema Hauskauf bei euch noch aktuell?
+  Are you still thinking of buying a house?
+  die aktuellste Version der Datei: the latest version of a file
+
 Albtraum /ˈalptraum/, der: nightmare
   Die Fahrt war der reinste Albtraum!
   The journey was an absolute nightmare.
+
+alle: all
 
 allerdings /ˈalɐˈdɪŋs/: however, indeed
   Die Suppe ist gut, allerdings ein bisschen scharf.
   The soup's good, but a little spicy.
   „Ist das denn wichtig?‟ – „Allerdings!‟
-  “Is that really important?” – “Indeed!”
+  "Is that really important?" – "Indeed!"
+
+allerlei /ˈalɐˈlai/: all kinds of
+
+alles: everything
 
 Alm /alm/, die: alpine pasture
 
@@ -240,6 +291,8 @@ andere /ˈandərə/: other, else
   I'm sorry, but I love someone else.
 
 anders /ˈandɐs/: differently
+
+Anfänger: beginner
 
 Angabe /ˈanɡaːbə/, die: information, statement
   Er hat der Polizei gegenüber falsche Angaben gemacht.
@@ -472,6 +525,8 @@ aus-: away, removed, turned off
 Ausblick /ˈausblɪk/, der: view, outlook, perspective
   ein Zimmer mit Ausblick aufs Meer
   a room with a view of the sea
+
+ausbreiten /ˈausbraitən/: to spread (out), to lay out
 
 ausdrücken /ˈausdrʏkən/: to express
 
