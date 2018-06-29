@@ -32,8 +32,10 @@ dann /dan/: then
   Wenn du nicht kommen kannst, dann ruf bitte an.
   If you can't come, please give me a call.
 
-daran /daˈran/: at it, on it, on them
+daran /daˈran/: at it, on it, on them, about it
   Wände mit vielen Bildern daran: walls with lots of pictures on them
+  Es gibt keinen Zweifel daran, dass er recht hat.
+  There is no doubt (about it) that he's right.
 
 darauf /daˈrauf/: about it, after that, on it
   am Tag darauf: the next day
@@ -213,6 +215,8 @@ dumm /dʊm/: dumb, stupid
 dünn /dʏn/: thin
   Das Eis wird dich nicht tragen, es ist noch zu dünn.
   The ice won't hold your weight – it's still too thin.
+
+dünsten: to steam
 
 durch /dʊrç/: through, around, by, gone, past, over
   Der Ball flog durch die Scheibe.
