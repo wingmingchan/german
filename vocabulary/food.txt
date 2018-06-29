@@ -46,6 +46,9 @@ Bohne /ˈboːnə/, die: bean
 
 Bonbon, das
 
+braten: to fry
+  gebratenen Fisch
+
 Bratwurst /ˈbraːtvʊrst/, Bratwurste, die: brat, a kind sausage
 
 Breze, Brezel, Brezen, Brezeln, die: pretzel
@@ -68,6 +71,8 @@ Café /kaˈfeː/, das
 Dessert /dɛˈseːɐ/, das: desert
   Als Dessert gab es Vanilleeis mit heißen Himbeeren.
   For dessert there was vanilla ice cream with hot raspberries.
+
+dünsten: to steam
 
 ========================================================
 
@@ -103,6 +108,8 @@ Flasche /ˈflaʃə/, die: bottle
 
 Fleisch /flaiʃ/, das: meat
 
+Frucht /frʊxt/, die: fruit
+
 ========================================================
 
 Gabel /ˈɡaːbəl/, die: fork
@@ -117,7 +124,9 @@ Gericht /ɡəˈrɪçt/, das
   We serve hot meals from 6 p.m.
 
 Glas, das
-  
+
+grillen: to barbecue, to grill
+
 grüne Salat, der: lettuce
 
 Gurke /ˈɡʊrkə/, die: cucumber
@@ -261,6 +270,8 @@ Restaurant, das
 Rechnung /ˈrɛçnʊŋ/, die
 
 Reis, der: rice
+
+Rettich, der: radish
 
 Rindfleisch, das: beef
 
