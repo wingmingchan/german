@@ -112,6 +112,9 @@ geheimnisvoll /ɡəˈhaimnisfɔl/: mysterious
 
 gehen /ˈɡeːən/: to go, to walk, to leave
   gehe, gehst, geht, bin gegangen
+  es geht um jdn/etw: it’s about sb/sth
+  Worum geht es in dem Buch?
+  What's the book about?
   
 Gehirn /ɡəˈhɪrn/, das: brain
 
@@ -173,7 +176,13 @@ gemeinsam /ɡəˈmainzaːm/: common, joint, mutual, united, collectively, togeth
 gemessen /ɡəˈmɛsən/: measured, appropriate
   => messen: to measure
 
-genau /ɡəˈnau/: exactly
+Gemüse /ɡəˈmyːzə/, das: vegetable
+
+Gemütlichkeit /ɡəˈmyːtlɪçkait/, die: comfort, coziness
+
+genau /ɡəˈnau/: accurate, exact, exactly
+  Haben Sie die genaue Uhrzeit?
+  Do you have the exact time?
   Das geschah vor genau vier Jahren.
   That happened exactly four years ago.
 
@@ -212,6 +221,8 @@ geschehen /ɡəˈʃeːən/: to happen, to occur
 
 Geschichte /ɡəˈʃɪçtə/, die: story
 
+Geschäftsmann: businessman
+
 Geschick /ɡəˈʃɪk/, das: skill, fate
 
 Geschicklichkeit /ɡəˈʃɪklɪçkait/, die: skillfulness
@@ -219,6 +230,10 @@ Geschicklichkeit /ɡəˈʃɪklɪçkait/, die: skillfulness
   to admire sb's skillfulness with their hands
 
 geschickt: skillful, numbly, cleverly
+
+Geselligkeit /ɡəˈzɛlɪçkait/, die: sociability, conviviality
+  Dank ihrer Geselligkeit findet sie schnell überall Anschluss.
+  She finds it easy to make friends since she's so sociable.
 
 Gesetz /ɡəˈzɛʦ/, das: law
   die Gesetze befolgen/einhalten: to abide by/stick to the laws
@@ -323,6 +338,8 @@ Grenze /ˈɡrɛnʦə/, Grenzen, die: border, frontier
 griechisch: greek
 
 griff => greifen
+
+grillen: to barbecue, to grill
 
 Grinsen /ˈɡrɪnzən/, das: grin
 
