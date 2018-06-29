@@ -34,6 +34,10 @@ band => binden
 
 Bande /ˈbandə/, die: gang
 
+Bank, Banken, die: bank
+
+Bank, Bänke, die: bench
+
 Bann /ban/, der: spell
   jdn in seinen Bann ziehen: jdn faszinieren, to captivate sb
 
@@ -83,8 +87,10 @@ bedauerlich /bəˈdauɐlɪç/: regrettable, unfortunate
 bedauern /bəˈdauɐn/: to regret, to be sorry
 
 bedecken /bəˈdɛkən/: to cover sb with sth, to blanket
+  habe bedeckt
 
 bedienen /bəˈdiːnən/: to serve, to wait tables
+  habe bedient
   Sie bedient in einem kleinen Restaurant.
   She waits tables in a small restaurant.
 
@@ -293,10 +299,13 @@ bestätigen /bəˈʃtɛːtɪɡən/: to confirm
   Die Zahlen bestätigten die Schätzungen der Experten.
   The figures confirmed the experts' estimates.
 
-bestehen /bəˈʃteːən/: to be, to exist, to pass, to consist of
+bestehen /bəˈʃteːən/: to be, to exist, to pass
   bestehe, bestehst, besteht, habe bestanden
   Er hat (die Prüfung) nicht bestanden.
   He didn't pass (the exam).
+  Das Examen besteht aus zwei schriftlichen und zwei mündlichen Prüfungen.
+  The examination consists of two written and two oral tests.
+  aus etw bestehen: to consist of
   Das Examen besteht aus zwei schriftlichen und zwei mündlichen Prüfungen.
   The examination consists of two written and two oral tests.
 
@@ -325,6 +334,8 @@ betrachten /bəˈtraxtən/: to look at, to consider, to observe
   ein Kunstwerk eingehend betrachten: to view an art work in detail
 
 Betrieb, der: operation, company
+
+betrinken: to get drunk
 
 betrügen /bəˈtryːɡən/: to cheat
   Er lügt und betrügt, wann es ihm passt.
@@ -462,6 +473,8 @@ blutig /ˈbluːtɪç/: bloody, gory, violently
 
 Bock /bɔk/, der: buck, ram, billy goat
 
+Boden, Böden, der: ground, soil
+
 bohren /ˈboːrən/: to drill, to poke
   ein Loch in die Wand bohren
   to drill a hole in the wall
@@ -493,6 +506,8 @@ Brand /brant/, der: fire
 
 Brandfall, der: fire
 
+braten: to fry
+
 Bratwurst /ˈbraːtvʊrst/, die: bratwurst
 
 Brautstrauß, der: bridal bouquet
@@ -510,6 +525,8 @@ breit /brait/: wide, broad
 brennen /ˈbrɛnən/: to burn , to be on fire
   Es brennt!
   Fire!
+
+Breze(l) /ˈbreːʦə(l)/, die: pretzel
 
 bricht => brechen
 
