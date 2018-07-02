@@ -124,6 +124,8 @@ Verkehr /fɛɐˈkeːɐ/, der: traffic
   Auf dieser Straße ist immer viel Verkehr.
   There's always a lot of traffic on this road.
 
+Verkehrsmittel /fɛɐˈkeːɐsmɪtəl/, das: means of transportation
+
 verlängern /fɛɐˈlɛŋɐn/: to renew, to extend, to lengthen, to prolong
   Ich muss meinen Pass verlängern lassen.
   I need to renew my passport.
@@ -266,6 +268,17 @@ verwüsten /fɛɐˈvyːstən/: to devastate
   Der Einbrecher verwüstete die ganze Wohnung.
   The burglar trashed the whole apartment.
 
+verzeihen /fɛɐˈʦaiən/: to forgive, to condone
+  Sie kann ihm (sein Verhalten) nicht verzeihen.
+  She can't forgive him (for his behavior).
+  Verzeihen Sie bitte …: Excuse me, …
+
+Verzeihung /fɛɐˈʦaiʊŋ/
+  Oh, Verzeihung, das wollte ich nicht.
+  Oh sorry, I didn't mean it.
+  Verzeihung, dürfte ich mal bitte vorbei?
+  Excuse me, could I just get past please?
+
 verzichten /fɛɐˈʦɪçtən/: to do without, to refrain from, to renounce
   Wenn das so ist, dann verzichte ich lieber.
   If that's the case, I'd rather not.
@@ -327,6 +340,14 @@ vorgehen: to proceed, to act
 
 Vorgehensweise, die: approach
 
+vorhalten /ˈfoːɐhaltən/: to hold up, to accuse, to reproach, to last
+  Halt dir beim Husten die Hand vor!
+  Put your hand in front of your mouth when you cough!
+  Du kannst ihm nicht vorhalten, es nicht wenigstens versucht zu haben.
+  You can't accuse him of not having tried at least.
+  Die Erholung hielt nicht lange vor.
+  The recovery didn't last long.
+
 Vorherrschaft /ˈfoːɐhɛrʃaft/, die: domination, supremacy
 
 Vorhersage /foːɐˈheːɐzaːɡə/, die: forecast, prediction
@@ -376,6 +397,10 @@ to introduce, to come/go for an interview, to present, to put forward(s)
   On Sunday we have to put the clocks forward by an hour.
 
 Vorstellung /ˈfoːɐʃtɛlʊŋ/, die: idea, picture
+
+Vorteil, der: advantage
+  Das bringt auch Vorteile mit sich.
+  It also has its advantages.
 
 vorwärts: forward(s)
 
