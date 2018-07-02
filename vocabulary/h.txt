@@ -64,6 +64,10 @@ hart /hart/: hard
 Hass /has/, der: hate, hatred
 
 häufig /ˈhɔyfɪç/: frequent, common
+  Diese Krankheit ist hierzulande nicht besonders häufig.
+  This illness isn't very common in these parts.
+  Kommt das häufig vor?
+  Does that happen often?
 
 Haupt /haupt/, das: head
 
