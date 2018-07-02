@@ -278,6 +278,8 @@ geworden => werden
 
 gezogen => ziehen
 
+Gift, das: poison
+
 gilt => gelten
 
 Gin, der
