@@ -56,6 +56,11 @@ Schaden, Schäden, der: damage, harm
 
 schaffen /ˈʃafən/: to do, to manage, to finish, to take, to put, to work, to create
 
+schalten: to switch, to turn, to shift gear, to connect
+  den Fernseher auf Standby schalten: to turn the TV to standby
+  Die Heizung hat schon auf Nachtbetrieb geschaltet.
+  The heating has already switched to night mode.
+
 scharf /ʃarf/: sharp, strong, hot, spicy, rigorous, tough
 
 Schatten /ˈʃatən/, der: shadow, shade
@@ -84,7 +89,9 @@ scheitern /ˈʃaitɐn/: to fail, to fall through, to collapse, to break down
   bereits zwei gescheiterte Versuche hinter sich haben
   to already have two failed attempts behind you
 
-schenken /ˈʃɛŋkən/: to give (as a present)
+schenken /ˈʃɛŋkən/: to give (as a present), to donate
+  => Geschenk: gift
+  Geschenkt! Forget it!
 
 schicken /ˈʃɪkən/: to send, to send for, to hurry up
   ein Päckchen mit der Post schicken
@@ -186,8 +193,11 @@ Schneeball /ˈʃneːbal/, der: snowball
 Schneefeld, das: snow field
 
 schneiden /ˈʃnaidən/: to cut, to chop, to slice
+  => Schneider
   Tomaten klein schneiden
   to chop tomatoes
+
+Schneider: tailor
 
 schneien /ˈʃnaiən/: to snow
 
@@ -680,3 +690,4 @@ suchen /ˈzuːxən/: to look for
 
 Süden /ˈzyːdən/, der: south
 
+System /zʏsˈteːm/, das
