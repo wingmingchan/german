@@ -190,6 +190,10 @@ Achtung /ˈaxtʊŋ/, die: respect, attention
 
 Adler /ˈaːdlɐ/, der: eagle
 
+ähnlich: similar
+  Sie ist ihrer Schwester sehr ähnlich.
+  She's very like her sister.
+
 akklimatisieren /aklimatiˈziːrən/: to acclimate yourself
 
 Akku /ˈaku/, der: battery
@@ -266,6 +270,8 @@ Ammoniak /amoˈniak/, das: ammonia
 
 Ammoniaklösung, die: ammonia solution
 
+Ampel /ˈampəl/, Ampeln, die: traffic light
+
 Ampere, das: ampère
 
 Amt /amt/, das: office, position
@@ -305,6 +311,12 @@ angemessen /ˈanɡəmɛsən/: suitable, appropriate
   In this case I think it would be better to remain silent.
   => gemessen: appropriate
 
+angespannt /ˈanɡəʃpant/: strained, tense, fraught
+  Unsere finanziellen Verhältnisse sind gerade etwas angespannt.
+  Right now our finances are a bit strained.
+  Vor der Prüfung war er nervös und angespannt.
+  Before the exam he was nervous and tense.
+
 angewurzelt /anɡəˈvʊrʦɛlt/: rooted to the spot
 
 Angriff /ˈanɡrɪf/, der: attack
@@ -319,6 +331,8 @@ angst
 
 Anhänger /ˈanhɛŋɐ/, der: trailer, pendant, follower
   <=> Gegner
+
+Ankündigung /ˈankʏndɪɡʊŋ/: announcement
 
 ankündigen /ˈankʏndɪɡən/: to announce
   Muss der Lehrer solche Tests ankündigen?
@@ -346,6 +360,14 @@ ansetzen /ˈanzɛʦən/: to schedule, to estimate, to develop, to place
   to estimate too low costs for a project
   Weißt du, wo du den Hebel ansetzen musst?
   Do you know where you need to focus on?
+
+anspringen /ˈanʃprɪŋən/: to jump up on, to come running up, to start
+  Ich mag es nicht, wenn mich fremde Hunde anspringen.
+  I don't like it when dogs I don't know jump up on me.
+  Die Kinder kamen fröhlich angesprungen.
+  The children came running up.
+  Bei Kälte springt das Auto oft nicht gleich an.
+  When it's cold the engine often doesn't start right away.
 
 anstellen /ˈanʃtɛlən/: to hire, to employ, to engage
   5 neue Mitarbeiter anstellen: to hire 5 new employees
@@ -477,6 +499,10 @@ aufgehen: to rise, to open, to work, sb realizes sth
 
 aufhalten /ˈaufhaltən/: to hold up, to stop, to detain
 
+aufheben /ˈaufheːbən/: to pick up, to keep, to overturn, to cancel
+  Das Flugverbot kann aufgehoben werden.
+  The ban on flying can be lifted.
+
 aufhören /ˈaufhøːrən/: to stop
 
 aufkreuzen /ˈaufkrɔyʦən/: to show up
@@ -498,6 +524,9 @@ Auflösung /ˈaufløːzʊŋ/, die: resolution, disintegration
 
 aufmarschieren: march up
 
+aufmerksam /ˈaufmɛrkzaːm/: attentive, alert
+  => merken: to notice
+
 Aufnahme /ˈaufnaːmə/, die: photo, shot
 
 aufpassen /ˈaufpasən/: to be careful, to pay attention
@@ -515,6 +544,8 @@ aufstellen /ˈaufʃtɛlən/: to put up, to arrange, to draw up
 auftauchen /ˈauftauxən/: to appear, to surface, to arise, to come up, to surface
 
 Auftreten /ˈauftreːtən/, das: occurrence, appearance, behavior
+
+Aufzucht /ˈaufʦʊxt/, die: rearing, breeding
 
 Auge /ˈauɡə/, das: eye
   blaue / gute Augen haben
@@ -562,10 +593,14 @@ ausgehen /ˈausɡeːən/: to go out, to finish, to run out, to go off
   etw. geht von jdm/etw. aus
   welche Gefahr von Adolf Hitler ausgeht
 
+auskühlen: to cool
+
 Ausland /ˈauslant/, das: foreign countries
   ins Ausland reisen: to travel abroad
 
-auslösen /ˈausløːzən/: to trigger
+auslösen /ˈausløːzən/: to cause, to trigger
+  Das Erdbeben hat eine Flutwelle ausgelöst.
+  The earthquake caused a tsunami.
 
 Ausnahme /ˈausnaːmə/, die: exception
   von wenigen Ausnahmen abgesehen: aside from very few exceptions
@@ -573,13 +608,25 @@ Ausnahme /ˈausnaːmə/, die: exception
 ausnutzen /ˈausnʊʦən/: to take advantage of
   => nutzen: to use
 
+ausrauben /ˈausraubən/: to rob
+  Sie wurde nachts am Bahnhof überfallen und ausgeraubt.
+  She was attacked and robbed at the station at night.
+  
 Aussage /ˈauszaːɡə/, die: testimony, statement, message
   eine klare Aussage der Regierung zur Steuerpolitik fordern
   to demand a clear statement from the government on its tax policy
 
 Aussagekraft: expressiveness
 
+Ausschau /ˈausʃau/ halten nach: to look out
+  nach feindlichen Schiffen Ausschau halten
+  to keep an eye out for enemy ships
+  Sie hält nach einer neuen Wohnung/Arbeitsstelle Ausschau.
+  She's on the lookout for a new apartment/job.
+
 Ausschreitung /ˈausʃraitʊŋ/, die: riot
+
+ausschenken: to sell (alcoholic drinks)
 
 Ausschuss /ˈausʃʊs/, der: committee, wastage
   Wir haben heute nur Ausschuss produziert.
@@ -600,6 +647,12 @@ außer /ˈausɐ/: except, besides, outside, out of, unless
 
 außerdem /ˈausɐdeːm/: besides, moreover
 
+außerhalb: outside
+  außerhalb des Dorfes wohnen: to live outside of the village
+  außerhalb der Öffnungszeiten: outside business hours
+
+äußerst /ˈɔysɐst/: extremely
+
 aussetzen /ˈauszɛʦən/: to interrupt, to fail, to suspend, to abandon, to offer
   etw. an jdm/etw. aussetzen: to find fault with sb/sth
   Er hat ständig etwas an mir auszusetzen.
@@ -617,7 +670,12 @@ Ausstellung /ˈausʃtɛlʊŋ/, die: exhibition
 Ausstieg /ˈausʃtiːk/, der: pullout, withdrawal, exit
   den Ausstieg aus der Atomkraft fordern: to demand a pullout from nuclear energy
 
+Ausweisung /ˈausvaizʊŋ/, die: expulsion
+
 Ausweitung /ˈausvaitʊŋ/, die: expansion
   eine Ausweitung des Problems auf andere Bereiche fürchten
   to fear that the problem will expand to other areas
+
+auszählen: to count
+
 
