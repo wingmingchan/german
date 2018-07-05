@@ -6,7 +6,7 @@ U-Bahn, die 2.5.17:53
 
 über 3.6.09:04
 
-Uhr, die 1.9.11:00
+Uhr, die 1.9.11:00, 3.29.10:39
 
 um 1.9.10:56
   Um wie viel Uhr? 1.9.10:56
@@ -22,7 +22,11 @@ unser 1.21.08:11
   unsere 1.21.08:43
   auf unserem Tisch 5.6.06:53
 
+unten 3.25.17:25
+
 unter 3.5.17:48
+
+unterschreiben 3.25.13:53
 
 Urlaub, der 2.11.16:08
   im Urlaub 2.11.16:34
