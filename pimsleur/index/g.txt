@@ -17,6 +17,8 @@ gefällt
   Es gefällt mir in Deutschland 1.30.03:30
   Es gefällt mir in der Schweiz 2.15.07:20
 
+gefragt 3.12.19:12
+
 gegessen 2.1.07:16
 
 gehen 1:15:00:12
@@ -46,6 +48,8 @@ geöffnet
 
 geöffnete 2.21.13:40
 
+Gepäck, das 3.24.13:49
+
 gerada 3.16.21:22
 
 geradeaus 1.23.16:34
@@ -53,17 +57,35 @@ geradeaus 1.23.16:34
 gerne 1.6.20:42
   nicht sehr gerne 2.9.00:30
 
+gesagt 3.12.19:03
+  man hat mir gesagt 3.22.04:02
+
 Geschäft, das 1.25.07:13
   die Geschäfte 1.25.06:29
+
+Geschenk, das 3.29.09:15
+  Geschenke, die 3.29.07:21
+
+Geschichte, die 3.23.15:19
 
 geschlossen 1.25.07:32
   Die Geschäfte sind geschlossen 1.25.08:39
 
 gesehen 2.1.09:10
 
+gespielt 3.22
+
 gesprochen 2.1.07:42
 
 gestern 1.29.07:01
+
+gewusst 3.20.17:46
+
+gibt
+  es gibt 1.22.18:45
+  dort gibt 3.22
+
+Girokonto, das 3.25.13:07
 
 glauben
   ich glaube schon 1.26.14:10
@@ -74,12 +96,20 @@ Glas, das
 Goethe 1.4.08:33
   die Goethestraße 1.4.09:12
 
+Golf, das 3.22.15:52
+
+Golfplatz, der 3.22.22:36
+
 groß 1.20.11:05
   Er ist ein sehr großer Junge 1.22.02:25
   großes Auto 1.22.06:00
   größer 2.15.05:29
 
+grüßen 3.30.05:07
+
 gut 1.2.07:54
   gute Reise 2.10.24:25
 
 Guten Tag 1.2.04:29
+
+Gymnasium, das 3.27.20:31
