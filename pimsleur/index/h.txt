@@ -37,6 +37,8 @@ heute 1.11.15:22
 hier 1.4.12:08
   Möchten Sie hier etwas essen? 1.7.03:00
 
+hierhin 3.25.22:40
+
 hinten 3.8.12:15
 
 hinterlassen 3.12.17:56
@@ -45,6 +47,10 @@ Hochzeit, die 3.15.17:03
 
 hoffen 3.16.02:41
   ich hoffe 3.15.11.44
+
+holen
+  ich hole 3.21.16:36
+  Sie holen 3.21.17:02
 
 Hotel
   das Hotel 1.8.13:18
