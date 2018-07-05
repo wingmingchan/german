@@ -48,6 +48,8 @@ kommen an
   Sie kommen an 2.7.14:53
   Komm bitte herein 3.8.24:34
 
+Konferenz, die 3.26.03:24
+
 können
   ich kann 1.15:10:41
   Sie können 1.15.10:57
@@ -57,6 +59,8 @@ könnte => können 2.18.18:20
 
 könnten => können 2.18.19:04
 
+Konto, das 3.25.11:45
+
 Konzert, das 2.9.07:05
 
 kosten
@@ -64,7 +68,11 @@ kosten
 
 krank 2.19.00:13
 
+Krawatte, die 3.29.17:17
+
 Kreditkarte, die 3.7.22:50
+
+Küche, die 3.28.14:40
 
 Kuchen, der 2.10.12:41
 
