@@ -6,6 +6,11 @@ machen 1.8.12:21
 
 Mädchen 1.20.08:32
 
+mag, magst, mag, mögt => mögen
+
+Mai
+  in Mai 3.30.18:02
+
 Mal, das 3.18.19:57
 
 mal
@@ -22,6 +27,8 @@ manchmal 2.4.03:41
 Mannheim 2.16.04:00
 
 Mark 1.12.08:42
+
+März, der 3.30.11:31
 
 Medizin, die 2.17.11:35
 
@@ -74,6 +81,7 @@ mit 1.8.16:24
   mit wem 1.8.15:51
   wie wäre es mit einem Bier 2.5.03:17
   mit unserem neuen Kunden 3.18.14:08
+  mit ein paar Freunden 3.22.01:24
   
 mit
   Und ich bringe meinen Mann mit 2.25.16:53
@@ -99,6 +107,7 @@ möchte
 mögen
   Sie mögen 1.29.15:38
   ich mag Wein 1.29.15:47
+  meine Frau mag Blumen sehr 3.22
 
 Moment, der 1.23.06:54
 
