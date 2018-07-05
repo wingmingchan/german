@@ -11,15 +11,21 @@ Tasse, die 2.10.10:17
 
 Taxi, das 1.26.03:38
 
-Telephon 2.16.14:34
+Telefon, das 2.16.14:34
 
-Telephonbuch, das 2.16.15:16
+Telefonbuch, das 2.16.15:16
 
 telefonieren 2.16.14:02
 
-Telephonnummer 2.16.15:49
+Telefonkonferenz, die 3.26.14:02
+
+Telefonnummer 2.16.15:49
 
 Tennis, das 2.22.14:56
+
+Tennisplatz, der 3.22.22:52
+
+Termin, der 3.26.06:51
 
 teuer 1.17.08:25
 
@@ -31,8 +37,12 @@ Tochter 1.20.06:51
 
 Toilette 1.21.15:57
 
+treiben 3.22.13:50
+
 trinken 1.5.17:34
   Ich trinke ein Bier 1.8.00:27
 
 tun 2.24.19:58
   zu tun 2.24.19:58
+
+Tür, die 3.28.17:20
