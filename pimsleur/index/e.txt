@@ -24,7 +24,10 @@ Einladung, die 3.15.10:52
 eins
   um eins 1.9.15:24
   Es ist eins 1.10.18:49
-  
+
+Eis, das
+  mit Eis 3.21.14:55
+
 elf 1.12.11:11
   elf Mark 1.12.11:08
 
@@ -43,7 +46,10 @@ erinnern
   Du erinnerst dich 3.6.20:02
   ich erinnere mich 3.6.20:49
 
+eröffnen 3.25.11:15
+
 erst 3.20.22:48
+  erst gestern 3.20:22:44
 
 Essen, das 1.16.00:22
 
