@@ -22,6 +22,7 @@ warm 3.11.11:22
 
 was
   Was möchten Sie essen/trinken? 1.7.07:20
+  was für eine Stelle 3.3.11:56
 
 Wasser 1.18.10:54
 
@@ -32,6 +33,8 @@ Weg, der 2.29.16:46
 weg 1.27.11:13
 
 wegfahren 1.27.11:18
+
+weggehen 3.21.04:31
 
 Wein, der 1.7.08:50
 
@@ -79,6 +82,8 @@ wer 1.18.14:58
 werden 2.15.05:46
 
 Wetter, das 2.13.07:29
+
+Whisky, der 3.21.14:15
 
 wichtig 3.13.10:57
 
