@@ -25,6 +25,8 @@ Schloss, das 3.9.11:59
 
 Schlossgarten 3.9.18:58
 
+Schlüssel, der 3.24.16:43
+
 Schnee, der 2.30.14:38
 
 schnell 1.17.11:45
@@ -37,6 +39,7 @@ Schokoladenkuchen, der 2.11.12:27
 
 schon 1.20.11:21
   Schon gut! 1.4.18:40
+  schon immer 3.23.18:35
   
 schön 1.18.00:08
   Haben Sie Bill Jamerson schon gesehen? 2.3.04:30
@@ -52,6 +55,7 @@ schulden
   Weil Sie mir nichts schulden 1.27.09:39
 
 Schule, die 2.17.08:23
+  an einer Schule 3.23.16:59
 
 Schweiz, die 2.11.19:12
   in die Schweiz 2.11.19:19
@@ -124,7 +128,13 @@ Spaziergang, der 3.8.22:58
 
 Speisekarte, die 3.4.18:47
 
+Spiel, das 2.29.21:52
+
 spielen 2.22.14:32
+
+Spielzeug, das 3.29.13:56
+
+Sport, der 3.22.12:56
 
 spreche 1.4.04:40
   ich spreche 1.4.04:40
@@ -146,11 +156,15 @@ stark 3.19.13:34
 stehen
   steht 3.8.14:47
 
+Stelle, die 3.23.10:37
+
 stimmen
   stimmt 3.9.16:33
 
 Straße 1.4.08:44
   die Straße 1.4.08:44
+
+studieren 3.3.09:54
 
 studiert 2.17.11:39
 
