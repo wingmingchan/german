@@ -63,6 +63,8 @@ gesagt 3.12.19:03
 Geschäft, das 1.25.07:13
   die Geschäfte 1.25.06:29
 
+geschäftlich 4.1.02:26
+
 Geschenk, das 3.29.09:15
   Geschenke, die 3.29.07:21
 
@@ -92,6 +94,9 @@ glauben
   
 Glas, das
   Möchten Sie ein Glas Wein? 2.3.17:10
+
+Glück, das
+  viel Glück 4.1.19:50
 
 Goethe 1.4.08:33
   die Goethestraße 1.4.09:12
