@@ -6,6 +6,8 @@ verbessern 4.1.15:27
 
 verbringen 4.1.14:46
 
+vergessen 4.2.04:42
+
 Vergnügen 2.28.27:27, 3.22.02:03
 
 verheiratet 3.2.12:22
@@ -50,6 +52,7 @@ von
   
 vor 2.7.17:15
   um zehn vor fünf 2.7.16:45
+  vor vier Jahren 4.2.26:24
 
 vorher 2.6.24:24
 
