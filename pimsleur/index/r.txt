@@ -11,8 +11,13 @@ rechts 1.24.11:12
 
 Regen, der 2.30.15:36
 
+regnen
+  Hoffentlich regnet es nicht 4.1.28:29
+
 Reise, die
   gute Reise 2.10.24:25, 2.12.10:26
+
+Reiseleiterin 4.1.13:51
 
 reisen 2.9.00:29
 
@@ -23,6 +28,8 @@ Restaurant, das 1.7.16:32
   im Restaurant 1.7.05:38
   im Restaurant Zum Löwen 1.7.16:07
   im Restaurant Zum Bären 1.9.00:31
+
+Rezept /reˈʦɛpt/, das 4.1.17:36
 
 richtig 2.13.12:36
 
