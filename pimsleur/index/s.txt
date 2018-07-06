@@ -13,6 +13,8 @@ Samstag 2.9.10:58
 
 schade 1.28.06:59
 
+schicken 4.1.17:36
+
 schlecht 1.29.00:24
   nicht schlecht 1.29.11:38
 
@@ -136,6 +138,10 @@ Spielzeug, das 3.29.13:56
 
 Sport, der 3.22.12:56
 
+Sprache /ˈʃpraːxə/, die 4.1.15:03
+
+Sprachkurs, der 4.1.15:16
+
 spreche 1.4.04:40
   ich spreche 1.4.04:40
 
@@ -143,6 +149,9 @@ sprechen 1.4.03:55
   Sie sprechen 1.4.03:55
   Sie sprechen gut 1.4.04:26
   Haben Sie Deutsch gesprochen? 1.30.10:05
+
+Staaten
+  in den Staaten 4.1.01:55
 
 Stadt, die, Städte 2.1.16:34
   in den Städten 3.19.15:09
