@@ -16,7 +16,7 @@ darf
   Darf ich 2.9.05:23
   du darfst 2.9.09:57
 
-darüber 5.6.17:38
+darüber 3.6.17:38, 4.2.08:36
 
 das 1.9.00:36
 
@@ -55,6 +55,7 @@ dich 2.9.05:40
 
 die 1.4.08:44
   die ist geradeaus 2.4.23:00
+  Die wird interessant sein 4.2.12:48
 
 Dienstag 2.7.22:36
 
