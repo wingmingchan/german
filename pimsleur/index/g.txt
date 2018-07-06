@@ -35,6 +35,8 @@ geht 1.2.05:33
   Geht es heute Abend? 1.15.21:19
   Wann gehst du? 2.9.03:55
 
+gelesen 4.2.06:49
+
 Geld, das 1.16.04:28
 
 gekauft 2.1.06:26
