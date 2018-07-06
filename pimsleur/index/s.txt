@@ -64,6 +64,8 @@ Schweiz, die 2.11.19:12
   
 Schweizer 2.2.26:02
 
+Schweizerin 4.2.22:47
+
 Schwester 3.2.15:38
 
 sechs
@@ -80,8 +82,11 @@ seit 1.28.10:48
   seit letzter Woche
   seit letztem Jahr
   seit letztem Monat 3.8.10:47
+  seit der Schule 4.2.29:40
 
 setzen 3.17.09:21
+
+sich 4.2.24:23
 
 sicher
   sicher nicht 1.9.23:11
