@@ -8,10 +8,13 @@ haben
   er hat, du hast 2.9.13:38
   ich hatte 2.15.17:28
   Sie hatten 2.15.17:56
+  hätte ich eine Frage 4.1.13:22
 
 halb 3.9.13:55
 
 Hallo 1.16.00:07
+
+hätte => haben 4.1.13:22
 
 Hauptstraße, die 2.20:02:11
 
@@ -48,6 +51,8 @@ Hochzeit, die 3.15.17:03
 hoffen 3.16.02:41
   ich hoffe 3.15.11.44
 
+hoffentlich 4.1.19:09
+
 holen
   ich hole 3.21.16:36
   Sie holen 3.21.17:02
@@ -56,4 +61,5 @@ Hotel
   das Hotel 1.8.13:18
   im Hotel 1.8.13:08
   
+Hotelkette, die 4.1.04:59
 Hut 1.18.00:08, 1.29.11:20
