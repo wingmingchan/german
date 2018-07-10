@@ -17,6 +17,8 @@ eingeladen 3.13.13:21
 
 einige 1.26.07:07
 
+einkaufen 4.3.16:30
+
 einladen 2.9.05:05
 
 Einladung, die 3.15.10:52
@@ -60,5 +62,7 @@ essen 1.5.14:44
 etwas 1.5.15:00
   etwas Bier 1.14.13:08
   Er kommt etwas später 2.10.03:47
+
+euch 4.3.20:56
 
 Europa, das 3.16.15:00
