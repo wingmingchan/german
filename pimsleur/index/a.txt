@@ -77,6 +77,9 @@ anrufen 3.11.20:30
 
 Apotheke, die 2.18.25:06
 
+Appetit, der
+  Guten Appetit! 4.3.02:30
+
 Arbeit, die 2.1.19:42
 
 arbeiten 1.26.08:31
