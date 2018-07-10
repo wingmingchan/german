@@ -97,6 +97,8 @@ glauben
 Glas, das
   Möchten Sie ein Glas Wein? 2.3.17:10
 
+Gleichfalls! 4.3.13:12
+
 Glück, das
   viel Glück 4.1.19:50
 
