@@ -10,6 +10,8 @@ Kanada, das 3.20.19:53
 
 Karte, die 2.3.18:10
 
+Kasse, die 4.5.16:19
+
 kaufen 1.8.14:20
   Ich habe gestern etwas gekauft 1.29.07:30
 
@@ -44,6 +46,8 @@ Kino, das 2.8.21:55
 Kiosk, der 2.14.00:23
 
 klein 1.21.10:08
+
+Kohlensäure 4.4.02:53
 
 Kollege 1.19.00:06
 
