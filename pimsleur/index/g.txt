@@ -75,6 +75,8 @@ Geschichte, die 3.23.15:19
 geschlossen 1.25.07:32
   Die Geschäfte sind geschlossen 1.25.08:39
 
+geschmeckt 4.4.10:15
+
 gesehen 2.1.09:10
 
 gespielt 3.22
@@ -113,6 +115,8 @@ groß 1.20.11:05
   Er ist ein sehr großer Junge 1.22.02:25
   großes Auto 1.22.06:00
   größer 2.15.05:29
+
+Größe, die 4.5.13:06
 
 grüßen 3.30.05:07
 
