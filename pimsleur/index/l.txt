@@ -10,6 +10,10 @@ lange
 
 langsam 2.20.09:17
 
+Leder, das 4.5
+
+Lederhandschuhe 4.5.06:36
+
 leider 2.2.13:17
 
 Lehrer 3.1.19:33
