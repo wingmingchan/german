@@ -51,6 +51,8 @@ schreiben
   schreibt 2.18.05:33
   Schreiben Sie viel? 2.18.06:24
 
+Schuh, der 4.5
+
 schulden
   Wie viel schulde ich Ihnen? 1.12.07:35
   Sie schulden mir elf Mark 1.12.21:54
@@ -116,6 +118,7 @@ Sohn 1.21.04:57
 
 sollen
   ich sollte 3.8.04:08
+  ihr sollt 
 
 Sommer, der 2.30.18:31
 
