@@ -14,6 +14,9 @@ wachsen /ˈvaksən/: to grow
 wächst => wachsen 
 
 Waffe /ˈvafə/, die: weapon
+  einen Stein als Waffe benutzen: to use a stone as a weapon
+
+Wagen /ˈvaːɡən/, der: cart, car
 
 Wahlkampf /ˈvaːlkampf/, der: election campaign
 
@@ -154,6 +157,8 @@ werfen /ˈvɛrfən/: to throw
 Wert /veːɐt/, der: value
   Das Haus hat einen Wert von 250.000 Euro.
   The house is worth 250,000 euros.
+
+wert: worth, worthy
 
 werten /ˈveːɐtən/: to regard sth as sth/judge sth to be sth, to count
   etw. als Erfolg/als gutes Zeichen werten: to judge sth to be a success/good sign
