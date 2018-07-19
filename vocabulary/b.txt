@@ -98,6 +98,10 @@ Bedienung /bəˈdiːnʊŋ/: waiter, waitress
 
 Befliegung: flight, overflying
 
+befördern: to transport, to promote
+  Das Flugzeug kann bis zu 300 Passagiere befördern.
+  The airplane can carry up to 300 passengers.
+
 befriedigen /bəˈfriːdɪɡən/: to satisfy
   seinen Wissensdurst mit einem Buch befriedigen
   to satisfy your thirst for knowledge with a book
@@ -134,10 +138,12 @@ begeistern /bəˈɡaistɐn/: to be enthusiastic about, to delight, to thrill, to
   Die Band begeisterte das Publikum.
   The band had the audience in raptures.
 
+begeistert /bəˈɡaistɐt/: enthusiastic, excited
+
 beginnen /bəˈɡɪnən/: to begin
   Es beginnt zu regnen: It's starting to rain
 
-begleiten /bəˈɡlaitən/: to accompany
+begleiten /bəˈɡlaitən/: to accompany, to escort
   Soll ich dich nach Hause begleiten?
   Shall I accompany you home?
 
@@ -181,8 +187,20 @@ Beitrag /ˈbaitraːk/, der: contribution
 Beitragszahler: contributor
 
 bekennen /bəˈkɛnən/: to confess, to admit
+  seine Schuld, seine Fehler bekennen
+  to confess your guilt/admit your mistakes
 
 beklagen /bəˈklaːɡən/: to complain, to lament, to mourn
+  Es gab zahlreiche Verletzte zu beklagen.
+  There were numerous people injured.
+  Er beklagte die schlechte Zusammenarbeit mit der Opposition.
+  He criticized the unsatisfactory cooperation with the opposition.
+
+bekleckern /bəˈklɛkɐn/: to spill on, to stain
+  Er hat sich/sein Hemd/ das Tischtuch (mit Soße) bekleckert.
+  He spilled sth (sauce) on himself/on his shirt/on the tablecloth.
+  sich nicht gerade mit Ruhm bekleckern
+  not to exactly cover yourself with glory
 
 bekommen /bəˈkɔmən/: to get, to receive, to have
 
@@ -202,6 +220,7 @@ belieben /bəˈliːbən/: to please, to like
   You can also add as much sugar as you please.
 
 beliebt /bəˈliːpt/: popular
+  eine beliebte Fernsehserie: a popular TV series
 
 bemessen: limited
 
@@ -421,6 +440,11 @@ billig /ˈbɪlɪç/: cheap
 
 binden /ˈbɪndən/: to tie
 
+binnen: within
+  binnen einem Monat/eines Monats: within a month
+
+Biologe /bioˈloːɡə/: biologist
+
 bisher /bɪsˈheːɐ/: up to now, so far
   Alles bleibt wie bisher.
   Everything remains the same as it was before.
@@ -480,6 +504,8 @@ blutig /ˈbluːtɪç/: bloody, gory, violently
 Bock /bɔk/, der: buck, ram, billy goat
 
 Boden, Böden, der: ground, soil
+
+Bohne /ˈboːnə/, die: bean
 
 bohren /ˈboːrən/: to drill, to poke
   ein Loch in die Wand bohren
@@ -546,12 +572,22 @@ Broschüre /brɔˈʃyːrə/, die: brochure, pamphlet, leaflet
 
 Brot /broːt/, das: 
 
+Brotzeit /ˈbroːtʦait/, die: snack
+
 Bruch /brʊx/, der: break, breach
   nach dem Bruch des Dammes
   after the dam was breached 
 
+Brücke: bridge
+
+Brut, die: brood, breeding
+
+brüten /ˈbryːtən/: incubate
+
 Bub /buːp/, der: boy
   das Büblein: the little boy
+
+Büblein, das: little boy
 
 Buch /buːx/, das: book
   
@@ -571,11 +607,17 @@ Bund /bʊnt/, der: federal government, confederacy
 
 Bundesamt, das: Federal Office
 
+Bundeskanzler, Bundeskanzlerin: federal chancellor
+  => Bund (Bundesstaat): federal government
+  => Kanzler: chancellor
+
 Bündnispolitik, die: policy of alliances
 
 Burger /ˈbəːɡə/, der: burger
 
 Bürger /ˈbʏrɡɐ/, der: citizen
   die amerikanischen Bürgerinnen und Bürger: the citizens of the USA
+
+Bürgermeister: mayor
 
 Bußgeld, das: fine, penalty
