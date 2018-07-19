@@ -42,6 +42,8 @@ saufen: to drink, to booze
 saugfähig /ˈzaukfɛːɪç/: absorbent
   saugfähiges Küchenpapier: absorbent kitchen paper
 
+Säugling /ˈzɔyklɪŋ/, der: infant, baby
+
 schade /ˈʃaːdə/: pity, shame
   Wie schade!
   What a pity!
@@ -266,6 +268,8 @@ schwach /ʃvax/: weak, poor
 Schwäche /ˈʃvɛçə/, die: weakness, failing
   Sie bekam einen Schwächeanfall.
   She suddenly felt faint.
+
+schwanger: pregnant
 
 schwank: frail, slender
 
