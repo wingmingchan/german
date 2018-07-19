@@ -189,6 +189,9 @@ hierher: here
 hießt => heißen
 
 Hilfe /ˈhɪlfə/, die: help
+  ärztliche Hilfe benötigen: to need medical assistance
+  Erste Hilfe: first aid
+  Entwicklungshilfe: foreign aid
 
 Himmel /ˈhɪməl/, der: sky
 
@@ -199,6 +202,8 @@ hindern /ˈhɪndɐn/: to prevent, to hinder
 Hindernis /ˈhɪndɐnɪs/, das: obstacle
   Nach dem Sturm lagen Bäume und Äste als Hindernisse auf der Straße.
   After the storm, trees and branches formed obstacles on the road.
+
+Hinfahrt, die: way/journey there
 
 hing => hängen
 
@@ -273,6 +278,8 @@ hübsch /hʏpʃ/: pretty
   She really is a pretty girl.
 
 Hund, der; Rüde, der; Hündin, die
+
+Hundert, das
 
 Hunger /ˈhʊŋɐ/, der: hunger, starvation, yearning
 
