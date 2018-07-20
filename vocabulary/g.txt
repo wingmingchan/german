@@ -13,6 +13,8 @@ Ganges , der
 
 Gans /ɡans/, die: goose
 
+Gänserich /ˈɡɛnzərɪç/, der: gander
+
 ganz /ganʦ/: whole, entire
   eine ganze Zahl: an integer
 
@@ -128,6 +130,10 @@ gehören /ɡəˈhøːrən/: to belong to, to be among, to go, to require
   Kostenlose Lieferung gehört zu unserem Service.
   Free delivery is part of our service.
 
+Geisel, die: hostage
+  Der Bankräuber hat drei Angestellte als Geiseln genommen.
+  The bank robber had taken three of the staff hostage.
+
 geistern /ˈɡaistɐn/: to wander, to keep running through
   Warum geisterst du so spät abends noch durchs Haus?
   What are you doing wandering around the house at this time of night?
@@ -185,6 +191,8 @@ genau /ɡəˈnau/: accurate, exact, exactly
   Do you have the exact time?
   Das geschah vor genau vier Jahren.
   That happened exactly four years ago.
+
+Genie /ʒeˈniː/, das: genius
 
 genital /geniˈtaːl/
 
