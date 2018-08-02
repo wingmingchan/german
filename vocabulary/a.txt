@@ -36,6 +36,9 @@ Abfall /ˈapfal/, Abfälle /ˈapfɛlə/, der: waste, trash
 abfällig /ˈapfɛlɪç/: derogatory
   eine abfällige Bemerkung über jdn machen: to make a derogatory remark about sb
 
+abfärben: to run
+  seine Farbe auf etw. anderes übertragen
+
 abfinden /ˈapfɪndən/: to pay off, to come to terms with
   Der scheidende Manager wurde mit einem Millionenbetrag abgefunden.
   The manager was given a million-dollar/million-euro golden handshake when he left.
@@ -228,6 +231,12 @@ allerlei /ˈalɐˈlai/: all kinds of
 
 alles: everything
 
+allmählich /alˈmɛːlɪç/: gradual, gradually
+​ eine allmähliche Stabilisierung des Arbeitsmarktes
+  a gradual stabilization of the employment market
+  Es wird allmählich dunkel.
+  It's starting to get dark.
+
 Alm /alm/, die: alpine pasture
 
 Almosen /ˈalmoːzən/, das: alms
@@ -303,6 +312,9 @@ Anfänger: beginner
 Angabe /ˈanɡaːbə/, die: information, statement
   Er hat der Polizei gegenüber falsche Angaben gemacht.
   He made false statements to the police.
+
+Angehörige /ˈanɡəhøːrɪɡə/: relatives
+  => Verwandte, Familienmitglied
 
 angeln /ˈaŋəln/: to fish
 
@@ -611,7 +623,13 @@ ausnutzen /ˈausnʊʦən/: to take advantage of
 ausrauben /ˈausraubən/: to rob
   Sie wurde nachts am Bahnhof überfallen und ausgeraubt.
   She was attacked and robbed at the station at night.
-  
+
+ausruhen /ˈausruːən/: to rest
+  Ich muss mich mal kurz ausruhen.
+  I need to have a short rest.
+  Ruh bei der Bildschirmarbeit zwischendrin mal deine Augen aus!
+  When you're working at the computer you should give your eyes a rest at times.
+
 Aussage /ˈauszaːɡə/, die: testimony, statement, message
   eine klare Aussage der Regierung zur Steuerpolitik fordern
   to demand a clear statement from the government on its tax policy
