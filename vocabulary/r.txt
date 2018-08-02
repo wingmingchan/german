@@ -42,6 +42,9 @@ Rassenunruhen, pl: racial disturbances
 
 Rassismus /raˈsɪsmʊs/, der: racism
 
+Rast, die: rest, break
+  ohne Rast und Ruh: ohne sich eine Pause zu gönnen
+
 ratlos /ˈraːtloːs/: helpless, baffled
   Da bin ich ratlos.
   I'm completely at a loss.
@@ -99,6 +102,12 @@ Rede /ˈreːdə/, die: speech
 regelrecht /ˈreːɡəlrɛçt/: real, proper
 
 Regen /ˈreːɡən/, der: rain
+
+regen: to move, to stir
+  Ich konnte vor Kälte kaum einen Finger regen.
+  I could hardly move a finger because of the cold.
+  In ihm regte sich allmählich ein furchtbarer Verdacht.
+  A terrible suspicion gradually stirred in him.
 
 regieren /reˈɡiːrən/: to rule
   Der König regierte (das Land) 25 Jahre lang.
