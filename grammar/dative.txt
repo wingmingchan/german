@@ -32,3 +32,5 @@ Location: in dem Staat,
 To, towards: in + das = ins, in die, 
 Location: an + dem = am, am Fenster
 To, towards: an + das = ans, an den
+
+vor zehn Tagen
