@@ -91,12 +91,22 @@ Einfahrt /ˈainfaːɐt/, die: entrance, entry, driveway
   Einfahrt verboten!
   No entry!
 
+einfärben: to dye
+  => Farbe
+  => färben: to color
+  Kleider schwarz einfärben: to dye dresses black
+
 Eingang /ˈainɡaŋ/, der: entrance, start, receipt, delivery
 
 eingehend /ˈainɡeːənt/: extensive, detailed, in-depth
   eine eingehende Untersuchung: an in-depth examination
 
 eingeliefert: taken
+
+einheimisch: local, native
+  => heimisch: local
+  => Heim, das: home
+  einen Einheimischen nach dem Weg fragen: to ask a local for directions
 
 Einkommen /ˈainkɔmən/, das: income, earnings
   Wie hoch ist Ihr monatliches Einkommen in etwa?
@@ -122,6 +132,11 @@ einladen /ˈainlaːdən/: to invite, to load in
   Sie luden die Möbel in den Transporter ein.
   They loaded the furniture into the truck.
 
+einlassen /ˈainlasən/: to let in, to run, to draw
+  Eine freundliche Bedienstete ließ uns ein.
+  A friendly attendant let us in.
+  sich auf jdn/etw. einlassen: to get involved with sb/in sth
+
 einliefern /ˈainliːfɐn/: to take
 
 einlud => einladen
@@ -133,6 +148,16 @@ Einrede, die: objection, protest, contradiction, defense
 Einsatz /ˈainzaʦ/, der: operation, deployment, use, effort, commitment
 
 einschleichen /ˈainʃlaiçən/: to sneak in
+
+Einsicht, die: view, insight, conclusion
+  Ich bin zu der Einsicht gelangt, dass wir mehr Mitarbeiter brauchen.
+  I have come to the conclusion that we need more staff.
+  Von hier aus hat man keine Einsicht in das Grundstück.
+  You can't see into the property from here.
+
+einst: once, long ago
+  Einst lebten hier Dinosaurier.
+  Dinosaurs once lived here.
 
 einstige /ˈainstɪɡə/: former, erstwhile, one-time
   Der einstige Opernstar ist heute Gesangslehrerin.
@@ -157,6 +182,10 @@ Einweg-: disposable
 
 Einwohner /ˈainvoːnɐ/: inhabitants
 
+Einzel, das: single
+  Er gewann im Herreneinzel.
+  He won the men's singles.
+
 einzig /ˈainʦɪç/: only , solely
   Das ist die einzig mögliche Lösung.
   That's the only possible solution.
@@ -178,6 +207,8 @@ eklatant /eklaˈtant/: glaring, striking
   ein eklatanter Altersunterschied: a striking difference in age
 
 Elektrogerät, das: electrical appliance
+
+Elftel: eleventh
 
 Ell(en)bogen /ˈɛl(ən)boːɡən/, der: elbow
 
@@ -233,6 +264,10 @@ enthüllen /ɛntˈhʏlən/: to reveal
 
 entgegenstellen: to set against
 
+entlang: along
+  eine Radtour die Donau entlang/entlang der Donau
+  a cycling tour along the Danube
+
 entmannen: to castrate
 
 entmachten /ɛntˈmaxtən/: disempower
@@ -241,7 +276,8 @@ entschärfen /ɛntˈʃɛrfən/: to defuse, to disarm
 
 entscheiden /ɛntˈʃaidən/: to decide, to judge, to rule
 
-entscheidend /ɛntˈʃaidənt/: vital, crucial, decisive
+entscheidend /ɛntˈʃaidənt/: vital, crucial, critical, decisive
+  von entscheidender Bedeutung sein: to be of vital importance
 
 Entscheidung /ɛntˈʃaidʊŋ/, die: decision
 
