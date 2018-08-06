@@ -45,7 +45,11 @@ Kino, das 2.8.21:55
 
 Kiosk, der 2.14.00:23
 
+Kirche 4.6.29:36
+  Die Nikolaikirche 4.6.28:07
+
 klein 1.21.10:08
+  kleineres, nichts kleineres 4.6.10:15
 
 Kohlensäure 4.4.02:53
 
