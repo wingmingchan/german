@@ -28,6 +28,10 @@ Mannheim 2.16.04:00
 
 Mark 1.12.08:42
 
+Markt, der 4.6.17:50
+
+Marktplatz, der 4.6.17:56
+
 März, der 3.30.11:31
 
 Medium, das 4.5.14:52
@@ -133,3 +137,5 @@ Münster, das 3.10.12:24
 Münsterplatz, der 3.10.13:04
 
 müssen 2.2.14:22
+
+Mutter 4.6.05:25
