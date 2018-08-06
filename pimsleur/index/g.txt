@@ -8,6 +8,9 @@ gar 3.3.17:55
 
 Garten, der 3.8.12:33
 
+Gebäude, das 4.6.20:33
+  viele Gebäude 4.6.20:47
+
 geben 1.14:06:22
   Geben Sir mir 1.14.06:18
   Ich gebe Ihnen 1.14.22:54
@@ -16,6 +19,7 @@ geben 1.14:06:22
 gefällt
   Es gefällt mir in Deutschland 1.30.03:30
   Es gefällt mir in der Schweiz 2.15.07:20
+  => gefallen
 
 gefragt 3.12.19:12
 
@@ -76,6 +80,7 @@ geschlossen 1.25.07:32
   Die Geschäfte sind geschlossen 1.25.08:39
 
 geschmeckt 4.4.10:15
+  => schmecken
 
 gesehen 2.1.09:10
 
@@ -119,6 +124,7 @@ groß 1.20.11:05
 Größe, die 4.5.13:06
 
 grüßen 3.30.05:07
+  Grüß dich 4.6.14:27
 
 gut 1.2.07:54
   gute Reise 2.10.24:25
