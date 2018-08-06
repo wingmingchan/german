@@ -20,6 +20,8 @@ fährt => fahren 2.5.17:44
 fährst => fahren
   du fährst 2.9.20:20
 
+Farbe, die 4.6.03:41
+
 fast 4.2.17:38
 
 Februar, der 2.11.17:22
