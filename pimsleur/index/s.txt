@@ -61,6 +61,8 @@ schulden
 Schule, die 2.17.08:23
   an einer Schule 3.23.16:59
 
+schwarz 4.6.03:49
+
 Schweiz, die 2.11.19:12
   in die Schweiz 2.11.19:19
   
@@ -118,7 +120,9 @@ Sohn 1.21.04:57
 
 sollen
   ich sollte 3.8.04:08
-  ihr sollt 
+  ihr sollt
+  Wir sollten uns treffen 4.6.29:54
+  ihr solltet 4.7.08:04
 
 Sommer, der 2.30.18:31
 
@@ -192,3 +196,4 @@ Stunde, die 2.20.16:13, 3.13.18:11
 Stuttgart 2.15.19:21
 
 suchen 2.17.20:19
+
