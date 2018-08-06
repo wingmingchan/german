@@ -35,7 +35,8 @@ Weg, der 2.29.16:46
 weg 1.27.11:13
 
 wegfahren 1.27.11:18
-
+  ihr fahrt weg 4.6.23:49
+  
 weggehen 3.21.04:31
 
 Wein, der 1.7.08:50
@@ -142,7 +143,7 @@ wollen
   wollten 3.7.14:25
   wollte 3.7.15:59
   wolltest 3.7.15:11
-  wollt
+  wollt 4.6.27:49
 
 Wort, das 1.28.07:41
 
