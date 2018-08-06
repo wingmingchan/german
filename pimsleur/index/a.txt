@@ -46,6 +46,8 @@ also
 alt 2.15.09:26
   wie alt 2.15.09:23
 
+Altstadt, die 4.6.19:25
+
 am 1.6.17:20
   am Opernplatz 1.6.17:20
   am Montag 2.7.13:22
