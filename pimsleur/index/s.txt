@@ -79,6 +79,8 @@ sechzehn 1.13.12:25
 
 sehr 1.2.08:04
 
+seid 4.7.06:39
+
 sein 2.8.00:25
 
 seit 1.28.10:48
@@ -184,6 +186,8 @@ stimmen
 
 Straße 1.4.08:44
   die Straße 1.4.08:44
+
+Strickjacke, die 4.7.19:57
 
 studieren 3.3.09:54
 
