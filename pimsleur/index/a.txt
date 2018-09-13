@@ -74,6 +74,8 @@ angenehm 1.19.08:36
 
 angerufen 3.12.14:36
 
+anprobieren 4.7.17:11
+
 Anrufe 4.4.17:10
 
 anrufen 3.11.20:30
@@ -98,6 +100,8 @@ auch 1.6.08.14
   Sie auch 1.8.21:48
   Und ein Auto habe ich auch nicht 2.15.16:56
 
+Audioguides 4.7.14:01
+
 auf 1.2.11:02
   Auf Wiedersehen! 1.2.11:02
   auf Deutsch 1.22.01:35
@@ -110,7 +114,11 @@ aus 2.4.09:44
 
 Ausflug, der 3.20.11:11
 
+ausgezeichnet 4.7.12:57
+
 Ausland, das 3.26:05:43
+
+Ausstellung, Ausstellungen 4.7.13:26
 
 Ausweis, der 3.25.18:32
 
