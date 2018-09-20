@@ -289,7 +289,15 @@ entschuldigen /ɛntˈʃʊldɪɡən/: to excuse, to pardon
   Hast du dich bei deiner Lehrerin entschuldigt?
   Did you apologize to your teacher?
 
-entstehen /ɛntˈʃteːən/: to originate, to arise, to come into being
+entstehen /ɛntˈʃteːən/: to originate, to arise, to come into being, to be created
+  Wie entstehen Blitz und Donner?
+  How does thunder and lightning form?
+
+enttäuschen /ɛntˈtɔyʃən/: to disappoint
+   Sie ist in ihrem Leben schon oft enttäuscht worden.
+   She has been disappointed many times in her life. 
+
+enttäuscht: disappointed
 
 entwickeln /ɛntˈvɪkəln/: to develop
 
@@ -301,6 +309,8 @@ Entwurf /ɛntˈvʊrf/, der: design, draft, sketch
 er-: some result is achieved, the beginning of a process
 
 erachten /ɛɐˈ|axtən/
+
+Erbe /ˈɛrbə/, das: inheritance, heritage
 
 Erde /ˈeːɐdə/, die
 
@@ -318,6 +328,10 @@ Erfolg /ɛɐˈfɔlk/, der: success
 
 erfolgreich /ɛɐˈfɔlkraiç/: successful
   ein erfolgreicher Filmstar: a successful film star
+
+erfrischen: to refresh
+
+Erfrischung: refreshment
 
 erfüllen /ɛɐˈfʏlən/: to be fulfilled, to come true
   Leider haben sich meine Träume nicht erfüllt.
@@ -365,6 +379,12 @@ erklären /ɛɐˈklɛːrən/: to declare, to explain
   Die Ministerin hat gestern ihren Rücktritt erklärt.
   The minister announced her resignation yesterday.
 
+Erklärung /ɛɐˈklɛːrʊŋ/, die: explanation, statement, declaration
+  Die Erklärungen in diesem Lexikon sind ziemlich kompliziert.
+  The explanations in this encyclopedia are pretty complicated.
+  Ich möchte dazu jetzt keine Erklärung abgeben.
+  I would now like to deliver a statement on that.
+
 erkunden /ɛɐˈkʊndən/: to explore
 
 Erlass /ɛɐˈlas/, der: decree, remission, release
@@ -386,6 +406,8 @@ erleiden /ɛɐˈlaidən/: to suffer, to sustain
 
 Ermittler /ɛɐˈmɪtlɐ/: investigator
 
+ermöglichen: to make possible, to enable
+
 ermorden /ɛɐˈmɔrdən/: to murder
   Er wurde kaltblütig ermordet.
   He was murdered in cold blood.
@@ -403,6 +425,8 @@ errechnen /ɛɐˈrɛçnən/: to calculate
   Die errechneten Werte/Entfernungen stimmen mit meiner Schätzung überein.
   The values/distances that have been calculated tally with my estimate.
 
+erreichbar /ɛɐˈraiçbaːɐ/: available, accessible, reachable
+
 erreichen /ɛɐˈraiçən/: to reach, to get hold of, to arrive at
   Wann kann ich Sie im Büro am besten erreichen?
   When's the best time to get hold of you at the office?
@@ -419,7 +443,7 @@ erschrecken /ɛɐˈʃrɛkən/: to get a fright, to be startled, to frighten
 
 erschweren /ɛɐˈʃveːrən/: to make more difficult, to aggravate, to impede
 
-erst /eːɐst/: first, not until, only
+erst /eːɐst/: first, not until, only, not before
   Lass ihn doch erst mal die Jacke ausziehen.
   Let him take off his jacket first.
   Der nächste Bus fährt erst um 10 Uhr/in 20 Minuten.
