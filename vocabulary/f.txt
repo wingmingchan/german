@@ -41,6 +41,8 @@ falsch /falʃ/: wrong, false, faked
 
 Familienmitglied, das: family member
 
+fand => finden
+
 fände => finden
 
 fangen /ˈfaŋən/: to bag, to capture, to catch, to trap
@@ -54,6 +56,9 @@ Farbe, die: color
   What color is the sweater?
 
 färben /ˈfɛrbn/: to color
+
+Fass, das: barrel
+  Bierfass
 
 fassbar /ˈfasbaːɐ/: comprehensible
   Es ist kaum/schwer fassbar, dass sie das getan haben soll.
@@ -109,6 +114,8 @@ Feindschaft /ˈfaintʃaft/, die: hostility
 
 Feld /fɛlt/, das: field
 
+Felswand, die: wall of rock
+
 Fenster /ˈfɛnstɐ/, das: window
   Möchten Sie am Fenster sitzen oder am Gang?
   Would you like a window or an aisle seat?
@@ -117,7 +124,11 @@ Ferkel /ˈfɛrkəl/, das: piglet
 
 fernhalten /ˈfɛrnhaltən/: to keep away
 
+Fernost, der: Far East
+
 Fernseher /ˈfɛrnzeːɐ/, der: TV
+
+Fernweh /ˈfɛrnweː/, das: wanderlust
 
 fertig /ˈfɛrtɪç/: ready, finished
   Ich bin fertig, wir können gehen.
@@ -135,6 +146,8 @@ Feuchtigkeit /ˈfɔʏçtɪçkait/, die: dampness, moisture
 Feuer /ˈfɔʏɐ/, das: fire
   das Feuer eröffnen/einstellen: to open/cease fire
 
+Feuerlöscher, der: fire extinguisher
+
 Feuerwehr /ˈfɔʏɐveːɐ/, die: fire department
 
 Feuerwehrmann: fireman
@@ -144,6 +157,8 @@ Feuerwehrwache, die: fire-station
 fiel => fallen
 
 fielen => fallen: to be fired
+
+fies /fiːs/: nasty, disgusting, horrible
 
 finden /ˈfɪndən/: to find
   finde, findest, findet, habe gefunden
@@ -193,7 +208,13 @@ Flüchtling /ˈflʏçtlɪŋ/, der: refugee
 
 Flug /fluːk/, der: flight
 
+Flugbegleiter: flight attendant
+
 Flughafen /ˈfluːkhaːfən/, der: airport
+
+Flugverbot, das: ban on flying
+
+Flugzeug, das: plane
 
 Flüssigkeit /ˈflʏsɪçkait/, die: fluid, liquid
   eine farblose/trübe Flüssigkeit: a colorless/cloudy liquid
@@ -201,6 +222,11 @@ Flüssigkeit /ˈflʏsɪçkait/, die: fluid, liquid
 Fluss /ˈflʊs/, der: river
   Nach den starken Regenfällen trat der Fluss über die Ufer.
   After the heavy rainfall the river burst its banks. 
+
+Flut, die: high tide, flood, torrent
+  Er ertrank in der reißenden Flut/in den Fluten des Hochwassers.
+  He drowned in the raging torrent of the flooding.
+  Flutwelle: tsunami
 
 fluten /ˈfluːtən/: to flood, to overflow
 
@@ -265,6 +291,8 @@ frau /frau/: you, one
 
 frei /frai/: free
 
+freigeben /ˈfraiɡeːbən/: to release
+
 Freier: suitor
 
 Freiherr /ˈfraihɛr/: baron
@@ -274,7 +302,7 @@ freiwillig /ˈfraivɪlɪç/: voluntary
   Er hat freiwillig geholfen.
   He helped voluntarily.
 
-fremd /frɛmt/: foreign, outside, strange
+fremd /frɛmt/: foreign, outside, strange, alien
 
 Fremde: stranger, foreigner
 
@@ -289,6 +317,10 @@ Frieden /ˈfriːdən/, der: peace
   ein langer, ungestörter Frieden: a long period of uninterrupted peace
 
 friedlich /ˈfriːtlɪç/: peaceful
+
+frisch: fresh
+
+Frischkäse /ˈfrɪʃkɛzə/, der: cream cheese
 
 Frist /frɪst/, die: period (of time), grace period, deadline
   Ich gebe Ihnen noch zwei Wochen Frist.
@@ -330,6 +362,8 @@ Fülle /ˈfʏlə/, die: fullness, volume
 füllen /ˈfʏlən/: to fill
   einen Eimer mit Wasser füllen: to fill a bucket with water
 
+Fünftel: fifth
+
 funktionieren /fʊŋkʦjoˈniːrən/: to function, to work
   Geburtstag /ɡəˈbuːɐʦtaːk/: birthday
 
@@ -339,3 +373,6 @@ fürchten /ˈfʏrçtən/: to be afraid of, to fear
 Fürst /fʏrst/: prince
 
 Fuß /fuːs/, der: foot
+
+Futter, das: food
+  dem Hund sein Futter geben: to give the dog his food 
