@@ -7,7 +7,7 @@ Gabe /ˈɡaːbə/, die: gift
 
 Gabel, die: folk
 
-Gämse /ˈɡɛmzə/, die: chamois
+Gams, Gämse /ˈɡɛmzə/, die: chamois
 
 Ganges , der
 
@@ -45,6 +45,9 @@ Gebiet /ɡəˈbiːt/, das: region, area
 Gebirge /ɡəˈbɪrɡə/, das: mountains
   Am Wochenende fahren wir ins Gebirge.
   We're going to the mountains on the weekend.
+
+gebratenes [gedünstetes, gegrilltes, gekochtes, geschmortes] Fleisch:
+  roast(ed) [steamed, grilled, boiled, stewed] meat
 
 Geburtstag /ɡəˈbuːɐʦtaːk/, der: birthday
   Er feiert dieses Jahr seinen 60. / einen runden Geburtstag.
@@ -134,6 +137,12 @@ Geisel, die: hostage
   Der Bankräuber hat drei Angestellte als Geiseln genommen.
   The bank robber had taken three of the staff hostage.
 
+Geist, Geister, der: mind, ghost, spirit
+  Er sah sich im Geiste schon auf dem Siegerpodest.
+  In his mind's eye he could already see himself on the winners' rostrum.
+  Der Geist der Verstorbenen soll noch in diesen Mauern spuken.
+  The ghost of the deceased is still supposed to haunt these walls.
+
 geistern /ˈɡaistɐn/: to wander, to keep running through
   Warum geisterst du so spät abends noch durchs Haus?
   What are you doing wandering around the house at this time of night?
@@ -153,7 +162,11 @@ gelangen /ɡəˈlaŋən/: to get, to find your way to, to come to
 gelaunt /ɡəˈlaunt/ adj: in a ... mood
    gut/schlecht gelaunt sein: to be in a good/bad mood 
 
+gelb /ɡɛlp/: yellow
+
 Geldwäsche /ˈɡɛltvɛʃə/, die: money laundering
+
+Gelege /ɡəˈleːɡə/, das: clutch
 
 gelegen /ɡəˈleːɡən/: located, situated
 
@@ -178,6 +191,7 @@ Gemeinde /ɡəˈmaində/, die: municipality, community
 
 gemeinsam /ɡəˈmainzaːm/: common, joint, mutual, united, collectively, together, in common, in concert
   gemeinsam wandern/singen: to go hiking/to sing together
+  gemeinsame Interessen haben: to share common interests
 
 gemessen /ɡəˈmɛsən/: measured, appropriate
   => messen: to measure
@@ -206,6 +220,10 @@ gerade /ɡəˈraːdə/: straight, at the moment
   gerade dann: just then
   gerade jetzt: just now
 
+gerade: especially, particularly
+  Diese Impfung ist gerade für Kinder und Ältere wichtig.
+  This vaccination is particularly important for children and the elderly. 
+
 geradeaus /ɡəraːdəˈ|aus/: straight ahead
 
 geraten /ɡəˈraːtən/: to come/get/run into , to hit, to get
@@ -217,6 +235,8 @@ geraten /ɡəˈraːtən/: to come/get/run into , to hit, to get
 
 gering /ɡəˈrɪŋ/: low, small
   eine geringe Anzahl von Bewerbern: a small number of applicants
+
+Geröll /ɡəˈrœl/, das: debris, pebbles, gravel
 
 gerundet: rounded
 
@@ -260,6 +280,11 @@ getigert /ɡeˈtiːɡɐt/: striped
 
 Getränk /ɡəˈtrɛŋk/, das: beverage, drink
 
+Gewalt, die: violence, force, power, authority
+  Gewalt anwenden: to use force
+  mit (aller) Gewalt: by force
+  staatliche/elterliche Gewalt: public/parental authority 
+
 gewaltig /ɡəˈvaltiç/: huge, vast, intense, almighty
   Das Schiff wurde von einer gewaltigen Welle zerschmettert.
   The ship was smashed to pieces by a huge wave.
@@ -276,6 +301,8 @@ Gewehr /ɡəˈveːɐ/, das: rifle, shotgun
 
 Gewerkschaft /ɡəˈvɛrkʃaft/, die: labor union
 
+gewesen => sein
+
 *Gewitter /ɡəˈvɪtɐ/, das: thunderstorm
   Draußen tobte ein heftiges Gewitter.
   A heavy thunderstorm was raging outside.
@@ -283,6 +310,12 @@ Gewerkschaft /ɡəˈvɛrkʃaft/, die: labor union
 gewöhnlich: normal
 
 geworden => werden
+
+gezielt /ɡəˈʦiːlt/: deliberate, calculated, targeted, specifically
+  Das war doch eine gezielte Beleidigung!
+  That was a deliberate insult.
+  gezielt nur die erkrankten Tiere töten, nicht die ganze Herde
+  to purposefully kill only the sick animals, not the whole herd
 
 gezogen => ziehen
 
@@ -332,6 +365,7 @@ gönnen
   You need to give yourself a break for a change.
 
 Grad /ɡraːt/, der: degree, level
+  zehn Grad Celsius/Fahrenheit: 10 degrees centigrade/Fahrenheit
 
 Graf: earl
 
