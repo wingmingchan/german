@@ -1,6 +1,6 @@
 ﻿Dative
 ======
-auf, aus, außer, bei, in, mit, nach, neben, seit, unter, von, zu
+auf, aus, außer, bei, in, mit, nach, neben, seit, unter, von, vor, während, zu
 Singular masculine and neuter: use -em
 Singular feminine: use -er
 Plural (kein): use -en
@@ -21,16 +21,18 @@ mit unserem Sohn
 mit unserer Tochter
 mit einem Paar Handschuhen
 
-zu + dem (masculine, neuter) = zum
-zu + der (feminine) = zur
-zum Arzt, zum Schloss, zur Post
+zu + dem (masculine, neuter) = zum, zum Supermarkt, zum Arzt, zum Schloss
+zu + der (feminine) = zur, zur Post
 
-Location: in dem Staat, 
+Location:
   in + dem = im: im Januar, im Theater
-  in der: in der Schweiz
+  in der: in der Schweiz, in der Nähe
   plural: in den Staaten
-To, towards: in + das = ins, in die, 
-Location: an + dem = am, am Fenster
-To, towards: an + das = ans, an den
+  an + dem = am, am Fenster, am See
+  an + die = an der, an der Ostsee
+
+To, towards: 
+  in den Süden, in + das = ins (ins Kino), in die Stadt/Statten gehen
+  an den, an + das = ans, an die Küste/Küsten
 
 vor zehn Tagen
