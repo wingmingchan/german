@@ -16,7 +16,7 @@ unserem             unserer     unseren
 eurem               eurer       euren
 
 bei:
-  mir, dir, ihm, ihr, Ihnen, euch, ihnen
+  mir, dir, ihm, ihr, uns, Ihnen, euch, ihnen
 
 Location:
   in + dem = im: im Januar, im Theater
@@ -31,13 +31,14 @@ To, towards:
 
 mit meinem Sohn
 mit meiner Tochter
+mit ihrer Schwester
 mit unserem Sohn
 mit unserer Tochter
 mit einem Paar Handschuhen
 mit dem Messer
 mit dem Löffel
 mit der Gabel
-mit den Kindern 
+mit den Kindern, mit den frischen Brötchen
 
 seit einem Jahr
 
