@@ -1,0 +1,33 @@
+﻿Verb Table
+
+========================================================
+fahren
+  Present: fahre, fährst, fährt, fahrt
+  Preterite: fuhr, fuhrst, fuhr, fuhren, fuhrt, fuhren
+  Present Perfect: bin gefahren
+  Imperative: fahr/fahre, fahrt
+  
+sein
+  Present: bin, bist, ist, sind, seid
+  Preterite: war, warst, war, waren, wart
+  Present Perfect: bin gewesen
+  Imperative: sei, seid
+
+verbringen
+  Present: verbringe, verbringst, verbringt
+  Preterite: verbrachte, verbrachtest, verbrachte, verbrachtet, verbrachten
+  Present Perfect: habe verbracht
+  Imperative: verbring/verbringe, verbringt
+
+werden
+  Present: werde, wirst, wird, werdet
+  Preterite: wurde, wurdest, wurde, wurdet, wurden
+  Present Perfect: bin geworden
+  Imperative: werd, werdet
+
+========================================================
+verb
+  Present: 
+  Preterite: 
+  Present Perfect: 
+  Imperative: 
