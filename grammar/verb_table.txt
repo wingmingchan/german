@@ -1,29 +1,46 @@
 ﻿Verb Table
-
 ========================================================
+essen
+  Present: ich esse, du isst, er isst, ihr esst
+  Preterite: ich aß, du aßst, er aß, ihr aßt
+  Present Perfect: habe gegessen
+  Imperative: du iss, ihr esst
+
 fahren
-  Present: fahre, fährst, fährt, fahrt
-  Preterite: fuhr, fuhrst, fuhr, fuhren, fuhrt, fuhren
+  Present: ich fahre, du fährst, er fährt, ihr fahrt
+  Preterite: ich fuhr, du fuhrst, er fuhr, wir fuhren, ihr fuhrt
   Present Perfect: bin gefahren
-  Imperative: fahr/fahre, fahrt
+  Imperative: du fahr/fahre, ihr fahrt
   
+haben
+  Present: ich habe, du hast, er hat, ihr habt
+  Preterite: ich hatte, du hattest, er hatte, ihr hattet
+  Present Perfect: habe gehabt
+  Imperative: du hab/habe, ihr habt
+
+heißen
+  Present: ich heiße, du/er/ihr heißt
+  Preterite: ich hieß, du hießest, er hieß, ihr hießt
+  Present Perfect: habe geheißen
+  Imperative: du heiß/heiße, ihr heißt
+
 sein
-  Present: bin, bist, ist, sind, seid
-  Preterite: war, warst, war, waren, wart
+  Present: ich bin, du bist, er ist, wir/Sie sind, ihr seid
+  Preterite: ich war, du warst, er war, wir/Sir waren, ihr wart
   Present Perfect: bin gewesen
-  Imperative: sei, seid
+  Imperative: du sei, ihr seid
 
 verbringen
-  Present: verbringe, verbringst, verbringt
-  Preterite: verbrachte, verbrachtest, verbrachte, verbrachtet, verbrachten
+  Present: ich verbringe, du verbringst, er/ihr verbringt
+  Preterite: ich verbrachte, du verbrachtest, er verbrachte, wir/Sie verbrachten, ihr verbrachtet
   Present Perfect: habe verbracht
-  Imperative: verbring/verbringe, verbringt
+  Imperative: du verbring/verbringe, ihr verbringt
 
 werden
-  Present: werde, wirst, wird, werdet
-  Preterite: wurde, wurdest, wurde, wurdet, wurden
+  Present: ich werde, du wirst, er wird, ihr werdet
+  Preterite: ich wurde, du wurdest, er wurde, wie/Sie wurden, ihr wurdet
   Present Perfect: bin geworden
-  Imperative: werd, werdet
+  Imperative: du werd, ihr werdet
 
 ========================================================
 verb
