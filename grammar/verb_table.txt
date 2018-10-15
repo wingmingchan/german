@@ -24,23 +24,84 @@ heißen
   Present Perfect: habe geheißen
   Imperative: du heiß/heiße, ihr heißt
 
+können
+  Present: ich kann, du kannst, er kann, ihr könnt
+  Preterite: ich konnte, du konntest, er konnte, ihr konntet
+  Present Perfect: habe gekonnt
+
+kommen
+  Present: ich komme, du kommst, er/ihr kommt
+  Preterite: ich kam, du kamst, er kam, ihr kamt
+  Present Perfect: ist gekommen
+  Imperative: du komm, ihr kommt
+
+machen
+  Present: ich mache, du machst, er macht, ihr macht
+  Preterite: ich machte, du machtest, er machte, ihr machtet
+  Present Perfect: habe gemacht
+  Imperative: du mach/mache, ihr macht
+
+müssen
+  Present: ich muss, du musst, er muss, ihr müsst
+  Preterite: ich musste, du musstest, er musste, ihr musstet
+  Present Perfect: habe gemusst
+  Imperative: du muss, ihr müsst
+
 sein
   Present: ich bin, du bist, er ist, wir/Sie sind, ihr seid
   Preterite: ich war, du warst, er war, wir/Sir waren, ihr wart
   Present Perfect: bin gewesen
   Imperative: du sei, ihr seid
 
+setzen
+  Present: ich setze, du/er/ihr setzt, 
+  Preterite: ich setzte, du setztest, er setzte, ihr setztet, wir/Sie setzten
+  Present Perfect: habe gezetzt
+  Imperative: du setz/setze, ihr setzt
+
+sollen
+  Present: ich soll, du sollst, er soll, ihr sollt
+  Preterite: ich sollte, du solltest, er sollte, ihr solltet
+  Present Perfect: habe gesollt
+  Imperative: du soll/solle, ihr sollt
+
+stehen
+  Present: ich stehe, du stehst, er steht, ihr steht
+  Preterite: ich stand, du standest/standst, er stand, wir standen, ihr standet
+  Present Perfect: ich bin gestanden
+  Imperative: du steh, ihr steht
+
+übernachten
+  Present: ich übernachte, du übernachtest, er übernachtet, ihr übernachtet
+  Preterite: ich übernachtete, du übernachtetest, ihr übernachtetet
+  Present Perfect: habe übernachtet
+  Imperative: du übernacht/übernachte, ihr übernachtet
+
 verbringen
   Present: ich verbringe, du verbringst, er/ihr verbringt
-  Preterite: ich verbrachte, du verbrachtest, er verbrachte, wir/Sie verbrachten, ihr verbrachtet
+  Preterite: ich verbrachte, du verbrachtest, er verbrachte, wir/Sie verbrachten, ihr 
+  
+verbrachtet
   Present Perfect: habe verbracht
   Imperative: du verbring/verbringe, ihr verbringt
+
+vergessen
+  Present: ich vergesse, du vergisst, er vergisst, ihr vergesst
+  Preterite: ich vergaß, du vergaßest, er vergaß, ihr vergaßt
+  Present Perfect: habe vergessen
+  Imperative: du vergiss, ihr vergesst
 
 werden
   Present: ich werde, du wirst, er wird, ihr werdet
   Preterite: ich wurde, du wurdest, er wurde, wie/Sie wurden, ihr wurdet
   Present Perfect: bin geworden
   Imperative: du werd, ihr werdet
+
+wollen
+  Present: ich will, du willst, er will, ihr wollt
+  Preterite: ich wollte, du wolltest, er wollte, ihr wolltet
+  Present Perfect: habe gewollt
+  Imperative: du woll/wolle, ihr wollt
 
 ========================================================
 verb
