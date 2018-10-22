@@ -83,6 +83,12 @@ sollen
   Present Perfect: habe gesollt
   Imperative: du soll/solle, ihr sollt
 
+sprechen
+  Present: ich spreche, du sprichst, er spricht, ihr sprecht
+  Preterite: ich sprach, du sprachst, er sprach, ihr spracht
+  Present Perfect: ich habe gesprochen
+  Imperative: du sprich, ihr sprecht
+
 stehen
   Present: ich stehe, du stehst, er steht, ihr steht
   Preterite: ich stand, du standest/standst, er stand, wir standen, ihr standet
