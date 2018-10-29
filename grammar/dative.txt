@@ -15,6 +15,13 @@ ihrem               ihrer       ihren
 unserem             unserer     unseren
 eurem               eurer       euren
 
+auf:
+  Dative: meaning on
+    sth is on the table: auf dem Tisch
+  Accusative:
+    ich freue mich auf die Spargelzeit
+    I stelle den Zucker auf den Tisch
+
 bei:
   mir, dir, ihm, ihr, uns, Ihnen, euch, ihnen
 
