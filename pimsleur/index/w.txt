@@ -64,7 +64,7 @@ welche 1.23.14:38
   welches Buch 3.4.09:59
   welcher Weg 3.9.25:49
 
-wem 1.8.15:57
+wem 1.8.15:57 => wen
   mit wem? 1.8.15:51
   
 wen 2.6.18:09
