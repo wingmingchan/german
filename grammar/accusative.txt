@@ -1,6 +1,6 @@
 ﻿Accusative
 ==========
-bis, für, durch, gegen, ohne, über, um
+auf, bis, für, durch, gegen, ohne, über, um
 Masculine: use -en
 Neuter: no suffix
 Feminine and plural: use -e
@@ -29,5 +29,10 @@ Ich habe keine Dollar (plural)
 auf
 =================================
 ankommen auf:
-Es kommt auf das Wetter an, ob ...
-meaning of: Ich habe einen Blick auf den See, auf die Apotheke
+  Es kommt auf das Wetter an, ob ...
+  meaning of: Ich habe einen Blick auf den See, auf die Apotheke
+  Dative: meaning on
+    sth is on the table: auf dem Tisch
+  Accusative:
+    ich freue mich auf die Spargelzeit
+    I stelle den Zucker auf den Tisch
