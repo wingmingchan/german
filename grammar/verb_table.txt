@@ -53,6 +53,12 @@ legen
   Present Perfect: ich habe gelegt
   Imperative: du leg/lege, ihr legt
 
+leihen
+  Present: ich leihe, du leihst, er leiht, ihr leiht
+  Preterite: ich lieh, du liehst, er lieh, ihr lieht
+  Present Perfect: ich habe geliehen
+  Imperative: du leih/leihe, ihr leiht
+
 machen
   Present: ich mache, du machst, er macht, ihr macht
   Preterite: ich machte, du machtest, er machte, ihr machtet
