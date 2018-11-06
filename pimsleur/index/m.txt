@@ -122,7 +122,8 @@ Moment, der 1.23.06:54
 Monat, der 3.8.10:51
   nächsten Monat 3.1.06:19
 
-Montag 2.2.01:36
+Montag 2.2.01:36, 2.7.13.14
+  am Montag 2.7.13.22
 
 morgen 1.11.12:07
 
