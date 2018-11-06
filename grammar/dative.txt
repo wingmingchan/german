@@ -32,8 +32,12 @@ Location:
   an + dem = am, am Fenster, am See
   an + die = an der, an der Ostsee
 
-To, towards: 
-  in den Süden, in + das = ins (ins Kino), in die Stadt/Statten gehen
+To, towards:
+  in einen Biergarten/Weinkeller/Buchladen gehen
+  masculin: in den Süden
+  neuter: in + das = ins (ins Kino)
+  feminine: in die Stadt/Statten gehen/fahren
+  plural: in die USA gehen
   an den, an + das = ans, an die Küste/Küsten
 
 mit meinem Sohn
@@ -45,7 +49,7 @@ mit einem Paar Handschuhen
 mit dem Messer
 mit dem Löffel
 mit der Gabel
-mit den Kindern, mit den frischen Brötchen
+mit den/unseren/Ihren Kindern, mit den frischen Brötchen
 
 seit einem Jahr
 
