@@ -57,7 +57,7 @@ Kollege 1.19.00:06
 
 Kollegin 2.4.07:03
 
-kommen an
+kommen an => ankommen
   Sie kommen an 2.7.14:53
   Komm bitte herein 3.8.24:34
 
