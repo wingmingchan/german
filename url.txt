@@ -5,6 +5,7 @@ Dictionaries
 https://www.collinsdictionary.com/dictionary/german-english/
 https://dictionary.cambridge.org/dictionary/german-english/
 https://en.langenscheidt.com/german-english/
+https://www.duden.de/
 
 Verb conjugations
 https://conjd.cactus2000.de/
@@ -51,3 +52,6 @@ http://www.german-latin-english.com/Germain.htm
 http://www.deutschseite.de/index.html
 https://www.learngermanonline.org/free-downloadable-pdfs/
 http://www.goethe.de/lrn/prj/gad/deindex.htm
+
+Grammar check
+https://languagetool.org/
