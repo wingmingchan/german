@@ -24,6 +24,7 @@ auf:
 
 bei:
   mir, dir, ihm, ihr, uns, Ihnen, euch, ihnen
+  Bei der Citibank
 
 Location:
   in + dem = im: im Januar, im Theater
