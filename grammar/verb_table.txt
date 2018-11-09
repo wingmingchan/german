@@ -1,10 +1,21 @@
 ﻿Verb Table
 ========================================================
+arbeiten
+  Present: ich arbeite, du arbeitest, er arbeitet, ihr arbeitet
+  Preterite: ich arbeitete, du arbeitetest, er arbeitete, ihr arbeitet
+  Present Perfect: ich habe gearbeitet
+  Imperative: du arbeit/arbeite, ihr arbeitet
+
 bekommen
   Present: ich bekomme, du bekömmst, er bekömmt, ihr bekommt
   Preterite: ich bekam, du bekamst, ihr bekamt
   Present Perfect: ich habe bekommen
   Imperative: du bekomm, ihr bekommt
+  
+dürfen
+  Present: ich darf, du darfst, er darf, ihr dürft
+  Preterite: ich durfte, du durftest, er durfte, ihr durftet
+  Present Perfect: ich habe gedurft
 
 essen
   Present: ich esse, du isst, er isst, ihr esst
@@ -29,6 +40,12 @@ haben
   Preterite: ich hatte, du hattest, er hatte, ihr hattet
   Present Perfect: habe gehabt
   Imperative: du hab/habe, ihr habt
+
+hängen
+  Present: ich hänge, du hängst, er hängt, ihr hängt
+  Preterite: ich hing, du hingst, er hing, ihr hingt
+  Present Perfect: ich habe gehangen
+  Imperative: du häng/hänge, ihr hängt
 
 heißen
   Present: ich heiße, du/er/ihr heißt
