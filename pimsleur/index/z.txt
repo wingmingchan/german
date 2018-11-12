@@ -41,6 +41,9 @@ zur => zu + der
 
 zurück 2.13.23:42
 
+zurückkommen 2.24
+  Ich komme zur&#252;ck 2.24.20:35
+
 zurückrufen 3.28.08:01
 
 zusammen 1.10.00:11, 1.27.12:34
