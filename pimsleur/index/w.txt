@@ -67,7 +67,7 @@ welche 1.23.14:38
 wem 1.8.15:57 => wen
   mit wem? 1.8.15:51
   
-wen 2.6.18:09
+wen /veːn/ 2.6.18:09
   Für wen? 2.6.18:24
 
 wenig 2.15.15:18
@@ -79,7 +79,7 @@ wenn 1.17.12:40
   wenn Sie möchten 1.22.11:57
   wenn das Auto klein ist 1.23.20:58
 
-wer 1.18.14:58
+wer /veːɐ/ 1.18.14:58
   Wer weiß? 2.14.06:02
 
 werden 2.15.05:46, 4.2.11:47
