@@ -19,6 +19,10 @@ Hagel /ˈhaːɡəl/, der: hail
 
 Hahn /haːn/, Hahn(e)s or Hähne /ˈhɛːnə/, der: rooster
 
+Haken /ˈhaːkən/, der: hook
+  Er hängte seinen Mantel an den Haken.
+  He hung his coat on the hook. 
+
 halb /halp/: half
 
 half => helfen
@@ -75,6 +79,9 @@ häufig /ˈhɔyfɪç/: frequent, common
 
 Haupt /haupt/, das: head
   das Haupt der Christenheit: the Pope
+
+Hauptreisezeit: peak tourist season
+
 
 Hausarbeit /ˈhaus|arbait/, die: housework
 
