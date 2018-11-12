@@ -1,6 +1,6 @@
 ﻿Verb Table
 ========================================================
-arbeiten
+arbeiten (regular)
   Present: ich arbeite, du arbeitest, er arbeitet, ihr arbeitet
   Preterite: ich arbeitete, du arbeitetest, er arbeitete, ihr arbeitet
   Present Perfect: ich habe gearbeitet
