@@ -6,6 +6,12 @@ arbeiten (regular)
   Present Perfect: ich habe gearbeitet
   Imperative: du arbeit/arbeite, ihr arbeitet
 
+aufwachsen
+  Present: ich wachse auf, du wächst auf, er wächst auf, ihr wachst auf
+  Preterite: ich wuchs auf, du wuchsest auf, er wuchs auf, wir wuchsen auf, ihr wuchst auf
+  Present Perfect: ich bin aufgewachsen
+  Imperative: du wachs/wachse auf, ihr wachst auf
+
 bekommen
   Present: ich bekomme, du bekömmst, er bekömmt, ihr bekommt
   Preterite: ich bekam, du bekamst, ihr bekamt
@@ -143,6 +149,12 @@ werden
   Preterite: ich wurde, du wurdest, er wurde, wie/Sie wurden, ihr wurdet
   Present Perfect: bin geworden
   Imperative: du werd, ihr werdet
+
+wissen
+  Present: ich weiß, du weißt, er weißt, ihr wisst
+  Preterite: ich wusste, du wusstest, er wusste, ihr wusstet
+  Present Perfect: ich habe gewusst
+  Imperative: du wiss/wisse, ihr wisst
 
 wollen
   Present: ich will, du willst, er will, ihr wollt
