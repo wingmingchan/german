@@ -39,6 +39,8 @@ zum => zu + dem 1.16.00:22
 zur => zu + der
   zur Bank gehen 2.26.03:25
 
+Zürich 3.18.10:42
+
 zurück 2.13.23:42
 
 zurückkommen 2.24
