@@ -90,9 +90,12 @@ seit 1.28.10:48
   seit letztem Monat 3.8.10:47
   seit der Schule 4.2.29:40
 
-setzen 3.17.09:21
+September 3.17.02:56
 
-sich 4.2.24:23
+setzen 3.17.09:21
+  Möchten Sie sich setzen? 3.17.09:14
+
+sich 3.17.09:14, 4.2.24:23
 
 sicher
   sicher nicht 1.9.23:11
