@@ -45,7 +45,9 @@ entschuldigen 1.1.01:07
 
 er /eːɐ/ 1.14, 1.19.04:40
 
-Erfolg, der 4.15.08:48
+Erfolg, der 3.15.08:48
+
+erfolgreich 3.18.11:36
 
 erinnern
   erinnerst 3.6.19:38
