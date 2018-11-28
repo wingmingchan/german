@@ -92,3 +92,5 @@ Kuchen, der 2.10.12:41
 Kugelschreiber, der 3.5.16:09
 
 Kunde, der 3.14.15:57
+  mit unserem Kunden 3.18.13:23
+  mit unserem neuen Kunden 3.18.14:08
