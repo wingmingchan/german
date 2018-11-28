@@ -2,6 +2,8 @@
 G /ɡeː/ G wie Gustav
 ========================================================
 
+ganz 5.4.20:43
+
 ganze 3.13:15:38
 
 gar 3.3.17:55
@@ -19,6 +21,7 @@ geben 1.14:06:22
 gefällt
   Es gefällt mir in Deutschland 1.30.03:30
   Es gefällt mir in der Schweiz 2.15.07:20
+  Gefällt es ihm 3.16.07:26
   => gefallen
 
 gefragt 3.12.19:12
@@ -38,6 +41,7 @@ geht 1.2.05:33
   morgen Abend geht das 1.11.21:54
   Geht es heute Abend? 1.15.21:19
   Wann gehst du? 2.9.03:55
+  Wie geht es ihn? 3.18.06:46
 
 gelesen 4.2.06:49
 
@@ -56,7 +60,7 @@ geöffnete 2.21.13:40
 
 Gepäck, das 3.24.13:49
 
-gerada 3.16.21:22
+gerade 3.16.21:22
 
 geradeaus 1.23.16:34
 
@@ -120,6 +124,7 @@ groß 1.20.11:05
   Er ist ein sehr großer Junge 1.22.02:25
   großes Auto 1.22.06:00
   größer 2.15.05:29
+  größer als 3.17.24:24
 
 Größe, die 4.5.13:06
 
