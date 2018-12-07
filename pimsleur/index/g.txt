@@ -27,6 +27,7 @@ gefällt
 gefragt 3.12.19:12
 
 gegessen 2.1.07:16
+  => essen
 
 gehen 1:15:00:12
   gehe ins Kino/Restaurant
@@ -41,8 +42,11 @@ geht 1.2.05:33
   morgen Abend geht das 1.11.21:54
   Geht es heute Abend? 1.15.21:19
   Wann gehst du? 2.9.03:55
-  Wie geht es ihn? 3.18.06:46
-
+  Wie geht es ihm? 3.18.06:46
+  Wie geht's deinem Mann? 4.13.15:49
+  Wie geht's eurem Sohn? 4.13.16:22
+  Wie geht's euch? 4.13.25:09
+  
 gelesen 4.2.06:49
 
 Geld, das 1.16.04:28
@@ -95,6 +99,7 @@ gesprochen 2.1.07:42
 gestern 1.29.07:01
 
 gewusst 3.20.17:46
+  => wissen
 
 gibt
   es gibt 1.22.18:45
