@@ -59,6 +59,8 @@ meinen 3.17.18:32
 
 meisten 3.10:10:14
 
+meistens
+
 Messe, die 4.1.21:29, 4.2.02:43
 
 mich 1.15.06:48
@@ -119,10 +121,13 @@ mögen
   ich mag Wein 1.29.15:47
   meine Frau mag Blumen sehr 3.22
 
+möglich 4.13.14:45
+
 Moment, der 1.23.06:54
 
 Monat, der 3.8.10:51
   nächsten Monat 3.1.06:19
+  Monate 3.30.18:30
 
 Montag 2.2.01:36, 2.7.13.14
   am Montag 2.7.13.22
