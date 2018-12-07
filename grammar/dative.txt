@@ -20,7 +20,9 @@ auf:
     sth is on the table: auf dem Tisch
   Accusative:
     ich freue mich auf die Spargelzeit
-    I stelle den Zucker auf den Tisch
+    Ich stelle den Zucker auf den Tisch
+    Es kommt auf den Verkehr an
+    Es kommt auf das Wetter an
 
 bei:
   mir, dir, ihm, ihr, uns, Ihnen, euch, ihnen
@@ -29,7 +31,7 @@ bei:
 Location:
   in + dem = im: im Januar, im Theater
   in der: in der Schweiz, in der Nähe
-  plural: in den Staaten
+  plural: in den Städten
   an + dem = am, am Fenster, am See
   an + die = an der, an der Ostsee
 
