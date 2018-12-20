@@ -51,7 +51,7 @@ Base /ˈbaːzə/, die: base
 basieren /baˈziːrən/
   etw. basiert auf etw.: sth is based on sth
 
-bat => bitten
+bat, baten => bitten
 
 Bau, der: building, construction
   mit dem Bau des Kindergartens beginnen
@@ -361,6 +361,8 @@ bestücken /bəˈʃtʏkən/: to equip, to load
 beten /ˈbeːtən/: to pray
   Er betet jeden Abend vor dem Schlafengehen.
   He prays every night before he goes to bed.
+  Das Kind betete sein Nachtgebet.
+  The child said his evening prayers.
 
 betrachten /bəˈtraxtən/: to look at, to consider, to observe
   ein Kunstwerk eingehend betrachten: to view an art work in detail
@@ -372,6 +374,9 @@ betrinken: to get drunk
 betrügen /bəˈtryːɡən/: to cheat
   Er lügt und betrügt, wann es ihm passt.
   He lies and cheats whenever it's to his advantage.
+
+Bett /bɛt/, das, Betten: bed
+  früh ins/zu Bett gehen: to go to bed early
 
 betteln /ˈbɛtəln/: to beg
   auf der Straße um Brot betteln: to beg for bread on the street
@@ -435,6 +440,8 @@ biegen /ˈbiːgən/: to bend, to turn
 bieten /ˈbiːtən/: to bid, to offer, to provide
   2000 Euro sind geboten. Wer bietet mehr?
   I have a bid for 2000 euros. Any other bids?
+  Er hat mir für den Auftrag/das Auto viel Geld geboten.
+  He offered me a lot of money for the job/car. 
 
 Bild, das: painting, picture
 
@@ -467,7 +474,7 @@ bisschen /ˈbɪsçən/
   ein klein bisschen: a little bit
   ein ganz bisschen: just a tiny bit/drop
 
-bitten /ˈbɪtən/: to ask
+bitten /ˈbɪtən/: to ask, to beg, to request
   Sie bat mich, sie nach Hause zu fahren.
   She asked me to drive her home.
 
