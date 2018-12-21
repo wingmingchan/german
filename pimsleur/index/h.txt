@@ -65,9 +65,12 @@ holen
   ich hole 3.21.16:36
   Sie holen 3.21.17:02
 
+hören 1.8
+
 Hotel
   das Hotel 1.8.13:18
   im Hotel 1.8.13:08
   
 Hotelkette, die 4.1.04:59
+
 Hut 1.18.00:08, 1.29.11:20
