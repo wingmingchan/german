@@ -2,6 +2,9 @@
 G /ɡeː/ G wie Gustav
 ========================================================
 
+Galerie, die 4.8
+  Galerien 4.8.10:37
+
 ganz 5.4.20:43
 
 ganze 3.13:15:38
@@ -33,6 +36,8 @@ gehen 1:15:00:12
   gehe ins Kino/Restaurant
   gehe zur Bank/Post
   gehe zum Arzt
+
+gehört => hören
 
 geht 1.2.05:33
   geht es 1.2.05:33
