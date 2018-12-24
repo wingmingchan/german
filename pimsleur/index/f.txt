@@ -34,6 +34,8 @@ finden 2.21.14:10
 
 Firma, die 3.3.10:29
 
+Fisch, der 4.10.19:57
+
 Flasche, die 3.4.10:56
 
 fliegen 2.26.26:56
@@ -56,6 +58,8 @@ Freitag 2.8.11:20
 Freizeit, die 3.22.10:53
 
 Frau 1.2.06:59
+
+freuen 4.11.23:39
 
 Freund, der 1.26.05:38
 
