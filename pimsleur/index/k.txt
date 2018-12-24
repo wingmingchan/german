@@ -48,8 +48,14 @@ Kiosk, der 2.14.00:23
 Kirche 4.6.29:36
   Die Nikolaikirche 4.6.28:07
 
+Klasse, die 4.9.07:27
+  zweiter Klasse 4.9.07:27
+  erster Klasse 4.9.07:51
+
 klein 1.21.10:08
   kleineres, nichts kleineres 4.6.10:15
+
+Koffer, der 2.10.26:56
 
 Kohlensäure 4.4.02:53
 
