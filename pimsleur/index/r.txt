@@ -11,6 +11,10 @@ rechts 1.24.11:12
 
 Regen, der 2.30.15:36
 
+Regenschirm, der 4.8.20:48
+
+Regio, der 4.9.09:43
+
 regnen
   Hoffentlich regnet es nicht 4.1.28:29
 
@@ -43,3 +47,5 @@ rot 2.3.18:42
 Rottenburg 4.3.26:03
 
 Rotwein, der 2.3.18:44
+
+Rückfahrt, die 4.9.05:42
