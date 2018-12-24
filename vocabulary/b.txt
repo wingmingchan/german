@@ -26,7 +26,7 @@ Balken /ˈbalkən/, der: beam
 Ball /bal/, der: ball
   Fußball: soccer
 
-Band /bant/, das: ribbon
+Band /bant/, das: ribbon, ligament, tape, conveyer belt
   ein Band im Haar tragen
   to wear a ribbon in your hair
 
@@ -307,6 +307,8 @@ Bescheid /bəˈʃait/, der: notification
 beschimpfen /bəˈʃɪmpfən/: to insult, to swear at, to abuse
   jdn am Telefon wüst beschimpfen: to hurl abuse at sb on the phone
 
+Beschreibung /bəˈʃraibʊŋ/, die: description
+
 besetzen /bəˈzɛʦən/: to fill, to reserve, to occupy
   eine Führungsposition neu besetzen
   to find someone new to fill an executive position
@@ -535,6 +537,9 @@ bohren /ˈboːrən/: to drill
 
 Bohrmaschine /ˈboːɐmaʃiːnə/, die: drill
 
+Boot /boːt/, das: boat
+  Bootfahrt: boat trip
+
 Bordell /bɔrˈdɛl/, das: brothel
 
 Börse /ˈbœrzə/, die: stock market, wallet
@@ -607,7 +612,7 @@ Bub /buːp/, der: boy
 
 Büblein, das: little boy
 
-Buch /buːx/, das: book
+Buch /buːx/, das, Bücher /ˈbyːçɐ/: book
   
 buchen: to book
    eine Reise online /ˈɔnlain/ buchen: to book a trip online
@@ -642,4 +647,10 @@ Bus, der
 
 Bushaltestelle, die
 
+bestreichen /bəˈʃtraiçn/: to spread, to butter
+
 Bußgeld, das: fine, penalty
+
+Butter /ˈbʊtɐ/, die: butter
+  ein Brot mit Butter bestreichen
+  to butter a slice of bread 
