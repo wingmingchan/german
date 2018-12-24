@@ -20,6 +20,8 @@ warum 1.25.00:18
 
 war => sein 2.14.17:56
 
+warst => sein 4.11
+
 warm 3.11.11:22
 
 was
@@ -33,6 +35,8 @@ wechseln 2.25.11:23
 Weg, der 2.29.16:46
 
 weg 1.27.11:13
+
+Wagen 4.10.11:55
 
 wegfahren 1.27.11:18
   ihr fahrt weg 4.6.23:49
@@ -70,6 +74,8 @@ wem 1.8.15:57 => wen
   
 wen /veːn/ 2.6.18:09
   Für wen? 2.6.18:24
+
+Wende, die 4.9.27:17
 
 wenig 2.15.15:18
   weniger 2.14.19:15
