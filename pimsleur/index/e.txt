@@ -14,12 +14,15 @@ ein 1.1.13:14
   einen
 
 einfach 3.3.19:53
+  einfache Fahrekarten 4.10.09:32
 
 eingeladen 3.13.13:21
 
 einige 1.26.07:07
 
 einkaufen 4.3.16:30
+
+Einkaufszentrum, das 4.9
 
 einladen 2.9.05:05
 
@@ -35,9 +38,13 @@ Eis, das
 elf 1.12.11:11
   elf Mark 1.12.11:08
 
+Eltern 4.11.17:25
+
 empfehlen 3.4.13:05
 
 Englisch 1.1.02:22
+
+entfernte 4.11.11:26
 
 entschuldigen 1.1.01:07
   Entschuldigen Sie. 1.1.01:48
@@ -61,6 +68,8 @@ erst 3.20.22:48
 
 erste
   die ersten Demonstrationen 4.7.30:29
+
+Erwachsene 4.9.05:12
 
 Essen, das 1.16.00:22
 
