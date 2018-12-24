@@ -102,9 +102,17 @@ sein
 
 setzen
   Present: ich setze, du/er/ihr setzt, 
-  Preterite: ich setzte, du setztest, er setzte, ihr setztet, wir/Sie setzten
+  Preterite: ich setzte, du setztest, er setzte, ihr setztet, wir/Sie 
+  
+setzten
   Present Perfect: habe gezetzt
   Imperative: du setz/setze, ihr setzt
+
+sitzen
+  Present: ich sitze, du sitzt, er sitzt, ihr sitzt
+  Preterite: ich saß, du saßest, er saß, wir saßen, ihr saßt
+  Present Perfect: ich haben gesessen
+  Imperative: du sitz/sitze, ihr sitzt
 
 sollen
   Present: ich soll, du sollst, er soll, ihr sollt
@@ -123,6 +131,12 @@ stehen
   Preterite: ich stand, du standest/standst, er stand, wir standen, ihr standet
   Present Perfect: ich bin gestanden
   Imperative: du steh, ihr steht
+
+tun
+  Present: ich tue, du tust, er tut, ihr tut
+  Preterite: ich tat, du tatest, er tat, wir taten, ihr tatet
+  Present Perfect: ich haben getan
+  Imperative: du tu, ihr tut
 
 übernachten
   Present: ich übernachte, du übernachtest, er übernachtet, ihr übernachtet
