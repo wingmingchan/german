@@ -275,6 +275,8 @@ entmachten /ɛntˈmaxtən/: disempower
 entschärfen /ɛntˈʃɛrfən/: to defuse, to disarm
 
 entscheiden /ɛntˈʃaidən/: to decide, to judge, to rule
+  Eine so wichtige Sache möchte ich ungern allein entscheiden.
+  I'm not keen on deciding such an important matter on my own. 
 
 entscheidend /ɛntˈʃaidənt/: vital, crucial, critical, decisive
   von entscheidender Bedeutung sein: to be of vital importance
@@ -442,6 +444,10 @@ erschrak => erschrecken
 erschrecken /ɛɐˈʃrɛkən/: to get a fright, to be startled, to frighten
 
 erschweren /ɛɐˈʃveːrən/: to make more difficult, to aggravate, to impede
+
+ersetzen /ɛɐˈzɛʦən/: to replace
+  einen alten Teppich durch einen neuen ersetzen
+  to replace the old carpet with a new one
 
 erst /eːɐst/: first, not until, only, not before
   Lass ihn doch erst mal die Jacke ausziehen.
