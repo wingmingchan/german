@@ -12,7 +12,11 @@ um 1.9.10:56
   Um wie viel Uhr? 1.9.10:56
   um ihr Deutsch zu verbessern 4.1.22:47
   
+umsteigen 4.10.08:04
+
 und 1.3.10:37
+
+ungefähr 4.9.16:18
 
 Uni 4.4.29:39 => Universität
 
@@ -33,6 +37,8 @@ unterschreiben 3.25.13:53
 
 Urlaub, der 2.11.16:08
   im Urlaub 2.11.16:34
-  
+
+ursprünglich 4.11.18:03
+
 USA
   in den USA 4.3.05:00
