@@ -14,6 +14,8 @@ danke 1.2.07:42, 1.9.20:18
 dann
   also dann 1.11.07:31, 1.11.13:43
 
+darauf 4.11.23:57
+
 darf
   Darf ich 2.9.05:23
   du darfst 2.9.09:57
@@ -93,6 +95,8 @@ dort 1.26.08:01
 
 dorthin 2.26.08:21
 
+Dresden 4.8.24:52
+
 draußen 3.10.16:16
 
 drei 1.10.09:35
@@ -111,6 +115,10 @@ du 1.28.00:35
 dunkel 4.8.13:06
 
 dunkelblau 4.8.12:42
+  das dunkelblaue Paar 4.8:15:43
+  mit dem dunkelblauen Paar 4.9.21:22
+
+dunkelrote 4.9.19:55
 
 durch 3.16.16:03
 
