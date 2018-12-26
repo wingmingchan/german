@@ -2,6 +2,11 @@
 S /ɛs/ S wie Siegfried
 ========================================================
 
+Saal /zaːl/, der, Säle /ˈzɛːlə/: room, hall
+  ein Kino mit acht Sälen: a movie theater with eight screens 
+
+Saar, die: a river in NE France and W Germany
+
 Sache /ˈzaxə/, die: thing
 
 sachlich /ˈzaxlɪç/: objective, matter-of-fact, factual, objectively
@@ -16,13 +21,23 @@ sagen: to say
 
 sah => sehen
 
+Sahne /ˈzaːnə/, die: cream
+  Sahne für den Kuchen steif schlagen: to whip some cream for the cake 
+
 Salat /zaˈlaːt/, der: lettuce, salad
+
+Samen /ˈzaːmən/, der, Samen: seed, sperm
 
 sammeln /ˈzaməln/: to gather, to collect, to assemble
   Im Herbst gehen wir gerne Pilze sammeln.
   We like to go mushroom picking in the fall.
 
 saß /zaːs/ => sitzen
+
+satt /zat/: full, ric, lush, substantial
+  <=> hungrig
+  Von so einem bisschen wird man doch nicht satt!
+  Such a small amount isn't enough to fill you up! 
 
 Satz /zaʦ/, der: sentence
   Ich wurde mitten im Satz unterbrochen.
@@ -132,6 +147,7 @@ schlagen /ˈʃlaːɡən/: to hit, to strike, to beat
   schlage, schlägst, schlägt, ihr schlagt, habe geschlagen
   schlug, schlugst, schlug, schlugen, ihr schlugt
   jdm mit der Hand/Faust ins Gesicht schlagen: to slap/punch sb in the face
+  Sahne für den Kuchen steif schlagen: to whip some cream for the cake
 
 Schlagstock /ˈʃlaːkʃtɔk/, der: baton, nightstick
   Die Beamten setzten Tränengas und Schlagstöcke gegen die Demonstranten ein.
@@ -407,6 +423,9 @@ sitzen /ˈzɪʦən/: to sit
 Skandal /skanˈdaːl/, der: scandal
   einen Skandal vermeiden/vertuschen: to avoid/hush up a scandal
 
+Sklave /ˈsklaːvə, ˈsklaːfə/, Sklavin, Sklaven, Sklavinnen: slave
+  jdn wie einen Sklaven behandeln: to treat sb like a slave 
+
 skurril /skuˈriːl/: absurd
   Ich finde die Idee schon ein wenig skurril.
   I think the idea's pretty absurd.
@@ -486,6 +505,8 @@ spätestens /ˈʃpɛːtəstəns/: at the latest
 
 spenden /ˈʃpɛndən/: to donate, to give, to provide
 
+Sperma /ˈʃpɛrma/, das, Spermen /ˈʃpɛrmən/: sperm
+
 Spiegel /ˈʃpiːɡəl/, der: mirror
   sich im Spiegel betrachten: to look at yourself in the mirror
 
@@ -518,7 +539,7 @@ spüren /ˈʃpyːrən/: to feel, to notice
 
 spürbar /ˈʃpyːɐbaːɐ/: noticeable , perceptible
 
-Staat /ʃtaːt/, der: state, country
+Staat /ʃtaːt/, der, Staaten: state, country
   ein demokratischer Staat: a democratic state
 
 Staatsanwalt /ˈʃtaːʦ|anvalt/: DA, presecutor
@@ -570,7 +591,10 @@ Stau /ʃtau/, der: traffic jam
 Stecher /ˈʃtɛçɐ/: sex partner
 
 stecken /ˈʃtɛkən/: to be, to put
-  viel Arbeit/Geld/… in etw. stecken: to put a lot of work/money/… into sth
+  viel Arbeit/Geld/… in etw. stecken
+  to put a lot of work/money/… into sth
+  jdm/sich einen Ring an den Finger stecken
+  to put a ring on sb's/your finger 
 
 steckte => stecken
 
@@ -591,8 +615,9 @@ Steigerung /ˈʃtaiɡərʊŋ/, die: increase, improvement
 
 Steinbock /ˈʃtainbɔk/, der: ibex
 
-stellen /ˈʃtɛlən/: to put, to place
+stellen /ˈʃtɛlən/: to put, to place, to set
   Blumen in eine Vase stellen: to put some flowers in a vase
+  jdm eine Frage stellen: to ask sb a question
 
 -stellig /ʃtɛlɪç/: -figure, -digit
   fünfstellige
@@ -637,7 +662,9 @@ Strand /ʃtrant/, der: flaches Ufer am Meer, beach
 
 Strecke /ˈʃtrɛkə/, die: distance, route
 
-streichen /ˈʃtraiçən/: to delete, to cut, to cancel
+streichen /ˈʃtraiçən/: to paint, to spread, to delete, to cut, to cancel
+  die Wände weiß streichen: to paint the walls white
+  Butter/Marmelade aufs Brot streichen: to spread butter/jelly on the bread 
 
 Streifen /ˈʃtraifən/, der: stripe
 
