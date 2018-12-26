@@ -2,7 +2,8 @@
 A /aː/ A wie Anton, Ä wie Ärger
 ========================================================
 
-Aal /aːl/, der: eel
+Aal /aːl/, der, Aale: eel
+  Räucheraal: smoked eel 
 
 aalen /ˈaːlən/: to laze, to bask
   Wir haben uns stundenlang in der Sonne geaalt.
@@ -16,7 +17,8 @@ Aas /aːs/, das: carrion, jackass
   Das interessiert kein Aas.
   Nobody gives a damn about that.
 
-ab
+ab /ap/: from
+  ab nächster Woche: from next week 
   ab und zu/an: manchmal
 
 ab-: from, away
@@ -29,6 +31,10 @@ abbiegen /ˈapbiːɡən/: to turn, to turn off
 abdrucken /ˈapdrʊkən/: to print
   Ihr Leserbrief wurde in der Zeitung abgedruckt.
   Her letter to the editor was printed in the newspaper.
+
+Abend /ˈaːbənt/, der, Abende: evening
+
+Abendessen /ˈaːbənt|ɛsən/, das: supper
 
 Abfall /ˈapfal/, Abfälle /ˈapfɛlə/, der: waste, trash
   industrielle Abfälle: industrial waste
@@ -207,9 +213,20 @@ Achtung /ˈaxtʊŋ/, die: respect, attention
 
 Adler /ˈaːdlɐ/, der: eagle
 
+Affe /ˈafə/, der, Affen: monkey, ape
+  die Affen im Zoo: the monkeys in the zoo 
+
 ähnlich: similar
   Sie ist ihrer Schwester sehr ähnlich.
   She's very like her sister.
+
+Ahnung /ˈaːnʊŋ/, die: idea
+  Ich hab wenig Ahnung von Computern.
+  I have no idea about computers.
+  Hast du eine Ahnung!
+  You don't know jack!
+  Ich hatte schon so eine Ahnung, dass das nicht klappt.
+  I had a feeling it wasn’t going to work. 
 
 akklimatisieren /aklimatiˈziːrən/: to acclimate yourself
 
@@ -233,7 +250,17 @@ Albtraum /ˈalptraum/, der: nightmare
   Die Fahrt war der reinste Albtraum!
   The journey was an absolute nightmare.
 
-alle: all
+Alibi /ˈaːlibi/, das, Alibis: alibi
+  ein Alibi für die Tatzeit haben
+  to have an alibi for the time of the crime 
+
+All /al/, das: space, outer space, universe
+  Spaziergang im All: space walk
+
+all: all
+  all meine Zeit: all my time
+
+alle /ˈalə/: all
 
 allerdings /ˈalɐˈdɪŋs/: however, indeed
   Die Suppe ist gut, allerdings ein bisschen scharf.
@@ -268,6 +295,12 @@ als /als/: when, than, only, as if, as
   He acted as if he hadn’t heard me.
   als Lehrer arbeiten: to work as a teacher
 
+also /ˈalzo/: therefore, so, well
+  Ich denke, also bin ich.
+  I think, therefore I am.
+  Also, wenn ich auch mal was sagen darf: …
+  Well, if I may say something, too: …
+
 altbewährt: well-proven
   => bewährt: proven
   => bewähren: to prove
@@ -294,7 +327,8 @@ Ammoniak /amoˈniak/, das: ammonia
 Ammoniaklösung, die: ammonia solution
 
 Ampel /ˈampəl/, Ampeln, die: traffic light
-
+  an der Ampel warten müssen: to have to wait at the traffic light
+ 
 Ampere, das: ampère
 
 Amt /amt/, das: office, position
@@ -309,7 +343,9 @@ Amtszeit, die: term, term of office
 
 an /an/: at, on, from, against
   Auf geht's, an die Arbeit!
-  Come on, let’s get to work!
+  Come on, let's get to work!
+  Das Radio ist noch an.
+  The radio's still on. 
 
 andauernd /ˈandauɐnt/: continuing, persistent, constant, ongoing
 
@@ -358,6 +394,9 @@ angst
 Anhänger /ˈanhɛŋɐ/, der: trailer, pendant, follower
   <=> Gegner
 
+Anker /ˈaŋkɐ/, der, Anker: anchor
+ den Anker (aus)werfen/einholen: to drop/raise anchor
+ 
 Ankündigung /ˈankʏndɪɡʊŋ/: announcement
 
 ankündigen /ˈankʏndɪɡən/: to announce
@@ -395,8 +434,6 @@ anspringen /ˈanʃprɪŋən/: to jump up on, to come running up, to start
   Bei Kälte springt das Auto oft nicht gleich an.
   When it's cold the engine often doesn't start right away.
 
-Ausrutscher /ˈausrʊtʃɐ/, der: slip, slip-up
-
 anstellen /ˈanʃtɛlən/: to hire, to employ, to engage
   5 neue Mitarbeiter anstellen: to hire 5 new employees
   die Waschmaschine anstellen: to turn on the washing machine
@@ -415,10 +452,6 @@ anstreichen /ˈanʃtraiçən/: to paint, to Mark
   eine Bank blau anstreichen: to paint a bench blue
   Der Lehrer hat mir das als Fehler angestrichen.
   The teacher marked that as a mistake. 
-
-Art, die: sort, kind, species, way
-
-Arthritis /arˈtriːtɪs/, die
 
 antrocknen: to begin to dry
 
@@ -443,7 +476,7 @@ anzünden /ˈanʦʏndən/: to light
   Sie zündete sich eine Zigarette an.
   She lit a cigarette.
 
-Apfel /ˈapfəl/, der: apple
+Apfel /ˈapfəl/, der, Äpfel /ˈɛpfəl/: apple
   Apfelkuchen: apple pie
   Apfelschorle, die: apple juice and mineral water
 
@@ -471,6 +504,10 @@ arm /arm/: poor
 Armut /ˈarmuːt/, die: poverty
   in bitterster Armut leben: to be desperately poor
 
+Art, die: sort, kind, species, way
+
+Arthritis /arˈtriːtɪs/, die
+
 Arzt /arʦt/, Ärztin: doctor
   ein Attest des behandelndes Arztes vorlegen
   to hand in a certificate from the attending physician
@@ -484,6 +521,9 @@ Ast /ast/, Äste /ˈɛstə/, der: branch
 Asyl /aˈzyːl/, das: asylum
   Asyl beantragen: to seek asylum
   Obdachlosenasyl: homeless shelter
+
+Atlas /ˈatlas/, der, Atlanten /atˈlantən/: atlas
+  einen Ort im Atlas nachschlagen: to look a place in the atlas 
 
 Atom /aˈtoːm/, das: atom
   Atombombe: atomic bomb
@@ -649,6 +689,10 @@ ausruhen /ˈausruːən/: to rest
   Ruh bei der Bildschirmarbeit zwischendrin mal deine Augen aus!
   When you're working at the computer you should give your eyes a rest at times.
 
+Ausrutscher /ˈausrʊtʃɐ/, der: slip, slip-up
+  Ich hoffe, das war nur ein Ausrutscher.
+  I hope that was just a slip-up.
+
 Aussage /ˈauszaːɡə/, die: testimony, statement, message
   eine klare Aussage der Regierung zur Steuerpolitik fordern
   to demand a clear statement from the government on its tax policy
@@ -660,6 +704,9 @@ Ausschau /ˈausʃau/ halten nach: to look out
   to keep an eye out for enemy ships
   Sie hält nach einer neuen Wohnung/Arbeitsstelle Ausschau.
   She's on the lookout for a new apartment/job.
+
+ausschalten /ˈausʃaltən/: to switch off
+  <=> einschalten
 
 Ausschreitung /ˈausʃraitʊŋ/, die: riot
 
