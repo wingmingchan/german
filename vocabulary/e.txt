@@ -147,6 +147,11 @@ Einrede, die: objection, protest, contradiction, defense
 
 Einsatz /ˈainzaʦ/, der: operation, deployment, use, effort, commitment
 
+einschalten /ˈainʃaltən/: to switch on
+  <=> ausschalten
+  Schaltest du bitte den Fernseher/das Licht ein?
+  Could you switch on the TV/light, please?
+
 einschleichen /ˈainʃlaiçən/: to sneak in
 
 Einsicht, die: view, insight, conclusion
@@ -254,7 +259,7 @@ entfernt /ɛntˈfɛrnt/: away, distant, remote
 
 Entfernung /ɛntˈfɛrnʊŋ/, die: distance
 
-enthalten /ɛntˈhaltən/: to contain
+enthalten /ɛntˈhaltən/: to contain, to hold
   Das Wasser hier enthält viel Kalk.
   The water here is very hard.
 
@@ -317,6 +322,9 @@ Erbe /ˈɛrbə/, das: inheritance, heritage
 Erde /ˈeːɐdə/, die
 
 erdrutschartig, adj: landslide, devastating
+
+Erektion /erɛkˈʦjoːn/, die, Erektionen: erection
+  eine Erektion haben/bekommen: to have/get an erection 
 
 Erfahrung /ɛɐˈfaːrʊŋ/, die: experience
   Erfahrungen sammeln: to gain experience
@@ -434,6 +442,11 @@ erreichen /ɛɐˈraiçən/: to reach, to get hold of, to arrive at
   When's the best time to get hold of you at the office?
   In Kürze erreichen wir München.
   We are now approaching Munich.
+
+errichten /ɛɐˈrɪçtən/: to build, to erect
+  eine Brücke/ein Hochhaus errichten: to build a bridge/high-rise 
+
+Errichtung /ɛɐˈrɪçtʊŋ/, die: construction, erection
 
 erschaffen /ɛɐˈʃafən/: to create
   Gott erschuf die Welt und den Menschen.
