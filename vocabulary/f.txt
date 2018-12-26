@@ -29,6 +29,9 @@ Fall /fal/, der: case
   von Fall zu Fall: on a case by case basis
   etw. ist der Fall: sth is the case
 
+Falle /ˈfalə/, die, Fallen: trap
+  eine Falle aufstellen: to set a trap 
+
 fallen /ˈfalən/: to fall
   falle, fällst, fällt, ihr fallt, bin gefallen
   fiel, fielst, fiel, fielen, ihr fielt
@@ -275,6 +278,9 @@ Fortschritte machen: to advance, to make progress
 
 Foul /faul/, das: foul
   ein Foul begehen: to commit a foul
+
+Frage /ˈfraːɡə/, die, Fragen: question
+  jdm eine Frage stellen: to ask sb a question
 
 Frankreich /ˈfraŋkraiç/, das: France
 
