@@ -2,9 +2,17 @@
 D /deː/ D wie Dora
 ========================================================
 
-da: then
+da: there, that one, then
+  Hallo, ist da jemand?
+  Hello, is there anyone there?
+  „Welches Glas möchtest du?‟ – „Das da!‟
+  "Which glass would you like?" – "That one."
+  da und dort: here and there
+  Ich bin gleich wieder da! I’ll be back in a moment.
 
 da: as, since
+  Da ich dich nicht erreicht habe, bin ich ohne dich gefahren.
+  As I didn't get hold of you I went without you.
 
 dabei /daˈbai/: there, at the same time
   Warst du dabei, als das passiert ist?
@@ -33,6 +41,9 @@ damit /ˈdaːmɪt/: with it, thereby, in order that
   Sie blieb bei ihrem Kind, damit es sich nicht fürchtete.
   She stayed with her child so he wouldn't be afraid.
 
+Damm /dam/, der, Dämme /ˈdɛmə/: dam, dike, levee
+  Dämme errichten: to build levees 
+
 danach /daˈnaːx/: afterward
 
 daneben /daˈneːbən/: next to it, besides
@@ -40,6 +51,8 @@ daneben /daˈneːbən/: next to it, besides
   The supermarket is just around the corner and the gas station's right next to it.
 
 Dänemark /ˈdɛːnəˌmark/
+
+Dank /daŋk/, das, Dank(e)s: thanks
 
 dann /dan/: then
   Und was dann?
@@ -64,6 +77,10 @@ darunter: among them, including
 datieren /daˈtiːrən/: to date
   Er hat den Brief auf den 10. Oktober datiert.
   He dated the letter October 10th.
+
+Datum /ˈdaːtʊm/, das, Daten: date
+  Welches Datum haben wir heute?
+  What's today's date? 
 
 Dauer /ˈdauɐ/, die: duration
   auf (die) Dauer: in the long run, always
