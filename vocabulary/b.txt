@@ -17,6 +17,9 @@ Bäckerei /bɛkəˈrai/, die: bakery
 
 baff /baf/: flabbergasted
 
+Bahn /baːn/, die, Bahnen: train
+  mit der Bahn nach Berlin fahren: to take the train to Berlin 
+
 bahnen /ˈbaːnən/: to clear the way for sb to sth
 
 bald /balt/: soon
@@ -40,6 +43,10 @@ Bank, Bänke, die: bench
 
 Bann /ban/, der: spell
   jdn in seinen Bann ziehen: jdn faszinieren, to captivate sb
+
+Bar /baːɐ/, die, Bars: bar
+  mit Freunden in eine Bar gehen: to go to a bar with friends
+  sich an die Bar setzen: to sit down at the bar  
 
 Bart, der: beard
   sich [dative] einen Bart wachsen lassen: to grow a beard
@@ -179,6 +186,8 @@ beherzigen /bəˈhɛrʦɪɡən/: to take to heart, to heed
   He took her words to heart and drove carefully.
 
 Bein /bain/, das: leg
+  Spinnen haben acht Beine.
+  Spiders have eight legs.
 
 Beispiel /ˈbaiʃpiːl/, das: example
   zum Beispiel, z. B., Beisp.: for example
@@ -493,6 +502,13 @@ blasen /ˈblaːzən/: to blow
   to blow on the soup to cool it
 
 blass /blas/: pale
+
+Blatt /blat/, das, Blätter /ˈblɛtɐ/: page, leaf, paper
+  ein leeres Blatt: a blank page
+  Die Blätter fallen schon von den Bäumen.
+  The leaves are falling from the trees already.
+  Das Blatt berichtet, dass …
+  The paper says that …
 
 Blei /blai/, das: (metal) lead
 
