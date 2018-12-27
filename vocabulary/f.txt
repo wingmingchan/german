@@ -18,7 +18,7 @@ Fahrkarte, die: ticket
 
 Faktor /ˈfaktoːɐ/, der: factor
 
-Fall /fal/, der: case
+Fall /fal/, der, Fälle /ˈfɛlə/: case
   Was macht man in so einem Fall?
   What do you do in a case like that?
   auf alle Fälle: in any case, just in case
@@ -90,6 +90,13 @@ Fazit /ˈfaːʦɪt/, das: conclusion
   He described the event as a success.
 
 fechten /ˈfɛçtən/: to fence, to fight
+
+Fee /feː/, die, Feen: fairy
+  von einer bösen Fee verzaubert werden
+  to have a spell cast on you by a wicked fairy godmother 
+
+fehl /feːl/
+  fehl am Platz(e) sein: to be out-of-place
 
 fehlen /ˈfeːlən/: to be missing, to lack, to be absent
   An deinem Hemd fehlt ein Knopf.
