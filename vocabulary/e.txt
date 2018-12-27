@@ -16,6 +16,8 @@ Ecke /ˈɛkə/, die: edge, corner
   Er hat sich an der Ecke des Schranks gestoßen.
   He bumped into the corner of the closet.
 
+Edel-: premier, upmarket, high-class
+
 edel /ˈeːdəl/: noble, fine, premium, pure
 
 Edelleute: nobles, nobility
@@ -90,6 +92,10 @@ einfahren: to bring in, to make, to retract, to drive into, to come
 Einfahrt /ˈainfaːɐt/, die: entrance, entry, driveway
   Einfahrt verboten!
   No entry!
+
+Einfall /ˈainfal/, der, Einfälle /ˈainfɛlə/: idea, invasion
+  Der Ausflug war ein glänzender Einfall von dir.
+  The day trip was a brilliant idea of yours. 
 
 einfärben: to dye
   => Farbe
@@ -312,6 +318,8 @@ Entwicklung /ɛntˈvɪklʊŋ/, die: development
   Softwareentwicklung
 
 Entwurf /ɛntˈvʊrf/, der: design, draft, sketch
+
+er /eːɐ/: he, it
 
 er-: some result is achieved, the beginning of a process
 
