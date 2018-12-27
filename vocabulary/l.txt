@@ -10,6 +10,11 @@ Lack /lak/, der, Lacke: varnish, paint
   den Tisch mit farblosem/weißem Lack streichen
   to paint the table with colorless varnish/white paint 
 
+Lade, die, Laden: drawer, trunk, chest
+
+Laden /ˈlaːdən/, der, Läden /ˈlɛːdən/: store
+  => Geschäft
+
 laden /ˈlaːdən/: to load, to charge
   Die Akkus müssen wieder geladen werden.
   The batteries need recharging.
@@ -36,7 +41,13 @@ Lager, das, Lager /ˈlaːɡɐ/: camp, store, depot
 lahm /laːm/: lame, limp, dreary
   Er hat ein lahmes Bein. He's lame in one leg.
 
-Lamm /lam/, das
+lähmen /ˈlɛːmən/: to paralyze
+  Die Spinne lähmt ihre Beute mit Gift, bevor sie sie frisst.
+  The spider paralyzes its prey with poison before eating it. 
+
+Lamm /lam/, das, Lämmer /ˈlɛmɐ/: lamb
+  Die Lämmer blöken.
+  The lambs are bleating.
 
 Lampe /ˈlampə/, die, Lampen: lamp
   die Lampe einschalten/ausschalten: to switch the lamp on/off 
@@ -131,6 +142,15 @@ Leder/ˈleːdɐ/, das: leather
 lediglich /ˈleːdɪklɪç/: only, merely
   Es handelt sich lediglich um eine Ausnahme.
   This is just an exception.
+
+Lee /leː/, die: lee
+  ein sich nach Lee neigendes Boot: a boat listing to leeward 
+
+leer /leːɐ/: empty, blank, vacant
+  <=> voll
+  Der Akku ist schon wieder leer!
+  The battery has run out again already.
+  ein leer stehendes Gebäude: an empty building 
 
 legendär /leɡɛnˈdɛːɐ/: legendary
 
