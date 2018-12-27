@@ -36,6 +36,8 @@ Abend /ˈaːbənt/, der, Abende: evening
 
 Abendessen /ˈaːbənt|ɛsən/, das: supper
 
+aber /ˈaːbɐ/: but
+
 Abfall /ˈapfal/, Abfälle /ˈapfɛlə/, der: waste, trash
   industrielle Abfälle: industrial waste
 
@@ -230,7 +232,7 @@ Ahnung /ˈaːnʊŋ/, die: idea
 
 akklimatisieren /aklimatiˈziːrən/: to acclimate yourself
 
-Akku /ˈaku/, der: battery
+Akku /ˈaku/, der, Akkus: battery
   den Akku vom Handy aufladen: to charge your cell
 
 Aktentasche /ˈaktəntaʃə/, die: briefcase
@@ -250,12 +252,15 @@ Albtraum /ˈalptraum/, der: nightmare
   Die Fahrt war der reinste Albtraum!
   The journey was an absolute nightmare.
 
+Ali /ˈaːli/, der: Arab
+
 Alibi /ˈaːlibi/, das, Alibis: alibi
   ein Alibi für die Tatzeit haben
   to have an alibi for the time of the crime 
 
 All /al/, das: space, outer space, universe
   Spaziergang im All: space walk
+  das weite/unerforschte All: the immense/unknown universe
 
 all: all
   all meine Zeit: all my time
@@ -300,6 +305,10 @@ also /ˈalzo/: therefore, so, well
   I think, therefore I am.
   Also, wenn ich auch mal was sagen darf: …
   Well, if I may say something, too: …
+
+alt /alt/: old
+ Für solchen Blödsinn bist du schon zu alt.
+ You're too old for such nonsense. 
 
 altbewährt: well-proven
   => bewährt: proven
@@ -396,7 +405,11 @@ Anhänger /ˈanhɛŋɐ/, der: trailer, pendant, follower
 
 Anker /ˈaŋkɐ/, der, Anker: anchor
  den Anker (aus)werfen/einholen: to drop/raise anchor
- 
+
+ankreuzen /ˈankrɔytsən/: to mark with a cross
+  die passende Antwort ankreuzen
+  to mark the correct answer with a cross 
+
 Ankündigung /ˈankʏndɪɡʊŋ/: announcement
 
 ankündigen /ˈankʏndɪɡən/: to announce
@@ -629,6 +642,14 @@ Ausblick /ˈausblɪk/, der: view, outlook, perspective
   a room with a view of the sea
 
 ausbreiten /ˈausbraitən/: to spread (out), to lay out
+
+ausdehnen /ˈausdeːnən/: to stretch, to extend, broaden
+  Wenn du das T-Shirt immer auf diese Weise ausziehst, dehnst du den Kragen aus.
+  If you always take off your T-shirt like that, you'll stretch the collar. 
+  Warme Luft dehnt sich aus.
+  Hot air expands.
+  Wir müssen die Suche auf die ganze Stadt ausdehnen.
+  We'll have to expand our search to the whole city. 
 
 ausdrücken /ˈausdrʏkən/: to express
 
