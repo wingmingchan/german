@@ -346,6 +346,8 @@ sehr /zeːɐ/: very
   Bitte sehr!
   You're very welcome.
 
+sei => sein
+
 Seife /ˈzaifə/, die: soap
 
 seicht: shallow
@@ -654,6 +656,10 @@ stören /ˈʃtøːrən/: to disturb, to interfere, to interrupt, to intrude, to 
 stoßen /ˈʃtoːsən/: to push, to shove, to strike, to bump
   jdn ins Wasser stoßen: to push sb into the water
   mit dem Kopf an die Decke stoßen: to bump your head on the ceiling
+
+Strafe /ˈʃtraːfə/, die: punishment
+  Er bekam von seinen Eltern zur Strafe Hausarrest.
+  He was grounded by his parents as a punishment. 
 
 Straftäter /ˈʃtraːftɛːtɐ/: offender, criminal
   jugendliche Straftäter: young offender
