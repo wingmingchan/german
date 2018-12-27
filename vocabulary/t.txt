@@ -10,6 +10,14 @@ Tag /taːk/, der: day
 
 Taifun /taiˈfuːn/, der: typhoon
 
+Takt /takt/, der, Takte: time, tack
+  ein Musikstück im Dreivierteltakt
+  a piece of music in three-four time
+  Sie hat überhaupt keinen Takt.
+  She has no tact at all.
+
+Tal /taːl/, der, Täler /ˈtɛːlɐ/: valley
+
 Tanne /ˈtanə/, die, Tennen: fir
  Unser Weihnachtsbaum ist dieses Jahr eine Tanne.
  Our Christmas tree this year is a fir. 
@@ -20,7 +28,7 @@ Tante /ˈtantə/, die: aunt
 
 Tasche /ˈtaʃə/, die: pocket, bag
 
-tat => tun
+tat /taːt/ => tun
 
 Täter /ˈtɛːtɐ/: culprit
   Die Polizei hat den mutmaßlichen Täter verhaftet.
@@ -53,6 +61,10 @@ täuschen /ˈtɔyʃən/: to be wrong, to deceive, to be deceptive
   The first impression is deceptive. Inside, the house is in very good order.
 
 tausend /ˈtauzənt/: thousand
+
+Tee /teː/, der: tea
+  Was für einen Tee magst du: Kräuter-, Früchte- oder schwarzen?
+  What sort of tea do you like: herbal, fruit or black? 
 
 Teenager /ˈtiːneːʤɐ/, der
 
