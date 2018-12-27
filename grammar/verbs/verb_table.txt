@@ -94,6 +94,12 @@ müssen
   Present Perfect: habe gemusst
   Imperative: du muss, ihr müsst
 
+nehmen
+  Present: ich nehme, du nimmst, er nimmt, ihr nehmt
+  Preterite: ich nahm, du nahmst, er nahm, wir nahmen, ihr nahmt
+  Present Perfect: ich have genommen
+  Imperative: du nimm, ihr nehmt
+
 sein
   Present: ich bin, du bist, er ist, wir/Sie sind, ihr seid
   Preterite: ich war, du warst, er war, wir/Sir waren, ihr wart
