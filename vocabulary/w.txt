@@ -22,6 +22,10 @@ Wagen /ˈvaːɡən/, der: cart, car
 
 Wahlkampf /ˈvaːlkampf/, der: election campaign
 
+Wahn /vaːn/, der: delusion, mania
+  Er lebt in dem Wahn, erfolgreicher zu sein als ich.
+  He's laboring under the delusion that he's more successful than I am.
+
 wahr /ˈvaːɐ/: true
   Das darf/kann doch nicht wahr sein!
   That can't be true!
@@ -121,6 +125,10 @@ Wegwerfware, die: disposable goods
 *Weib /vaip/, das: female, babe, woman, wife
 
 weiblich /ˈvaiplɪç/: female
+
+weich /vaiç/: soft, soft-boiled
+  <=> hart
+  Gemüse weich kochen: to boil vegetables until cooked through 
 
 Weihnachten /ˈvainaxtən/, das: Christmas
   Was wünschst du dir zu Weihnachten?
