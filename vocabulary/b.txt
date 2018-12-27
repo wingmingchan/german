@@ -42,11 +42,15 @@ Bank, Banken, die: bank
 Bank, Bänke, die: bench
 
 Bann /ban/, der: spell
+  Das Spiel hielt uns alle in Bann.
+  The game had us all under its spell. 
   jdn in seinen Bann ziehen: jdn faszinieren, to captivate sb
 
 Bar /baːɐ/, die, Bars: bar
   mit Freunden in eine Bar gehen: to go to a bar with friends
   sich an die Bar setzen: to sit down at the bar  
+
+Bär /bɛːɐ/, der, Bärin, Bären: bear
 
 Bart, der: beard
   sich [dative] einen Bart wachsen lassen: to grow a beard
@@ -105,6 +109,9 @@ bedienen /bəˈdiːnən/: to serve, to wait tables
   She waits tables in a small restaurant.
 
 Bedienung /bəˈdiːnʊŋ/: waiter, waitress
+
+Beet /ˈbeːt/, das, Beete: (flower/plant) bed
+   neue Beete anlegen: to lay out new beds 
 
 Befliegung: flight, overflying
 
@@ -394,6 +401,11 @@ betteln /ˈbɛtəln/: to beg
 
 Bettler /ˈbɛtlɐ/: beggar
 
+Beute /ˈbɔytə/, die, Beute: loot, booty, spoils, prey
+  Kriegsbeute: spoils of war
+  Der Löwe zerfleischt seine Beute.
+  The lion tears its prey to pieces. 
+
 Bevölkerung /bəˈfœlkərʊŋ/: population, people
 
 bevor /bəˈfoːɐ/: before
@@ -412,6 +424,10 @@ bewahren /bəˈvaːrən/: to prevent, to save, to maintain
 bewähren /bəˈvɛːrən/: to prove yourself
   Er konnte sich in der Krise bewähren.
   He was able to prove himself in the crisis.
+
+Bewährung /bəˈvɛːrʊŋ/, die: probation, test of character
+  Die Strafe wurde zur Bewährung ausgesetzt.
+  He was given a suspended sentence.
 
 Bewältigung /bəˈvɛltɪɡʊŋ/, die: coping (with), handling
   die Bewältigung einer Krise: coping with a crisis
@@ -523,6 +539,9 @@ blicken /ˈblɪkən/: to look, to get
 
 Blitzer, der: flashgun, speed trap
 
+Blödsinn /ˈbløːtzɪn/, der: nonsense
+  => Unsinn
+
 bloß /bloːs/: bare
   mit bloßen Händen
 
@@ -559,6 +578,11 @@ Boot /boːt/, das: boat
 Bordell /bɔrˈdɛl/, das: brothel
 
 Börse /ˈbœrzə/, die: stock market, wallet
+
+böse /ˈbøːzə/: wicked, evil, nasty, naughty, angry
+  Er hat es nicht böse gemeint.
+  He didn't mean any harm.
+  Pfui, böser Hund! Stop it! Bad dog! 
 
 Botschaft /ˈboːtʃaft/, die: message, embassy
   Ich habe eine frohe Botschaft für dich!
@@ -623,7 +647,9 @@ Brut, die: brood, breeding
 
 brüten /ˈbryːtən/: incubate
 
-Bub /buːp/, der: boy
+Bub /buːp/, der, Buben: boy
+  In der Klasse sind 15 Mädchen und 13 Buben.
+  There are 15 girls and 13 boys in the class. 
   das Büblein: the little boy
 
 Büblein, das: little boy
