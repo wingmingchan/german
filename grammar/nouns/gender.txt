@@ -1,0 +1,55 @@
+﻿Gender
+======
+A. Meaning
+
+M: Male persons and male animals
+   Seasons, months and days of the week
+   Points of the compass and words referring to winds and kinds of weather
+   Rocks and minerals
+   Alcoholic drinks and plant- based drinks
+   Makes of car
+   Rivers outside Germany
+   Monetary units
+   Mountains and mountain ranges
+   
+F: Female persons and animals
+   Aeroplanes, motorbikes and ships
+   Native German names of rivers
+   Names of numerals
+   
+N: Young persons and animals
+   Metals and chemical elements
+   Scientific units
+   Letters of the alphabet and musical notes
+   Other parts of speech used as nouns
+   Hotels, cafés, restaurants and cinemas
+   Names of continents, countries, provinces and towns
+   
+B. Form
+
+Masculine ending:
+  -ant
+  -ast
+  -ich
+  -ig
+  -ismus
+  -ling
+  -or
+  -us
+  
+Feminine endings:
+  -a
+  -anz/-enz
+  -ei
+  -heit/-keit
+  -ie
+  -ik
+  -in
+  -schaft
+  -sion/-tion
+  -sis
+  -t
+  -tät
+  -ung
+  -ur
+  
