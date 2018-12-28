@@ -15,6 +15,17 @@ Bäcker /ˈbɛkɐ/, Bäckerin: baker
 
 Bäckerei /bɛkəˈrai/, die: bakery
 
+Bad /baːt/, das: bath, bathroom
+
+baden /ˈbaːdən/: to take a bath, to bathe, to swim
+  Willst du baden oder duschen?
+  Do you want to have a bath or a shower?
+  Unser Baby wird täglich gebadet.
+  We bathe our baby every day.
+  nackt baden to bathe (in the) nude
+
+Badezimmer /ˈbaːdəʦɪmɐ/, das: bathroom
+
 baff /baf/: flabbergasted
 
 Bahn /baːn/, die, Bahnen: train
@@ -80,7 +91,9 @@ bayerisch /ˈbaiərɪʃ/: Bavarian
 
 be-: to turn a noun or adjective to a verb, intransitive -> transitive
 
-Beamte /bəˈ|amtə/: official
+Beamte /bəˈ|amtə/, Beamten, Beamtin, Beamtinnen: official, civil servant
+  Lehrer und Polizisten sind Beamte.
+  Teachers and police officers are government employees. 
 
 beantragen /bəˈ|antraːɡən/: to apply for
   ein Visum beantragen: to apply for a visa
@@ -89,9 +102,19 @@ Beben /ˈbeːbən/, das: quake
   ein Beben der Stärke 8 auf der Richter-Skala
   an earthquake with a magnitude of 8 on the Richter scale
 
+beben: to shake, to tremor, to tremble
+  Auch bei uns hat spürbar die Erde gebebt.
+  Even where we are you could feel the earth tremor.
+  Er bebte am ganzen Körper vor Empörung.
+  His whole body was trembling with indignation. 
+
 Becher /ˈbɛçɐ/, der: cup
   Er trank seinen Kaffee aus einem Plastikbecher.
   He drank his coffee from a plastic cup.
+
+Bedarf /bəˈdarf/, der, Bedarf(e)s: need, requirement
+  Schon eine Orange deckt den täglichen Bedarf an Vitamin C.
+  One orange is enough to cover the daily requirement of vitamin C. 
 
 bedauerlich /bəˈdauɐlɪç/: regrettable, unfortunate
 
@@ -127,6 +150,11 @@ befriedigend /bəˈfriːdɪɡənt/: satisfactory
   ein befriedigendes Ergebnis erzielen: to achieve a satisfactory result
 
 Befriedigung /bəˈfriːdɪɡʊŋ/: satisfaction
+
+begabt /bəˈɡaːpt/: talented
+  => Gabe
+  Sie ist musikalisch begabt.
+  She's gifted musically. 
 
 begegnen: to meet, to confront, to face, to confront
   Ich bin ihm zum ersten Mal auf einer Party begegnet.
@@ -385,6 +413,12 @@ beten /ˈbeːtən/: to pray
 betrachten /bəˈtraxtən/: to look at, to consider, to observe
   ein Kunstwerk eingehend betrachten: to view an art work in detail
 
+betragen /bəˈtraːɡən/: to be, to amount to, to behave
+  Die Länge darf höchstens 2,50 m betragen.
+  The length can be 2.50 meters tops.
+  Betragt euch anständig bei Oma!
+  Behave yourselves at grandma's!
+
 Betrieb, der: operation, company
 
 betrinken: to get drunk
@@ -624,6 +658,12 @@ brennen /ˈbrɛnən/: to burn , to be on fire
 Breze(l) /ˈbreːʦə(l)/, die: pretzel
 
 bricht => brechen
+
+Brief /briːf/, der, Briefe: letter
+  jdm einen Brief schreiben: to write sb a letter 
+
+Briefmarke /ˈbriːfmarkə/, die: stamp
+  Briefmarken sammeln: to collect stamps 
 
 Briefträger /ˈbriːftrɛːɡɐ/: mail carrier
 
