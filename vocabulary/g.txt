@@ -2,10 +2,13 @@
 G /ɡeː/ G wie Gustav
 ========================================================
 
-Gabe /ˈɡaːbə/, die: gift
+Gabe /ˈɡaːbə/, die, Gaben: gift, talent
+  Sie besitzt die Gabe, andere zum Lachen zu bringen.
+  She has the gift of being able to make others laugh. 
   milde Gabe: donation
 
-Gabel, die: folk
+Gabel /ˈɡaːbəl/, die, Gabeln: folk
+  mit Messer und Gabel essen: to eat with a knife and fork 
 
 gähnen /ˈɡɛːnən/: to yawn
 
@@ -15,7 +18,7 @@ Gams, Gämse /ˈɡɛmzə/, die: chamois
 
 Ganges , der
 
-Gans /ɡans/, die: goose
+Gans /ɡans/, die, Gänse /ˈɡɛnzə/: goose
 
 Gänserich /ˈɡɛnzərɪç/, der: gander
 
@@ -84,7 +87,7 @@ Gedanke, der: thought
 
 geeignet /ɡəˈ|aiɡnət/: suitable
 
-Gefahr /ɡəˈfaːɐ/, die: danger
+Gefahr /ɡəˈfaːɐ/, die, Gefahren: danger
   Es besteht die Gefahr, dass jemand ins Eis einbricht.
   There is a risk that someone might fall through the ice.
 
@@ -95,6 +98,8 @@ gefährden /ɡəˈfɛːɐdən/: to endanger
 gefährlich /ɡəˈfɛːɐlɪç/: dangerous
   Vorsicht! Der Täter ist bewaffnet und sehr gefährlich.
   Warning! The perpetrator is armed and very dangerous.
+
+gefällt => fällen, gefallen
 
 Gefängnis /ɡəˈfɛŋnɪs/, das: prison
   im Gefängnis sitzen/sein: to be in prison
@@ -188,6 +193,10 @@ gelaunt /ɡəˈlaunt/ adj: in a ... mood
    gut/schlecht gelaunt sein: to be in a good/bad mood 
 
 gelb /ɡɛlp/: yellow
+  zitronengelb: lemon 
+
+Geld /ɡɛlt/, das, Gelder: money
+  Geld vom Konto abheben: to withdraw money from your account 
 
 Geldwäsche /ˈɡɛltvɛʃə/, die: money laundering
 
@@ -357,6 +366,9 @@ Gipfel /ˈɡɪpfəl/, der: summit, peak
   to climb to the top of the mountain
   Gipfelkonferenz: summit meeting
 
+Girokonto /ˈʒiːrokɔnto/, das, Girokonten: check account
+  ein Girokonto eröffnen: to open a check account 
+
 glänzend /ˈɡlɛnʦənt/: glossy, shiny, brilliant
   glänzende Laune haben: to be in the best of moods
   Es geht mir glänzend!
@@ -384,6 +396,7 @@ glücklich /ˈɡlʏklɪç/: happy, lucky, fortunate
 glucksen /ˈɡlʊksən/: to gurgle, to burble, to chortle
 
 Gnade /ˈɡnaːdə/, die: mercy
+  um Gnade bitten/flehen: to ask/beg for mercy 
 
 gnadenlos: merciless
 
