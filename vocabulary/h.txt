@@ -58,11 +58,18 @@ halten /ˈhaltən/: to hold, to keep, to give, to deliver, to stop
   an einer roten Ampel halten: to stop at a red light
   sich an etw. halten: to follow sth, to obey sth
 
+Halter /ˈhaltɐ/, der: holder, mount
+  Handtuchhalter: towel rack 
+
 Halterung /ˈhaltərʊŋ/, die: bracket, mounting
 
 Haltestelle, die: stop
    An der nächsten Haltestelle müssen wir aussteigen.
    We have to get off at the next stop. 
+
+Hammer /ˈhamɐ/, der, Hämmer: hammer
+  mit dem Hammer einen Nagel in die Wand schlagen
+  to hammer a nail into the wall
 
 Handel, der: trade
   Handelsabkommen: trade agreement
@@ -86,6 +93,9 @@ hart /hart/: hard
 
 Hass /has/, der: hate, hatred
 
+hauen /ˈhauən/: to hit, to beat, to fight
+  mit der Faust auf den Tisch hauen: to bang your fist on the table 
+
 häufig /ˈhɔyfɪç/: frequent, common
   Diese Krankheit ist hierzulande nicht besonders häufig.
   This illness isn't very common in these parts.
@@ -96,7 +106,6 @@ Haupt /haupt/, das: head
   das Haupt der Christenheit: the Pope
 
 Hauptreisezeit: peak tourist season
-
 
 Hausarbeit /ˈhaus|arbait/, die: housework
 
@@ -120,6 +129,13 @@ heben /ˈheːbən/: to lift, to raise
 
 Heck /hɛk/, das: rear, stern
   Heckklappe: tailgate
+
+Heft /hɛft/, das, Hefte: exercise book, booklet
+  Die Lehrerin sammelt die Hefte ein.
+  The teacher collected the exercise books. 
+
+heften /ˈhɛftən/: to pin, to stick, to tack, to file, to fix
+  ein Plakat an die Wand heften: to pin a poster on the wall 
 
 heftig /ˈhɛftɪç/: violent
 
@@ -155,10 +171,11 @@ helfen /ˈhɛlfən/: to help
   Ich muss einem Kollegen helfen.
 
 hell /hɛl/: light, bright
+  <=> dunkel
   ein helles Zimmer: a bright room
   ein helles Grün: a light green 
 
-Hemd /hɛmt/, das: shirt
+Hemd /hɛmt/, das, Hemden: shirt
   Er trug zur Hose Hemd und Krawatte.
   He was wearing a shirt and tie with the pants.
 
