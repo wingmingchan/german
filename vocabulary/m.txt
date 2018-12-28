@@ -13,6 +13,13 @@ Mädel /ˈmɛːdəl/, das: girl
   In der Klasse sind 15 Mädel und 12 Buben.
   There are 15 girls and 12 boys in the class. 
 
+mager /ˈmaːɡɐ/: thin, skinny, poor
+  Sie sieht furchtbar mager aus.
+  She looks terribly thin.
+  Magermilch: skim milk
+  Zwei Punkte im ganzen Spiel ist schon eine arg magere Ausbeute.
+  Two points in the whole game is a pretty poor result. 
+
 mähen /ˈmɛːən/: to mow, to harvest
   den Rasen mähen: to mow the lawn
 
@@ -23,7 +30,7 @@ Mal /maːl/, das, Male: time
   Ein für alle Mal: Lass deine Schwester in Ruhe!
   Leave your sister alone, once and for all! 
 
-Maler /ˈmaːlɐ/, Malerin: painter
+Maler /ˈmaːlɐ/, Malerin, Maler, Malerinnen: painter
   ein berühmter Maler: a famous painter
   Wir haben gerade die Maler im Haus.
   We've got the painters in the house at the moment.
@@ -41,6 +48,8 @@ manch /manç/: some, many (a)
 manchmal /ˈmançmaːl/: sometimes
 
 Mangel /ˈmaŋəl/, Mängel, der: shortage, lack, defect, fault, flaw
+
+Mann /man/, der, Männer
 
 Mannequin /ˈmanəkɛ̃/, das: model
 
@@ -207,6 +216,10 @@ Mond /moːnt/, der: moon
 Montag /ˈmoːntaːk/, der
 
 Most /mɔst/, der: cider
+
+Mücke /ˈmʏkə/, die, Mücken: mosquito
+  Wir wurden am Fluss von Mücken zerstochen.
+  We were bitten by mosquitos by the river. 
 
 müde /ˈmyːdə/: tired, weary
   Das lange Warten macht müde.
