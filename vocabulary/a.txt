@@ -83,6 +83,12 @@ Abgrund /ˈapɡrʊnt/, Abgründe, der: abyss
   vom Gipfel in den Abgrund blicken: to look down into the depths from the summit
   ein Abgrund an Gewalt: extreme violence
 
+abheben /ˈapheːbən/: to answer, to cut, to withdraw, to take off
+  Ich rufe dauernd an, aber keiner hebt ab.
+  I keep calling but no one is answering.
+  Ich möchte gern 300 Euro von meinem Sparbuch abheben.
+  I'd like to withdraw 300 euros from my savings account.
+
 Abkommen /ˈapkɔmən/, das: agreement
   ein Friedensabkommen unterzeichnen: to sign a peace treaty
 
@@ -418,6 +424,10 @@ ankündigen /ˈankʏndɪɡən/: to announce
 
 Ankunft /ˈankʊnft/, Ankünfte, die: arrival
 
+anlegen /ˈanleːɡən/: to lay out, to set up, to invest
+  ein neues Gemüsebeet anlegen: to lay out a new bed
+  ein Sparbuch anlegen: to open a savings account
+
 Anmeldung /ˈanmɛldʊŋ/, die: enrollment, registration, application, registration form
 
 anonym /anoˈnyːm/: anonymous
@@ -619,6 +629,9 @@ aufpassen /ˈaufpasən/: to be careful, to pay attention
   Du musst im Unterricht besser aufpassen.
   You have to pay more attention in classes.
 
+aufrichtig /ˈaufrɪçtɪç/: sincere, honest
+  aufrichtigen Dank empfinden: to be sincerely grateful 
+
 aufschlagen /ˈaufʃlaːɡən/: to open, to add, to hit
   Ich hielt sie für tot, bis sie die Augen aufschlug.
   I thought she was dead till she opened her eyes.
@@ -636,6 +649,10 @@ Auge /ˈauɡə/, das: eye
   to have blue eyes / good eyesight
   
 aus-: away, removed, turned off
+
+Ausbeute /ˈausbɔytə/, die: yield
+  Die Mine ist noch in Betrieb, aber die Ausbeute ist mittlerweile gering.
+  The mine is still in operation but the yield is now low. 
 
 Ausblick /ˈausblɪk/, der: view, outlook, perspective
   ein Zimmer mit Ausblick aufs Meer
