@@ -316,6 +316,11 @@ schwierig /ˈʃviːrɪç/: difficult
 
 Schwierigkeit /ˈʃviːrɪçkait/, die: difficulty, complexity
 
+Schwimmbad /ˈʃvɪmbaːt/, das, Schwimmbäder: swimming pool
+  ins Schwimmbad gehen: to go to the swimming pool 
+
+schwimmen /ˈʃvɪmən/: to swim
+
 schwindelerregend: dizzy
 
 schwingen /ˈʃvɪŋən/: to swing
@@ -353,6 +358,10 @@ Seife /ˈzaifə/, die: soap
 seicht: shallow
   Der Fluss ist seicht genug, um hindurchzuwaten.
   The river is shallow enough to wade through.
+
+Seilbahn /ˈzailbaːn/, die: cableway, aerial tramway
+  mit der Seilbahn den Berg hinauffahren
+  to go up the mountain on the cableway
 
 sein /zain/: to be
   bin, bist, ist, sind, ihr seid, bin gewesen
@@ -435,6 +444,9 @@ skurril /skuˈriːl/: absurd
 schmecken: to taste, to like
   Hat's geschmeckt?
 
+Schmerz /ʃmɛrʦ/, der: pain
+  ein stechender Schmerz im Knie: a stabbing pain in your knee 
+
 sobald /zoˈbalt/: as soon as
   Sobald er anruft, gebe ich Ihnen Bescheid.
   I'll let you know as soon as he phones.
@@ -493,6 +505,9 @@ spähen /ˈʃpɛːən/: to peer
 
 spannend /ˈʃpanənt/: exciting
 
+Sparbuch /ˈʃpaːɐbuːx/, das: passbook
+  ein Sparbuch anlegen: to open a savings account
+
 sparen /ˈʃpaːrən/: to save, to save up
   Er hat schon 5.000 Euro gespart.
   He has already saved 5,000 euros.
@@ -511,6 +526,10 @@ Sperma /ˈʃpɛrma/, das, Spermen /ˈʃpɛrmən/: sperm
 
 Spiegel /ˈʃpiːɡəl/, der: mirror
   sich im Spiegel betrachten: to look at yourself in the mirror
+
+Spiel /ʃpiːl/, das, Spiele: game
+
+Spielsachen /ˈʃpiːlzaxən/, pl: toys
 
 Spinne, die: spider
   Spinnennetz: spiderweb
@@ -540,6 +559,8 @@ spüren /ˈʃpyːrən/: to feel, to notice
   die Folgen von etw. zu spüren bekommen: to feel the consequences of sth
 
 spürbar /ˈʃpyːɐbaːɐ/: noticeable , perceptible
+  Auch bei uns hat spürbar die Erde gebebt.
+  Even where we are you could feel the earth tremor.
 
 Staat /ʃtaːt/, der, Staaten: state, country
   ein demokratischer Staat: a democratic state
@@ -668,6 +689,9 @@ Strand /ʃtrant/, der: flaches Ufer am Meer, beach
 
 Strecke /ˈʃtrɛkə/, die: distance, route
 
+streicheln /ˈʃtraiçəln/: to stroke
+  den Hund streicheln: to stroke the dog 
+
 streichen /ˈʃtraiçən/: to paint, to spread, to delete, to cut, to cancel
   die Wände weiß streichen: to paint the walls white
   Butter/Marmelade aufs Brot streichen: to spread butter/jelly on the bread 
@@ -732,5 +756,10 @@ suchen /ˈzuːxən/: to look for
   Herr Meier sucht ein Zimmer.
 
 Süden /ˈzyːdən/, der: south
+
+surfen /ˈsøːɐfən/: to surf
+  nach Hawaii zum Surfen fahren: to go surfing in Hawaii
+  Nach stundenlangem Surfen hatte ich eine Ferienwohnung gefunden.
+  I found a holiday home after surfing the Net for hours. 
 
 System /zʏsˈteːm/, das
