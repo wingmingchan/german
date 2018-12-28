@@ -49,4 +49,6 @@ ins => in das
 interessant 1.20.00:40, 2.10.16:50
   interessanter 2.16:07:18
 
+Internetzugang, der 4.13.04:24
+
 ist 1.4.09:56
