@@ -13,6 +13,8 @@ Tasse, die 2.10.10:17
 
 Taxi, das 1.26.03:38
 
+teilen 4.14.21:49
+
 Telefon, das 2.16.14:34
 
 Telefonbuch, das 2.16.15:16
@@ -45,6 +47,8 @@ treffen, sich
   ich treffe mich 4.1.06:30
 
 treiben 3.22.13:50
+
+Treppe, die 4.12.28:24
 
 trinken 1.5.17:34
   Ich trinke ein Bier 1.8.00:27
