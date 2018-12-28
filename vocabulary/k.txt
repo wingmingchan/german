@@ -2,6 +2,10 @@
 K /kaː/ K wie Kaufmann
 ========================================================
 
+Kabel /ˈkaːbəl/, das, Kabel: cable
+  Kabel verlegen: to lay cables
+   die Kabel einer Seilbahn: the cables of a cable car
+
 Käfig /ˈkɛːfɪç/, der: cage
   Hühner im Käfig halten: to keep chicken in a cage
 
@@ -17,6 +21,9 @@ Kalk /kalk/, der: lime
   The water here is very hard.
 
 kalt /kalt/, kälter, kälteste: cold
+
+Kälte /ˈkɛltə/, die: cold
+  klirrende/eisige Kälte bitter/icy cold 
 
 Kalzium /ˈkalʦjʊm/, das
 
@@ -63,6 +70,10 @@ kein: not, not a, less than
   That’s not a bad idea.
   Ich musste keine zwei Minuten auf den Bus warten.
   I had to wait less than two minutes for the bus.
+
+Keller /ˈkɛlɐ/, der, Keller: basement, cellar
+  Zahlreiche Keller wurden bei dem Unwetter überflutet.
+  A large number of basements were flooded in the storm. 
 
 Kellner, Kellnerin: waiter/waitress
 
@@ -117,16 +128,28 @@ Klasse, die: class
 
 Klassenraum, der: classroom
 
+kleben /ˈkleːbən/: to stick sth somewhere
+  eine Briefmarke auf den Umschlag kleben
+  to stick a stamp on the envelope 
+
 Kleid /klait/, das: dress
 
 Kleider, Kleidung: clothes
 
 Klinge /ˈklɪŋə/, die: blade
 
+klirrend /ˈklɪrənt/: bitter
+  => eisig
+  klirrende Kälte: bitter cold 
+
 klug /kluːk/: clever
   ein kluger Mann
 
 knapp /knap/: meagre, scarce, tight, barely
+
+Knie /kniː/, das, Knie: knee
+  Er fiel vor dem König auf die Knie und bettelte um Gnade.
+  He fell to his knees before the king and begged for mercy. 
 
 Knochen /ˈknɔxən/, der: bone
   dem Hund einen Knochen geben: to give the dog a bone
@@ -183,7 +206,7 @@ können /ˈkœnən/: to be able to
 konsequent /kɔnzeˈkvɛnt/: consistently
   eine konsequente Strategie verfolgen: to pursue a consistent strategy
 
-Konto /ˈkɔnto/, das: account
+Konto /ˈkɔnto/, das, Kontos: account
   ein Bankkonto eröffnen: to open a bank account
   etw. geht auf jds Konto: sb is to blame for sth
   Die Niederlage geht allein auf sein Konto.
