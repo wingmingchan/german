@@ -32,6 +32,8 @@ zuerst 3.6.14:36
 
 Zug, der 2.26.19:48
 
+Zugang, der 4.13.04:28
+
 zum => zu + dem 1.16.00:22
   zum Arzt 2.28.04:17
   zum Schloss 3.9.12:08
