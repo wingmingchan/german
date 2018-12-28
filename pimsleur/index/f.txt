@@ -36,6 +36,8 @@ Firma, die 3.3.10:29
 
 Fisch, der 4.10.19:57
 
+Fitnessraum, der 4.12.28:04
+
 Flasche, die 3.4.10:56
 
 fliegen 2.26.26:56
@@ -53,13 +55,17 @@ Frankreich, das 3.16.17:33
 
 frei 4.3.01:53
 
+Freiburg 4.13.20:35
+
 Freitag 2.8.11:20
 
 Freizeit, die 3.22.10:53
 
 Frau 1.2.06:59
 
-freuen 4.11.23:39
+freuen
+  wir freuen uns 4.11.23:39
+  wir freuen uns darauf 4.12.08:00
 
 Freund, der 1.26.05:38
 
@@ -68,6 +74,12 @@ Freundin, die 2.12.06:38
 früh 2.1.18:00
 
 früher 2.14.17:33
+
+Frühstück, das 4.12.17:51
+
+Frühstücksbuffet, das 4.12.18:39
+
+Frühstückszimmer, das 4.12.19:19
 
 führen
   führt 1.23.15:18
