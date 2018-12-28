@@ -1,9 +1,9 @@
 ﻿Beethoven Symphony No. 9
 
-O Freunde, nicht diese Töne /ˈtøːnə/!
-Sondern /ˈzɔndɐn/ lasst uns angenehmere
-anstimmen und freudenvollere.
-Freude! Freude!
+O Freunde, nicht diese Töne!    Oh friends, not these tones!
+Sondern lasst uns angenehmere   Rather let us sing more
+anstimmen und freudenvollere.   cheerful and more joyful ones.
+Freude! Freude!                 Joy! Joy!
 ====================================================
 Sondern: but
 lasst uns: let us
@@ -11,25 +11,20 @@ angenehmere => angenehm
 anstimmen: to begin singing
 voller: full of
 Freude: pleasure
-
-Oh friends, not these tones!
-Rather let us sing more
-cheerful and more joyful ones.
-Joy! Joy!
 ====================================================
 ====================================================
 
-Freude, schöner Götterfunken
-Tochter aus Elysium,
-Wir betreten feuertrunken,
-Himmlische, dein Heiligtum!
-Deine Zauber binden wieder
-Was die Mode streng geteilt;
-Alle Menschen werden Brüder,
-(Schillers Original:
-Was der Mode Schwert geteilt;
-Bettler werden Fürstenbrüder,)
-Wo dein sanfter Flügel weilt.
+Freude, schöner Götterfunken    Joy, beautiful spark of the gods,
+Tochter aus Elysium,            Daughter of Elysium,
+Wir betreten feuertrunken,      We approach fire-drunk,
+Himmlische, dein Heiligtum!     Heavenly One, your shrine.
+Deine Zauber binden wieder      Your magic reunites
+Was die Mode streng geteilt;    What custom sternly divides;
+Alle Menschen werden Brüder,    All people become brothers
+(Schillers Original:            (Schiller's original:
+Was der Mode Schwert geteilt;   What custom's sword separates;
+Bettler werden Fürstenbrüder,)  Beggars become princes' brothers)
+Wo dein sanfter Flügel weilt.   Where your gentle wing alights.
 ====================================================
 Götter: gods
 Götterfunken: divine spark
@@ -47,29 +42,17 @@ der Flügel, die Flügel: wing(s)
 weilen: to stay, to be
 das Schwert /ˈʃveːɐt/: sword
 Fürst: prince
-
-Joy, beautiful spark of the gods,
-Daughter of Elysium,
-We approach fire-drunk,
-Heavenly One, your shrine.
-Your magic reunites
-What custom sternly divides;
-All people become brothers
-(Schiller's original:
-What custom's sword separates;
-Beggars become princes' brothers)
-Where your gentle wing alights.
 ====================================================
 ====================================================
 
-Wem der große Wurf gelungen,
-Eines Freundes Freund zu sein;
-Wer ein holdes Weib errungen,
-Mische seinen Jubel ein!
-Ja, wer auch nur eine Seele
-Sein nennt auf dem Erdenrund!
-Und wer's nie gekonnt, der stehle
-Weinend sich aus diesem Bund!
+Wem der große Wurf gelungen,       Whoever succeeds in the great attempt
+Eines Freundes Freund zu sein;     To be a friend of a friend,
+Wer ein holdes Weib errungen,      Whoever has won a lovely woman,
+Mische seinen Jubel ein!           Let him add his jubilation!
+Ja, wer auch nur eine Seele        Yes, whoever calls even one soul
+Sein nennt auf dem Erdenrund!      His own on the earth's globe!
+Und wer's nie gekonnt, der stehle  And who never has, let him steal,
+Weinend sich aus diesem Bund!      Weeping, away from this group.
 ====================================================
 der Wurf: success
 gelingen: to be successful
@@ -88,26 +71,17 @@ stehlen: to steal
 weinen: to cry
 weinend: in tears
 der Bund: league
-
-Whoever succeeds in the great attempt
-To be a friend of a friend,
-Whoever has won a lovely woman,
-Let him add his jubilation!
-Yes, whoever calls even one soul
-His own on the earth's globe!
-And who never has, let him steal,
-Weeping, away from this group.
 ====================================================
 ====================================================
 
-Freude trinken alle Wesen
-An den Brüsten der Natur;
-Alle Guten, alle Bösen
-Folgen ihrer Rosenspur.
-Küsse gab sie uns und Reben,
-Einen Freund, geprüft im Tod;
-Wollust ward dem Wurm gegeben,
-Und der Cherub steht vor Gott.
+Freude trinken alle Wesen         All creatures drink joy
+An den Brüsten der Natur;         At the breasts of nature;
+Alle Guten, alle Bösen            All the good, all the evil
+Folgen ihrer Rosenspur.           Follow her roses' trail.
+Küsse gab sie uns und Reben,      Kisses gave she us, and wine,
+Einen Freund, geprüft im Tod;     A friend, proven unto death;
+Wollust ward dem Wurm gegeben,    Pleasure was to the worm granted,
+Und der Cherub steht vor Gott.    And the cherub stands before God.
 ====================================================
 das wesen /ˈveːzən/: creature
 die Brust: breast
@@ -124,22 +98,13 @@ die Wollust /ˈvɔlʊst/: lust
 ward => werden
 der Wurm /vʊrm/: worm
 der Cherub /ˈçeːrʊp/
-
-All creatures drink joy
-At the breasts of nature;
-All the good, all the evil
-Follow her roses' trail.
-Kisses gave she us, and wine,
-A friend, proven unto death;
-Pleasure was to the worm granted,
-And the cherub stands before God.
 ====================================================
 ====================================================
 
-Froh, wie seine Sonnen fliegen
-Durch des Himmels prächt'gen Plan,
-Laufet, Brüder, eure Bahn,
-Freudig, wie ein Held zum Siegen.
+Froh, wie seine Sonnen fliegen       Glad, as his suns fly
+Durch des Himmels prächt'gen Plan,   Through the Heavens' glorious plan,
+Laufet, Brüder, eure Bahn,           Run, brothers, your race,
+Freudig, wie ein Held zum Siegen.    Joyful, as a hero to victory.
 ====================================================
 froh: happy
 die Sonne
@@ -152,22 +117,17 @@ laufen: to run
 eure /ˈɔyrə/: yours
 die Bahn: path, course
 der Sieg: victory
-
-Glad, as his suns fly
-Through the Heavens' glorious plan,
-Run, brothers, your race,
-Joyful, as a hero to victory.
 ====================================================
 ====================================================
 
-Seid umschlungen, Millionen!
-Diesen Kuss der ganzen Welt!
-Brüder, über'm Sternenzelt
-Muss ein lieber Vater wohnen.
-Ihr stürzt nieder, Millionen?
-Ahnest du den Schöpfer, Welt?
-Such' ihn über'm Sternenzelt!
-Über Sternen muss er wohnen.
+Seid umschlungen, Millionen!      Be embraced, you millions!
+Diesen Kuss der ganzen Welt!      This kiss for the whole world!
+Brüder, über'm Sternenzelt        Brothers, beyond the star-canopy
+Muss ein lieber Vater wohnen.     Must a loving Father dwell.
+Ihr stürzt nieder, Millionen?     Do you bow down, you millions?
+Ahnest du den Schöpfer, Welt?     Do you sense the Creator, world?
+Such' ihn über'm Sternenzelt!     Seek Him beyond the star-canopy!
+Über Sternen muss er wohnen.      Beyond the stars must He dwell.
 ====================================================
 seid => sein
 schlingen, reflexive: to coil around sth
@@ -181,38 +141,18 @@ stürzen /ˈʃtʏrʦən/: to fall, to drop, to rush
 nieder: lower
 ahnen: to sense
 suchen: to search
-
-Be embraced, you millions!
-This kiss for the whole world!
-Brothers, beyond the star-canopy
-Must a loving Father dwell.
-Do you bow down, you millions?
-Do you sense the Creator, world?
-Seek Him beyond the star-canopy!
-Beyond the stars must He dwell.
 ====================================================
 ====================================================
 
 Finale repeats the words:
 
-Seid umschlungen, Millionen!
-Diesen Kuss der ganzen Welt!
-Brüder, über'm Sternenzelt
-Muss ein lieber Vater wohnen.
-Seid umschlungen,
-Diesen Kuss der ganzen Welt!
-Freude, schöner Götterfunken
-Tochter aus Elysium,
-Freude, schöner Götterfunken 
+Seid umschlungen, Millionen!      Be embraced, ye millions!
+Diesen Kuss der ganzen Welt!      This kiss for the whole world!
+Brüder, über'm Sternenzelt        Brothers, beyond the star-canopy
+Muss ein lieber Vater wohnen.     Must a loving Father dwell.
+Seid umschlungen,                 Be embraced,
+Diesen Kuss der ganzen Welt!      This kiss for the whole world!
+Freude, schöner Götterfunken      Joy, beautiful spark of the gods,
+Tochter aus Elysium,              Daughter of Elysium,
+Freude, schöner Götterfunken      Joy, beautiful spark of the gods
 ====================================================
-Finale repeats the words:
-
-Be embraced, ye millions!
-This kiss for the whole world!
-Brothers, beyond the star-canopy
-Must a loving Father dwell.
-Be embraced,
-This kiss for the whole world!
-Joy, beautiful spark of the gods,
-Daughter of Elysium,
-Joy, beautiful spark of the gods 
