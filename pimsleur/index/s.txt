@@ -70,6 +70,8 @@ Schule, die 2.17.08:23
 
 schwarz 4.6.03:49
 
+Schwarzwald, der 4.14.06:03
+
 Schweiz, die 2.11.19:12
   in die Schweiz 2.11.19:19
   
@@ -197,6 +199,8 @@ Stelle, die 3.23.10:37
 
 stimmen
   stimmt 3.9.16:33
+
+Stock, der 4.12.14:38
 
 Straße 1.4.08:44
   die Straße 1.4.08:44
