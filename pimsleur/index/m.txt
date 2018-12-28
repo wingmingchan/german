@@ -68,6 +68,8 @@ Messe, die 4.1.21:29, 4.2.02:43
 mich 1.15.06:48
   Ich gehe auch mich 1.16.21:26
 
+mieten 4.13.22:29
+
 Milch 1.18.09:50
 
 Mineralwasser 1.18.11:17
@@ -96,6 +98,8 @@ mit 1.8.16:24
   wie wäre es mit einem Bier 2.5.03:17
   mit unserem neuen Kunden 3.18.14:08
   mit ein paar Freunden 3.22.01:24
+  mit der wir gesprochen haben 4.12.24:01
+  mit dem wir gesprochen haben 4.12.24:19
   
 mit
   Und ich bringe meinen Mann mit 2.25.16:53
@@ -117,6 +121,8 @@ möchte
   Sie möchten 1.5.12:37
   Ich möchte gerne Wein trinken 2.1.05:18
   Möchtest du 2.9.02:41
+
+modern 4.13.25:34
 
 mögen
   Sie mögen 1.29.15:38
