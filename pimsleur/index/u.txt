@@ -6,11 +6,15 @@ U-Bahn, die 2.5.17:53
 
 über 3.6.09:04
 
+überall 4.13.05:11
+
 Uhr, die 1.9.11:00, 3.29.10:39
 
 um 1.9.10:56
   Um wie viel Uhr? 1.9.10:56
   um ihr Deutsch zu verbessern 4.1.22:47
+
+Umgebung, die 4.14.04:52
   
 umsteigen 4.10.08:04
 
@@ -21,6 +25,8 @@ ungefähr 4.9.16:18
 Uni 4.4.29:39 => Universität
 
 Universität, die 2.17.09:51
+
+Universitätstadt, die 4.1.15:42
 
 uns 2.15.04:53
   mit uns 2.15.04:53
