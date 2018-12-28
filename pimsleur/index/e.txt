@@ -40,6 +40,9 @@ elf 1.12.11:11
 
 Eltern 4.11.17:25
 
+Email, das
+  Emails 4.14.15:47
+
 empfehlen 3.4.13:05
 
 Englisch 1.1.02:22
@@ -68,6 +71,7 @@ erst 3.20.22:48
 
 erste
   die ersten Demonstrationen 4.7.30:29
+  in der ersten Etage 4.12.20:32
 
 Erwachsene 4.9.05:12
 
@@ -76,6 +80,8 @@ Essen, das 1.16.00:22
 essen 1.5.14:44
   Ich esse jetzt 1.10.14:35
   Haben Sie schon gegessen? 1.29.11:45
+
+Etage, die 4.12.14:27
 
 etwas 1.5.15:00
   etwas Bier 1.14.13:08
