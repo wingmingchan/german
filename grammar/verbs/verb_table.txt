@@ -100,6 +100,12 @@ nehmen
   Present Perfect: ich have genommen
   Imperative: du nimm, ihr nehmt
 
+schwimmen
+  Present: ich schwimme, du schwimmst, er schwimmt, ihr schwimmt
+  Preterite: ich schwamm, du schwammst, wir schwammen, ihr schwammt
+  Present Perfect: ich bin geschwommen
+  Imperative: du schwimm/schwimme, ihr schwimmt
+
 sein
   Present: ich bin, du bist, er ist, wir/Sie sind, ihr seid
   Preterite: ich war, du warst, er war, wir/Sir waren, ihr wart
@@ -137,6 +143,12 @@ stehen
   Preterite: ich stand, du standest/standst, er stand, wir standen, ihr standet
   Present Perfect: ich bin gestanden
   Imperative: du steh, ihr steht
+
+tragen
+  Present: ich trage, du trägst, er trägt, ihr tragt
+  Preterite: ich trug, du trugst, er trug, wir trugen, ihr trugt
+  Present Perfect: ich habe getragen
+  Imperative: du trag/trage, ihr tragt
 
 tun
   Present: ich tue, du tust, er tut, ihr tut
