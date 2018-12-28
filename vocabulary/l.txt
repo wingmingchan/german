@@ -5,6 +5,8 @@ L /ɛl/ L wie Ludwig
 lächeln /ˈlɛçəln/: to smile
 
 lachen /ˈlaxən/: to laugh
+  Alle lachten herzhaft über seinen Witz.
+  Everyone had a good laugh at his joke. 
 
 Lack /lak/, der, Lacke: varnish, paint
   den Tisch mit farblosem/weißem Lack streichen
@@ -41,6 +43,10 @@ Lager, das, Lager /ˈlaːɡɐ/: camp, store, depot
 lahm /laːm/: lame, limp, dreary
   Er hat ein lahmes Bein. He's lame in one leg.
 
+lahmen /ˈlaːmən/: to be lame
+  Plötzlich fing das Pferd zu lahmen an.
+  The horse suddenly went lame.
+
 lähmen /ˈlɛːmən/: to paralyze
   Die Spinne lähmt ihre Beute mit Gift, bevor sie sie frisst.
   The spider paralyzes its prey with poison before eating it. 
@@ -52,7 +58,9 @@ Lamm /lam/, das, Lämmer /ˈlɛmɐ/: lamb
 Lampe /ˈlampə/, die, Lampen: lamp
   die Lampe einschalten/ausschalten: to switch the lamp on/off 
 
-Land /lant/, Länder /ˈlɛndɐ/, das: state
+Land /lant/, Länder /ˈlɛndɐ/, das: land, state, country
+  Die Passagiere gehen an Land.
+  The passengers are going ashore.
 
 Landkreis, der: administrative district
 
@@ -124,7 +132,9 @@ läuten /ˈlɔytən/: to ring, to go off
 Leben /ˈleːbən/, das: life
   ums Leben kommen: to be killed
 
-leben: to live
+leben /ˈleːbən/: to live
+  Seine Großeltern leben noch.
+  His grandparents are still alive. 
 
 Lebensgefahr /ˈleːbənsɡəfaːɐ/, die: mortal danger
 
@@ -157,6 +167,11 @@ legendär /leɡɛnˈdɛːɐ/: legendary
 Lehm /leːm/, der: clay
   Ziegelsteine werden aus Lehm gebrannt.
   Bricks are fired out of clay.
+
+lehnen /ˈleːnən/: to lean sth somewhere
+  den Kopf an jds Schulter lehnen: to lean your head on sb's shoulder
+  Er lehnte mit dem Rücken an der Wand.
+  He leant his back against the wall.
 
 Lehre /ˈleːrə/, die: teaching, training
 
