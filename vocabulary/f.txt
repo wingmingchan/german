@@ -2,6 +2,12 @@
 F /ɛf/ F wie Friedrich
 ========================================================
 
+Fabel /ˈfaːbəl/, Fabeln: fable
+  die Fabeln Äsops: Aesop's fables 
+
+Faden /ˈfaːdən/, der, Fäden: thread
+  einen Faden in die Nadel einfädeln: to thread the needle 
+
 Fahndung /ˈfaːndʊŋ/, die: search, manhunt
   Fahndungsfoto: mug shot
 
@@ -35,6 +41,12 @@ Falle /ˈfalə/, die, Fallen: trap
 fallen /ˈfalən/: to fall
   falle, fällst, fällt, ihr fallt, bin gefallen
   fiel, fielst, fiel, fielen, ihr fielt
+  Das Glas ist vom Tablett gefallen.
+  The glass fell off the tray. 
+
+fällen /ˈfɛlən/: to fell
+  Für den Bau des Flughafens wurden viele Bäume gefällt.
+  A large number of trees were cut down for the construction of the airport. 
 
 falls: in case, if
   Falls du keine Zeit hast, können wir den Termin auch verschieben.
@@ -54,7 +66,7 @@ fangen /ˈfaŋən/: to bag, to capture, to catch, to trap
 
 Fantasie /fantaˈziː/, die
 
-Farbe, die: color
+Farbe /ˈfarbə/, die, Farben: color
   Welche Farbe hat der Pullover?
   What color is the sweater?
 
@@ -84,12 +96,16 @@ faul: lazy, rotten, bad, feeble
   The apple's rotten on the inside.
 
 Faust /faust/, die: fist
+  mit der Faust auf den Tisch hauen: to bang your fist on the table 
 
 Fazit /ˈfaːʦɪt/, das: conclusion
   Er zog ein positives Fazit der Veranstaltung.
   He described the event as a success.
 
 fechten /ˈfɛçtən/: to fence, to fight
+
+Feder /ˈfeːdɐ/, die, Federn: feather
+  Gänsefedern: goose down 
 
 Fee /feː/, die, Feen: fairy
   von einer bösen Fee verzaubert werden
@@ -124,6 +140,9 @@ Feindschaft /ˈfaintʃaft/, die: hostility
 
 Feld /fɛlt/, das: field
 
+Fell /fɛl/, das, Felle: fur, coat
+  einer Katze über das Fell streicheln: to stroke a cat’s coat 
+
 Felswand, die: wall of rock
 
 Fenster /ˈfɛnstɐ/, das: window
@@ -154,6 +173,7 @@ Feuchtigkeit /ˈfɔʏçtɪçkait/, die: dampness, moisture
   eine Feuchtigkeitscreme für die Haut: a moisturizing cream for the skin
 
 Feuer /ˈfɔʏɐ/, das: fire
+  ein Feuer anzünden/machen: to light/build a fire 
   das Feuer eröffnen/einstellen: to open/cease fire
 
 Feuerlöscher, der: fire extinguisher
@@ -187,6 +207,11 @@ Flagge /ˈflaɡə/, die: flag
 Flanke /ˈflaŋkə/, die: flank
 
 Fleck /flɛk/, der: stain, mark
+
+flehen /ˈfleːən/: to beg
+  => betteln
+  Die Geiseln flehten um Gnade.
+  The hostages begged for mercy. 
 
 fliehen /ˈfliːən/: to flee
   Tausende flohen vor dem Hochwasser aus der Stadt.
