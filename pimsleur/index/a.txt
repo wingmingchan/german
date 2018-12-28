@@ -37,6 +37,8 @@ alleine 1.27.16:12
 
 alle 3.13.12:48
 
+allergisch 4.14.27:33
+
 alles 2.19.05:41
   Ist das alles? 2.19.10:44
 
@@ -99,6 +101,8 @@ Arbeit, die 2.1.19:42
 arbeiten 1.26.08:31
   Arbeitet Hans in München? 1.26.15:38
 
+arrangieren 4.14.17:53
+
 Artikel, der 4.2.07:32
 
 Arzt 2.18.21:32
@@ -117,6 +121,8 @@ auf 1.2.11:02
   
 aufgewachsen 3.1.16:49
 
+Aufzug, der 4.12.16:22
+
 aus 2.4.09:44
   Sie kommt aus Amerika 2.4.10:11
 
@@ -125,6 +131,11 @@ Ausflug, der 3.20.11:11
 ausgezeichnet 4.7.12:57
 
 Ausland, das 3.26:05:43
+
+ausgewachsen 4.12.11:41
+
+aussteigen 4.12
+  Steigen Sie in Dresden aus? 4.12.00:10
 
 Ausstellung, Ausstellungen 4.7.13:26
 
