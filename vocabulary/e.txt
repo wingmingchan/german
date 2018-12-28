@@ -43,6 +43,8 @@ eheste /ˈeːɐstə/: earliest
 ehesten /ˈeːɐstən/: first
 
 ehrlich /ˈeːɐlɪç/: honest
+  => aufrichtig
+  <=> unehrlich
   Möchtest du eine ehrliche Antwort?
   Do you want an honest answer?
 
@@ -86,6 +88,10 @@ Eindruck /ˈaindrʊk/, der: impression
 einfach /ˈainfax/: easy, simple, easily, simply
 
 einfache Fahrkarte: one-way ticket
+
+einfädeln /ˈainfɛːdəln/: to thread
+  Kannst du mir mal den Faden einfädeln?
+  Could you thread the needle for me?
 
 einfahren: to bring in, to make, to retract, to drive into, to come
 
@@ -151,6 +157,10 @@ einmischen: to interfere
 
 Einrede, die: objection, protest, contradiction, defense
 
+einsammeln /ˈainzaməln/: to collect
+  Die Erzieherin sammelt die Spielsachen ein.
+  The kindergarten teacher gathers up the toys. 
+
 Einsatz /ˈainzaʦ/, der: operation, deployment, use, effort, commitment
 
 einschalten /ˈainʃaltən/: to switch on
@@ -211,6 +221,10 @@ einzigartig /ˈainʦɪç|aːɐtɪç/: unique
 
 *Eis /ais/, das: ice
 
+eisig /ˈaizɪç/: icy, frigid
+  Bei diesen eisigen Temperaturen bleibe ich lieber zu Hause.
+  I'd rather stay at home in freezing temperatures like these. 
+
 Eisen /ˈaizən/, das: iron
    ein Geländer aus Eisen: an iron handrail
 
@@ -218,6 +232,8 @@ eklatant /eklaˈtant/: glaring, striking
   ein eklatanter Altersunterschied: a striking difference in age
 
 Elektrogerät, das: electrical appliance
+
+elf /ɛlf/: eleven
 
 Elftel: eleventh
 
@@ -244,6 +260,12 @@ Empfang /ɛmˈpfaŋ/, der: reception, welcome, receipt
 empfangen /ɛmˈpfaŋən/: to receive, to greet, to welcome
 
 Empfänger /ɛmˈpfɛŋɐ/: receiver
+
+empfinden /ɛmˈpfɪndən/: to feel
+  Können Insekten Schmerz empfinden?
+  Can insects feel pain?
+
+Empörung /ɛmˈpøːrʊŋ/, die, Empörung: indignation, outrage
 
 Ende /ˈɛndə/, das: end
   Am Ende ist das doch egal.
@@ -435,6 +457,11 @@ Ernährung /ɛɐˈnɛːrʊŋ/, die: food, diet, nutrition
 erobern /ɛɐˈ|oːbɐn/: to conquer, to seize, to win, to capture
   Das Dorf wurde von den Wikingern erobert.
   The village was conquered by the Vikings.
+
+eröffnen /ɛɐˈ|œfnən/: to open
+  ein neues Einkaufszentrum eröffnen: to open a new shopping mall
+  Hat das neue Schwimmbad schon eröffnet?
+  Has the new swimming pool opened yet? 
 
 Eröffnung /ɛɐˈ|œfnʊŋ/, die: opening
   die Eröffnung des neuen Sportzentrums: the opening of a new sports center
