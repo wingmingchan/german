@@ -11,6 +11,8 @@ Gabel /ˈɡaːbəl/, die, Gabeln: folk
   mit Messer und Gabel essen: to eat with a knife and fork 
 
 gähnen /ˈɡɛːnən/: to yawn
+  ein Gähnen: a yawn
+  das Gähnen unterdrücken: to stop oneself (from) yawning
 
 gähnend /ˈɡɛːnən/: yawning
 
@@ -60,7 +62,7 @@ Gatte/Gattin: spouse
 
 Gebet /ɡəˈbeːt/, das: prayer
   die Hände zum Gebet falten
-  to fold your hands in prayer 
+  to fold your hands in prayer
 
 Gebiet /ɡəˈbiːt/, das: region, area
 
@@ -83,7 +85,9 @@ Geburtstag /ɡəˈbuːɐʦtaːk/, der: birthday
 
 gedacht => denken
 
-Gedanke, der: thought
+Gedanke /ɡəˈdaŋkə/, der, Gedanken: thought
+  jdn auf andere Gedanken bringen
+  to help sb forget their troubles
 
 geeignet /ɡəˈ|aiɡnət/: suitable
 
@@ -98,6 +102,9 @@ gefährden /ɡəˈfɛːɐdən/: to endanger
 gefährlich /ɡəˈfɛːɐlɪç/: dangerous
   Vorsicht! Der Täter ist bewaffnet und sehr gefährlich.
   Warning! The perpetrator is armed and very dangerous.
+
+Gefälle /ɡeˈfɛlə/, die, Gefälle: slope
+  eine Straße mit starkem Gefälle: a road with a steep gradient 
 
 gefällt => fällen, gefallen
 
@@ -142,8 +149,12 @@ geheim /ɡəˈhaim/: secret, confidential
   über geheime Kräfte verfügen: to have mysterious powers
 
 Geheimnis /ɡəˈhaimnis/, das: secret
+  jdm ein Geheimnis verraten/anvertrauen
+  to give away a secret to sb/tell sb a secret 
 
 geheimnisvoll /ɡəˈhaimnisfɔl/: mysterious
+  => rätselhaft
+  ein geheimnisvoller Fremder: a mysterious stranger 
 
 gehen /ˈɡeːən/: to go, to walk, to leave
   gehe, gehst, geht, bin gegangen
@@ -179,7 +190,8 @@ geistern /ˈɡaistɐn/: to wander, to keep running through
   Die Vorstellung von einem eigenen Restaurant geistert ihm immer noch durch den Kopf.
   He still can't get the idea of having his own restaurant out of his head.
 
-gekleideter: clad, dressed
+gekleidet: clad, dressed
+  => kleiden
 
 geladen, geladene => laden 
 
@@ -206,6 +218,11 @@ gelegen /ɡəˈleːɡən/: located, situated
 
 Gelegenheit /ɡəˈleːɡənhait/, die: opportunity
   eine Gelegenheit nutzen/verpassen: to use/miss an opportunity
+
+gelingen /ɡəˈlɪŋən/: to succeed, to be successful
+  <=> misslingen
+  Was, wenn der Plan nicht gelingt?
+  What if the plan doesn't succeed? 
 
 gelten /ˈɡɛltən/: to be valid, to apply, to be in force, to be effective
   Das gilt nicht!
@@ -285,6 +302,10 @@ Geschichte /ɡəˈʃɪçtə/, die: story
 
 Geschäftsmann: businessman
 
+geschehen /ɡəˈʃeːən/: to happen, to occur
+  Ein Wunder ist geschehen!
+  A miracle has happened!
+
 Geschick /ɡəˈʃɪk/, das: skill, fate
 
 Geschicklichkeit /ɡəˈʃɪklɪçkait/, die: skillfulness
@@ -301,6 +322,10 @@ Gesetz /ɡəˈzɛʦ/, das: law
   die Gesetze befolgen/einhalten: to abide by/stick to the laws
 
 gesperrt: blocked, closed
+
+Gestalt /ɡəˈʃtalt/, die, Gestalten: form, figure, character
+  Am Bahnhof lungerten dunkle Gestalten herum.
+  There were shady characters hanging around the station.
 
 gestern /ˈɡɛstɐn/: yesterday
 
@@ -341,7 +366,8 @@ gewesen => sein
   Draußen tobte ein heftiges Gewitter.
   A heavy thunderstorm was raging outside.
 
-gewöhnlich: normal
+gewöhnlich /ɡəˈvøːnlɪç/: normal
+  ein ganz gewöhnlicher Tag: an absolutely ordinary day 
 
 geworden => werden
 
@@ -394,6 +420,8 @@ glücklich /ˈɡlʏklɪç/: happy, lucky, fortunate
   I'm so happy for you.
 
 glucksen /ˈɡlʊksən/: to gurgle, to burble, to chortle
+  Das Baby gluckste vor Vergnügen.
+  The baby burbled with delight.
 
 Gnade /ˈɡnaːdə/, die: mercy
   um Gnade bitten/flehen: to ask/beg for mercy 
@@ -416,6 +444,7 @@ Granit /ɡraˈniːt/, der: granite
    Granitplatte: granite countertop
    
 grau /ɡrau/: grey
+  graue Haare bekommen: to get gray hair 
 
 *Graupel /ˈɡraupəl/, die: sleet
 
@@ -424,6 +453,8 @@ greifen /ˈɡraifən/: to seize, to grab, to reach, to stop
   I grabbed the keys and disappeared.
   Sie griff in die Tasche und holte ihren Ausweis heraus.
   She reached into her bag and took out her ID.
+
+grell /ɡrɛl/: dazzling
 
 Grenze /ˈɡrɛnʦə/, Grenzen, die: border, frontier
 
