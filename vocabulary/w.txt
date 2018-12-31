@@ -33,7 +33,9 @@ wahr /ˈvaːɐ/: true
 wahren /ˈvaːrən/: to keep, to maintain, to protect
 
 während /ˈvɛːrənt/: while, during, as
-
+ Während er schlief, räumte sie die Wohnung auf.
+ While he was asleep, she tidied up the apartment.
+ 
 Wahrheit /ˈvaːɐhait/, die: truth
   Sag (mir) die Wahrheit!
   Tell (me) the truth!
@@ -63,6 +65,7 @@ Wanderung /ˈvandərʊŋ/, die: hike
 wandte => wenden
 
 Wange /ˈvaŋə/, die: cheek
+  => Backe
 
 ward => werden
 
@@ -136,6 +139,10 @@ Weihnachten /ˈvainaxtən/, das: Christmas
 
 Weihnachtsfeiertag, Weihnachtstag /ˈvainaxʦtaːk/, der: Christmas Day
 
+weilen /ˈvailən/: to stay, to be
+  Sie weilen gerade in Spanien.
+  They are in Spain at the moment.
+
 Wein, der: wine
 
 Weinfass, das: wine cask
@@ -170,6 +177,8 @@ Welt /vɛlt/, die: world
   ganzen Welt: all over the world
 
 wenden /ˈvɛndən/: to turn, to turn over, to turn around, to toss
+  das Steak wenden und auf der zweiten Seite anbraten
+  to turn the steak over and brown it on the other side
 
 wenig /ˈveːnɪç/: little
 
@@ -274,6 +283,7 @@ wohl: well
 wohnlich /ˈvoːnlɪç/: cozy
 
 *Wolke /ˈvɔlkə/, die: cloud
+  Dunkle Wolken zogen auf. Dark clouds were gathering. 
 
 wolkenverhangen: overcast
 
@@ -288,6 +298,8 @@ worden => werden
 
 wovon /voˈfɔn/: from what, from which
 
+wovor /voˈfoːɐ/: what … in front of
+
 wundern /ˈvʊndɐn/: to be surprised, to surprise
 
 Wunsch /vʊnʃ/, Wünsche /ˈvʏnʃə/, der: wish
@@ -296,15 +308,28 @@ wünschen /ˈvʏnʃən/: to wish, to want
   Was wünschst du dir von uns zum Geburtstag?
   What would you like from us for your birthday?
 
+Wurf /vʊrf/, der, Würfe: throw, litter, success
+  Der erste Wurf verfehlte sein Ziel.
+  The first throw missed its target.
+  Alle Welpen stammen aus demselben Wurf.
+  All the puppies are from the same litter.
+  Mit dem Film ist ihm ein großer Wurf gelungen.
+  This film is a great success for him.
+
 Wurfgeschoss, das: missile, projectile
 
 Wurzel /ˈvʊrʦəl/, die: root
 
 wusste => wissen
 
+Wüste /ˈvyːstə/, die, Wüsten: desert
+  Nomaden, die in der Wüste leben: nomads who live in the desert 
+
 Wut /vuːt/, die: starkes Gefühl des Ärgers, rage, fury
 
 Wutanfall /ˈvuːt|anfal/, der: fit of rage, tantrum
+  In einem Wutanfall hat er ihre Briefe zerrissen.
+  He tore up her letters in a fit of rage.
 
 wüten: to rage, to riot, to wreak havoc
 
