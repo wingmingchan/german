@@ -8,6 +8,8 @@ Saal /zaːl/, der, Säle /ˈzɛːlə/: room, hall
 Saar, die: a river in NE France and W Germany
 
 Sache /ˈzaxə/, die: thing
+  Was hältst du eigentlich von der ganzen Sache?
+  What do you actually think about the whole thing? 
 
 sachlich /ˈzaxlɪç/: objective, matter-of-fact, factual, objectively
 
@@ -31,6 +33,15 @@ Samen /ˈzaːmən/, der, Samen: seed, sperm
 sammeln /ˈzaməln/: to gather, to collect, to assemble
   Im Herbst gehen wir gerne Pilze sammeln.
   We like to go mushroom picking in the fall.
+
+sanft /zanft/: gentle, soft
+  ein sanftes Wesen haben: to have a gentle nature
+  das sanfte Streicheln des Windes auf ihrer Haut
+  the wind's gentle caress on her skin
+  Dem Pilot gelang eine sanfte Landung.
+  The pilot managed to make a soft landing.
+  Im sanften Kerzenlicht sah alles sehr schön aus.
+  Everything looked really beautiful in the soft candlelight.
 
 saß /zaːs/ => sitzen
 
@@ -73,6 +84,10 @@ Schaden, Schäden, der: damage, harm
 
 schaffen /ˈʃafən/: to do, to manage, to finish, to take, to put, to work, to create
 
+Schal /ʃaːl/, der, Schals: scarf
+  Nimm einen Schal um bei der Kälte!
+  Put a scarf on in this cold. 
+
 schalten: to switch, to turn, to shift gear, to connect
   den Fernseher auf Standby schalten: to turn the TV to standby
   Die Heizung hat schon auf Nachtbetrieb geschaltet.
@@ -110,6 +125,12 @@ schenken /ˈʃɛŋkən/: to give (as a present), to donate
   => Geschenk: gift
   Geschenkt! Forget it!
 
+scheuen /ˈʃɔyən/: to spare, to shrink from, to shy
+  Wir haben für das Fest weder Kosten noch Mühe gescheut.
+  We haven't spared any cost or effort with the party.
+  Sie scheut sich (davor), ihn zu kritisieren.
+  She shrank from criticizing him. 
+
 schicken /ˈʃɪkən/: to send, to send for, to hurry up
   ein Päckchen mit der Post schicken
   to send a package through the mail
@@ -137,6 +158,11 @@ schießen /ˈʃiːsən/: to shoot, to kick
   den Ball über den Zaun schießen: to kick the ball over the fence
 
 Schiff /ʃɪf/, das: ship, boat
+
+Schild /ʃɪlt/, das, Schilder: sign
+  => Tafel
+  Auf dem Schild stand „Betreten verboten!‟
+  On the sign it said, "No entry."
 
 schildern /ˈʃɪldɐn/: to describe
   jdm die Situation schildern: to describe the situation to sb
@@ -187,8 +213,11 @@ Schmatz /ʃmaʦ/, der: smacker
   Sie gab ihm einen dicken Schmatz auf die Backe.
   She gave him a big smacker on the cheek.
 
+schmecken: to taste, to like
+  Hat's geschmeckt?
+
 Schmerz /ʃmɛrʦ/, der: pain
-  ein stechender Schmerz im Knie: a stabbing pain in your knee
+  ein stechender Schmerz im Knie: a stabbing pain in your knee 
 
 schmieden /ˈʃmiːdən/: to forge, to hatch
   Schmiedeeisen: wrought iron
@@ -223,6 +252,10 @@ schneien /ˈʃnaiən/: to snow
 
 Schnitt /ʃnɪt/, der: average
 
+Schnur /ʃnuːɐ/, die, Schnüre /ˈʃnyːrə/: string, cord
+  Er trug den Schlüssel an einer Schnur um den Hals.
+  He wore the key on a cord around his neck. 
+
 Schnurrbart /ˈʃnʊrbaːɐt/, der: mustache
 
 Schokolade, die /ʃokoˈlaːdə/: chocolate
@@ -235,6 +268,8 @@ schreiben /ˈʃraibən/: to write
   Er schreibt Reportagen /repɔrˈtaːʒən/.
 
 schreien /ˈʃraiən/: to scream
+  Sie schrie vor Schmerzen.
+  She screamed with pain.
 
 Schrott /ʃrɔt/, der: scrap, garbage
   Schrotthändler: scrap (metal) dealer
@@ -268,6 +303,10 @@ Schule /ˈʃuːlə/, die: school
 schulen /ˈʃuːlən/: to train
   Mitarbeiter im Umgang mit der neuen Software schulen: to train employees to use the new software
 
+Schürze /ˈʃʏrʦə/, die, Schürzen: apron
+  Er band sich zum Kochen eine Schürze um.
+  He put on an apron to do the cooking.
+
 Schuss, Schüssen, der: gun shot
   => erschießen
 
@@ -294,7 +333,8 @@ schwank: frail, slender
 schwarz /ʃvarʦ/, schwarzen: black
 
 schwatzen /ˈʃvaʦən/: to chat
-  mit einer Freundin am Telefon schwatzen: to chat with a friend on the phone
+  mit einer Freundin am Telefon schwatzen
+  to chat with a friend on the phone
 
 Schweden /ˈʃveːdən/
 
@@ -310,7 +350,8 @@ Schwelle: threshold
 
 schwer /ʃveːɐ/: heavy, severe, difficult
 
-Schwert /ˈʃveːɐt/, das: sword
+Schwert /ˈʃveːɐt/, das, Schwerter: sword
+  ein zweischneidiges Schwert: a double-edged sword
 
 schwierig /ˈʃviːrɪç/: difficult
 
@@ -428,6 +469,7 @@ sieht => sehen
 Sinn /zɪn/, der: meaning, mind
   Seine Worte gingen mir nicht aus dem Sinn.
   I couldn't get his words out of my mind.
+  etw. im Sinn haben: to have sth in mind
 
 sitzen /ˈzɪʦən/: to sit
 
@@ -441,11 +483,7 @@ skurril /skuˈriːl/: absurd
   Ich finde die Idee schon ein wenig skurril.
   I think the idea's pretty absurd.
 
-schmecken: to taste, to like
-  Hat's geschmeckt?
-
-Schmerz /ʃmɛrʦ/, der: pain
-  ein stechender Schmerz im Knie: a stabbing pain in your knee 
+smaragdgrün: emerald
 
 sobald /zoˈbalt/: as soon as
   Sobald er anruft, gebe ich Ihnen Bescheid.
@@ -456,6 +494,8 @@ sodass /zoˈdas/: so that
 sogar /zoˈɡaːɐ/: even, no less
   Sogar ein Hund kann das lernen!
   Even a dog can learn it!
+  Gestern habe ich zehn Stunden gearbeitet und heute sogar zwölf!
+  Yesterday I worked for ten hours and today for twelve no less!
 
 sogenannt: so-called
 
@@ -494,7 +534,7 @@ sonst /zɔnst/: normally, else, otherwise
   Setz eine Mütze auf, sonst friert es dich an den Ohren.
   Put a hat on or your ears will get cold.
 
-Sorge /ˈzɔrɡə/, die: worry
+Sorge /ˈzɔrɡə/, die, Sorgen: worry
   jdm Sorgen machen/bereiten: to cause sb a lot of worry; to worry sb
 
 sorgen /ˈzɔrɡən/: to cater, to provide, to ensure, to worry, to cause
@@ -502,6 +542,8 @@ sorgen /ˈzɔrɡən/: to cater, to provide, to ensure, to worry, to cause
 sowie /zoˈviː/: and, as well as
 
 spähen /ˈʃpɛːən/: to peer
+  Er spähte über den Zaun/aus dem Fenster.
+  He peered over the fence/out of the window.
 
 spannend /ˈʃpanənt/: exciting
 
@@ -561,6 +603,10 @@ spüren /ˈʃpyːrən/: to feel, to notice
 spürbar /ˈʃpyːɐbaːɐ/: noticeable , perceptible
   Auch bei uns hat spürbar die Erde gebebt.
   Even where we are you could feel the earth tremor.
+
+Stadt /ʃtat/, die, Städte /ˈʃtɛ(ː)tə/: town, city
+
+Stadtrand /ˈʃtatrant/, der, Stadtränder /ˈʃtatrɛndɐ/: outskirts
 
 Staat /ʃtaːt/, der, Staaten: state, country
   ein demokratischer Staat: a democratic state
@@ -664,6 +710,8 @@ Stimmung /ˈʃtɪmʊŋ/, die: mood, atmosphere, good mood
   Er ist heute in schlechter Stimmung.
   He's in a bad mood today.
 
+Stollen /ˈʃtɔlən/, der, Stollen: tunnel
+
 stolz /ʃtɔlʦ/: proud
   Sie ist stolze Besitzerin einer Jacht.
   She is the proud owner of a yacht.
@@ -712,6 +760,12 @@ streitig /ˈʃtraitɪç/: to dispute sb's right to sth
 
 Streitkräfte /ˈʃtraitkrɛftə/ (pl): armed forces
 
+streng /ʃtrɛŋ/: strict, harsh, severe
+  Sei doch nicht so streng zu den Kindern!
+  Quit being so strict with the kids!
+  Wir erwarten strengste Einhaltung der Vorschriften!
+  We expect the regulations to be strictly adhered to.
+
 streuen /ˈʃtrɔyən/: to scatter, to spread
 
 Strohhalm /ˈʃtroːhalm/: straw
@@ -756,6 +810,10 @@ suchen /ˈzuːxən/: to look for
   Herr Meier sucht ein Zimmer.
 
 Süden /ˈzyːdən/, der: south
+
+summen /ˈzʊmən/: to hum
+  Sie summte fröhlich vor sich hin.
+  She was humming away happily. 
 
 surfen /ˈsøːɐfən/: to surf
   nach Hawaii zum Surfen fahren: to go surfing in Hawaii
