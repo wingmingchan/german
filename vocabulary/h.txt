@@ -11,6 +11,8 @@ haben /ˈhaːbən/: to have
   hatte, hattest, hatte, ihr hattet, hatten
   Ich hätte gerne das Wiener Schnitzel.
 
+Hafer /ˈhaːfɐ/, der, Hafers: oats
+
 Haferbrei, der: porridge, oatmeal
 
 Haft /haft/, die, Haft: custody, imprisonment
@@ -130,9 +132,11 @@ heben /ˈheːbən/: to lift, to raise
 Heck /hɛk/, das: rear, stern
   Heckklappe: tailgate
 
-Heft /hɛft/, das, Hefte: exercise book, booklet
+Heft /hɛft/, das, Hefte: exercise book, booklet, magazine, comic, issue
   Die Lehrerin sammelt die Hefte ein.
-  The teacher collected the exercise books. 
+  The teacher collected the exercise books.
+  „National Geographic 1998, Heft 3“
+  "National Geographic 1998, No 3"
 
 heften /ˈhɛftən/: to pin, to stick, to tack, to file, to fix
   ein Plakat an die Wand heften: to pin a poster on the wall 
@@ -140,6 +144,9 @@ heften /ˈhɛftən/: to pin, to stick, to tack, to file, to fix
 heftig /ˈhɛftɪç/: violent
 
 heikel /ˈhaikəl/: delicate
+
+Heiligtum /ˈhailɪçtuːm/, das, Heiligtümer: shrine, holy place
+  ein ägyptisches Heiligtum: an Egyptian shrine 
 
 Heimat /ˈhaimaːt/, die: home (country)
   Sehnsucht nach der Heimat haben: to be homesick
@@ -173,7 +180,11 @@ helfen /ˈhɛlfən/: to help
 hell /hɛl/: light, bright
   <=> dunkel
   ein helles Zimmer: a bright room
-  ein helles Grün: a light green 
+  ein helles Grün: a light green
+  
+Helle /ˈhɛlə/, das, Hellen: light beer, lager
+  Ein großes Helles, bitte!
+  A large light beer, please. 
 
 Hemd /hɛmt/, das, Hemden: shirt
   Er trug zur Hose Hemd und Krawatte.
@@ -200,6 +211,12 @@ herausgreifen /hɛˈrausɡraifən/: to single out, to select
   einzelne Aspekte herausgreifen: to single out individual aspects
 
 herauskommen /hɛˈrauskɔmən/: to come out
+  Sie kam aus dem Haus heraus und winkte.
+  She came out of the house and waved.
+  Sein neuer Roman wird im Herbst herauskommen.
+  His new novel comes out in fall.
+
+herausputzen: to dress up
 
 Herbst /hɛrpst/, der: autumn
    Bald wird es Herbst.
@@ -241,6 +258,8 @@ Hilfe /ˈhɪlfə/, die: help
 
 Himmel /ˈhɪməl/, der: sky
 
+himmlisch /ˈhɪmlɪʃ/: heavenly, divine
+
 hinaus /hɪˈnaus/: out
 
 hindern /ˈhɪndɐn/: to prevent, to hinder
@@ -279,6 +298,9 @@ Hinweis /ˈhɪnvaɪs/, der: information, clue, lead, evidence, indication
 hinweisen /ˈhɪnvaizən/: to point sth out to sb
 
 Hintergrund, der: background
+
+hinüber /hɪˈnyːbɐ/: over, across
+  ein Blick hinüber zum Nachbarn: a glance over to your neighbor 
 
 Hirn /hɪrn/, das: brain, mind
 
