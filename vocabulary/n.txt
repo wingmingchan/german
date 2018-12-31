@@ -53,6 +53,10 @@ näher /ˈnɛːər/: nearer
   What is your name?
   Auf den Namen Schmidt
 
+nanu /naˈnuː/: hello
+  Nanu, was ist denn hier los?
+  Hello, what's going on here? 
+
 Nase /ˈnaːzə/, die: nose
   die Nase vorn haben: to be ahead
   in der Nase bohren
@@ -90,7 +94,7 @@ nennen /ˈnɛnən/ to call (as a name)
   Du kannst mich gern Basti nennen.
   You can call me Basti.
 
-Nerv /nɛrf/, der: nerve
+Nerv /nɛrf/, der, Nerven: nerve
   Die Schmerzen kommen von einem eingeklemmten Nerv.
   The pain is caused by a trapped nerve.
 
@@ -125,6 +129,8 @@ Norden /ˈnɔrdən/, der: north
 
 Nordkoreas: North Korea
 
+normal /nɔrˈmaːl/: normal
+
 Norwegen /ˈnɔrveːgən/
 
 nötig /ˈnøːtɪç/: necessary
@@ -136,6 +142,7 @@ nötigen /ˈnøːtɪɡən/: to urge, to force, to coerce
   They urged us to stay.
 
 notwendig /ˈnoːtvɛndɪç/: necessary
+  => nötig
   dringend notwendige Hilfe: urgently needed help
 
 Null /nʊl/, die: zero
@@ -153,6 +160,8 @@ nur /nuːɐ/: only
   He only had minor injuries.
   Sie ist nicht nur hübsch, sondern auch klug.
   She is not only pretty, but also clever.
+
+nutzbar /ˈnʊʦbaːɐ/: usable
 
 nutzen /ˈnʊʦən/: to use
   Sie nutzte die restliche Zeit, um sich zu entspannen.
