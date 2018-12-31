@@ -152,6 +152,8 @@ Fenster /ˈfɛnstɐ/, das: window
 Ferkel /ˈfɛrkəl/, das: piglet
 
 fernhalten /ˈfɛrnhaltən/: to keep away
+  ein Spray, das die Mücken fernhält
+  a spray that keeps mosquitoes away 
 
 Fernost, der: Far East
 
@@ -169,6 +171,10 @@ Festnahme /ˈfɛstnaːmə/, die: arrest
   Er sitzt seit seiner Festnahme in Köln in Untersuchungshaft.
   Since his arrest he's been in custody awaiting trial in Cologne.
 
+festsitzen: stick, adhere, be stuck
+
+feststellen /ˈfɛstʃtɛlən/: to determine, to find out, to tell, to state
+
 Feuchtigkeit /ˈfɔʏçtɪçkait/, die: dampness, moisture
   eine Feuchtigkeitscreme für die Haut: a moisturizing cream for the skin
 
@@ -183,6 +189,8 @@ Feuerwehr /ˈfɔʏɐveːɐ/, die: fire department
 Feuerwehrmann: fireman
 
 Feuerwehrwache, die: fire-station
+
+Fibel /ˈfiːbl/, die, Fibeln: primer
 
 fiel => fallen
 
@@ -245,6 +253,10 @@ Flug /fluːk/, der: flight
 
 Flugbegleiter: flight attendant
 
+Flügel /ˈflyːɡəl/, der, Flügel: wing
+  Der Vogel flatterte mit den Flügeln.
+  The bird flapped its wings.
+
 Flughafen /ˈfluːkhaːfən/, der: airport
 
 Flugverbot, das: ban on flying
@@ -258,7 +270,12 @@ Fluss /ˈflʊs/, der: river
   Nach den starken Regenfällen trat der Fluss über die Ufer.
   After the heavy rainfall the river burst its banks. 
 
+flüstern /ˈflʏstɐn/: to whisper
+  jdm ein Geheimnis ins Ohr flüstern
+  to whisper a secret in sb's ear 
+
 Flut, die: high tide, flood, torrent
+  <=> Ebbe
   Er ertrank in der reißenden Flut/in den Fluten des Hochwassers.
   He drowned in the raging torrent of the flooding.
   Flutwelle: tsunami
@@ -306,7 +323,8 @@ fortschreiten /ˈfɔrtʃraitən/: to progress
   Die Krankheit schreitet weiter fort.
   The illness is progressing further.
 
-Fortschritte machen: to advance, to make progress
+Fortschritt /ˈfɔrtʃrɪt/, der: progress, advance
+  Fortschritte machen: to advance, to make progress
 
 Foul /faul/, das: foul
   ein Foul begehen: to commit a foul
@@ -416,7 +434,7 @@ funktionieren /fʊŋkʦjoˈniːrən/: to function, to work
 fürchten /ˈfʏrçtən/: to be afraid of, to fear
   ein gefürchteter Gegnera: formidable opponent
 
-Fürst /fʏrst/: prince
+Fürst /fʏrst/, Fürstin, Fürsten: prince
 
 Fuß /fuːs/, der: foot
 
