@@ -30,6 +30,8 @@ U /uː/ U wie Ulrich, Ü wie Übermut
 überleben /yːbɐˈleːbn/: to survive
   20 Menschen überlebten den Flugzeugabsturz.
   20 people survived the plane crash.
+  Sie überlebte ihren Mann um fünf Jahre.
+  She survived her husband by five years.
 
 übermorgen /ˈyːbɐmɔrɡən/: the day after tomorrow
 
@@ -81,6 +83,9 @@ U /uː/ U wie Ulrich, Ü wie Übermut
 
 überzog => überziehen
 
+üblich /ˈyːplɪç/: usual, normal
+  über das übliche Maß hinaus: more than/beyond what is normal 
+
 übrig /ˈyːbrɪç/: left (over)
   Von dem Kuchen ist nichts übrig geblieben.
   There's no cake left.
@@ -96,7 +101,9 @@ Uhr /uːɐ/, die: watch, clock
   Meine Uhr ist stehen geblieben.
   My watch has stopped.
 
-umgebracht => umbringen
+umbinden /ˈʊmbɪndən/:
+  jdm/sich etw. umbinden: to tie sth around sb/sth
+  dem Kind einen Schal umbinden: to put the child a scarf on 
 
 umbringen /ˈʊmbrɪŋən/: to kill
   bringe um, bringst um, bringt um, habe umgebracht
@@ -117,6 +124,10 @@ umgarnen /ʊmˈɡarnən/: to beguile
 umgeben /ʊmˈɡeːbən/: to surround
   Das Haus war von einer Hecke umgeben.
   The house was surrounded by a hedge.
+
+umgebracht => umbringen
+
+Umhang /ˈʊmhaŋ/, der, Umhänge /ˈʊmhɛŋə/: cape, cloak
 
 umliegende /ˈʊmliːɡəndə/: surrounding
 
@@ -161,6 +172,8 @@ unerschrocken /ˈʊn|ɛɐʃrɔkən/: fearless , courageous
   ein unerschrockener Kämpfer für die Menschenrechte: a fearless champion of human rights
 
 unerträglich /ʊn|ɛɐˈtrɛːklɪç/: unbearable
+  Diese Hitze ist schier unerträglich.
+  This heat is just unbearable.
 
 Unfall /ˈʊnfal/, der: accident
   bei einem Autounfall ums Leben kommen: to be killed in a car accident
@@ -197,6 +210,10 @@ unter: under, among
 Unter-: under-, sub-
 
 unter-: under, in(to), through, sub-
+
+unterdrücken /ʊntɐˈdrʏkən/: to oppress, to repress, suppress
+  Sie konnte das Gähnen nicht unterdrücken.
+  She couldn't stop herself from yawning.
 
 unterhalten /ʊntɐˈhaltən/: to amuse, to entertain, to keep, to maintain, to support
 
@@ -241,6 +258,10 @@ Untersuchungshaft /ʊntɐˈzuːxʊŋshaft/, die: pretrial detention
 unterteilen: to divide
   Der Schrank ist in mehrere Fächer unterteilt.
   The cabinet is divided into several compartments.
+
+unterwegs /ʊntɐˈveːks/: on the way
+  Ich hab sie unterwegs getroffen.
+  I met her on my/the way.
 
 unterzeichnen /ʊntɐˈʦaiçnən/: to sign
 
