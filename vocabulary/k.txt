@@ -29,6 +29,10 @@ Kalzium /ˈkalʦjʊm/, das
 
 kam /kaːm/ => kommen
 
+Kamel /kaˈmeːl/, das, Kamele: camel
+  Sie ritten auf Kamelen durch die Wüste.
+  They rode across the desert on camels.
+
 Kamm /kam/, der, Kämme /ˈkɛmə/: comb, crest
   mit dem Kamm einen Scheitel ziehen
   to part your hair with a comb
@@ -57,11 +61,17 @@ Kastanie /kasˈtaːnjə/, die: chestnut
 
 Katze /ˈkaʦə/, die: cat
 
+kauen /ˈkauən/: to chew
+  an den Fingernägeln kauen: to chew your fingernails
+
 Kaufmann /ˈkaufman/, Kauffrau: businessman, sales manager, merchant
 
 kaum /kaum/: barely, hardly
   Ich habe kaum geschlafen.
   I hardly slept a wink.
+
+Kehle /ˈkeːlə/, die, Kehlen: throat
+  jdm die Kehle durchschneiden: to cut sb's throat 
 
 kehren /ˈkeːrən/ to sweep, to return
 
@@ -87,7 +97,7 @@ Kerl /kɛrl/, der: guy, chap, fellow
 
 Kerlchen, das: fellow
 
-Kerze /ˈkɛrʦə/, die: candle
+Kerze /ˈkɛrʦə/, die, Kerzen: candle
   eine Kerze anzünden/ausblasen: to light/blow out a candle
 
 Kette /ˈkɛtə/, die, Ketten: necklace, chain
@@ -136,6 +146,10 @@ Kleid /klait/, das: dress
 
 Kleider, Kleidung: clothes
 
+klettern /ˈklɛtɐn/: to climb
+  auf einen Baum/über den Zaun klettern
+  to climb a tree/over the fence 
+
 Klinge /ˈklɪŋə/, die: blade
 
 klirrend /ˈklɪrənt/: bitter
@@ -146,6 +160,10 @@ klug /kluːk/: clever
   ein kluger Mann
 
 knapp /knap/: meagre, scarce, tight, barely
+
+kneten /ˈkneːtən/: to knead
+  Sie knetete nervös ihre Hände/Schürze.
+  She wrung her hands/apron nervously. 
 
 Knie /kniː/, das, Knie: knee
   Er fiel vor dem König auf die Knie und bettelte um Gnade.
@@ -183,6 +201,9 @@ Kollege
   Ich muss einem Kollegen helfen.
 
 komfortabel /kɔmfɔrˈtaːbəl/: comfortable
+
+komisch /ˈkoːmɪʃ/: funny, strange
+  eine komische Geschichte erzählen: to tell a funny story 
 
 komm (imperative du) => kommen
 
