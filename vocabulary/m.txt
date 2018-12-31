@@ -92,6 +92,8 @@ Meer /meːɐ/, das, Meere: sea
   aufs offene Meer hinausfahren: to go out onto the open sea
   ein Meer von Häusern/Menschen: a sea of houses/people 
 
+Meerenge, die: strait, narrow
+
 Meeresspiegel /ˈmeːrəsʃpiːɡəl/, der: sea level
 
 Mehl /meːl/, das: flour
@@ -122,7 +124,7 @@ meistens /ˈmaistəns/: mostly
   Ich gehe meistens früh ins Bett.
   I go to bed early most of the time.
 
-Menge /ˈmɛŋə/, die: amount, quantity
+Menge /ˈmɛŋə/, die, Mengen: amount, quantity
   eine geringe Menge Wasser zugeben: to add a small amount of water
   jede Menge: lots
 
@@ -152,6 +154,14 @@ mindestens /ˈmɪndəstəns/: at least
   Der Sturm hat mindestens drei Todesopfer gefordert.
   The storm claimed at least three lives.
 
+Mine /ˈmiːnə/, die, Minen: lead, refill, mine, tunnel
+  die Mine des Kugelschreibers auswechseln
+  to change the refill in the pen
+  eine Mine entschärfen: to defuse a mine
+  eine stillgelegte Mine: an abandoned mine
+  Die unterste Mine ist eingestürzt.
+  The lowest tunnel has caved in.
+
 *Mineral /mine’raːl/, das
   lebenswichtige Mineralien: essential minerals 
 
@@ -160,6 +170,8 @@ Ministerpräsident: prime minister
 Minute /miˈnuːtə/, die: minute
 
 Missbrauch, der: abuse
+
+misslingen /mɪsˈlɪŋən/: to fail
 
 Mitarbeiter /ˈmɪt|arbaitɐ/: employee
 
@@ -191,6 +203,10 @@ Mittwoch /ˈmɪtvɔx/, der: Wednesday
 Möbel /ˈmøːbəl/, pl: furniture
   Ich habe mir neue Büromöbel angeschafft.
   I got some new office furniture.
+
+Mode /ˈmoːdə/, die, Moden: fashion, custom
+  die neue Herbstmode/Sommermode: the new fall/summer fashions
+  
 
 modern /moˈdɛrn/
 
@@ -224,6 +240,12 @@ Mücke /ˈmʏkə/, die, Mücken: mosquito
 müde /ˈmyːdə/: tired, weary
   Das lange Warten macht müde.
   Long waits are tiring.
+
+Mühe /ˈmyːə/, die, Mühen: effort, trouble, bother
+  Er scheute keine Mühe, um sein Ziel zu erreichen.
+  He made every effort to achieve his goal.
+  So ein Haustier macht viel Mühe, aber auch Freude.
+  A pet like that is a lot of bother but brings a lot of joy. 
 
 Mühle /ˈmyːlə/, die: mill, grinder
   die alte Mühle am Fluss: the old mill by the river
