@@ -20,17 +20,13 @@ rangeln /ˈraŋəln/: to wrestle, to scuffle
 
 ranghöher: senior
 
-Rasen /ˈraːzən/, der, Rasen: lawn
-  den Rasen mähen: to mow the lawn 
-
-rauchen /ˈrauxən/: to smoke
-  Rauchen Sie?
-  Do you smoke?
-  Stört es Sie, wenn ich rauche?
-  Do you mind if I smoke?
-
 rasch /raʃ/: rapid, quickly
   rasche Fortschritte machen: to make rapid progress
+
+Rasen  /ˈraːzən/, der: lawn, grass
+  den Rasen mähen: to mow the lawn 
+  „Bitte den Rasen nicht betreten“
+  "Please keep off the grass"
 
 rasen /ˈraːzən/: to rush, to race
 
@@ -64,9 +60,16 @@ Rätsel /ˈrɛːʦəl/, das: puzzle, riddle, mystery
   Ich gebe dir ein Rätsel auf: …
   I've got a riddle for you: …
 
+rätselhaft /ˈrɛːʦəlhaft/: mysterious
+  sein rätselhafter Tod: his mysterious death 
+
 Ratte, die: rat
 
 rauchen /ˈrauxən/: to smoke
+  Rauchen Sie?
+  Do you smoke?
+  Stört es Sie, wenn ich rauche?
+  Do you mind if I smoke?
 
 Raum /raum/, Räume /ˈrɔymə/, der: room, space
 
@@ -177,6 +180,10 @@ richten /ˈrɪçtən/: to direct, to point, to turn
 
 Richtlinie /ˈrɪçtliːnjə/: guideline
 
+Richtung /ˈrɪçtʊŋ/, die: direction
+  Der Wind wehte in westlicher Richtung/kam aus östlicher Richtung.
+  The wind was blowing in a westerly direction/coming from an easterly direction. 
+
 rief => rufen
 
 Riese /ˈriːzə/: giant
@@ -206,6 +213,8 @@ Rot /roːt/, das: red
 
 rot: red
    Fehler rot anstreichen: to mark mistakes in red 
+
+Ruck /rʊk/, der: jerk, jolt, tug
 
 Rückfahrt, die: return journey
   Wie teuer ist die Hin- und Rückfahrt?
