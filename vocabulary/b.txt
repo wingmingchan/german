@@ -8,6 +8,10 @@ Baby /ˈbeːbi/, das
 Bach /bax/, der: stream, brook
   Gebirgsbach: mountain stream
 
+Backe /ˈbakə/, die, Backen: cheek
+  => Wange
+  mit vollen Backen kauen: to chew with your cheeks full 
+
 backen /ˈbakən/: to bake
 
 Bäcker /ˈbɛkɐ/, Bäckerin: baker
@@ -63,7 +67,7 @@ Bar /baːɐ/, die, Bars: bar
 
 Bär /bɛːɐ/, der, Bärin, Bären: bear
 
-Bart, der: beard
+Bart /baːɐt/, der, Bärte /ˈbɛːɐtə/: beard
   sich [dative] einen Bart wachsen lassen: to grow a beard
 
 Base /ˈbaːzə/, die: base
@@ -112,9 +116,12 @@ Becher /ˈbɛçɐ/, der: cup
   Er trank seinen Kaffee aus einem Plastikbecher.
   He drank his coffee from a plastic cup.
 
-Bedarf /bəˈdarf/, der, Bedarf(e)s: need, requirement
+Bedarf /bəˈdarf/, der, Bedarfs: need, requirement
   Schon eine Orange deckt den täglichen Bedarf an Vitamin C.
-  One orange is enough to cover the daily requirement of vitamin C. 
+  One orange is enough to cover the daily requirement of vitamin C.
+  Der Bus hält hier nur bei Bedarf.
+  The bus stops here only on request.
+  Dinge des täglichen Bedarfs: basic necessities
 
 bedauerlich /bəˈdauɐlɪç/: regrettable, unfortunate
 
@@ -133,8 +140,22 @@ bedienen /bəˈdiːnən/: to serve, to wait tables
 
 Bedienung /bəˈdiːnʊŋ/: waiter, waitress
 
+beehren /bəˈ|eːrən/: to honor sb/sth with sth
+  Sie hat uns doch tatsächlich mit ihrer Anwesenheit beehrt.
+  She actually did grace us with her presence.
+  Beehren Sie uns bald wieder!
+  Please come back and see us again soon.
+
 Beet /ˈbeːt/, das, Beete: (flower/plant) bed
    neue Beete anlegen: to lay out new beds 
+
+Befall /bəˈfal/, der, Befalls: infestation
+  Bei starkem Befall mit Blattläusen empfiehlt sich das Spritzen mit Seifenlauge.
+  In cases of infestation with aphids it is recommendable to spray the plant with soapy water. 
+
+Befehl /bəˈfeːl/, der, Befehle: order, command
+  Der Offizier gab den Befehl zum Angriff.
+  The officer gave orders to attack. 
 
 Befliegung: flight, overflying
 
@@ -216,6 +237,9 @@ behaupten /bəˈhauptən/: to claim
   Sie behauptet, krank gewesen zu sein, aber ich halte das für eine Ausrede.
   She claims to have been ill, but I think that's just an excuse.
 
+Behauptung /bəˈhauptʊŋ/, die: claim, assertion
+  kühne Behauptungen aufstellen: to make bold claims 
+
 beherzigen /bəˈhɛrʦɪɡən/: to take to heart, to heed
   Er beherzigte ihre Worte und fuhr vorsichtig.
   He took her words to heart and drove carefully.
@@ -260,6 +284,10 @@ belästigen /bəˈlɛstɪɡən/: to bother, to annoy, to trouble, to pester, to 
 
 Belästigung /bəˈlɛstɪɡʊŋ/, die: annoyance, nuisance, harassment
 
+beleben /bəˈleːbən/: to stimulate, to be revitalized, to brighten up, to liven up
+  Allmählich beleben sich die Straßen.
+  The streets are gradually beginning to liven up.
+
 belieben /bəˈliːbən/: to please, to like
   Kommen Sie wieder, wann es Ihnen beliebt.
   Come back again whenever you please.
@@ -270,6 +298,12 @@ beliebt /bəˈliːpt/: popular
   eine beliebte Fernsehserie: a popular TV series
 
 bemessen: limited
+
+bemerken /bəˈmɛrkən/: to notice
+  Der Unterschied war kaum zu bemerken.
+  The difference was hardly noticeable.
+  Sein Fehlen wurde nicht bemerkt.
+  His absence went unnoticed.
 
 Bemerkung /bəˈmɛrkʊŋ/, die: remark, comment
   eine abfällige Bemerkung machen: to make a snide remark
@@ -364,6 +398,7 @@ besitzen /bəˈzɪʦən/: to own
   viel Erfahrung besitzen: to have a lot of experience
 
 Besitzer /bəˈzɪʦɐ/, Besitzerin: owner
+  => Eigentümer
 
 besonder: great, special
   Schuldige besonders: guilty person/party
@@ -404,6 +439,9 @@ bestimmt /bəˈʃtɪmt/: certain, firm, decisive, certainly
 bestücken /bəˈʃtʏkən/: to equip, to load
   einen Füller mit Patronen bestücken: to equip a fountain pen with cartridges
 
+Bete /ˈbeːtə/, die, Rote Bete: beet
+  ein Glas eingelegte Rote Bete: a jar of pickled beet 
+
 beten /ˈbeːtən/: to pray
   Er betet jeden Abend vor dem Schlafengehen.
   He prays every night before he goes to bed.
@@ -418,6 +456,8 @@ betragen /bəˈtraːɡən/: to be, to amount to, to behave
   The length can be 2.50 meters tops.
   Betragt euch anständig bei Oma!
   Behave yourselves at grandma's!
+
+betreten /bəˈtreːtən/: to enter, to walk onto
 
 Betrieb, der: operation, company
 
@@ -466,11 +506,15 @@ Bewährung /bəˈvɛːrʊŋ/, die: probation, test of character
 Bewältigung /bəˈvɛltɪɡʊŋ/, die: coping (with), handling
   die Bewältigung einer Krise: coping with a crisis
 
-bewegen /bəˈveːɡən/: to move, to budge
+bewegen /bəˈveːɡən/: to move, to budge, to move forward
 
 Bewegung /bəˈveːɡʊŋ/, die: movement
   in Bewegung: in motion
   Bewegung in etw. bringen: to get sth going/moving
+
+Beweis /bəˈvais/, der: proof, evidence
+
+bewerfen /bəˈvɔrfn/: to throw sth at sb/sth
 
 bewusst /bəˈvʊst/: deliberate
 
@@ -489,6 +533,8 @@ bezaubern: bewitch, charm, enchant
 bezwingen /bəˈʦvɪŋən/: to defeat
   Am Ende konnte der Champion den Neuling in 5 Sätzen bezwingen.
   In the end the champion managed to overcome the newcomer in 5 sets.
+
+Biber /ˈbiːbɐ/, der, Biber: beaver
 
 Bibliothek /biblioˈteːk/, die: library
   sich aus der Universitätsbibliothek ein Buch ausleihen
@@ -517,7 +563,9 @@ Bildung /ˈbɪldʊŋ/, die: education, forming
 billig /ˈbɪlɪç/: cheap
    einen billigen Flug /fluːk/ buchen: to book a cheap flight 
 
-binden /ˈbɪndən/: to tie
+binden /ˈbɪndən/: to tie, to bind
+  Binde dir doch einen Schal um den Hals!
+  Put a scarf around your neck! 
 
 binnen: within
   binnen einem Monat/eines Monats: within a month
@@ -571,13 +619,20 @@ blicken /ˈblɪkən/: to look, to get
   aus dem Fenster blicken: to look out of the window
   traurig blicken: to look sad
 
+blinzeln /ˈblɪnʦəln/: to blink
+  in die grelle Sonne blinzeln
+  to blink into the glare of the sun
+
 Blitzer, der: flashgun, speed trap
 
 Blödsinn /ˈbløːtzɪn/, der: nonsense
   => Unsinn
 
-bloß /bloːs/: bare
+bloß /bloːs/: bare, mere
   mit bloßen Händen
+  sich auf die bloße Erde setzen: to sit on the bare ground
+  Das ist keine bloße Behauptung – ich habe Beweise dafür!
+  I'm not just saying that – I can prove it! 
 
 blühend: blossoming, flourishing, thriving
 
@@ -594,6 +649,8 @@ Bock /bɔk/, der: buck, ram, billy goat
 
 Boden, Böden, der: ground, soil
 
+bog => biegen
+
 Bohne /ˈboːnə/, die: bean
 
 bohren /ˈboːrən/: to drill, to poke
@@ -605,6 +662,8 @@ bohren /ˈboːrən/: to drill
   to drill a hole in the wall
 
 Bohrmaschine /ˈboːɐmaʃiːnə/, die: drill
+  mit der Bohrmaschine Löcher für die Dübel in die Wand bohren
+  to use the electric drill to drill holes in the wall for the wall plugs 
 
 Boot /boːt/, das: boat
   Bootfahrt: boat trip
@@ -648,6 +707,8 @@ brav /braːf/: good, well-behaved, honest, upright, brave
 brechen /ˈbrɛçən/: to break
   Sie brach das Brot in zwei Teile.
   She broke the bread in two. 
+
+Brei /brai/, der, Breie: porridge, baby food
 
 breit /brait/: wide, broad
 
