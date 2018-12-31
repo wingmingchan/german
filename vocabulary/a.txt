@@ -140,7 +140,7 @@ Abschiebung /ˈapʃiːbʊŋ/, die: deportation
 
 Abschiebungshaft, die: remand pending deportation
 
-Abschied, der: parting, leave, farewell
+Abschied /ˈapʃiːt/, der, Abschiede: parting, leave, farewell
   Der Abschied von ihren Freunden fiel ihr schwer.
   She found it difficult to say goodbye to her friends.
   von jdm/etw. Abschied nehmen: to take leave of sb/say goodbye to sth
@@ -388,6 +388,12 @@ angemessen /ˈanɡəmɛsən/: suitable, appropriate
   In this case I think it would be better to remain silent.
   => gemessen: appropriate
 
+angenehm /ˈanɡəneːm/: pleasant, pleasantly
+  Ich wünsche Ihnen einen angenehmen Aufenthalt in unserem Hotel.
+  I wish you a pleasant stay in our hotel.
+  Ich war angenehm überrascht.
+  I was pleasantly surprised. 
+
 angespannt /ˈanɡəʃpant/: strained, tense, fraught
   Unsere finanziellen Verhältnisse sind gerade etwas angespannt.
   Right now our finances are a bit strained.
@@ -397,7 +403,8 @@ angespannt /ˈanɡəʃpant/: strained, tense, fraught
 angewurzelt /anɡəˈvʊrʦɛlt/: rooted to the spot
 
 Angriff /ˈanɡrɪf/, der: attack
-  einen feindlichen Angriff abwehren/zurückschlagen: to repel/beat back an enemy attack
+  einen feindlichen Angriff abwehren/zurückschlagen
+  to repel/beat back an enemy attack
 
 Angst /aŋst/, die: fear, worry
   Angst vor Hunden haben: to be afraid of dogs
@@ -437,6 +444,8 @@ anrufen /ˈanruːfən/: to call, to phone
   Hat jemand für mich angerufen?
   Did anyone call?
 
+Ansammlung /ˈanzamlʊŋ/, die: collection, crowd, gathering
+
 anschießen /ˈanʃiːsən/: to wound
 
 anschließend /ˈanʃliːsənt/: subsequent
@@ -457,6 +466,8 @@ anspringen /ˈanʃprɪŋən/: to jump up on, to come running up, to start
   Bei Kälte springt das Auto oft nicht gleich an.
   When it's cold the engine often doesn't start right away.
 
+anstarren /ˈanʃtarən/: to stare at
+
 anstellen /ˈanʃtɛlən/: to hire, to employ, to engage
   5 neue Mitarbeiter anstellen: to hire 5 new employees
   die Waschmaschine anstellen: to turn on the washing machine
@@ -470,6 +481,8 @@ anstellen /ˈanʃtɛlən/: to hire, to employ, to engage
   sich geschickt anstellen: to act wisely
   Stell dich nicht so an!
   Stop making a fuss!
+
+anstimmen: to begin singing
 
 anstreichen /ˈanʃtraiçən/: to paint, to Mark
   eine Bank blau anstreichen: to paint a bench blue
@@ -494,6 +507,8 @@ Anzahl /ˈanʦaːl/, die: number
 anziehen /ˈanʦiːən/: to attract, to get dressed
   Salz zieht Feuchtigkeit an.
   Salt attracts damp.
+
+anzogen => anziehen
 
 anzünden /ˈanʦʏndən/: to light
   Sie zündete sich eine Zigarette an.
@@ -568,6 +583,10 @@ aufbauen /ˈaufbauən/: to build, to assemble, to set up, to build up
 
 aufbrechen /ˈaufbrɛçən/: to break open, to break down
 
+aufdecken /ˈaufdɛkən/: to uncover, to show
+ Der Journalist hat die Korruption der Stadtverwaltung aufgedeckt.
+ The journalist uncovered the city administration’s corruption.
+
 auffahren /ˈauffaːrən/: to run into, to tailgate, to start, to ascend
 
 auffallen /ˈauffalən/
@@ -590,6 +609,10 @@ aufgehen: to rise, to open, to work, sb realizes sth
   The strategy might work.
   Ihm ging auf, dass er einen Fehler gemacht hatte.
   He realized that he had made a mistake.
+
+aufgeregt /ˈaufɡəreːkt/: excited, nervous
+  vor einer Prüfung sehr aufgeregt sein
+  to be very nervous before an exam
 
 aufhalten /ˈaufhaltən/: to hold up, to stop, to detain
 
@@ -640,13 +663,18 @@ aufstellen /ˈaufʃtɛlən/: to put up, to arrange, to draw up
 
 auftauchen /ˈauftauxən/: to appear, to surface, to arise, to come up, to surface
 
+Auftrag /ˈauftraːk/, der, Aufträge /ˈauftrɛːɡə/: task, job, order, contract
+  einen Großauftrag von der Gemeinde erhalten
+  to land a major contract from the city council
+
 Auftreten /ˈauftreːtən/, das: occurrence, appearance, behavior
 
 Aufzucht /ˈaufʦʊxt/, die: rearing, breeding
 
 Auge /ˈauɡə/, das: eye
-  blaue / gute Augen haben
-  to have blue eyes / good eyesight
+  blaue/gute Augen haben
+  to have blue eyes/good eyesight
+  Auge in Auge: face to face
   
 aus-: away, removed, turned off
 
@@ -668,7 +696,10 @@ ausdehnen /ˈausdeːnən/: to stretch, to extend, broaden
   Wir müssen die Suche auf die ganze Stadt ausdehnen.
   We'll have to expand our search to the whole city. 
 
-ausdrücken /ˈausdrʏkən/: to express
+ausdrücken /ˈausdrʏkən/: to express, to show
+  seine Dankbarkeit ausdrücken: to express your gratitude 
+  Seine Miene drückte Ablehnung aus.
+  His expression showed he was against it.
 
 Ausfall /ˈausfal/, der: loss, cancellation, breakdown
   Stromausfall: power outage
@@ -785,6 +816,10 @@ aussteigen /ˈausʃtaiɡən/: to get out, disembark, to drop out
   Have all the passengers exited already?
   aus einem Vertrag aussteigen wollen
   to want to back out of a contract
+
+ausstehen /ˈausʃteːən/
+  jdn/etw. nicht ausstehen können
+  to loathe sb/sth
 
 Ausstellung /ˈausʃtɛlʊŋ/, die: exhibition
   eine Ausstellung eröffnen: to open an exhibition
