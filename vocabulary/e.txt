@@ -2,6 +2,11 @@
 E /eː/ E wie Emil
 ========================================================
 
+Ebbe /ˈɛbə/, die, Ebben: ebb
+  <=> Flut
+  Bei Ebbe kann man die Insel zu Fuß erreichen.
+  You can get to the island on foot at low tide.
+
 eben /ˈeːbən/: flat, level, just (gerade jetzt)
 
 ebenfalls: likewise
@@ -56,6 +61,8 @@ eigen /ˈaiɡən/: own
   Hast du ein eigenes Auto?
   Do you have your own car?
 
+Eigentümer /ˈaiɡəntyːmɐ/, Eigentümerin: owner
+
 eignen /ˈaiɡnən/: to be suitable
   DVDs eignen sich gut zum Archivieren von Fotos
   DVDs are good for archiving photos on.
@@ -70,6 +77,14 @@ ein /ain/: one
   ein für alle Mal: once and for all
 
 ein-: in, into
+
+einander /aiˈnandɐ/: each other
+  Sind wir einander nicht schon mal begegnet?
+  Haven't we met before?
+
+einbiegen /ˈainbiːɡən/: to turn
+  Da vorn musst du rechts einbiegen.
+  You have to turn right up ahead.
 
 Einbiegung, die: inward bend, curve
 
@@ -102,6 +117,11 @@ Einfahrt /ˈainfaːɐt/, die: entrance, entry, driveway
 Einfall /ˈainfal/, der, Einfälle /ˈainfɛlə/: idea, invasion
   Der Ausflug war ein glänzender Einfall von dir.
   The day trip was a brilliant idea of yours. 
+
+einfallen /ˈainfalən/
+  etw. fällt jdm ein: sth occurs to sb
+  Mir ist keine bessere Ausrede eingefallen.
+  I couldn't think of a better excuse.
 
 einfärben: to dye
   => Farbe
@@ -192,6 +212,12 @@ Eintrag /ˈaintraːk/, der: entry, record
   Wer hat die letzten Einträge vorgenommen?
   Who made the latest entries?
 
+eintreffen /ˈaintrɛfən/: to arrive, to come true
+  Ist der Zug aus Dortmund schon eingetroffen?
+  Has the Dortmund train arrived yet?
+  Nun war eingetroffen, wovor er sich schon so lange gefürchtet hatte.
+  Now what he had long feared had come true.
+
 Eintritt /ˈaintrɪt/, der: admission, entrance, entry
   Der Eintritt in die Ausstellung ist frei.
   Admission to the exhibition is free.
@@ -276,6 +302,11 @@ endlich /ˈɛntlɪç/: finally
   She's finally feeling better. 
 
 eng: narrow
+
+Enge /ˈɛŋə/, die: narrowness, tightness
+  die Enge in der überfüllten U-Bahn
+  the lack of space in the overcrowded subway
+  jdn in die Enge treiben: to drive sb into a corner
 
 Engpass /ˈɛŋpas/, der: bottleneck, narrow pass
   => eng: narrow
@@ -408,6 +439,8 @@ erinnern /ɛɐˈ|ɪnɐn/: to remember
   erinnere, erinnerst, erinnert, habe erinnert
 
 erkennen /ɛɐˈkɛnən/: to discern, to recognize
+  Ich konnte in der Dunkelheit nicht viel erkennen.
+  I couldn't make out much in the dark.
   Er starb an inneren Blutungen, die zu spät erkannt wurden.
   He died of internal bleeding that wasn't diagnosed till it was too late.
 
@@ -539,6 +572,14 @@ erzählen /ɛɐˈʦɛːlən/: to tell, to narrate, to recount, to relate
 erzielen /ɛɐˈʦiːlən/: to achieve, to attain
   ein befriedigendes Ergebnis erzielen: to achieve a satisfactory result
 
+erzürnen /ɛɐˈʦʏrnən/: to anger, to incense, to get angry
+  Ihre Bemerkung erzürnte den Lehrer.
+  Her remark angered the teacher.
+  sich über jds Dreistigkeit erzürnen
+  to get angry at sb's brazenness 
+
+erzürnt => erzürnen
+
 es /ɛs/: it, there
   Schau mal das Kind, wie brav es spielt.
   Look at how nicely the child is playing.
@@ -556,6 +597,10 @@ Etappe /eˈtapə/, die: stage, leg
   That was an important stage on the road to success.
 
 etliche /ˈɛtlɪçə/: quite a few, a number of
+  Das ist etliche Jahre her.
+  It's quite a few years since then.
+  Die Zuschauer waren unzufrieden. Etliche verließen nach der Pause das Theater.
+  The audience was dissatisfied. Many left the theater after the interval.
 
 etwa /ˈɛtva/: used to express surprise, by any chance
   Hast du etwa keine Fahrkarte gekauft?
