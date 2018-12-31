@@ -128,6 +128,10 @@ Demenz /deˈmɛnʦ/, die: dementia
 
 demolieren /demoˈliːrən/: to trash, to wreck
 
+denen /ˈdeːnən/: those
+  Mit denen will ich nichts zu tun haben.
+  I don't want anything to do with those people.
+
 denken /ˈdɛŋkən/: to think
   Ich kann nicht mehr klar denken.
   I can't think straight anymore.
@@ -195,6 +199,7 @@ Diamant /diaˈmant/, der: diamond
 Diät /diˈɛːt/, die: diet
 
 dick /dɪk/: fat, thick
+  <=> dünn
   Er ist dick geworden.
   He's gotten fat.
 
@@ -207,6 +212,8 @@ Ding, das: thing
 
 direkt /diˈrɛkt/: direct
   der direkte Weg zum Flughafen: the direct way to the airport
+
+Direktor /di’rɛktoːɐ/, Direktorin: principal, director, manager
 
 Diskriminierung /dɪskrimiˈniːrʊŋ/, die: discrimination
 
@@ -284,6 +291,7 @@ dunkel /ˈdʊŋkəl/ dark, deep, vague
   im Dunkeln: in the dark
 
 dünn /dʏn/: thin
+  <=> dick
   Das Eis wird dich nicht tragen, es ist noch zu dünn.
   The ice won't hold your weight – it's still too thin.
 
@@ -301,6 +309,10 @@ durcharbeiten /ˈdʊrç|arbaitən/: to work through
 durchführen /ˈdʊrçfyːrən/: to carry out, to perform, to execute
 
 durchgreifen /ˈdʊrçɡraifən/: to reach through
+
+durchschneiden /ˈdʊrçʃnaidən/: to cut through
+  einen Apfel/eine Schnur in der Mitte durchschneiden
+  to cut through the middle of an apple/a piece of string 
 
 durchwaten: to wade
 
