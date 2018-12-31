@@ -6,7 +6,8 @@ lächeln /ˈlɛçəln/: to smile
 
 lachen /ˈlaxən/: to laugh
   Alle lachten herzhaft über seinen Witz.
-  Everyone had a good laugh at his joke. 
+  Everyone had a good laugh at his joke.
+  schreien vor Lachen: to howl with laughter
 
 Lack /lak/, der, Lacke: varnish, paint
   den Tisch mit farblosem/weißem Lack streichen
@@ -38,7 +39,7 @@ Lager, das, Lager /ˈlaːɡɐ/: camp, store, depot
   Kisten aus dem Lager holen
   to fetch some boxes from the storeroom
   Diese Ware haben wir nicht mehr auf Lager.
-  We don't have this product in stock any longer. 
+  We don't have this product in stock any longer.
 
 lahm /laːm/: lame, limp, dreary
   Er hat ein lahmes Bein. He's lame in one leg.
@@ -49,7 +50,9 @@ lahmen /ˈlaːmən/: to be lame
 
 lähmen /ˈlɛːmən/: to paralyze
   Die Spinne lähmt ihre Beute mit Gift, bevor sie sie frisst.
-  The spider paralyzes its prey with poison before eating it. 
+  The spider paralyzes its prey with poison before eating it.
+  Er ist durch einen Unfall gelähmt.
+  He was paralyzed in an accident.
 
 Lamm /lam/, das, Lämmer /ˈlɛmɐ/: lamb
   Die Lämmer blöken.
@@ -81,6 +84,11 @@ langsam /ˈlaŋzaːm/: slow
 Lapsus /ˈlapsʊs/, der: mistake
 
 Lärche /ˈlɛrçə/, die: larch, 落叶松
+
+lärmen /ˈlɛrmən/: to make a noise
+  lärmende Kinder/Nachbarn: noisy children/neighbors 
+
+las => lesen
 
 lassen /ˈlasən/: to let, to allow, to cause, to leave
   die Kinder lange schlafen lassen: to let the children sleep late
@@ -140,6 +148,9 @@ Lebensgefahr /ˈleːbənsɡəfaːɐ/, die: mortal danger
 
 Lebenszeit: lifetime
 
+Leber /ˈleːbɐ/, die, Lebern: liver
+  eine vergrößerte Leber haben: to have an enlarged liver 
+
 Lebewesen /ˈleːbəveːzən/, das: living being
   einzellige Lebewesen: single-cell organisms
 
@@ -160,7 +171,8 @@ leer /leːɐ/: empty, blank, vacant
   <=> voll
   Der Akku ist schon wieder leer!
   The battery has run out again already.
-  ein leer stehendes Gebäude: an empty building 
+  ein leer stehendes Gebäude: an empty building
+  gähnende Leere: total emptiness
 
 legendär /leɡɛnˈdɛːɐ/: legendary
 
@@ -200,10 +212,18 @@ Leiter, der: ladder, conductor
   Kupfer ist ein guter Leiter.
   Copper is a good conductor.
 
+Lenkrad /ˈlɛŋkraːt/, das, Lenkräder /ˈlɛŋkrɛːdɐ/: steering wheel
+  Wer saß bei dem Unfall am/hinter dem Lenkrad?
+  Who was at the wheel when the accident happened?
+
 letzte /ˈlɛʦtə/: last, final
    in der letzten Reihe sitzen: to sit in the last row 
 
 licht /lɪçt/: thin, sparse
+
+Lid /liːt/, das: eyelid
+  Sie blinzelte mit halb geschlossenen Lidern in die Sonne.
+  She squinted into the sun with her eyes half closed.
 
 lieb /ˈliːp/: dear
   liebe Gäste: dear guests
@@ -226,6 +246,9 @@ links /lɪŋks/: left
    links des Rheins: to the left-hand side of the Rhine 
 
 Lkw /ˈɛlkaːveː/, Lastkraftwagen, der: truck
+
+Loch /lɔx/, das, Löcher /ˈlœçɐ/: hole
+  ein Loch in die Wand bohren: to drill a hole in the wall 
 
 Löffel /ˈlœfəl/, der: spoon
 
