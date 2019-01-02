@@ -2,6 +2,8 @@
 L /ɛl/ L wie Ludwig
 ========================================================
 
+Lachs, der 4.15.00:11
+
 lang 3.18.18:51
   länger 3.18.18:33
 
@@ -10,7 +12,13 @@ lange
 
 langsam 2.20.09:17
 
-Leder, das 4.5
+Laptop, der 4.22.30:06
+
+lassen 4.19.16:46
+
+lecker 4.17.06:29
+
+Leder, das 4.5.26:21
 
 Lederhandschuhe 4.5.06:36
 
@@ -33,6 +41,7 @@ leid 3.15.14:36
 lernen 3.4.06:02
   sie lernt 2.30.23:27
   gelernt 3.3.15:12
+  Lernst du 4.23.30:07
 
 lesen 2.19.14:08
   ich habe gelesen 4.2.06:49
@@ -47,10 +56,18 @@ lieber 2.8.19:43
 
 liegen 3.5.12:44
   liegt 3.5.12:15
+  liegen lassen 4.20.18:46
 
 links 1.24.14:07
   nach links 1.24.14:26
 
+Liste, die 4.22.11:10
+
 Liter, der 1.22.15:59
 
+los
+  Was ist los? 4.19.03:33
+
 Lucerne 4.2.27:34
+
+Lust, die 4.19.01:56
