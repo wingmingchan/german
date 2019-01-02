@@ -35,6 +35,8 @@ teuer 1.17.08:25
 
 Theater, das 2.19.00:22
 
+Tickets 4.21.12:26
+
 Tiergarten 4.1.24:48
 
 Tisch, der 3.5.11:34
@@ -43,17 +45,23 @@ Tochter 1.20.06:51
 
 Toilette 1.21.15:57
 
+toll 4.24.07:32
+  tollen 4.24.07:38
+
 treffen, sich
   ich treffe mich 4.1.06:30
 
 treiben 3.22.13:50
 
 Treppe, die 4.12.28:24
+  Ich bin auf der Treppe gestolpert 4.25.15:55
 
 trinken 1.5.17:34
   Ich trinke ein Bier 1.8.00:27
 
-Tschüss 4.1.28:11
+trotzdem 4.22.13:40
+
+Tschüs 4.1.28:11
 
 tun 2.24.19:58
   zu tun 2.24.19:58
