@@ -4,6 +4,8 @@ D /deː/ D wie Dora
 
 dabei 3.7.21:46
 
+dafür 4.21.17:02
+
 dagegen 4.14.27:49
 
 danach 4.3.16:09
@@ -22,7 +24,7 @@ darf
   Darf ich 2.9.05:23
   du darfst 2.9.09:57
 
-darüber 3.6.17:38, 4.2.08:36
+darüber 3.6.16:44, 4.2.08:36
 
 das 1.9.00:36
 
@@ -38,6 +40,9 @@ dem
 
 Demonstrationen 4.7.30:29
 
+den
+  Der Fisch den Sie empfohlen haben 4.23.26:49
+
 denken
   ich dachte 2.23.08:55
 
@@ -46,10 +51,15 @@ denn
 
 denn 1.15.00:13
 
+Denver 4.23.20:32
+
 der 1.4.10:59
   der Platz 1.4.10:59
 
 deshalb 3.4.17:42
+
+Desktop Computer
+einen Desktop Computer 4.22.31:22
 
 Deutsch 1.1.11:28
 
@@ -82,6 +92,8 @@ dieses
 dir 1.28.00:28
   von dir 2.9.08:07
 
+direkt 4.24.24:09
+
 doch 1.4.05:10
 
 Dollar 1.13.10:50
@@ -104,6 +116,8 @@ draußen 3.10.16:16
 drei 1.10.09:35
 
 dreißig 1.16.08:24
+
+dreißigsten 4.15.19:15
 
 dreizehn 1.12.13:31
 
@@ -132,3 +146,5 @@ dürfen 3.19.21:41
   
 Durst, der 4.3.09:35
   Ich habe Durst. 4.3.10:16
+  
+duzen 4.22.11:37
