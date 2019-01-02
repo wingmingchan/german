@@ -14,7 +14,7 @@ vergessen 4.2.04:42
 
 Vergnügen 2.28.27:27, 3.22.02:03
 
-verheiratet 3.2.12:22
+verheiratet 3.2.12:22, 4.16.22:38
 
 Verkäuferin 1.14.00:04
 
@@ -22,6 +22,8 @@ verkaufen
   verkauft 3.4.16:18
 
 Verkehr, der 3.19.11:13
+
+Verschiebung, die 4.17.03:47
 
 verstehen 1.1.03:28
   Sie verstehen 1.1.04:00
@@ -48,6 +50,8 @@ Viertel, das 2.8.12:53
 
 vierzehn 1.13.09:53
 
+voll 4.26.17:46
+
 von 
   Haben Sie schon etwas von Möchten gesehen 2.2.04:05
   von hier 2.2.07:08
@@ -67,6 +71,10 @@ Vormittag, der 2.27.21:44
 
 vorne 3.8.15:28
   nach vorne 3.9.10:07
+
+Vorschlag, der 4.21.22:24
+
+Vorsicht, die 4.20.09:18
 
 vorstellen 2.11.21:32
   Das kann ich mir vorstellen 2.11.21:21
