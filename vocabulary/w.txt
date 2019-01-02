@@ -199,6 +199,13 @@ Wert /veːɐt/, der: value
   The house is worth 250,000 euros.
 
 wert: worth, worthy
+  sehenswert: worth seeing
+  Das alte Zeug ist nichts mehr wert.
+  That old junk isn't worth anything anymore.
+  Das ist einen Versuch wert.
+  It's worth giving it a go.
+  Deine Meinung ist mir viel wert.
+  I value your opinion.
 
 werten /ˈveːɐtən/: to regard sth as sth/judge sth to be sth, to count
   etw. als Erfolg/als gutes Zeichen werten: to judge sth to be a success/good sign
@@ -295,6 +302,8 @@ womöglich /voˈmøːklɪç/: possibly
 Woran /voˈran/: on what
 
 worden => werden
+
+worum 4.21.06:08
 
 wovon /voˈfɔn/: from what, from which
 
