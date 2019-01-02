@@ -21,11 +21,19 @@ geben 1.14:06:22
   Ich gebe Ihnen 1.14.22:54
   Es gibt 1.22.18:45
 
+Gebiete, die 4.15.29:07
+
+gebrochen => brechen
+
+gedauert => dauern
+
 gefällt
   Es gefällt mir in Deutschland 1.30.03:30
   Es gefällt mir in der Schweiz 2.15.07:20
   Gefällt es ihm 3.16.07:26
   => gefallen
+
+geflogen => fliegen
 
 gefragt 3.12.19:12
 
@@ -57,6 +65,10 @@ gelesen 4.2.06:49
 Geld, das 1.16.04:28
 
 gekauft 2.1.06:26
+
+Geldautomat, der 4.25.25:39
+
+Gelenk, das 4.26.21:19
 
 gemacht 2.1.05:41
 
@@ -105,12 +117,19 @@ gesprochen 2.1.07:42
 
 gestern 1.29.07:01
 
+Gesundheit, die 4.5.05:16
+
+geworden => werden
+
 gewusst 3.20.17:46
   => wissen
 
 gibt
   es gibt 1.22.18:45
   dort gibt 3.22
+
+ging 4.21.06:06
+  worum ging es? 4.21.06:15
 
 Girokonto, das 3.25.13:07
 
@@ -151,6 +170,8 @@ grüßen 3.30.05:07
 Großmutter 4.11.19:13
 
 Großvater 4.11.19:52
+
+grün 4.20.26:05
 
 gut 1.2.07:54
   gute Reise 2.10.24:25
