@@ -2,6 +2,8 @@
 W /veː/ W wie Wilhelm
 ========================================================
 
+Wagen 4.10.11:55
+
 wahr
   nicht wahr? 1.20.17:24
 
@@ -11,20 +13,21 @@ wandern 4.13.21:05
 
 wann 1.6.09:31
 
+war => sein 2.14.17:56
+
 wäre
   es wäre 2.4.18:19
   wie wäre es mit 2.4.18:02
+
+warm 3.11.11:22, 4.19.01:31
+  wärmer 4.19.09:23
+
+warst => sein 4.11
 
 warten 1.21.03:48
 
 warum 1.25.00:18
   Warum nicht? 1.25.05:05
-
-war => sein 2.14.17:56
-
-warst => sein 4.11
-
-warm 3.11.11:22
 
 was
   Was möchten Sie essen/trinken? 1.7.07:20
@@ -38,18 +41,33 @@ Weg, der 2.29.16:46
 
 weg 1.27.11:13
 
-Wagen 4.10.11:55
+wegen 4.17.04:27
+  wegen der Zeitverschiebung 4.17.04:33
+  Wegen meiner Arbeit 4.19.24:39
 
 wegfahren 1.27.11:18
   ihr fahrt weg 4.6.23:49
   
 weggehen 3.21.04:31
 
+wehtun 4.24
+  Mein Fußgelenk tut weh 4.24.11:42
+
+weil 1.25.05:35
+
 Wein, der 1.7.08:50
+
+Weinbaugebiet, das 4.15.22:39
+
+Weinfest, das 4.5.18:09
+
+Weingut, das 4.5.21:20
 
 Weinkarte, die 2.3.18:29
 
 Weinkeller, der 2.7.24:57
+
+Weinschorle, die 4.26.18:38
 
 weiß 1.5.07:59 => wissen
   Ich weiß es 1.5.08:06
@@ -118,6 +136,8 @@ wiederzusehen 4.4
 
 Wien 1.28.00:37
 
+Winter, der 4.12.27:33
+
 wird => werden 2.12.19:50
 
 wird 3.14.14:44
@@ -158,6 +178,8 @@ wollen
 
 Wort, das 1.28.07:41
 
-worüber 3.6.10:02
+worüber 3.6.10:02, 4.19.12:57
 
 wunderbar 1.18.00:08
+
+wunderschön 4.23.05:47
