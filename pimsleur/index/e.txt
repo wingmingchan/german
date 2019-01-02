@@ -20,6 +20,8 @@ eingeladen 3.13.13:21
 
 einige 1.26.07:07
 
+Einkauf 4.22.11:10
+
 einkaufen 4.3.16:30
 
 Einkaufszentrum, das 4.9
@@ -34,9 +36,14 @@ eins
 
 Eis, das
   mit Eis 3.21.14:55
+  ein Eis 4.18.01:46
+
+Eiscreme, die 4.18.01:54
 
 elf 1.12.11:11
   elf Mark 1.12.11:08
+
+elften 4.17.27:20
 
 Eltern 4.11.17:25
 
@@ -45,15 +52,20 @@ Email, das
 
 empfehlen 3.4.13:05
 
+empfohlen => empfehlen
+
 Englisch 1.1.02:22
 
-entfernte 4.11.11:26
+entfernt 4.24.23:16
+  entfernte 4.11.11:26
 
 entschuldigen 1.1.01:07
   Entschuldigen Sie. 1.1.01:48
   entschuldige 1.11.01:36
 
 er /eːɐ/ 1.14, 1.19.04:40
+
+erfahren 4.16.27:38
 
 Erfolg, der 3.15.08:48
 
@@ -64,6 +76,8 @@ erinnern
   Du erinnerst dich 3.6.20:02
   ich erinnere mich 3.6.20:49
 
+erkältet 4.16.02:00
+
 eröffnen 3.25.11:15
 
 erst 3.20.22:48
@@ -72,6 +86,7 @@ erst 3.20.22:48
 erste
   die ersten Demonstrationen 4.7.30:29
   in der ersten Etage 4.12.20:32
+  am ersten Tag 4.24.02:07
 
 Erwachsene 4.9.05:12
 
@@ -88,5 +103,9 @@ etwas 1.5.15:00
   Er kommt etwas später 2.10.03:47
 
 euch 4.3.20:56
+
+euer 4.15.11:38
+
+eure 4.16.21:06
 
 Europa, das 3.16.15:00
