@@ -14,13 +14,23 @@ haben
 
 halb 3.9.13:55
 
+Hälfte, die 4.17.21:08
+
 Hallo 1.16.00:07
 
+Halsschmerzen 4.18.02:39
+
 Hamburg 4.10.23:48
+
+Hand, die 4.26.21:07
+
+Handgelenk, das 4.26.21:31
 
 Handschuhe 4.5.06:05
 
 Handtasche, die 4.5.15:54
+
+Handy, das 4.22.22:06
 
 hätte => haben 4.1.13:22
 
@@ -34,6 +44,7 @@ Haus, das 2.29.11:30
 heiraten 3.15.18:46
 
 heiß 2.12.20:58
+  etwas Heißes 4.18.04:45
 
 heißen 2.2.11:15
 
@@ -56,12 +67,21 @@ hierhin 3.25.22:40
 
 Hilfe, die 4.12.15:47
 
+hinfahren 4.3.27:46
+
 Hinfahrt, die 4.9.06:30
   Hin- und Rückfahrt? 4.9.05:42
+
+hinfallen
+  hingefallen 4.26.21:49
 
 hinten 3.8.12:15
 
 hinterlassen 3.12.17:56
+
+Hitze, die 4.25.02:09
+
+Hitzewelle, die 4.26.11:20
 
 Hochzeit, die 3.15.17:03
 
