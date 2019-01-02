@@ -13,11 +13,15 @@ Salzburg 1.26.20:15
 
 Samstag 2.9.10:58
 
+satt 4.16.14:40
+
 schade 1.28.06:59
 
 schicken 4.1.17:36
 
 Schiff, das 4.11.20:21
+
+Schlachtensee 4.25
 
 Schlange, die 4.8.17:41
   in der Schlange stehen 4.8.18:00
@@ -27,6 +31,8 @@ schlecht 1.29.00:24
 
 schließen
   schließt 3.9.15:59
+
+schlimm 4.17.02:08
 
 Schloss, das 3.9.11:59
   zum Schloss 3.9.12:08
@@ -45,6 +51,8 @@ Schnitzel, das 3.4.20:52
 Schokolade, die 2.13.22:19
 
 Schokoladenkuchen, der 2.11.12:27
+
+Schorle, die 4.26.18:42
 
 schon 1.20.11:21
   Schon gut! 1.4.18:40
@@ -83,10 +91,27 @@ schwer 4.10.28:04
 
 Schwester 3.2.15:38
 
+Schwiegereltern 4.18.06:05
+
+Schwiegermutter, die 4.16.07:07
+
+Schwiegervater, der 4.16.10:19
+
+schwimmen 4.25
+
+schwül 4.24.19:13
+
 sechs
   Um sechs Uhr 1.11.05:44
 
 sechzehn 1.13.12:25
+
+See, der 4.25.06:22
+
+sehen 2.4
+  gesehen 2.1.09:10
+
+sehenswert 4.20
 
 sehr 1.2.08:04
 
@@ -100,6 +125,8 @@ seit 1.28.10:48
   seit letztem Jahr
   seit letztem Monat 3.8.10:47
   seit der Schule 4.2.29:40
+
+Sendung, die 4.19.14:50
 
 September 3.17.02:56
 
@@ -117,6 +144,8 @@ Sie 1.1.00:49
 
 sieben
   Oder um sieben Uhr 1.11.06:20
+
+siebten 4.17.17:04
 
 siebzehn 1.14.08:09
 
@@ -145,6 +174,8 @@ sollen
 Sommer, der 2.30.18:31
 
 Sonnabend 2.9.11:30
+
+sonnig 4.16.16:55
 
 Sonntag 2.27.12:11
 
@@ -180,8 +211,11 @@ sprechen 1.4.03:55
   Sie sprechen gut 1.4.04:26
   Haben Sie Deutsch gesprochen? 1.30.10:05
 
-Staaten
+Staat, der
   in den Staaten 4.1.01:55
+  aus welchem Staat 4.23.18:35
+
+Staatsweingut, das 4.15.28:14
 
 Stadt, die, Städte 2.1.16:34
   in den Städten 3.19.15:09
@@ -202,10 +236,15 @@ stimmen
 
 Stock, der 4.12.14:38
 
+stolpern 4.25
+  ich bin gestolpert 4.25.15:31
+
 Straße 1.4.08:44
   die Straße 1.4.08:44
 
 Strickjacke, die 4.7.19:57
+
+Stück, das 4.16.08:20
 
 studieren 3.3.09:54
 
