@@ -26,6 +26,7 @@ achtzehn 1.14.09:01
 
 Adler, der 
   Zum Adler 3.8.07:55
+  der Golden Adler 4.24
 
 Adresse, die
   die Adresse ist 2.18.03:56
@@ -46,6 +47,8 @@ Alpen
   Zu Den Alpen 2.30.04:19
 
 als 2.1.27:20
+  Eine Stelle als Lehrer 3.23.12:55
+  Als ich in Hamburg war 4.18.14:16
 
 also
   also dann 1.11.07:31, 1.11.13:43
@@ -53,6 +56,7 @@ also
 
 alt 2.15.09:26
   wie alt 2.15.09:23
+  älter 4.17.11:35
 
 Altstadt, die 4.6.19:25
 
@@ -71,6 +75,11 @@ Amerikanerin 1.3.04:36
 amerikanische 1.14.00:04
 
 Ampel, die 4.9.02:48
+
+amüsieren
+  wir haben uns sehr amüsiert 4.18.18:07
+
+andere 3.13.23:30
 
 ändern 3.26.07:50
 
@@ -91,7 +100,11 @@ Anrufe 4.4.17:10
 anrufen 3.11.20:30
   ich rufe an 3.13:03:39
 
+Apfelschorle, die 4.26.18:59
+
 Apotheke, die 2.18.25:06
+
+Apotheker, der 4.25.26.45
 
 Appetit, der
   Guten Appetit! 4.3.02:30
@@ -107,6 +120,8 @@ Artikel, der 4.2.07:32
 
 Arzt 2.18.21:32
 
+Aspirin, das 4.20.14:31
+
 auch 1.6.08.14
   Ich auch 1.7.12:02
   Sie auch 1.8.21:48
@@ -121,6 +136,8 @@ auf 1.2.11:02
   
 aufgewachsen 3.1.16:49
 
+Aufnahme, die 4.26.08:17
+
 Aufzug, der 4.12.16:22
 
 aus 2.4.09:44
@@ -133,6 +150,15 @@ ausgezeichnet 4.7.12:57
 Ausland, das 3.26:05:43
 
 ausgewachsen 4.12.11:41
+
+ausruhen 4.18.08:11
+
+Aussehen /ˈauszeːən/, das, Aussehens: appearance
+  Gutes Aussehen ist mir nicht so wichtig.
+  Looking good isn't so important for me.
+
+aussehen
+  Du siehst müde aus 4.16.03:31
 
 aussteigen 4.12
   Steigen Sie in Dresden aus? 4.12.00:10
