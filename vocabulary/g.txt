@@ -72,7 +72,12 @@ Gebirge /ɡəˈbɪrɡə/, das, Gebirge: mountains
 
 Gebirgskette, die: mountain range
 
+Gebot /ɡəˈboːt/, das, Gobote: commandment, imperative
+  die Zehn Gebote: the Ten Commandments
+
 geboten => bieten
+
+gebracht => bringen
 
 gebrannt => brennen
 
@@ -367,7 +372,7 @@ gewesen => sein
   A heavy thunderstorm was raging outside.
 
 gewöhnlich /ɡəˈvøːnlɪç/: normal
-  ein ganz gewöhnlicher Tag: an absolutely ordinary day 
+  ein ganz gewöhnlicher Tag: an absolutely ordinary day
 
 geworden => werden
 
