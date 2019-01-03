@@ -102,6 +102,9 @@ Beamte /bəˈ|amtə/, Beamten, Beamtin, Beamtinnen: official, civil servant
 beantragen /bəˈ|antraːɡən/: to apply for
   ein Visum beantragen: to apply for a visa
 
+beantworten /bəˈ|antvɔrtən/: to answer
+  eine Frage richtig beantworten: to answer a question correctly
+
 Beben /ˈbeːbən/, das: quake
   ein Beben der Stärke 8 auf der Richter-Skala
   an earthquake with a magnitude of 8 on the Richter scale
@@ -244,9 +247,10 @@ beherzigen /bəˈhɛrʦɪɡən/: to take to heart, to heed
   Er beherzigte ihre Worte und fuhr vorsichtig.
   He took her words to heart and drove carefully.
 
-Bein /bain/, das: leg
+Bein /bain/, das, Beine: leg
   Spinnen haben acht Beine.
   Spiders have eight legs.
+  sich die Beine vertreten: to stretch your legs
 
 Beispiel /ˈbaiʃpiːl/, das: example
   zum Beispiel, z. B., Beisp.: for example
@@ -297,6 +301,12 @@ belieben /bəˈliːbən/: to please, to like
 beliebt /bəˈliːpt/: popular
   eine beliebte Fernsehserie: a popular TV series
 
+bellen /ˈbɛlən/: to bark
+
+bemerken /bəˈmɛrkən/: to notice
+  Der Unterschied war kaum zu bemerken.
+  The difference was hardly noticeable.
+
 bemessen: limited
 
 bemerken /bəˈmɛrkən/: to notice
@@ -337,6 +347,7 @@ Berechnung /bəˈrɛçnʊŋ/, die: calculation, charging
 bereiten /bəˈraitən/: to cause, to give
   Ich wollte dir damit eine kleine Freude bereiten.
   I wanted to give you a little treat.
+  sie bereiteten ihm Unbehagen: they made him uneasy
 
 bereits /bəˈraits/: already, as early as
   Es schneite bereits im Oktober.
@@ -435,6 +446,10 @@ bestimmt /bəˈʃtɪmt/: certain, firm, decisive, certainly
   She was polite, but her tone was very firm.
   Er ist bestimmt schon längst dort.
   He's no doubt been there for ages.
+
+bestreiten /bəˈʃtraitən/: to deny, to dispute
+  Er bestreitet, die Tat begangen zu haben.
+  He denies having committed the crime.
 
 bestücken /bəˈʃtʏkən/: to equip, to load
   einen Füller mit Patronen bestücken: to equip a fountain pen with cartridges
@@ -734,7 +749,10 @@ Briefträger /ˈbriːftrɛːɡɐ/: mail carrier
 
 Broschüre /brɔˈʃyːrə/, die: brochure, pamphlet, leaflet
 
-Brot /broːt/, das: 
+Brot /broːt/, das: bread
+  ein Laib Brot: a loaf of bread
+
+Brötchen /ˈbrøːtçən/, das: bread, dinner roll
 
 Brotzeit /ˈbroːtʦait/, die: snack
 
@@ -743,6 +761,10 @@ Bruch /brʊx/, der: break, breach
   after the dam was breached 
 
 Brücke: bridge
+
+Brust /brʊst/, die, Brüste: chest, breast
+  Brustschwimmen: breaststoke
+  Brustkrebs: breast cancer
 
 Brut, die: brood, breeding
 
@@ -756,11 +778,18 @@ Bub /buːp/, der, Buben: boy
 Büblein, das: little boy
 
 Buch /buːx/, das, Bücher /ˈbyːçɐ/: book
-  
+
 buchen: to book
    eine Reise online /ˈɔnlain/ buchen: to book a trip online
 
 Buchhalter /ˈbuːxhaltɐ/: bookkeeper, accountant
+
+Büchse /ˈbʏksə/, die, Büchsen: can
+  eine Büchse Erbsen: a can of peas
+
+buchstabieren /buːxʃtaˈbiːrən/: to spell
+  Mein Name ist Mayr – ich buchstabiere: Martha, Anton, Ypsilon, Richard.
+  My name is Mayr – I'll spell it: Mike, Alpha, Yankee, Romeo.
 
 bügeln /ˈbyːɡəln/: to iron
 
