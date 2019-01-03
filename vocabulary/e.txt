@@ -170,6 +170,8 @@ einlassen /ˈainlasən/: to let in, to run, to draw
   sich auf jdn/etw. einlassen: to get involved with sb/in sth
 
 einliefern /ˈainliːfɐn/: to take
+  Er wurde nach dem Unfall in die Notaufnahme eingeliefert.
+  After the accident he was taken to ER.
 
 einlud => einladen
 
@@ -415,6 +417,10 @@ erfüllen /ɛɐˈfʏlən/: to be fulfilled, to come true
   Leider haben sich meine Träume nicht erfüllt.
   Unfortunately my dreams weren't fulfilled.
 
+ergänzen /ɛɐˈɡɛnʦən/: to add, to complete
+  Bitte ergänzen Sie die fehlenden Wörter.
+  Please add the missing words.
+
 Ergebnis /ɛɐˈɡeːpnɪs/, das: result, conclusion
   Die Verhandlungen blieben ohne Ergebnis.
   The negotiations did not produce any concrete results.
@@ -510,6 +516,10 @@ errechnen /ɛɐˈrɛçnən/: to calculate
   Die errechneten Werte/Entfernungen stimmen mit meiner Schätzung überein.
   The values/distances that have been calculated tally with my estimate.
 
+erregen /ɛɐˈreːɡən/: to annoy, to infuriate, to upset
+  Der Drohbrief hat sie sehr erregt.
+  The threatening letter made her very upset.
+
 erreichbar /ɛɐˈraiçbaːɐ/: available, accessible, reachable
 
 erreichen /ɛɐˈraiçən/: to reach, to get hold of, to arrive at
@@ -593,6 +603,8 @@ es /ɛs/: it, there
   Es regnet.
   It's raining.
 
+Esel /ˈeːzəl/, der, Esel: donkey
+
 Eskalation /ɛskalaˈʦjoːn/, die: escalation
   Die Weltgemeinschaft fürchtet eine Eskalation der Gewalt im Nahen Osten.
   The global community fears an escalation of violence in the Middle East.
@@ -614,6 +626,8 @@ etwa /ˈɛtva/: used to express surprise, by any chance
   You didn't forget to buy a ticket, did you?
 
 etwas /ˈɛtvas/: something, a little, somewhat
+
+Eule /ˈɔylə/, die, Eulen: owl
 
 ewig /ˈeːvɪç/: eternal
   Sie schworen sich ewige Treue.
