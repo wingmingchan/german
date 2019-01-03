@@ -13,6 +13,10 @@ Mädel /ˈmɛːdəl/, das: girl
   In der Klasse sind 15 Mädel und 12 Buben.
   There are 15 girls and 12 boys in the class. 
 
+Magen /ˈmaːɡən/, der: stomach
+  Diese Tabletten solltest du nicht auf nüchternen Magen nehmen.
+  You shouldn't take these tablets on an empty stomach.
+
 mager /ˈmaːɡɐ/: thin, skinny, poor
   Sie sieht furchtbar mager aus.
   She looks terribly thin.
@@ -254,7 +258,7 @@ Müll /mʏl/, der: garbage , trash
   etw. auf/in den Müll werfen: to throw sth in the trash
   Plastikmüll: plastic waste
 
-Mund /mʊnt/, der: mouth
+Mund /mʊnt/, der, Münder /ˈmʏndɐ/: mouth
 
 munter /ˈmʊntɐ/: awake, lively, cheerful, jolly
   Ich bin schon seit sechs Uhr munter.
