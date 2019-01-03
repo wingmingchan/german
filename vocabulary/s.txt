@@ -233,6 +233,11 @@ schmutzig /ˈʃmʊʦɪç/: dirty
 
 Schnabel /ˈʃnaːbəl/, der: beak, bill
 
+schnappen /ˈʃnapən/: to snap, to grab
+
+Schnecke /ˈʃnɛkə/, die, Schnecken
+  jdn zur Schnecke machen: to bawl sb out
+
 Schnee /ˈʃneː/, der: snow
   Wir mussten uns einen Weg durch den tiefen /tiːf/ Schnee bahnen.
   We had to make a path through the deep snow. 
@@ -264,10 +269,12 @@ Schokoladenkuchen, der: chocolate cake
 
 Schorle /ˈʃɔrlə/, die: wine mixed with mineral water or lemonade, fruit juice mixed with mineral water
 
+schossen => schießen
+
 schreiben /ˈʃraibən/: to write
   Er schreibt Reportagen /repɔrˈtaːʒən/.
 
-schreien /ˈʃraiən/: to scream
+schreien /ˈʃraiən/: to scream, to shout
   Sie schrie vor Schmerzen.
   She screamed with pain.
 
@@ -397,11 +404,11 @@ sehr /zeːɐ/: very
 
 sei => sein
 
-Seife /ˈzaifə/, die: soap
-
 seicht: shallow
   Der Fluss ist seicht genug, um hindurchzuwaten.
   The river is shallow enough to wade through.
+
+Seife /ˈzaifə/, die: soap
 
 Seilbahn /ˈzailbaːn/, die: cableway, aerial tramway
   mit der Seilbahn den Berg hinauffahren
@@ -420,7 +427,13 @@ sein /zain/: to be
 
 seit /zait/: since
   seit ein paar Tagen
-  
+
+Seite /ˈzaitə/, die, Seiten: side, page
+  Alle Seiten eines Würfels sind gleich groß.
+  Each side of a dice is the same size.
+  Die Seite kann nicht angezeigt werden.
+  This page cannot be displayed.
+
 Sekunde /zeˈkʊndə/, die: second
 
 selbst /zɛlpst/: in person, self
@@ -578,6 +591,10 @@ Spielsachen /ˈʃpiːlzaxən/, pl: toys
 
 Spinne, die: spider
   Spinnennetz: spiderweb
+
+Spital /ʃpiˈtaːl/, das, Spitäler /ʃpiˈtɛːlɐ/: hospital
+  Der Verletzte wurde ins Spital eingeliefert.
+  The injured man was taken to the hospital.
 
 Spitzname /ˈʃpɪʦnaːmə/, der: nickname
 
