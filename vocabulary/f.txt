@@ -38,7 +38,8 @@ Fall /fal/, der, Fälle /ˈfɛlə/: case
   etw. ist der Fall: sth is the case
 
 Falle /ˈfalə/, die, Fallen: trap
-  eine Falle aufstellen: to set a trap 
+  eine Falle aufstellen: to set a trap
+  jdm eine Falle stellen: to set a trap for sb
 
 fallen /ˈfalən/: to fall
   falle, fällst, fällt, ihr fallt, bin gefallen
@@ -224,6 +225,8 @@ Finnland /ˈfɪnlant/
 
 Fisch /fɪʃ/, der: fish
 
+fischen /ˈfɪʃən/: to fish
+
 flach /flax/: flat, shallow
 
 Flagge /ˈflaɡə/, die: flag
@@ -360,6 +363,10 @@ frau /frau/: you, one
 
 *Fräulein /ˈfrɔylain/, das: miss, waitress
   Fräulein Müller: Miss Müller
+
+frech /frɛç/: fresh, cheeky, impudent
+  Werd bloß nicht frech!
+  Now don't get fresh with me!
 
 frei /frai/: free
 
