@@ -20,6 +20,12 @@ Waffe /ˈvafə/, die: weapon
 
 Wagen /ˈvaːɡən/, der: cart, car
 
+wagen: to dare, to venture, to risk
+  Sie wagte den Sprung in die Selbstständigkeit.
+  She dared to make the leap to independence.
+  Ich würde jederzeit mein Leben für dich wagen.
+  I'd risk my life for you anytime.
+
 Wahlkampf /ˈvaːlkampf/, der: election campaign
 
 Wahn /vaːn/, der: delusion, mania
@@ -72,6 +78,8 @@ ward => werden
 Ware /ˈvaːrə/, die, Waren: product, article, goods
   Sie hatte Waren im Wert von hundert Euro gestohlen.
   She had stolen goods worth a hundred euros. 
+
+warf => werfen
 
 warm /varm/: warm
 
@@ -324,6 +332,9 @@ Wurf /vʊrf/, der, Würfe: throw, litter, success
   All the puppies are from the same litter.
   Mit dem Film ist ihm ein großer Wurf gelungen.
   This film is a great success for him.
+
+Würfel /ˈvʏrfəl/, der: dice, die
+  Würfelspiel: dice game
 
 Wurfgeschoss, das: missile, projectile
 
