@@ -54,6 +54,9 @@ lähmen /ˈlɛːmən/: to paralyze
   Er ist durch einen Unfall gelähmt.
   He was paralyzed in an accident.
 
+Laib /laip/, der: loaf, wheel
+  ein Laib Vollkornbrot: a loaf of whole wheat bread
+
 Lamm /lam/, das, Lämmer /ˈlɛmɐ/: lamb
   Die Lämmer blöken.
   The lambs are bleating.
@@ -80,6 +83,10 @@ Langlebigkeit, die: longevity
 langsam /ˈlaŋzaːm/: slow
    Das Auto wurde immer langsamer und blieb schließlich stehen.
    The car got slower and slower and finally came to a halt. 
+
+längst /lɛŋst/: for a long time, long since
+  Ich bin schon längst fertig!
+  I finished ages ago!
 
 Lapsus /ˈlapsʊs/, der: mistake
 
@@ -118,6 +125,8 @@ Läufer /ˈlɔyfɐ/: runner
 
 läuft => laufen
   Nun läuft die Hochzeit des Jahres
+
+Laune /ˈlaunə/, die: mood
 
 Laut /laut/, der: sound
   keinen Laut von sich geben: not to make a sound 
@@ -276,7 +285,7 @@ Lücke /ˈlʏkə/, die: gap, space
   durch eine Lücke zwischen den Büschen schlüpfen
   to slip through a gap between the bushes
 
-Luft /lʊft/, die: air
+Luft /lʊft/, die, Lüfte /ˈlʏftə/: air
 
 Luftballon /ˈlʊftbalɔŋ/, die: balloon
 
@@ -286,6 +295,9 @@ Lüge /ˈlyːɡə/, die: lie
 lügen /ˈlyːɡən/: to lie
   Lüg doch nicht so frech!
   Stop telling such bare-faced lies!
+
+Lulatsch /ˈluːla(ː)tʃ/, der
+  langer Lulatsch: beanpole
 
 lustig: funny
   sich über jdn/etw. lustig machen: to make fun of sb/sth
