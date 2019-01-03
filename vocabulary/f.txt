@@ -22,6 +22,8 @@ fahren /ˈfaːrən/: to drive, to go
 
 Fahrkarte, die: ticket
 
+Fahrrad /ˈfaːɐraːt/, das, Fahrräder /ˈfaːɐrɛːdɐ/: bicycle
+
 Faktor /ˈfaktoːɐ/, der: factor
 
 Fall /fal/, der, Fälle /ˈfɛlə/: case
@@ -48,11 +50,19 @@ fällen /ˈfɛlən/: to fell
   Für den Bau des Flughafens wurden viele Bäume gefällt.
   A large number of trees were cut down for the construction of the airport. 
 
+fällig /ˈfɛlɪç/: due
+  In wenigen Tagen ist die nächste Rate fällig.
+  The next installment is due in a few days.
+  Die Autowäsche war schon lange fällig.
+  The carwash was long overdue.
+
+
 falls: in case, if
   Falls du keine Zeit hast, können wir den Termin auch verschieben.
   If you don't have time we can postpone the appointment.
 
 falsch /falʃ/: wrong, false, faked
+  <=> richtig
 
 Familienmitglied, das: family member
 
@@ -78,6 +88,12 @@ Fass, das: barrel
 fassbar /ˈfasbaːɐ/: comprehensible
   Es ist kaum/schwer fassbar, dass sie das getan haben soll.
   It's hard to believe that she could have done that.
+
+fassen /ˈfasən/: to grasp, to grab, to take hold of, to touch
+  jdn am Arm/an der Hand fassen
+  to grab sb by the arm/take sb by the hand
+  Fass nicht an den heißen Ofen!
+  Don't touch the hot oven!
 
 fast /fast/: almost
   Das Bild ist fast fertig.
@@ -227,7 +243,7 @@ fliehen /ˈfliːən/: to flee
 
 fließen /ˈfliːsən/: to flow
 
-flogen  => fliegen
+flog, flogen  => fliegen
 
 fluchen /ˈfluːxən/: to swear, to curse
   Du sollst nicht dauernd fluchen!
