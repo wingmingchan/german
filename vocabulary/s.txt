@@ -86,7 +86,7 @@ schaffen /ˈʃafən/: to do, to manage, to finish, to take, to put, to work, to 
 
 Schal /ʃaːl/, der, Schals: scarf
   Nimm einen Schal um bei der Kälte!
-  Put a scarf on in this cold. 
+  Put a scarf on in this cold.
 
 schalten: to switch, to turn, to shift gear, to connect
   den Fernseher auf Standby schalten: to turn the TV to standby
@@ -167,6 +167,8 @@ Schild /ʃɪlt/, das, Schilder: sign
 schildern /ˈʃɪldɐn/: to describe
   jdm die Situation schildern: to describe the situation to sb
 
+schippen: to shovel
+
 schlafen /ˈʃlaːfən/: to sleep
 
 schlagen /ˈʃlaːɡən/: to hit, to strike, to beat
@@ -219,6 +221,9 @@ schmecken: to taste, to like
 Schmerz /ʃmɛrʦ/, der: pain
   ein stechender Schmerz im Knie: a stabbing pain in your knee 
 
+Schmied /ʃmiːt/: smith
+  Hufschmied: blacksmith
+
 schmieden /ˈʃmiːdən/: to forge, to hatch
   Schmiedeeisen: wrought iron
   Sie schmieden schon Urlaubspläne.
@@ -245,6 +250,8 @@ Schnee /ˈʃneː/, der: snow
 Schneeball /ˈʃneːbal/, der: snowball
 
 Schneefeld, das: snow field
+
+Schneeschipper: snow shoveler
 
 schneiden /ˈʃnaidən/: to cut, to chop, to slice
   => Schneider
@@ -321,6 +328,10 @@ Schuss /ʃʊs/, Schüsse, der: shot
 
 schuf => schaffen
 
+schütten /ˈʃʏtən/: to pour, to tip
+  einen Eimer Wasser ins Feuer schütten
+  to pour a pail of water on the fire
+
 Schutz /ʃʊʦ/, der: protection , shelter
 
 schützen /ˈʃʏʦən/: to protect
@@ -332,6 +343,9 @@ schwach /ʃvax/: weak, poor
 Schwäche /ˈʃvɛçə/, die: weakness, failing
   Sie bekam einen Schwächeanfall.
   She suddenly felt faint.
+
+Schwalbe /ˈʃvalbə/, die: swallow
+  Schwalbennest: swallow's nest
 
 schwanger: pregnant
 
@@ -481,6 +495,8 @@ sie: she, it, they
 siegeln /ˈziːɡəln/: to seal
 
 sieht => sehen
+
+singen /ˈzɪŋən/: to sing
 
 Sinn /zɪn/, der: meaning, mind
   Seine Worte gingen mir nicht aus dem Sinn.
@@ -651,8 +667,10 @@ Stand /ʃtant/, der: stall, state, level
 stand => stehen
 
 ständig /ˈʃtɛndɪç/: permanent, constantly
-   Unterbrich mich nicht ständig!
-   Quit interrupting me all the time! 
+  ein ständiges Mitglied im UN-Sicherheitsrat
+  a permanent member of the UN Security Council
+  Unterbrich mich nicht ständig!
+  Quit interrupting me all the time! 
 
 stark /ʃtark/, stärker: strong
 
@@ -735,6 +753,10 @@ Stollen /ˈʃtɔlən/, der, Stollen: tunnel
 stolz /ʃtɔlʦ/: proud
   Sie ist stolze Besitzerin einer Jacht.
   She is the proud owner of a yacht.
+
+stopfen /ˈʃtɔpfən/: to stuff sth into sth
+  Er stopfte das Geld hastig in seine Taschen.
+  He stuffed the money hastily into his pockets.
 
 stören /ˈʃtøːrən/: to disturb, to interfere, to interrupt, to intrude, to jam
   Stört es dich, wenn ich rauche?
