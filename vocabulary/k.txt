@@ -237,9 +237,11 @@ kontrollieren /kɔntrɔˈliːrən/: to control
 
 Konsument /kɔnzʊˈmɛnt/, der: consumer
 
+konzentrieren /kɔnʦɛnˈtriːrən/: to concentrate
+
 Konzern /kɔnˈtsɛrn/, der: group of companies
 
-Kopf /kɔpf/, der: head
+Kopf /kɔpf/, der, Köpfe /ˈkœpfə/: head
   Er ist einen Kopf größer als ich.
   He's a head taller than me.
 
@@ -247,7 +249,8 @@ Kopie /koˈpiː/, die: copy
 
 Korn /kɔrn/, das: seed, grain, corn
 
-Korb, Körbe, der: basket
+Korb /kɔrp/, der, Körbe: basket
+  ein Korb (voll) Äpfel: a basket (full) of apples
 
 Körper /ˈkœrpɐ/, der: body, torso
   einen muskulösen Körper haben: to have a muscular body
@@ -257,6 +260,10 @@ Körperhaltung, die: posture
 Kost /kɔst/, die: food
 
 Kostprobe , die: taste, sample
+
+krabbeln /ˈkrabəln/: to crawl
+  Ameisen krabbelten über die Terrasse.
+  Ants were crawling across the terrace.
 
 krachen /ˈkraxən/: to crash, to bang
   An der Kreuzung kracht es öfter.
@@ -268,12 +275,22 @@ kräftig /ˈkrɛftiç/: powerful, strong, healthy
   Er gab der Schaukel einen kräftigen Schubs.
   He gave the swing a powerful push.
 
+Kragen /ˈkraːɡən/, der, Krägen: collar
+  ein Hemd mit zu engem Kragen: a shirt with a tight collar
+
+
 krähen /ˈkrɛːən/: to crow
   wenn der Hahn kräht: when the rooster crows
+
+Krapfen /ˈkrapfən/, der: jelly doughnut
 
 Krawatte /kraˈvatə/, die: tie
   Er kam in Anzug und Krawatte.
   He came in a suit and tie.
+
+Krebs /kreːps/, der, Krebse: cancer, crab
+  Brustkrebs: breast cancer
+  Flusskrebs: crayfish
 
 *Kreide /ˈkraidə/, die: chalk
   Kreidefelsen: chalk cliffs
@@ -293,6 +310,9 @@ Krieg /kriːk/, der: war
 
 Kriegsfall, der: case of war
   im Kriegsfall
+
+Kringel /ˈkrɪŋəl/, der, Kringel: ring
+  Zuckerkringel backen: to bake ring-shaped sugar cookies
 
 Kripo /ˈkriːpo/, die: crime detection agency
 
