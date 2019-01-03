@@ -47,6 +47,10 @@ Taste /ˈtastə/, die, Tasten: key, button
   Ein Klavier hat schwarze und weiße Tasten.
   A piano has black and white keys.
 
+Tat /taːt/, die, Taten: deed, act, crime, offense
+  Wer wird der Tat verdächtigt?
+  Who is suspected of the crime?
+
 tat /taːt/ => tun
 
 Täter /ˈtɛːtɐ/, Täterin: culprit
@@ -261,6 +265,10 @@ tun /tuːn/: to do
 
 Tür /tyːɐ/, Türen, die: door
   Haustür: front door
+
+tuscheln /ˈtʊʃəln/: to whisper
+  Sie hörte die Leute hinter ihrem Rücken über sie tuscheln.
+  She could hear people whispering about her behind her back.
 
 typisch /ˈtyːpɪʃ/: typical
   die typischen Fehler von Anfängern: typical beginners' mistakes
