@@ -42,6 +42,8 @@ verbrannt => verbrennen
 
 verbessern /fɛɐˈbɛsɐn/: to improve, to correct, to amend
 
+verbrachte => verbringen
+
 verbrennen /fɛɐˈbrɛnən/: to burn
 
 Verbraucher /fɛɐˈbrauxɐ/, Verbraucherin: consumer
@@ -235,6 +237,8 @@ verschicken /fɛɐˈʃɪkən/: to send (off/out)
   Die Pakete wurden bereits gestern verschickt.
   The parcels were already sent off/dispatched yesterday.
 
+verschieden /fɛɐˈʃiːdən/: different
+
 verschmäht: jilted lover
 
 verschwinden /fɛɐˈʃvɪndən/: to disappear, to vanish
@@ -286,6 +290,9 @@ Vertraute: close friend, confidant/confidante
 
 vertreiben: dispel, evict, expel
 
+vertreten
+  sich die Beine vertreten: to stretch your legs
+
 vertuschen /fɛɐˈtʊʃən/: to cover up
   Er versuchte seinen Fehler zu vertuschen.
   He tried to cover up his mistake.
@@ -326,6 +333,7 @@ verzeihen /fɛɐˈʦaiən/: to forgive, to condone
   Verzeihen Sie bitte, ist dieser Platz noch frei?
 
 Verzeihung /fɛɐˈʦaiʊŋ/
+  Verzeihung!
   Oh, Verzeihung, das wollte ich nicht.
   Oh sorry, I didn't mean it.
   Verzeihung, dürfte ich mal bitte vorbei?
@@ -344,6 +352,10 @@ verzögern /fɛɐˈʦøːɡɐn/: to delay
 
 Verzögerung: deferral, delay, lag, retardation
 
+vielmals /ˈfiːlmaːls/: very much
+  Ich bitte vielmals um Verzeihung!
+  I am so very sorry!
+
 vielmehr /ˈfiːlmeːɐ/: rather
 
 vierte: fourth
@@ -359,11 +371,16 @@ Vogel /ˈfoːɡəl/ Vögel /ˈføːɡəl/, der: bird
 
 Vogelperspektive /ˈfoːɡəlpɛrspɛktiːvə/, die: bird's-eye view
 
+Volk /fɔlk/, das, Völker /ˈfœlkɐ/: people, nation
+
 völlig /ˈfœlɪç/: completely, totally
   Das ist völlig unmöglich.
   That's completely impossible.
   Völlige Freiheit kann es nicht geben.
   Total freedom can't exist.
+
+Vollkorn- /ˈfɔlkɔrn/: whole-wheat
+  Vollkornbrot: whole-wheat bread 
 
 voraus /foˈraus/: ahead, in front
   Andere Länder sind uns in Sachen Bildungspolitik weit voraus.
@@ -382,6 +399,10 @@ vorbei /foːɐˈbai/: past, by
   When the tractor is past, we'll cross the road.
 
 vorbeifliegen: to fly past
+
+vorbeigehen /foːɐˈbaiɡeːən/: to go past, to pass
+  Sie ging an uns vorbei, ohne zu grüßen.
+  She went past us without saying hello.
 
 vorbereiten /ˈfoːɐbəraitən/: to prepare, to get ready
   Ich habe einen kleinen Imbiss für Sie vorbereitet.
