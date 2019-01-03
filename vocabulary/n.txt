@@ -98,6 +98,8 @@ Nerv /nɛrf/, der, Nerven: nerve
   Die Schmerzen kommen von einem eingeklemmten Nerv.
   The pain is caused by a trapped nerve.
 
+Nessel /ˈnɛsəl/, die, Nesseln: nettle 荨麻
+
 Netzwerk /ˈnɛʦvɛrk/, das
 
 neugierig /ˈnɔyɡiːrɪç/: curious
@@ -133,6 +135,8 @@ normal /nɔrˈmaːl/: normal
 
 Norwegen /ˈnɔrveːgən/
 
+Not /noːt/, die, Nöte: need, poverty, difficulty, necessity, distress
+
 nötig /ˈnøːtɪç/: necessary
   Die Veränderungen sind bitter nötig.
   The changes are badly needed.
@@ -144,6 +148,10 @@ nötigen /ˈnøːtɪɡən/: to urge, to force, to coerce
 notwendig /ˈnoːtvɛndɪç/: necessary
   => nötig
   dringend notwendige Hilfe: urgently needed help
+
+nüchtern /ˈnʏçtɐn/: sober
+  nicht mehr ganz nüchtern sein: to be a little bit tipsy
+  auf nüchternen Magen: on an empty stomach
 
 Null /nʊl/, die: zero
   eine Zahl mit sechs Nullen
