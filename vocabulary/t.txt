@@ -158,6 +158,10 @@ Ton /toːn/, der, Töne /ˈtøːnə/: sound, tone, clay
   Das Kätzchen gab hohe Töne /ˈtøːnə/ von sich.
   The kitten made high-pitched noises.
 
+Topf /tɔpf/, der, Töpfe: pot, (sauce)pan
+  die Nudeln aus dem Topf schütten
+  to pour the noodles out of the pan
+
 Torte /ˈtɔrtə/, die: gateau, (fruit) flan
   Das Brautpaar schnitt die Hochzeitstorte an.
   The bride and groom cut into the wedding cake.
@@ -258,6 +262,8 @@ trug => tragen
 trügen /ˈtryːɡən/: to deceive
   Meine Hoffnungen hatten mich nicht getrogen.
   My hopes didn't deceive me.
+
+Tuch /tuːx/, das, Tücher: cloth
 
 tun /tuːn/: to do
   Hast du nichts Besseres zu tun?
