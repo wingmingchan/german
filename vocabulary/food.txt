@@ -93,7 +93,7 @@ Eis /ais/: die
   
 Eiscreme /ˈaiskreːm/, die: ice cream
 
-Erbse /ˈɛrpsə/, die: pea
+Erbse /ˈɛrpsə/, die, Erbsen: pea
 
 Erdbeere /ˈeːɐtbeːrə/, die: strawberry
 
@@ -141,7 +141,11 @@ Halbe /ˈhalbə/, die: half liter (of beer)
 halber, halbe Liter, der
   ein halber Liter Bier
 
+Hähnchenbrust: chicken breast
+
 Hauptgericht, das: main course  
+
+Helle, das: light beer
 
 Himbeere, die: raspberry
 
@@ -230,6 +234,8 @@ Nudel, Nudeln, die: noodles
 Ober, der
 
 Obst /oːpst/, das
+
+Ofen /ˈoːfən/, der: oven
 
 Öl, Öle, das
 
