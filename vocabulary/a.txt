@@ -333,6 +333,8 @@ am
   I'm tallest!
   => in + dem
 
+Ameise /ˈaːmaizə/, die, Ameisen: ant
+
 Amerikaner, Amerikanerin, Amerikanerinnen: American
 
 amerikanisch /ameriˈkaːnɪʃ/: American
@@ -382,6 +384,10 @@ Angabe /ˈanɡaːbə/, die: information, statement
 
 Angehörige /ˈanɡəhøːrɪɡə/: relatives
   => Verwandte, Familienmitglied
+
+Angeklagte /ˈanɡəklaːktə/: defendant
+  Der Angeklagte bestritt die Tatvorwürfe.
+  The defendant disputed the alleged crimes.
 
 angeln /ˈaŋəln/: to fish
 
@@ -497,10 +503,13 @@ Antwort /ˈantvɔrt/, die: answer, reply, response
   die richtige Antwort geben
   to give the right answer
 
-Anwalt /ˈanvalt/: lawyer
-
 antworten /ˈantvɔrtən/: to answer
   mit Ja/Nein antworten: to answer yes/no
+
+Anwalt /ˈanvalt/: lawyer
+
+anwurzeln
+  wie angewurzelt dastehen/stehen bleiben: to stand rooted to the spot
 
 Anzahl /ˈanʦaːl/, die: number
   Eine gewisse Anzahl von Fehlern kann toleriert werden.
@@ -600,6 +609,8 @@ auffällig /ˈauffɛlɪç/: noticeable, conspicuous, unusual, odd, strikingly, c
   Es ist auffällig, dass …
   It's noticeable that …
 
+Aufforderung /ˈauffɔrdərʊŋ/, die: order, command
+
 aufgeben /ˈaufɡeːbən/: to give up, to stop, to give, to leave
 
 aufgehen: to rise, to open, to work, sb realizes sth
@@ -643,6 +654,8 @@ Auflösung /ˈaufløːzʊŋ/, die: resolution, disintegration
 
 aufmarschieren: march up
 
+Aufmachung /ˈaufmaxʊŋ/, die: get-up, guise
+
 aufmerksam /ˈaufmɛrkzaːm/: attentive, alert
   => merken: to notice
 
@@ -653,6 +666,8 @@ aufpassen /ˈaufpasən/: to be careful, to pay attention
   Watch out that you don’t fall!
   Du musst im Unterricht besser aufpassen.
   You have to pay more attention in classes.
+
+aufregen /ˈaufreːɡən/: to get upset/worried/excited
 
 aufrichtig /ˈaufrɪçtɪç/: sincere, honest
   aufrichtigen Dank empfinden: to be sincerely grateful 
@@ -767,6 +782,14 @@ Ausrutscher /ˈausrʊtʃɐ/, der: slip, slip-up
 Aussage /ˈauszaːɡə/, die: testimony, statement, message
   eine klare Aussage der Regierung zur Steuerpolitik fordern
   to demand a clear statement from the government on its tax policy
+
+Aussagesatz, der: statement
+
+aussagen /ˈauszaːɡən/: to testify, to reveal
+  Ein Zeuge sagte aus, dass er den Angeklagten in der Bar gesehen habe.
+  A witness testified that he had seen the accused in the bar.
+  Dieses Verhalten sagt viel über ihn aus.
+  That behavior says a lot about him.
 
 Aussagekraft: expressiveness
 
