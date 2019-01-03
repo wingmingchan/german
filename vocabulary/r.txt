@@ -4,6 +4,8 @@ R /ɛr/ R wie Richard
 
 Rabatt /raˈbat/, der: discount
 
+Rad /raːt/, das, Räder /ˈrɛːdɐ/: wheel
+
 Rahmen /ˈraːmən/, Rahmen: frame, framework, context
   im Türrahmen stehen bleiben: to stay standing in the doorway
   eine Veranstaltung in festlichem Rahmen: a celebratory event 
@@ -22,6 +24,8 @@ ranghöher: senior
 
 rasch /raʃ/: rapid, quickly
   rasche Fortschritte machen: to make rapid progress
+  auf eine rasche Entscheidung dringen
+  to insist on a rapid decision
 
 Rasen  /ˈraːzən/, der: lawn, grass
   den Rasen mähen: to mow the lawn 
@@ -47,6 +51,12 @@ Rassismus /raˈsɪsmʊs/, der: racism
 
 Rast, die: rest, break
   ohne Rast und Ruh: ohne sich eine Pause zu gönnen
+
+Rate /ˈraːtə/, die, Raten: installment, rate
+  Schulden in monatlichen Raten abzahlen
+  to pay off debts in monthly installments
+  Die Rate der Neuinfektionen geht wieder zurück.
+  The rate of new infections is falling again.
 
 ratlos /ˈraːtloːs/: helpless, baffled
   Da bin ich ratlos.
@@ -178,6 +188,9 @@ Rezept /reˈʦɛpt/, das: recipe, prescription
 
 richten /ˈrɪçtən/: to direct, to point, to turn
 
+richtig /ˈrɪçtɪç/: right, correct
+  <=> falsch
+
 Richtlinie /ˈrɪçtliːnjə/: guideline
 
 Richtung /ˈrɪçtʊŋ/, die: direction
@@ -204,6 +217,8 @@ riskieren /rɪsˈkiːrən/: to risk
 Rock /rɔk/, der: skirt
   Sie trug einen kurzen Rock.
   She was wearing a short skirt.
+
+rollen /ˈrɔlən/: to roll
 
 Roman /roˈmaːn/, der: novel
 
