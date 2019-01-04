@@ -8,6 +8,8 @@ dafür 4.21.17:02
 
 dagegen 4.14.27:49
 
+damit 4.29.06:27
+
 danach 4.3.16:09
 
 Dank
@@ -23,6 +25,8 @@ darauf 4.11.23:57
 darf
   Darf ich 2.9.05:23
   du darfst 2.9.09:57
+
+darin 4.27.11:59
 
 darüber 3.6.16:44, 4.2.08:36
 
@@ -147,4 +151,6 @@ dürfen 3.19.21:41
 Durst, der 4.3.09:35
   Ich habe Durst. 4.3.10:16
   
+Dusche, die 4.29.18:47
+
 duzen 4.22.11:37
