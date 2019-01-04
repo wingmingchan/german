@@ -16,6 +16,8 @@ Laptop, der 4.22.30:06
 
 lassen 4.19.16:46
 
+laut 4.28.32:16
+
 lecker 4.17.06:29
 
 Leder, das 4.5.26:21
@@ -64,6 +66,9 @@ links 1.24.14:07
 Liste, die 4.22.11:10
 
 Liter, der 1.22.15:59
+
+lohnen 4.30
+  es lohnt sich 4.30.03:05
 
 los
   Was ist los? 4.19.03:33
