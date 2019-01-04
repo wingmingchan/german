@@ -128,6 +128,11 @@ einfärben: to dye
   => färben: to color
   Kleider schwarz einfärben: to dye dresses black
 
+einfügen /ˈainfyːɡən/: to insert, to fit in
+  ein Puzzleteil einfügen: to put a jigsaw puzzle in its place
+  Das neue Gebäude fügt sich harmonisch in das Stadtbild ein.
+  The new building fits nicely into the cityscape.
+
 Eingang /ˈainɡaŋ/, der: entrance, start, receipt, delivery
 
 eingehend /ˈainɡeːənt/: extensive, detailed, in-depth
@@ -201,6 +206,11 @@ Einsicht, die: view, insight, conclusion
 einst: once, long ago
   Einst lebten hier Dinosaurier.
   Dinosaurs once lived here.
+
+einstellen /ˈainʃtɛlən/: to take on, to hire, to stop, to adjust
+  <=> entlassen
+  jdn als Hausmeister einstellen
+  to take sb on as the superintendent
 
 einstige /ˈainstɪɡə/: former, erstwhile, one-time
   Der einstige Opernstar ist heute Gesangslehrerin.
@@ -333,6 +343,10 @@ entgegenstellen: to set against
 entlang: along
   eine Radtour die Donau entlang/entlang der Donau
   a cycling tour along the Danube
+
+entlassen /ɛntˈlasən/: to dismiss, to let go
+  Die Firma hat mehrere Mitarbeiter entlassen.
+  The company had to let several employees go.
 
 entmannen: to castrate
 
