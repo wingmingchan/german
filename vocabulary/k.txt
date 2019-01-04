@@ -142,9 +142,11 @@ kleben /ˈkleːbən/: to stick sth somewhere
   eine Briefmarke auf den Umschlag kleben
   to stick a stamp on the envelope 
 
-Kleid /klait/, das: dress
-
-Kleider, Kleidung: clothes
+Kleid /klait/, das, Kleider: dress, clothes
+  warme Kleider mitbringen: to bring warm clothes
+  
+Kleidung /ˈklaidʊŋ/, Kleidung: clothes
+  warme Kleidung anziehen: to put on some warm clothes
 
 klettern /ˈklɛtɐn/: to climb
   auf einen Baum/über den Zaun klettern
@@ -328,6 +330,12 @@ Küche /ˈkʏçə/, die: kitchen
 
 Kuchen /ˈkuːçən/, der:
   einen Apfelkuchen backen: to bake an apple cake 
+
+kündigen /ˈkʏndɪɡən/: to cancel, to terminate, 
+  Hast du das Abo schon gekündigt?
+  Have you canceled the subscription yet?
+  Wegen der schlechten Auftragslage musste er mehreren Mitarbeitern kündigen.
+  He had to dismiss several employees because of the lack of orders.
 
 Kugel, die: bullet
 
