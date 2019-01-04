@@ -65,7 +65,12 @@ falls: in case, if
 falsch /falʃ/: wrong, false, faked
   <=> richtig
 
+Familie /faˈmiːljə/, die: family
+
 Familienmitglied, das: family member
+
+Familienname /faˈmiːljənnaːmə/, der: family name
+  => Nachname
 
 fand => finden
 
