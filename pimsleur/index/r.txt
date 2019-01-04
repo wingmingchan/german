@@ -22,6 +22,10 @@ Regio, der 4.9.09:43
 regnen
   Hoffentlich regnet es nicht 4.1.28:29
 
+reichen 4.30
+
+rein 4.14, 4.27.08:38
+
 Reise, die
   gute Reise 2.10.24:25, 2.12.10:26
 
@@ -33,6 +37,8 @@ reparieren 4.19.16:28
 
 reservieren 3.6.11:10
   reserviert 3.6.12:46
+
+Reservierung, die 4.28.18:03
 
 Restaurant, das 1.7.16:32
   im Restaurant 1.7.05:38
@@ -57,3 +63,7 @@ Rottenburg 4.3.26:03
 Rotwein, der 2.3.18:44
 
 Rückfahrt, die 4.9.05:42
+
+Rügen 4.29.13:09
+
+ruhig 4.28.23:29
