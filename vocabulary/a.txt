@@ -209,6 +209,7 @@ Achtel: eighth
 
 achten /ˈaxtən/: to respect, to pay attention to
   auf den Verkehr achten: to pay attention to traffic
+  achten Sie auf Ihre Aussprache!
 
 Achtung /ˈaxtʊŋ/, die: respect, attention
   Ich habe große Achtung vor ihrer Leistung/vor ihr.
@@ -447,6 +448,10 @@ Anmeldung /ˈanmɛldʊŋ/, die: enrollment, registration, application, registrat
 
 anonym /anoˈnyːm/: anonymous
 
+Anrede /ˈanreːdə/, die: (form of) address
+  Wie ist die korrekte Anrede für eine Gräfin?
+  What is the correct form of address for a countess?
+
 anrufen /ˈanruːfən/: to call, to phone
   rufe an, rufst an, ruft an, habe angerufen
   Hat jemand für mich angerufen?
@@ -518,6 +523,7 @@ Anzahl /ˈanʦaːl/, die: number
 anziehen /ˈanʦiːən/: to attract, to get dressed
   Salz zieht Feuchtigkeit an.
   Salt attracts damp.
+  warme Kleidung anziehen: to put on some warm clothes
 
 anzogen => anziehen
 
@@ -814,6 +820,10 @@ Aussehen /ˈauszeːən/, das: appearance
 
 aussehen /ˈauszeːən/: to look
   krank/gesund aussehen: to look ill/healthy
+
+Aussprache /ˈausʃpraːxə/, die: pronunciation
+  die richtige Aussprache eines Wortes
+  the correct pronunciation of a word
 
 außer /ˈausɐ/: except, besides, outside, out of, unless
   täglich außer sonntags geöffnet
