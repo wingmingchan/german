@@ -79,6 +79,8 @@ Ampel, die 4.9.02:48
 amüsieren
   wir haben uns sehr amüsiert 4.18.18:07
 
+anbieten 4.28.20:18
+
 andere 3.13.23:30
 
 ändern 3.26.07:50
@@ -93,12 +95,17 @@ angerufen 3.12.14:36
 ankommen 2.7.14:53
   Sie kommen an 2.7.14:53
 
+Annonce, die 4.30.07:54
+
 anprobieren 4.7.17:11
 
 Anrufe 4.4.17:10
 
 anrufen 3.11.20:30
   ich rufe an 3.13:03:39
+  anzurufen 4.30.11:08
+
+Anzeige, die 4.30.07:41
 
 Apfelschorle, die 4.26.18:59
 
