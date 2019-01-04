@@ -17,11 +17,19 @@ satt 4.16.14:40
 
 schade 1.28.06:59
 
+schauen 4.27.09:45
+
 schicken 4.1.17:36
 
 Schiff, das 4.11.20:21
 
 Schlachtensee 4.25
+
+Schlaf, der 4.29.17:41
+
+Schlafraum, der 4.29.17:56
+
+Schlafzimmer, das 4.29.17:56
 
 Schlange, die 4.8.17:41
   in der Schlange stehen 4.8.18:00
@@ -239,8 +247,12 @@ Stock, der 4.12.14:38
 stolpern 4.25
   ich bin gestolpert 4.25.15:31
 
+Strand, der 4.29.13:49
+
 Straße 1.4.08:44
   die Straße 1.4.08:44
+
+stressig 4.27.06:57
 
 Strickjacke, die 4.7.19:57
 
