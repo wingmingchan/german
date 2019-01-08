@@ -92,6 +92,10 @@ angenehm 1.19.08:36
 
 angerufen 3.12.14:36
 
+Angst, die 5.5.12:48
+
+anhalten 5.5.14:53
+
 ankommen 2.7.14:53
   Sie kommen an 2.7.14:53
 
@@ -107,6 +111,8 @@ anrufen 3.11.20:30
 
 Anzeige, die 4.30.07:41
 
+Adapter, der 5.5.29:26
+
 Apfelschorle, die 4.26.18:59
 
 Apotheke, die 2.18.25:06
@@ -115,6 +121,8 @@ Apotheker, der 4.25.26.45
 
 Appetit, der
   Guten Appetit! 4.3.02:30
+
+April, der 5.4.24:04
 
 Arbeit, die 2.1.19:42
 
