@@ -285,6 +285,8 @@ schreien /ˈʃraiən/: to scream, to shout
   Sie schrie vor Schmerzen.
   She screamed with pain.
 
+schrie => schreien
+
 Schrott /ʃrɔt/, der: scrap, garbage
   Schrotthändler: scrap (metal) dealer
   Im Fernsehen kommt wieder nur Schrott!
@@ -457,6 +459,8 @@ seltsam /ˈzɛltzaːm/: strange, odd
   Das kommt mir seltsam vor.
   That seems strange to me.
 
+Senf /zɛnf/, der: mustard
+
 Service /zɛrˈviːs/, das: dinner/coffee/tea service
 
 Service ˈsøːɐvɪs/, der: service, custom service
@@ -547,6 +551,8 @@ Sommer /ˈzɔmɐ/, der:
   We want to go away next summer.
 
 somit /zoˈmɪt/: therefore
+  Sie ist 18 und kann somit selbst entscheiden, was sie tut.
+  She is 18 and can therefore make up her own mind what she does.
 
 sonderbar /ˈzɔndɐbaːɐ/: strange
   Ich finde es sonderbar, dass er noch nicht hier ist.
@@ -595,6 +601,8 @@ spätestens /ˈʃpɛːtəstəns/: at the latest
   I have to be home no later than midnight.
 
 spenden /ˈʃpɛndən/: to donate, to give, to provide
+  Das Feuer spendete wohlige Wärme.
+  The fire gave off a pleasant warmth.
 
 Sperma /ˈʃpɛrma/, das, Spermen /ˈʃpɛrmən/: sperm
 
