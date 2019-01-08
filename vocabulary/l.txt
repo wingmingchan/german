@@ -127,6 +127,8 @@ läuft => laufen
   Nun läuft die Hochzeit des Jahres
 
 Laune /ˈlaunə/, die: mood
+  Er hat heute gute/schlechte Laune.
+  He's in a good/bad mood today.
 
 Laut /laut/, der: sound
   keinen Laut von sich geben: not to make a sound 
@@ -263,6 +265,8 @@ Löffel /ˈlœfəl/, der: spoon
 
 lohnen /ˈloːnən/: to be worthwhile
   eine lohnende Investition: a worthwhile investment
+
+Lokal /loˈkaːl/, das: bar, restaurant
 
 löschen /ˈlœʃən/: to extinguish, to put out, to delete
 
