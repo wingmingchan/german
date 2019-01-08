@@ -21,6 +21,8 @@ bedeckt 4.24.04:48
 bedeutet 1.28.07:08
   Was bedeutet das? 1.28.08:12
 
+Bedienung, die 5.1.02:05
+
 Beethoven
   die Beethovenstraße 1.4.09:27
 
@@ -52,6 +54,8 @@ bekommen
 benutzen 3.11.15:04
 
 Benzin, das 1.22.15:03
+
+bequem 5.2.19:00
 
 die Bergstraße 2.18.25:13
 
@@ -85,6 +89,7 @@ bestimmt 4.2.13:15
 
 beste 3.15.20:23
   am besten 4.8.14:30
+  das beste ist 5.1.07:00
 
 bestellen 3.4.10:22
 
