@@ -189,6 +189,9 @@ fertig /ˈfɛrtɪç/: ready, finished
 
 fest /fɛst/: firm, solid
 
+festhalten /ˈfɛsthaltən/: to hold on to, to detain, to record, to stand by sb
+  jdn am Arm festhalten: to hold on to sb's arm
+
 Festnahme /ˈfɛstnaːmə/, die: arrest
   Er sitzt seit seiner Festnahme in Köln in Untersuchungshaft.
   Since his arrest he's been in custody awaiting trial in Cologne.
@@ -330,6 +333,7 @@ fordern /ˈfɔrdɐn/: to demand, to press for, to claim lives
   At school, the weak students should be encouraged and the strong ones challenged.
 
 fördern /ˈfœrdɐn/: to promote, to support
+  die Kultur fördern: to promote culture
 
 Förderschule: special needs school
 
