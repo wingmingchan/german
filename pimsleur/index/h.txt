@@ -20,6 +20,8 @@ Hallo 1.16.00:07
 
 Halsschmerzen 4.18.02:39
 
+halten 5.5:14:56
+
 Hamburg 4.10.23:48
 
 Hand, die 4.26.21:07
@@ -40,6 +42,9 @@ Hauptstraße, die 2.20:02:11
 
 Haus, das 2.29.11:30
   zu Hause 2.5.21:52
+
+Haustier/, das 5.4
+  Haustiere 5.4.10:30
 
 heiraten 3.15.18:46
 
@@ -103,5 +108,7 @@ Hotel
   im Hotel 1.8.13:08
   
 Hotelkette, die 4.1.04:59
+
+Hund, der 5.3.04:40
 
 Hut 1.18.00:08, 1.29.11:20
