@@ -68,6 +68,8 @@ Butter, die
 
 Café /kaˈfeː/, das
 
+Camembert /ˈkaməmbeːɐ/, der
+
 ========================================================
 
 Dessert /dɛˈseːɐ/, das: desert
@@ -141,6 +143,8 @@ Halbe /ˈhalbə/, die: half liter (of beer)
 halber, halbe Liter, der
   ein halber Liter Bier
 
+Hähnchen, das: chicken
+
 Hähnchenbrust: chicken breast
 
 Hauptgericht, das: main course  
@@ -210,6 +214,8 @@ Löffel /ˈlœfəl/, der: spoon
   den Tee mit dem Löffel umrühren
   to stir the tea with the spoon
 
+Lokal /loˈkaːl/, das: bar, restaurant
+
 ========================================================
 
 Markt /markt/, der: market
@@ -249,6 +255,8 @@ Orangensaft, der
 
 ========================================================
 
+Paprika, der
+
 Pfeffer /ˈpfɛfɐ/, der
 
 Pilz /pɪlʦ/, der: mushroom
@@ -272,6 +280,8 @@ Quittung, die: receipt
   Könnte ich bitte eine Quittung bekommen?
 
 ========================================================
+
+Radi /ˈraːdi/, der: garden radish
 
 Restaurant, das
   
@@ -316,6 +326,7 @@ Schwarzbrot, das: black bread
 schwer /ʃveːɐ/: heavy
 
 Senf, der: mustard
+  heiße Würstchen mit Senf: hot frankfurters with mustard
 
 Speck /ʃpɛk/, der: bacon
  
@@ -403,5 +414,6 @@ Zitrone /ʦiˈtroːnə/, die: lemon
 
 Zucker, der
 
-Zwiebel /ˈʦviːbəl/, die: onion
+Zwiebel /ˈʦviːbəl/, die, Zwiebeln: onion
+
 ========================================================
