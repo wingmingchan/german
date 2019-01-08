@@ -6,6 +6,8 @@ Rabatt /raˈbat/, der: discount
 
 Rad /raːt/, das, Räder /ˈrɛːdɐ/: wheel
 
+Radi /ˈraːdi/, der: garden radish
+
 Rahmen /ˈraːmən/, Rahmen: frame, framework, context
   im Türrahmen stehen bleiben: to stay standing in the doorway
   eine Veranstaltung in festlichem Rahmen: a celebratory event 
@@ -183,6 +185,9 @@ retten /ˈrɛtən/: to rescue, to save
 
 rettete => retten
 
+Rettich /ˈrɛtɪç/, der: radish
+  einen Rettich aufschneiden und salzen: to chop up a radish and sprinkle it with salt
+
 Rezept /reˈʦɛpt/, das: recipe, prescription
   ein Rezept für Käsekuchen: a recipe for cheesecake
 
@@ -230,6 +235,10 @@ rot: red
    Fehler rot anstreichen: to mark mistakes in red 
 
 Ruck /rʊk/, der: jerk, jolt, tug
+
+Rücken /ˈrʏkən/, der, Rücken: back
+  Er klopfte mir anerkennend auf den Rücken.
+  He patted me on the back in acknowledgement.
 
 Rückfahrt, die: return journey
   Wie teuer ist die Hin- und Rückfahrt?
