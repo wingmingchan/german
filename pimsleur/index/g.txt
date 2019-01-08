@@ -2,10 +2,13 @@
 G /ɡeː/ G wie Gustav
 ========================================================
 
+Gabel, die 5.4.11:58
+  Gabeln 5.4.09:35
+
 Galerie, die 4.8
   Galerien 4.8.10:37
 
-ganz 5.4.20:43
+ganz 5.3.19:30
 
 ganze 3.13:15:38
 
@@ -24,6 +27,11 @@ geben 1.14:06:22
 Gebiete, die 4.15.29:07
 
 gebrochen => brechen
+
+Geburtstag, der 5.4.03:44
+  zum Geburtstag 5.5.10:10
+
+Geburtstagsgeschenk, das 5.4.04:20
 
 gedauert => dauern
 
@@ -74,6 +82,8 @@ Gelenk, das 4.26.21:19
 
 gemacht 2.1.05:41
 
+genau 5.5.24:54
+
 genug 1.16.09:42
 
 geöffnet
@@ -118,6 +128,8 @@ gespielt 3.22
 gesprochen 2.1.07:42
 
 gestern 1.29.07:01
+
+gesund 5.1.12.49
 
 Gesundheit, die 4.5.05:16
 
@@ -181,6 +193,8 @@ grün 4.20.26:05
 
 Grüße
   Schöne Grüße von mir 4.27.28:59
+
+günstig 5.3.21:17
 
 gut 1.2.07:54
   gute Reise 2.10.24:25
