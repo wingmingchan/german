@@ -57,7 +57,7 @@ Kartoffel /karˈtɔfəl/, die: potato
 Kartoffelsalat: potato salad
 
 Kastanie /kasˈtaːnjə/, die: chestnut
-  Kastanienbäume: chestnut trees
+  Kastanienbaum, Kastanienbäume: chestnut trees
 
 Katze /ˈkaʦə/, die: cat
 
@@ -109,6 +109,8 @@ Kette /ˈkɛtə/, die, Ketten: necklace, chain
 kichern /ˈkɪçɐn/: to giggle
 
 Kiesel, der: pebble
+  Kieselstein
+  Kiesel ans Fenster werfen: to throw pebbles at the window
 
 kieselig: pebbly
 
@@ -323,6 +325,7 @@ kritisieren /kritiˈziːrən/: to criticize
   The government was sharply criticized for this incident/mistake.
 
 Krug /kruːk/, Krüge: jug, pitcher
+  ein Tonkrug mit Wasser: an earthenware pitcher containing water
 
 krumm /krʊm/: crooked
 
@@ -330,6 +333,9 @@ Küche /ˈkʏçə/, die: kitchen
 
 Kuchen /ˈkuːçən/, der:
   einen Apfelkuchen backen: to bake an apple cake 
+
+Kultur /kʊlˈtuːɐ/, die, Kulturen: culture
+  die Kultur fördern: to promote culture
 
 kündigen /ˈkʏndɪɡən/: to cancel, to terminate, 
   Hast du das Abo schon gekündigt?
