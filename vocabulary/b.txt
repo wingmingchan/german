@@ -52,9 +52,11 @@ band => binden
 
 Bande /ˈbandə/, die: gang
 
-Bank, Banken, die: bank
+Bank, die, Banken: bank
+  bei der Bank ein Konto eröffnen: to open an account at a bank
 
-Bank, Bänke, die: bench
+Bank, die, Bänke: bench
+  sich im Park auf eine Bank setzen: to sit down on a bench in the park
 
 Bann /ban/, der: spell
   Das Spiel hielt uns alle in Bann.
@@ -183,7 +185,7 @@ begabt /bəˈɡaːpt/: talented
 begegnen: to meet, to confront, to face, to confront
   Ich bin ihm zum ersten Mal auf einer Party begegnet.
   I first met him at a party.
-  jdm mit Misstrauen / Respekt begegnen: to treat sb with distrust/respect
+  jdm mit Misstrauen/Respekt begegnen: to treat sb with distrust/respect
   => Gegner: opponent
 
 begehen /bəˈɡeːən/: to commit, to make, to celebrate, to walk on, to use
@@ -343,6 +345,9 @@ Berechnung /bəˈrɛçnʊŋ/, die: calculation, charging
   According to my calculations we should be there soon.
   Der Flug wurde ohne Berechnung von Gebühren umgebucht.
   The flight was changed at no additional charge.
+
+Bereich /bəˈraiç/, der: area, domain, range
+  ein verkehrsberuhigter Bereich: a traffic-calmed neighborhood
 
 bereiten /bəˈraitən/: to cause, to give
   Ich wollte dir damit eine kleine Freude bereiten.
@@ -559,6 +564,8 @@ biegen /ˈbiːgən/: to bend, to turn
 
 *Bier, das: beer
 
+Biergarten /ˈbiːɐɡartən/, der, Biergärten: beer garden
+
 bieten /ˈbiːtən/: to bid, to offer, to provide
   2000 Euro sind geboten. Wer bietet mehr?
   I have a bid for 2000 euros. Any other bids?
@@ -663,6 +670,7 @@ blutig /ˈbluːtɪç/: bloody, gory, violently
 Bock /bɔk/, der: buck, ram, billy goat
 
 Boden, Böden, der: ground, soil
+  ein fruchtbarer/steiniger/sandiger Boden: fertile/stony/sandy ground
 
 bog => biegen
 
@@ -755,6 +763,7 @@ Brot /broːt/, das: bread
 Brötchen /ˈbrøːtçən/, das: bread, dinner roll
 
 Brotzeit /ˈbroːtʦait/, die: snack
+  Brotzeit machen: to have a break for a snack
 
 Bruch /brʊx/, der: break, breach
   nach dem Bruch des Dammes
