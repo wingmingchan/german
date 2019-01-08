@@ -15,17 +15,28 @@ Samstag 2.9.10:58
 
 satt 4.16.14:40
 
+Saturn, der 5.5.30:02
+
+sauber 5.2.17:15
+
 schade 1.28.06:59
 
 schauen 4.27.09:45
+
+schenken 5.5
+  geschenkt 5.5.09:33
 
 schicken 4.1.17:36
 
 Schiff, das 4.11.20:21
 
+Schiffsreise, die 5.4.22:29
+
 Schlachtensee 4.25
 
 Schlaf, der 4.29.17:41
+
+schlafen 5.1.12:04
 
 Schlafraum, der 4.29.17:56
 
@@ -74,7 +85,7 @@ schreiben
   schreibt 2.18.05:33
   Schreiben Sie viel? 2.18.06:24
 
-Schuh, der 4.5
+Schuh, der 4.5, 5.2.18:45
 
 schulden
   Wie viel schulde ich Ihnen? 1.12.07:35
@@ -116,6 +127,8 @@ sechzehn 1.13.12:25
 
 See, der 4.25.06:22
 
+Seeluft, die 5.1.12:30
+
 sehen 2.4
   gesehen 2.1.09:10
 
@@ -133,6 +146,8 @@ seit 1.28.10:48
   seit letztem Jahr
   seit letztem Monat 3.8.10:47
   seit der Schule 4.2.29:40
+
+Selbstbedienung, die 5.2.08:26
 
 Sendung, die 4.19.14:50
 
@@ -159,6 +174,8 @@ siebzehn 1.14.08:09
 
 sind 1.1.15:29
   Sie sind 1.1.15:29
+
+Sitz, der, Sitze 5.2.04:32
 
 sitzen 3.10.15:44
 
@@ -189,6 +206,10 @@ Sonntag 2.27.12:11
 
 sonst 3.5.20:32
   sonst noch etwas 3.5.20:58
+
+Spaß, der 5.5.16:50
+  macht Spaß 5.5.16:53
+  Spaß haben 5.5.18:30
 
 spät 1.11.07:28
 
@@ -270,3 +291,4 @@ Stuttgart 2.15.19:21
 
 suchen 2.17.20:19
 
+Sylt 5.1.23:35
