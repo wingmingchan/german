@@ -60,7 +60,7 @@ Denver 4.23.20:32
 der 1.4.10:59
   der Platz 1.4.10:59
 
-deshalb 3.4.17:42
+deshalb 3.4.17:42, 5:2:13:52
 
 Desktop Computer
 einen Desktop Computer 4.22.31:22
@@ -104,6 +104,8 @@ Dollar 1.13.10:50
 
 Dolmetscher, der 3.14.20:52
 
+Donau, die 5.4.22:05
+
 Donnerstag, der 2.11.08:13
 
 dort 1.26.08:01
@@ -142,6 +144,8 @@ dunkelblau 4.8.12:42
   mit dem dunkelblauen Paar 4.9.21:22
 
 dunkelrote 4.9.19:55
+
+Dünen 5.1.18:09
 
 durch 3.16.16:03
 
