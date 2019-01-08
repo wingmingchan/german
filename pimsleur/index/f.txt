@@ -67,6 +67,8 @@ Fitnessraum, der 4.12.28:04
 
 Flasche, die 3.4.10:56
 
+Fleisch, das 5.2.11:57
+
 fliegen 2.26.26:56
 
 Flug 4.1, 4.30.31:05
@@ -74,6 +76,13 @@ Flug 4.1, 4.30.31:05
 Flugkarten 4.21.11:34
 
 Flugtickets 4.21.11:57
+
+Flugzeug, das 5.2.02:42
+
+Fluginformation, die 5.2
+
+fortfahren 5.1
+  Er fährt fort 5.1.11:27
 
 Foto, das 2.30.20:40
 
