@@ -297,6 +297,10 @@ wohl: well
 
 wohnlich /ˈvoːnlɪç/: cozy
 
+wohlig /ˈvoːlɪç/: cozy, pleasant
+  Wohlige Wärme breitete sich im Zimmer aus.
+  A cozy warmth spread through the room.
+
 *Wolke /ˈvɔlkə/, die: cloud
   Dunkle Wolken zogen auf. Dark clouds were gathering. 
 
@@ -344,6 +348,9 @@ Würfel /ˈvʏrfəl/, der: dice, die
   Würfelspiel: dice game
 
 Wurfgeschoss, das: missile, projectile
+
+Würstchen /ˈvyrstçən/, das, Würstchen: frankfurter
+  heiße Würstchen mit Senf: hot frankfurters with mustard
 
 Wurzel /ˈvʊrʦəl/, die: root
 
