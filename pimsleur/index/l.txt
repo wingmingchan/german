@@ -12,6 +12,8 @@ lange
 
 langsam 2.20.09:17
 
+langweilig 5.4.14:52
+
 Laptop, der 4.22.30:06
 
 lassen 4.19.16:46
@@ -68,11 +70,13 @@ Liste, die 4.22.11:10
 Liter, der 1.22.15:59
 
 lohnen 4.30
-  es lohnt sich 4.30.03:05
+  es lohnt sich ... zu 4.30.03:05
 
 los
   Was ist los? 4.19.03:33
 
 Lucerne 4.2.27:34
+
+Luft, die 5.1.12:33
 
 Lust, die 4.19.01:56
