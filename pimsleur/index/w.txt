@@ -35,6 +35,10 @@ was
 
 Wasser 1.18.10:54
 
+wechselhaft 5.1.15:52
+
+Wechselkurs, der 5.3.18:53
+
 wechseln 2.25.11:23
 
 Weg, der 2.29.16:46
