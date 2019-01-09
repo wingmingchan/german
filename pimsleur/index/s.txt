@@ -65,6 +65,8 @@ Schnee, der 2.30.14:38
 
 schnell 1.17.11:45
 
+Schnellimbiss, der 5.6.23:01
+
 Schnitzel, das 3.4.20:52
 
 Schokolade, die 2.13.22:19
@@ -118,7 +120,7 @@ Schwiegervater, der 4.16.10:19
 
 schwimmen 4.25
 
-schwül 4.24.19:13
+schwül 4.24.19:13, 5.9.10:11
 
 sechs
   Um sechs Uhr 1.11.05:44
@@ -181,6 +183,8 @@ sitzen 3.10.15:44
 
 Sitzplatz, der, Sitzplätze 4.9.13:38
 
+SMS, die 5.8.12:17
+
 so
   wie so? 2.13.13:40
   Er hat so viel Arbeit 2.13.14:21
@@ -198,6 +202,11 @@ sollen
 
 Sommer, der 2.30.18:31
 
+Sonderangebot, das 5.7.11:43
+  im Sonderangebot 5.7.11:38
+
+sondern 5.8.10:49
+
 Sonnabend 2.9.11:30
 
 sonnig 4.16.16:55
@@ -206,6 +215,10 @@ Sonntag 2.27.12:11
 
 sonst 3.5.20:32
   sonst noch etwas 3.5.20:58
+
+spannend 5.9.02:32
+
+sparen 5.8
 
 Spaß, der 5.5.16:50
   macht Spaß 5.5.16:53
@@ -223,6 +236,8 @@ Speisekarte, die 3.4.18:47
 Spiel, das 2.29.21:52
 
 spielen 2.22.14:32
+
+Spieler 5.8.22:46
 
 Spielzeug, das 3.29.13:56
 
@@ -260,6 +275,9 @@ stehen
 
 Stelle, die 3.23.10:37
 
+sterben 5.8
+  gestorben 5.8.23:38
+
 stimmen
   stimmt 3.9.16:33
 
@@ -267,6 +285,8 @@ Stock, der 4.12.14:38
 
 stolpern 4.25
   ich bin gestolpert 4.25.15:31
+
+stornieren 5.6.14:24
 
 Strand, der 4.29.13:49
 
