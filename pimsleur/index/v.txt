@@ -27,6 +27,12 @@ verkaufen
 
 Verkehr, der 3.19.11:13
 
+Verlängerung, die 5.9.07:46
+
+verlieren 5.8
+
+verloren => verlieren 5.8.06:44
+
 Verschiebung, die 4.17.03:47
 
 verstehen 1.1.03:28
@@ -70,6 +76,8 @@ vor 2.7.17:15
   ihr habt vor 4.6.16:09
 
 vorher 2.6.24:24
+
+Vorhersage, die 5.9.11:40
 
 Vormittag, der 2.27.21:44
 
