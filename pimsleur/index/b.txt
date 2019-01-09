@@ -23,6 +23,8 @@ bedeutet 1.28.07:08
 
 Bedienung, die 5.1.02:05
 
+beeilen 5.6.21:05
+
 Beethoven
   die Beethovenstraße 1.4.09:27
 
@@ -36,6 +38,7 @@ bei 1.6.07:20
   bei IBM 2.15.19:58
   bei den Kindern 3.21.13:23
   bei ihm 4.13.19:16
+  beim Arzt 5.7.17:59
 
 beikommen 4.4.02:12
 
@@ -50,6 +53,7 @@ Bekannter, der: 2.23.15:04
 
 bekommen
   ich bekomme 4.18.03:26
+  ich habe bekommen 5.8.12:56
 
 benutzen 3.11.15:04
 
@@ -105,6 +109,8 @@ besucht 2.1.06:51
 
 bevor 4.4.17:55
   bevor es zu spät wird 4.4.18:22
+
+bezahlen 5.7.14:24
 
 Bier, das 1.7.10:52
 
