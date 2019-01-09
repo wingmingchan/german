@@ -45,6 +45,10 @@ geflogen => fliegen
 
 gefragt 3.12.19:12
 
+gegen 5.8.22:37
+
+gegenüber 5.7.17:11
+
 gegessen 2.1.07:16
   => essen
 
@@ -129,9 +133,15 @@ gesprochen 2.1.07:42
 
 gestern 1.29.07:01
 
+gestorben => sterben 5.8.23:38
+
 gesund 5.1.12.49
 
 Gesundheit, die 4.5.05:16
+
+gewinnen 5.9
+
+gewonnen => gewinnen 5.9.03:22
 
 geworden => werden
 
@@ -169,6 +179,8 @@ Goethe 1.4.08:33
 Golf, das 3.22.15:52
 
 Golfplatz, der 3.22.22:36
+
+Grad, der 5.9.08:22
 
 Grill 4.30.09:47
 
