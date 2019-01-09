@@ -10,6 +10,8 @@ Recht 4.22
 
 Radtour, die 5.5.16:28
 
+Recht, das 5.9.06:04
+
 rechts 1.24.11:12
   nach rechts 1.24.11:17
 
@@ -30,6 +32,8 @@ rein 4.14, 4.27.08:38
 
 Reise, die
   gute Reise 2.10.24:25, 2.12.10:26
+
+Reiseadapter, der 5.6.18:14
 
 Reiseleiterin 4.1.13:51
 
@@ -68,4 +72,8 @@ Rückfahrt, die 4.9.05:42
 
 Rügen 4.29.13:09
 
+Ruhestand, der 5.6.02:48
+  in den Ruhestand gehen 5.6.02:41
+
 ruhig 4.28.23:29
+
