@@ -18,7 +18,7 @@ Pass, der 3.25.19:54
 passen 4.8.28:45
   passt 4.8.16:02
 
-passieren
+passieren 5.8.08:27
   Was ist passiert? 4.22.21:39
 
 Passwort, das 4.13.07:07
@@ -40,6 +40,8 @@ Platz, der 1.4.10:59, 4.30.18:58
 Polizei, die 4.28.12:20
 
 Polizeistation, die 4.28.25:57
+
+Pommes, die 5.7.09:57
 
 Portemonnaie, das 4.27.10:44
 
