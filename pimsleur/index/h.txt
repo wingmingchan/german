@@ -34,6 +34,8 @@ Handtasche, die 4.5.15:54
 
 Handy, das 4.22.22:06
 
+Hanover 5.9.14:35
+
 hätte => haben 4.1.13:22
 
 Hauptbahnhof, der 4.8.19:33
@@ -85,6 +87,7 @@ hinten 3.8.12:15
 hinterlassen 3.12.17:56
 
 Hitze, die 4.25.02:09
+  bei diese Hitze 5.9.08:51
 
 Hitzewelle, die 4.26.11:20
 
