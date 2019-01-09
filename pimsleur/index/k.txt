@@ -69,6 +69,8 @@ Klasse, die 4.9.07:27
 klein 1.21.10:08
   kleineres, nichts kleineres 4.6.10:15
 
+knapp 5.9.04:49
+
 kochen 5.3
   Weil Anna dort kocht 5.3.12:22
 
