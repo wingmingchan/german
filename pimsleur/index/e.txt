@@ -42,6 +42,8 @@ Eis, das
 
 Eiscreme, die 4.18.01:54
 
+Elektrofachmarkt, der 5.6.18:38
+
 elf 1.12.11:11
   elf Mark 1.12.11:08
 
@@ -61,9 +63,15 @@ Englisch 1.1.02:22
 entfernt 4.24.23:16
   entfernte 4.11.11:26
 
+entscheiden 5.9.18:52
+
 entschuldigen 1.1.01:07
   Entschuldigen Sie. 1.1.01:48
   entschuldige 1.11.01:36
+
+enttäuscht 5.6.11:02
+
+entweder 5.9.14:22
 
 er /eːɐ/ 1.14, 1.19.04:40
 
@@ -75,6 +83,8 @@ erfolgreich 3.18.11:36
 
 erholen 5.1.10:16
 
+erholt => erholen
+
 erinnern
   erinnerst 3.6.19:38
   Du erinnerst dich 3.6.20:02
@@ -83,6 +93,8 @@ erinnern
 erkältet 4.16.02:00
 
 eröffnen 3.25.11:15
+
+ersetzen 5.9
 
 erst 3.20.22:48
   erst gestern 3.20:22:44
