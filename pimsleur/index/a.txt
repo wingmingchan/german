@@ -95,6 +95,7 @@ angerufen 3.12.14:36
 Angst, die 5.5.12:48
 
 anhalten 5.5.14:53
+  Der Bus hält vor Fischer 5.7.16:57
 
 ankommen 2.7.14:53
   Sie kommen an 2.7.14:53
@@ -179,6 +180,8 @@ aussteigen 4.12
   Steigen Sie in Dresden aus? 4.12.00:10
 
 Ausstellung, Ausstellungen 4.7.13:26
+
+Australien 5.8.22:37
 
 Ausweis, der 3.25.18:32
 
