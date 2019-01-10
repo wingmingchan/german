@@ -37,6 +37,8 @@ teuer 1.17.08:25
 
 Theater, das 2.19.00:22
 
+Thema, das 5.12.16:36
+
 Tickets 4.21.12:26
 
 Tiergarten 4.1.24:48
@@ -64,6 +66,8 @@ trinken 1.5.17:34
 trotzdem 4.22.13:40
 
 Tschüs 4.1.28:11
+
+Tuch, das 5.13
 
 tun 2.24.19:58
   zu tun 2.24.19:58
