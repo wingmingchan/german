@@ -4,10 +4,18 @@ W /veː/ W wie Wilhelm
 
 Wagen 4.10.11:55
 
+Wahl, die 5.10.19:38
+
+wählen
+  gewählt 5.11.15:18
+  du wählst 5.11.24:16
+
 wahr
   nicht wahr? 1.20.17:24
 
 wahrscheinlich 4.5.14:13
+
+Wandel, der 5.10.09:42
 
 wandern 4.13.21:05
 
@@ -47,7 +55,8 @@ weg 1.27.11:13, 4.27.11:24
 
 wegen 4.17.04:27
   wegen der Zeitverschiebung 4.17.04:33
-  Wegen meiner Arbeit 4.19.24:39
+  wegen meiner Arbeit 4.19.24:39
+  wegen eines Unfalls 5.10.05:07
 
 wegfahren 1.27.11:18
   ihr fahrt weg 4.6.23:49
@@ -115,6 +124,8 @@ wer /veːɐ/ 1.18.14:58
 
 werden 2.15.05:46, 4.2.11:47
 
+Westfalenpark, der 5.10.25:45
+
 Wetter, das 2.13.07:29
 
 Wettervorhersage, die 5.9.11:12
@@ -141,6 +152,8 @@ Wiedervereinigung, die 4.7.04:31
 wiederzusehen 4.4
 
 Wien 1.28.00:37
+
+Willkommen 5.13.20:59
 
 Winter, der 4.12.27:33
 
