@@ -118,7 +118,7 @@ Schwiegermutter, die 4.16.07:07
 
 Schwiegervater, der 4.16.10:19
 
-schwimmen 4.25
+schwimmen 4.25, 5.10.26:12
 
 schwül 4.24.19:13, 5.9.10:11
 
@@ -270,6 +270,10 @@ Stadtplan, der 2.28.24:04
 
 stark 3.19.13:34
 
+Stau, der 5.10.03:46
+
+Stauung, die 5.10.03:54
+
 stehen
   steht 3.8.14:47
 
@@ -277,6 +281,12 @@ Stelle, die 3.23.10:37
 
 sterben 5.8
   gestorben 5.8.23:38
+
+Stiefbruder, der 5.12.08:05
+
+Stiefmutter, die 5.11.17:58
+
+Stiefschwester, die 5.13.14:22
 
 stimmen
   stimmt 3.9.16:33
@@ -292,6 +302,8 @@ Strand, der 4.29.13:49
 
 Straße 1.4.08:44
   die Straße 1.4.08:44
+
+Stress, der 5.13.13:42
 
 stressig 4.27.06:57
 
