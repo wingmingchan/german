@@ -84,6 +84,10 @@ anbieten 4.28.20:18
 andere 3.13.23:30
 
 ändern 3.26.07:50
+  es ändert sich jetzt 5.13.01:55
+
+anfangen 5.12
+  es fängt schon an 5.12.18:05
 
 angekommen
   Wann sind Sie angekommen? 1.30.11:40
@@ -175,6 +179,7 @@ Aussehen /ˈauszeːən/, das, Aussehens: appearance
 
 aussehen
   Du siehst müde aus 4.16.03:31
+  Es sieht nach Regen aus 5.12.13:34
 
 aussteigen 4.12
   Steigen Sie in Dresden aus? 4.12.00:10
@@ -189,3 +194,5 @@ Auto, das 1.22.06:07
 
 Autobahn, die 3.19.08:49
   auf der Autobahn 3.19.09:34
+  
+Autounfall, der 5.10.02:17
