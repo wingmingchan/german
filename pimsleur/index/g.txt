@@ -71,7 +71,10 @@ geht 1.2.05:33
   Wie geht's deinem Mann? 4.13.15:49
   Wie geht's eurem Sohn? 4.13.16:22
   Wie geht's euch? 4.13.25:09
-  
+
+gelb 5.13.23:15
+  das gelbe Handtuch 5.13.23:39
+
 gelesen 4.2.06:49
 
 Geld, das 1.16.04:28
@@ -125,7 +128,11 @@ geschlossen 1.25.07:32
 geschmeckt 4.4.10:15
   => schmecken
 
+Geschwister, das 5.12.05:47
+
 gesehen 2.1.09:10
+
+gespannt 5.10.21:00
 
 gespielt 3.22
 
@@ -139,7 +146,12 @@ gesund 5.1.12.49
 
 Gesundheit, die 4.5.05:16
 
+gewählt => wählen 5.11.15:18
+
 gewinnen 5.9
+  Wer gewinnt? 5.10.20:48
+
+Gewitter, das 5.12.21:31
 
 gewonnen => gewinnen 5.9.03:22
 
