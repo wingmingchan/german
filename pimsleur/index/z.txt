@@ -12,6 +12,7 @@ zehnten 4.17.15:58
 zeigen 2.28.20:38
 
 Zeit, die 1.28.14:15
+  Zeiten 5.13.07:48
 
 Zeitung, die 2.14.22:30
   Zeitungen 2.19.18:12
@@ -42,6 +43,8 @@ zum => zu + dem 1.16.00:22
   zum Arzt 2.28.04:17
   zum Schloss 3.9.12:08
 
+zumachen 5.13.25:17
+
 zunehmen 5.4.06:32
 
 zur => zu + der
@@ -50,6 +53,10 @@ zur => zu + der
 Zürich 3.18.10:42
 
 zurück 2.13.23:42
+
+zurückbringen 5.11.28:58
+
+zurückfliegen 5.11.26:39
 
 zurückkommen 2.24
   Ich komme zur&#252;ck 2.24.20:35
