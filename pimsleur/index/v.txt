@@ -27,7 +27,11 @@ verkaufen
 
 Verkehr, der 3.19.11:13
 
+Verkehrsstau, der, Verkehrsstauung, die 5.10.03:56
+
 Verlängerung, die 5.9.07:46
+
+verlaufen 5.11.04:13
 
 verlieren 5.8
 
@@ -74,6 +78,8 @@ vor 2.7.17:15
   um zehn vor fünf 2.7.16:45
   vor vier Jahren 4.2.26:24
   ihr habt vor 4.6.16:09
+
+vorbei 5.13.06:41
 
 vorher 2.6.24:24
 
