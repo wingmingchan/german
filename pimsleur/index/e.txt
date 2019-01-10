@@ -65,6 +65,8 @@ entfernt 4.24.23:16
 
 entscheiden 5.9.18:52
 
+Entschuldige 5.11.01:53
+
 entschuldigen 1.1.01:07
   Entschuldigen Sie. 1.1.01:48
   entschuldige 1.11.01:36
