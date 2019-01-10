@@ -32,6 +32,8 @@ Handschuhe 4.5.06:05
 
 Handtasche, die 4.5.15:54
 
+Handtuch, das 5.13.22:52
+
 Handy, das 4.22.22:06
 
 Hanover 5.9.14:35
@@ -59,11 +61,15 @@ helfen 2.19.10:01
 
 Helles, das 4.3.10:29
 
+Herbst, der 5.10.12:33
+
 herein 1.19.07:41
 
 Herr 1.2.08:29
   Herrn 1.19.00:29
-  
+
+herzlich 5.14.01:50
+
 heute 1.11.15:22
   heute Abend 1.11.08:32
 
