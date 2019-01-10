@@ -88,6 +88,8 @@ Minute, die
 mir 1.2.09:37
   Es geht mir gut. 1.2.09:37
 
+Mischung, die 5.11.07:38
+
 mit 1.8.16:24
   Möchten Sie mit mir etwas trinken? 1.8.19:29
   mit meinem Mann 1.18.19:09
