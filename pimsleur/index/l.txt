@@ -17,6 +17,9 @@ langweilig 5.4.14:52
 Laptop, der 4.22.30:06
 
 lassen 4.19.16:46
+  gelassen 5.13.10:38
+
+laufen 5.11.04:31
 
 laut 4.28.32:16, 5.9.11:52
   laut Wettervorhersage 5.9.12:06
@@ -45,6 +48,8 @@ Lehrstelle, die 3.23.20:54
 leid 3.15.14:36
   Es tut mir leid 3.15.14:31
 
+Lemonade, die 5.11.05:56
+
 lernen 3.4.06:02
   sie lernt 2.30.23:27
   gelernt 3.3.15:12
@@ -60,6 +65,9 @@ Leute, die 3.10.11:12
 
 lieber 2.8.19:43
   Ich bleibe lieber nicht zu Hause 2.8.21:27
+
+liebste
+  am liebsten 5.10.16:07
 
 liegen 3.5.12:44
   liegt 3.5.12:15
