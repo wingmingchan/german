@@ -20,11 +20,15 @@ danke 1.2.07:42, 1.9.20:18
 dann
   also dann 1.11.07:31, 1.11.13:43
 
+daran 5.11.12:50
+  das erinnert mich daran 5.11.12:29
+
 darauf 4.11.23:57
 
 darf
   Darf ich 2.9.05:23
   du darfst 2.9.09:57
+  Was darf's sein? 5.12.09:14
 
 darin 4.27.11:59
 
@@ -138,6 +142,7 @@ drüben
 du 1.28.00:35
 
 dunkel 4.8.13:06
+  dunkler 5.13.02:31
 
 dunkelblau 4.8.12:42
   das dunkelblaue Paar 4.8:15:43
