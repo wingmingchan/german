@@ -15,6 +15,10 @@ kaputt 4.26.05:46
 
 Karte, die 2.3.18:10
 
+Käse, der 5.12.09:50
+
+Käsekuchen, der 5.12.09:47
+
 Kasse, die 4.5.16:19
 
 kaufen 1.8.14:20
@@ -68,6 +72,11 @@ Klasse, die 4.9.07:27
 
 klein 1.21.10:08
   kleineres, nichts kleineres 4.6.10:15
+
+Klimawandel, der 5.10.09:39
+
+klingen
+  Jetzt klingt Ihr Handy 5.13.08:00
 
 knapp 5.9.04:49
 
