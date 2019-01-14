@@ -7,6 +7,8 @@ Ecke, die 3.10.14:23
 
 Ehepaar, das 4.7
 
+Ei, das 5.15
+
 ein 1.1.13:14
   ein bisschen 1.1.13:14
   ein Bier 1.8.05:27
@@ -19,6 +21,8 @@ einfach 3.3.19:53
 Eingang, der 5.2.09:20
 
 eingeladen 3.13.13:21
+
+eingießen 5.15:04:42
 
 einige 1.26.07:07
 
@@ -59,6 +63,10 @@ empfehlen 3.4.13:05
 empfohlen => empfehlen
 
 Englisch 1.1.02:22
+
+Enkel, der 5.15
+  Enkelin, die 5.15.19:27
+  Enkelkinder 5.15.21:06
 
 entfernt 4.24.23:16
   entfernte 4.11.11:26
@@ -127,3 +135,5 @@ euer 4.15.11:38
 eure 4.16.21:06
 
 Europa, das 3.16.15:00
+
+Ex-Frau 5.15.18:05
