@@ -114,6 +114,8 @@ anrufen 3.11.20:30
   ich rufe an 3.13:03:39
   anzurufen 4.30.11:08
 
+ansehen 5.14.20:18
+
 Anzeige, die 4.30.07:41
 
 Adapter, der 5.5.29:26
@@ -158,6 +160,8 @@ aufgewachsen 3.1.16:49
 
 Aufnahme, die 4.26.08:17
 
+Aufschnitt, der 5.14.13:05
+
 Aufzug, der 4.12.16:22
 
 aus 2.4.09:44
@@ -170,6 +174,9 @@ ausgezeichnet 4.7.12:57
 Ausland, das 3.26:05:43
 
 ausgewachsen 4.12.11:41
+
+ausmachen 5.14
+  Machen Sie bitte das Licht aus 5.14.06:57
 
 ausruhen 4.18.08:11
 
