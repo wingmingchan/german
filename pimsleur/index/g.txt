@@ -75,6 +75,8 @@ geht 1.2.05:33
 gelb 5.13.23:15
   das gelbe Handtuch 5.13.23:39
 
+gelassen => lassen 5.13.10:38
+
 gelesen 4.2.06:49
 
 Geld, das 1.16.04:28
@@ -119,6 +121,8 @@ Geschenk, das 3.29.09:15
   Geschenke, die 3.29.07:21
 
 Geschichte, die 3.23.15:19
+
+geschickt => schicken 5.15.18:42
 
 geschieden 4.14.10:38
 
