@@ -40,6 +40,15 @@ warum 1.25.00:18
 was
   Was möchten Sie essen/trinken? 1.7.07:20
   was für eine Stelle 3.3.11:56
+  Ich kann nicht mehr alles essen, was ich will 5.13.05:24
+  Nicht alles was man hört stimmt 5.14.18:37
+  vieles was 5.15.17:00
+
+Wäsche, die 5.14.23:59
+
+waschen 5.14.24:15
+
+Waschmaschine, die 5.14.25:08
 
 Wasser 1.18.10:54
 
@@ -47,7 +56,7 @@ wechselhaft 5.1.15:52
 
 Wechselkurs, der 5.3.18:53
 
-wechseln 2.25.11:23
+wechseln 2.25.11:23, 5.13.15:28
 
 Weg, der 2.29.16:46
 
