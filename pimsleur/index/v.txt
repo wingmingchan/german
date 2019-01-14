@@ -31,6 +31,8 @@ Verkehrsstau, der, Verkehrsstauung, die 5.10.03:56
 
 Verlängerung, die 5.9.07:46
 
+verlassen 5.14.06:20
+
 verlaufen 5.11.04:13
 
 verlieren 5.8
