@@ -102,6 +102,9 @@ dir 1.28.00:28
 
 direkt 4.24.24:09
 
+diskutieren
+  diskutiert 5.17.09:10
+
 doch 1.4.05:10
 
 Dollar 1.13.10:50
