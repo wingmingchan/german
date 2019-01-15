@@ -6,6 +6,8 @@ machen 1.8.12:21
 
 Mädchen 1.20.08:32
 
+Madrid 5.6.16:42
+
 mag, magst, mag, mögt => mögen
 
 Mai
@@ -68,7 +70,7 @@ Meinung
 
 meins 5.4.11:04
 
-Meissen 4.11.25:22
+Meissen 4.11.25:22, 5.17.11:05
 
 meisten 3.10:10:14
 
@@ -121,6 +123,8 @@ miteinander 5.15.21:57
 
 mitfahren 2.14.08:44
 
+Mitglied 5.17
+
 mitkommen 2.2.20:11
 
 mitnehmen 2.14.08:55
@@ -165,11 +169,17 @@ müde 4.16.03:14
 
 München 1.26.04:25
 
-Museum, das 4.3.29:53
-
 Münster, das 3.10.12:24
 
 Münsterplatz, der 3.10.13:04
+
+Museum, das 4.3.29:53
+
+Musik, die 5.17.23:03
+
+Musiklehrer 5.18.27:35
+
+Musiklehrerin 5.17.24:39
 
 müssen 2.2.14:22
 
