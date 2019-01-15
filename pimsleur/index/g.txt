@@ -19,6 +19,8 @@ Garten, der 3.8.12:33
 Gebäude, das 4.6.20:33
   viele Gebäude 4.6.20:47
 
+gebaut => bauen 5.18.20:57
+
 geben 1.14:06:22
   Geben Sir mir 1.14.06:18
   Ich gebe Ihnen 1.14.22:54
@@ -106,6 +108,8 @@ gerade 3.16.21:22
 
 geradeaus 1.23.16:34
 
+gereist => reisen 5.16.
+
 gerne 1.6.20:42
   nicht sehr gerne 2.9.00:30
 
@@ -151,6 +155,8 @@ gesund 5.1.12.49
 Gesundheit, die 4.5.05:16
 
 gewählt => wählen 5.11.15:18
+
+gewechselt => wechseln 5.16.18:54
 
 gewinnen 5.9
   Wer gewinnt? 5.10.20:48
@@ -199,6 +205,8 @@ Golfplatz, der 3.22.22:36
 Grad, der 5.9.08:22
 
 Grill 4.30.09:47
+
+Grimma 5.17.07:54
 
 groß 1.20.11:05
   Er ist ein sehr großer Junge 1.22.02:25
