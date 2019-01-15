@@ -73,6 +73,8 @@ Klasse, die 4.9.07:27
 klein 1.21.10:08
   kleineres, nichts kleineres 4.6.10:15
 
+klassische 5.17.23:26
+
 Klimawandel, der 5.10.09:39
 
 klingen
@@ -94,6 +96,8 @@ Kollegin 2.4.07:03
 kommen an => ankommen
   Sie kommen an 2.7.14:53
   Komm bitte herein 3.8.24:34
+
+kompliziert 5.16.25:03
 
 Konferenz, die 3.26.03:24
 
@@ -142,3 +146,7 @@ Kunde, der 3.14.15:57
   mit unserem Kunden 3.18.13:23
   mit unserem neuen Kunden 3.18.14:08
   viele unsere Kunden 4.21.19:49
+  
+Küste, die 5.18.05:39
+  an die Küste 5.18.05:54
+  an der Küste 5.18.29:08
