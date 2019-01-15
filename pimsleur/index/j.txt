@@ -13,7 +13,11 @@ Jahr, das 2.4.11:52
   seit drei Jahren 2.4.10:34
   seit einem Jahr 2.4.11:48
 
+Jahrhundert, das 5.18.22:52
+
 Januar, der 2.11.16:44
+
+Jazz 5.17.23:26
 
 jede
   jeden Tag 4.17.23:10
@@ -31,5 +35,9 @@ Juli 4.17.14:54
 
 Junge, der 1.20.11:00
   Jungen 1.20.06:01
+
+jung
+  der jüngere 5.16.04:29
+  als wir jünger waren 5.16.15:39
 
 Juni 4.15.14:12
