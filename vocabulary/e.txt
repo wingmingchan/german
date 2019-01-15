@@ -61,15 +61,15 @@ eigen /ˈaiɡən/: own
   Hast du ein eigenes Auto?
   Do you have your own car?
 
+eigentlich /ˈaiɡəntlɪç/: actually
+  Eigentlich heißt er Johannes, Hansi ist nur sein Spitzname.
+  Actually his name is Johannes – Hansi's just his nickname.
+
 Eigentümer /ˈaiɡəntyːmɐ/, Eigentümerin: owner
 
 eignen /ˈaiɡnən/: to be suitable
   DVDs eignen sich gut zum Archivieren von Fotos
   DVDs are good for archiving photos on.
-
-eigentlich /ˈaiɡəntlɪç/: actually
-  Eigentlich heißt er Johannes, Hansi ist nur sein Spitzname.
-  Actually his name is Johannes – Hansi's just his nickname.
 
 Eilmeldung, die: newsflash
 
@@ -140,7 +140,7 @@ eingehend /ˈainɡeːənt/: extensive, detailed, in-depth
 
 eingeliefert: taken
 
-einheimisch: local, native
+einheimisch /ˈainhaimɪʃ/: local, native
   => heimisch: local
   => Heim, das: home
   einen Einheimischen nach dem Weg fragen: to ask a local for directions
@@ -654,5 +654,15 @@ ewig /ˈeːvɪç/: eternal
 Exklave /ɛksˈklaːvə/, die: exclave
 
 Experte, Expertin /ɛksˈpɛrtə/: expert
+
+extra /ˈɛkstra/: extra, separate, specially
+  Ich habe von meiner Mutter 10 Euro extra bekommen.
+  My mother gave me an extra 10 euros.
+  Die Getränke muss man extra bezahlen.
+  You have to pay for drinks separately.
+  Wir haben dieses Essen extra für dich gekocht.
+  We cooked this meal specially for you.
+  Das hast du doch extra gemacht!
+  You did that on purpose!
 
 exzellent /ɛksʦɛˈlɛnt/: excellent

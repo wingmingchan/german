@@ -76,6 +76,12 @@ lang /laŋ/: long
 
 lange /ˈlaŋə/: a long time
 
+langen /ˈlaŋən/: to reach, to be enough
+  Sie langte in ihre Tasche und holte den Schlüssel heraus.
+  She reached into her purse and took out the key.
+  Der Mantel langte fast bis zum Boden.
+  The coat reached almost to the floor.
+
 langjährigen: of many years
 
 Langlebigkeit, die: longevity

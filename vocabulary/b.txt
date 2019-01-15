@@ -37,6 +37,10 @@ Bahn /baːn/, die, Bahnen: train
 
 bahnen /ˈbaːnən/: to clear the way for sb to sth
 
+Bahnsteig /ˈbaːnʃtaik/, der: track, platform
+  Die Gleise 2 und 3 liegen am gleichen Bahnsteig.
+  Tracks 2 and 3 are on the same platform.
+
 bald /balt/: soon
 
 Balken /ˈbalkən/, der: beam
@@ -162,6 +166,11 @@ Befehl /bəˈfeːl/, der, Befehle: order, command
   Der Offizier gab den Befehl zum Angriff.
   The officer gave orders to attack. 
 
+befestigen /bəˈfɛstɪɡən/: to attach, to fix, to mount
+  ein Schild mit Schrauben an der Wand befestigen
+  to screw a sign to the wall
+
+
 Befliegung: flight, overflying
 
 befördern: to transport, to promote
@@ -248,6 +257,14 @@ Behauptung /bəˈhauptʊŋ/, die: claim, assertion
 beherzigen /bəˈhɛrʦɪɡən/: to take to heart, to heed
   Er beherzigte ihre Worte und fuhr vorsichtig.
   He took her words to heart and drove carefully.
+
+behindert /bəˈhɪndɐt/: disabled
+  geistig/körperlich behindert sein
+  mentally/physically disabled
+
+Behinderte /bəˈhɪndɐtə/: disabled person
+  ein Heim für geistig Behinderte
+  a home for the mentally handicapped
 
 Bein /bain/, das, Beine: leg
   Spinnen haben acht Beine.
@@ -427,6 +444,10 @@ besonders /bəˈzɔndɐs/: particularly, especially
 bestätigen /bəˈʃtɛːtɪɡən/: to confirm
   Die Zahlen bestätigten die Schätzungen der Experten.
   The figures confirmed the experts' estimates.
+
+bestaunen /bəˈʃtaunən/: to gaze in admiration at, to marvel at
+  das Werk eines Künstlers bestaunen
+  to gaze in admiration at the work of an artist
 
 bestehen /bəˈʃteːən/: to be, to exist, to pass
   bestehe, bestehst, besteht, habe bestanden

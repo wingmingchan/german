@@ -278,6 +278,9 @@ Schorle /ˈʃɔrlə/, die: wine mixed with mineral water or lemonade, fruit juic
 
 schossen => schießen
 
+Schraube /ˈʃraubə/, die: screw
+  die Schrauben festdrehen/lösen: to screw in/unscrew the screws
+
 schreiben /ˈʃraibən/: to write
   Er schreibt Reportagen /repɔrˈtaːʒən/.
 
@@ -411,6 +414,10 @@ sehen
 
 sehenswert /ˈzeːənsveːɐt/: worth seeing
   ein sehenswerter Kinofilm: a movie that is worth seeing
+
+Sehenswürdigkeit /ˈzeːənsvʏrdɪçkait/, die, Sehenswürdigkeiten: tourist attraction
+  Die Touristen bestaunten die Sehenswürdigkeiten der Stadt.
+  The tourists were marveling at the city sights.
 
 sehr /zeːɐ/: very
   Ich weiß sehr wohl, dass du mich anlügst!
@@ -606,6 +613,9 @@ spenden /ˈʃpɛndən/: to donate, to give, to provide
 
 Sperma /ˈʃpɛrma/, das, Spermen /ˈʃpɛrmən/: sperm
 
+speziell /ʃpeˈʦjɛl/: special
+  ein ganz spezielles Angebot: a very special offer
+
 Spiegel /ˈʃpiːɡəl/, der: mirror
   sich im Spiegel betrachten: to look at yourself in the mirror
 
@@ -748,6 +758,9 @@ Steuer /ˈʃtɔyɐ/, die: tax
   Steuern zahlen/hinterziehen
   to pay/avoid paying tax
 
+Stichprobe /ˈʃtɪçproːbə/, die: spot check, random sample
+  Stichproben machen: to carry out spot checks
+
 Stichwort /ˈʃtɪçvɔrt/, das: headword, keyword, keypoint, cue
 
 stillen /ˈʃtɪlən/: to breastfeed
@@ -778,16 +791,19 @@ stoßen /ˈʃtoːsən/: to push, to shove, to strike, to bump
   jdn ins Wasser stoßen: to push sb into the water
   mit dem Kopf an die Decke stoßen: to bump your head on the ceiling
 
-Strafe /ˈʃtraːfə/, die: punishment
+Strafe /ˈʃtraːfə/, die: punishment, fine
   Er bekam von seinen Eltern zur Strafe Hausarrest.
-  He was grounded by his parents as a punishment. 
+  He was grounded by his parents as a punishment.
+  => Geldbuße
+  200 Euro Strafe zahlen müssen: to have to pay a 200 euro fine
 
 Straftäter /ˈʃtraːftɛːtɐ/: offender, criminal
   jugendliche Straftäter: young offender
 
 Strand /ʃtrant/, der: flaches Ufer am Meer, beach
 
-Strecke /ˈʃtrɛkə/, die: distance, route
+Strecke /ˈʃtrɛkə/, die, Strecken: distance, route
+  eine weite Strecke zurücklegen: to cover a large distance
 
 streicheln /ˈʃtraiçəln/: to stroke
   den Hund streicheln: to stroke the dog 
@@ -871,5 +887,10 @@ surfen /ˈsøːɐfən/: to surf
   nach Hawaii zum Surfen fahren: to go surfing in Hawaii
   Nach stundenlangem Surfen hatte ich eine Ferienwohnung gefunden.
   I found a holiday home after surfing the Net for hours. 
+
+Symbol /zʏmˈboːl/, das: symbol
+  die Taube als Symbol des Friedens
+  the dove as a symbol of peace
+
 
 System /zʏsˈteːm/, das

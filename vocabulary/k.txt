@@ -92,6 +92,12 @@ kennen /ˈkɛnən/: to know
   Kennst du seinen Namen?
   Do you know his name?
 
+kennzeichnen /ˈkɛnʦaiçnən/: to mark, to brand, to characterize
+  die zum Fällen vorgesehenen Bäume mit einem Kreuz kennzeichnen
+  to mark the trees for felling with a cross
+  Diese Jahre waren von gesellschaftlichen Umbrüchen gekennzeichnet.
+  Those years were characterized by social upheaval.
+
 Kerl /kɛrl/, der: guy, chap, fellow
   das Kerlchen
 
@@ -237,7 +243,11 @@ Konto /ˈkɔnto/, das, Kontos: account
   Die Niederlage geht allein auf sein Konto.
   The defeat is entirely his fault.
 
-kontrollieren /kɔntrɔˈliːrən/: to control
+kontrollieren /kɔntrɔˈliːrən/: to check, to control
+  kontrollieren, ob die Fenster zu sind
+  to check whether the windows are closed
+  die von den Rebellen kontrollierten Gebiete
+  the areas controlled by the rebels
 
 Konsument /kɔnzʊˈmɛnt/, der: consumer
 
@@ -359,6 +369,11 @@ Kunde/Kundin: client, customer
 kündigen /ˈkʏndɪɡən/: to cancel, to terminate, to give notice
 
 künftig /ˈkʏnftɪç/, adj.: future
+
+Kunst /kʊnst/, die, Künste: art
+  darstellende/bildende Kunst: dramatic/fine art
+
+Künstler /ˈkʏnstlɐ/: artist
 
 künstlich /ˈkʏnstlɪç/: artificial
   künstlicher Intelligenz

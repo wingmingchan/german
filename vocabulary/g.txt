@@ -197,6 +197,9 @@ geistern /ˈɡaistɐn/: to wander, to keep running through
   Die Vorstellung von einem eigenen Restaurant geistert ihm immer noch durch den Kopf.
   He still can't get the idea of having his own restaurant out of his head.
 
+geistig: spiritual, mental
+  => Geist
+
 gekleidet: clad, dressed
   => kleiden
 
@@ -216,6 +219,10 @@ gelb /ɡɛlp/: yellow
 
 Geld /ɡɛlt/, das, Gelder: money
   Geld vom Konto abheben: to withdraw money from your account 
+
+Geldbuße, die: fine
+  => Strafe
+  eine hohe Geldbuße: a heavy fine
 
 Geldwäsche /ˈɡɛltvɛʃə/, die: money laundering
 
@@ -265,6 +272,10 @@ genau /ɡəˈnau/: accurate, exact, exactly
   Do you have the exact time?
   Das geschah vor genau vier Jahren.
   That happened exactly four years ago.
+
+genauso /ɡəˈnauzoː/: just/exactly as
+  Ich habe es genauso gemacht, wie du gesagt hast.
+  I did it exactly as you told me to.
 
 Genie /ʒeˈniː/, das: genius
 

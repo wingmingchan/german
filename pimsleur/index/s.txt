@@ -99,6 +99,8 @@ schulden
 Schule, die 2.17.08:23
   an einer Schule 3.23.16:59
 
+Schulferien, die 5.18
+
 schwarz 4.6.03:49
 
 Schwarzwald, der 4.14.06:03
@@ -117,6 +119,8 @@ Schwester 3.2.15:38
 Schwiegereltern 4.18.06:05
 
 Schwiegermutter, die 4.16.07:07
+
+Schwiegertochter 5.17
 
 Schwiegervater, der 4.16.10:19
 
@@ -157,12 +161,18 @@ selbst 5.15
 
 Selbstbedienung, die 5.2.08:26
 
+Semperoper, die 5.17.15:27
+
 Sendung, die 4.19.14:50
 
 September 3.17.02:56
 
+servieren 5.16
+
 setzen 3.17.09:21
   Möchten Sie sich setzen? 3.17.09:14
+
+Sevilla 5.16.16:42
 
 sich 3.17.09:14, 4.2.24:23
 
@@ -201,6 +211,7 @@ so
 sofort 2.22.04:32
 
 Sohn 1.21.04:57
+  Söhne 5.18.27:12
 
 sollen
   ich sollte 3.8.04:08
@@ -223,6 +234,8 @@ Sonntag 2.27.12:11
 
 sonst 3.5.20:32
   sonst noch etwas 3.5.20:58
+
+Spanien 5.16.16:00
 
 spannend 5.9.02:32
 
@@ -325,11 +338,20 @@ studiert 2.17.11:39
 
 Studium, das 3.16.20:23
 
+stummes
+  So was stummes! 5.16.12:21
+
 Stunde, die 2.20.16:13, 3.13.18:11
 
 Stuttgart 2.15.19:21
 
 suchen 2.17.20:19
+
+Süddeutschland 5.18.16:06
+
+Süden, der 5.18.07:27
+  in den Süden 5.18.07:32
+  im Süden 5.18.12:29
 
 Supermarkt, der 5.15.12:04
 

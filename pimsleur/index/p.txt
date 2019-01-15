@@ -7,6 +7,8 @@ Paar, das 4.5.06:54
 paar
   ein paar 1.14.05:36
 
+Panne, die 5.16.17:24
+
 Park, der 3.9.04:04
 
 parken 3.24.13:52
@@ -14,6 +16,8 @@ parken 3.24.13:52
 Party, die 3.15.09:29
 
 Pass, der 3.25.19:54
+
+Passau 5.16.09:56
 
 passen 4.8.28:45
   passt 4.8.16:02
@@ -33,6 +37,8 @@ Person, die
 
 picknicken 4.25
 
+Pisek 5.17.18:10
+
 Plan, der 2.29.09:58
 
 Platz, der 1.4.10:59, 4.30.18:58
@@ -44,6 +50,8 @@ Polizeistation, die 4.28.25:57
 Pommes, die 5.7.09:57
 
 Portemonnaie, das 4.27.10:44
+
+Portugal 5.18.09:37
 
 Post, die 2.18.03:00
   zur Post gehen 2.17.16:17

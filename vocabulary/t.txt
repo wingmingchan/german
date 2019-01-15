@@ -73,6 +73,10 @@ Tau /tau/, der: dew
 
 Tau, das: rope
 
+Taube /ˈtaubə/, die: pigeon, dove
+  Die Tauben gurren auf dem Dach.
+  The pigeons are cooing on the roof.
+
 tauchen /ˈtauxən/: to dive, to swim underwater, to duck, to shroud
   Der Raum war ins Dunkel/in sanftes Kerzenlicht getaucht.
   The room was shrouded in darkness/bathed in soft candlelight.
@@ -220,6 +224,10 @@ treffen /ˈtrɛfən/: to hit, to meet
   The bullet hit its target.
   Ich habe sie gestern zufällig in der Stadt getroffen.
   I met her by chance in town yesterday.
+
+treffend /ˈtrɛfənt/: apt, aptly
+  Sie haben die Situation treffend beschrieben.
+  You described the situation very well. 
 
 treiben /ˈtraibən/: to drive
   Die Hirten trieben die Schafe in den Stall.
