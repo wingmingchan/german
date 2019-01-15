@@ -104,6 +104,8 @@ hoffen 3.16.02:41
 
 hoffentlich 4.1.19:09
 
+Hohenschwangau 5.18.25:43
+
 holen
   ich hole 3.21.16:36
   Sie holen 3.21.17:02
