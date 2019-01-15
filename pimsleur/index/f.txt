@@ -55,6 +55,9 @@ fertig 3.24.18:05
 
 Fest, das 4.5.18:01
 
+Festwochen, die 5.17.21:47
+  während der Festwochen 5.17.22:04
+
 Filialleiter 4.20.12:52
 
 Film, der 4.20.23:21
@@ -99,6 +102,8 @@ Frankfurt
 
 Frankreich, das 3.16.17:33
 
+Frau 1.2.06:59
+
 frei 4.3.01:53
   Ist hier noch frei? 4.24.12:57
 
@@ -107,8 +112,6 @@ Freiburg 4.13.20:35
 Freitag 2.8.11:20
 
 Freizeit, die 3.22.10:53
-
-Frau 1.2.06:59
 
 freuen
   wir freuen uns 4.11.23:39
@@ -120,6 +123,8 @@ Freund, der 1.26.05:38
 Freundin, die 2.12.06:38
 
 frisch 4.29.05:29
+
+Friseur,der 5.16.25:33
 
 früh 2.1.18:00
 
@@ -141,7 +146,7 @@ führen
 
 Führerschein, der 4.28.10:27
 
-Führung, die 4.8
+Führung, die 4.8, 5.17.19:55
 
 fünf 1.10.08:57
 
