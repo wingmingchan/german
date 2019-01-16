@@ -10,6 +10,8 @@ Vegetarierin, die 5.2.12:25
 
 verbessern 4.1.15:27
 
+verbracht => verbringen 5.19.04:03
+
 verbringen 4.1.14:46
 
 Vereinigung, die 4.7.04:35

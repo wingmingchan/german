@@ -54,6 +54,8 @@ gegenüber 5.7.17:11
 gegessen 2.1.07:16
   => essen
 
+gehbehindert 5.20.10:11
+
 gehen 1:15:00:12
   gehe ins Kino/Restaurant
   gehe zur Bank/Post
@@ -226,6 +228,10 @@ Großmutter 4.11.19:13
 Großvater 4.11.19:52
 
 grün 4.20.26:05
+
+Grunewald, der 5.19.21:16
+
+Gruppe, die 5.19.18:57
 
 Grüße
   Schöne Grüße von mir 4.27.28:59

@@ -18,6 +18,10 @@ Fahrenheit 5.9.09:18
 
 Fahrrad, das 2.22.05:42
 
+fahrradfreundlich 5.19.07:55
+
+Fahrradwege 5.19.08:35
+
 Fahrschule, die 4.29.24:11
 
 fährt => fahren 2.5.17:44
@@ -69,6 +73,8 @@ finden 2.21.14:10
 Firma, die 3.3.10:29
 
 Fisch, der 4.10.19:57
+
+fit 5.20.04:50
 
 Fitnessraum, der 4.12.28:04
 
@@ -147,6 +153,7 @@ führen
 Führerschein, der 4.28.10:27
 
 Führung, die 4.8, 5.17.19:55
+  Führungen 5.20.24:50
 
 fünf 1.10.08:57
 

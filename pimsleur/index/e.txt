@@ -63,6 +63,7 @@ empfehlen 3.4.13:05
 empfohlen => empfehlen
 
 Englisch 1.1.02:22
+  zum Englischen Garten 5.20.28:34
 
 Enkel, der 5.15
   Enkelin, die 5.15.19:27
@@ -104,6 +105,9 @@ erinnern
 
 erkältet 4.16.02:00
 
+erklären
+  erklärt 5.20.16:22
+
 eröffnen 3.25.11:15
 
 ersetzen 5.9
@@ -117,6 +121,9 @@ erste
   am ersten Tag 4.24.02:07
 
 Erwachsene 4.9.05:12
+
+erzählen 5.19.02:32
+  Erzähl 5.19.02:39
 
 Essen, das 1.16.00:22
 

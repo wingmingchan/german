@@ -22,6 +22,8 @@ Barcelona 5.18
 
 Bargeld, das 4.25.21:19
 
+barrierefrei 5.20.14:40
+
 Batterie, die 5.17.17:30
 
 bedeckt 4.24.04:48
@@ -39,6 +41,10 @@ Beethoven
 beginnen 2.15.06:42
 
 beginnt 2.9.12:34
+
+Behinderung, die 5.20.21:06
+
+behindertenfreundlich 5.20.13:32
 
 bei 1.6.07:20
   bei mir 1.6.07:17
@@ -167,6 +173,8 @@ Brot, das 4.7.08:53
 brauchen 1.22:15:16
   Aber es braucht etwas Benzin 2.7.08:47
 
+braun 5.20.15:59
+
 Bremen 4.11.29:03
 
 Bremerhaven 4.12.05:11
@@ -181,6 +189,8 @@ Brieftasche 4.27.11:00
 Brille, die 4.20.18:02
 
 bringen 2.25.16:00
+
+Broschüre, die 5.20.15:15
 
 Brötchen, das 5.15.03:11
 

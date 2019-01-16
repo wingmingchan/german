@@ -35,6 +35,8 @@ Pergamonmuseum, das 4.19.27:31
 Person, die
   Personen 4.28.17:45
 
+Picknick, das 5.19.22:49
+
 picknicken 4.25
 
 Pisek 5.17.18:10

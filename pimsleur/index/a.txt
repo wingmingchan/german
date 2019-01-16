@@ -24,6 +24,8 @@ acht
   
 achtzehn 1.14.09:01
 
+Adapter, der 5.5.29:26
+
 Adler, der 
   Zum Adler 3.8.07:55
   der Golden Adler 4.24
@@ -122,9 +124,9 @@ anrufen 3.11.20:30
 
 ansehen 5.14.20:18
 
-Anzeige, die 4.30.07:41
+anstrengend 5.19.09:24
 
-Adapter, der 5.5.29:26
+Anzeige, die 4.30.07:41
 
 Apfelschorle, die 4.26.18:59
 
@@ -155,7 +157,8 @@ auch 1.6.08.14
   Sie auch 1.8.21:48
   Und ein Auto habe ich auch nicht 2.15.16:56
 
-Audioguides 4.7.14:01
+Audioguide 5.20.07:35
+  Audioguides 4.7.14:01
 
 auf 1.2.11:02
   Auf Wiedersehen! 1.2.11:02
