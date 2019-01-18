@@ -254,6 +254,10 @@ behaupten /bəˈhauptən/: to claim
 Behauptung /bəˈhauptʊŋ/, die: claim, assertion
   kühne Behauptungen aufstellen: to make bold claims 
 
+beherrschen /bəˈhɛrʃən/: to master
+  Beherrscht du die Vokabeln schon?
+  Have you learned the vocabulary properly yet?
+
 beherzigen /bəˈhɛrʦɪɡən/: to take to heart, to heed
   Er beherzigte ihre Worte und fuhr vorsichtig.
   He took her words to heart and drove carefully.
@@ -655,6 +659,8 @@ Blei /blai/, das: (metal) lead
 
 bleiben /ˈblaibən/: to stay
   Bleib zu Hause!
+
+Bleistift /ˈblaiʃtɪft/, der: pencil
 
 Blick /blɪk/, der: look, glance
 

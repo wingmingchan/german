@@ -141,6 +141,8 @@ fehlen /ˈfeːlən/: to be missing, to lack, to be absent
   There's a button missing from your shirt.
   Wer fehlt heute?
   Who's absent today?
+  
+fehlend: missing
 
 Fehler /ˈfeːlɐ/, der: mistake, error
   Du hättest die Aktien nicht verkaufen sollen, das war ein Fehler.
@@ -363,6 +365,8 @@ Frage /ˈfraːɡə/, die, Fragen: question
   jdm eine Frage stellen: to ask sb a question
 
 Frankreich /ˈfraŋkraiç/, das: France
+
+Franzose, der, Französin, Franzosen
 
 französisch /franˈtsøːzɪʃ/: french
 

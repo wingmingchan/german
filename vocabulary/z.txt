@@ -45,6 +45,9 @@ Zeichen, das: sign, signal, symbol
   Er gab dem Ober ein Zeichen, dass er zahlen wolle.
   He signaled to the waiter that he wanted to pay.
 
+zeichnen /ˈʦaiçnən/: to draw
+  mit Bleistift eine Skizze zeichnen: to make a sketch in pencil
+
 zeigen /ˈʦaiɡən/: to show
   Zeigst du mir mal deine neuen Schuhe?
   Would you show me your new shoes?
@@ -120,8 +123,13 @@ zögern /ˈʦøːɡɐn/: to hesitate
   Sie zögerte einen Moment mit ihrer Antwort.
   She hesitated a moment before answering.
 
-Zoll /ʦɔl/, Zölle, der: customs duty, tariff
+Zoll /ʦɔl/, Zölle, der: customs, customs duty, tariff
   am Zoll
+  für eine Ware Zoll bezahlen müssen: to have to pay customs duty on an item
+  Das Paket liegt noch beim Zoll.
+  The package is still at customs.
+  Wir müssen erst noch durch den Zoll gehen.
+  We have to go through customs first.
 
 Zoo /ʦoː/, der, Zoos: zoo
 
@@ -197,6 +205,9 @@ zurückdrehen /ʦuˈrʏkdreːən/: to turn down, to turn back
 zurückkehren /ʦuˈrʏkkeːrən/: to return , to come/go back
   Er ist bereits gestern von seiner Reise zurückgekehrt.
   He already got back from his journey yesterday.
+
+Zurückhaltung /ʦuˈrʏkhaltʊŋ/, die: reserve
+  vornehme/abweisende Zurückhaltung: polite/cool reserve
 
 zurückschlagen /ʦuˈrʏkʃlaːɡən/: to hit back, to strike back
 

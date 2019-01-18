@@ -372,6 +372,10 @@ Vogel /ˈfoːɡəl/ Vögel /ˈføːɡəl/, der: bird
 
 Vogelperspektive /ˈfoːɡəlpɛrspɛktiːvə/, die: bird's-eye view
 
+Vokabel /voˈkaːbəl/, die, Vokabeln: item of vocabulary
+  Sie fragt ihren Sohn die Vokabeln ab.
+  She is testing her son on the vocabulary.
+
 Volk /fɔlk/, das, Völker /ˈfœlkɐ/: people, nation
 
 völlig /ˈfœlɪç/: completely, totally
@@ -444,6 +448,12 @@ vorn /fɔrn/: in front
 
 Vorname /ˈfoːɐnaːmə/, der: first name
   ein männlicher/weiblicher Vorname: a male/female first name
+
+vornehm /ˈfoːɐneːm/: exclusive, expensive, distinguished, noble
+  Sie wohnt in einer vornehmen Gegend.
+  She lives in an exclusive area.
+  Er stammt aus vornehmem Geschlecht.
+  He's from a noble family.
 
 Vorort /ˈfoːɐ|ɔrt/, der, Vororte: suburb
   Er wohnt in einem Pariser Vorort.

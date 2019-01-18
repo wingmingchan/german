@@ -341,7 +341,7 @@ am
 
 Ameise /ˈaːmaizə/, die, Ameisen: ant
 
-Amerikaner, Amerikanerin, Amerikanerinnen: American
+Amerikaner, Amerikanerin, Amerikaner, Amerikanerinnen: American
 
 amerikanisch /ameriˈkaːnɪʃ/: American
 
@@ -395,6 +395,9 @@ anfangen /ˈanfaŋən/: to begin
   Have you started the essay yet?
 
 Anfänger: beginner
+
+anfertigen /ˈanfɛrtɪɡən/: to make, to manufacture
+  eine Skizze von einem Gebäude anfertigen: to make a sketch of a building
 
 Aufsatz /ˈaufzaʦ/, der, Aufsätze: essay, paper
   Wir müssen einen Aufsatz über unser schönstes Ferienerlebnis schreiben.

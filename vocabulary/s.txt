@@ -370,6 +370,8 @@ schweigen /ˈʃvaiɡən/: to remain silent
   Er sah mich betroffen an und schwieg.
   He looked at me in dismayed silence.
 
+Schweizer, der, Schweizerin, Schweizer
+
 Schwelle: threshold
   die Braut über die Schwelle tragen
   to carry the bride over the threshold
@@ -519,6 +521,9 @@ sitzen /ˈzɪʦən/: to sit
 Skandal /skanˈdaːl/, der: scandal
   einen Skandal vermeiden/vertuschen: to avoid/hush up a scandal
 
+Skizze /ˈskɪʦə/, die, Skizzen: sketch
+  eine Skizze von einem Gebäude anfertigen: to make a sketch of a building
+
 Sklave /ˈsklaːvə, ˈsklaːfə/, Sklavin, Sklaven, Sklavinnen: slave
   jdn wie einen Sklaven behandeln: to treat sb like a slave 
 
@@ -589,6 +594,12 @@ sowie /zoˈviː/: and, as well as
 spähen /ˈʃpɛːən/: to peer
   Er spähte über den Zaun/aus dem Fenster.
   He peered over the fence/out of the window.
+
+Spanien
+
+Spanier, der, Spanierin, Spanier
+
+Spanisch /ˈʃpaːnɪʃ/
 
 spannend /ˈʃpanənt/: exciting
 
@@ -678,6 +689,12 @@ Stadt /ʃtat/, Städte, die: city
 Stadtteil /ˈʃtattail/, der: district
 
 *Stahl /ʃtaːl/, der: steel
+
+stammen /ˈʃtamən/: to come, to originate
+  Das Gemälde stammt von Ernst Klee.
+  The painting is one of Ernst Klee's.
+  Sie stammt aus einer reichen Familie.
+  She comes from a wealthy family.
 
 Stand /ʃtant/, der: stall, state, level
   ein Marktstand mit Gemüse und Früchten: a market stall selling fruit and vegetables
