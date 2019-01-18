@@ -90,6 +90,8 @@ amüsieren
 anbieten 4.28.20:18
 
 andere 3.13.23:30
+  anderes Mal 5.21.27:42
+  anderen 5.24.14:49
 
 ändern 3.26.07:50
   es ändert sich jetzt 5.13.01:55
@@ -116,13 +118,16 @@ Annonce, die 4.30.07:54
 
 anprobieren 4.7.17:11
 
-Anrufe 4.4.17:10
+Anruf, der 5.23.19:17
+  Anrufe 4.4.17:10
 
 anrufen 3.11.20:30
   ich rufe an 3.13:03:39
   anzurufen 4.30.11:08
 
 ansehen 5.14.20:18
+
+anstatt 5.24.17:28
 
 anstrengend 5.19.09:24
 
@@ -151,6 +156,8 @@ Artikel, der 4.2.07:32
 Arzt 2.18.21:32
 
 Aspirin, das 4.20.14:31
+
+aua 5.23.15:54
 
 auch 1.6.08.14
   Ich auch 1.7.12:02

@@ -30,6 +30,9 @@ fährt => fahren 2.5.17:44
 fährst => fahren
   du fährst 2.9.20:20
 
+Fall, der 5.24.13:47
+  auf jeden Fall 5.24.13:53
+
 Farbe, die 4.6.03:41
 
 fast 4.2.17:38
@@ -87,6 +90,8 @@ fliegen 2.26.26:56
 Flug 4.1, 4.30.31:05
 
 Flugkarten 4.21.11:34
+
+Fluglinie, die 5.22.19:31
 
 Flugtickets 4.21.11:57
 
@@ -179,3 +184,5 @@ Fußball, der 5.8.22:06
 Fußballspiel, das 5.8.22:02
 
 Fußgelenk, das 4.24.11:09
+
+füttern 5.21.13:10

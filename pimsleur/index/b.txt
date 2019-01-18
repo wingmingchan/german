@@ -16,6 +16,8 @@ bald 3.6.11:58
 
 Balkon, der 4.25.09:32
 
+Balkongarten 5.22.29:22
+
 Bank, die 2.25.12:54
 
 Barcelona 5.18
@@ -25,6 +27,12 @@ Bargeld, das 4.25.21:19
 barrierefrei 5.20.14:40
 
 Batterie, die 5.17.17:30
+
+Bauer 5.21.08:04
+
+Bauernhof, der 5.21.08:48
+
+Bébé, das 5.23.21:42
 
 bedeckt 4.24.04:48
 
@@ -94,6 +102,8 @@ besetzt 4.4.05:38
 
 besichtigen 3.10.20:00
 
+Besichtigung, die 5.21
+
 besonders 3.19.16:42
 
 besorgt
@@ -115,7 +125,8 @@ bestellen 3.4.10:22
 
 Bestsellerliste, die 4.4.24:22
 
-zu Besuch 2.3.13:45
+Besuch, der 5.21.02:19
+  zu Besuch 2.3.13:45
 
 besuchen 1.26.06:19
   ich besuche 1.26.05:50
@@ -138,6 +149,8 @@ billig
 bin 1.3.06:23
   Ich bin Amerikaner 1.3.06:23
   Ich bin's. 1.12
+
+bio 5.21.17:19
 
 bis 1.10.00:24
   bis morgen 1.11.24:37

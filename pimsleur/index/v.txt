@@ -41,6 +41,8 @@ verlieren 5.8
 
 verloren => verlieren 5.8.06:44
 
+verschieben 5.22.08:04
+
 Verschiebung, die 4.17.03:47
 
 verstehen 1.1.03:28
@@ -98,7 +100,7 @@ Vorschlag, der 4.21.22:24
 
 Vorsicht, die 4.20.09:18
 
-vorstellen 2.11.21:32
+vorstellen 1.21.19:37, 2.11.21:32
   Das kann ich mir vorstellen 2.11.21:21
   Darf ich mich vorstellen? 3.1.12:12
 

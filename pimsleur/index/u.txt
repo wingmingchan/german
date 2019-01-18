@@ -24,6 +24,8 @@ um 1.9.10:56
   Um wie viel Uhr? 1.9.10:56
   um ihr Deutsch zu verbessern 4.1.22:47
 
+umbuchen 5.22.18:43
+
 Umgebung, die 4.14.04:52
   
 umsteigen 4.10.08:04
@@ -32,6 +34,8 @@ Umwelt, die 4.21.07:02
   um die Umwelt besorgt 4.21.20:18
 
 umweltfreundlich 4.21.21:17
+
+umziehen 5.24.09:38
 
 unbequem 5.2.03:57
 

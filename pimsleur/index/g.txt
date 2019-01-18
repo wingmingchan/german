@@ -49,6 +49,8 @@ gefragt 3.12.19:12
 
 gegen 5.8.22:37
 
+Gegend, die 5.22.04:56
+
 gegenüber 5.7.17:11
 
 gegessen 2.1.07:16
@@ -94,6 +96,10 @@ Geldautomat, der 4.25.25:39
 Gelenk, das 4.26.21:19
 
 gemacht 2.1.05:41
+
+Gemüse, das 5.21.23:45
+
+Gemüsegarten, der 5.21.23:51
 
 genau 5.5.24:54
 
@@ -203,6 +209,8 @@ Goethe 1.4.08:33
 Golf, das 3.22.15:52
 
 Golfplatz, der 3.22.22:36
+
+Goslar 5.24.16:00
 
 Grad, der 5.9.08:22
 

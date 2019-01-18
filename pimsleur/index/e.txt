@@ -88,7 +88,7 @@ er /eːɐ/ 1.14, 1.19.04:40
 
 Erdbeben, das 5.16.14:35
 
-erfahren 4.16.27:38
+erfahren 4.16.27:38, 5.23:23:10
 
 Erfolg, der 3.15.08:48
 
@@ -122,6 +122,9 @@ erste
 
 Erwachsene 4.9.05:12
 
+erwarten 5.23
+  erwartet 5.23.04:10
+
 erzählen 5.19.02:32
   Erzähl 5.19.02:39
 
@@ -130,6 +133,8 @@ Essen, das 1.16.00:22
 essen 1.5.14:44
   Ich esse jetzt 1.10.14:35
   Haben Sie schon gegessen? 1.29.11:45
+
+esst => essen
 
 Etage, die 4.12.14:27
 
@@ -144,5 +149,7 @@ euer 4.15.11:38
 eure 4.16.21:06
 
 Europa, das 3.16.15:00
+
+eventuell 5.24.12:19
 
 Ex-Frau 5.15.18:05

@@ -39,6 +39,10 @@ Picknick, das 5.19.22:49
 
 picknicken 4.25
 
+Piloten 5.22.13:50
+
+Pilotenstreik, der 5.22.13:44
+
 Pisek 5.17.18:10
 
 Plan, der 2.29.09:58
@@ -70,9 +74,15 @@ probieren 4.7.08:27
 Problem, das 4.19.30:27
 
 Produkt, das 4.22.05:47
+  Produkte 5.21.18:02
+
+produzieren 5.21, 5.22.06:51
+  produziert 5.21.16:30
 
 Projekt, das 3.20.16:01
 
 prost 2.3.28:13
 
 Punkt, der 3.26.15:26
+
+Puzzle, das 5.21.20:52
