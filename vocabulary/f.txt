@@ -167,6 +167,10 @@ Feld /fɛlt/, das: field
 Fell /fɛl/, das, Felle: fur, coat
   einer Katze über das Fell streicheln: to stroke a cat’s coat 
 
+Felsen /ˈfɛlzən/, der: rock
+
+felsig /ˈfɛlzɪç/: rocky, craggy
+
 Felswand, die: wall of rock
 
 Fenster /ˈfɛnstɐ/, das: window
@@ -214,6 +218,7 @@ Feuer /ˈfɔʏɐ/, das: fire
 Feuerlöscher, der: fire extinguisher
 
 Feuerwehr /ˈfɔʏɐveːɐ/, die: fire department
+  die Feuerwehr alarmieren/rufen: to alert/call the fire department
 
 Feuerwehrmann: fireman
 
@@ -413,6 +418,8 @@ freuen /ˈfrɔyən/: to be pleased, to look forward to
   Ich freue mich schon auf deinen Besuch.
   I'm already looking forward to your visit.
 
+Freund /frɔynt/, Freundin, Freunde, Freundinnen: friend
+
 Frieden /ˈfriːdən/, der: peace
   ein langer, ungestörter Frieden: a long period of uninterrupted peace
 
@@ -471,6 +478,13 @@ füllen /ˈfʏlən/: to fill
   einen Eimer mit Wasser füllen: to fill a bucket with water
 
 Fünftel: fifth
+
+Funke /ˈfʊŋkə/, die: spark
+  Bei dieser Dürre genügt ein Funke, um einen Waldbrand auszulösen.
+  In this drought one spark is enough to cause a forest fire.
+
+funken /ˈfʊnkən/: to radio
+  einen Notruf funken: to send out an SOS
 
 funktionieren /fʊŋkʦjoˈniːrən/: to function, to work
   Geburtstag /ɡəˈbuːɐʦtaːk/: birthday

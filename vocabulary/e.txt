@@ -135,6 +135,12 @@ einfügen /ˈainfyːɡən/: to insert, to fit in
 
 Eingang /ˈainɡaŋ/, der: entrance, start, receipt, delivery
 
+eingehen /ˈainɡeːən/: to take, to enter into, to be received
+  Ich gehe jede Wette ein, dass das stimmt.
+  I'd bet any money that that's true.
+  Ihr Auftrag ist bei uns eingegangen und wird umgehend bearbeitet.
+  Your order has been received and will be processed immediately.
+
 eingehend /ˈainɡeːənt/: extensive, detailed, in-depth
   eine eingehende Untersuchung: an in-depth examination
 
@@ -487,7 +493,11 @@ Erklärung /ɛɐˈklɛːrʊŋ/, die: explanation, statement, declaration
   Ich möchte dazu jetzt keine Erklärung abgeben.
   I would now like to deliver a statement on that.
 
+erkoren => erküren
+
 erkunden /ɛɐˈkʊndən/: to explore
+
+erküren: to choose to be
 
 Erlass /ɛɐˈlas/, der: decree, remission, release
   Schuldenerlass: debt relief
@@ -505,6 +515,11 @@ erleben /ɛɐˈleːbən/: to experience, to witness
 Erlebnis /ɛɐˈleːpnɪs/, das, Erlebnisse: experience
   Der Abend war ein unvergessliches Erlebnis für sie.
   The evening was an unforgettable experience for her.
+
+erledigen /ɛɐˈleːdɪɡən/: to take care of, to deal with, to carry out, to be resolved, to be taken care of
+  die Einkäufe erledigen: to do the shopping
+  Der Fall hat sich erledigt.
+  The matter has been resolved.
 
 erleiden /ɛɐˈlaidən/: to suffer, to sustain
   Sie musste in ihrer Jugend viel Schlimmes erleiden.
@@ -592,11 +607,18 @@ erwägen /ɛɐˈvɛːɡən/: to consider
   Er erwog, sich einen zweiten Computer zu kaufen.
   He considered buying himself a second computer.
 
+erwählen /ɛɐˈvɛːlən/: to choose
+
 erwarten /ɛɐˈvartən/: to expect
   Ich erwarte dich dann um drei in meinem Büro.
   So I'll expect you at three in my office.
 
 erweitern /ɛɐˈvaitɐn/: to expand, to grow, to increase
+
+erwünscht /ɛɐˈvʏnʃt/: desired, welcome
+  den erwünschten Erfolg erzielen: to have the desired success
+  Kinder sind hier scheinbar nicht erwünscht.
+  It seems as though children aren't welcome here.
 
 *Erz /eːɐts/, das: ore
 

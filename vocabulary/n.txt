@@ -86,6 +86,10 @@ Nähe /ˈnɛːə/, die: vicinity
   Gibt es hier in der Nähe einen Supermarkt?
   Is there a supermarket nearby?
 
+nebst /neːpst/: together with, including
+  die gesamte Familie nebst Kindern
+  the whole family, including the children
+
 necken /ˈnɛkən/: to tease
   Die Kinder neckten die Katze mit einem Grashalm.
   The children were teasing the cat with a blade of grass.
@@ -154,6 +158,10 @@ nötig /ˈnøːtɪç/: necessary
 nötigen /ˈnøːtɪɡən/: to urge, to force, to coerce
   Sie haben uns zum Bleiben genötigt.
   They urged us to stay.
+
+Notruf /ˈnoːtruːf/, der: emergency call
+  Mehrere Notrufe gingen bei der Feuerwehr ein.
+  The fire service received several emergency calls.
 
 notwendig /ˈnoːtvɛndɪç/: necessary
   => nötig

@@ -68,6 +68,12 @@ Tatort /ˈtaːt|ɔrt/, der: crime scene
 Tatsache /ˈtaːʦaxə/, die: fact
 
 tatsächlich /ˈtaːtzɛçlɪç/: actual
+  Die tatsächliche Höhe des Schadens ist noch unbekannt.
+  The actual extent of the damage is still unknown.
+  jdn vor tatsächlichen oder vermeintlichen Gefahren schützen
+  to protect sb from real or imagined dangers
+  Wir hatten mit zwei Stunden gerechnet, tatsächlich wuden wir aber schneller fertig.
+  We'd reckoned on two hours but actually we were finished quicker than that.
 
 Tau /tau/, der: dew
 
@@ -166,6 +172,14 @@ Tod /toːt/, der: death
 Ton /toːn/, der, Töne /ˈtøːnə/: sound, tone, clay
   Das Kätzchen gab hohe Töne /ˈtøːnə/ von sich.
   The kitten made high-pitched noises.
+
+tönen /ˈtøːnən/: to tint, to brag, to sound
+  Sie hat sich die Haare rötlich tönen lassen.
+  She had a reddish tint put in her hair.
+  Kurz vor der Niederlage hatte er noch getönt: „Den Sieg habe ich schon in der Tasche!‟
+  Shortly before he lost, he was still bragging that "I've already got the win in the bag!"
+  Da tönte es aus dem Lautsprecher: …
+  The words came through the loudspeaker: …
 
 Topf /tɔpf/, der, Töpfe: pot, (sauce)pan
   die Nudeln aus dem Topf schütten

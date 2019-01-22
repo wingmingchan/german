@@ -399,10 +399,6 @@ Anfänger: beginner
 anfertigen /ˈanfɛrtɪɡən/: to make, to manufacture
   eine Skizze von einem Gebäude anfertigen: to make a sketch of a building
 
-Aufsatz /ˈaufzaʦ/, der, Aufsätze: essay, paper
-  Wir müssen einen Aufsatz über unser schönstes Ferienerlebnis schreiben.
-  We have to write an essay about the nicest thing that happened to us on vacation.
-
 Angabe /ˈanɡaːbə/, die: information, statement
   Er hat der Polizei gegenüber falsche Angaben gemacht.
   He made false statements to the police.
@@ -495,6 +491,9 @@ Ansammlung /ˈanzamlʊŋ/, die: collection, crowd, gathering
 anschießen /ˈanʃiːsən/: to wound
 
 anschließend /ˈanʃliːsənt/: subsequent
+
+ansehen /ˈanzeːən/: to look at
+  jdn fragend ansehen: to look at sb questioningly
 
 ansetzen /ˈanzɛʦən/: to schedule, to estimate, to develop, to place
   Die nächste Sitzung ist für Montag angesetzt.
@@ -729,6 +728,10 @@ aufregen /ˈaufreːɡən/: to get upset/worried/excited
 aufrichtig /ˈaufrɪçtɪç/: sincere, honest
   aufrichtigen Dank empfinden: to be sincerely grateful 
 
+Aufsatz /ˈaufzaʦ/, der, Aufsätze: essay, paper
+  Wir müssen einen Aufsatz über unser schönstes Ferienerlebnis schreiben.
+  We have to write an essay about the nicest thing that happened to us on vacation.
+
 aufschlagen /ˈaufʃlaːɡən/: to open, to add, to hit
   Ich hielt sie für tot, bis sie die Augen aufschlug.
   I thought she was dead till she opened her eyes.
@@ -743,7 +746,11 @@ Auftrag /ˈauftraːk/, der, Aufträge /ˈauftrɛːɡə/: task, job, order, contr
 
 Auftreten /ˈauftreːtən/, das: occurrence, appearance, behavior
 
+Auftritt /ˈauftrɪt/, der, Auftritte: appearance, performance, (theatre) scene
+
 Aufzucht /ˈaufʦʊxt/, die: rearing, breeding
+
+Aufzug /ˈaufʦuːk/, der, Aufzüge: elevator, (theatre) act
 
 Auge /ˈauɡə/, das: eye
   blaue/gute Augen haben

@@ -18,6 +18,8 @@ gähnend /ˈɡɛːnən/: yawning
 
 Gams, Gämse /ˈɡɛmzə/, die: chamois
 
+gangbar /ˈɡaŋbaːɐ/: practicable, viable, passable
+
 Ganges , der
 
 Gans /ɡans/, die, Gänse /ˈɡɛnzə/: goose
@@ -63,6 +65,8 @@ Gatte/Gattin: spouse
 Gebet /ɡəˈbeːt/, das: prayer
   die Hände zum Gebet falten
   to fold your hands in prayer
+
+gebeten /ɡəˈbeːtən/ => bitten
 
 Gebiet /ɡəˈbiːt/, das: region, area
 
@@ -130,17 +134,22 @@ gegen /ˈɡeːɡən/: against, toward
 
 Gegenangriff, der: counter-attack
 
+Gegenschlag /ˈɡeːɡənʃlaːk/, der: counter-strike
+
+Gegenstelle, die: remote terminal, distant end
+
 gegenüber /ɡeːɡənˈ|yːbɐ/: opposite, compared to, in comparison with, toward(s)
   Die Post ist genau gegenüber dem Bäcker.
   The post office is opposite the baker's.
   Erwachsenen gegenüber ist sie immer sehr höflich.
   She's always very polite toward adults.
 
-Gegenschlag /ˈɡeːɡənʃlaːk/, der: counter-strike
-
-Gegenstelle, die: remote terminal, distant end
-
-gegenüber /ɡeːɡənˈ|yːbɐ/: opposite
+Gegenwart /ˈɡeːɡənvart/, die: present
+  in der Gegenwart leben: to live in the present
+  Das Verb steht in der Gegenwart.
+  The verb is in the present tense.
+  Unsere Gegenwart war scheinbar nicht erwünscht.
+  Our presence was apparently undesired.
 
 Gegner /ˈɡeːɡnɐ/, Gegnerin: opponent
   <=> Anhänger

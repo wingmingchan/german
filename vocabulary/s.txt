@@ -113,6 +113,9 @@ schauten => schauen
 
 Scheibe /ˈʃaibə/, die: window pane
 
+scheinbar /ˈʃainbaːɐ/: apparent
+  ein scheinbarer Widerspruch: an apparent contradiction
+
 scheinen /ˈʃainən/: to shine, to seem
   Das scheint mir keine gute Idee zu sein.
   That doesn't seem a very good idea to me.
@@ -784,6 +787,23 @@ stillen /ˈʃtɪlən/: to breastfeed
    Planst du, dein Kind zu stillen?
    Are you planning to breastfeed your baby?
 
+Stimme /ˈʃtɪmə/, die: vote
+
+stimmen /ˈʃtɪmən/:
+  richtig, korrekt sein
+  „Das sind also 534 Euro. Stimmts?‟ – „Stimmt genau!‟
+  "So that's 534 euros. Is that right?" – "That's exactly right."
+  Stimmt so/schon! Keep the change!
+  wahr sein
+  „Stimmt es, dass er entlassen wurde?‟ – „Ja, stimmt!‟
+  "Is it true that he was fired?" – "Yes, it's true."
+  seine Stimme abgeben, wählen
+  mit Ja/Nein stimmen
+  to vote yes/no
+  so einstellen, dass alle Töne die richtige Höhe haben
+  eine Gitarre stimmen: to tune a guitar
+  jdn froh/traurig / … stimmen: to make sb feel happy/sad/…
+  
 Stimmung /ˈʃtɪmʊŋ/, die: mood, atmosphere, good mood
   Er ist heute in schlechter Stimmung.
   He's in a bad mood today.
