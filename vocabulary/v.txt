@@ -289,9 +289,18 @@ Versuch /fɛɐˈzuːx/, der: attempt
 Vertrag /fɛɐˈtraːk/, der: contract
   einen Vertrag mit jdm schließen: to sign a contract with sb
 
+Vertrauen /fɛɐˈtrauən/, das: trust, confidence
+  Ich habe großes Vertrauen in Ihre Kompetenz.
+  I have great confidence in your competence.
+
+vertrauen /fɛɐˈtrauən/: to trust
+  Ich vertraue ihm blind.
+  I trust him completely.
+
 vertraulich: confidential
 
 vertraut /fɛɐˈtraut/: intimate, close, familiar
+  => traut
   vertrauten Umgang mit jdm haben: to be close friends with sb
   Er entdeckte ein vertrautes Gesicht in der Menge.
   He discovered a familiar face in the crowd.
