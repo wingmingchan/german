@@ -225,11 +225,20 @@ Tränengas: tear gas
 
 trat => treten: to enter
 
-trauen: to marry
+trauen /ˈtrauən/: to trust, to dare, to marry
+  => vertrauen
+  Ich glaube nicht, dass man ihr trauen kann.
+  I don't think she can be trusted.
+  Traust du dich, vom Dreimeterbrett zu springen?
+  Do you dare jump from the three-meter board?
+  Von welchem Pfarrer wollt ihr euch trauen lassen?
+  Which priest do you want to be married by?
 
 traurig /ˈtraurɪç/: sad, unhappy
   Warum bist du heute so traurig?
   Why are you so sad today?
+
+traut /traut/: intimate, cozy, beloved
 
 Trauung /ˈtrauʊŋ/, die: wedding
 
