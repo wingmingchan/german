@@ -233,6 +233,11 @@ Affe /ˈafə/, der, Affen: monkey, ape
   Sie ist ihrer Schwester sehr ähnlich.
   She's very like her sister.
 
+ahnen /ˈaːnən/: to foresee, to sense
+  Das konnte ich ja nicht ahnen!
+  I couldn't have imagined that would happen!
+  nichts Böses ahnend: not expecting anything bad to happen
+
 Ahnung /ˈaːnʊŋ/, die: idea
   Ich hab wenig Ahnung von Computern.
   I have no idea about computers.
@@ -333,6 +338,9 @@ Alter /ˈaltɐ/, das: age, old age
 Alterssicherung, die: retirement provision
 
 Altersvorsorge /ˈaltɐsfoːɐzɔrɡə/, die: pension plan
+
+altruistisch /altruˈɪstɪʃ/: altruistic
+  altruistisches Verhalten: altruistic behavior
 
 am
   Ich bin am größten!
@@ -565,6 +573,11 @@ anziehen /ˈanʦiːən/: to attract, to get dressed
 
 anzogen => anziehen
 
+Anzug /ˈanʦuːk/, der, Anzüge: suit
+  In der Arbeit muss er Anzug tragen.
+  He has to wear a suit to work.
+  Jogginganzug: jogging suit
+
 anzünden /ˈanʦʏndən/: to light
   Sie zündete sich eine Zigarette an.
   She lit a cigarette.
@@ -767,6 +780,8 @@ Ausblick /ˈausblɪk/, der: view, outlook, perspective
   ein Zimmer mit Ausblick aufs Meer
   a room with a view of the sea
 
+ausbrechen /ˈausbrɛçən/: to break out, to escape, to erupt
+
 ausbreiten /ˈausbraitən/: to spread (out), to lay out
 
 ausdehnen /ˈausdeːnən/: to stretch, to extend, broaden
@@ -813,6 +828,9 @@ ausgeben /ˈausɡeːbən/: to spend
 ausgehen /ˈausɡeːən/: to go out, to finish, to run out, to go off
   etw. geht von jdm/etw. aus
   welche Gefahr von Adolf Hitler ausgeht
+
+ausgezeichnet /ˈausɡəʦaiçnət/: excellent
+  => auszeichnen
 
 auskühlen: to cool
 
@@ -927,5 +945,9 @@ Ausweitung /ˈausvaitʊŋ/, die: expansion
   to fear that the problem will expand to other areas
 
 auszählen: to count
+
+auszeichnen /ˈausʦaiçnən/: to honor, to distinguish
+  Sie wurde mit dem Bundesverdienstkreuz ausgezeichnet.
+  She was awarded the German Federal Cross of Merit.
 
 Autoschlosser: car mechanic
