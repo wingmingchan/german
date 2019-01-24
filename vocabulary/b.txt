@@ -28,12 +28,17 @@ baden /ˈbaːdən/: to take a bath, to bathe, to swim
   We bathe our baby every day.
   nackt baden to bathe (in the) nude
 
+Badewanne /’baːdəvanə/, die: bath
+  sich in die Badewanne legen: to lie down in the bath
+
 Badezimmer /ˈbaːdəʦɪmɐ/, das: bathroom
 
 baff /baf/: flabbergasted
 
-Bahn /baːn/, die, Bahnen: train
-  mit der Bahn nach Berlin fahren: to take the train to Berlin 
+Bahn /baːn/, die, Bahnen: train, track, path
+  mit der Bahn nach Berlin fahren: to take the train to Berlin
+  Auf Bahn drei startet Johnson für die USA.
+  In lane three it's Johnson, running for the USA.
 
 bahnen /ˈbaːnən/: to clear the way for sb to sth
 
@@ -74,6 +79,7 @@ Bar /baːɐ/, die, Bars: bar
 Bär /bɛːɐ/, der, Bärin, Bären: bear
 
 barmherzig /barmˈhɛrʦɪç/: compassionate, kind-hearted
+  der barmherzige Samariter: the good Samaritan
 
 Bart /baːɐt/, der, Bärte /ˈbɛːɐtə/: beard
   sich [dative] einen Bart wachsen lassen: to grow a beard
@@ -236,6 +242,10 @@ Begleitung, die: companion, accompaniment
   He came to the wedding on his own.
   in (jds) Begleitung: in (sb's) company
   die Frau in seiner Begleitung: the woman who accompanied him
+
+beglücken /bə’ɡlʏkən/: to please, to make happy
+  Das war eine beglückende Erfahrung.
+  That was an uplifting experience.
 
 Begriff /bəˈɡrɪf/, der: idea, notion
 
@@ -401,6 +411,10 @@ berühmt /bəˈryːmt/: famous
   Das Hotel ist für seine gute Küche berühmt.
   The hotel is famous for its good cuisine.
 
+Berühmtheit /bəˈryːmthait/, die: fame
+  Der Erfolg verhalf ihr zu einiger Berühmtheit.
+  This success helped her become moderately famous.
+
 besaßen => besitzen
 
 beschäftigen /bəˈʃɛftɪɡən/: to employ
@@ -564,6 +578,13 @@ Bewältigung /bəˈvɛltɪɡʊŋ/, die: coping (with), handling
   die Bewältigung einer Krise: coping with a crisis
 
 bewegen /bəˈveːɡən/: to move, to budge, to move forward
+  Der Felsblock ließ sich nicht von der Stelle bewegen.
+  The boulder couldn't be budged.
+  Ich fand die Schlussszene sehr bewegend.
+  I found the closing scene very moving.
+
+Beweggrund /bəˈveːkɡrʊnt/, der: motive
+  ein Mord aus niederen Beweggründen: murder for base motives
 
 Bewegung /bəˈveːɡʊŋ/, die: movement
   in Bewegung: in motion
@@ -616,6 +637,7 @@ bilden /ˈbɪldən/: to form, to constitute
   Take each other by the hand and form a circle.
 
 Bildung /ˈbɪldʊŋ/, die: education, forming
+  eine gute Bildung erhalten: to receive a good education
   eine Partei mit der Regierungsbildung beauftragen
   to assign a party the task of forming a government
 
@@ -740,6 +762,9 @@ Bordell /bɔrˈdɛl/, das: brothel
 
 Börse /ˈbœrzə/, die: stock market, wallet
 
+Böse /ˈbøːzə/, das, Bösen: evil
+  der Kampf zwischen Gut und Böse: the fight between good and evil
+
 böse /ˈbøːzə/: wicked, evil, nasty, naughty, angry
   Er hat es nicht böse gemeint.
   He didn't mean any harm.
@@ -819,7 +844,7 @@ Brücke /ˈbrʏkə/, die, Brücken: bridge
   A rope bridge led across the river.
 
 Brust /brʊst/, die, Brüste: chest, breast
-  Brustschwimmen: breaststoke
+  Brustschwimmen: breaststroke
   Brustkrebs: breast cancer
 
 Brut, die: brood, breeding
@@ -853,8 +878,9 @@ Bulle /ˈbʊlə/, der: bull, cop
 
 bullig /ˈbʊlɪç/: beefy
 
-Bund /bʊnt/, der: federal government, confederacy
+Bund /bʊnt/, der: federal government, confederacy, association, league
   Bund und Länder: the German federal government and the Länder
+  einem Bund beitreten: to join an association
 
 Bundesamt, das: Federal Office
 
@@ -872,6 +898,11 @@ Bürger /ˈbʏrɡɐ/, der: citizen
 Bürgermeister: mayor
 
 Bus, der
+
+Busen /ˈbuːzən/, der, Busen: bosom
+  Sie hat einen üppigen Busen.
+  She has a voluptuous bosom.
+  einen Freund an den Busen drücken: to press a friend's head against your bosom 
 
 Bushaltestelle, die
 
