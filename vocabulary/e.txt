@@ -53,7 +53,7 @@ ehrlich /ˈeːɐlɪç/: honest
   Möchtest du eine ehrliche Antwort?
   Do you want an honest answer?
 
-Ei /ai/, das: egg
+Ei /ai/, das, Eier: egg
 
 Eid /ait/, der: oath
 
@@ -319,7 +319,10 @@ endlich /ˈɛntlɪç/: finally
   Endlich geht es ihr wieder besser.
   She's finally feeling better. 
 
-eng: narrow
+eng /ɛŋ/: narrow, tight
+  Die Hose ist mir zu eng.
+  These pants are too tight for me.
+
 
 Enge /ˈɛŋə/, die: narrowness, tightness
   die Enge in der überfüllten U-Bahn
@@ -337,6 +340,12 @@ Englisch /ˈɛŋlɪʃ/
 entfernt /ɛntˈfɛrnt/: away, distant, remote
 
 Entfernung /ɛntˈfɛrnʊŋ/, die: distance
+
+entgegen: toward, against
+  dem Himmel/der Sonne entgegen: toward the sky/sun
+  der Strömung entgegen: against the current
+  allen Erwartungen/den Ankündigungen entgegen
+  against all expectations/contrary to announcements
 
 enthalten /ɛntˈhaltən/: to contain, to hold
   Das Wasser hier enthält viel Kalk.
@@ -406,6 +415,8 @@ Erbe /ˈɛrbə/, das: inheritance, heritage
 
 Erde /ˈeːɐdə/, die
 
+Erdenrund, das: globe, world
+
 erdrutschartig, adj: landslide, devastating
 
 Erektion /erɛkˈʦjoːn/, die, Erektionen: erection
@@ -443,6 +454,11 @@ ergänzen /ɛɐˈɡɛnʦən/: to add, to complete
   Bitte ergänzen Sie die fehlenden Wörter.
   Please add the missing words.
 
+ergeben /ɛɐˈɡeːbən/: to amount to, to be, to result in, to show, to reveal, to indicate,
+to mean, to present itself, to come along, to arise, to surrender, to capitulate
+  Wie viel ergibt 100 geteilt durch 5?
+  How much is 100 divided by 5?
+
 Ergebnis /ɛɐˈɡeːpnɪs/, das: result, conclusion
   Die Verhandlungen blieben ohne Ergebnis.
   The negotiations did not produce any concrete results.
@@ -453,6 +469,9 @@ ergehen /ɛɐˈɡeːən/:
   jdm ergeht es irgendwie: things go somehow for sb
   Wie ist es ihr nach dem Umzug in der neuen Stadt ergangen?
   How did things go for her after her move to the new city?
+
+ergreifen /ɛɐˈɡrɪfn/: to seize, to overcome
+  das Feuer ergriff den ganzen Wald: the fire engulfed the whole forest
 
 erhalten /ɛɐˈhaltən/: to receive, to get
   Haben Sie meinen Brief erhalten?
@@ -498,6 +517,10 @@ erkoren => erküren
 erkunden /ɛɐˈkʊndən/: to explore
 
 erküren: to choose to be
+
+erlangen /ɛɐˈlaŋən/: to gain, to obtain, to achieve
+  Mit diesem Lied hat er Berühmtheit erlangt.
+  This song brought him fame.
 
 Erlass /ɛɐˈlas/, der: decree, remission, release
   Schuldenerlass: debt relief
@@ -567,6 +590,9 @@ errichten /ɛɐˈrɪçtən/: to build, to erect
   eine Brücke/ein Hochhaus errichten: to build a bridge/high-rise 
 
 Errichtung /ɛɐˈrɪçtʊŋ/, die: construction, erection
+
+erringen /ɛɐˈrɪŋən/: to achieve
+  einen Sieg/Erfolg erringen: to achieve victory/success
 
 erschaffen /ɛɐˈʃafən/: to create
   Gott erschuf die Welt und den Menschen.
