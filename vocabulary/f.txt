@@ -160,6 +160,9 @@ fein /fain/: fine, subtle
   The fine dust got in all the cracks.
   feine Unterschiede machen: to make subtle distinctions
 
+feindlich /ˈfaintlɪç/: enemy, hostile
+  feindliche Funksprüche abhören: to intercept enemy radio transmissions
+
 Feindschaft /ˈfaintʃaft/, die: hostility
 
 Feld /fɛlt/, das: field
@@ -168,6 +171,8 @@ Fell /fɛl/, das, Felle: fur, coat
   einer Katze über das Fell streicheln: to stroke a cat’s coat 
 
 Felsen /ˈfɛlzən/, der: rock
+  Auf einem Felsen am Strand saß eine Möwe.
+  There was a seagull sitting on a rock at the beach.
 
 felsig /ˈfɛlzɪç/: rocky, craggy
 
@@ -255,7 +260,7 @@ Fleck /flɛk/, der: stain, mark
 flehen /ˈfleːən/: to beg
   => betteln
   Die Geiseln flehten um Gnade.
-  The hostages begged for mercy. 
+  The hostages begged for mercy.
 
 fliehen /ˈfliːən/: to flee
   Tausende flohen vor dem Hochwasser aus der Stadt.
@@ -493,6 +498,7 @@ fürchten /ˈfʏrçtən/: to be afraid of, to fear
   ein gefürchteter Gegnera: formidable opponent
 
 Fürst /fʏrst/, Fürstin, Fürsten: prince
+  Fürst Rainier von Monaco: Prince Rainier of Monaco
 
 Fuß /fuːs/, der: foot
 
