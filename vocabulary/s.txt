@@ -184,6 +184,10 @@ Schlagstock /ˈʃlaːkʃtɔk/, der: baton, nightstick
   Die Beamten setzten Tränengas und Schlagstöcke gegen die Demonstranten ein.
   The officers employed tear gas and batons against the demonstrators.
 
+schlank /ʃlaŋk/: slim, slender
+  Du bist aber schlank geworden, hast du eine Diät gemacht?
+  You're so slim. Have you been on a diet?
+
 Schlauchboot /ˈʃlauxboːt/, das: rubber dinghy, rubber boat, life raft
 
 schleichen /ˈʃlaiçən/: to creep, to crawl
@@ -202,6 +206,11 @@ schlimm: bad, nasty
   Das ist schlimm.
 
 Schlingel /ˈʃlɪŋəl/, der: brat, scoundrel, rogue
+
+schlingen /ˈʃlɪŋən/: to wrap, to tie, to coil itself, to scoff
+  das Seil um das Geländer schlingen: to tie the rope around the railing
+  Efeu schlingt sich um den Baum.
+  Ivy is twining itself around the tree.
 
 schlugen => schlagen
 
@@ -257,11 +266,12 @@ Schneefeld, das: snow field
 Schneeschipper: snow shoveler
 
 schneiden /ˈʃnaidən/: to cut, to chop, to slice
-  => Schneider
   Tomaten klein schneiden
   to chop tomatoes
 
-Schneider: tailor
+Schneider /ˈʃnaidɐ/, Schneiderin, Schneider: tailor
+  => schneiden
+  einen Anzug vom Schneider anfertigen lassen: to have a suit tailored
 
 schneien /ˈʃnaiən/: to snow
 
@@ -343,6 +353,8 @@ schütten /ˈʃʏtən/: to pour, to tip
 Schutz /ʃʊʦ/, der: protection , shelter
 
 schützen /ˈʃʏʦən/: to protect
+  sich mit Mütze und Handschuhen gegen die Kälte schützen
+  to wear a hat and gloves to keep the cold out
 
 schwach /ʃvax/: weak, poor
   Dafür sind seine Muskeln zu schwach.
@@ -414,6 +426,10 @@ See /zeː/, der: lake, sea
 
 Seehöhe, die: sea level
 
+Seele /ˈzeːlə/, die: soul
+  jdn/etw. aus tiefster Seele verabscheuen
+  to loathe sb/sth with all your heart
+
 sehen
   sehe, siehst, sieht, ihr seht, habe gesehen
 
@@ -423,6 +439,10 @@ sehenswert /ˈzeːənsveːɐt/: worth seeing
 Sehenswürdigkeit /ˈzeːənsvʏrdɪçkait/, die, Sehenswürdigkeiten: tourist attraction
   Die Touristen bestaunten die Sehenswürdigkeiten der Stadt.
   The tourists were marveling at the city sights.
+
+sehnen /ˈzeːnən/: to long for sb/sth
+  Sie sehnt sich nach Liebe und Geborgenheit.
+  She longed for love and security.
 
 sehr /zeːɐ/: very
   Ich weiß sehr wohl, dass du mich anlügst!
@@ -508,6 +528,9 @@ Sie: you
 sie: she, it, they
   Sie wollen heiraten. They want to get married.
 
+Sieg /ziːk/, der: victory, win
+  einen Sieg gegen jdn erringen: to be victorious over sb
+
 siegeln /ˈziːɡəln/: to seal
 
 sieht => sehen
@@ -549,6 +572,10 @@ sogar /zoˈɡaːɐ/: even, no less
   Yesterday I worked for ten hours and today for twelve no less!
 
 sogenannt: so-called
+
+sogleich /zoˈɡlaiç/: immediately
+  Er traf dort einen gleichaltrigen Jungen, mit dem er sich sogleich angefreundet hat.
+  There he met a boy of the same age with whom he immediately became friends.
 
 Sohn m. /zoːn/: son
 
@@ -665,7 +692,16 @@ sprühen /ˈʃpryːən/: to spray
 
 spülen /ˈʃpyːlən/: to wash, to rinse, to flush
 
+Spur /ʃpuːɐ/, die, Spuren: track, trace, sign, lane
+  Spuren im Sand: tracks in the sand
+  Der Täter hat keine Spuren hinterlassen.
+  The perpetrator left no traces.
+  Spuren der Zerstörung: signs of destruction
+  auf der linken Spur fahren: to drive in the left-hand lane
+
 spüren /ˈʃpyːrən/: to feel, to notice
+  Ich hab von der Spritze kaum was gespürt.
+  I hardly felt the injection at all.
   die Folgen von etw. zu spüren bekommen: to feel the consequences of sth
 
 spürbar /ˈʃpyːɐbaːɐ/: noticeable , perceptible
@@ -771,6 +807,9 @@ stellen /ˈʃtɛlən/: to put, to place, to set
 sterben /ˈʃtɛrbən/: to die
   er stirbt
   Er starb gestern.
+
+Stern /ʃtɛrn/, der, Sterne: star
+  Sternenzelt: firmament
 
 Steuer /ˈʃtɔyɐ/, das: steeling wheel
 
@@ -910,6 +949,11 @@ Sturm /ʃtʊrm/, der: storm
   A storm blew up.
 
 stürmen /ˈʃtʏrmən/: to storm
+
+stürzen /ˈʃtʏrʦən/: to fall, to drop, to rush, to throw, to bring down, to overthrow
+  mit dem/vom Fahrrad stürzen: to fall off your bike
+  Der Aktienkurs stürzte ins Bodenlose.
+  The share price took a dramatic tumble.
 
 suchen /ˈzuːxən/: to look for
   Herr Meier sucht ein Zimmer.
