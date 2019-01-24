@@ -212,6 +212,8 @@ geistig: spiritual, mental
 gekleidet: clad, dressed
   => kleiden
 
+gekonnt => können
+
 geladen, geladene => laden 
 
 gelangen /ɡəˈlaŋən/: to get, to find your way to, to come to
@@ -241,6 +243,8 @@ gelegen /ɡəˈleːɡən/: located, situated
 
 Gelegenheit /ɡəˈleːɡənhait/, die: opportunity
   eine Gelegenheit nutzen/verpassen: to use/miss an opportunity
+
+Gelingen /ɡəˈlɪŋən/, das: success
 
 gelingen /ɡəˈlɪŋən/: to succeed, to be successful
   <=> misslingen
@@ -295,6 +299,8 @@ genommen => nehmen
 Genuss /ɡəˈnʊs/, der: enjoyment, pleasure
 
 Geologe /ɡeoˈloːɡə/: geologist
+
+geprüft => prüfen
 
 gerade /ɡəˈraːdə/: straight, at the moment
   gerade dann: just then
@@ -352,6 +358,9 @@ Geselligkeit /ɡəˈzɛlɪçkait/, die: sociability, conviviality
 Gesetz /ɡəˈzɛʦ/, das: law
   die Gesetze befolgen/einhalten: to abide by/stick to the laws
 
+Gesicht /ɡəˈzɪçt/, das, Gesichter: face
+  ein hübsches Gesicht haben: to have a pretty face
+
 gesperrt: blocked, closed
 
 Gestalt /ɡəˈʃtalt/, die, Gestalten: form, figure, character
@@ -359,6 +368,8 @@ Gestalt /ɡəˈʃtalt/, die, Gestalten: form, figure, character
   There were shady characters hanging around the station.
 
 gestern /ˈɡɛstɐn/: yesterday
+
+gestohlen => stehlen
 
 gesund /ɡəˈzʊnt/: healthy
 
@@ -397,6 +408,10 @@ gewesen => sein
   Draußen tobte ein heftiges Gewitter.
   A heavy thunderstorm was raging outside.
 
+Gewohnheit /ɡəˈvoːnhait/, die, Gewohnheiten: habit
+  Aus alter Gewohnheit griff er nach der Zigarette, obwohl er das Rauchen aufgegeben hatte.
+  From sheer force of habit he reached for the cigarette, even though he had given up smoking.
+
 gewöhnlich /ɡəˈvøːnlɪç/: normal
   ein ganz gewöhnlicher Tag: an absolutely ordinary day
 
@@ -434,6 +449,8 @@ glänzend /ˈɡlɛnʦənt/: glossy, shiny, brilliant
 gleich /ɡlaiç/: same, equal
   Die beiden Arbeiten haben die gleiche Zahl von Fehlern.
   The two papers have the same number of mistakes.
+
+gleichaltrig /ˈɡlaiç|altrɪç/: of the same age
 
 Gleichberechtigung /ˈɡlaiçbərɛçtɪɡʊŋ/: equal rights
   gleich => same
