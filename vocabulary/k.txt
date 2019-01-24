@@ -396,7 +396,12 @@ Kupfer, das: copper
 
 kupfern: copper
 
-Kurs /kʊrs/, der: course
+Kurs /kʊrs/, der: course, price, rate
+  einen Kurs an der Universität belegen/besuchen
+  to enrol for/take a course at university
+  Das Flugzeug ist vom Kurs abgekommen.
+  The airplane went off course.
+  steigende/fallende Kurse: rising/falling prices
 
 kurz /kʊrʦ/, kürzer or kürzeste: short, briefly
   kurze Haare haben: to have short hair
@@ -405,6 +410,9 @@ kurz /kʊrʦ/, kürzer or kürzeste: short, briefly
 
 Kürze /ˈkʏrʦə/, die: shortness, brevity
   in Kürze: shortly
+
+Kuss /kʊs/, der, Küsse /ˈkʏsə/: kiss
+  jdm einen Kuss auf die Wange geben: to kiss sb on the cheek
 
 Kutsche /ˈkʊtʃə/, die: carriage, coach
 
