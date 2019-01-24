@@ -73,7 +73,7 @@ wandte => wenden
 Wange /ˈvaŋə/, die: cheek
   => Backe
 
-ward => werden
+ward (poet) => werden
 
 Ware /ˈvaːrə/, die, Waren: product, article, goods
   Sie hatte Waren im Wert von hundert Euro gestohlen.
@@ -139,7 +139,7 @@ Wegwerfware, die: disposable goods
 
 weiblich /ˈvaiplɪç/: female
 
-weich /vaiç/: soft, soft-boiled
+weich /vaiç/: soft, soft-boiled, soft-hearted
   <=> hart
   Gemüse weich kochen: to boil vegetables until cooked through 
 
@@ -154,6 +154,11 @@ weilen /ˈvailən/: to stay, to be
   They are in Spain at the moment.
 
 Wein, der: wine
+
+weinen /ˈvainən/: to cry, to weep
+  um jdn weinen: to cry for sb
+
+weinend: tearful
 
 Weinfass, das: wine cask
 
@@ -226,6 +231,15 @@ werten /ˈveːɐtən/: to regard sth as sth/judge sth to be sth, to count
   Die schriftlichen Noten werden für die Zeugnisnote doppelt gewertet.
   Grades for written work count double for your school report.
 
+Wesen /ˈveːzən/, das, Wesen: being, nature, character, system
+  Ich glaube nicht an ein höheres Wesen.
+  I don't believe in a higher being.
+  Es liegt im Wesen dieser Sache, dass sie kompliziert ist.
+  It's in this matter’s nature for it to be complicated.
+  Er ist vom Wesen her schüchtern.
+  He is shy by nature.
+  das Bildungswesen reformieren: to reform the education system
+
 wesentlich /ˈveːzəntlɪç/: considerably, substantially
 
 Westen /ˈvɛstən/, der: west
@@ -259,6 +273,10 @@ wiedersehen
   When will we see each other again?
 
 Wind /vɪnt/, der: wind
+
+Wipfel /ˈvɪpfəl/, der: treetop
+  Das Eichhörnchen springt von Wipfel zu Wipfel.
+  The squirrel is jumping from treetop to treetop.
 
 wirr /vɪr/: confused, in a mess
   eine wirre Verschwörungstheorie: a confused conspiracy theory
@@ -317,6 +335,11 @@ wolkenverhangen: overcast
 wollen
   will, willst, will, ihr wollt, habe gewollt
 
+Wollust /ˈvɔlʊst/, die, Wollüste /ˈvɔlʏstə/: lust
+  sich seiner Wollust hingeben: to abandon yourself to lust
+
+wollüstig: lustful
+
 womöglich /voˈmøːklɪç/: possibly
 
 Woran /voˈran/: on what
@@ -356,6 +379,12 @@ Würfel /ˈvʏrfəl/, der: dice, die
   Würfelspiel: dice game
 
 Wurfgeschoss, das: missile, projectile
+
+Wurfspeer, Wurfspieß, der: javelin
+
+Wurm /vʊrm/, der, Würmer /ˈvyrmɐ/: worm
+  Der Vogel hat einen Wurm gefangen.
+  The bird has caught a worm.
 
 Würstchen /ˈvyrstçən/, das, Würstchen: frankfurter
   heiße Würstchen mit Senf: hot frankfurters with mustard
