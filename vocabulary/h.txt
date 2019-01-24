@@ -30,6 +30,9 @@ Hahn /haːn/, Hähne /ˈhɛːnə/, der: rooster
 
 Hähnchen /ˈhɛːnçən/, das, Hähnchen: chicken
 
+Hain /hain/, der: grove
+  ein Olivenhain: an olive grove
+
 Haken /ˈhaːkən/, der: hook
   Er hängte seinen Mantel an den Haken.
   He hung his coat on the hook. 
@@ -90,6 +93,10 @@ Handlung /ˈhandlʊŋ/, die: act, action
 Handy /ˈhɛndiː/, das: cell, mobile
 
 hängen /ˈhɛŋən/: to hang
+
+harren /ˈharən/: to wait for sb/sth
+   Sie harrte auf eine Nachricht von ihm.
+   She waited for news from him.
 
 hart /hart/: hard
   Das Brot war alt und hart geworden.
@@ -178,6 +185,12 @@ Heiterkeit /ˈhaitɐkait/, die: cheerfulness, merriment
   Diese Bemerkung trug sehr zur allgemeinen Heiterkeit bei.
   That remark added greatly to the general amusement.
 
+Held /hɛlt/, Heldin, Helden: hero
+  Nach der Rettungsaktion wurde er als Held gefeiert.
+  After the rescue operation he was celebrated as a hero.
+
+Heldentat, die: heroic deed
+
 helfen /ˈhɛlfən/: to help
   helfe, hilfst, hilft, habe geholfen
   um meinem Vater zu helfen
@@ -230,6 +243,9 @@ herausputzen: to dress up
 Herbst /hɛrpst/, der: autumn
    Bald wird es Herbst.
    It'll soon be fall.
+
+hernieder /hɛrˈniːdər/: down
+  => nieder
 
 Herr /hɛr/: gentleman, Mr.
 
@@ -342,6 +358,13 @@ höflich /ˈhøːflɪç/: polite, politely
 
 Höhle /ˈhøːlə/, die: cave, den, cavity
   sich in einer Höhle verstecken: to hide in a cave
+
+hold /hɔlt/: fair
+  eine holde Schöne: a fair maiden
+  Er bringt seine Holde zum Fest mit.
+  He's taking his sweetheart with him to the party.
+  Das Glück war ihnen nicht hold.
+  Luck wasn't on his side.
 
 holen /ˈhoːlən/: to get, to fetch
   Holst du bitte mal die Butter aus dem Kühlschrank?
