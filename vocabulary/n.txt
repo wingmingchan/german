@@ -37,6 +37,8 @@ nächst /ˈnɛːçst/, nächste: next
 
 *Nacht, die: night
 
+Nachtigall /ˈnaxtɪɡal/ , die: nightingale
+
 nachträglich /ˈnaːxtrɛːklɪç/: subsequently, belatedly
 
 Nacken /ˈnakən/, der: neck
@@ -47,7 +49,12 @@ Nadel /ˈnaːdəl/, die, Nadeln: needle
 Nagel /ˈnaːɡəl/, der, Nägel: nail
   einen Nagel in die Wand hauen: to bang a nail into the wall 
 
-nah: near
+nah /ˈnaː(ə)/ , näher, nächste: near
+  die Geschäfte in der näheren/nächsten Umgebung: the nearby stores
+
+nahen /ˈnaːən/: to draw near
+  Der Morgen naht.
+  Morning is drawing near.
 
 Nähe /ˈnɛːə/, die: vicinity, closeness
   Gibt es hier in der Nähe einen Supermarkt?
@@ -74,6 +81,11 @@ Nase /ˈnaːzə/, die: nose
 
 nass /nas/: wet
   jdn nass spritzen: to spray sb with water
+
+Natur /naˈtuːɐ/, die, Naturen: nature
+  die unberührte Natur: unspoilt nature
+  Dieses Tier kommt in freier Natur kaum noch vor.
+  This animal is hardly found in nature anymore.
 
 Naturerlebnis: nature experience
 
@@ -124,6 +136,12 @@ neun /nɔyn/: nine
 nicht /nɪçt/: not
 
 Nichtsnutz /ˈnɪçʦnʊʦ/: good-for-nothing
+
+nie /niː/: zu keiner Zeit
+
+nieder /ˈniːdɐ/: lower, base
+  die niederen Dienstränge: the lower ranks
+  etw. aus niederen Beweggründen tun: to have base motives for doing sth
 
 niemals /ˈniːmaːls/: nie
 
