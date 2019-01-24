@@ -10,21 +10,24 @@ Vater /ˈfaːtɐ/, der, Väter /ˈfɛːtɐ/: father
 
 ver-: off, end of a state
 
-verändern /fɛɐˈ|ɛndɐn/: to change
-  Sie hat sich in den letzten Jahren sehr verändert.
-  She has changed a lot over the last few years.
-
-verarbeiten /fɛɐˈ|arbaitən/: to use, to process
-  Wir verarbeiten nur frische Zutaten.
-  We only use fresh ingredients.
+verabscheuen /fɛɐˈ|apʃɔyən/: detest
+  Gewalt verabscheuen: to detest violence
 
 verabschieden /fɛɐˈ|apʃiːdən/: to say goodbye, to see off, to pass, to adopt
   Der Haushalt wurde gestern vom Parlament verabschiedet.
   The budget was adopted by parliament yesterday.
 
+verändern /fɛɐˈ|ɛndɐn/: to change
+  Sie hat sich in den letzten Jahren sehr verändert.
+  She has changed a lot over the last few years.
+
 Veränderung /fɛɐˈ|ɛndərʊŋ/, die: change
 
 verantwortlich /fɛɐˈ|antvɔrtlɪç/: responsible
+
+verarbeiten /fɛɐˈ|arbaitən/: to use, to process
+  Wir verarbeiten nur frische Zutaten.
+  We only use fresh ingredients.
 
 verbergen /fɛɐˈbɛrɡən/: to hide
 
@@ -68,6 +71,7 @@ verfassen /fɛɐˈfasən/: to write
 verfeindet /fɛɐˈfaindət/: hostile
 
 verfolgen /fɛɐˈfɔlɡən/: to pursue, to follow
+  => folgen
   Wir wurden von einem schwarzen Wagen verfolgt.
   We were pursued by a black car.
   
@@ -97,6 +101,10 @@ vergehen /fɛɐˈɡeːən/: to pass, to go by, to wear off, to be dying of sth, 
 
 vergewaltigen: to rape
 
+vergießen /fɛɐˈɡiːsən/: to spill
+  Wer hat den Kakao auf dem Tisch vergossen?
+  Who spilled the cocoa on the table?
+
 Vergleich /fɛɐˈɡlaiç/, der: comparison
   Vergleiche zwischen zwei Dingen anstellen / ziehen
   to make/draw comparisons between two things
@@ -104,9 +112,13 @@ Vergleich /fɛɐˈɡlaiç/, der: comparison
 vergleichen /fɛɐˈɡlɪçən/: to compare
   verglichen mit: compared with
 
+vergossen => vergießen
+
 vergraulen /fɛɐˈɡraulən/: to scare away
   Die unfreundliche Bedienung vergrault uns die ganzen Gäste!
   The unfriendly service is scaring away all our guests.
+
+verhalf => verhelfen
 
 Verhalten /fɛɐˈhaltən/, das: behavior
   Ich kann sein Verhalten nicht verstehen.
@@ -126,6 +138,10 @@ verhängen /fɛɐˈhɛŋən/: to impose, to drape
 verheiraten: to marry, to get married
 
 verheiratet /fɛɐˈhairatət/: married
+
+verhelfen /fɛɐˈhɛlfən/: to help sb/sth to achieve sth
+  einer Partei/Idee zum Erfolg verhelfen
+  to help a party achieve success/an idea become successful
 
 verhindern /fɛɐˈhɪndɐn/: to prevent
 
@@ -221,6 +237,8 @@ Verpflegung /fɛɐˈpfleːɡʊŋ/, die: food, catering
 
 verraten /fɛɐˈraːtən/: to tell, to reveal
 
+Verräter /fɛɐˈrɛːtɐ/: traitor
+
 verrückt /fɛɐˈrʏkt/: mad, crazy
   Bist du verrückt geworden? Das kannst du doch nicht tun!
   Have you gone mad? You can't do that!
@@ -242,6 +260,13 @@ verschicken /fɛɐˈʃɪkən/: to send (off/out)
   The parcels were already sent off/dispatched yesterday.
 
 verschieden /fɛɐˈʃiːdən/: different
+
+verschleiern /fɛɐˈʃlaiɐn/: to (cover with a) veil, to cover up, to conceal
+  das Gesicht verschleiern: to cover your face with a veil
+  Die Regierung versuchte, das Ausmaß der Katastrophe verschleiern.
+  The government tried to cover up the extent of the catastrophe.
+
+verschleiert: veiled
 
 verschmäht: jilted lover
 
@@ -399,6 +424,10 @@ Vokabel /voˈkaːbəl/, die, Vokabeln: item of vocabulary
   She is testing her son on the vocabulary.
 
 Volk /fɔlk/, das, Völker /ˈfœlkɐ/: people, nation
+
+vollbringen /fɔlˈbrɪŋən/: to achieve, to perform
+  Da hast du aber eine Meisterleistung vollbracht!
+  What a masterly performance!
 
 voller /ˈfɔlɐ/: full of
   ein Korb voller roter Äpfel: a basket full of red apples
