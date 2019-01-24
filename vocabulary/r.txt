@@ -95,11 +95,22 @@ Raumschiff /ˈraumʃɪf/, das: spaceship
 Rausch /rauʃ/, der: intoxication
   sich [ dative ] einen Rausch antrinken: to get drunk
 
+rauschen /ˈrauʃən/: to rush, to whoosh, to hiss
+  das gleichmäßige Rauschen des Verkehrs: the constant roar of the traffic
+  Das Wasser rauschte in die Badewanne.
+  The water whooshed into the bathtub.
+  Sie rauschte beleidigt aus dem Büro.
+  She rushed out of the office in a huff.
+
 rauschhaft: ecstatic, frenzied, repturous
 
 reagieren /reaˈɡiːrən/: to react, to respond
 
 Reaktion /reakˈʦjoːn/, die: reaction
+
+Rebe /ˈreːbə/, die: (grape)vine
+  Die Reben tragen bereits reife Trauben.
+  The vines already have ripe grapes on them.
 
 Rechnung, die: bill, check, invoice
 
@@ -188,6 +199,11 @@ rettete => retten
 Rettich /ˈrɛtɪç/, der: radish
   einen Rettich aufschneiden und salzen: to chop up a radish and sprinkle it with salt
 
+Rettung /ˈrɛtʊŋ/, die: help, rescue
+  => retten
+  Das war Rettung in letzter Minute!
+  That help came in the nick of time!
+
 Rezept /reˈʦɛpt/, das: recipe, prescription
   ein Rezept für Käsekuchen: a recipe for cheesecake
 
@@ -275,6 +291,13 @@ ruhig /ˈruːɪç/: quiet, calm, still
 Ruhm /ruːm/, der: fame
   als Künstler internationalen Ruhm erlangen
   to find international fame as an artist
+
+rühren: to stir, to beat, to move
+  Eier und Zucker schaumig rühren: to beat eggs and sugar until fluffy
+  Ich konnte vor Kälte kaum die Finger rühren.
+  I could hardly move my fingers for the cold.
+  Ihre Geschichte rührte mich zu Tränen.
+  Her story moved me to tears.
 
 rund /rʊnt/: round, circular, rounded
 
