@@ -8,6 +8,8 @@ Vase /ˈvaːzə/, die, Vasen: vase
 
 Vater /ˈfaːtɐ/, der, Väter /ˈfɛːtɐ/: father
 
+Vati /ˈfaːti/, der: dad, pop
+
 ver-: off, end of a state
 
 verabscheuen /fɛɐˈ|apʃɔyən/: detest
@@ -28,6 +30,8 @@ verantwortlich /fɛɐˈ|antvɔrtlɪç/: responsible
 verarbeiten /fɛɐˈ|arbaitən/: to use, to process
   Wir verarbeiten nur frische Zutaten.
   We only use fresh ingredients.
+
+Verb /vɛrp/, das
 
 verbergen /fɛɐˈbɛrɡən/: to hide
 
@@ -283,6 +287,10 @@ versiegeln /fɛɐˈziːɡəln/: to seal
 Versorgung /fɛɐˈzɔrɡʊŋ/, die: supply, treatment
   Die Stromversorgung ist gesichert.
   The electricity supply is secure.
+
+Verspätung /fɛɐˈʃpɛːtʊŋ/, die: delay, late arrival
+  Das Paket kam mit zwei Wochen Verspätung an.
+  The parcel arrived two weeks late.
 
 Versprechen, das: promise
 
