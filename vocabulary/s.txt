@@ -70,6 +70,9 @@ saugfähig /ˈzaukfɛːɪç/: absorbent
 
 Säugling /ˈzɔyklɪŋ/, der: infant, baby
 
+Schach /ʃax/, das: chess
+  Schach spielen: to play chess
+
 schade /ˈʃaːdə/: pity, shame
   Wie schade!
   What a pity!
@@ -803,6 +806,8 @@ stellen /ˈʃtɛlən/: to put, to place, to set
 -stellig /ʃtɛlɪç/: -figure, -digit
   fünfstellige
   einstellig
+
+Stellung /ˈʃtɛlʊŋ/, die: position
 
 sterben /ˈʃtɛrbən/: to die
   er stirbt
