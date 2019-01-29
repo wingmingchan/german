@@ -245,7 +245,14 @@ Zweck /ʦvɛk/, der: purpose, point
   Welchen Zweck hat diese Maßnahme?
   What is the purpose of this measure?
 
+zwei: two
+
 Zweifel /ˈʦvaifəl/, der: doubt
+
+zweit /ʦvait/
+  zu zweit: in twos
+  Den Schrank kann man nur zu zweit tragen.
+  It takes two people to carry the closet.
 
 Zweig /ʦvaik/, der: branch
   Äste und Zweige für ein Feuer sammeln
@@ -266,3 +273,5 @@ zwischen /ˈʦvɪʃən/: between
 zwitschern /ˈʦvɪtʃɐn/: to twitter
   Die Vögel zwitscherten fröhlich (ihr Lied).
   The birds were singing (their song) happily.
+  
+zwo: two
