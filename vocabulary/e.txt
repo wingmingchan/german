@@ -55,6 +55,9 @@ ehrlich /ˈeːɐlɪç/: honest
 
 Ei /ai/, das, Eier: egg
 
+ei: oh
+  Ei, ei! There!
+
 Eid /ait/, der: oath
 
 eigen /ˈaiɡən/: own
@@ -336,6 +339,10 @@ Engpass /ˈɛŋpas/, der: bottleneck, narrow pass
 
 Englisch /ˈɛŋlɪʃ/
   die englische Sprache
+
+entdecken /ɛntˈdɛkən/: to discover
+  Kolumbus entdeckte Amerika.
+  Columbus discovered America.
 
 entfernt /ɛntˈfɛrnt/: away, distant, remote
 
@@ -631,6 +638,10 @@ erteilen /ɛɐˈtailən/: to give, to grant, to confer
   He likes to give other people things to do.
 
 erträglich /ɛɐˈtrɛːklɪç/: bearable
+
+erwachen /ɛɐˈvaxən/: to wake
+  Sie ist aus dem Schlaf / der Narkose / dem Koma erwacht.
+  She has wakened from her sleep/from anesthesia/from her coma.
 
 Erwachsene /ɛɐˈvaksənə/: adult, grown-up
   Wenn Erwachsene sich unterhalten, dürfen Kinder nicht hineinreden.
