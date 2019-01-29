@@ -80,6 +80,9 @@ fangen /ˈfaŋən/: to bag, to capture, to catch, to trap
   Hast du schon einen Fisch gefangen?
   Have you caught a fish yet?
 
+Fänger: captor
+  => fangen
+
 Fantasie /fantaˈziː/, die
 
 Farbe /ˈfarbə/, die, Farben: color
@@ -361,6 +364,11 @@ forschen /ˈfɔrʃən/: to research, to search
 
 Forscher /ˈfɔrʃɐ/: researcher
 
+fort /fɔrt/: away, gone
+  => weg
+  Mein Buch ist fort!
+  My book's gone!
+
 fortschreiten /ˈfɔrtʃraitən/: to progress
   Die Krankheit schreitet weiter fort.
   The illness is progressing further.
@@ -500,7 +508,7 @@ fürchten /ˈfʏrçtən/: to be afraid of, to fear
 Fürst /fʏrst/, Fürstin, Fürsten: prince
   Fürst Rainier von Monaco: Prince Rainier of Monaco
 
-Fuß /fuːs/, der: foot
+Fuß /fuːs/, der, Füße: foot
 
 Futter, das: food
   dem Hund sein Futter geben: to give the dog his food 
