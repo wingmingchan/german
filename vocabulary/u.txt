@@ -240,6 +240,10 @@ Unglück /ˈʊnɡlʏk/, das: disaster
 
 ungünstig: unfavorable
 
+Uni => Universität
+
+Universität /univɛrziˈtɛːt/, die
+
 unklar /ˈʊnklaːɐ/: unclear
 
 unmöglich /ˈʊnmøːklɪç/: impossible
@@ -331,6 +335,15 @@ urig /ˈuːrɪç/: unspoiled, primitive
 Ursache /ˈuːɐzaxə/, die: cause
   Die eigentliche Ursache des Unglücks ist noch nicht geklärt.
   The real cause of the accident hasn't yet been established.
+
+Ursprung /ˈuːɐʃprʊŋ/, der: origin
+  der Ursprung des Lebens: the origin of life
+
+ursprünglich /ˈuːɐʃprʏŋlɪç/: original, initial
+  Sie haben den ursprünglichen Plan noch einmal geändert.
+  They’ve changed the original plan again.
+  Ursprünglich wollten wir fliegen, haben uns aber nun doch für die Bahn entschieden.
+  We wanted to fly originally but then we decided to go by train after all.
 
 urteilen /ˈuːɐtailən/: to judge
   Ihrem Gesichtsausdruck nach zu urteilen hat sie eine gute Nachricht erhalten.

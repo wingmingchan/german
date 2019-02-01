@@ -167,6 +167,9 @@ Absicht /ˈapzɪçt/, die: intention
   mit Absicht: intentionally
   ohne Absicht: unintentionally
 
+Abstammung /ˈapʃtamʊŋ/, die: descent, origin
+  türkischer Abstammung sein: to be of Turkish descent
+
 Abstand /ˈapʃtant/, der: distance
   zehn Meter Abstand zum vorausfahrenden Auto halten
   to keep ten meters distance from the car in front
@@ -404,6 +407,10 @@ anfangen /ˈanfaŋən/: to begin
 
 Anfänger: beginner
 
+anfänglich /ˈanfɛŋlɪç/: initial, initially
+  Seine anfängliche Begeisterung verschwand schnell.
+  His initial enthusiasm soon disappeared.
+
 anfertigen /ˈanfɛrtɪɡən/: to make, to manufacture
   eine Skizze von einem Gebäude anfertigen: to make a sketch of a building
 
@@ -479,6 +486,9 @@ anlegen /ˈanleːɡən/: to lay out, to set up, to invest
   ein Sparbuch anlegen: to open a savings account
 
 Anmeldung /ˈanmɛldʊŋ/, die: enrollment, registration, application, registration form
+
+Anmerkung /ˈanmɛrkʊŋ/, die: comment, remark
+  eine Anmerkung zu etw. machen: to make a comment on sth
 
 anonym /anoˈnyːm/: anonymous
 
@@ -594,6 +604,8 @@ Appetit /apeˈtiːt/, der
 arbeiten /ˈarbaitən/: to work
   Er arbeitet in einer Bank.
   He works at a bank. 
+
+Architekt /arçiˈtɛkt/, Architektin: architect
 
 archivieren /arçiˈviːrən/: to archive
   Dokumente/Berichte archivieren: to archive documents/reports

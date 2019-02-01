@@ -163,6 +163,10 @@ Heiligtum /ˈhailɪçtuːm/, das, Heiligtümer: shrine, holy place
 
 Heimat /ˈhaimaːt/, die: home (country)
   Sehnsucht nach der Heimat haben: to be homesick
+  
+Heimatland, das: native country, homeland
+
+Heimatstadt, die: home town
 
 heiraten /ˈhairaːtən/: to get married
   kirchlich/standesamtlich heiraten
@@ -243,6 +247,13 @@ herausputzen: to dress up
 Herbst /hɛrpst/, der: autumn
    Bald wird es Herbst.
    It'll soon be fall.
+
+Herkunft /ˈheːɐkʊnft/, die: descent, origin, derivation, background
+  => Abstammung
+  Er ist britischer / adliger / bürgerlicher Herkunft.
+  He's of British descent/of noble extraction/from a middle-class background.
+  => Ursprung
+  Substanzen unbekannter / tierischer Herkunft: substances of unknown/animal origin
 
 hernieder /hɛrˈniːdər/: down
   => nieder

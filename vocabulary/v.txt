@@ -154,6 +154,8 @@ verjagen /fɛɐˈjaːɡən/: to chase away
 verkaufen /fɛɐˈkaufən/: to sell
   Er hat sein Auto verkauft.
 
+Verkäufer /fɛɐˈkɔyfɐ/, Verkäuferin: salesman/saleswoman, sales clerk
+
 Verkehr /fɛɐˈkeːɐ/, der: traffic
   Auf dieser Straße ist immer viel Verkehr.
   There's always a lot of traffic on this road.
@@ -273,6 +275,8 @@ verschleiern /fɛɐˈʃlaiɐn/: to (cover with a) veil, to cover up, to conceal
 verschleiert: veiled
 
 verschmäht: jilted lover
+
+verschwand => verschwinden
 
 verschwinden /fɛɐˈʃvɪndən/: to disappear, to vanish
   Das Kind war spurlos verschwunden.

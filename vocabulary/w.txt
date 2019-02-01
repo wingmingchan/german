@@ -327,11 +327,18 @@ wohl /voːl/: probably, perhaps, possibly
 wohl: well
   Lebe wohl! Farewell!
 
-wohnlich /ˈvoːnlɪç/: cozy
-
 wohlig /ˈvoːlɪç/: cozy, pleasant
   Wohlige Wärme breitete sich im Zimmer aus.
   A cozy warmth spread through the room.
+
+wohnen /ˈvoːnən/: to live
+  Wo wohnst du?
+  Where do you live?
+
+wohnlich /ˈvoːnlɪç/: cozy
+  ein wohnliches Zimmer: a cozy room
+
+Wohnort /ˈvoːn|ɔrt/, der: place of residence
 
 *Wolke /ˈvɔlkə/, die: cloud
   Dunkle Wolken zogen auf. Dark clouds were gathering. 
