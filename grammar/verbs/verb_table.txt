@@ -82,6 +82,13 @@ leihen
   Present Perfect: ich habe geliehen
   Imperative: du leih/leihe, ihr leiht
 
+lesen
+  Present: ich lese, du liest, er liest, ihr lest
+  Preterite: ich las, du lasest, er las, wir lasen, ihr last
+  Present Perfect: ich habe gelesen
+  Imperative: lies, lest, lesen
+
+
 machen
   Present: ich mache, du machst, er macht, ihr macht
   Preterite: ich machte, du machtest, er machte, ihr machtet
