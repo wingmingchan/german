@@ -424,8 +424,12 @@ Angebot /ˈanɡəboːt/, das: offer, supply
   Das Angebot übersteigt derzeit die Nachfrage.
   Supply is outstripping demand at the moment.
 
-Angehörige /ˈanɡəhøːrɪɡə/: relatives
+Angehörige /ˈanɡəhøːrɪɡə/: relatives, member, dependent
   => Verwandte, Familienmitglied
+  die nächsten Angehörigen eines Unfallopfers verständigen
+  to notify an accident victim's next of kin
+  Angehörige der Bundeswehr / von Minderheiten
+  members of the German Armed Forces/of minority groups
 
 Angeklagte /ˈanɡəklaːktə/: defendant
   Der Angeklagte bestritt die Tatvorwürfe.
@@ -593,6 +597,7 @@ anzünden /ˈanʦʏndən/: to light
   She lit a cigarette.
 
 Apfel /ˈapfəl/, der, Äpfel /ˈɛpfəl/: apple
+  Apfelsaft
   Apfelkuchen: apple pie
   Apfelschorle, die: apple juice and mineral water
 
@@ -786,7 +791,11 @@ Auge /ˈauɡə/, das: eye
   blaue/gute Augen haben
   to have blue eyes/good eyesight
   Auge in Auge: face to face
-  
+
+Augenblick /ˈauɡənblɪk/, der: moment
+  Einen Augenblick, bitte!
+  Just a moment, please.
+
 aus-: away, removed, turned off
 
 Ausbeute /ˈausbɔytə/, die: yield
