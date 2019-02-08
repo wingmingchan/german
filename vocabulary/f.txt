@@ -67,6 +67,8 @@ falsch /falʃ/: wrong, false, faked
 
 Familie /faˈmiːljə/, die: family
 
+Familienangehörige /faˈmiːljən|anɡəhøːrɪɡə/, Familienangehörigen: family member
+
 Familienmitglied, das: family member
 
 Familienname /faˈmiːljənnaːmə/, der: family name
@@ -264,6 +266,8 @@ flehen /ˈfleːən/: to beg
   => betteln
   Die Geiseln flehten um Gnade.
   The hostages begged for mercy.
+
+fleißig /ˈflaisɪç/: hardworking, diligent
 
 fliehen /ˈfliːən/: to flee
   Tausende flohen vor dem Hochwasser aus der Stadt.
