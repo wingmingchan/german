@@ -13,7 +13,7 @@ Sache /ˈzaxə/, die: thing
 
 sachlich /ˈzaxlɪç/: objective, matter-of-fact, factual, objectively
 
-Saft /zaft/, der: juice
+Saft /zaft/, der, Säfte: juice
   Apfelsaft, Orangensaft
 
 sagen: to say
@@ -839,6 +839,9 @@ Steuer /ˈʃtɔyɐ/, das: steeling wheel
 Steuer /ˈʃtɔyɐ/, die: tax
   Steuern zahlen/hinterziehen
   to pay/avoid paying tax
+
+Stich /ʃtɪç/, der: sting, bite, stab wound
+  jdn im Stich lassen: to let sb down
 
 Stichprobe /ˈʃtɪçproːbə/, die: spot check, random sample
   Stichproben machen: to carry out spot checks
