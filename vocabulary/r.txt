@@ -8,6 +8,8 @@ Rad /raːt/, das, Räder /ˈrɛːdɐ/: wheel
 
 Radi /ˈraːdi/, der: garden radish
 
+Radiergummi, der, -s: rubber, eraser
+
 Rahmen /ˈraːmən/, Rahmen: frame, framework, context
   im Türrahmen stehen bleiben: to stay standing in the doorway
   eine Veranstaltung in festlichem Rahmen: a celebratory event 
@@ -111,6 +113,11 @@ Reaktion /reakˈʦjoːn/, die: reaction
 Rebe /ˈreːbə/, die: (grape)vine
   Die Reben tragen bereits reife Trauben.
   The vines already have ripe grapes on them.
+
+Rechner /ˈrɛçnɐ/, der: mathematician, calculator, computer
+  ein guter Rechner sein: to be good with figures
+  Taschenrechner: pocket calculator
+  der Großrechner der Universität: the university's mainframe computer
 
 Rechnung, die: bill, check, invoice
 
@@ -229,6 +236,7 @@ riesig /ˈriːzɪç/: huge, gigantic
   You've made me incredibly happy.
 
 Rind /rɪnt/, das: bovine
+  Rindfleisch
 
 Ring /rɪŋ/, der, Ringe: ring
   jdm/sich einen Ring an den Finger stecken
