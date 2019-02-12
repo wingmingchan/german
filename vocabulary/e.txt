@@ -172,6 +172,10 @@ Einheit /ˈainhait/, die: unit, unity
   In welcher Einheit sind die Entfernungen angegeben, in Kilometern oder Meilen?
   Which unit are the distances given in – kilometers or miles?
 
+einkaufen: shopping
+
+Einkaufsliste: shopping list
+
 einladen /ˈainlaːdən/: to invite, to load in
   Darf ich Sie auf ein Glas Wein einladen?
   Can I get you a glass of wine?
@@ -326,7 +330,6 @@ eng /ɛŋ/: narrow, tight
   Die Hose ist mir zu eng.
   These pants are too tight for me.
 
-
 Enge /ˈɛŋə/, die: narrowness, tightness
   die Enge in der überfüllten U-Bahn
   the lack of space in the overcrowded subway
@@ -419,6 +422,9 @@ er-: some result is achieved, the beginning of a process
 erachten /ɛɐˈ|axtən/
 
 Erbe /ˈɛrbə/, das: inheritance, heritage
+
+Erdbeere /ˈeːɐtbeːrə/, die: strawberry
+  Erdbeeren pflanzen: to plant strawberries
 
 Erde /ˈeːɐdə/, die
 
