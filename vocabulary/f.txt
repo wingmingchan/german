@@ -250,7 +250,7 @@ fingen => fangen
 
 Finnland /ˈfɪnlant/
 
-Fisch /fɪʃ/, der: fish
+Fisch /fɪʃ/, der, Fische: fish
 
 fischen /ˈfɪʃən/: to fish
 
@@ -493,6 +493,8 @@ Fülle /ˈfʏlə/, die: fullness, volume
 
 füllen /ˈfʏlən/: to fill
   einen Eimer mit Wasser füllen: to fill a bucket with water
+
+Füller, der, -: fountain pen
 
 Fünftel: fifth
 
