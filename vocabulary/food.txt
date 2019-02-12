@@ -44,6 +44,8 @@ bitter /ˈbɪtɐ/
 
 Blaubeere, die: blueberry
 
+Blumenkohl /ˈbluːmənkoːl/, der: cauliflower
+
 Bohne /ˈboːnə/, die: bean
 
 Bonbon, das
@@ -55,9 +57,11 @@ Bratwurst /ˈbraːtvʊrst/, Bratwurste, die: brat, a kind sausage
 
 Breze, Brezel, Brezen, Brezeln, die: pretzel
 
+Brokkoli /ˈbrɔkoliː/ , der, Brokkoli: broccoli
+
 Brombeere, die: blackberry
 
-Brot, das; Brote
+Brot, das, Brote
   ein Laib Brot: a loaf of bread
 
 Brötchen /ˈbrøːtçən/, das: bread, dinner roll
@@ -83,7 +87,7 @@ dünsten: to steam
 empfehlen /ɛmˈpfeːlən/: to recommend
   Was können Sie empfehlen?
 
-Ei, das: egg
+Ei /ai/, das, Eier: egg
   Speck mit Ei: bacon and egg
 
 eins
@@ -105,18 +109,22 @@ Essig /ˈɛsɪç/, der: vinegar
 
 Fett /fɛt/, das: fat
 
-Fisch, der
+Fisch, der, Fische
 
 Flasche /ˈflaʃə/, die: bottle
   eine Flasche Wein trinken: to drink a bottle of wine
 
 Fleisch /flaiʃ/, das: meat
 
-Frucht /frʊxt/, die: fruit
+Frucht /frʊxt/, Früchte /ˈfrʏçtə/, die: fruit
 
 ========================================================
 
 Gabel /ˈɡaːbəl/, die: fork
+
+Garnele /ɡarˈneːlə/, die, Garnelen: prawn, shrimp
+
+Geflügel /ɡəˈflyːɡəl/, das, Geflügels: poultry
 
 Gemüse /ɡəˈmyːzə/, das
   Heute gibt es Fisch mit Kartoffeln und Gemüse.
@@ -153,7 +161,9 @@ Helle, das: light beer
 
 Himbeere, die: raspberry
 
-Honig /ˈhoːnɪç/, der: honey
+Honig /ˈhoːnɪç/, der, Honige: honey
+
+Huhn /huːn/, das, Hühner: chicken, hen
 
 Hühnerfleisch, das: chicken
 
@@ -162,6 +172,10 @@ Hühnerfleisch, das: chicken
 Imbiss, der: snack
   Wir essen mittags nur einen kleinen Imbiss und dafür abends richtig.
   We just have a snack for lunch and eat properly in the evenings.
+
+========================================================
+
+Joghurt /ˈjoːɡʊrt/, der: yogurt
 
 ========================================================
 
@@ -175,19 +189,20 @@ Karotte /kaˈrɔtə/, die: carrot
 Karte
   Darf ich bitte die Karte sehen?
 
-Kartoffel /karˈtɔfəl/, die
+Kartoffel /karˈtɔfəl/, die, Kartoffeln: potato
 
-Käse /ˈkɛːzə/, der
+Käse /ˈkɛːzə/, der: cheese
 
 Käsekuchen, der
 
-Keks /keːks/, der: cookie
+Keks /keːks/, der, kekse: cookie
 
 Kinderteller, der: children's meal
 
 Knoblauch /ˈknoːplaux/, der: onion
 
 Kohl /koːl/ , der: cabbage
+  Chinakohl
 
 Korn, das: corn, grain
 
@@ -203,6 +218,8 @@ Kuchen, der
   einen Apfelkuchen backen: to bake an apple cake
 
 ========================================================
+
+Lammfleisch, das: lamb
 
 Lebensmittel /ˈleːbənsmɪtəl/, das: food
 
@@ -226,22 +243,28 @@ Markt /markt/, der: market
 
 Marmelade /marməˈlaːdə/, die
 
+Meeresfrüchte /ˈmeːrəsfrʏçtə/, pl: seafood
+
 Mehl /meːl/, das: flour
 
 Messer, das: knife
   Könnte ich bitte ein anderes Messer haben?
 
-Milch, die
+Milch, die: milk
+
+Müsli /ˈmyːsli/, das: muesli
 
 ========================================================
 
-Nudel, Nudeln, die: noodles
+Nudel, die, Nudeln: noodles
+
+Nuss /nʊs/, die, Nüsse: nut
 
 ========================================================
 
 Ober, der
 
-Obst /oːpst/, das
+Obst /oːpst/, das, Obst(e)s: fruit
 
 Ofen /ˈoːfən/, der: oven
 
@@ -327,6 +350,8 @@ Schokolade, die
 
 Schwarzbrot, das: black bread
 
+Schweinefleisch, das: pork
+
 schwer /ʃveːɐ/: heavy
 
 Senf, der: mustard
@@ -379,7 +404,7 @@ Teller, der: plate
 Tisch /tɪʃ/, der
   Einen Tisch für zwei, bitte.
 
-Tomate /toˈmaːtə/, die
+Tomate /toˈmaːtə/, die, Tomaten: tomato
 
 Traube /ˈtraubə/, die, Trauben: grape
 
@@ -407,7 +432,7 @@ Weizen, der: wheat
 
 Weißwurst, die
 
-Wurst /vʊrst/, die: sausage
+Wurst /vʊrst/, die, Würste: saussage
 
 ========================================================
 
@@ -418,7 +443,7 @@ zahlen /ˈʦaːlən/: to pay
 
 Zitrone /ʦiˈtroːnə/, die: lemon
 
-Zucker, der
+Zucker /ˈʦʊkɐ/, der, Zucker: sugar
 
 Zwiebel /ˈʦviːbəl/, die, Zwiebeln: onion
 
