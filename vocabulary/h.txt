@@ -387,6 +387,9 @@ Hölle /ˈhœlə/, die: hell
 
 Holz /hɔlʦ/, das: wood
 
+Honig /ˈhoːnɪç/, der, Honige: honey
+  echter Bienenhonig: genuine bee honey
+
 Hose /ˈhoːzə/, Hosen, die: trousers
 
 Hosen-: trouser-
@@ -397,10 +400,17 @@ hübsch /hʏpʃ/: pretty
   Sie ist wirklich ein hübsches Mädchen.
   She really is a pretty girl.
 
+Hülle /ˈhʏlə/, die: cover, case, holder, blanket, sheath, shroud
+  Bitte steck die Dokumente wieder in die Hülle zurück.
+  Please put the documents back in the cover.
+
 hüllen /ˈhʏlən/: to wrap
   ein Kind / sich in eine warme Decke hüllen
   to wrap a child/to wrap up in a warm blanket
   sich in Schweigen hüllen: to remain silent
+
+Huhn /huːn/, das, Hühner: chicken, hen
+  Hühner halten: to keep chickens
 
 Hund /hʊnt/, der; Rüde, der; Hündin, die
 
