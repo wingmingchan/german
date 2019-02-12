@@ -60,6 +60,7 @@ Laib /laip/, der: loaf, wheel
 Lamm /lam/, das, Lämmer /ˈlɛmɐ/: lamb
   Die Lämmer blöken.
   The lambs are bleating.
+  Lammfleisch
 
 Lampe /ˈlampə/, die, Lampen: lamp
   die Lampe einschalten/ausschalten: to switch the lamp on/off 
@@ -295,6 +296,8 @@ Lkw /ˈɛlkaːveː/, Lastkraftwagen, der: truck
 Loch /lɔx/, das, Löcher /ˈlœçɐ/: hole
   ein Loch in die Wand bohren: to drill a hole in the wall 
 
+Locher, der: hole puncher
+
 Löffel /ˈlœfəl/, der: spoon
 
 lohnen /ˈloːnən/: to be worthwhile
@@ -336,6 +339,11 @@ lügen /ˈlyːɡən/: to lie
 
 Lulatsch /ˈluːla(ː)tʃ/, der
   langer Lulatsch: beanpole
+
+Lust /lʊst/, die, ..e: inclination, desire, pleasure, joy
+  Ich hätte jetzt Lust auf Schokolade.
+  I feel like having some chocolate just now.
+  die Lust am Lesen: the joy of reading
 
 lustig: funny
   sich über jdn/etw. lustig machen: to make fun of sb/sth
