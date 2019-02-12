@@ -52,7 +52,7 @@ kapitulieren /kapituˈliːrən/: to surrender, to give up, to capitulate
 
 Kater, der: tomcat
 
-Kartoffel /karˈtɔfəl/, die: potato
+Kartoffel /karˈtɔfəl/, die, Kartoffeln: potato
 
 Kartoffelsalat: potato salad
 
@@ -82,6 +82,8 @@ kein: not, not a, less than
   That’s not a bad idea.
   Ich musste keine zwei Minuten auf den Bus warten.
   I had to wait less than two minutes for the bus.
+
+Keks /keːks/, der, kekse: cookie
 
 Keller /ˈkɛlɐ/, der, Keller: basement, cellar
   Zahlreiche Keller wurden bei dem Unwetter überflutet.
@@ -202,6 +204,9 @@ kochen /ˈkɔxən/: to cook
 Koffer /ˈkɔfɐ/, der: suitcase
   Ich brauche einen neuen Koffer.
 
+Kohl /koːl/, der, Kohl(e)s: cabbage
+  Rotkohl: red cabbage
+
 *Kohle /ˈkoːlə/, die: coal
   Kohle abbauen: to mine for coal
 
@@ -284,6 +289,8 @@ Körper /ˈkœrpɐ/, der: body, torso
 
 Körperhaltung, die: posture
 
+Korrekturstift, der, -e: correction pen
+
 Kost /kɔst/, die: food
 
 Kostprobe , die: taste, sample
@@ -356,6 +363,8 @@ Küche /ˈkʏçə/, die: kitchen
 
 Kuchen /ˈkuːçən/, der, Kuchen: cake
   einen Apfelkuchen backen: to bake an apple cake 
+
+Kugelschreiber, der, -: pen
 
 Kultur /kʊlˈtuːɐ/, die, Kulturen: culture
   die Kultur fördern: to promote culture
