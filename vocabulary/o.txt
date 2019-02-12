@@ -13,7 +13,11 @@ oben /ˈoːbən/: up, at the top
 oberflächlich /ˈoːbɐflɛçlɪç/: surface, superficial
   eine oberflächliche Verletzung: a superficial wound
 
+Oberbegriff: generic term
+
 Oberschenkel /ˈoːbɐʃɛŋkəl/, der: thigh
+
+Obst /oːpst/, das, Obst(e)s: fruit
 
 obwohl /ɔpˈvoːl/: although
 
@@ -68,6 +72,8 @@ Orange /oˈra͂ːʒ/, das, Orangen
 
 orangefarben: orange-colored
   => Farbe, die: color
+
+Ordner, der: file, folder
 
 Ordnung /ˈɔrdnʊŋ/, die: order
   Ordnung in seine Unterlagen bringen: to put your papers in order
