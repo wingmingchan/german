@@ -161,7 +161,7 @@ absetzen /ˈapzɛʦən/: to drop sb off
   Kannst du mich bitte an der Schule absetzen?
   Can you drop me off at the school, please?
 
-Absicht /ˈapzɪçt/, die: intention
+Absicht /ˈapzɪçt/, die, -en: intention
   An guten Absichten fehlt es nicht.
   There is no lack of good intentions.
   mit Absicht: intentionally
@@ -817,6 +817,11 @@ ausdehnen /ˈausdeːnən/: to stretch, to extend, broaden
   Hot air expands.
   Wir müssen die Suche auf die ganze Stadt ausdehnen.
   We'll have to expand our search to the whole city. 
+
+Ausdruck /ˈausdrʊk/, der, ..e: expression
+  ein umgangssprachlicher Ausdruck: a colloquial expression
+  Tränen können auch ein Ausdruck von Wut sein.
+  Tears can also be an expression of anger.
 
 ausdrücken /ˈausdrʏkən/: to express, to show
   seine Dankbarkeit ausdrücken: to express your gratitude 
