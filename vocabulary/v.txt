@@ -231,6 +231,12 @@ vermummt /fɛɐˈmʊmt/: masked
   Viele Demonstranten waren vermummt.
   Many of the demonstrators were wearing masks.
 
+verneinen /fɛɐˈnainən/: to say no to, to answer in the negative, to reject
+  Er verneinte die Frage, ob er fertig sei.
+  When asked if he was ready, he said no / answered in the negative.
+  Eine Tötungsabsicht muss in diesem Fall verneint werden.
+  Intent to kill must be ruled out in this case.
+
 vernetzen /fɛɐˈnɛʦən/: to network
 
 veröffentlichen /fɛɐˈ|œfəntlɪçən/: to publish
@@ -480,6 +486,9 @@ vorbereiten /ˈfoːɐbəraitən/: to prepare, to get ready
   Ich habe einen kleinen Imbiss für Sie vorbereitet.
   I've fixed you a little snack.
   Schweden bereitet Bürger auf Krieg vor
+
+Vorbereitung /ˈfoːɐbəraitʊŋ/, die: preparation
+  Vorbereitungen für etw. treffen: to make preparations for sth
 
 Vorfall /ˈfoːɐfal/, der: incident
 
