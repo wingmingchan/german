@@ -376,7 +376,8 @@ wovor /voˈfoːɐ/: what … in front of
 
 wundern /ˈvʊndɐn/: to be surprised, to surprise
 
-Wunsch /vʊnʃ/, Wünsche /ˈvʏnʃə/, der: wish
+Wunsch /vʊnʃ/, der, Wünsche /ˈvʏnʃə/: wish
+  jdm / sich einen großen Wunsch erfüllen: to grant sb/yourself a special wish
 
 wünschen /ˈvʏnʃən/: to wish, to want
   Was wünschst du dir von uns zum Geburtstag?
@@ -413,7 +414,9 @@ wusste => wissen
 Wüste /ˈvyːstə/, die, Wüsten: desert
   Nomaden, die in der Wüste leben: nomads who live in the desert 
 
-Wut /vuːt/, die: starkes Gefühl des Ärgers, rage, fury
+Wut /vuːt/, die, -: starkes Gefühl des Ärgers, rage, fury
+  Da packte ihn die Wut und er schrie sie an.
+  He flew into a rage and shouted at her.
 
 Wutanfall /ˈvuːt|anfal/, der: fit of rage, tantrum
   In einem Wutanfall hat er ihre Briefe zerrissen.
