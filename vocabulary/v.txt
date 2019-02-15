@@ -43,7 +43,9 @@ Verbindung /fɛɐˈbɪndʊŋ/, die: connection, link
   Die kürzeste Verbindung zwischen zwei Punkten heißt Strecke.
   The shortest link between two points is called a line.
 
-Verbot /fɛɐˈboːt/, das: ban
+Verbot /fɛɐˈboːt/, das, -e: ban
+  Sie missachtete das Verbot ihrer Eltern und traf sich heimlich mit ihm.
+  She met him in secret even though her parents had expressly forbidden her to do so.
 
 verbrannt => verbrennen
 
@@ -246,6 +248,10 @@ verpacken /fɛɐˈpakən/: to pack(age), to wrap (up)
 Verpflegung /fɛɐˈpfleːɡʊŋ/, die: food, catering
   Habt ihr für den Ausflug genügend Verpflegung dabei?
   Have you taken enough food for the trip?
+
+Verpflichtung /fɛɐˈpflɪçtʊŋ/, die, -en: commitment, obligation
+  Sie kam allen Verpflichtungen nach.
+  She fulfilled all her obligations.
 
 verraten /fɛɐˈraːtən/: to tell, to reveal
 
