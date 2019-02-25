@@ -139,9 +139,10 @@ beben: to shake, to tremor, to tremble
   Er bebte am ganzen Körper vor Empörung.
   His whole body was trembling with indignation. 
 
-Becher /ˈbɛçɐ/, der: cup
+Becher /ˈbɛçɐ/, der: cup, carton, pot
   Er trank seinen Kaffee aus einem Plastikbecher.
   He drank his coffee from a plastic cup.
+  einen Becher Joghurt / Sahne / Pudding kaufen: to buy a pot of yoghurt/cream/pudding
 
 Bedarf /bəˈdarf/, der, Bedarfs: need, requirement
   Schon eine Orange deckt den täglichen Bedarf an Vitamin C.
@@ -300,6 +301,10 @@ beibringen /ˈbaibrɪŋən/: to teach, to break the news to, to inflict on, to p
   einem Papagei das Sprechen beibringen: to teach a parrot to speak
   Er konnte Dokumente beibringen, die seine Ausagen belegten.
   He managed to procure documents that confirmed his claims.
+
+beimessen /ˈbaimɛsən/: to attach/ascribe sth to sth
+  Du solltest diesem Zwischenfall nicht zu große Bedeutung beimessen.
+  You shouldn't attach too much importance to that incident.
 
 Bein /bain/, das, Beine: leg
   Spinnen haben acht Beine.
@@ -479,6 +484,10 @@ besonders /bəˈzɔndɐs/: particularly, especially
   ein besonders erfolgreiches Jahr: a particularly successful year
   Sie ist nicht besonders hübsch.
   She's not particularly pretty.
+
+besprechen /bəˈʃprɛçən/: to discuss, to consult, to review
+  das weitere Vorgehen eingehend besprechen
+  to have detailed discussions about the next steps
 
 bestätigen /bəˈʃtɛːtɪɡən/: to confirm
   Die Zahlen bestätigten die Schätzungen der Experten.
@@ -780,6 +789,9 @@ bohren /ˈboːrən/: to drill
 Bohrmaschine /ˈboːɐmaʃiːnə/, die: drill
   mit der Bohrmaschine Löcher für die Dübel in die Wand bohren
   to use the electric drill to drill holes in the wall for the wall plugs 
+
+Bonbon /bõˈbõ/ /bɔŋˈbɔŋ/ oder /ˈbɔŋbɔŋ/, der, -s: candy
+  Bonbons lutschen: to suck candies
 
 Boot /boːt/, das: boat
   Bootfahrt: boat trip
