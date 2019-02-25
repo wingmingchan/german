@@ -12,6 +12,16 @@ Vati /ˈfaːti/, der: dad, pop
 
 ver-: off, end of a state
 
+verabreden /fɛɐˈ|apreːdən/: to arrange to meet, to agree
+  Er hat sich mit Laura im Park verabredet.
+  He had arranged to meet Laura in the park.
+  Es wurde verabredet, die Kosten zu teilen.
+  It was agreed that the costs should be shared.
+
+Verabredung /fɛɐ|ˈapreːdʊŋ/, die, -en: appointment, arrangement, date
+  Ich habe heute Abend eine wichtige Verabredung.
+  I have an important engagement this evening.
+
 verabscheuen /fɛɐˈ|apʃɔyən/: detest
   Gewalt verabscheuen: to detest violence
 
@@ -498,7 +508,9 @@ Vorbereitung /ˈfoːɐbəraitʊŋ/, die: preparation
 
 Vorfall /ˈfoːɐfal/, der: incident
 
-Vorgehen /ˈfoːɐɡeːən/, das: action
+Vorgehen /ˈfoːɐɡeːən/, das, -s: actions, approach, procedure
+  Die Schüler waren mit dem Vorgehen des Lehrers nicht einverstanden.
+  The students did not agree with the teacher's approach.
 
 vorgehen: to proceed, to act
 
