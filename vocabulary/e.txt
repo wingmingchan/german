@@ -9,7 +9,10 @@ Ebbe /ˈɛbə/, die, Ebben: ebb
 
 eben /ˈeːbən/: flat, level, just (gerade jetzt)
 
-ebenfalls: likewise
+ebenfalls /ˈeːbənfals/: likewise
+  Unsere Nachbarn waren ebenfalls eingeladen.
+  Our neighbors were also invited.
+  Danke, ebenfalls!
 
 ebenso /ˈeːbənzoː/: just as
   Sie hat das ebenso gemacht wie du.
@@ -208,6 +211,12 @@ einschalten /ˈainʃaltən/: to switch on
   Schaltest du bitte den Fernseher/das Licht ein?
   Could you switch on the TV/light, please?
 
+einschlagen /ˈainʃlaːɡən/: to smash, to strike, to hit
+  jdm beim Kampf den Schädel / die Zähne einschlagen
+  to knock sb's brains in/knock out sb's teeth in a fight
+  Bei uns hat / ist gestern der Blitz eingeschlagen.
+  Our place was struck by lightning yesterday.
+
 einschleichen /ˈainʃlaiçən/: to sneak in
 
 Einsicht, die: view, insight, conclusion
@@ -365,9 +374,11 @@ entgegen: toward, against
   allen Erwartungen/den Ankündigungen entgegen
   against all expectations/contrary to announcements
 
-enthalten /ɛntˈhaltən/: to contain, to hold
+enthalten /ɛntˈhaltən/: to contain, to hold, to include
   Das Wasser hier enthält viel Kalk.
   The water here is very hard.
+  Speisen und Getränke sind im Preis enthalten.
+  Food and drink are included in the price.
 
 enthüllen /ɛntˈhʏlən/: to reveal
   Die Fahnder enthüllten Anschlagspläne der terroristischen Vereinigung.
