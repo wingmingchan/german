@@ -125,7 +125,9 @@ Schauspieler, Schauspielerin /ˈʃauʃpiːlɐ/: actor/actress
 
 schauten => schauen
 
-Scheibe /ˈʃaibə/, die: window pane
+Scheibe /ˈʃaibə/, die, -n: slice, pane, disk
+  eine Scheibe Brot essen: to eat a slice of bread
+  bei einem Auto eine Scheibe einschlagen: to smash in a window of a car
 
 scheinbar /ˈʃainbaːɐ/: apparent
   ein scheinbarer Widerspruch: an apparent contradiction
@@ -183,6 +185,9 @@ Schild /ʃɪlt/, das, Schilder: sign
 
 schildern /ˈʃɪldɐn/: to describe
   jdm die Situation schildern: to describe the situation to sb
+
+Schinken /ˈʃɪŋkən/, der, -: ham
+  gekochter / roher Schinken: cooked/raw ham
 
 schippen: to shovel
 
@@ -645,6 +650,10 @@ Sorge /ˈzɔrɡə/, die, Sorgen: worry
 
 sorgen /ˈzɔrɡən/: to cater, to provide, to ensure, to worry, to cause
 
+Sorte /ˈzɔrtə/, die, -n: sort, kind, type
+  Es gab mehrere Sorten Käse und Wurst zur Auswahl.
+  There was a selection of different types of cheese and sausage.
+
 sowie /zoˈviː/: and, as well as
 
 spähen /ˈʃpɛːən/: to peer
@@ -673,6 +682,10 @@ spät /ʃpɛːt/: late
 spätestens /ˈʃpɛːtəstəns/: at the latest
   Ich muss spätestens um Mitternacht zu Hause sein.
   I have to be home no later than midnight.
+
+Speise /ˈʃpaizə/, die, -n: dish
+  Speisen und Getränke sind im Preis enthalten.
+  Food and drink are included in the price.
 
 spenden /ˈʃpɛndən/: to donate, to give, to provide
   Das Feuer spendete wohlige Wärme.
