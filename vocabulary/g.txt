@@ -90,9 +90,11 @@ gebrannt => brennen
 gebratenes [gedünstetes, gegrilltes, gekochtes, geschmortes] Fleisch:
   roast(ed) [steamed, grilled, boiled, stewed] meat
 
-Geburtstag /ɡəˈbuːɐʦtaːk/, der: birthday
+Geburtsdatum /ɡəˈbuːɐʦdaːtʊm/, das, Geburtsdaten: date of birth
+
+Geburtstag /ɡəˈbuːɐʦtaːk/, der, -e: birthday
   Er feiert dieses Jahr seinen 60. / einen runden Geburtstag.
-  He's celebrating his 60th birthday / a big birthday this year.
+  He's celebrating his 60th birthday/a big birthday this year.
 
 gedacht => denken
 
@@ -492,6 +494,10 @@ glucksen /ˈɡlʊksən/: to gurgle, to burble, to chortle
   Das Baby gluckste vor Vergnügen.
   The baby burbled with delight.
 
+Glückwunsch /ˈɡlʏkvʊnʃ/, der, -e: congratulations
+  Herzlichen Glückwunsch zur bestandenen Prüfung!
+  Congratulations on passing your exam.
+
 Gnade /ˈɡnaːdə/, die: mercy
   um Gnade bitten/flehen: to ask/beg for mercy 
 
@@ -517,6 +523,10 @@ Grammatik /ɡraˈmatɪk/, die: grammar
 
 Granit /ɡraˈniːt/, der: granite
    Granitplatte: granite countertop
+
+Gratulation /ɡratulaˈʦjoːn/, die, -en: congratulations
+  Gratulation zum bestandenen Examen!
+  Congratulations on passing your exam!
    
 grau /ɡrau/: grey
   graue Haare bekommen: to get gray hair 
@@ -555,6 +565,9 @@ Grund /ɡrʊnt/, der: reason
 
 Grundschule: elementary/grade school
 
+Gulasch /ˈɡuːlaʃ/ oder /ˈɡʊlaʃ/, der-das, -s: goulash
+  ungarisches Gulasch mit Nudeln: Hungarian goulash with pasta
+
 gültig /ˈɡʏltɪç/: valid, accepted
   der im Moment gültige Fahrplan/Tarif
   the currently valid timetable/pricelist
@@ -565,6 +578,8 @@ günstig /ˈgʏnstɪç/: favorable, convenient, reasonable
   ein Haus in günstiger Lage: a conveniently located house
   eine Veränderung, die sich günstig auswirkt: a change with favorable consequences
   günstig einkaufen: to buy things at attractive prices
+
+Gurke /ˈɡʊrkə/, die, -n: cucumber
 
 gut /ɡuːt/: good
   Für die Jahreszeit war das Wetter ganz gut.
