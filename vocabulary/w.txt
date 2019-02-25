@@ -93,6 +93,8 @@ wart => sein
 
 wart (imperative du) => warten
 
+warum /vaˈrʊm/: why
+
 waschen /ˈvaʃən/: to wash
 
 Wasser /ˈvasɐ/, das: water
@@ -223,9 +225,11 @@ werfen /ˈvɛrfən/: to throw
   She threw (the ball) twenty meters.
   einen Blick auf jdn werfen: to cast a glance at sb 
 
-Wert /veːɐt/, der: value
+Wert /veːɐt/, der, -e: value, asset
   Das Haus hat einen Wert von 250.000 Euro.
   The house is worth 250,000 euros.
+  durch seine Arbeit Werte schaffen: to generate assets through your work
+  einer Freundschaft hohen Wert beimessen: to value a friendship highly
 
 wert: worth, worthy
   sehenswert: worth seeing
@@ -322,6 +326,8 @@ Witz /vɪʦ/, der, Witze: joke
 Wochenende /ˈvɔxən|ɛndə/, das: weekend
   Was machst du am Wochenende?
   What are you doing at the weekend?
+
+Wodka /ˈvɔtka/, der, -s: vodka
 
 woher /voˈheːɐ/: from where
   Woher kommt er?
