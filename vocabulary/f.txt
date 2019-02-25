@@ -29,6 +29,9 @@ Fahrrad /ˈfaːɐraːt/, das, Fahrräder /ˈfaːɐrɛːdɐ/: bicycle
 
 Faktor /ˈfaktoːɐ/, der: factor
 
+Fakultät /fakʊlˈtɛːt/, die, -en: faculty
+  die Juristische / Philosophische Fakultät: the Faculty of Law/Arts
+
 Fall /fal/, der, Fälle /ˈfɛlə/: case
   Was macht man in so einem Fall?
   What do you do in a case like that?
@@ -221,6 +224,9 @@ festsitzen: stick, adhere, be stuck
 
 feststellen /ˈfɛstʃtɛlən/: to determine, to find out, to tell, to state
 
+Fett /fɛt/, das, -e: fat, grease
+  das Fett von der Suppe abschöpfen: to skim the fat off the soup
+
 Feuchtigkeit /ˈfɔʏçtɪçkait/, die: dampness, moisture
   eine Feuchtigkeitscreme für die Haut: a moisturizing cream for the skin
 
@@ -279,6 +285,10 @@ fliehen /ˈfliːən/: to flee
 fließen /ˈfliːsən/: to flow
 
 flog, flogen  => fliegen
+
+Floh /floː/, der, ..e: flea
+  von Flöhen gebissen werden: to be bitten by fleas
+  Flohmarkt
 
 fluchen /ˈfluːxən/: to swear, to curse
   Du sollst nicht dauernd fluchen!
@@ -466,6 +476,7 @@ Frost /frɔst/, der: frost
 
 Frucht /frʊxt/, Früchte /ˈfrʏçtə/, die: fruit
   Fruchteis: sorbet
+  Fruchtyoghurt
 
 Frühling /ˈfryːlɪŋ/, der: spring
    Endlich wird es Frühling! Spring is here at last!
