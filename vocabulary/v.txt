@@ -127,6 +127,7 @@ Vergleich /fɛɐˈɡlaiç/, der: comparison
 
 vergleichen /fɛɐˈɡlɪçən/: to compare
   verglichen mit: compared with
+  zwei Bilder (miteinander) vergleichen: to compare two pictures (with each other)
 
 vergossen => vergießen
 
@@ -538,6 +539,9 @@ vorkommen /ˈfoːɐkɔmən/: to happen, to occur, to be found, to seem, to come 
   Das kommt mir seltsam vor.
   That seems strange to me.
 
+vorlegen /ˈfoːɐleːɡən/: to present, to produce, to show
+  der Behörde eine Bescheinigung vorlegen: to produce a certificate for the authority
+
 vorn /fɔrn/: in front
 
 Vorname /ˈfoːɐnaːmə/, der: first name
@@ -553,7 +557,8 @@ Vorort /ˈfoːɐ|ɔrt/, der, Vororte: suburb
   Er wohnt in einem Pariser Vorort.
   He lives in a suburb of Paris.
 
-Vorschlag, der: suggestion
+Vorschlag /ˈfoːɐʃlaːk/ , der, ..e: suggestion
+  jdm einen Vorschlag machen: to suggest sth to sb
 
 vorschlagen: to suggest
 
