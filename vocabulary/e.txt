@@ -562,6 +562,7 @@ Erlass /ɛɐˈlas/, der: decree, remission, release
 erlauben /ɛɐˈlaubən/: to allow, to permit
 
 Erlaubnis /ɛɐˈlaupnɪs/, die, -se: permission
+  => Genehmigung
   Sie ist ohne die Erlaubnis ihrer Eltern weggegangen.
   She went out without her parents' permission.
 
@@ -661,6 +662,8 @@ ersticken /ɛɐˈʃtɪkən/: to suffocate
 erteilen /ɛɐˈtailən/: to give, to grant, to confer
   Er erteilt anderen gerne Aufträge.
   He likes to give other people things to do.
+  Eine förmliche Genehmigung wurde nie erteilt.
+  Formal approval was never granted.
 
 erträglich /ɛɐˈtrɛːklɪç/: bearable
 
