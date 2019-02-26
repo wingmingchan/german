@@ -578,6 +578,10 @@ antworten /ˈantvɔrtən/: to answer
 
 Anwalt /ˈanvalt/: lawyer
 
+Anweisung /ˈanvaizʊŋ/, die, -en: instruction
+  auf jds Anweisung handeln: to act on sb's instructions
+  Gebrauchsanweisung: instructions for use
+
 anwurzeln
   wie angewurzelt dastehen/stehen bleiben: to stand rooted to the spot
 
@@ -697,7 +701,9 @@ auffällig /ˈauffɛlɪç/: noticeable, conspicuous, unusual, odd, strikingly, c
   Es ist auffällig, dass …
   It's noticeable that …
 
-Aufforderung /ˈauffɔrdərʊŋ/, die: order, command
+Aufforderung /ˈauffɔrdərʊŋ/, die, -en: order, command
+  Die Demonstranten kamen der Aufforderung der Polizei, den Platz zu verlassen, nicht nach.
+  The demonstrators did not comply with the police's demand to leave the square.
 
 aufgeben /ˈaufɡeːbən/: to give up, to stop, to give, to leave
 
@@ -987,6 +993,10 @@ Ausweisung /ˈausvaizʊŋ/, die: expulsion
 Ausweitung /ˈausvaitʊŋ/, die: expansion
   eine Ausweitung des Problems auf andere Bereiche fürchten
   to fear that the problem will expand to other areas
+
+auswendig /ˈausvɛndɪç/: by heart
+  ein Gedicht auswendig vortragen: to recite a poem by heart
+  
 
 auszählen: to count
 
