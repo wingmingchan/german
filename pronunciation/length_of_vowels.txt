@@ -1,0 +1,37 @@
+﻿Long vowels:
+
+1. Syllable ended with -er
+   vier /fiːɐ/
+2. Non-final open syllable
+   ü_ben /ˈyːbən/
+   O_fen /ˈoːfən/
+   Honig /ˈhoːnɪç/
+3. Indicated by spelling, syllable ended with -h or -hr
+   Fahrt /ˈfaːɐt/
+   Floh /floː/
+   wohnen /ˈvoːnən/
+4. Final syllable ended with a single consonant
+   schon /ʃoːn/
+   
+Exceptions:
+mit /mɪt/, man /man/
+
+Short vowels:
+
+1. Indicated by spelling, a consonant repeated:
+   Höl_le /ˈhœlə/
+   kön_nen /ˈkœnən/
+   bit_te /ˈbɪtə/
+   Mann /man/
+2. Close syllable ended with a consonant cluster
+   fünf /fʏnf/
+3. Non-final closed syllable
+   möch_ten /ˈmœçtən/
+   Mar_ker /ˈmarkɐ/
+   Mär_ker /ˈmɛrkɐ/
+   tan_zen /ˈtanʦən/
+4. Non-final open syllable followed by /x/, /r/:
+   ma_chen /ˈmaxən/
+
+
+   
