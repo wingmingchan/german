@@ -502,6 +502,8 @@ sein /zain/: to be
   wie wäre es mit ...
   mir ist kalt: I'm cold
 
+seien => sein
+
 seit /zait/: since
   seit ein paar Tagen
 
