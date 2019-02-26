@@ -66,7 +66,7 @@ können
 
 kommen
   Present: ich komme, du kommst, er/ihr kommt
-  Preterite: ich kam, du kamst, er kam, ihr kamt
+  Preterite: ich kam, du kamst, er kam, wir kamen, ihr kamt
   Present Perfect: ist gekommen
   Imperative: du komm, ihr kommt
 
@@ -113,12 +113,18 @@ schwimmen
   Present Perfect: ich bin geschwommen
   Imperative: du schwimm/schwimme, ihr schwimmt
 
+sehen
+  Present: ich sehe, du siehst, er sieht, ihr seht
+  Preterite: ich sah, du sahst, er sah, wir sahen, ihr saht
+  Present Perfect: ich habe gesehen
+  Imperative: du sieh, ihr seht
+
 sein
   Present: ich bin, du bist, er ist, wir/Sie sind, ihr seid
   Preterite: ich war, du warst, er war, wir/Sir waren, ihr wart
   Present Perfect: bin gewesen
-  Imperative: du sei, ihr seid
-
+  Imperative: du sei, ihr seid, Sie seien
+  
 setzen
   Present: ich setze, du/er/ihr setzt, 
   Preterite: ich setzte, du setztest, er setzte, ihr setztet, wir/Sie 
