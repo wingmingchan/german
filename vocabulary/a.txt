@@ -386,6 +386,10 @@ an /an/: at, on, from, against
   Das Radio ist noch an.
   The radio's still on. 
 
+anbieten /ˈanbiːtən/: to offer
+  Welche Wahlfächer bietet die Schule an?
+  Which electives does the school offer?
+
 andauernd /ˈandauɐnt/: continuing, persistent, constant, ongoing
 
 Anden: Andes
@@ -405,6 +409,10 @@ anders /ˈandɐs/: differently
 andersherum /ˈandɐshɛrʊm/: the other way around
   Vielleicht sollten wir das Bett andersherum stellen.
   Maybe we should put the bed the other way around.
+
+anderthalb /ˈandɐtˈhalp/: one and a half
+  => eineinhalf
+  anderthalb Stunden: an hour and a half
 
 anfangen /ˈanfaŋən/: to begin
   Hast du den Aufsatz schon angefangen?
@@ -773,13 +781,20 @@ aufregen /ˈaufreːɡən/: to get upset/worried/excited
 aufrichtig /ˈaufrɪçtɪç/: sincere, honest
   aufrichtigen Dank empfinden: to be sincerely grateful 
 
-Aufsatz /ˈaufzaʦ/, der, Aufsätze: essay, paper
+Aufsatz /ˈaufzaʦ/, der, ..e: essay, paper
   Wir müssen einen Aufsatz über unser schönstes Ferienerlebnis schreiben.
   We have to write an essay about the nicest thing that happened to us on vacation.
 
 aufschlagen /ˈaufʃlaːɡən/: to open, to add, to hit
   Ich hielt sie für tot, bis sie die Augen aufschlug.
   I thought she was dead till she opened her eyes.
+
+aufstehen /ˈaufʃteːən/: to get up, to stand up, to be open
+  Er stand auf und bot dem Mann seinen Platz an.
+  He got up and offered the man his seat.
+  früh aufstehen müssen: to have to get up early
+  Die Tür stand weit auf.
+  The door was wide open.
 
 aufstellen /ˈaufʃtɛlən/: to put up, to arrange, to draw up
 
