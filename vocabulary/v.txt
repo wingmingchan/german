@@ -78,6 +78,13 @@ verdrängen /fɛɐˈdrɛŋən/: to drive out
   Jemand hat sie von ihrem Platz verdrängt.
   Somebody has ousted her from her place.
 
+vereinbaren /fɛɐˈ|ainbaːrən/: to agree, to arrange
+  einen Termin beim Zahnarzt vereinbaren
+  to arrange an appointment at the dentist
+
+Vereinbarung /fɛɐˈ|ainbaːrʊŋ/, die, -en: agreement, arrangement
+  eine Vereinbarung mit jdm treffen: to make an arrangement with sb
+
 Vereinigung /fɛɐˈ|ainɪɡuŋ/, die: organization
 
 verfassen /fɛɐˈfasən/: to write
@@ -287,6 +294,15 @@ verschärfen /fɛɐˈʃɛrfən/: to tighten, to make stricter/more severe, to ma
 verschicken /fɛɐˈʃɪkən/: to send (off/out)
   Die Pakete wurden bereits gestern verschickt.
   The parcels were already sent off/dispatched yesterday.
+
+verschieben /fɛɐˈʃiːbən/: to move
+  Pass auf, dass du das Lineal nicht verschiebst.
+  Be careful not to jog the ruler.
+  Der Teppich hatte sich verschoben.
+  The rug has moved.
+  to put off, to postpone
+  Sie mussten ihren Urlaub verschieben.
+  They had to put their vacation off.
 
 verschieden /fɛɐˈʃiːdən/: different
 
@@ -541,6 +557,10 @@ vorkommen /ˈfoːɐkɔmən/: to happen, to occur, to be found, to seem, to come 
 
 vorlegen /ˈfoːɐleːɡən/: to present, to produce, to show
   der Behörde eine Bescheinigung vorlegen: to produce a certificate for the authority
+
+Vorlesung /ˈfoːɐleːzʊŋ/, die, -en: lecture
+  Sie hält eine Vorlesung über moderne Architektur.
+  She's giving a lecture on modern architecture.
 
 vorn /fɔrn/: in front
 
