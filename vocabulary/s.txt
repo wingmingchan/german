@@ -114,6 +114,9 @@ Schatten /ˈʃatən/, der: shadow, shade
   He followed me like a shadow.
   im Schatten sitzen: to sit in the shade
 
+Schätzung /ˈʃɛʦʊŋ/, die, -en: estimate
+  => Berechnung
+
 schaudern /ˈʃaudɐn/: to shiver
 
 schauen /ˈʃauən/: to look, to look for
@@ -723,6 +726,14 @@ Spott /ʃpɔt/, der: mockery
 Sprache /ˈʃpraːxə/, die: language
   Latein ist eine tote Sprache.
   Latin is a dead language. 
+
+sprechen /ˈʃprɛçən/: to speak, to talk
+
+Sprechstunde /ˈʃprɛçʃtʊndə/, die, -n: consultation, consultation hours
+  Sprechstunden nur nach Vereinbarung!
+  Consultations by appointment only!
+  zum Deutschlehrer in die Sprechstunde gehen
+  to go to see the German teacher outside of class
 
 spritzen /ˈʃprɪʦən/: to spray
   jdm Wasser ins Gesicht spritzen: to spray water in sb's face
