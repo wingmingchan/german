@@ -41,6 +41,12 @@ finden
   Present Perfect: ich habe gefunden
   Imperative: du find/finde, ihr findet
 
+gehen
+  Present: ich gehe, du gehst, er geht, ihr geht
+  Preterite: ich ging, du gingst, er ging, wir gingen, ihr gingt
+  Present Perfect: ich bin gegangen
+  Imperative: du geh, ihr geht
+
 haben
   Present: ich habe, du hast, er hat, ihr habt
   Preterite: ich hatte, du hattest, er hatte, ihr hattet
@@ -88,7 +94,6 @@ lesen
   Present Perfect: ich habe gelesen
   Imperative: lies, lest, lesen
 
-
 machen
   Present: ich mache, du machst, er macht, ihr macht
   Preterite: ich machte, du machtest, er machte, ihr machtet
@@ -106,6 +111,18 @@ nehmen
   Preterite: ich nahm, du nahmst, er nahm, wir nahmen, ihr nahmt
   Present Perfect: ich have genommen
   Imperative: du nimm, ihr nehmt
+
+öffnen
+  Present: öffne, öffnest, öffnet
+  Preterite: öffnete, öffnetest, öffnetet
+  Present Perfect: ich habe geöffnet
+  Imperative: du öffne, ihr öffnet
+
+sagen
+  Present: sage, sagst, sagt
+  Preterite: sagte, sagtest, sagte, sagten, sagtet
+  Present Perfect: ich habe gesagt
+  Imperative: du sag/sage, ihr sagt
 
 schwimmen
   Present: ich schwimme, du schwimmst, er schwimmt, ihr schwimmt
