@@ -172,6 +172,8 @@ Mengenangabe, die: indication of quantity
 
 Mengeneinheit, die: unit of quantity
 
+Mensa /ˈmɛnza/, die, -sen: student canteen
+
 Mensch /mɛnʃ/, Menschen, der: human
 
 merkwürdig /ˈmɛrkvʏrdɪç/: strange, odd
@@ -185,6 +187,8 @@ Messer, das: knife
 Messerstecherei /mɛsɐʃtɛçəˈrai/, die: knife fight, stabbing
 
 Messing /ˈmɛsɪŋ/, das: brass
+
+Messtechnik, die: measurement technology, metrology
 
 Milch /mɪlç/, die: milk
 
