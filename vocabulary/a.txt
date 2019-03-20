@@ -472,6 +472,8 @@ angespannt /ˈanɡəʃpant/: strained, tense, fraught
   Vor der Prüfung war er nervös und angespannt.
   Before the exam he was nervous and tense.
 
+Angestellte /ˈanɡəʃtɛltə/: employee, white-collar worker
+
 angewurzelt /anɡəˈvʊrʦɛlt/: rooted to the spot
 
 Angriff /ˈanɡrɪf/, der: attack
@@ -646,6 +648,10 @@ Arm /arm/, der: arm
 arm /arm/: poor
   eines der ärmsten Länder der Erde: one of the poorest countries on earth
 
+Arme /ˈarmə/, -n: poor person
+
+Armer: pauper
+
 Armut /ˈarmuːt/, die: poverty
   in bitterster Armut leben: to be desperately poor
 
@@ -698,6 +704,13 @@ aufdecken /ˈaufdɛkən/: to uncover, to show
  Der Journalist hat die Korruption der Stadtverwaltung aufgedeckt.
  The journalist uncovered the city administration’s corruption.
 
+aufdrücken: to press sth on, to stamp sth on sth, to push open
+  Den Bleistift nicht so fest aufdrücken! 
+  Don't press (on) your pencil so hard.
+  ein Siegel auf einen Brief aufdrücken: to impress a seal on a letter
+  Er drückte die Tür auf durch Knopfdruck.
+  He pressed the button and the door opened.
+
 auffahren /ˈauffaːrən/: to run into, to tailgate, to start, to ascend
 
 auffallen /ˈauffalən/
@@ -718,7 +731,18 @@ Aufforderung /ˈauffɔrdərʊŋ/, die, -en: order, command
   Die Demonstranten kamen der Aufforderung der Polizei, den Platz zu verlassen, nicht nach.
   The demonstrators did not comply with the police's demand to leave the square.
 
-aufgeben /ˈaufɡeːbən/: to give up, to stop, to give, to leave
+aufgeben /ˈaufɡeːbən/: to give up, to stop, to give, to leave, to mail
+  das Rauchen aufgeben: to quit smoking
+  Sie musste kurz vor dem Ziel aufgeben.
+  She had to give up shortly before the finish line.
+  Ich habe den Garten aufgegeben, die Arbeit wurde mir zu viel.
+  I've given up the garden – it was too much work for me.
+  Gib dich / ihn nicht auf, es gibt noch eine Chance auf Heilung!
+  Don't give up / Don’t give up hope for him. There's still a chance of recovery.
+  Ich möchte gern eine Anzeige für die Samstagsausgabe aufgeben.
+  I'd like to place an ad in Saturday’s edition.
+  Denk dran, deine Post rechtzeitig vor Weihnachten aufzugeben.
+  Remember to mail your letters in good time for Christmas.
 
 aufgehen: to rise, to open, to work, sb realizes sth
   Morgen geht die Sonne in Berlin um 4:58 Uhr auf.
@@ -881,6 +905,10 @@ ausfallen /ˈausfalən/: to be cancelled, to fail, to malfunction, to fall out
 Ausflug /ˈausfluːk/, der: trip, excursion
 
 ausführen /ˈausfyːrən/: to carry out, to perform, to execute, to export
+
+ausfüllen /ˈausfʏlən/: to fill out
+  Sie haben nicht alle Pflichtfelder ausgefüllt.
+  You haven't filled out all of the mandatory fields.
 
 Ausgabe /ˈausɡaːbə/, die: expenditure
 
