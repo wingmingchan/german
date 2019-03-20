@@ -266,6 +266,8 @@ Einweg-: disposable
   Einweg-Plastikflaschen
 
 Einwohner /ˈainvoːnɐ/: inhabitants
+  Wie viele Einwohner hat München?
+  How many inhabitants are there in Munich?
 
 Einzel, das: single
   Er gewann im Herreneinzel.
@@ -580,6 +582,7 @@ Erlebnis /ɛɐˈleːpnɪs/, das, Erlebnisse: experience
 
 erledigen /ɛɐˈleːdɪɡən/: to take care of, to deal with, to carry out, to be resolved, to be taken care of
   die Einkäufe erledigen: to do the shopping
+  die Hausarbeit erledigen: to do the housework
   Der Fall hat sich erledigt.
   The matter has been resolved.
 
