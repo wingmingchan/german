@@ -817,6 +817,9 @@ böse /ˈbøːzə/: wicked, evil, nasty, naughty, angry
 
 bot..an => anbieten
 
+Bote /ˈboːtə/, Botin, -n: messenger
+  Postbote: mailman
+
 Botschaft /ˈboːtʃaft/, die: message, embassy
   Ich habe eine frohe Botschaft für dich!
   I have good news for you!
@@ -863,10 +866,12 @@ bricht => brechen
 Brief /briːf/, der, Briefe: letter
   jdm einen Brief schreiben: to write sb a letter 
 
-Briefmarke /ˈbriːfmarkə/, die: stamp
+Briefmarke /ˈbriːfmarkə/, die, -n: stamp
   Briefmarken sammeln: to collect stamps 
 
 Briefträger /ˈbriːftrɛːɡɐ/: mail carrier
+
+Briefumschlag /ˈbriːf|ʊmʃlaːk/, der, ..e: envelope
 
 *Brise /ˈbriːzə/, die: breeze
 
