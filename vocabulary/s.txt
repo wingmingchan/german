@@ -107,12 +107,26 @@ schalten: to switch, to turn, to shift gear, to connect
   Die Heizung hat schon auf Nachtbetrieb geschaltet.
   The heating has already switched to night mode.
 
+Schalter /ˈʃaltɐ/, der, -: switch, counter
+  Lichtschalter: light switch
+  Bankschalter: bank counter
+
 scharf /ʃarf/: sharp, strong, hot, spicy, rigorous, tough
 
 Schatten /ˈʃatən/, der: shadow, shade
   Er folgte mir wie ein Schatten.
   He followed me like a shadow.
   im Schatten sitzen: to sit in the shade
+
+schätzen /ˈʃɛʦən/: cherish, count, estimate, make, prize, treasure, value
+  Die Feuerwehr schätzt den Sachschaden auf 100.000 Euro.
+  The fire department estimates the damage to property to amount to 100,000 euros.
+  Ich schätze, du hast keine Lust mitzukommen?
+  I don't suppose you want to come?
+  sich glücklich schätzen: to consider yourself lucky
+  ein von allen geschätzter Kollege: a co-worker valued by everybody
+  Ich schätze es gar nicht, wenn ich um diese Zeit noch gestört werde.
+  I really don't appreciate being disturbed at this time.
 
 Schätzung /ˈʃɛʦʊŋ/, die, -en: estimate
   => Berechnung
@@ -131,6 +145,14 @@ schauten => schauen
 Scheibe /ˈʃaibə/, die, -n: slice, pane, disk
   eine Scheibe Brot essen: to eat a slice of bread
   bei einem Auto eine Scheibe einschlagen: to smash in a window of a car
+
+Schein /ʃain/, der, -e: check, coupon, shine, show, ticket
+  Im Schein der Kerzen sah alles wie verzaubert aus.
+  In the candlelight everything looked magical.
+  Der Schein trügt!
+  Appearances can be deceptive!
+  1000 Euro in kleinen Scheinen: 1000 euros in small bills
+  einen Angelschein / Jagdschein / Waffenschein haben: to have a fishing/hunting/gun permit
 
 scheinbar /ˈʃainbaːɐ/: apparent
   ein scheinbarer Widerspruch: an apparent contradiction
@@ -330,6 +352,8 @@ schreien /ˈʃraiən/: to scream, to shout
   She screamed with pain.
 
 schrie => schreien
+
+Schriftsteller /ˈʃrɪftʃtɛlɐ/: writer
 
 Schrott /ʃrɔt/, der: scrap, garbage
   Schrotthändler: scrap (metal) dealer
