@@ -125,12 +125,21 @@ Haupt /haupt/, das: head
 Hauptreisezeit: peak tourist season
 
 Hausarbeit /ˈhaus|arbait/, die: housework
+  die Hausarbeit erledigen: to do the housework
+
+Hausaufgabe /ˈhaus|aufɡaːbə/, die, -n: homework
+  Was habt ihr in Deutsch als Hausaufgabe auf?
+  What do you have for homework in German?
 
 hausen /ˈhauzən/: pejorative: to live
   Die Familie hauste in einer verrosteten Blechhütte.
   The family lived in a rusty tin shack.
 
+Hausmeister: super(intendant), janitor
+
 Hausmittel /ˈhausmɪtəl/, das: household remedy
+
+Haustür, die: front door
 
 Haut /haut/, die: skin
   zarte/raue/empfindliche Haut haben
