@@ -97,6 +97,9 @@ abkommen: to go off sth, to give up sth
   Ich bin davon abgekommen, alles allein schaffen zu wollen.
   I've given up the ideal of trying to all of that on my own.
 
+Abkürzung /ˈapkʏrʦʊŋ/, die, -en: abbreviation
+  Abkürzungsverzeichnis: list of abbreviations
+
 ablaufen: to expire, to run out, to drain
   Die Frist läuft nächsten Monat ab.
   The deadline expires next month.
@@ -167,6 +170,9 @@ abschöpfen /ˈapʃɶpfən/: to skim off, to make
   Mit einem Festgeldkonto kann man eine gute Rendite abschöpfen.
   With a fixed-term savings account you can make a healthy return on your investment.
 
+Absender /ˈapzɛndɐ/: sender
+  <=> Empfänger
+
 absetzen /ˈapzɛʦən/: to drop sb off
   Kannst du mich bitte an der Schule absetzen?
   Can you drop me off at the school, please?
@@ -203,6 +209,8 @@ abstoßen /ˈapʃtoːsən/: to push off, to reject
 
 abstoßend /ˈapʃtoːsənt/: abhorrent, revolting
 
+Abteilung /apˈtailʊŋ/, die, -en: department
+
 abtrennen /ˈaptrɛnən/: to separate, to tear off, to sever
   den abgewetzten Kragen abtrennen und ersetzen
   to take off the frayed collar and replace it
@@ -215,6 +223,18 @@ abwischen /ˈapvɪʃən/: to wipe off
 abwürgen /ˈapvʏrɡən/: to stifle
   Meine Versuche, mich am Gespräch zu beteiligen, wurden sofort abgewürgt.
   My attempts to join in the conversation were stifled straight away.
+
+abziehen /ˈapʦiːən/: to subtract, to deduct, to strip off, to withdraw, to move out
+  vom Preis drei Prozent Rabatt abziehen
+  to deduct a three percent discount from the price
+  dem Fisch die Haut abziehen und ihn filetieren
+  to strip the skin off the fish and fillet it
+  Zieh dein Bett ab, ich will heute waschen.
+  Strip your bed. I want to wash the sheets today.
+  seine Einheiten aus einem Gebiet abziehen
+  to withdraw your units from a region
+  Das Gewitter ist abgezogen.
+  The storm has passed.
 
 abzocken /ˈapʦɔkən/: to rip off
   Vorsicht, bei solchen Angeboten wird man nur abgezockt!
@@ -239,6 +259,9 @@ Achtung /ˈaxtʊŋ/, die: respect, attention
 
 Adler /ˈaːdlɐ/, der: eagle
 
+Adresse /aˈdrɛsə/, die, -n: address
+  => Anschrift
+
 Affe /ˈafə/, der, Affen: monkey, ape
   die Affen im Zoo: the monkeys in the zoo 
 
@@ -258,6 +281,9 @@ Ahnung /ˈaːnʊŋ/, die: idea
   You don't know jack!
   Ich hatte schon so eine Ahnung, dass das nicht klappt.
   I had a feeling it wasn’t going to work. 
+
+akademisch /akaˈdeːmɪʃ/: academic
+  eine akademische Ausbildung haben: to have an academic background
 
 akklimatisieren /aklimatiˈziːrən/: to acclimate yourself
 
@@ -523,6 +549,12 @@ Anrede /ˈanreːdə/, die: (form of) address
   Wie ist die korrekte Anrede für eine Gräfin?
   What is the correct form of address for a countess?
 
+anreden /ˈanreːdən/: to address
+  Er wurde in der Straßenbahn von eine älteren Dame angeredet.
+  An elderly lady spoke to her in the tram.
+  Er hat mich gleich mit Du angeredet.
+  He addressed me by the familiar "du" form straight away.
+
 anrufen /ˈanruːfən/: to call, to phone
   rufe an, rufst an, ruft an, habe angerufen
   Hat jemand für mich angerufen?
@@ -533,6 +565,9 @@ Ansammlung /ˈanzamlʊŋ/, die: collection, crowd, gathering
 anschießen /ˈanʃiːsən/: to wound
 
 anschließend /ˈanʃliːsənt/: subsequent
+
+Anschrift /ˈanʃrɪft/, die, -en: address
+  jdm seine Anschrift mitteilen: to give sb your address
 
 ansehen /ˈanzeːən/: to look at
   jdn fragend ansehen: to look at sb questioningly
@@ -624,6 +659,10 @@ Apfel /ˈapfəl/, der, Äpfel /ˈɛpfəl/: apple
   Apfelsaft
   Apfelkuchen: apple pie
   Apfelschorle, die: apple juice and mineral water
+
+Appartement /apartəˈmã/, das, -s
+  Sie wohnt in einem schicken Appartement in der Innenstadt.
+  She lives in a stylish apartment in downtown.
 
 Appetit /apeˈtiːt/, der
   Guten Appetit!
@@ -860,6 +899,11 @@ aus-: away, removed, turned off
 Ausbeute /ˈausbɔytə/, die: yield
   Die Mine ist noch in Betrieb, aber die Ausbeute ist mittlerweile gering.
   The mine is still in operation but the yield is now low. 
+
+Ausbildung /ˈausbɪldʊŋ/, die, -en: apprenticeship, education, training, background
+  eine Ausbildung zum Elektriker machen: to do an apprenticeship as an electrician
+  Er ist noch in der Ausbildung.
+  He hasn't yet finished his education.
 
 Ausblick /ˈausblɪk/, der: view, outlook, perspective
   ein Zimmer mit Ausblick aufs Meer
