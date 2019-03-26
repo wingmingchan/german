@@ -76,6 +76,12 @@ kommen
   Present Perfect: ist gekommen
   Imperative: du komm, ihr kommt
 
+lassen
+  Present: ich lasse, du lässt, er lässt, ihr lasst
+  Preterite: ich ließ, du ließest, er ließ, ihr ließt
+  Present Perfect: ich habe gelassen
+  Imperative: lass, lasse, lasst
+
 legen
   Present: ich lege, du legst, er legt, ihr legt
   Preterite: ich legte, du legtest, wir legten, er legte, ihr legtet
