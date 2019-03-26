@@ -529,7 +529,9 @@ ankündigen /ˈankʏndɪɡən/: to announce
   Muss der Lehrer solche Tests ankündigen?
   Does the teacher have to give advance notice of tests like those?
 
-Ankunft /ˈankʊnft/, Ankünfte, die: arrival
+Ankunft /ˈankʊnft/, die, ..e: arrival
+  Die Ankunft des Zuges verzögert sich voraussichtlich um 10 Minuten.
+  The arrival of the train is expected to be delayed by 10 minutes.
 
 anlegen /ˈanleːɡən/: to lay out, to set up, to invest
   ein neues Gemüsebeet anlegen: to lay out a new bed
@@ -992,6 +994,15 @@ ausnutzen /ˈausnʊʦən/: to take advantage of
 ausrauben /ˈausraubən/: to rob
   Sie wurde nachts am Bahnhof überfallen und ausgeraubt.
   She was attacked and robbed at the station at night.
+
+Ausrede /ˈausreːdə/, die, -n: excuse
+  Er sagt, dass er Kopfschmerzen hat, aber ich halte das für eine Ausrede.
+  He says he has a headache, but I think that's just an excuse.
+
+ausreden /ˈausreːdən/:
+  jdm etw. ausreden: to talk sb out of sth
+  Sie ließ sich nicht ausreden, dass ich etwas gegen sie habe.
+  She wouldn't accept that I have nothing against her.
 
 ausruhen /ˈausruːən/: to rest
   Ich muss mich mal kurz ausruhen.
