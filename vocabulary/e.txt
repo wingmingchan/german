@@ -67,6 +67,10 @@ eigen /ˈaiɡən/: own
   Hast du ein eigenes Auto?
   Do you have your own car?
 
+eigenhändig /ˈaiɡənhɛndɪç/: in your own hand, personal
+  eine eigenhändige Unterschrift: a signature in your own hand
+  eigenhändige Übergabe: personal delivery
+
 eigentlich /ˈaiɡəntlɪç/: actually
   Eigentlich heißt er Johannes, Hansi ist nur sein Spitzname.
   Actually his name is Johannes – Hansi's just his nickname.
@@ -161,6 +165,8 @@ einheimisch /ˈainhaimɪʃ/: local, native
   => Heim, das: home
   einen Einheimischen nach dem Weg fragen: to ask a local for directions
 
+eingeschrieben: registered
+
 Einkommen /ˈainkɔmən/, das: income, earnings
   Wie hoch ist Ihr monatliches Einkommen in etwa?
   Roughly how high is your monthly income?
@@ -199,6 +205,9 @@ einliefern /ˈainliːfɐn/: to take
   After the accident he was taken to ER.
 
 einlud => einladen
+
+einpacken /ˈainpakən/: to wrap (up), to pack
+  Weihnachtsgeschenke einpacken: to wrap up Christmas presents
 
 einmischen: to interfere
 
@@ -326,6 +335,7 @@ Empfang /ɛmˈpfaŋ/, der: reception, welcome, receipt
 empfangen /ɛmˈpfaŋən/: to receive, to greet, to welcome
 
 Empfänger /ɛmˈpfɛŋɐ/: receiver
+  <=> Absender
 
 empfehlen /ɛmˈpfeːlən/: to recommend
   Kannst du mir einen guten Friseur empfehlen?
