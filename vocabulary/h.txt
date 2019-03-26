@@ -23,6 +23,17 @@ Haft /haft/, die, Haft: custody, imprisonment
 
 -haft: -like
 
+haften /ˈhaftən/: to be liable (for), to be legally responsible (for), to cling (to), to stick (to/in)
+  Eltern haften nicht immer für ihre Kinder.
+  Parents are not always responsible for their children's actions.
+  Wegen der Salbe haftet das Pflaster nicht.
+  The bandage wouldn’t stick because of the cream.
+  im Gedächtnis haften bleiben: to stick in your memory
+  Auf nasser Straße haften die Reifen schlecht.
+  The tires don't grip well in the wet.
+
+Haftetikett, das, -e: adhesive label
+
 Hagel /ˈhaːɡəl/, der: hail
 
 Hahn /haːn/, Hähne /ˈhɛːnə/, der: rooster
@@ -79,6 +90,12 @@ Haltestelle, die: stop
 Hammer /ˈhamɐ/, der, Hämmer: hammer
   mit dem Hammer einen Nagel in die Wand schlagen
   to hammer a nail into the wall
+
+Hand /hant/, die, ..e: hand
+  jdm die Hand geben / schütteln: to give sb your hand/to shake hands with sb
+  zu Händen: for the attention of
+  Firma Bauer, zu Händen Frau Weiss
+  Bauer, for the attention of Ms. Weiss
 
 Handel, der: trade
   Handelsabkommen: trade agreement
@@ -315,6 +332,10 @@ Himmel /ˈhɪməl/, der: sky
 himmlisch /ˈhɪmlɪʃ/: heavenly, divine
 
 hinaus /hɪˈnaus/: out
+
+hinauszögern /hɪˈnausʦøːɡɐn/: to delay, to put off
+  Es ist nicht sinnvoll, die Schließung des Betriebs hinauszuzögern.
+  It doesn't make sense to delay the closure of the plant.
 
 hindern /ˈhɪndɐn/: to prevent, to hinder
 
