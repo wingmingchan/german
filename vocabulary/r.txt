@@ -90,6 +90,9 @@ rauchen /ˈrauxən/: to smoke
   Do you mind if I smoke?
 
 Raum /raum/, Räume /ˈrɔymə/, der: room, space
+  Es wurde still, als die Lehrerin den Raum betrat.
+  It went quiet when the teacher entered the room.
+  auf engstem Raum zusammenleben: to live in a very confined space
 
 räumen /ˈrɔymən/: to clear, to put away, to vacate
   Hindernisse/Mitwisser/Probleme aus dem Weg räumen
@@ -179,6 +182,9 @@ Reihe /ˈraiə/, die: row, line, ranks
    Die Bäume stehen in einer Reihe.
    The trees are standing in a row.
    an die Reihe kommen / an der Reihe sein: to be next
+
+Reihenfolge /ˈraiənfɔlɡə/, die, -n: sequence, order
+  eine Liste in alphabetischer Reihenfolge: a list in alphabetical order
 
 reinigen /ˈrainɪɡən/: to clean
 
@@ -293,6 +299,10 @@ Rückfahrt, die: return journey
 
 Rückkehr ˈrʏkkeːɐ/, die: return
   die Rückkehr der Flüchtlinge in die Heimat: the refugees' return home
+
+Rückschein, der:
+  etwas per (od als) Einschreiben mit Rückschein verschicken
+  to send something by registered mail with confirmation of receipt
 
 Rücksicht /ˈrʏkzɪçt/, die, -en: consideration
   Rücksicht üben / zeigen: to be considerate
