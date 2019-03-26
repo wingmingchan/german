@@ -142,6 +142,10 @@ klagen /'klaːɡən/: complain, to take legal action
   Wir erwägen zu klagen.
   We're considering taking legal action.
 
+kläglich /’klɛːklɪç/: pitiful
+  Man hörte ein klägliches Miauen aus der Kiste.
+  Pitiful meows could be heard coming from the box.
+
 klappen /ˈklapən/: to work out, to go all right
   Es hat alles gut geklappt.
   Everything went well.
@@ -156,6 +160,8 @@ Klassenraum, der: classroom
 kleben /ˈkleːbən/: to stick sth somewhere
   eine Briefmarke auf den Umschlag kleben
   to stick a stamp on the envelope 
+
+Klebezettel, der: adhesive (or sticky) label, sticker
 
 Kleid /klait/, das, -er: dress, clothes
   warme Kleider mitbringen: to bring warm clothes
@@ -191,6 +197,12 @@ knapp /knap/: meagre, scarce, tight, barely
 kneten /ˈkneːtən/: to knead
   Sie knetete nervös ihre Hände/Schürze.
   She wrung her hands/apron nervously. 
+
+knicken /ˈknɪkən/: to fold
+  Bitte nicht knicken!
+  Please do not bend!
+  Das kannst du knicken!
+  You can forget it!
 
 Knie /kniː/, das, Knie: knee
   Er fiel vor dem König auf die Knie und bettelte um Gnade.
@@ -307,6 +319,8 @@ Körperhaltung, die: posture
 Korrekturstift, der, -e: correction pen
 
 Kost /kɔst/, die: food
+
+köstlich /ˈkœstlɪç/: delicious
 
 Kostprobe , die: taste, sample
 
