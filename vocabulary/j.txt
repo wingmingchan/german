@@ -6,11 +6,16 @@ ja /jaː/: yes
   ich glaube ja
   wenn ja: if so
 
-Jagd /jaːkt/, die: hunting
+Jagd /jaːkt/, die: hunting, chase, hunt
+  auf die Jagd gehen: to go hunting
+  Jagd auf einen Verbrecher machen: to give chase to a criminal
 
 Jagd machen auf: prey on
 
-*Jahr /jaːɐ/, das: year
+*Jahr /jaːɐ/, das, -e: year
+  im kommenden / vergangenen Jahr: next/last year
+  Frohes neues Jahr! Happy New Year!
+  schon in jungen Jahren: even at an early age
 
 jähren /ˈjɛːrən/: to be the + CARDINAL NUMBER anniversary of
   Am 13. März jährt sich ihr Todestag zum fünften Mal.
