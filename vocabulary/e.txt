@@ -135,10 +135,16 @@ Einfall /ˈainfal/, der, Einfälle /ˈainfɛlə/: idea, invasion
   Der Ausflug war ein glänzender Einfall von dir.
   The day trip was a brilliant idea of yours. 
 
-einfallen /ˈainfalən/
+einfallen /ˈainfalən/: to invade, to attack, to collapse, to join in
   etw. fällt jdm ein: sth occurs to sb
   Mir ist keine bessere Ausrede eingefallen.
   I couldn't think of a better excuse.
+  Wir müssen uns etwas einfallen lassen, um dieses Problem in den Griff zu bekommen.
+  We'll have to think of something to get to grips with this problem.
+  Feindliche Truppen fielen ins Land ein.
+  Enemy troops invaded the country.
+  Er hörte erst eine Weile zu und fiel dann in das Lied mit ein.
+  First he listened for a while and then he joined in the song.
 
 einfärben: to dye
   => Farbe
@@ -187,6 +193,19 @@ Einheit /ˈainhait/, die: unit, unity
   the national unity of a people
   In welcher Einheit sind die Entfernungen angegeben, in Kilometern oder Meilen?
   Which unit are the distances given in – kilometers or miles?
+
+einholen /ˈainhoːlən/: to get, to obtain, to catch up on, to make up, to lower,
+to take down, to haul in, to go shopping
+  Ich muss erst die Erlaubnis meiner Eltern dafür einholen.
+  I’ll have to get my parents' permission to do so first.
+  Er ist schon vor ein paar Minuten gegangen, aber wenn du dich beeilst, holst du ihn vielleicht noch ein.
+  He left a few minutes ago but you might be able to catch up on him if you hurry.
+  Dieser Entwicklungsrückstand ist schwer einzuholen.
+  It is difficult to close this gap in economic development.
+  die Angelschnur einholen und neu auswerfen: to reel in your fishing line and cast it again
+  die Fahne einholen: to take down the flag
+  Ich muss noch schnell (Brot) einholen gehen. => einkaufen
+  I have to do some quick shopping (for bread).
 
 einkaufen: shopping
 
@@ -476,8 +495,6 @@ er-: some result is achieved, the beginning of a process
 erachten /ɛɐˈ|axtən/
 
 Erbe /ˈɛrbə/, das: inheritance, heritage
-
-
 
 Erdbeere /ˈeːɐtbeːrə/, die: strawberry
   Erdbeeren pflanzen: to plant strawberries
