@@ -87,6 +87,16 @@ Vereinbarung /fɛɐˈ|ainbaːrʊŋ/, die, -en: agreement, arrangement
 
 Vereinigung /fɛɐˈ|ainɪɡuŋ/, die: organization
 
+Verfahren /fɛɐˈfaːrən/, das, -: process, procedure
+  moderne, umweltfreundliche Verfahren anwenden
+  to use modern, environmentally-friendly processes
+
+verfahren: to proceed, to get lost
+  Wie sollen wir in dieser Angelegenheit verfahren?
+  How should we proceed in this matter?
+  Sie haben sich in der Stadt hoffnungslos verfahren.
+  They got hopelessly lost in the city.
+
 verfassen /fɛɐˈfasən/: to write
   Er schenkte ihr ein selbst verfasstes Gedicht.
   He gave her a poem he’d written himself.
@@ -101,6 +111,10 @@ verfolgen /fɛɐˈfɔlɡən/: to pursue, to follow
 Verfolgung /fɛɐˈfɔlɡʊŋ/, die: prosecution, pursuit
   Das wird eine strafrechtliche Verfolgung nach sich ziehen.
   That will result in a criminal prosecution.
+
+verfügbar /fɛɐˈfyːkbaːɐ/: available
+  Der Artikel ist zurzeit nicht verfügbar.
+  The article is not available at the moment.
 
 verfügen /fɛɐˈfyːɡən/: to have (at your disposal), to be in charge, to order, to decree
   Das Hotel verfügt über vierzig Doppelzimmer.
@@ -128,7 +142,7 @@ vergießen /fɛɐˈɡiːsən/: to spill
   Wer hat den Kakao auf dem Tisch vergossen?
   Who spilled the cocoa on the table?
 
-Vergleich /fɛɐˈɡlaiç/, der: comparison
+Vergleich /fɛɐˈɡlaiç/, der, -e: comparison
   Vergleiche zwischen zwei Dingen anstellen / ziehen
   to make/draw comparisons between two things
 
@@ -141,6 +155,9 @@ vergossen => vergießen
 vergraulen /fɛɐˈɡraulən/: to scare away
   Die unfreundliche Bedienung vergrault uns die ganzen Gäste!
   The unfriendly service is scaring away all our guests.
+
+vergünstigt /fɛɐˈɡʏnstɪçt/: improved, reduced
+  etw vergünstigt kaufen: to buy sth at a reduced price
 
 verhalf => verhelfen
 
@@ -202,6 +219,10 @@ verlangen: to demand, to ask for
 verlängern /fɛɐˈlɛŋɐn/: to renew, to extend, to lengthen, to prolong
   Ich muss meinen Pass verlängern lassen.
   I need to renew my passport.
+
+Verlängerung /fɛɐˈlɛŋərʊŋ/, die, -en: renewal, extension, overtime
+  eine Verlängerung der Anmeldefrist: an extension of the deadline for registrations
+  in der Verlängerung ein Tor schießen: to score a goal in overtime
 
 verlängert: elongated
 
@@ -289,6 +310,10 @@ versammeln /fɛɐˈzaməln/: to gather, to assemble
 
 versammelt => versammeln
 
+Versand /fɛɐˈzant/, der: dispatch
+  Der Versand erfolgt umgehend nach Zahlungseingang.
+  Your goods will be dispatched immediately upon receipt of payment.
+
 verschaffen /fɛɐˈʃafən/: to get, to obtain
   Ich kann dir günstige Konzertkarten verschaffen.
   I can get (hold of) cheap concert tickets for you.
@@ -326,6 +351,10 @@ verschwinden /fɛɐˈʃvɪndən/: to disappear, to vanish
   The child had vanished without a trace.
   mal verschwinden müssen: to have to go to the bathroom
 
+versenden /fɛɐˈzɛndən/: to send, to dispatch
+  Ihre Ware wurde heute versandt.
+  Your goods were dispatched today.
+
 versetzen /fɛɐˈzɛʦən/: to transfer, to promote, to move, 
 
 versiegeln /fɛɐˈziːɡəln/: to seal
@@ -343,6 +372,14 @@ Versprechen, das: promise
 
 versprechen /fɛɐˈʃprɛçən/: to promise, to make a mistake
   sich etw. von etw. versprechen: to hope for sth from sth
+
+Verständnis /fɛɐˈʃtɛntnɪs/, das, -se: understanding, sympathy, comprehension, appreciation
+  Für so ein Verhalten habe ich keinerlei Verständnis.
+  I have absolutely no time for behavior like that.
+  Komplizierte Sätze erschweren das Verständnis des Buches.
+  Complicated sentences make the book more difficult to understand.
+  Ich habe ein anderes Verständnis von moderner Musik als du.
+  My appreciation of modern music is different to yours.
 
 verstecken /fɛɐˈʃtɛkən/: to hide
   Ostereier im Garten verstecken
@@ -369,6 +406,8 @@ Versuch /fɛɐˈzuːx/, der: attempt
 
 Vertrag /fɛɐˈtraːk/, der: contract
   einen Vertrag mit jdm schließen: to sign a contract with sb
+
+Vertragsverlängerung: extension/renewal of a contract/treaty
 
 Vertrauen /fɛɐˈtrauən/, das: trust, confidence
   Ich habe großes Vertrauen in Ihre Kompetenz.
@@ -455,6 +494,8 @@ verzögern /fɛɐˈʦøːɡɐn/: to delay
   The storm delayed our departure by two hours.
 
 Verzögerung: deferral, delay, lag, retardation
+
+vgl. vergleiche: cf.
 
 vielmals /ˈfiːlmaːls/: very much
   Ich bitte vielmals um Verzeihung!
@@ -583,6 +624,10 @@ vornehm /ˈfoːɐneːm/: exclusive, expensive, distinguished, noble
   Er stammt aus vornehmem Geschlecht.
   He's from a noble family.
 
+vornehmen /ˈfoːɐneːmən/: to make, to carry out
+  Änderungen / Korrekturen vornehmen
+  to make changes/corrections
+
 Vorort /ˈfoːɐ|ɔrt/, der, Vororte: suburb
   Er wohnt in einem Pariser Vorort.
   He lives in a suburb of Paris.
@@ -627,6 +672,12 @@ Vorstellung /ˈfoːɐʃtɛlʊŋ/, die: idea, picture
 Vorteil /ˈfɔrtail/, der, -e: advantage
   Das bringt auch Vorteile mit sich.
   It also has its advantages.
+
+Vortrag /ˈfoːɐtraːk/, der, ..e: talk, performance
+  Ich muss in Biologie einen Vortrag über Schmetterlinge halten.
+  I have to give a talk about butterflies in biology.
+  Die Sängerin begeisterte durch ihren mitreißenden Vortrag.
+  The singer delighted her audience with her rousing performance.
 
 vorwärts: forward(s)
 
