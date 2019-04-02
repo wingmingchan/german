@@ -207,6 +207,11 @@ Welle /ˈvɛlə/, die: wave
 Welt /vɛlt/, die: world
   ganzen Welt: all over the world
 
+Wende /ˈvɛndə/, die, -n: change, turning point
+  Bei den Verhandlungen zeichnet sich eine Wende ab.
+  A turning point is approaching in the negotiations.
+  die Wende: the fall of the Berlin Wall / the fall of communism in Eastern Europe
+
 wenden /ˈvɛndən/: to turn, to turn over, to turn around, to toss
   das Steak wenden und auf der zweiten Seite anbraten
   to turn the steak over and brown it on the other side
@@ -270,7 +275,7 @@ wichtig /ˈvɪçtɪç/: important
   Diese Arbeit ist sehr wichtig für mich.
   This job is very important to me.
 
-wie /viː/: how, as, like
+wie /viː/: how, as, like, such as
   Menschen in Deutschland sind nicht wie wir.
   People in Germany are not like us.
   so ... wie ...: as ... as ...
@@ -400,8 +405,10 @@ wovor /voˈfoːɐ/: what … in front of
 
 wundern /ˈvʊndɐn/: to be surprised, to surprise
 
-Wunsch /vʊnʃ/, der, Wünsche /ˈvʏnʃə/: wish
+Wunsch /vʊnʃ/, der, Wünsche /ˈvʏnʃə/: wish, request
   jdm / sich einen großen Wunsch erfüllen: to grant sb/yourself a special wish
+  Ich habe einen Wunsch an dich.
+  I've a request to make of you.
 
 wünschen /ˈvʏnʃən/: to wish, to want
   Was wünschst du dir von uns zum Geburtstag?
