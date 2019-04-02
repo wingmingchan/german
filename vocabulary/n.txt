@@ -98,12 +98,13 @@ Naturerlebnis: nature experience
 
 Naturerlebnispark: wildlife park
 
-Nebel /ˈneːbəl/, der: fog
-  Über dem Tal lag noch Nebel. The valley was still covered in mist.
-
 Nähe /ˈnɛːə/, die: vicinity
   Gibt es hier in der Nähe einen Supermarkt?
   Is there a supermarket nearby?
+
+Nebel /ˈneːbəl/, der, -: fog, mist
+  Über dem Tal lag noch Nebel.
+  The valley was still covered in mist.
 
 nebst /neːpst/: together with, including
   die gesamte Familie nebst Kindern
