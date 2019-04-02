@@ -23,6 +23,12 @@ dürfen
   Preterite: ich durfte, du durftest, er durfte, ihr durftet
   Present Perfect: ich habe gedurft
 
+einladen
+  Present: ich lade ein, du lädest ein, er lädet ein, ihr ladet ein
+  Preterite: ich lud ein, du lud(e)st ein, er lud ein, ihr ludet ein
+  Present Perfect: ich habe eingeladen
+  Imperative: lad(e) ein, ladet ein, laden ein
+
 essen
   Present: ich esse, du isst, er isst, ihr esst
   Preterite: ich aß, du aßst, er aß, ihr aßt
