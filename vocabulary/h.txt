@@ -36,7 +36,7 @@ Haftetikett, das, -e: adhesive label
 
 Hagel /ˈhaːɡəl/, der: hail
 
-Hahn /haːn/, Hähne /ˈhɛːnə/, der: rooster
+Hahn /haːn/, der, ..e: rooster
   wenn der Hahn kräht: when the rooster crows
 
 Hähnchen /ˈhɛːnçən/, das, Hähnchen: chicken
@@ -151,6 +151,11 @@ Hausaufgabe /ˈhaus|aufɡaːbə/, die, -n: homework
 hausen /ˈhauzən/: pejorative: to live
   Die Familie hauste in einer verrosteten Blechhütte.
   The family lived in a rusty tin shack.
+
+Haushalt /ˈhaushalt/, der, -e: budget, housekeeping, household, home
+  über den Haushalt beraten: to deliberate on the budget
+  den Haushalt erledigen: to do the housekeeping
+  einen Haushalt auflösen: to dissolve a household
 
 Hausmeister: super(intendant), janitor
 
@@ -294,6 +299,8 @@ herstellen /ˈheːɐʃtɛlən/: to produce
   Diese Firma stellt Elektrogeräte her.
   This company produces electrical appliances.
 
+Hersteller /ˈheːɐʃtɛlɐ/: manufacturer, maker, producer
+
 herum /hɛˈrʊm/: (a)round
 
 herunter /hɛˈrʊntɐ/: down(wards)
@@ -319,6 +326,8 @@ hielt => halten
 hierher: here
   Sie sind schon auf dem Weg hierher.
   They're already on the way here.
+
+hierzu /ˈhiːɐˈʦuː, hiːɐˈʦuː/: for this, with this, in addition to this, about this
 
 hießt => heißen
 
@@ -399,6 +408,20 @@ Hochwasser /ˈhoːxvasɐ/, das: flood(ing)
 
 hoffen /ˈhɔfən/: to hope
 
+hoffentlich /ˈhɔfəntlɪç/: hopefully
+  Hoffentlich ist ihnen nichts passiert.
+  I hope nothing has happened to them.
+
+Hoffnung /ˈhɔfnʊŋ/, die, -en: hope
+  Du darfst die Hoffnung nicht aufgeben!
+  You mustn't give up hope.
+
+hoffnungslos /ˈhɔfnʊŋsloːs/: hopeless, desperate
+  Die Lage ist hoffnungslos.
+  The situation’s hopeless.
+  Mein Leben ist so trist, ich fühle mich so hoffnungslos.
+  My life's so empty – I feel so desperate.
+
 höflich /ˈhøːflɪç/: polite, politely
   jdn höflich grüßen/um etw. bitten
   to greet sb politely/ask sb politely for sth
@@ -447,6 +470,8 @@ hüllen /ˈhʏlən/: to wrap
 
 Huhn /huːn/, das, Hühner: chicken, hen
   Hühner halten: to keep chickens
+
+Hummer /ˈhʊmɐ/, der, -: lobster
 
 Hund /hʊnt/, der; Rüde, der; Hündin, die
 
