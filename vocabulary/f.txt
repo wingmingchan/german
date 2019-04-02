@@ -245,6 +245,13 @@ Feuerwehrwache, die: fire-station
 
 Fibel /ˈfiːbl/, die, Fibeln: primer
 
+Fieber /ˈfiːbɐ/, das, -: temperature, fever, bug
+  Das Kind hatte 38,5 Grad Fieber.
+  The child had a temperature of 38.5°C.
+  an einem Fieber sterben: to die of a fever
+  Ich bin schon im Reisefieber.
+  I'm all excited about the trip already.
+
 fiel => fallen
 
 fielen => fallen: to be fired
@@ -277,6 +284,7 @@ flehen /ˈfleːən/: to beg
   The hostages begged for mercy.
 
 fleißig /ˈflaisɪç/: hardworking, diligent
+  ein fleißiger Schüler: a diligent student
 
 fliehen /ˈfliːən/: to flee
   Tausende flohen vor dem Hochwasser aus der Stadt.
@@ -358,6 +366,12 @@ Folge /ˈfɔlɡə/, die: consequence, result, episode
 folgen /ˈfɔlɡən/: to follow
   Er folgte dem Verdächtigen unauffällig.
   He followed the suspect inconspicuously.
+
+folgende /ˈfɔlɡəndə/: following, next
+  Am folgenden Tag war er krank.
+  He was ill the following day.
+  Folgende Teilnehmer haben sich fürs Finale qualifiziert: …
+  The following competitors have qualified for the finals: …
 
 fordern /ˈfɔrdɐn/: to demand, to press for, to claim lives
   fordere, forderst, fordert, habe gefordert
