@@ -115,6 +115,9 @@ eineinhalb /ˈain|ainˈhalp/: one and a half
   She ate one and a half slices of bread.
 
 einfach /ˈainfax/: easy, simple, easily, simply
+  Die Aufgabe war nicht ganz einfach.
+  The problem wasn't exactly easy.
+  eine einfache Mahlzeit zubereiten: to prepare a simple meal
 
 einfache Fahrkarte: one-way ticket
 
@@ -204,6 +207,10 @@ einliefern /ˈainliːfɐn/: to take
   Er wurde nach dem Unfall in die Notaufnahme eingeliefert.
   After the accident he was taken to ER.
 
+einloggen /ˈainlɔɡən/: to log in/on
+  sich mit Benutzername und Passwort einloggen
+  to log in with your user name and password
+
 einlud => einladen
 
 einpacken /ˈainpakən/: to wrap (up), to pack
@@ -246,6 +253,14 @@ einstellen /ˈainʃtɛlən/: to take on, to hire, to stop, to adjust
   <=> entlassen
   jdn als Hausmeister einstellen
   to take sb on as the superintendent
+
+Einstellung /ˈainʃtɛlʊŋ/, die, -en: attitude, setting, stopping
+  Wie ist Ihre Einstellung zum Thema Klimaschutz?
+  What's your attitude toward climate protection?
+  die Einstellungen eines Gerätes ändern / überprüfen
+  to change/check the settings on a device
+  die Einstellung des Verfahrens wegen Geringfügigkeit
+  the dismissal of a case due to the pettiness of the crime
 
 einstige /ˈainstɪɡə/: former, erstwhile, one-time
   Der einstige Opernstar ist heute Gesangslehrerin.
@@ -433,6 +448,10 @@ entschuldigen /ɛntˈʃʊldɪɡən/: to excuse, to pardon
   Hast du dich bei deiner Lehrerin entschuldigt?
   Did you apologize to your teacher?
 
+Entschuldigung /ɛntˈʃʊldɪɡʊŋ/, die, -en: apology, excuse
+  Sie murmelte eine Entschuldigung.
+  She mumbled an apology.
+
 entstehen /ɛntˈʃteːən/: to originate, to arise, to come into being, to be created
   Wie entstehen Blitz und Donner?
   How does thunder and lightning form?
@@ -457,6 +476,8 @@ er-: some result is achieved, the beginning of a process
 erachten /ɛɐˈ|axtən/
 
 Erbe /ˈɛrbə/, das: inheritance, heritage
+
+
 
 Erdbeere /ˈeːɐtbeːrə/, die: strawberry
   Erdbeeren pflanzen: to plant strawberries
@@ -526,6 +547,10 @@ ergreifen /ɛɐˈɡrɪfn/: to seize, to overcome
 erhalten /ɛɐˈhaltən/: to receive, to get
   Haben Sie meinen Brief erhalten?
   Did you get my letter?
+
+erhältlich /ɛɐˈhɛltlɪç/: available
+  Dieses Buch ist nur im Fachhandel erhältlich.
+  This book is only available in specialist bookstores.
 
 erheblich /ɛɐˈheːplɪç/: considerable
 
