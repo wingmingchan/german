@@ -152,11 +152,18 @@ zu: closed
   Tür/Fenster zu!
   Close the door/window!
 
+zubereiten /ˈʦuːbəraitən/: to prepare, to cook
+  Weißt du, wie man Hummer zubereitet?
+  Do you know how to cook a lobster?
+
 Zucker /ˈʦʊkɐ/, der, Zucker: sugar
 
 zudem /ʦuˈdeːm/: moreover , besides
   Sie ist hübsch und zudem intelligent.
   Besides being pretty she is also intelligent.
+
+zuerst /ʦuˈ|eːɐst/: at first
+  => zunächst
 
 Zufahrt /ˈʦuːfaːɐt/, die: entrance, driveway, entry
   Zufahrt verboten!
@@ -178,23 +185,22 @@ zumachen: to close, to shut
     Wann macht die Post samstags zu?
     When does the post office close on Saturdays?
 
+zunächst /ʦuˈnɛːçst/: at first, for the time being, first
+  => zuerst
+  Darüber wollte sie zunächst gar nicht nachdenken.
+  She didn't even want to think about it at first.
+  Wir können das zunächst einmal so lassen.
+  We can leave it like that for the time being.
+  Lass uns zunächst etwas anders versuchen.
+  Let's try something else first.
+
 zunehmend /ˈʦuːneːmənt/: increasingly
 
 zurechnen /ˈʦuːrɛçnən/: to class sb/sth as sb/sth
   Diesen Maler kann man den Expressionisten zugerechnen.
   This painter can be classed as an expressionist.
 
-zusätzlich /ˈʦuːzɛʦlɪç/: additional
-
-zuschauen /ˈʦuːʃauən/: to watch
-  Gebannt schauten die Kinder dem Zauberer zu.
-  The children watched the magician in fascination.
-
-zuerst /ʦuˈ|eːɐst/: at first
-  => zunächst
-
-zunächst /ʦuˈnɛːçst/: at first
-  => zuerst
+zurzeit /ʦuːɐˈʦait/: at the moment
 
 Zürich /ˈʦyːrɪç/
 
@@ -236,6 +242,12 @@ zusammenfassend /ʦuˈzamənfasənt/: summarizing
 Zusammenbruch /ʦuˈzamənbrʊx/, der: breakdown, collapse
 
 Zusatzleistung, die: additional capacity, additional service
+
+zusätzlich /ˈʦuːzɛʦlɪç/: additional
+
+zuschauen /ˈʦuːʃauən/: to watch
+  Gebannt schauten die Kinder dem Zauberer zu.
+  The children watched the magician in fascination.
 
 Zuschauer: spectator
 
