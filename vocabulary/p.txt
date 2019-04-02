@@ -16,6 +16,15 @@ Paar /paːɐ/, das: pair, couple
 
 paar /paːɐ/: few, couple of
 
+packen /ˈpakən/: to pack, to grab, to get through, to manage, to grip
+  Hast du schon (deine Sachen) gepackt?
+  Have you packed (your things) yet?
+  Er packte sie von hinten und hielt sie fest.
+  He grabbed her from behind and held on to her.
+  Keine Angst, du packst das schon!
+  Don't be afraid, you can do it!
+  vom Jagdfieber gepackt: gripped by the thrill of the hunt
+
 Pädagoge /pɛdaˈɡoːɡə/: good teacher
 
 Paket /paˈkeːt/, das, -e: parcel, package
@@ -154,10 +163,13 @@ Portier /pɔrˈtjeː/, der: doorman
 
 positionieren: to position
 
-Post /pɔst/, die, -: post office
+Post /pɔst/, die, -: post office, mail
   auf der Post
   Wo ist hier die nächste Post?
   Where's the nearest post office around here?
+  Ist Post für mich da?
+  Is there any mail for me?
+  per Post: by mail
 
 Postkutsche, die: stagecoach
 
@@ -211,6 +223,14 @@ prüfen /ˈpryːfən/: to check, to examine, to test, to consider
 
 Prüfung /ˈpryːfʊŋ/, die, -en: exam
   eine mündliche / schriftliche Prüfung: an oral/written exam
+
+Publikum /ˈpuːblikʊm/, das: audience, crowd, public, readership, customers, clientele
+  Das Publikum applaudierte.
+  The audience applauded.
+  ein breites / internationales Publikum erreichen
+  to reach a wide / an international readership
+  Hier verkehrt ein gehobenes / gemischtes Publikum.
+  This place has an upmarket/a mixed clientele.
 
 Punkt /pʊŋkt/, der: point
 
