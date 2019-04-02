@@ -35,7 +35,7 @@ Badezimmer /ˈbaːdəʦɪmɐ/, das: bathroom
 
 baff /baf/: flabbergasted
 
-Bahn /baːn/, die, Bahnen: train, track, path
+Bahn /baːn/, die, -en: train, track, path
   mit der Bahn nach Berlin fahren: to take the train to Berlin
   Auf Bahn drei startet Johnson für die USA.
   In lane three it's Johnson, running for the USA.
@@ -264,6 +264,12 @@ beglücken /bə’ɡlʏkən/: to please, to make happy
 
 Begriff /bəˈɡrɪf/, der: idea, notion
 
+Begründung /bəˈɡrʏndʊŋ/, die, -en: explanation
+  Der Vertrag kann jederzeit ohne Begründung gekündigt werden.
+  The contract can be terminated at any time without giving reasons for the termination.
+  Eine längere Krankheit stellt keine ausreichende Begründung für eine Kündigung dar.
+  A lengthy illness is not adequate grounds for termination.
+
 behalten /bəˈhaltən/: to keep, to remember
   Mama, kann ich den Hund behalten?
   Mom, can I keep the dog?
@@ -410,7 +416,7 @@ Berechnung /bəˈrɛçnʊŋ/, die, -en: calculation, charging
   Der Flug wurde ohne Berechnung von Gebühren umgebucht.
   The flight was changed at no additional charge.
 
-Bereich /bəˈraiç/, der: area, domain, range
+Bereich /bəˈraiç/, der: area, domain, range, section
   ein verkehrsberuhigter Bereich: a traffic-calmed neighborhood
 
 bereiten /bəˈraitən/: to cause, to give
@@ -642,7 +648,9 @@ Bewegung /bəˈveːɡʊŋ/, die: movement
   in Bewegung: in motion
   Bewegung in etw. bringen: to get sth going/moving
 
-Beweis /bəˈvais/, der: proof, evidence
+Beweis /bəˈvais/, der, -e: proof, evidence
+  einen Beweis für etw. erbringen: to produce proof of sth
+  aus Mangel an Beweisen freigesprochen werden: to be acquitted due to lack of evidence
 
 bewerfen /bəˈvɔrfən/: to pelt, to bombard
   jdn/etw mit etw bewerfen: to throw sth at sb/sth
@@ -834,6 +842,9 @@ böse /ˈbøːzə/: wicked, evil, nasty, naughty, angry
   Er hat es nicht böse gemeint.
   He didn't mean any harm.
   Pfui, böser Hund! Stop it! Bad dog! 
+
+Boss /bɔs/, der, -e: boss
+  Firmenbosse: company bosses
 
 bot..an => anbieten
 
