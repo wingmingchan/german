@@ -60,11 +60,15 @@ Tapferkeit /ˈtapfɐkait/, die: bravery
   Für seine Tapferkeit wurde er mit einem Orden ausgezeichnet.
   He was awarded a medal for his bravery.
 
+Tarif /taˈriːf/, der, -e: tariff, rate, agreed rate
+  die neuen Tarife der Bahn: the new train ticket prices
+  über / unter Tarif bezahlt werden: to be paid over/under the agreed rate
+
 Tasche /ˈtaʃə/, die: pocket, bag
 
 Taschenrechner /ˈtaʃənrɛçnɐ/, der, -: calculator
 
-Taste /ˈtastə/, die, Tasten: key, button
+Taste /ˈtastə/, die, -n: key, button
   Ein Klavier hat schwarze und weiße Tasten.
   A piano has black and white keys.
 
@@ -79,6 +83,10 @@ Täter /ˈtɛːtɐ/, Täterin: culprit
   The police have arrested the suspect.
 
 tätig /ˈtɛːtɪç/: active, employed, practical
+
+tatkräftig /ˈtaːtkrɛftɪç/: energetic, active
+  Zum Glück fanden sich viele tatkräftige Helfer.
+  Luckily lots of energetic helpers turned up.
 
 Tatort /ˈtaːt|ɔrt/, der: crime scene
 
@@ -320,6 +328,11 @@ trinken: to drink
   trinke, trinkst, trinkt, habe getrunken
   Zum Trinken?
 
+trist /trɪst/: dreary
+  => trostlos
+  Wir trafen uns an einem tristen, grauen Novembertag.
+  We met on a dreary, gray November day.
+
 Trockenheit, die: dryness
   Die Pflanze reagiert sehr empfindlich auf Trockenheit und hohe Temperaturen.
   The plant is very sensitive to dryness and high temperatures.
@@ -338,6 +351,11 @@ Tropfen /ˈtrɔpfən/, der: drop
   Regentropfen liefen am Fenster herab.
   Raindrops were running down the window.
 
+trostlos /ˈtroːstloːs/: dreary, depressing
+  => trist
+  Im Nebel sieht die Stadt trostlos aus.
+  The city looks dreary in the fog.
+  
 trotzdem /ˈtrɔʦdeːm/: nevertheless
   Sie wusste, dass es verboten war, aber sie tat es trotzdem.
   She knew it wasn't allowed, but she did it all the same.
