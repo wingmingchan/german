@@ -57,6 +57,12 @@ Abflug /ˈapfluːk/, Abflüge, der: departure
   Der Abflug verzögert sich um 30 Minuten.
   The departure will be delayed by 30 minutes.
 
+abfragen /ˈapfraːɡən/: to ask, to quiz, to query
+  Frag mich doch mal die Vokabeln ab.
+  Ask me my vocabulary again, would you?
+  am Geldautomaten zuerst den Kontostand abfragen
+  to first check how much money you have in your account at the ATM
+
 Abgabe /ˈapɡaːbə/, die: tax, duty, submission, sale, distribution
   hohe Abgaben zahlen müssen: to have to pay high taxes
   
@@ -164,6 +170,9 @@ abschneiden /ˈapʃnaidən/: to cut off
   sich eine Scheibe Brot abschneiden
   to cut yourself a slice of bread
   => schneiden: to cut
+
+Abschnitt /ˈapʃnɪt/, der, -e: section, paragraph
+  einen Abschnitt lesen: to read a section
 
 abschöpfen /ˈapʃɶpfən/: to skim off, to make
   das Fett von der Hühnerbrühe abschöpfen: to skim the fat off the chicken broth
@@ -297,6 +306,10 @@ Aktie /ˈakʦjə/, die: share, stock
 
 Aktien => Aktie
 
+aktivieren /aktiˈviːrən/: to activate
+  Viele Parteimitglieder wurden aktiviert, bei dem Fest mitzuhelfen.
+  Many party members were mobilized to help at the festivities.
+
 aktuell /aktuˈɛl/: topical, up-to-date, relevant
   Aktuelles aus aller Welt: news from around the world
   Ist das Thema Hauskauf bei euch noch aktuell?
@@ -321,6 +334,7 @@ all: all
   all meine Zeit: all my time
 
 alle /ˈalə/: all
+  alle 24 Monate: every 24 months
 
 allerdings /ˈalɐˈdɪŋs/: however, indeed, certainly
   Die Suppe ist gut, allerdings ein bisschen scharf.
@@ -332,6 +346,9 @@ allerlei /ˈalɐˈlai/: all kinds of
   sich allerlei zu erzählen haben: to have lots to tell each other
 
 alles: everything
+
+allgemein /ˈalɡəˈmain/: general, universal, generally, broadly
+  auf allgemeinen Wunsch: by general request
 
 allmählich /alˈmɛːlɪç/: gradual, gradually
 ​ eine allmähliche Stabilisierung des Arbeitsmarktes
@@ -432,6 +449,10 @@ andere /ˈandərə/: other, else
 anderenfalls /ˈandərənfals/: otherwise
   Sie muss einen Kredit aufnehmen, anderenfalls muss sie ihr Geschäft schließen.
   She has to take out a loan – otherwise she'll have to close her business.
+
+ändern /ˈɛndɐn/: to change
+  Kann ich meine Bestellung noch ändern?
+  Is it still possible for me to change my order?
 
 andersrum => andersherum
 
@@ -536,6 +557,9 @@ Ankunft /ˈankʊnft/, die, ..e: arrival
 anlegen /ˈanleːɡən/: to lay out, to set up, to invest
   ein neues Gemüsebeet anlegen: to lay out a new bed
   ein Sparbuch anlegen: to open a savings account
+
+Anleitung /ˈanlaitʊŋ/, die, -en: guidance, instruction
+  unter Anleitung des Lehrers: under the guidance of a teacher
 
 Anmeldung /ˈanmɛldʊŋ/, die: enrollment, registration, application, registration form
 
@@ -661,6 +685,14 @@ Apfel /ˈapfəl/, der, Äpfel /ˈɛpfəl/: apple
   Apfelsaft
   Apfelkuchen: apple pie
   Apfelschorle, die: apple juice and mineral water
+
+Apparat /apaˈraːt/, der, -e: device, gadget, phone, camera, TV
+  Ein Computer ist ein komplizierter Apparat.
+  A computer is a complicated device.
+  „Könnte ich bitte Albert Meier sprechen?‟ – „Am Apparat!‟
+  "Could I speak to Albert Meier?" – "Speaking."
+  direkt in den Apparat sehen: to look straight at the camera
+  sich einen größeren Apparat kaufen: to buy a bigger TV
 
 Appartement /apartəˈmã/, das, -s
   Sie wohnt in einem schicken Appartement in der Innenstadt.
@@ -806,6 +838,11 @@ aufheben /ˈaufheːbən/: to pick up, to keep, to overturn, to cancel
   The ban on flying can be lifted.
 
 aufhören /ˈaufhøːrən/: to stop
+
+aufgrund /aufˈɡrʊnt/: because of
+  => wegen
+  jdn aufgrund mangelnder Beweise freisprechen
+  to acquit sb due to lack of evidence
 
 aufkreuzen /ˈaufkrɔyʦən/: to show up
   Er ist plötzlich wieder bei seinen Eltern aufgekreuzt.
@@ -1040,6 +1077,9 @@ ausschalten /ˈausʃaltən/: to switch off
 Ausschreitung /ˈausʃraitʊŋ/, die: riot
 
 ausschenken: to sell (alcoholic drinks), to pour out, to serve
+
+ausschließlich /ˈausʃliːslɪç/: exclusively
+  ein fast ausschließlich türkisches Publikum: an almost exclusively Turkish audience
 
 Ausschuss /ˈausʃʊs/, der: committee, wastage
   Wir haben heute nur Ausschuss produziert.
