@@ -79,7 +79,11 @@ U /uː/ U wie Ulrich, Ü wie Übermut
 
 Übersetzung /yːbɐˈzɛʦʊŋ/, die: translation
 
-Übersicht /ˈyːbɐzɪçt/, die: overview
+Übersicht /ˈyːbɐzɪçt/, die, -en: overview
+  Ich habe völlig die Übersicht über die Situation verloren!
+  I've completely lost track of what's going on!
+  Das Buch gibt eine gute Übersicht über das Thema.
+  The book presents a good overview of the subject.
 
 übertragen /yːbɐˈtraːɡən/: to broadcast, to transmit, to be communicated, to give
   Das Fußballspiel wird live übertragen.
@@ -175,6 +179,10 @@ Umschlag /ˈʊmʃlaːk/, der: envelope, cover, jacket
 umschlingen /ʊmˈʃlɪŋən/: to embrace
   eng umschlungen auf der Bank sitzen/miteinander tanzen
   to sit on the bench/dance together in a tight embrace
+
+Umsetzung /ˈʊmzɛʦʊŋ/, die, -en: implementation
+  Die Umsetzung des Gesetzes brachte Probleme mit sich.
+  The implementation of the the law led to problems.
 
 Umstand /ˈʊmʃtant/, der: circumstance
   unter Umständen: perhaps
@@ -318,6 +326,14 @@ unterschreiben: to sign
   Der Brief war nicht unterschrieben.
   The letter was unsigned.
 
+unterstützen /ʊntɐˈʃtʏʦən/: to support, to promote, to boost
+  Meine Kinder unterstützen mich tatkräftig im Haushalt.
+  My kids give me a lot of help around the house.
+  Guter Schlaf unterstützt die Lernfähigkeit.
+  Proper sleep boosts your ability to learn.
+  Unterstützt dein Computer WLAN?
+  Does your computer support wireless?
+
 untersuchen /ʊntɐˈzuːxən/: to examine
   Mir gehts nicht gut. Ich glaube, ich sollte mich mal untersuchen lassen.
   I don't feel well. I think I should get someone to take a look at me.
@@ -335,6 +351,9 @@ unterwegs /ʊntɐˈveːks/: on the way
 unterzeichnen /ʊntɐˈʦaiçnən/: to sign
 
 unvergesslich /ʊnfɛɐˈɡɛslɪç/: unforgettable
+
+unverzüglich /ʊnfɛɐˈʦyːklɪç/: immediate
+  die unverzügliche Umsetzung des Projekts: the immediate implementation of the project
 
 Unwetter /ˈʊnvɛtɐ/, das: storm
   Ein Unwetter brach los. A storm broke.
