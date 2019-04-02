@@ -2,14 +2,14 @@
 A /aː/ A wie Anton, Ä wie Ärger
 ========================================================
 
-Aal /aːl/, der, Aale: eel
+Aal /aːl/, der, -e: eel
   Räucheraal: smoked eel 
 
 aalen /ˈaːlən/: to laze, to bask
   Wir haben uns stundenlang in der Sonne geaalt.
   We basked in the sun for hours.
 
-Aas /aːs/, das: carrion, jackass
+Aas /aːs/, das, (uncountable): carrion, jackass
   Geier ernähren sich von Aas.
   Vultures live on carrion.
   So ein mieses Aas!
@@ -326,7 +326,7 @@ Alibi /ˈaːlibi/, das, Alibis: alibi
   ein Alibi für die Tatzeit haben
   to have an alibi for the time of the crime 
 
-All /al/, das: space, outer space, universe
+All /al/, das, (uncountable): space, outer space, universe
   Spaziergang im All: space walk
   das weite/unerforschte All: the immense/unknown universe
 
