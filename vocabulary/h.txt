@@ -2,9 +2,13 @@
 H /haː/ H wie Heinrich
 ========================================================
 
-Haar /haːɐ/, das, Haare: hair
+Haar /haːɐ/, das, -e: hair
   Sie hat blondes/langes Haar.
   She has blonde/long hair.
+  jdm stehen die Haare zu Berge: sb's hair stands on end
+  ein Haar in der Suppe finden: to find fault with sth
+  Haare auf den Zähnen haben: to be a tough customer
+  sich (mit jdm) in die Haare geraten: to have a run-in (with sb)
 
 haben /ˈhaːbən/: to have
   habe, hast, hat, ihr habt, habe gehabt
@@ -83,7 +87,7 @@ Halter /ˈhaltɐ/, der: holder, mount
 
 Halterung /ˈhaltərʊŋ/, die: bracket, mounting
 
-Haltestelle, die: stop
+Haltestelle /ˈhaltəʃtɛlə/, die, -en: stop
    An der nächsten Haltestelle müssen wir aussteigen.
    We have to get off at the next stop. 
 
@@ -387,6 +391,10 @@ hinüber /hɪˈnyːbɐ/: over, across
   ein Blick hinüber zum Nachbarn: a glance over to your neighbor 
 
 Hirn /hɪrn/, das: brain, mind
+
+hissen /ˈhɪsən/: to hoist
+  Sie hissten die Segel und stachen in See.
+  They hoisted the sails and set out to sea.
 
 Hitze /ˈhɪʦə/, die: heat
 
