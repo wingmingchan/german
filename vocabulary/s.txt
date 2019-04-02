@@ -355,6 +355,8 @@ schrie => schreien
 
 Schriftsteller /ˈʃrɪftʃtɛlɐ/: writer
 
+Schriftzeichen, das: character
+
 Schrott /ʃrɔt/, der: scrap, garbage
   Schrotthändler: scrap (metal) dealer
   Im Fernsehen kommt wieder nur Schrott!
@@ -749,7 +751,7 @@ Spott /ʃpɔt/, der: mockery
   Sie litt sehr unter dem Spott ihrer Mitschüler.
   She was mercilessly teased by the other kids at her school.
 
-Sprache /ˈʃpraːxə/, die: language
+Sprache /ˈʃpraːxə/, die, -n: language
   Latein ist eine tote Sprache.
   Latin is a dead language. 
 
