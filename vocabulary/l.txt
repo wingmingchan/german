@@ -132,6 +132,13 @@ laufen /ˈlaufən/: to run, to walk, to be on
 
 Läufer /ˈlɔyfɐ/: runner
 
+Laufzeit /ˈlaufʦait/, die, -en: period, term, time, (operational) life
+  ein Darlehen mit 10 Jahren Laufzeit: a ten-year loan
+  die Laufzeit des Films im Kino: the running time of the movie at the movie theater
+  die durchschnittliche Laufzeit einer Paketsendung: the average delivery time for a package
+  Der Fernseher ist für eine Laufzeit von 30.000 Stunden ausgelegt.
+  The television is designed to have an operational life of 30,000 hours.
+
 läuft => laufen
   Nun läuft die Hochzeit des Jahres
 
