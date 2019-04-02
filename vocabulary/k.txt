@@ -2,48 +2,48 @@
 K /kaː/ K wie Kaufmann
 ========================================================
 
-Kabel /ˈkaːbəl/, das, Kabel: cable
+Kabel /ˈkaːbəl/, das, -: cable
   Kabel verlegen: to lay cables
    die Kabel einer Seilbahn: the cables of a cable car
 
-Käfig /ˈkɛːfɪç/, der: cage
+Käfig /ˈkɛːfɪç/, der, -e: cage
   Hühner im Käfig halten: to keep chicken in a cage
 
-Kahn /kaːn/, der, Kähne: boat, barge
+Kahn /kaːn/, der, ..e: boat, barge
   eine Kahnfahrt machen: to go rowing 
 
-Kakao /kaˈkau/, der: cocoa
+Kakao /kaˈkau/, der, (uncountable): cocoa
 
-Kalb, das: calf
+Kalb /kalp/, das, ..er: calf
 
-Kalk /kalk/, der: lime
+Kalk /kalk/, der, (uncountable): lime
   Das Wasser hier enthält viel Kalk.
   The water here is very hard.
 
 kalt /kalt/, kälter, kälteste: cold
 
-Kälte /ˈkɛltə/, die: cold
+Kälte /ˈkɛltə/, die, (uncountable): cold
   klirrende/eisige Kälte bitter/icy cold 
 
-Kalzium /ˈkalʦjʊm/, das
+Kalzium /ˈkalʦjʊm/, das, (uncountable)
 
 kam /kaːm/ => kommen
 
-Kamel /kaˈmeːl/, das, Kamele: camel
+Kamel /kaˈmeːl/, das, -e: camel
   Sie ritten auf Kamelen durch die Wüste.
   They rode across the desert on camels.
 
-Kamm /kam/, der, Kämme /ˈkɛmə/: comb, crest
+Kamm /kam/, der, ..e /ˈkɛmə/: comb, crest
   mit dem Kamm einen Scheitel ziehen
   to part your hair with a comb
   der Kamm einer Gebirgskette: the crest of a mountain range 
 
-Kampf /kampf/, der: battle, fight, struggle
+Kampf /kampf/, der, ..e: battle, fight, struggle
 
 kämpfen /ˈkɛmpfən/: to fight
   Wie eine Münchner Lokalzeitung gegen die Nazis kämpfte
 
-Kapazität /kapaʦiˈtɛːt/, die: capacity, expert
+Kapazität /kapaʦiˈtɛːt/, die, -en: capacity, expert
   die Speicherkapazität der Festplatte: the storage capacity of the hard drive
 
 kapitulieren /kapituˈliːrən/: to surrender, to give up, to capitulate
@@ -106,6 +106,10 @@ kennzeichnen /ˈkɛnʦaiçnən/: to mark, to brand, to characterize
   Those years were characterized by social upheaval.
 
 Kerl /kɛrl/, der: guy, chap, fellow
+  Armer Kerl! Poor guy.
+  ein ganzer Kerl: a real man
+  Sie ist ein feiner / prima Kerl.
+  She's a nice girl.
   das Kerlchen
 
 Kerlchen, das: fellow
@@ -341,7 +345,6 @@ kräftig /ˈkrɛftiç/: powerful, strong, healthy
 Kragen /ˈkraːɡən/, der, Krägen: collar
   ein Hemd mit zu engem Kragen: a shirt with a tight collar
 
-
 krähen /ˈkrɛːən/: to crow
   wenn der Hahn kräht: when the rooster crows
 
@@ -387,6 +390,10 @@ Krug /kruːk/, Krüge: jug, pitcher
   ein Tonkrug mit Wasser: an earthenware pitcher containing water
 
 krumm /krʊm/: crooked
+
+krümmen /ˈkrʏmən/: to bend, to double up
+  mit gekrümmtem Rücken dasitzen: to sit there slouching
+  sich vor Lachen / Schmerzen krümmen: to double up with laughter/pain
 
 Küche /ˈkʏçə/, die: kitchen
 
