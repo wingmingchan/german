@@ -162,6 +162,14 @@ Abschied /ˈapʃiːt/, der, Abschiede: parting, leave, farewell
 
 Abschiedskuss, der: parting kiss
 
+abschließen /ˈapʃliːsən/: to lock (up), to conclude, to complete
+  Hast du auch abgeschlossen?
+  Did you remember to lock up?
+  eine Wette mit jdm abschließen: to make a bet with sb
+  ein abgeschlossenes Studium haben: to have a university degree
+  Die Ausbildung schließt mit einer schriftlichen Prüfung ab.
+  The course finishes with a written examination.
+
 Abschluss /ˈapʃlʊs/, der: completion, degree
   etw. zum Abschluss bringen: to bring sth to a close
   einen guten Abschluss machen: to get a good degree
@@ -265,6 +273,8 @@ Achtung /ˈaxtʊŋ/, die: respect, attention
 
 ächzen /ˈɛçʦən/: to groan
   ächzen und stöhnen: to moan and groan
+
+adelig: noble
 
 Adler /ˈaːdlɐ/, der: eagle
 
@@ -588,6 +598,10 @@ anrufen /ˈanruːfən/: to call, to phone
 
 Ansammlung /ˈanzamlʊŋ/, die: collection, crowd, gathering
 
+anschleichen /ˈanʃlaiçən/: to creep up
+  Lautlos schlichen sich die Löwen an.
+  Silently the lions crept towards their prey.
+
 anschießen /ˈanʃiːsən/: to wound
 
 anschließend /ˈanʃliːsənt/: subsequent
@@ -803,6 +817,13 @@ auffällig /ˈauffɛlɪç/: noticeable, conspicuous, unusual, odd, strikingly, c
 Aufforderung /ˈauffɔrdərʊŋ/, die, -en: order, command
   Die Demonstranten kamen der Aufforderung der Polizei, den Platz zu verlassen, nicht nach.
   The demonstrators did not comply with the police's demand to leave the square.
+
+aufführen /ˈauffyːrən/: to perform, to list, to act, to behave
+  Unsere Klasse will ein Musical aufführen.
+  Our class plans to put on a musical.
+  im Stichwortverzeichnis aufgeführt sein: to be listed in the index
+  Führ dich doch nicht so auf!
+  Stop playing up!
 
 aufgeben /ˈaufɡeːbən/: to give up, to stop, to give, to leave, to mail
   das Rauchen aufgeben: to quit smoking
