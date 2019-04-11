@@ -15,8 +15,12 @@ Lack /lak/, der, Lacke: varnish, paint
 
 Lade, die, Laden: drawer, trunk, chest
 
-Laden /ˈlaːdən/, der, Läden /ˈlɛːdən/: store
+Laden /ˈlaːdən/, der, Läden /ˈlɛːdən/: store, shutter
   => Geschäft
+  Der Laden an der Ecke verkauft Gemüse.
+  The store on the corner sells vegetables.
+  gegen die grelle Mittagssonne die Läden schließen
+  to close the shutters against the bright midday sun
 
 laden /ˈlaːdən/: to load, to charge
   Die Akkus müssen wieder geladen werden.
