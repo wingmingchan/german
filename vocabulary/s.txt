@@ -161,6 +161,11 @@ scheinen /ˈʃainən/: to shine, to seem
   Das scheint mir keine gute Idee zu sein.
   That doesn't seem a very good idea to me.
 
+Scheitel /ˈʃaitəl/, der, -: part, apex, vertex
+  einen Mittelscheitel haben: to have a center part
+  vom Scheitel bis zur Sohle: from top to toe
+  der Scheitel einer Brücke / Kurve: the apex of a bridge/curve
+
 scheitern /ˈʃaitɐn/: to fail, to fall through, to collapse, to break down
   bereits zwei gescheiterte Versuche hinter sich haben
   to already have two failed attempts behind you
@@ -388,6 +393,10 @@ Schule /ˈʃuːlə/, die: school
 
 schulen /ˈʃuːlən/: to train
   Mitarbeiter im Umgang mit der neuen Software schulen: to train employees to use the new software
+
+Schurke /ˈʃʊrkə/: villain
+  Spielen Sie im Film lieber den Helden oder den Schurken?
+  Do you prefer playing the hero or the villain in a movie?
 
 Schürze /ˈʃʏrʦə/, die, Schürzen: apron
   Er band sich zum Kochen eine Schürze um.
@@ -641,6 +650,13 @@ sogenannt: so-called
 sogleich /zoˈɡlaiç/: immediately
   Er traf dort einen gleichaltrigen Jungen, mit dem er sich sogleich angefreundet hat.
   There he met a boy of the same age with whom he immediately became friends.
+
+Sohle /ˈzoːlə/, die, -n: sole (of your foot)
+  Sie kitzelte ihn an den Sohlen.
+  She tickled the soles of his feet.
+  Schuhe mit Sohlen aus Leder: shoes with leather soles
+  Auf leisen Sohlen schlich sich die Raubkatze an.
+  The big cat crept up noiselessly.
 
 Sohn m. /zoːn/: son
 
@@ -932,6 +948,9 @@ Stichprobe /ˈʃtɪçproːbə/, die: spot check, random sample
 
 Stichwort /ˈʃtɪçvɔrt/, das: headword, keyword, keypoint, cue
 
+Stichwortverzeichnis, das: index
+  im Stichwortverzeichnis aufgeführt sein: to be listed in the index
+
 stillen /ˈʃtɪlən/: to breastfeed
    Planst du, dein Kind zu stillen?
    Are you planning to breastfeed your baby?
@@ -1035,9 +1054,11 @@ Strom /ʃtroːm/, der: electricity, torrent, stream, current
 
 strömen /ˈʃtrøːmən/: to stream, to flow, to flock, to gush, to pour
 
-Stück /ʃtʏk/, das: piece, bit
+
+Stück /ʃtʏk/, das: piece, bit, play
   ein Stück Kuchen abschneiden
   to cut a piece of cake
+  ein neues Stück aufführen: to perform a new play
 
 Student /ʃtuˈdɛnt/, Studentin: student
   Sie ist Studentin an der Universität Leipzig.
