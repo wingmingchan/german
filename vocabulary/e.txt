@@ -27,6 +27,11 @@ Ecke /ˈɛkə/, die: edge, corner
 Edel-: premier, upmarket, high-class
 
 edel /ˈeːdəl/: noble, fine, premium, pure
+  edle Weine / Hölzer: fine wines/precious woods
+  ein Mann von edler Gesinnung: a man of noble spirit
+  ein Rosenstrauch von edlem Wuchs: an elegantly shaped rosebush
+  ein edles Vollblut: a pure thoroughbred
+  ein edles Fräulein: a young lady of noble birth
 
 Edelleute: nobles, nobility
 
@@ -70,6 +75,8 @@ eigen /ˈaiɡən/: own
 eigenhändig /ˈaiɡənhɛndɪç/: in your own hand, personal
   eine eigenhändige Unterschrift: a signature in your own hand
   eigenhändige Übergabe: personal delivery
+
+Eigenleistung, die: borrower's own funding, personal contribution
 
 eigentlich /ˈaiɡəntlɪç/: actually
   Eigentlich heißt er Johannes, Hansi ist nur sein Spitzname.
@@ -713,6 +720,11 @@ erst /eːɐst/: first, not until, only, not before
 erstatten /ɛɐˈʃtatən/: to reimburse, to refund, to give, to make, to file
   Er bekommt von seinem Arbeitgeber die Fahrtkosten zur Arbeit voll erstattet.
   He gets his travel expenses to the office reimbursed in full by his employer.
+
+erstellen /ɛɐˈʃtɛlən/: to draw up, to create, to construct
+  für eine Kontaktbörse im Internet sein Profil erstellen
+  to create your profile for a networking forum on the internet
+  in Eigenleistung erstellter Wohnraum: self-constructed living quarters
 
 ersticken /ɛɐˈʃtɪkən/: to suffocate
   Das Tier ist in der Kiste qualvoll erstickt.
