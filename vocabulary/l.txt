@@ -26,7 +26,7 @@ laden /ˈlaːdən/: to load, to charge
   Die Akkus müssen wieder geladen werden.
   The batteries need recharging.
 
-Lage, die: situation, location, position
+Lage /ˈlaːɡə/, die, -n: situation, location, position
   in einer unangenehmen Lage sein: to be in an unpleasant situation
   Sie ist krank und nicht in der Lage aufzustehen.
   She's sick and unable to get up.
@@ -194,7 +194,7 @@ Lebensmittel /ˈleːbənsmɪtəl/, das: food
 Lebenszeit: lifetime
 
 Leber /ˈleːbɐ/, die, Lebern: liver
-  eine vergrößerte Leber haben: to have an enlarged liver 
+  eine vergrößerte Leber haben: to have an enlarged liver
 
 Lebewesen /ˈleːbəveːzən/, das: living being
   einzellige Lebewesen: single-cell organisms
@@ -220,6 +220,11 @@ leer /leːɐ/: empty, blank, vacant
   The battery has run out again already.
   ein leer stehendes Gebäude: an empty building
   gähnende Leere: total emptiness
+
+Leere /ˈleːrə/, die, (uncountable): emptiness
+  Am Sonntagmorgen herrscht in der Stadt gähnende Leere.
+  The city is completely deserted on Sunday mornings.
+  eine große innere Leere verspüren: to feel a great inner emptiness
 
 legendär /leɡɛnˈdɛːɐ/: legendary
 
@@ -248,6 +253,8 @@ Leiden /ˈlaidən/, das: cross, suffering, trouble, ailment, complaint
 
 leiden /ˈlaidən/: to suffer
   leide, leidest, leidet, habe gelitten
+
+leidend: ailing, long-suffering
 
 leihen /ˈlaiən/: to lend, to borrow, to loan
 
@@ -300,7 +307,7 @@ liefern /ˈliːfɐn/: to deliver, to supply, to produce, to provide
 
 liegen /ˈliːɡən/: to lie, to be
   liege, liegst, liegt, habe gelegen
-  auf dem Sofa/im Bett liegen: to lie on the sofa / in bed
+  auf dem Sofa / im Bett liegen: to lie on the sofa/in bed
 
 ließ => lassen
 
@@ -365,6 +372,10 @@ Lüge /ˈlyːɡə/, die: lie
 lügen /ˈlyːɡən/: to lie
   Lüg doch nicht so frech!
   Stop telling such bare-faced lies!
+  
+lugen /ˈluːɡən/: to peep, to peek
+  Er lugte aus dem Fenster / in die Kiste.
+  He peeked out of the window/in the chest.
 
 Lulatsch /ˈluːla(ː)tʃ/, der
   langer Lulatsch: beanpole
