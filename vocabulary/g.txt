@@ -6,6 +6,8 @@ Gabe /ˈɡaːbə/, die, Gaben: gift, talent
   Sie besitzt die Gabe, andere zum Lachen zu bringen.
   She has the gift of being able to make others laugh. 
   milde Gabe: donation
+  Die Gaben lagen unter dem Christbaum.
+  The gifts were lying beneath the Christmas tree.
 
 Gabel /ˈɡaːbəl/, die, Gabeln: folk
   mit Messer und Gabel essen: to eat with a knife and fork 
@@ -13,6 +15,8 @@ Gabel /ˈɡaːbəl/, die, Gabeln: folk
 gähnen /ˈɡɛːnən/: to yawn
   ein Gähnen: a yawn
   das Gähnen unterdrücken: to stop oneself (from) yawning
+  Sie gähnte und dehnte sich ausgiebig.
+  She had a good yawn and stretch.
 
 gähnend /ˈɡɛːnən/: yawning
 
@@ -31,7 +35,7 @@ ganz /ganʦ/: whole, entire
 
 ganz und gar: completely
 
-gar: done, cooked
+gar /ɡaːɐ/: done, cooked
   Das Gemüse sollte gar sein, aber nicht zu weich.
   The vegetables should be done but overcooked. 
 
@@ -78,8 +82,10 @@ Gebirge /ɡəˈbɪrɡə/, das, Gebirge: mountains
 
 Gebirgskette, die: mountain range
 
-Gebot /ɡəˈboːt/, das, Gobote: commandment, imperative
+Gebot /ɡəˈboːt/, das, -e: commandment, imperative, law, rule
   die Zehn Gebote: the Ten Commandments
+  Gebotsschilder sind blau mit weißen Symbolen.
+  Mandatory signs are blue with white symbols.
 
 geboten => bieten
 
@@ -129,6 +135,19 @@ gefährlich /ɡəˈfɛːɐlɪç/: dangerous
 Gefälle /ɡeˈfɛlə/, die, Gefälle: slope
   eine Straße mit starkem Gefälle: a road with a steep gradient 
 
+Gefallen /ɡəˈfalən/, der, -: favor, pleasure
+  an etw Gefallen finden: to get pleasure from sth
+  bei jdm Gefallen finden: to appeal to sb
+  jdm einen Gefallen tun / erweisen: to do sb a favor
+  jdn um einen Gefallen bitten: to ask sb a favo(u)r
+
+gefallen: to please
+  Der Film hat mir überhaupt nicht gefallen.
+  I didn't like the movie at all.
+  sich etw. gefallen lassen [dative]
+  Willst du dir diese Unverschämtheit etwa gefallen lassen?
+  Are you actually going to put up with this impertinence?
+
 gefällt => fällen, gefallen
 
 Gefängnis /ɡəˈfɛŋnɪs/, das: prison
@@ -172,6 +191,13 @@ Gegner /ˈɡeːɡnɐ/, Gegnerin: opponent
 gegnerische: opposing
 
 Gehalt /ɡəˈhalt/, das: salary
+
+gehäuft /ɡəˈhɔyft/: massed, frequent
+  => häufig, häufen
+  ein gehäuftes Auftreten der Krankheit beobachten
+  to take note of frequent occurrences of the illness
+  In dieser Gegend kommen gehäuft Ladendiebstähle vor.
+  Shoplifting is fairly prevalent in this area.
 
 geheim /ɡəˈhaim/: secret, confidential
   Diese Dokumente sind streng geheim!
@@ -241,7 +267,12 @@ gelaunt /ɡəˈlaunt/ adj: in a ... mood
    gut/schlecht gelaunt sein: to be in a good/bad mood 
 
 gelb /ɡɛlp/: yellow
-  zitronengelb: lemon 
+  zitronengelb: lemon
+
+Gelbe, das: yolk
+  nicht (gerade) das Gelbe vom Ei sein: to be not exactly brilliant
+  Diese Lösung ist nicht gerade das Gelbe vom Ei, aber im Moment geht es nicht anders.
+  That solution isn't exactly brilliant but right now there's no other way.
 
 Geld /ɡɛlt/, das, Gelder: money
   Geld vom Konto abheben: to withdraw money from your account 
@@ -463,6 +494,10 @@ gezielt /ɡəˈʦiːlt/: deliberate, calculated, targeted, specifically
   to purposefully kill only the sick animals, not the whole herd
 
 gezogen => ziehen
+
+Gier /ɡiːɐ/, die, (uncountable): greed
+  Sie stürzten sich voller Gier aufs Essen.
+  Driven by greed, they made a dive for the food.
 
 Gift, das: poison
 
