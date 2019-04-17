@@ -340,7 +340,7 @@ All /al/, das, (uncountable): space, outer space, universe
   Spaziergang im All: space walk
   das weite/unerforschte All: the immense/unknown universe
 
-all: all
+all /al/: all
   all meine Zeit: all my time
 
 alle /ˈalə/: all
@@ -521,7 +521,7 @@ angenehm /ˈanɡəneːm/: pleasant, pleasantly
   Ich wünsche Ihnen einen angenehmen Aufenthalt in unserem Hotel.
   I wish you a pleasant stay in our hotel.
   Ich war angenehm überrascht.
-  I was pleasantly surprised. 
+  I was pleasantly surprised.
 
 angespannt /ˈanɡəʃpant/: strained, tense, fraught
   Unsere finanziellen Verhältnisse sind gerade etwas angespannt.
@@ -763,6 +763,9 @@ Ast /ast/, Äste /ˈɛstə/, der: branch
 Asyl /aˈzyːl/, das: asylum
   Asyl beantragen: to seek asylum
   Obdachlosenasyl: homeless shelter
+
+ätherisch /ɛˈteːrɪʃ/: ethereal, essential
+  ätherische Öle: essential oils
 
 Atlas /ˈatlas/, der, Atlanten /atˈlantən/: atlas
   einen Ort im Atlas nachschlagen: to look a place in the atlas 
@@ -1030,6 +1033,11 @@ ausgehen /ˈausɡeːən/: to go out, to finish, to run out, to go off
 ausgezeichnet /ˈausɡəʦaiçnət/: excellent
   => auszeichnen
 
+ausgiebig /ˈausɡiːbɪç/: copious, extensive
+  einen ausgiebigen Mittagssschlaf machen: to have a long nap at lunchtime
+  Sie gähnte und dehnte sich ausgiebig.
+  She had a good yawn and stretch.
+
 Aushang /ˈaushaŋ/, der, ..e: notice
   Auf einem Aushang am Schwarzen Brett wird ein Babysitter gesucht.
   There's a notice on the bulletin board that sb is looking for a babysitter.
@@ -1096,6 +1104,9 @@ ausschalten /ˈausʃaltən/: to switch off
   <=> einschalten
 
 Ausschreitung /ˈausʃraitʊŋ/, die: riot
+
+ausschmieren: to lubricate, to grease, to seal, to oil
+  eine Tonne mit Teer ausschmieren: to tar a barrel
 
 ausschenken: to sell (alcoholic drinks), to pour out, to serve
 
