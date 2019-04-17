@@ -28,6 +28,13 @@ Fahrkarte, die: ticket
 
 Fahrrad /ˈfaːɐraːt/, das, Fahrräder /ˈfaːɐrɛːdɐ/: bicycle
 
+Fahrt /ˈfaːɐt/, die, -en: trip, journey, speed
+  Wie lange hat die Fahrt gedauert?
+  How long did the trip take?
+  jdm eine gute Fahrt wünschen: to wish sb a safe journey
+  Der Dampfer verlangsamte die Fahrt.
+  The steamer reduced speed.
+
 Faktor /ˈfaktoːɐ/, der: factor
 
 Fakultät /fakʊlˈtɛːt/, die, -en: faculty
@@ -140,8 +147,8 @@ Fazit /ˈfaːʦɪt/, das: conclusion
 
 fechten /ˈfɛçtən/: to fence, to fight
 
-Feder /ˈfeːdɐ/, die, Federn: feather
-  Gänsefedern: goose down 
+Feder /ˈfeːdɐ/, die, -n: feather
+  Gänsefedern: goose down
 
 Fee /feː/, die, Feen: fairy
   von einer bösen Fee verzaubert werden
@@ -158,7 +165,7 @@ fehlen /ˈfeːlən/: to be missing, to lack, to be absent
   
 fehlend: missing
 
-Fehler /ˈfeːlɐ/, der: mistake, error
+Fehler /ˈfeːlɐ/, der, -: mistake, error
   Du hättest die Aktien nicht verkaufen sollen, das war ein Fehler.
   You shouldn't have sold the shares – that was a mistake.
   Schreibfehler: slip of the pen
@@ -185,10 +192,11 @@ Feingefühl /ˈfainɡəfyːl/, das, -(e)s: sensitivity, tactfulness
 
 Feld /fɛlt/, das: field
 
-Fell /fɛl/, das, Felle: fur, coat
-  einer Katze über das Fell streicheln: to stroke a cat’s coat 
+Fell /fɛl/, das, -e: fur, coat, skin
+  einer Katze über das Fell streicheln: to stroke a cat's coat
+  Fellhandschuhe: fur gloves
 
-Felsen /ˈfɛlzən/, der: rock
+Felsen /ˈfɛlzən/, der, -: rock
   Auf einem Felsen am Strand saß eine Möwe.
   There was a seagull sitting on a rock at the beach.
 
@@ -469,6 +477,15 @@ freiwillig /ˈfraivɪlɪç/: voluntary
 fremd /frɛmt/: foreign, outside, strange, alien
 
 Fremde: stranger, foreigner
+
+Fressen /ˈfrɛsən/, das, (uncountable): food
+  der Katze ihr Fressen geben: to give the cat her food
+
+fressen: to eat, to guzzle
+  Hunde fressen Fleisch.
+  Dogs eat meat.
+  Friss nicht so viel!
+  Stop stuffing yourself!
 
 Freude /ˈfrɔydə/, die: joy, pleasure
   die Freuden des Lebens/der Liebe: the joys of life/love
