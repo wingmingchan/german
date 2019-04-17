@@ -26,7 +26,7 @@ baden /ˈbaːdən/: to take a bath, to bathe, to swim
   Do you want to have a bath or a shower?
   Unser Baby wird täglich gebadet.
   We bathe our baby every day.
-  nackt baden to bathe (in the) nude
+  nackt baden: to bathe (in the) nude
 
 Badewanne /’baːdəvanə/, die: bath
   sich in die Badewanne legen: to lie down in the bath
@@ -75,7 +75,7 @@ Bann /ban/, der: spell
   The game had us all under its spell. 
   jdn in seinen Bann ziehen: jdn faszinieren, to captivate sb
 
-Bar /baːɐ/, die, Bars: bar
+Bar /baːɐ/, die, -s: bar
   mit Freunden in eine Bar gehen: to go to a bar with friends
   sich an die Bar setzen: to sit down at the bar  
 
@@ -189,7 +189,6 @@ befestigen /bəˈfɛstɪɡən/: to attach, to fix, to mount
   ein Schild mit Schrauben an der Wand befestigen
   to screw a sign to the wall
 
-
 Befliegung: flight, overflying
 
 befördern: to transport, to promote
@@ -205,7 +204,7 @@ befriedigend /bəˈfriːdɪɡənt/: satisfactory
 
 Befriedigung /bəˈfriːdɪɡʊŋ/: satisfaction
 
-begabt /bəˈɡaːpt/: talented
+begabt /bəˈɡaːpt/: talented, gifted
   => Gabe
   Sie ist musikalisch begabt.
   She's gifted musically. 
@@ -879,6 +878,7 @@ brav /braːf/: good, well-behaved, honest, upright, brave
   Now be good for grandma, will you?
 
 brechen /ˈbrɛçən/: to break
+  etw. bricht: sth breaks
   Sie brach das Brot in zwei Teile.
   She broke the bread in two. 
 
