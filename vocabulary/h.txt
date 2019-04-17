@@ -82,8 +82,10 @@ halten /ˈhaltən/: to hold, to keep, to give, to deliver, to stop
   Sie hält eine Vorlesung über moderne Architektur.
   She's giving a lecture on modern architecture.
 
-Halter /ˈhaltɐ/, der: holder, mount
-  Handtuchhalter: towel rack 
+Halter /ˈhaltɐ/, der, -: holder, mount
+  Handtuchhalter: towel rack
+  
+Halter: owner
 
 Halterung /ˈhaltərʊŋ/, die: bracket, mounting
 
@@ -129,6 +131,17 @@ Hass /has/, der: hate, hatred
 
 hauen /ˈhauən/: to hit, to beat, to fight
   mit der Faust auf den Tisch hauen: to bang your fist on the table 
+
+Haufen /ˈhaufən/, der, -: pile
+  alle Kleider auf einen Haufen werfen: to throw all the clothes in a pile
+  
+häufen /ˈhɔyfən/: to become more frequent, to occur more (and more) frequently, to pile up
+  Diese Krankheitsfälle häufen sich in letzter Zeit.
+  These cases of illness have been occurring more frequently of late.
+  Vor dem Häusern häufte sich der Müll.
+  The trash was piling up in front of the houses.
+  Ich häufte mir Spaghetti auf den Teller.
+  I piled spaghetti onto my plate.
 
 häufig /ˈhɔyfɪç/: frequent, common
   Diese Krankheit ist hierzulande nicht besonders häufig.
@@ -458,6 +471,8 @@ Honig /ˈhoːnɪç/, der, Honige: honey
   echter Bienenhonig: genuine bee honey
 
 Hose /ˈhoːzə/, Hosen, die: trousers
+  Die Hose ist mir zu eng.
+  These pants are too tight for me.
 
 Hosen-: trouser-
 
