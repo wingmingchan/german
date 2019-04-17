@@ -12,12 +12,11 @@ Tablett /taˈblɛt/, das: tray
 Tabu /taˈbuː/, das: taboo
 
 Tafel /ˈtaːfəl/, die, Tafeln: bar, board, sign
-  einem Kind eine Tafel Schokolade kaufen/schenken
-  to buy/give a child a candy bar
+  einem Kind eine Tafel Schokolade kaufen/schenken: to buy/give a child a candy bar
   Die Lehrerin schrieb die Vokabeln an die Tafel.
   The teacher wrote the vocabulary on the board.
   Am Wegrand stand eine Tafel mit dem Hinweis „Hunde an die Leine nehmen!‟.
-  At the side of the path was a sign saying, "Please keep dogs on a leash." 
+  At the side of the path was a sign saying, "Please keep dogs on a leash."
 
 Tag /taːk/, der: day
   ein sonniger/regnerischer Tag
@@ -135,6 +134,7 @@ Tee /teː/, der: tea
 Teenager /ˈtiːneːʤɐ/, der
 
 Teer /teːɐ/, der: tar
+  eine Tonne mit Teer ausschmieren: to tar a barrel
 
 Teil /tail/, der: part
   zum Teil: partly
@@ -174,7 +174,9 @@ Therapie /teraˈpiː/, die
   Sie ist wegen dieses Leidens seit Jahren in Therapie.
   She has been receiving treatment for this condition for several years.
 
-tief /tiːf/: deep
+Tief /tiːf/, das, -s: low, depression
+
+tief /tiːf/: deep, low, profound
 
 Tiefsee, die: deep sea
 
@@ -224,6 +226,14 @@ tönen /ˈtøːnən/: to tint, to brag, to sound
   Da tönte es aus dem Lautsprecher: …
   The words came through the loudspeaker: …
 
+Tonne /ˈtɔnə/, die, -n: barrel, drum, trash can, ton
+  die Blumen mit Wasser aus der Regentonne gießen
+  to water the flowers with water from the rain barrel
+  Er warf die Abfälle in die Tonne.
+  He threw the garbage in the trash can.
+  Das Fahrzeug wiegt über acht Tonnen.
+  The vehicle weighs more than eight tonnes.
+
 Topf /tɔpf/, der, Töpfe: pot, (sauce)pan
   die Nudeln aus dem Topf schütten
   to pour the noodles out of the pan
@@ -251,6 +261,8 @@ tragen /ˈtraːɡən/: to carry, to take, to wear, to hold
   trug, trugst, trug, trugen
   Trägst du bitte die Koffer ins Haus?
   Would you take the suitcases inside?
+  Verkaufe kaum getragene Kindersachen. Tel.: …
+  Hardly worn children’s clothes for sale: Tel.: …
 
 Tragfläche /ˈtrakflɛçə/, die, Tragflächen: wing
   Vor dem Start mussten noch die Tragflächen enteist werden.
