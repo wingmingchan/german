@@ -21,10 +21,23 @@ Obst /oːpst/, das, Obst(e)s: fruit
 
 obwohl /ɔpˈvoːl/: although
 
-Ofen /ˈoːfən/, der, Öfen /ˈøːfən/: oven
+öde /ˈøːdə/: barren, deserted, dreary
+  ödes Land: barren land
+  Die Straßen waren öde und leer.
+  The streets were deserted and empty.
+  Wir verbrachten einen öden Nachmittag damit, zu warten.
+  We spent a dreary afternoon waiting.
+  
+
+Ofen /ˈoːfən/, der, Öfen /ˈøːfən/: oven, heater, stove, furnace
   einen Kuchen in den Ofen schieben: to put a cake in the oven
+  Kachelofen: tiled stove
 
 offen /ˈɔfən/: open, openly
+  Lass den Koffer offen, ich will noch was hineintun.
+  Leave the case open, I want to put something else in it.
+  Der Zoo hat / ist noch bis 19:00 Uhr offen.
+  The zoo is open till 7 pm.
 
 offenbar /ˈɔfənbaːɐ/: obvious
   eine offenbare Lüge: an obvious lie 
@@ -41,6 +54,8 @@ offiziell /ɔfiˈʦjɛl/: officially
   Ich hab mehrmals geklingelt, aber niemand hat (mir) geöffnet.
   I rang several times but no one opened the door.
 
+öfter /ˈœftɐ/, öfters: (every) once in a while
+ 
 Ohnmacht /ˈoːnmaxt/, die, Ohnmachten: faint
   in Ohnmacht fallen: to faint
   die eigene Ohnmacht spüren: to feel your own helplessness
@@ -52,7 +67,15 @@ Ohrfeige /ˈoːɐfaiɡə/, die: slap in the face
   
 Ohrring /ˈoːɐrɪŋ/, der, Ohrringe: earring
 
+Ökonomie /økonoˈmiː/, die, -n: economy
+  die Ökonomie Griechenlands: the economy of Greece
+
 Öl /øːl/, das, -e: oil
+  ätherische Öle: essential oils
+  Öl ins Feuer gießen: to add fuel to the fire
+  nach Öl bohren / suchen: to drill/prospect for oil
+  mit Öl heizen: to use oil heating
+  in Öl malen: to paint in oils
 
 Oma /ˈoːma/, die: grandma
   So ein Sport ist nichts für Omas wie mich.
