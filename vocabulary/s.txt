@@ -293,6 +293,9 @@ schmieden /ˈʃmiːdən/: to forge, to hatch
 schmieren: to spread, to smear, to rub
   jdm Sonnencreme auf den Rücken schmieren: to rub sun cream on sb's back
 
+Schmuck /ʃmʊk/, der, (uncountable): jewelry
+  kostbaren Schmuck tragen: to wear expensive jewelry
+
 Schmutz /ʃmʊʦ/, der: dirt
 
 schmutzig /ˈʃmʊʦɪç/: dirty
@@ -526,7 +529,8 @@ seicht: shallow
   Der Fluss ist seicht genug, um hindurchzuwaten.
   The river is shallow enough to wade through.
 
-Seife /ˈzaifə/, die: soap
+Seife /ˈzaifə/, die, -n: soap
+  ein Stück Seife: a bar of soap
 
 Seilbahn /ˈzailbaːn/, die: cableway, aerial tramway
   mit der Seilbahn den Berg hinauffahren
@@ -909,6 +913,9 @@ steigen /ˈʃtaiɡən/: to climb, to get in/on/out/off, to rise
   aus dem/ins Auto steigen
 
 Steigerung /ˈʃtaiɡərʊŋ/, die: increase, improvement
+
+Stein /ʃtain/, der, -e: stone
+  hart wie Stein: as hard as stone
 
 Steinbock /ˈʃtainbɔk/, der: ibex
 
