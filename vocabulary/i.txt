@@ -37,10 +37,15 @@ Ingenieur /ɪnʒeˈnjøːɐ/, Ingenieurin: engineer
 
 Inkrafttreten /ɪnˈkrafttreːtən/, das: taking effect, coming into force
 
-innere /ˈɪnərə/: inner, inside, internal
- 
+innen /ˈɪnən/: inside
+  <=> außen
+  Der Topf ist innen verkratzt.
+  The pot's scratched on the inside.
+
 Innenstadt /ˈɪnənʃtat/, die: downtown, city center
 
+innere /ˈɪnərə/: inner, inside, internal
+ 
 insbesondere /ɪnsbəˈzɔndərə/: in particular
 
 Insel /ˈɪnzəl/, die, Inseln: island
