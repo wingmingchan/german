@@ -75,9 +75,10 @@ kaum /kaum/: barely, hardly
   Ich habe kaum geschlafen.
   I hardly slept a wink.
 
-Kehle /ˈkeːlə/, die, Kehlen: throat
+Kehle /ˈkeːlə/, die, Kehlen: throat, windpipe, esophagus
   jdm die Kehle durchschneiden: to cut sb's throat
   eine trockene / raue Kehle haben: to have a dry/sore throat
+  aus voller Kehle lachen: to roar with laughter
 
 kehren /ˈkeːrən/ to sweep, to return
 
@@ -89,9 +90,13 @@ kein: not, not a, less than
 
 Keks /keːks/, der, kekse: cookie
 
-Keller /ˈkɛlɐ/, der, Keller: basement, cellar
+Kelle /ˈkɛlə/, die, -n: scoop, ladle
+  Möchtest du noch eine Kelle Suppe?
+  Would you like another ladle of soup?
+
+Keller /ˈkɛlɐ/, der, Keller: basement, cellar, dungeon
   Zahlreiche Keller wurden bei dem Unwetter überflutet.
-  A large number of basements were flooded in the storm. 
+  A large number of basements were flooded in the storm.
 
 Kellner, Kellnerin: waiter/waitress
 
@@ -126,6 +131,14 @@ Kette /ˈkɛtə/, die, Ketten: necklace, chain
 
 kichern /ˈkɪçɐn/: to giggle
 
+kieken: to peek, to peep
+  => gucken
+
+Kieker /ˈkiːkɐ/, der
+  jdn / etw. auf dem Kieker haben: to have it in for sb/sth
+  Die neue Lehrerin hat mich auf dem Kieker: Ständig ermahnt sie mich.
+  The new teacher has it in for me. She's always warning me.
+
 Kiesel, der: pebble
   Kieselstein
   Kiesel ans Fenster werfen: to throw pebbles at the window
@@ -140,6 +153,9 @@ Kinn /kɪn/, das: chin
 
 Kirche /ˈkɪrçə/, die: church
   eine gotische/romanische Kirche: a Gothic/Romanesque church 
+
+Kissen /’kɪsən/, das, -: pillow, cushion
+  ein paar Kissen aufs Sofa legen: to put a couple of cushions on the sofa
 
 klagen /'klaːɡən/: complain, to take legal action
   „Wie geht es dir?‟ – „Ich kann nicht klagen!‟
@@ -201,7 +217,7 @@ knapp /knap/: meagre, scarce, tight, barely
 
 kneten /ˈkneːtən/: to knead
   Sie knetete nervös ihre Hände/Schürze.
-  She wrung her hands/apron nervously. 
+  She wrung her hands/apron nervously.
 
 knicken /ˈknɪkən/: to fold
   Bitte nicht knicken!
@@ -461,6 +477,10 @@ Kürze /ˈkʏrʦə/, die: shortness, brevity
 
 Kuss /kʊs/, der, Küsse /ˈkʏsə/: kiss
   jdm einen Kuss auf die Wange geben: to kiss sb on the cheek
+
+küssen /ˈkʏsən/: to kiss
+  Sie küssten sich zum Abschied.
+  They kissed each other goodbye.
 
 Küste /ˈkʏstə/, die, -n: coast
   an der Küste entlangfahren: to drive along the coast
