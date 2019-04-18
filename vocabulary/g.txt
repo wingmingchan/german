@@ -68,7 +68,7 @@ Gatt, das: stern, hole
 
 Gatte/Gattin: spouse
 
-Gebet /ɡəˈbeːt/, das: prayer
+Gebet /ɡəˈbeːt/, das, -e: prayer
   die Hände zum Gebet falten
   to fold your hands in prayer
 
@@ -120,7 +120,7 @@ geeignet /ɡəˈ|aiɡnət/: suitable
   Sie ist für diese Stelle nicht geeignet.
   She's not suitable for this position.
 
-Gefahr /ɡəˈfaːɐ/, die, Gefahren: danger
+Gefahr /ɡəˈfaːɐ/, die, -en: danger
   Es besteht die Gefahr, dass jemand ins Eis einbricht.
   There is a risk that someone might fall through the ice.
 
@@ -618,6 +618,14 @@ Grün /ɡryːn/, das: green
 Grund /ɡrʊnt/, der: reason
 
 Grundschule: elementary/grade school
+
+gucken /ˈɡʊkən/: to look, to watch, to peek
+  Guck mal, wer da kommt!
+  Look who's coming!
+  Guck doch nicht so finster / beleidigt!
+  Don't look so glum/offended.
+  Du sollst nicht so viel Fernsehen gucken!
+  You shouldn't watch so much TV.
 
 Gulasch /ˈɡuːlaʃ/ oder /ˈɡʊlaʃ/, der-das, -s: goulash
   ungarisches Gulasch mit Nudeln: Hungarian goulash with pasta
