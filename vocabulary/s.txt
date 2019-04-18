@@ -189,7 +189,7 @@ schicken /ˈʃɪkən/: to send, to send for, to hurry up
 Schicksal /ˈʃɪkzaːl/, das: fate, destiny
   ein schweres Schicksal haben: to be fated to have a hard life
 
-schieben /ˈˈʃiːbən/: to push, to blame, to reject
+schieben /ˈˈʃiːbən/: to push, to put, to blame, to reject
   einen Tisch zur Seite schieben: to push a table aside
   Er schob sich durch das Gedränge nach vorn zur Theke.
   He pushed his way through the crowd to the bar at the front.
@@ -334,6 +334,8 @@ Schnur /ʃnuːɐ/, die, Schnüre /ˈʃnyːrə/: string, cord
   He wore the key on a cord around his neck. 
 
 Schnurrbart /ˈʃnʊrbaːɐt/, der: mustache
+
+schob /ʃoːp/ => schieben
 
 Schokolade, die /ʃokoˈlaːdə/: chocolate
 
