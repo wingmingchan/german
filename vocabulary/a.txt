@@ -144,6 +144,10 @@ abscheulich /apˈʃɔylɪç/: hideous, disgusting
   Sie findet Spinnen abscheulich.
   She finds spiders repulsive.
 
+Abschied /ˈapʃiːt/, der, -e: leave, farewell
+  Der Abschied von ihren Freunden fiel ihr schwer.
+  She found it difficult to say goodbye to her friends.
+
 abschieben /ˈapʃiːbən/: to deport, to shift
   habe abgeschoben
   => schieben: to push, to blame, to reject
@@ -1125,6 +1129,8 @@ aussehen /ˈauszeːən/: to look
 Aussprache /ˈausʃpraːxə/, die: pronunciation
   die richtige Aussprache eines Wortes
   the correct pronunciation of a word
+
+außen: out, outside
 
 außer /ˈausɐ/: except, besides, outside, out of, unless
   täglich außer sonntags geöffnet
