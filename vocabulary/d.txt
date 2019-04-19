@@ -38,7 +38,7 @@ damalige /ˈdaːmaːlɪɡə/: then, at that point
 damals /ˈdaːmaːls/: at that time
   => früher
 
-damit /ˈdaːmɪt/: with it, thereby, in order that
+damit /ˈdaːmɪt/: with it, thereby, in order that, so that
   Sie blieb bei ihrem Kind, damit es sich nicht fürchtete.
   She stayed with her child so he wouldn't be afraid.
 
@@ -191,7 +191,7 @@ dennoch /ˈdɛnɔx/: nevertheless , still
 
 Deo /ˈdeːo/, das: deodorant
 
-deren /ˈdeːrən/: her
+deren /ˈdeːrən/: her/its/their
   meine Schwester und deren Mann: my sister and her husband
 
 derselbe /deːɐˈzɛlbə/, dieselbe /diːˈzɛlbə/: the same
@@ -210,7 +210,9 @@ deshalb /ˈdɛsˈhalp/: therefore
 
 Designer /diˈzainɐ/, Designerin: designer
 
-deswegen /ˈdɛsˈveːɡən/: therefore, so
+deswegen /ˈdɛsˈveːɡən/: therefore, so, that's why
+  Er schreibt heute eine Mathearbeit und will deswegen nicht zur Schule gehen.
+  He has a math test today, so he doesn't want to go to school.
 
 Detail /deˈtai/, das: detail
 
@@ -287,6 +289,10 @@ Diskothek /dɪsko'teːk/, die
 
 dortige /ˈdɔrtɪɡə/: local
 
+Dotter /ˈdɔtɐ/, der-das, -: yolk
+  => Eigelb
+  Dotter und Eiweiß trennen: to separate the yolk from the egg white
+
 *Drache /ˈdraxə/, der, -n: dragon
   ein feuerspeiender Drache: a fire-breathing dragon
 
@@ -306,7 +312,7 @@ drehen /ˈdreːən/: to turn, to rotate, to spin, to shoot (photo, film)
   Sie drehte den Kopf zur Seite/nach links.
   She turned her head to the side/to the left.
 
-Drehkreuz /ˈdreːkrɔyʦ/, das: turnstile
+Drehkreuz /ˈdreːkrɔyʦ/, das, -e: turnstile
   Wir mussten am Eingang durch ein Drehkreuz gehen.
   We had to go through a turnstile at the entrance.
 
@@ -333,6 +339,10 @@ Druck, der: pressure
 drücken: to push, to press
   (auf) die Austaste drücken: to press the off button
 
+Drucker /ˈdrʊkɐ/: jd, der in einer Druckerei arbeitet
+  Drucker ist ein aussterbender Beruf.
+  Printers are a dying breed.
+
 Dschihadist: jihadist
 
 dulden: to tolerate, to put up with
@@ -355,6 +365,8 @@ durch /dʊrç/: through, around, by, gone, past, over
   Der Ball flog durch die Scheibe.
   The ball flew through the window.
   durch und durch: through and through, completely
+  Durch die farbigen Schilderungen des Urwalds habe ich fast das Gefühl, schon einmal dort gewesen zu sein.
+  Thanks to the colorful descriptions of the jungle, I almost feel as if I've been there before.
 
 durcharbeiten /ˈdʊrç|arbaitən/: to work through
   Sie hat fast zwei Tage durchgearbeitet und braucht jetzt eine Pause.
