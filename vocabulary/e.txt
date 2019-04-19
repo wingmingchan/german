@@ -58,6 +58,10 @@ edelmütig /ˈeːdəlmyːtɪç/: generous, magnanimous
 
 Edelstein /ˈeːdəlʃtain/, der: precious stone
 
+Edle, der, -n: noble, nobleman
+
+edle => edel
+
 effektiv /ɛfɛkˈtiːf/: effective
 
 egal /eˈɡaːl/: whatever, irrelevant
@@ -84,6 +88,10 @@ ei: oh
   Ei, ei! There!
 
 Eid /ait/, der: oath
+
+Eigelb /ˈaiɡɛlp/, das, -: yolk
+  => Dotter
+  Eigelb und Eiweiß trennen: to separate the yolk from the egg white
 
 eigen /ˈaiɡən/: own
   Hast du ein eigenes Auto?
@@ -142,6 +150,8 @@ einfach /ˈainfax/: easy, simple, easily, simply
   Die Aufgabe war nicht ganz einfach.
   The problem wasn't exactly easy.
   eine einfache Mahlzeit zubereiten: to prepare a simple meal
+  Er ist einfach großartig!
+  He's simply wonderful!
 
 einfache Fahrkarte: one-way ticket
 
@@ -545,6 +555,13 @@ Erfahrung /ɛɐˈfaːrʊŋ/, die: experience
 erfinden /ɛɐˈfɪndən/: to invent
   Wer hat die Dampfmaschine erfunden?
   Who invented the steam engine?
+
+Erfindung /ɛɐˈfɪndʊŋ/, die, -en: invention, fiction
+  die Erfindung des Rades: the invention of the wheel
+  Was für eine geniale Erfindung!
+  What an ingenious invention!
+  Ich halte das alles für eine reine Erfindung.
+  I think that's all pure fiction.
 
 Erfolg /ɛɐˈfɔlk/, der: success
   => Folge: consequence, result
