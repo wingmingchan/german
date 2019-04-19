@@ -95,6 +95,12 @@ wart => sein
 
 wart (imperative du) => warten
 
+warten /ˈvartən/: to wait, to service
+  Sie wartete vor dem Bahnhof auf ihn.
+  She waited for him in front of the station.
+  Das Auto wurde regelmäßig gewartet.
+  The car was regularly serviced.
+
 warum /vaˈrʊm/: why
 
 waschen /ˈvaʃən/: to wash
@@ -226,6 +232,16 @@ wer /veːɐ/: who, whoever
   Wer mitkommen will, soll sich melden.
   Anyone who wants to come should let us know.
 
+werben /ˈvɛrbən/: to recruit, to attract, to advertise
+  Der Verein versuchte, Sponsoren für das Projekt zu werben.
+  The organization tried to find sponsors for the project.
+  im Fernsehen für Bier werben: to advertise beer on TV
+  für mehr Toleranz werben: to campaign for more tolerance
+
+Werbung /ˈvɛrbʊŋ/, die, -en: advertisement(s), commercial(s)
+  Bitte keine Werbung einwerfen!
+  No junk mail, please!
+
 werden /ˈveːɐdən/: to become
   Es wird schon hell draußen.
   It's already getting light outside. 
@@ -277,6 +293,10 @@ wichtig /ˈvɪçtɪç/: important
   Diese Arbeit ist sehr wichtig für mich.
   This job is very important to me.
 
+Widder /ˈvɪdɐ/, der, -: Aries 白羊座
+  Sie / Er ist Widder.
+  She/He is (an) Aries.
+
 wie /viː/: how, as, like, such as
   Menschen in Deutschland sind nicht wie wir.
   People in Germany are not like us.
@@ -296,6 +316,11 @@ Wiedersehen /ˈviːdɐzeːən/, das: reunion
 wiedersehen
   Wann sehen wir uns wieder?
   When will we see each other again?
+
+wild /vɪlt/: wild, savage
+  wilder Wein: woodbine
+  Die Missionare wollten den Wilden den christlichen Glauben bringen.
+  The missionaries wanted to bring the Christian faith to the savages.
 
 Wind /vɪnt/, der: wind
 
@@ -402,6 +427,10 @@ Wortschatz /ˈvɔrtʃaʦ/, der, Wortschätze: vocabulary
 worum 4.21.06:08
 
 wovon /voˈfɔn/: from what, from which
+  Wovon soll ich das bezahlen?
+  What am I supposed to pay for that with?
+  Technik ist etwas, wovon ich leider gar nichts verstehe.
+  Technology is something I’m afraid I know absolutely nothing about.
 
 wovor /voˈfoːɐ/: what … in front of
 
@@ -437,7 +466,7 @@ Wurm /vʊrm/, der, Würmer /ˈvyrmɐ/: worm
 
 Wurst /vʊrst/, die, Würste: saussage
 
-Würstchen /ˈvyrstçən/, das, Würstchen: frankfurter
+Würstchen /ˈvyrstçən/, das, -: frankfurter
   heiße Würstchen mit Senf: hot frankfurters with mustard
 
 Wurzel /ˈvʊrʦəl/, die: root
