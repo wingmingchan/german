@@ -170,6 +170,12 @@ Verhalten /fɛɐˈhaltən/, das: behavior
 verhalten /fɛɐˈhaltən/: restrained, cautious, suppressed
   etw. mit verhaltenem Spott sagen: to say sth with quiet derision
 
+verhandeln /fɛɐˈhandəln/: to negotiate, to hear (a/the case)
+  Über den Preis können wir gern noch verhandeln.
+  We can certainly do some more negotiating about the price.
+  Ihr Fall wird morgen verhandelt.
+  Your case will be heard tomorrow.
+
 Verhandlung /fɛɐˈhandlʊŋ/, die: negotiation
   Die Verhandlungen blieben leider ohne Ergebnis.
   Unfortunately the negotiations did not end in agreement.
@@ -200,6 +206,11 @@ Verkehr /fɛɐˈkeːɐ/, der: traffic
   There's always a lot of traffic on this road.
 
 Verkehrsmittel /fɛɐˈkeːɐsmɪtəl/, das: means of transportation
+
+verkleiden /fɛɐˈklaidən/: to dress up, to disguise yourself
+  => kostümieren
+  Kinder verkleiden sich gern.
+  Kids like dressing up.
 
 Verkleidung /fɛɐˈklaidʊŋ/, die: disguise, fancy dress
 
@@ -508,6 +519,9 @@ vielmals /ˈfiːlmaːls/: very much
 
 vielmehr /ˈfiːlmeːɐ/: rather
 
+vielschichtig /ˈfiːlʃɪçtɪʃ/: complex
+  ein vielschichtiges Thema / Problem: a complex subject/problem
+
 vierte: fourth
 
 Viertel /ˈfirtəl/, das: quarter
@@ -633,7 +647,7 @@ vornehmen /ˈfoːɐneːmən/: to make, to carry out
   Änderungen / Korrekturen vornehmen
   to make changes/corrections
 
-Vorort /ˈfoːɐ|ɔrt/, der, Vororte: suburb
+Vorort /ˈfoːɐ|ɔrt/, der, -e: suburb
   Er wohnt in einem Pariser Vorort.
   He lives in a suburb of Paris.
 
