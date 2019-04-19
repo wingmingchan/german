@@ -196,6 +196,10 @@ Messing /ˈmɛsɪŋ/, das: brass
 
 Messtechnik, die: measurement technology, metrology
 
+Metall /meˈtal/, das, -e: metal
+  Leichtmetall: light metal
+  Schwermetall
+
 Milch /mɪlç/, die: milk
 
 Milchreis, der: rice pudding
@@ -336,6 +340,11 @@ Müsli /ˈmyːsli/, das: muesli
 müssen /ˈmʏsən/: to have to, must
   Ich/Er muss jetzt gehen.
   I/He must go now.
+
+Mut /muːt/, der, (uncountable): courage, bravery
+  <=> Feigheit
+  Es gehört schon Mut dazu, ihm zu widersprechen.
+  It takes a lot of courage to contradict him.
 
 mutmaßlich /ˈmuːtmaːslɪç/: suspected
   Die Polizei hat den mutmaßlichen Täter verhaftet.
