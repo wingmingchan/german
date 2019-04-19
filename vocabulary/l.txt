@@ -294,13 +294,17 @@ Lid /liːt/, das: eyelid
   Sie blinzelte mit halb geschlossenen Lidern in die Sonne.
   She squinted into the sun with her eyes half closed.
 
-lieb /ˈliːp/: dear
+lieb /ˈliːp/: dear, nice, kind
   liebe Gäste: dear guests
+  Sie war sehr lieb zu mir.
+  She was very nice to me.
 
 Liebe /ˈliːbə/, die, (uncountable): love, sex
   die Liebe der Eltern für ihre Kinder/zu ihren Kindern
   the love of the parents for their children
   Liebe machen
+
+liebenswert /ˈliːbənsveːɐt/: likeable
 
 Lied /liːt/, das, -er: song
   ein Lied singen: to sing a song
@@ -330,6 +334,8 @@ Lippe /ˈlɪpə/, die, -n: lip
 listig /ˈlɪstɪç/: cunning
   listig wie ein Fuchs: as sly as a fox
 
+Litfaßsäule /ˈlɪtfaszɔylə/, die, -n: advertising pillar
+
 Lkw /ˈɛlkaːveː/, Lastkraftwagen, der: truck
 
 Loch /lɔx/, das, Löcher /ˈlœçɐ/: hole
@@ -345,6 +351,14 @@ lohnen /ˈloːnən/: to be worthwhile
 Lokal /loˈkaːl/, das: bar, restaurant
 
 löschen /ˈlœʃən/: to extinguish, to put out, to delete
+  Die Feuerwehr konnte den Brand schnell löschen.
+  The fire service were able to extinguish the fire quickly.
+  Er löschte an dem Brunnen seinen Durst.
+  He quenched his thirst at the well.
+  Der Letzte löscht bitte das Licht.
+  Would the last person please put out the light.
+  Wie kann ich Dateien dauerhaft löschen?
+  How can I delete the files permanently?
 
 losen /ˈloːzən/: to draw lots
   Wir haben gelost, wer fahren sollte.
@@ -370,6 +384,7 @@ Lücke /ˈlʏkə/, die: gap, space
   to slip through a gap between the bushes
 
 Luft /lʊft/, die, Lüfte /ˈlʏftə/: air
+  an die frische Luft gehen: to get out in the fresh air
 
 Luftballon /ˈlʊftbalɔŋ/, die: balloon
 
