@@ -20,6 +20,8 @@ Aas /aːs/, das, (uncountable): carrion, jackass
 ab /ap/: from
   ab nächster Woche: from next week 
   ab und zu/an: manchmal
+  Ab nach Hause!
+  Time to head for home.
 
 ab-: from, away
 
@@ -452,6 +454,12 @@ anbieten /ˈanbiːtən/: to offer
   Welche Wahlfächer bietet die Schule an?
   Which electives does the school offer?
 
+anbrechen /ˈanbrɛçən/: to open
+  Angebrochene Medikamente bald verbrauchen!
+  Use up open medication quickly.
+  Ein neuer Tag ist angebrochen.
+  A new day has dawned.
+
 andauernd /ˈandauɐnt/: continuing, persistent, constant, ongoing
 
 Anden: Andes
@@ -468,13 +476,13 @@ anderenfalls /ˈandərənfals/: otherwise
   Kann ich meine Bestellung noch ändern?
   Is it still possible for me to change my order?
 
-andersrum => andersherum
-
 anders /ˈandɐs/: differently
 
 andersherum /ˈandɐshɛrʊm/: the other way around
   Vielleicht sollten wir das Bett andersherum stellen.
   Maybe we should put the bed the other way around.
+
+andersrum => andersherum
 
 anderthalb /ˈandɐtˈhalp/: one and a half
   => eineinhalf
@@ -502,6 +510,10 @@ Angebot /ˈanɡəboːt/, das: offer, supply
   <=> Nachfrage
   Das Angebot übersteigt derzeit die Nachfrage.
   Supply is outstripping demand at the moment.
+
+angehören /ˈanɡəhøːrən/: to be a member (of), to belong
+  Der Regierung gehören derzeit 15 Minister an.
+  There are 15 ministers in the government at the moment.
 
 Angehörige /ˈanɡəhøːrɪɡə/: relatives, member, dependent
   => Verwandte, Familienmitglied
@@ -979,6 +991,11 @@ Ausblick /ˈausblɪk/, der: view, outlook, perspective
 ausbrechen /ˈausbrɛçən/: to break out, to escape, to erupt
 
 ausbreiten /ˈausbraitən/: to spread (out), to lay out
+  Die Pest breitete sich schnell in ganz Europa aus.
+  The plague quickly spread across the whole of Europe.
+  Er breitete seine Arme aus und kam lächelnd auf mich zu.
+  He spread out his arms and came toward me with a smile.
+  eine Decke auf dem Boden ausbreiten: to spread out a blanket on the ground
 
 ausdehnen /ˈausdeːnən/: to stretch, to extend, broaden
   Wenn du das T-Shirt immer auf diese Weise ausziehst, dehnst du den Kragen aus.
@@ -1054,6 +1071,13 @@ Ausland /ˈauslant/, das: foreign countries
 auslösen /ˈausløːzən/: to cause, to trigger
   Das Erdbeben hat eine Flutwelle ausgelöst.
   The earthquake caused a tsunami.
+
+ausmachen /ˈausmaxən/: to switch off, to extinguish, to arrange
+  den Fernseher ausmachen: to switch off the TV
+  Machen Sie bitte ihre Zigarette aus, hier ist Rauchen verboten.
+  Please put out your cigarette – there’s no smoking here.
+  Wir hatten doch ausgemacht, dass du das erledigst!
+  But we had agreed that you would take care of that!
 
 Ausnahme /ˈausnaːmə/, die: exception
   von wenigen Ausnahmen abgesehen: aside from very few exceptions
