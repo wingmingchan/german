@@ -141,6 +141,12 @@ Teil /tail/, der: part
 
 teilen /ˈtailən/: to share, to divide
 
+teilweise /ˈtailvaizə/: in part
+  Die Autobahn ist ab Mittwoch teilweise gesperrt.
+  The freeway will be partially closed off from Wednesday.
+
+Telefon /ˈteːləfoːn/, das, -e: telephone
+
 Telefonat /telefoˈnaːt/, das: phone conversation
   Er führt gerade ein wichtiges Telefonat.
   He's just in the middle of an important phone conversation.
@@ -159,6 +165,10 @@ Termin /tɛrˈmiːn/, der: deadline, date, appointment
 
 termingerecht /tɛrˈmiːnɡərɛçt/: punctual
 
+Test /tɛst/, der, -s: test
+  Sie hat den Test in Mathematik nicht bestanden.
+  She didn't pass the math test.
+
 testen /ˈtɛstən/: to test
 
 Teufel /ˈtɔyfəl/, der, -: devil
@@ -170,6 +180,16 @@ teuflisch /ˈtɔyflɪʃ/: fiendish, diabolical
   Dieses Rätsel ist teuflisch schwer.
   This puzzle is fiendishly difficult.
 
+Theater /teˈaːtɐ/, das, -: theater
+  Er wartete vor dem Theater auf sie.
+  He waited for her outside the theater.
+  Wollen wir nach dem Theater noch was trinken gehen?
+  Shall we go for a drink after the show?
+
+Thema /ˈteːma/, das, Themen: subject, topic, theme
+  Über dieses Thema möchte ich nicht sprechen.
+  I don't want to talk about this subject.
+
 Therapie /teraˈpiː/, die
   Sie ist wegen dieses Leidens seit Jahren in Therapie.
   She has been receiving treatment for this condition for several years.
@@ -180,7 +200,7 @@ tief /tiːf/: deep, low, profound
 
 Tiefsee, die: deep sea
 
-Tier /tiːɐ/, das: animal
+Tier /tiːɐ/, das, -e: animal
   Tiere in freier Wildbahn beobachten: to watch animals in the wild
 
 Tiergarten, der: zoo
@@ -191,13 +211,17 @@ tilgen /ˈtɪlɡən/: to remove, to wipe out, to release, to pay off
   Mit diesem Geld können wir das Darlehen vorzeitig tilgen.
   This money will allow us to pay the loan off early.
 
+timen /ˈtaimən/: to time
+  Der Angriff war perfekt getimt.
+  The attack was perfectly timed.
+
 Tippfehler, der: typo, typing error
 
 Tisch /tɪʃ/, der, Tische: table
   den Tisch decken / abräumen
   to set/clear the table
 
-Tischdecke /ˈtɪʃdɛkə/, die: tablecloth
+Tischdecke /ˈtɪʃdɛkə/, die, -n: tablecloth
   eine frische Tischdecke auflegen: to change the tablecloth
 
 Titel /ˈtiːtəl/, der, -: title
@@ -251,8 +275,11 @@ total /toˈtaːl/: total, really
 Tote /ˈtoːtə/: dead person, dead man/woman
   ein unbekannter Toter: an unidentified dead man
 
-Tradition /tradiˈʦjoːn/, die, Tradition: tradition
+Tradition /tradiˈʦjoːn/, die, -en: tradition
   an alten Traditionen festhalten: to uphold ancient traditions
+
+traditionell /tradiʦjoˈnɛl/
+  ein traditioneller Tanz: a traditional dance
 
 traf => treffen
 
@@ -385,6 +412,10 @@ trügen /ˈtryːɡən/: to deceive
   My hopes didn't deceive me.
 
 Tuch /tuːx/, das, Tücher: cloth
+
+Tulpe /ˈtʊlpə/, die, -n: tulip
+  Tulpenzwiebeln in die Erde setzen: to plant tulip bulbs
+  Tulpenfest
 
 tun /tuːn/: to do
   Hast du nichts Besseres zu tun?
