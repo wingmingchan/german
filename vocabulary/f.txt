@@ -70,6 +70,8 @@ fällig /ˈfɛlɪç/: due
   The next installment is due in a few days.
   Die Autowäsche war schon lange fällig.
   The carwash was long overdue.
+  Wenn sie mir bis morgen das Geld nicht gibt, ist sie fällig!
+ If she doesn't give me the money by tomorrow, she's in big trouble.
 
 falls: in case, if
   Falls du keine Zeit hast, können wir den Termin auch verschieben.
@@ -108,6 +110,13 @@ Fantasie /fantaˈziː/, die
 Farbe /ˈfarbə/, die, Farben: color
   Welche Farbe hat der Pullover?
   What color is the sweater?
+
+farbig /ˈfarbɪç/: colored
+  => bunt
+  ein Buch mit farbigen Abbildungen: a book with color illustrations
+  eine dreifarbige Katze: a three-colored cat
+  Durch die farbigen Schilderungen des Urwalds habe ich fast das Gefühl, schon einmal dort gewesen zu sein.
+  Thanks to the colorful descriptions of the jungle, I almost feel as if I’ve been there before.
 
 färben /ˈfɛrbn/: to color
 
@@ -179,6 +188,11 @@ feiern /ˈfaiɐn/: to celebrate, to acclaim, to laud, to hail
   I've been promoted. This calls for a real celebration!
 
 Feiertag /ˈfaiɐtaːk/, der: holiday
+
+Feigheit /ˈfaikhait/, die, (uncountable): cowardice
+  <=> Mut
+  Er wurde von einem Kriegsgericht wegen Feigheit vor dem Feind zum Tode verurteilt.
+  He was sentenced to death by a military court for cowardice in the face of the enemy.
 
 fein /fain/: fine, subtle
   Der feine Staub drang in alle Ritzen.
@@ -341,6 +355,9 @@ Flug /fluːk/, der: flight
 
 Flugbegleiter: flight attendant
 
+Fluglinie /ˈfluːkliːnjə/, die, -n: airline
+  mit einer deutschen Fluglinie fliegen: to fly with a German airline
+
 Flügel /ˈflyːɡəl/, der, Flügel: wing
   Der Vogel flatterte mit den Flügeln.
   The bird flapped its wings.
@@ -460,6 +477,8 @@ frech /frɛç/: fresh, cheeky, impudent
   Now don't get fresh with me!
 
 frei /frai/: free
+
+Freibad /ˈfraibat/, das, ..er: outdoor swimming pool
 
 freigeben /ˈfraiɡeːbən/: to release
 
