@@ -129,6 +129,12 @@ hart /hart/: hard
 
 Hass /has/, der: hate, hatred
 
+hässlich /ˈhɛslɪç/: ugly
+  Diese Betonblocks sind einfach nur hässlich.
+  Those concrete blocks are quite simply ugly.
+  Ich habe hässliche Dinge zu ihm gesagt.
+  I said mean things to him.
+
 hauen /ˈhauən/: to hit, to beat, to fight
   mit der Faust auf den Tisch hauen: to bang your fist on the table 
 
@@ -157,6 +163,8 @@ Haupt /haupt/, das: head
   das Haupt der Christenheit: the Pope
 
 Hauptreisezeit: peak tourist season
+
+Hauptverkehrszeit: rush hour
 
 Hausarbeit /ˈhaus|arbait/, die: housework
   die Hausarbeit erledigen: to do the housework
@@ -477,7 +485,8 @@ Hölle /ˈhœlə/, die: hell
   in die Hölle kommen: to go to hell
   jdm das Leben zur Hölle machen: to make sb’s life hell 
 
-Holz /hɔlʦ/, das: wood
+Holz /hɔlʦ/, das, ..er: wood
+  edle Hölzer: precious woods
 
 Honig /ˈhoːnɪç/, der, Honige: honey
   echter Bienenhonig: genuine bee honey
@@ -509,6 +518,8 @@ Huhn /huːn/, das, Hühner: chicken, hen
 Hummer /ˈhʊmɐ/, der, -: lobster
 
 Hund /hʊnt/, der; Rüde, der; Hündin, die
+  Ist das ein Rüde oder eine Hündin?
+  Is that a dog or a bitch?
 
 Hundert, das
 
