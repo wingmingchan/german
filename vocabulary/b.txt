@@ -342,6 +342,8 @@ beklagen /bəˈklaːɡən/: to complain, to lament, to mourn
   Er beklagte die schlechte Zusammenarbeit mit der Opposition.
   He criticized the unsatisfactory cooperation with the opposition.
 
+bekleben: to stick paper/posters etc on(to) sth
+
 bekleckern /bəˈklɛkɐn/: to spill on, to stain
   Er hat sich/sein Hemd/ das Tischtuch (mit Soße) bekleckert.
   He spilled sth (sauce) on himself/on his shirt/on the tablecloth.
@@ -362,6 +364,8 @@ Belästigung /bəˈlɛstɪɡʊŋ/, die: annoyance, nuisance, harassment
 beleben /bəˈleːbən/: to stimulate, to be revitalized, to brighten up, to liven up
   Allmählich beleben sich die Straßen.
   The streets are gradually beginning to liven up.
+
+beleuchten: to light up
 
 belieben /bəˈliːbən/: to please, to like
   Kommen Sie wieder, wann es Ihnen beliebt.
@@ -415,7 +419,7 @@ Berechnung /bəˈrɛçnʊŋ/, die, -en: calculation, charging
   Der Flug wurde ohne Berechnung von Gebühren umgebucht.
   The flight was changed at no additional charge.
 
-Bereich /bəˈraiç/, der: area, domain, range, section
+Bereich /bəˈraiç/, der, -e: area, domain, range, section
   ein verkehrsberuhigter Bereich: a traffic-calmed neighborhood
 
 bereiten /bəˈraitən/: to cause, to give
@@ -540,6 +544,8 @@ bestimmt /bəˈʃtɪmt/: certain, firm, decisive, certainly
   He's no doubt been there for ages.
 
 Bestimmungsort, der: destination
+
+bestreichen: to rake, to spread
 
 bestreiten /bəˈʃtraitən/: to deny, to dispute
   Er bestreitet, die Tat begangen zu haben.
@@ -687,7 +693,8 @@ bieten /ˈbiːtən/: to bid, to offer, to provide
   Er hat mir für den Auftrag/das Auto viel Geld geboten.
   He offered me a lot of money for the job/car. 
 
-Bild, das: painting, picture
+Bild /bɪlt/, das, -er: painting, picture
+  Bilder für einen Comic zeichnen / malen: to draw/paint pictures for a comic
 
 bilden /ˈbɪldən/: to form, to constitute
   Nehmt euch an den Händen und bildet einen Kreis.
@@ -827,8 +834,9 @@ Bohrmaschine /ˈboːɐmaʃiːnə/, die: drill
 Bonbon /bõˈbõ/ /bɔŋˈbɔŋ/ oder /ˈbɔŋbɔŋ/, der, -s: candy
   Bonbons lutschen: to suck candies
 
-Boot /boːt/, das: boat
+Boot /boːt/, das, -e: boat
   Bootfahrt: boat trip
+  Paddelboot: canoe
 
 Bordell /bɔrˈdɛl/, das: brothel
 
@@ -849,6 +857,8 @@ bot..an => anbieten
 
 Bote /ˈboːtə/, Botin, -n: messenger
   Postbote: mailman
+  Ein Bote überbrachte ihnen die schlimme Nachricht.
+  A messenger delivered the bad news.
 
 Botschaft /ˈboːtʃaft/, die: message, embassy
   Ich habe eine frohe Botschaft für dich!
@@ -861,13 +871,17 @@ Branche /ˈbrãːʃə/, die: sector, industry, business
   Wir sind in der gleichen Branche tätig.
   We're in the same business.
 
-Brand /brant/, der: fire
+Brand /brant/, der, ..e: fire
   Die Feuerwehr konnte den Brand löschen.
   The fire department managed to put out the fire.
 
 Brandfall, der: fire
 
 braten: to fry
+  Ich brat mir jetzt ein Steak.
+  Now I'm going to fry myself a steak.
+  Das Huhn muss eineinhalb Stunden braten.
+  The chicken has to roast for one and a half hours.
 
 Bratwurst /ˈbraːtvʊrst/, die: bratwurst
 
@@ -886,11 +900,16 @@ Brei /brai/, der, Breie: porridge, baby food
 
 breit /brait/: wide, broad
 
+breiten /ˈbraitən/: to spread sth over sb/sth
+  eine Decke über den Verletzten breiten: to spread a blanket over the injured man
+  Nebel breitete sich über die Felder.
+  Fog spread over the fields.
+
 brennen /ˈbrɛnən/: to burn , to be on fire
   Es brennt!
   Fire!
 
-Breze(l) /ˈbreːʦə(l)/, die: pretzel
+Breze(l) /ˈbreːʦə(l)/, die, -n: pretzel
 
 bricht => brechen
 
@@ -917,7 +936,7 @@ Brot /broːt/, das: bread
 
 Brötchen /ˈbrøːtçən/, das: bread, dinner roll
 
-Brotzeit /ˈbroːtʦait/, die: snack
+Brotzeit /ˈbroːtʦait/, die, -: snack
   Brotzeit machen: to have a break for a snack
 
 Bruch /brʊx/, der: break, breach
@@ -957,6 +976,10 @@ buchstabieren /buːxʃtaˈbiːrən/: to spell
   Mein Name ist Mayr – ich buchstabiere: Martha, Anton, Ypsilon, Richard.
   My name is Mayr – I'll spell it: Mike, Alpha, Yankee, Romeo.
 
+buddeln /ˈbʊdəln/: to dig
+  Die Kinder buddeln im Sand.
+  The kids are digging holes in the sand.
+
 bügeln /ˈbyːɡəln/: to iron
 
 Bulle /ˈbʊlə/, der: bull, cop
@@ -974,6 +997,11 @@ Bundeskanzler, Bundeskanzlerin: federal chancellor
   => Kanzler: chancellor
 
 Bündnispolitik, die: policy of alliances
+
+bunt /bʊnt/: colorful, colored
+  => farbig
+  bunte Bilder: colorful pictures
+  ein bunter Abend mit Musik und Sketchen: an evening of variety with music and sketches
 
 Burger /ˈbəːɡə/, der: burger
 
