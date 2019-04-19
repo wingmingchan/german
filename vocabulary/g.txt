@@ -326,6 +326,10 @@ gemessen /ɡəˈmɛsən/: measured, appropriate
 
 Gemüse /ɡəˈmyːzə/, das: vegetable
 
+gemütlich /ɡəˈmyːtlɪç/: comfortable, cozy, gemütlich
+  Ich finde es sehr gemütlich bei euch.
+  I find it very comfortable at your place.
+
 Gemütlichkeit /ɡəˈmyːtlɪçkait/, die: comfort, coziness
   Das Lokal ist wegen seiner Gemütlichkeit sehr beliebt.
   The bar is really popular for its cozy atmosphere.
@@ -394,12 +398,17 @@ geschah => geschehen
 
 Geschäft /ɡəˈʃɛft/, das: store, business, deal, trade
 
+Geschäftsmann: businessman
+
 geschehen /ɡəˈʃeːən/: to happen, to occur
   geschehe, geschiehst, geschieht, ihr gescheht, bin geschehen
 
 Geschichte /ɡəˈʃɪçtə/, die: story
 
-Geschäftsmann: businessman
+geschickt /ɡəˈʃɪkt/: skillful
+  => gewandt
+  handwerklich / mit seinen Händen sehr geschickt sein
+  to be very skilled with your hands
 
 geschehen /ɡəˈʃeːən/: to happen, to occur
   Ein Wunder ist geschehen!
@@ -443,7 +452,7 @@ Gesundheit /ɡəˈzʊnthait/, die: health
 
 getigert /ɡeˈtiːɡɐt/: striped
 
-Getränk /ɡəˈtrɛŋk/, das: beverage, drink
+Getränk /ɡəˈtrɛŋk/, das, -e: beverage, drink
 
 Gewalt, die: violence, force, power, authority
   Gewalt anwenden: to use force
@@ -457,9 +466,16 @@ gewaltig /ɡəˈvaltiç/: huge, vast, intense, almighty
 gewaltsam /ɡəˈvaltzaːm/: violent
   die gewaltsame Vertreibung der Dorfbewohner: the violent expulsion of the villagers
 
-Gewalttat /ɡəˈvalttaːt/, die: act of violence
+Gewalttat /ɡəˈvalttaːt/, die, -en: act of violence
+
+gewalttätig /ɡəˈvalttɛːtɪç/: violent
+  Immer wenn er getrunken hat, wird er gewalttätig.
+  Any time he's been drinking he turns violent.
 
 gewandt /ɡəˈvant/: skillful
+  => geschickt
+  Der Verteidiger war sehr gewandt.
+  The defender was very skillful.
 
 Gewehr /ɡəˈveːɐ/, das: rifle, shotgun
   Jagdgewehr: hunting rifle
@@ -601,9 +617,19 @@ griechisch: greek
 
 griff => greifen
 
+Grill /ɡrɪl/, der, -s: grill
+  die Steaks auf den Grill legen: to put the steaks on the barbecue
+
 grillen: to barbecue, to grill
+  Welche Gemüsesorten eignen sich denn zum Grillen?
+  What sorts of vegetables are suitable for barbecuing?
 
 Grinsen /ˈɡrɪnzən/, das: grin
+
+großartig /ˈɡroːs|artɪç/: wonderful, terrific, great
+  eine großartige Künstlerin / Leistung: a wonderful artist / a terrific performance
+  Das macht keinen großartigen Unterschied.
+  It doesn't make much of a difference.
 
 Größe /ˈɡrøːsə/, die: size
 
