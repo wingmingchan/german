@@ -38,6 +38,9 @@ sammeln /ˈzaməln/: to gather, to collect, to assemble
   Im Herbst gehen wir gerne Pilze sammeln.
   We like to go mushroom picking in the fall.
 
+Sand /zant/, der, -e: sand
+  im Sand spielen: to play in the sand
+
 sanft /zanft/: gentle, soft
   ein sanftes Wesen haben: to have a gentle nature
   das sanfte Streicheln des Windes auf ihrer Haut
@@ -75,6 +78,8 @@ saugfähig /ˈzaukfɛːɪç/: absorbent
   saugfähiges Küchenpapier: absorbent kitchen paper
 
 Säugling /ˈzɔyklɪŋ/, der: infant, baby
+
+Säule /ˈzɔylə/, die, -n: pillar, column
 
 Schach /ʃax/, das: chess
   Schach spielen: to play chess
@@ -173,6 +178,7 @@ scheitern /ˈʃaitɐn/: to fail, to fall through, to collapse, to break down
 schenken /ˈʃɛŋkən/: to give (as a present), to donate
   => Geschenk: gift
   Geschenkt! Forget it!
+  jdm ein freundliches Lächeln schenken: to give sb a friendly smile
 
 scheuen /ˈʃɔyən/: to spare, to shrink from, to shy
   Wir haben für das Fest weder Kosten noch Mühe gescheut.
@@ -587,6 +593,13 @@ setzen /ˈzɛʦən/: to sit, to set
 sexuell /zɛˈksuɛl/: sexual
 
 sicher /ˈzɪçɐ/: certain, clear, positive, safe, secure, steady, sure
+  sich irgendwo sicher fühlen: to feel safe somewhere
+  Das weiß ich aus sicherer Quelle.
+  I have that from a reliable source.
+  Ich bin (mir) sicher, dass ich das schaffe.
+  I'm sure I can do it.
+  Sie wirkt immer sehr sicher und selbstbewusst.
+  She always comes across as very assured and self-confident.
 
 Sicherheit /ˈzɪçɐhait/, die: safety, security, certainty
   Hier bist du in Sicherheit.
@@ -746,6 +759,7 @@ Speise /ˈʃpaizə/, die, -n: dish
 spenden /ˈʃpɛndən/: to donate, to give, to provide
   Das Feuer spendete wohlige Wärme.
   The fire gave off a pleasant warmth.
+  Große Kastanienbäume spenden Schatten.
 
 Sperma /ˈʃpɛrma/, das, Spermen /ˈʃpɛrmən/: sperm
 
@@ -829,6 +843,8 @@ Staatsbesuch, der: state visit
 Staatsgründung: founding of a state
 
 Stäbchen /ˈʃtɛːpçən/, das: chopstick
+
+Stadion /ˈʃtaːdjɔn/, das, Stadien: stadium
 
 Stadt /ʃtat/, Städte, die: city
 
@@ -952,7 +968,7 @@ Steuer /ˈʃtɔyɐ/, die: tax
 Stich /ʃtɪç/, der: sting, bite, stab wound
   jdn im Stich lassen: to let sb down
 
-Stichprobe /ˈʃtɪçproːbə/, die: spot check, random sample
+Stichprobe /ˈʃtɪçproːbə/, die, -n: spot check, random sample
   Stichproben machen: to carry out spot checks
 
 Stichwort /ˈʃtɪçvɔrt/, das: headword, keyword, keypoint, cue
@@ -1005,7 +1021,7 @@ stoßen /ˈʃtoːsən/: to push, to shove, to strike, to bump
   jdn ins Wasser stoßen: to push sb into the water
   mit dem Kopf an die Decke stoßen: to bump your head on the ceiling
 
-Strafe /ˈʃtraːfə/, die: punishment, fine
+Strafe /ˈʃtraːfə/, die, -n: punishment, fine
   Er bekam von seinen Eltern zur Strafe Hausarrest.
   He was grounded by his parents as a punishment.
   => Geldbuße
@@ -1063,7 +1079,6 @@ Strom /ʃtroːm/, der: electricity, torrent, stream, current
 
 strömen /ˈʃtrøːmən/: to stream, to flow, to flock, to gush, to pour
 
-
 Stück /ʃtʏk/, das: piece, bit, play
   ein Stück Kuchen abschneiden
   to cut a piece of cake
@@ -1114,4 +1129,4 @@ Symbol /zʏmˈboːl/, das: symbol
   the dove as a symbol of peace
 
 
-System /zʏsˈteːm/, das
+System /zʏsˈteːm/, das, -e
