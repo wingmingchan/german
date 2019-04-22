@@ -67,7 +67,9 @@ passen /ˈpasən/: to fit
   Die Beschreibung passt genau auf ihn.
   The description matches him exactly. 
 
-passend /ˈpasənt/: suitable
+passend /ˈpasənt/: suitable, fitting
+  Das ist nun wirklich nicht die passende Kleidung für einen festlichen Anlass.
+  Those clothes really aren't suitable for a formal occasion.
 
 passieren /paˈsiːrən/: to occur, to happen
   Da muss ein Unglück passiert sein.
@@ -193,6 +195,7 @@ prächtig /ˈprɛçtɪç/: splendid, magnificent
 Präsens /ˈprɛːzɛns/, das: present (tense)
 
 präsentieren /prɛzɛnˈtiːrən/: to present
+  eine Erfindung der Öffentlichkeit präsentieren: to present an invention in public
 
 Präsident /prɛziˈdɛnt/
 
