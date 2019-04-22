@@ -3,7 +3,10 @@ F /ɛf/ F wie Friedrich
 ========================================================
 
 Fabel /ˈfaːbəl/, Fabeln: fable
-  die Fabeln Äsops: Aesop's fables 
+  die Fabeln Äsops: Aesop's fables
+
+Fachsprache /ˈfaxʃpraːxə/, die, -n: technical language/jargon
+  die juristische / medizinische Fachsprache: legal jargon/medical language
 
 Faden /ˈfaːdən/, der, Fäden: thread
   einen Faden in die Nadel einfädeln: to thread the needle 
@@ -249,6 +252,9 @@ festdrehen: to screw up tightly
 festhalten /ˈfɛsthaltən/: to hold on to, to detain, to record, to stand by sb
   jdn am Arm festhalten: to hold on to sb's arm
 
+festlich /ˈfɛstlɪç/: formal, festive
+  Kleidung für festliche Anlässe: clothing for festive occasions
+
 Festnahme /ˈfɛstnaːmə/, die: arrest
   Er sitzt seit seiner Festnahme in Köln in Untersuchungshaft.
   Since his arrest he's been in custody awaiting trial in Cologne.
@@ -322,6 +328,10 @@ fleißig /ˈflaisɪç/: hardworking, diligent
 fliehen /ˈfliːən/: to flee
   Tausende flohen vor dem Hochwasser aus der Stadt.
   Thousands fled the city to escape the floods.
+
+Fliese /ˈfliːzə/, die, -n: tile
+  Auf dem Fußboden im Bad sind weiße Fliesen verlegt.
+  There are white tiles on the floor of the bathroom.
 
 fließen /ˈfliːsən/: to flow
 
