@@ -580,6 +580,11 @@ Ankunft /ˈankʊnft/, die, ..e: arrival
   Die Ankunft des Zuges verzögert sich voraussichtlich um 10 Minuten.
   The arrival of the train is expected to be delayed by 10 minutes.
 
+Anlass /ˈanlas/, der, ..e: reason, cause, occasion
+  Es besteht Anlass zu der Hoffnung, dass …
+  There are grounds for hope that…
+  ein festlicher Anlass: a festive occasion
+
 anlegen /ˈanleːɡən/: to lay out, to set up, to invest
   ein neues Gemüsebeet anlegen: to lay out a new bed
   ein Sparbuch anlegen: to open a savings account
@@ -1196,6 +1201,14 @@ Ausstieg /ˈausʃtiːk/, der: pullout, withdrawal, exit
 Auswahl /ˈausvaːl/, die: -en: selection
   Angesichts des großen Angebots fällt die Auswahl schwer.
   With so much to choose from it's hard to decide.
+
+ausüben /ˈaus|yːbən/: to carry out, to exercise, to have
+  Er hat Beruf zwar erlernt, aber nie ausgeübt.
+  He trained for this profession but never worked in it.
+  Das Regime versucht, Kontrolle über die Medien auszuüben.
+  The regime is trying to exercise control over the media.
+  Computer üben einen unwiderstehlichen Reiz auf ihn aus.
+  Computers have an irresistible fascination for him.
 
 Ausweisung /ˈausvaizʊŋ/, die: expulsion
 
