@@ -30,6 +30,8 @@ verabschieden /fɛɐˈ|apʃiːdən/: to say goodbye, to see off, to pass, to ado
   The budget was adopted by parliament yesterday.
 
 verändern /fɛɐˈ|ɛndɐn/: to change
+  Bitte verändern Sie nichts an der Versuchsanordnung.
+  Please do not change anything in terms of the set-up of the experiment.
   Sie hat sich in den letzten Jahren sehr verändert.
   She has changed a lot over the last few years.
 
@@ -48,6 +50,11 @@ verbergen /fɛɐˈbɛrɡən/: to hide
 verbieten /fɛɐˈbiːtən/: to forbid
   Meine Eltern haben mir verboten, mit dir zu spielen.
   My parents have forbidden me from playing with you.
+
+verbinden /fɛɐˈbɪndən/: to dress, to bandage, to bind, to connect, to join, to combine
+  Der Arzt reinigte und verband die Wunde.
+  The doctor cleaned and dressed the wound.
+  das Angenehme mit dem Nützlichen verbinden: to combine the pleasant with the useful
 
 Verbindung /fɛɐˈbɪndʊŋ/, die: connection, link
   Die kürzeste Verbindung zwischen zwei Punkten heißt Strecke.
@@ -124,6 +131,8 @@ verfügen /fɛɐˈfyːɡən/: to have (at your disposal), to be in charge, to or
 
 vergangen /fɛɐˈɡaŋən/: past, previous, last
   => vergehen
+  In den vergangenen Jahren waren die Umsätze höher.
+  Turnover was higher in previous years.
 
 Vergangenheit /fɛɐˈɡaŋənhait/, die: past
 
@@ -245,6 +254,15 @@ verlassen /fɛɐˈlasən/: to leave, to abandon
   
 verlassen: deserted, lonely, abandoned
 
+verlegen /fɛɐˈleːɡən/: to move, to mislay, to lose, to lay
+  Er wurde auf die Intensivstation verlegt.
+  He was moved to the intensive care unit.
+  Ihr Chef hat die Sitzung auf Montag verlegt.
+  Her boss has moved the meeting to Monday.
+  Sie hat wieder einmal ihre Schlüssel verlegt.
+  She has lost her keys again.
+  neue Wasserleitungen verlegen: to lay new water pipes
+
 verlegen /fɛɐˈleːɡən/: embarrassed
   Sie ist in seiner Gegenwart immer verlegen.
   She's always embarrassed when he's around.
@@ -346,7 +364,13 @@ verschieben /fɛɐˈʃiːbən/: to move
   Sie mussten ihren Urlaub verschieben.
   They had to put their vacation off.
 
-verschieden /fɛɐˈʃiːdən/: different
+verschieden /fɛɐˈʃiːdən/: different, various
+  Unsere Interessen sind wohl zu verschieden.
+  Our interests are probably too different.
+  Unsere Gäste kommen aus den verschiedensten Ländern.
+  Our guests come from many different countries.
+  Es sind noch verschiedene Punkte zu klären.
+  Various points still need to be clarified.
 
 verschleiern /fɛɐˈʃlaiɐn/: to (cover with a) veil, to cover up, to conceal
   das Gesicht verschleiern: to cover your face with a veil
@@ -471,6 +495,8 @@ Verwandte /fɛɐˈvantə/: relative, relation
 
 verwirren /fɛɐˈvɪrən/: to confuse, to bewilder, to ruffle, to get tangled up
   Weißes Haus verwirrt
+  Sein nächtlicher Anruf hat mich völlig verwirrt.
+  I was completely bewildered by his night-time phone call.
 
 Verwirrung /fɛɐˈvɪrʊŋ/, die: confusion
   In der allgemeinen Verwirrung machte er sich mit dem Geld davon.
