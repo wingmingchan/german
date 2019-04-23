@@ -106,6 +106,7 @@ Schale /ˈʃaːlə/, Schalen: (fruit) skin, shell
   Die meisten Vitamine stecken beim Apfel direkt unter der Schale.
   Most vitamins lie directly under the skin of an apple.
   Muschelschalen sammeln: to collect shells
+  Bananenschalen: banana peels
 
 schalten: to switch, to turn, to shift gear, to connect
   den Fernseher auf Standby schalten: to turn the TV to standby
@@ -247,6 +248,15 @@ Schlauchboot /ˈʃlauxboːt/, das: rubber dinghy, rubber boat, life raft
 
 schleichen /ˈʃlaiçən/: to creep, to crawl
 
+schleppen /ˈʃlɛpən/: to drag
+  einen Wagen in die Werkstatt schleppen: to tow a car to the shop
+  Kisten in den zweiten Stock schleppen: to lug boxes up to the third floor
+  Meine Eltern haben mich gestern ins Museum geschleppt.
+  My parents dragged me along to the museum yesterday.
+  sich völlig erschöpft zum Bett schleppen: to drag yourself totally exhausted to bed
+  Das Verfahren schleppte sich über mehrere Monate.
+  The proceedings dragged on for several months.
+
 schließen /ˈʃliːsən/: to close, conclude, contract, fasten, reason, shut, shut up, wind up
   Würdest du bitte das Fenster schließen?
   Would you close the window, please?
@@ -284,6 +294,18 @@ Schmatz /ʃmaʦ/, der: smacker
 
 schmecken: to taste, to like
   Hat's geschmeckt?
+
+schmeißen /ˈʃmaisən/: to chuck, to throw, to drop, to manage, to put on
+  => werfen
+  den Ball über den Zaun schmeißen: to chuck the ball over the fence
+  Pass auf, dass du nichts vom Tisch schmeißt.
+  Be careful not to knock anything off the table.
+  Kannst du den Laden morgen mal allein schmeißen?
+  Can you manage on your own in the store tomorrow?
+  Wenn du zurückkommst, schmeißen wir ein großes Fest.
+  We'll throw a big party when you get back.
+  Für das Vorstellungsgespräch hat er sich in einen Anzug geschmissen.
+  He put on a suit for the interview.
 
 Schmerz /ʃmɛrʦ/, der: pain
   ein stechender Schmerz im Knie: a stabbing pain in your knee 
@@ -722,6 +744,10 @@ sorgen /ˈzɔrɡən/: to cater, to provide, to ensure, to worry, to cause
 Sorte /ˈzɔrtə/, die, -n: sort, kind, type
   Es gab mehrere Sorten Käse und Wurst zur Auswahl.
   There was a selection of different types of cheese and sausage.
+
+sortieren /zɔrˈtiːrən/: to sort
+  Die Stücke werden nach der Größe / Farbe sortiert.
+  The items are sorted by size/color.
 
 sowie /zoˈviː/: and, as well as
 
