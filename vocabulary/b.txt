@@ -276,6 +276,10 @@ behalten /bəˈhaltən/: to keep, to remember
   Mama, kann ich den Hund behalten?
   Mom, can I keep the dog?
 
+Behälter /bəˈhɛltɐ/, der, -: container
+  Das Öl wird dann in kleinere Behälter umgefüllt.
+  The oil is then transferred to smaller containers.
+
 behandeln /bəˈhandəln/: to treat
   Er hat mich sehr unhöflich behandelt.
   He treated me very impolitely.
@@ -615,6 +619,7 @@ Beute /ˈbɔytə/, die, Beute: loot, booty, spoils, prey
 
 Beutel /ˈbɔytəl/, der: bag
   Einkaufsbeutel: shopping bag
+  Teebeutel: tea bag
 
 Bevölkerung /bəˈfœlkərʊŋ/: population, people
 
@@ -1005,6 +1010,9 @@ bunt /bʊnt/: colorful, colored
   => farbig
   bunte Bilder: colorful pictures
   ein bunter Abend mit Musik und Sketchen: an evening of variety with music and sketches
+
+Burg /bʊrk/, die, -en: castle
+  Ritterburg: knight's castle
 
 Burger /ˈbəːɡə/, der: burger
 
