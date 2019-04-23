@@ -69,6 +69,10 @@ egal /eˈɡaːl/: whatever, irrelevant
   "When should I come?" – "Any time."
 
 eher /ˈeːɐ/: rather
+  Ich würde eher in die Berge als ans Meer fahren.
+  I'd rather go into the mountains than to the ocean.
+  Das Wasser war eher kalt als warm.
+  The water was cold rather than warm.
 
 eheste /ˈeːɐstə/: earliest
   Das ist der eheste Zug, den wir erreichen können.
@@ -269,6 +273,21 @@ einloggen /ˈainlɔɡən/: to log in/on
   to log in with your user name and password
 
 einlud => einladen
+
+einmal /ˈainmaːl/: once, at once, one day, sometime
+  Sie war erst einmal im Ausland.
+  She's only been abroad once before.
+  auf einmal: suddenly
+  Auf einmal konnte sie nichts mehr sehen.
+  Suddenly she was unable to see anything.
+  Er hat den ganzen Kuchen auf einmal gegessen.
+  He ate the whole cake at one go.
+  Er möchte später einmal Pilot werden.
+  He'd like to be a pilot someday.
+  Es war einmal ein König …
+  Once upon a time there was a king …
+  Komm doch einmal auf einen Kaffee vorbei, ich würde mich freuen.
+  Why don't you drop by for a coffee sometime? I'd like that.
 
 einpacken /ˈainpakən/: to wrap (up), to pack
   Weihnachtsgeschenke einpacken: to wrap up Christmas presents
@@ -508,6 +527,10 @@ entschuldigen /ɛntˈʃʊldɪɡən/: to excuse, to pardon
 Entschuldigung /ɛntˈʃʊldɪɡʊŋ/, die, -en: apology, excuse
   Sie murmelte eine Entschuldigung.
   She mumbled an apology.
+
+entsorgen /ɛntˈzɔrɡən/: to dispose of
+  Abfälle umweltfreundlich entsorgen
+  to dispose of waste in an environmentally friendly way
 
 entstehen /ɛntˈʃteːən/: to originate, to arise, to come into being, to be created
   Wie entstehen Blitz und Donner?
