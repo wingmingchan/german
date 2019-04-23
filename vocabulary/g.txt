@@ -316,6 +316,8 @@ geltend: current, established, applicable, valid, in force
 gemächlich /ɡəˈmɛːçlɪç/: leisurely , unhurried
 
 Gemeinde /ɡəˈmaində/, die: municipality, community
+  Bund, Länder und Gemeinden
+  the Federal Government, the Federal States, and the municipalities
 
 gemeinsam /ɡəˈmainzaːm/: common, joint, mutual, united, collectively, together, in common, in concert
   gemeinsam wandern/singen: to go hiking/to sing together
@@ -397,6 +399,8 @@ Geringfügigkeit: pettiness, triviality
 Geröll /ɡəˈrœl/, das: debris, pebbles, gravel
 
 gerundet: rounded
+
+gesammelt: collected
 
 geschah => geschehen
 
@@ -540,9 +544,20 @@ glänzend /ˈɡlɛnʦənt/: glossy, shiny, brilliant
   Es geht mir glänzend!
   I'm doing real good.
 
-gleich /ɡlaiç/: same, equal
+gleich /ɡlaiç/: same, equal, immediately, straightaway
   Die beiden Arbeiten haben die gleiche Zahl von Fehlern.
   The two papers have the same number of mistakes.
+  => sofort
+  gleich nach der Schule: straight after school
+  Sie wohnt gleich neben dem Bahnhof.
+  She lives right next to the station.
+  ## to express surprise, annoyance, etc. and not translated
+  Er hat gleich drei Stück Kuchen gegessen.
+  He scoffed three pieces of cake.
+  Wie war gleich noch Ihre Adresse?
+  What was her address again?
+  Wenn wir nicht bald anfangen, können wir es gleich lassen!
+  If we don't get started soon, we might as well just forget it.
 
 gleichaltrig /ˈɡlaiç|altrɪç/: of the same age
 
@@ -672,6 +687,7 @@ günstig /ˈgʏnstɪç/: favorable, convenient, reasonable
   günstig einkaufen: to buy things at attractive prices
 
 Gurke /ˈɡʊrkə/, die, -n: cucumber
+  Gurken anbauen: to grow cucumbers
 
 gut /ɡuːt/: good
   Für die Jahreszeit war das Wetter ganz gut.
