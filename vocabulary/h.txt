@@ -187,6 +187,7 @@ Hausmeister: super(intendant), janitor
 Hausmittel /ˈhausmɪtəl/, das: household remedy
 
 Haustür, die: front door
+  vor der Haustür: on one's doorstep
 
 Haut /haut/, die: skin
   zarte/raue/empfindliche Haut haben
