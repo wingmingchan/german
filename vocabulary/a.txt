@@ -450,6 +450,14 @@ an /an/: at, on, from, against
   Das Radio ist noch an.
   The radio's still on. 
 
+Ananas /ˈananas/, die, -, -se: pineapple
+  Ananassaft: pineapple juice
+
+anbauen /ˈanbauən/: to grow, to build an extension (to)
+  In Sri Lanka wird sehr viel Tee angebaut.
+  In Sri Lanka huge quantities of tea are grown.
+  einen Wintergarten (an ein Haus) anbauen: to add a conservatory (to a house)
+
 anbieten /ˈanbiːtən/: to offer
   Welche Wahlfächer bietet die Schule an?
   Which electives does the school offer?
@@ -476,7 +484,11 @@ anderenfalls /ˈandərənfals/: otherwise
   Kann ich meine Bestellung noch ändern?
   Is it still possible for me to change my order?
 
-anders /ˈandɐs/: differently
+anders /ˈandɐs/: differently, else
+  Wir machen das so und nicht anders.
+  That's how we're doing it – and no differently.
+  Der Schrank hat nirgendwo anders Platz.
+  There's no room for the closet anywhere else.
 
 andersherum /ˈandɐshɛrʊm/: the other way around
   Vielleicht sollten wir das Bett andersherum stellen.
@@ -930,6 +942,16 @@ aufpassen /ˈaufpasən/: to be careful, to pay attention
 
 aufregen /ˈaufreːɡən/: to get upset/worried/excited
 
+aufreißen /ˈaufraisən/: to tear open, to open wide, to pick up, to burst (open)
+  Ungeduldig riss sie die Verpackung auf.
+  She impatiently ripped the package open.
+  Entsetzt riss sie die Augen auf.
+  Her eyes dilated in horror.
+  in der Disco Mädchen aufreißen: to pick up girls at the disco
+  Die Naht / Tüte ist aufgerissen.
+  The stitch tore/The bag burst.
+
+
 aufrichtig /ˈaufrɪçtɪç/: sincere, honest
   aufrichtigen Dank empfinden: to be sincerely grateful 
 
@@ -962,6 +984,15 @@ auftragen /ˈauftraːɡən/: to tell sb to do sth, to apply sth to sth
   Farbe auf die Wand auftragen: to put paint on the wall
 
 Auftreten /ˈauftreːtən/, das: occurrence, appearance, behavior
+
+auftreten /ˈauftreːtən/: to perform, to appear, to arise, to occur, to act
+  Zahlreiche Künstler haben angekündigt, ohne Gage aufzutreten.
+  A large number of artists have announced that they will be performing for free.
+  Bei höheren Temperaturen tritt dieser Effekt nicht auf.
+  This effect does not occur at higher temperatures.
+  selbstsicher auftreten: to have a confident manner
+  als Vermittler / Zeuge auftreten
+  to act as an intermediary/appear as a witness
 
 Auftritt /ˈauftrɪt/, der, Auftritte: appearance, performance, (theatre) scene
 
@@ -1218,7 +1249,11 @@ Ausweitung /ˈausvaitʊŋ/, die: expansion
 
 auswendig /ˈausvɛndɪç/: by heart
   ein Gedicht auswendig vortragen: to recite a poem by heart
-  
+
+auswirken /ˈausvɪrkən/
+  sich irgendwie (auf jdn / etw.) auswirken: to affect (on sb/sth) in a certain way
+  sich positiv / negativ auf die Wirtschaft auswirken
+  to have a positive/negative effect on the economy
 
 auszählen: to count
 
