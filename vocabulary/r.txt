@@ -89,6 +89,8 @@ rauchen /ˈrauxən/: to smoke
   Stört es Sie, wenn ich rauche?
   Do you mind if I smoke?
 
+Rauhaardackel: wire-haired dachshund
+
 Raum /raum/, Räume /ˈrɔymə/, der: room, space
   Es wurde still, als die Lehrerin den Raum betrat.
   It went quiet when the teacher entered the room.
@@ -146,6 +148,8 @@ recken /ˈrɛkən/: to stretch
 
 recyceln /riˈsaikəln/: to recycle
   Altpapier und Altglas recyceln: to recycle waste paper and glass
+
+Recycling /riˈsaiklɪŋ/, das, (uncountable): recycling
 
 Rede /ˈreːdə/, die: speech
   zum Amtsantritt eine Rede halten: to give/make a speech on entering office
@@ -216,7 +220,12 @@ Renteneintritt, der: retirement
 
 Reservierung: reservation
 
-Rest /rɛst/, der: rest, remainder
+Rest /rɛst/, der, -e: rest, remainder, leftovers, remains
+  Was habt ihr den Rest des Tages gemacht?
+  What did you do for the rest of the day?
+  Ich mach dir die Reste vom Mittagessen warm.
+  I'll heat up the leftovers from lunch for you.
+  die Reste eines antiken Tempels: the remains of an ancient temple
 
 retten /ˈrɛtən/: to rescue, to save
   jdm das Leben retten: to save sb's life
