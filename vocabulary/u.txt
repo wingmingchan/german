@@ -18,6 +18,14 @@ U /uː/ U wie Ulrich, Ü wie Übermut
 
 überall /yːbɐˈ|al/: everywhere
 
+Überblick /ˈyːbɐblɪk/, der, -e: view, perspective, overview
+  Von der Burg aus hat man einen guten Überblick über die Stadt.
+  From the castle you have a good view over the city.
+  Er hat völlig den Überblick verloren.
+  He has completely lost his perspective.
+  Das Werk bietet einen Überblick über den Stand der Forschung.
+  The work presents an overview of current research.
+
 überfluten /yːbɐˈfluːtən/: to flood
   Der Fluss hat ganze Landstriche überflutet.
   The river flooded entire tracts of land.
@@ -144,10 +152,16 @@ umbuchen /ˈʊmbuːxən/: to change (your booking for)
   Ich werde versuchen, Sie / Ihren Flug umzubuchen.
   I'll try and change your booking for you/flight.
 
+umfallen /ˈʊmfalən/: to fall over
+  Das Glas ist umgefallen.
+  The glass fell over.
+
 umfänglich /ˈʊmfɛŋlɪç/: extensive
 
 Umfrage /ˈʊmfraːɡə/, die: survey, poll
   eine Umfrage durchführen: to conduct a survey
+
+umfüllen: to transfer into another bottle/container etc.
 
 Umgang /ˈʊmɡaŋ/, der: contact, dealings
   freundschaftlichen Umgang mit jdm pflegen: to have friendly dealings with sb
@@ -162,6 +176,14 @@ umgeben /ʊmˈɡeːbən/: to surround
   The house was surrounded by a hedge.
 
 umgebracht => umbringen
+
+umgehen /ˈʊmɡeːən/: to deal with, to circulate, to avoid, to get around
+  Er kann nicht mit Geld umgehen.
+  He's no good with money.
+  Ein Gerücht geht um.
+  A rumor is going around.
+  Sie umging die Antwort auf seine Frage.
+  She avoided answering his question.
 
 umgehend /ˈʊmɡeːənt/: immediate
   Um umgehende Antwort wird gebeten.
