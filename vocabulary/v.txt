@@ -319,6 +319,9 @@ veröffentlichen /fɛɐˈ|œfəntlɪçən/: to publish
 
 verpacken /fɛɐˈpakən/: to pack(age), to wrap (up)
 
+Verpackung /fɛɐˈpakʊŋ/, die, -en: packaging, wrapping
+  die Verpackung aufreißen: to tear open the packaging/wrapping
+
 Verpflegung /fɛɐˈpfleːɡʊŋ/, die: food, catering
   Habt ihr für den Ausflug genügend Verpflegung dabei?
   Have you taken enough food for the trip?
@@ -657,6 +660,16 @@ vorlegen /ˈfoːɐleːɡən/: to present, to produce, to show
 Vorlesung /ˈfoːɐleːzʊŋ/, die, -en: lecture
   Sie hält eine Vorlesung über moderne Architektur.
   She's giving a lecture on modern architecture.
+
+verlieren /fɛɐˈliːrən/: to lose
+  Ich kann den Ausweis nicht finden, vielleicht habe ich ihn verloren.
+  I can't find my ID card. Perhaps I've lost it.
+  Sie haben durch den Krieg alles verloren.
+  They lost everything in the war.
+  Das letzte Spiel verloren sie 2:1.
+  They lost their last match 2-1.
+
+verloren => verlieren
 
 vorn /fɔrn/: in front
 
