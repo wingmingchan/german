@@ -60,6 +60,10 @@ manch /manç/: some, many (a)
   Ich habe noch manch anderes zu tun.
   I've still got quite a few other things to do.
 
+manche /ˈmançə/: many, some
+  Manche von den Opfern / Manche der Opfer träumen heute noch davon.
+  Many of the victims still have dreams about it today.
+
 manchmal /ˈmançmaːl/: sometimes
 
 Mangel /ˈmaŋəl/, Mängel, der: shortage, lack, defect, fault, flaw
@@ -199,6 +203,11 @@ Messtechnik, die: measurement technology, metrology
 Metall /meˈtal/, das, -e: metal
   Leichtmetall: light metal
   Schwermetall
+
+Metzger, -, Metzgerin: butcher
+  => Fleischer
+
+Metzgerei /mɛʦɡəˈrai/, die, -en: butcher shop
 
 Milch /mɪlç/, die: milk
 
