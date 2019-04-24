@@ -170,6 +170,14 @@ Gegenangriff, der: counter-attack
 
 Gegenschlag /ˈɡeːɡənʃlaːk/, der: counter-strike
 
+Gegenstand /ˈɡeːɡənʃtant/, der, ..e: object
+  => Ding
+  Er wurde mit einem stumpfen Gegenstand erschlagen.
+  He was murdered with a blunt object.
+  => Thema
+  Das ist nicht Gegenstand dieser Diskussion.
+  That's not the subject of this conversation.
+
 Gegenstelle, die: remote terminal, distant end
 
 gegenüber /ɡeːɡənˈ|yːbɐ/: opposite, compared to, in comparison with, toward(s)
@@ -692,3 +700,5 @@ Gurke /ˈɡʊrkə/, die, -n: cucumber
 gut /ɡuːt/: good
   Für die Jahreszeit war das Wetter ganz gut.
   For the time of the year the weather was quite good.
+
+Güter, pl: goods
