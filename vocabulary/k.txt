@@ -377,11 +377,21 @@ krachen /ˈkraxən/: to crash, to bang
   An der Kreuzung kracht es öfter.
   There are often accidents at the intersection.
 
-Kraft /kraft/, die: strength
+Kraft /kraft/, die, ..e: strength, power
+  Er zog mit aller Kraft am Seil.
+  He pulled on the rope with all his strength.
+  übernatürliche Kräfte haben: to have supernatural powers
+
+kraft /kraft/: by virtue of
+  Der Bürgermeister hat kraft seines Amtes eine Stimme im Gemeinderat.
+  The mayor has a vote on the local council by virtue of his office.
 
 kräftig /ˈkrɛftiç/: powerful, strong, healthy
   Er gab der Schaukel einen kräftigen Schubs.
   He gave the swing a powerful push.
+
+Kraftwerk /ˈkraftvɛrk/, das, -e: power station
+  Wasserkraftwerk: hydroelectric power station
 
 Kragen /ˈkraːɡən/, der, Krägen: collar
   ein Hemd mit zu engem Kragen: a shirt with a tight collar
