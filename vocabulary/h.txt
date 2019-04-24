@@ -248,6 +248,8 @@ Heiterkeit /ˈhaitɐkait/, die: cheerfulness, merriment
   Diese Bemerkung trug sehr zur allgemeinen Heiterkeit bei.
   That remark added greatly to the general amusement.
 
+Heizkraftwerk, das: thermal power station
+
 Held /hɛlt/, Heldin, Helden: hero
   Nach der Rettungsaktion wurde er als Held gefeiert.
   After the rescue operation he was celebrated as a hero.
@@ -377,6 +379,19 @@ Hilfe /ˈhɪlfə/, die: help
 Himmel /ˈhɪməl/, der: sky
 
 himmlisch /ˈhɪmlɪʃ/: heavenly, divine
+
+hin /hɪn/: in the direction of, till, to, toward
+  ein Zimmer zum Hof hin: a room facing the courtyard
+  Bis zu meinem Geburtstag ist es noch so lange hin!
+  It's still a long time till my birthday.
+  hin und her: back and forth
+  hin (und zurück): one-way (round trip)
+  „Bitte eine Fahrkarte nach München.‟ – „Einfach oder hin und zurück?‟ – „Nur hin, bitte.‟
+  "A ticket to Munich, please." – "One way or round trip?" – "Just one way, please."
+  hin und wieder: von Zeit zu Zeit, now and then
+  Sie summte leise vor sich hin.
+  She was humming quietly to herself.
+  hin sein: to be broken, to be ruined, to be exhausted, to have kicked the bucket
 
 hinaus /hɪˈnaus/: out
 
