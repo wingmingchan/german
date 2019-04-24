@@ -86,6 +86,8 @@ ehrlich /ˈeːɐlɪç/: honest
   Möchtest du eine ehrliche Antwort?
   Do you want an honest answer?
 
+Ehrlichkeit /ˈeːɐlɪçkait/, die, (uncountable): honesty
+
 Ei /ai/, das, Eier: egg
 
 ei: oh
@@ -365,6 +367,12 @@ Eintritt /ˈaintrɪt/, der: admission, entrance, entry
 Einweg-: disposable
   Einweg-Plastikflaschen
 
+einwerfen /ˈainvɛrfən/: to insert, to mail, to smash
+  Könntest du diesen Brief für mich einwerfen?
+  Could you mail this letter for me?
+  Die Jungen haben mit dem Ball die Fensterscheibe eingeworfen.
+  The boys smashed the windowpane with the ball.
+
 Einwohner /ˈainvoːnɐ/: inhabitants
   Wie viele Einwohner hat München?
   How many inhabitants are there in Munich?
@@ -504,6 +512,12 @@ entlassen /ɛntˈlasən/: to dismiss, to let go
 entmannen: to castrate
 
 entmachten /ɛntˈmaxtən/: disempower
+
+entnehmen /ɛntˈneːmən/: to take, to extract, to remove
+  Blutproben / Bodenproben entnehmen: to take blood/soil samples
+  (aus) etw. etw. entnehmen: to infer sth from sth
+  Ich entnahm seinen Worten, dass die Entscheidung bereits gefallen war.
+  I inferred from his words that the decision had already been taken.
 
 entschärfen /ɛntˈʃɛrfən/: to defuse, to disarm
 
@@ -759,6 +773,12 @@ erringen /ɛɐˈrɪŋən/: to achieve
 erschaffen /ɛɐˈʃafən/: to create
   Gott erschuf die Welt und den Menschen.
   God created the world and humankind.
+
+erschlagen /ɛɐˈʃlaːɡən/: to kill, to slay, to overwhelm
+  Er hat den Mann mit einem Knüppel erschlagen.
+  He bludgeoned the man to death.
+  Ich war von den vielen neuen Eindrücken völlig / wie erschlagen.
+  I was completely/I felt overwhelmed by all the new impressions.
 
 erschrak => erschrecken
 
