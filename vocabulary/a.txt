@@ -290,9 +290,17 @@ Adresse /aˈdrɛsə/, die, -n: address
 Affe /ˈafə/, der, Affen: monkey, ape
   die Affen im Zoo: the monkeys in the zoo 
 
-ähnlich: similar
+ähnlich /ˈɛːnlɪç/: similar
   Sie ist ihrer Schwester sehr ähnlich.
   She's very like her sister.
+  oder / und Ähnliches: or/and the like
+  Sie sehen sich zum Verwechseln ähnlich.
+  They're like two peas in a pod.
+  so ähnlich wie: kind of like
+  Er sieht so ähnlich aus wie Klaus.
+  He looks kind of like Klaus.
+  Sie heißt Schnorrenhöfer oder so ähnlich.
+  She's called Schnorrenhöfer or something like that.
 
 ahnen /ˈaːnən/: to foresee, to sense
   Das konnte ich ja nicht ahnen!
@@ -326,7 +334,7 @@ aktivieren /aktiˈviːrən/: to activate
   Viele Parteimitglieder wurden aktiviert, bei dem Fest mitzuhelfen.
   Many party members were mobilized to help at the festivities.
 
-aktuell /aktuˈɛl/: topical, up-to-date, relevant
+aktuell /aktuˈɛl/: topical, up-to-date, relevant, current
   Aktuelles aus aller Welt: news from around the world
   Ist das Thema Hauskauf bei euch noch aktuell?
   Are you still thinking of buying a house?
@@ -489,6 +497,7 @@ anders /ˈandɐs/: differently, else
   That's how we're doing it – and no differently.
   Der Schrank hat nirgendwo anders Platz.
   There's no room for the closet anywhere else.
+  ich kann nicht anders: I cannot do otherwise
 
 andersherum /ˈandɐshɛrʊm/: the other way around
   Vielleicht sollten wir das Bett andersherum stellen.
@@ -571,6 +580,10 @@ Angst /aŋst/, die: fear, worry
 
 angst
   jd hat/bekommt Angst: sb is/gets scared (stiff)
+
+anheben /ˈanheːbən/: to lift up
+  Legen Sie sich auf den Rücken, spannen die Bauchmuskeln und heben die Füße leicht an.
+  Lie on your back, tense your stomach muscles and lift your feet up a little.
 
 Anhänger /ˈanhɛŋɐ/, der: trailer, pendant, follower
   <=> Gegner
@@ -900,6 +913,8 @@ aufgrund /aufˈɡrʊnt/: because of
   => wegen
   jdn aufgrund mangelnder Beweise freisprechen
   to acquit sb due to lack of evidence
+
+aufklappen: to open up, to lift up, to fold back, to open
 
 aufkreuzen /ˈaufkrɔyʦən/: to show up
   Er ist plötzlich wieder bei seinen Eltern aufgekreuzt.
