@@ -137,6 +137,10 @@ dazugehörig /daˈʦuːɡəhøːrɪɡə/: appropriate, proper, corresponding
 
 Decke /ˈdɛkə/, die: blanket
 
+Deckel /ˈdɛkəl/, der, -: top, lid, cover
+  Flaschendeckel: bottle cap
+  den Deckel aufklappen: to lift the cover
+
 decken /ˈdɛkən/: to cover
   Der Schaden ist durch die Versicherung gedeckt.
   The damage is covered by the insurance.
@@ -229,6 +233,10 @@ Deutsch /dɔytʃ/, das
   Deutscher Schäferhund: German shepherd
 
 Deutscher, Deutsche, Deutschen
+  Sind Sie Deutscher?
+  Are you German?
+  Das Wort kommt aus dem Deutschen.
+  The word comes from German.
 
 d. h., das heißt: i.e.
 
@@ -324,6 +332,11 @@ drehen /ˈdreːən/: to turn, to rotate, to spin, to shoot (photo, film)
 Drehkreuz /ˈdreːkrɔyʦ/, das, -e: turnstile
   Wir mussten am Eingang durch ein Drehkreuz gehen.
   We had to go through a turnstile at the entrance.
+
+drin /drɪn/: in it/them
+  => darin
+  Du hast ja gestern ein Paket bekommen; was war denn drin?
+  You got a package yesterday. What was in it by the way?
 
 dritte: third
 
