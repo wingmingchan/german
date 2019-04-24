@@ -240,6 +240,9 @@ Schlagstock /ˈʃlaːkʃtɔk/, der: baton, nightstick
   Die Beamten setzten Tränengas und Schlagstöcke gegen die Demonstranten ein.
   The officers employed tear gas and batons against the demonstrators.
 
+Schlagzeile /ˈʃlaːkʦailə/, die, -n: headline
+  etw. / jd sorgt für / macht Schlagzeilen: sth/sb is making headlines
+
 schlank /ʃlaŋk/: slim, slender
   Du bist aber schlank geworden, hast du eine Diät gemacht?
   You're so slim. Have you been on a diet?
@@ -404,6 +407,10 @@ Schubs /ʃʊps/, der: shove, push
   Sie gab dem Schlitten einen Schubs, sodass er sich in Bewegung setzte.
   She gave the sled a push to get it moving.
 
+schuften /ˈʃʊftən/: to slave away
+  für einen Erfolg schwer schuften müssen: to have to really slave to be successful
+  sich zu Tode schuften: to work yourself to death
+
 Schuh /ʃuː/, der: shoe
   ein Paar Schuhe: a pair of shoes
 
@@ -546,6 +553,9 @@ Sehenswürdigkeit /ˈzeːənsvʏrdɪçkait/, die, Sehenswürdigkeiten: tourist a
 sehnen /ˈzeːnən/: to long for sb/sth
   Sie sehnt sich nach Liebe und Geborgenheit.
   She longed for love and security.
+
+Sehnsucht /ˈzeːnzʊxt/, die, ..e: longing, yearning
+  Sehnsucht nach Liebe haben: to yearn for love
 
 sehr /zeːɐ/: very
   Ich weiß sehr wohl, dass du mich anlügst!
@@ -1125,6 +1135,13 @@ Stufe /ˈʃtuːfə/, die: step, stair
   zwei Stufen auf einmal nehmen: to go up two steps at a time
 
 Stuhl /ʃtuːl/, der: chair
+
+stumm /ʃtʊm/: dumb, silent
+  Seit dem traumatischen Vorfall ist das Kind stumm.
+  The child has not spoken since that traumatic event.
+  Sie blieb den ganzen Abend stumm.
+  She didn't say a word all evening.
+  stumm nicken: to nod silently
 
 Stunde /ˈʃtʊndə/, die: hour
   eine halbe Stunde: half an hour
