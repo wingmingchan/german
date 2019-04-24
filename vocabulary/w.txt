@@ -77,9 +77,11 @@ Wange /ˈvaŋə/, die: cheek
 
 ward (poet) => werden
 
-Ware /ˈvaːrə/, die, Waren: product, article, goods
+Ware /ˈvaːrə/, die, -n: product, article, goods
+  => Güter
   Sie hatte Waren im Wert von hundert Euro gestohlen.
-  She had stolen goods worth a hundred euros. 
+  She had stolen goods worth a hundred euros.
+  heiße Ware: hot goods
 
 warf => werfen
 
@@ -251,6 +253,14 @@ werfen /ˈvɛrfən/: to throw
   Sie hat (den Ball) zwanzig Meter weit geworfen.
   She threw (the ball) twenty meters.
   einen Blick auf jdn werfen: to cast a glance at sb 
+
+Werk /vɛrk/, das, -e: work, deed, act, factory, site, mill
+  Goethes gesammelte Werke: Goethe's collected works
+  das Werk Beethovens: the works of Beethoven
+  ein gutes Werk tun: to do a good deed
+  sich ans Werk machen: to get to work
+  Das Werk hat viele Mitarbeiter.
+  A large number of people are employed at the site.
 
 Wert /veːɐt/, der, -e: value, asset
   Das Haus hat einen Wert von 250.000 Euro.
