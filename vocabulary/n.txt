@@ -133,6 +133,16 @@ Nebel /ˈneːbəl/, der, -: fog, mist
   Über dem Tal lag noch Nebel.
   The valley was still covered in mist.
 
+neben /ˈneːbən/: next to, apart from, besides, compared to/with
+  Sie sitzt neben ihrer Tante.
+  She is sitting next to her aunt.
+  Er stellte den Koffer neben das Bett.
+  He put the suitcase next to the bed.
+  Wir brauchen neben Schere und Stift auch Kleber.
+  Besides scissors and a pen, we also need glue.
+  Neben ihm wirkt sie langweilig.
+  Compared to him, she comes across as boring.
+
 nebst /neːpst/: together with, including
   die gesamte Familie nebst Kindern
   the whole family, including the children
