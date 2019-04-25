@@ -475,6 +475,8 @@ Engpass /ˈɛŋpas/, der: bottleneck, narrow pass
 Englisch /ˈɛŋlɪʃ/
   die englische Sprache
 
+ent-: to express that sth is taken away, a process is reversed, movement away from somewhere, the beginning of an action
+
 entdecken /ɛntˈdɛkən/: to discover
   Kolumbus entdeckte Amerika.
   Columbus discovered America.
@@ -549,6 +551,8 @@ entsorgen /ɛntˈzɔrɡən/: to dispose of
 entstehen /ɛntˈʃteːən/: to originate, to arise, to come into being, to be created
   Wie entstehen Blitz und Donner?
   How does thunder and lightning form?
+  Welche Kosten entstehen uns dadurch?
+  What costs will we incur through this?
 
 enttäuschen /ɛntˈtɔyʃən/: to disappoint
    Sie ist in ihrem Leben schon oft enttäuscht worden.
@@ -773,6 +777,8 @@ erringen /ɛɐˈrɪŋən/: to achieve
 erschaffen /ɛɐˈʃafən/: to create
   Gott erschuf die Welt und den Menschen.
   God created the world and humankind.
+
+erscheinen /ɛɐˈʃainən/: to turn up, to appear, to be published, to seem
 
 erschlagen /ɛɐˈʃlaːɡən/: to kill, to slay, to overwhelm
   Er hat den Mann mit einem Knüppel erschlagen.
