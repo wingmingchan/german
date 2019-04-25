@@ -209,6 +209,7 @@ Heft /hɛft/, das, Hefte: exercise book, booklet, magazine, comic, issue
   The teacher collected the exercise books.
   „National Geographic 1998, Heft 3“
   "National Geographic 1998, No 3"
+  in Heftform: in booklet form
 
 heften /ˈhɛftən/: to pin, to stick, to tack, to file, to fix
   ein Plakat an die Wand heften: to pin a poster on the wall 
@@ -341,7 +342,16 @@ herstellen /ˈheːɐʃtɛlən/: to produce
 
 Hersteller /ˈheːɐʃtɛlɐ/: manufacturer, maker, producer
 
-herum /hɛˈrʊm/: (a)round
+herum /hɛˈrʊm/: (a)round, past, finished
+  im Kreis herum: around in a circle
+  Alle um sie herum hofften mit ihr.
+  Everyone round about her kept their fingers crossed for her.
+  => vorbei
+  Leider ist der Urlaub schon wieder herum.
+  Unfortunately the vacation's finished already.
+  um … herum: around
+  So ein Flug kostet um die 300 Euro herum.
+  A flight like that costs around 300 euros.
 
 herunter /hɛˈrʊntɐ/: down(wards)
   der Weg vom Gipfel hier herunter: the path from the summit down to here
@@ -440,6 +450,8 @@ hinüber /hɪˈnyːbɐ/: over, across
   ein Blick hinüber zum Nachbarn: a glance over to your neighbor 
 
 Hirn /hɪrn/, das: brain, mind
+  Streng doch mal dein Hirn mehr an!
+  Try taxing your brain a bit more!
 
 hissen /ˈhɪsən/: to hoist
   Sie hissten die Segel und stachen in See.
