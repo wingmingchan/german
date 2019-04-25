@@ -60,6 +60,8 @@ Rat /raːt/, der, ..e: (piece of) advice
   => Empfehlung
   auf ärztlichen Rat: on medical advice
 
+Rat, Räte, Rätin: councillor
+
 Rate /ˈraːtə/, die, Raten: installment, rate
   Schulden in monatlichen Raten abzahlen
   to pay off debts in monthly installments
@@ -154,6 +156,10 @@ Recycling /riˈsaiklɪŋ/, das, (uncountable): recycling
 Rede /ˈreːdə/, die: speech
   zum Amtsantritt eine Rede halten: to give/make a speech on entering office
 
+Reform /reˈfɔrm/, die, -en: reform
+  Vorschläge für eine grundlegende Reform des Gesundheitssystems machen
+  to make suggestions for a thorough reform of the health system
+
 regelrecht /ˈreːɡəlrɛçt/: real, proper
 
 Regen /ˈreːɡən/, der: rain
@@ -171,6 +177,14 @@ regieren /reˈɡiːrən/: to rule
 Regierung /reˈɡiːrʊŋ/, die: government
   Landesregierung: provincial government, state government
   Zentralregierung: central government
+
+Region /reˈɡjoːn/, die, -en: region
+  eine abgelegene, dünn besiedelte Region: a remote, sparsely populated region
+  Welche Hirnregionen sind beim Lesen aktiv?
+  Which regions of the brain are active when reading?
+
+regional /reɡjoˈnaːl/: regional
+  regionale Spezialitäten: regional specialties
 
 regnen /ˈreːɡnən/: to rain
   Es regnete in Strömen.
@@ -328,6 +342,10 @@ Rüde /ˈryːdə/, der: dog
 rüde /ˈryːdə/: rude, curt
 
 Ruf, der: cry, call, reputation
+  Niemand hörte ihre verzweifelten Rufe.
+  Nobody heard her desperate cries.
+  den Ruf der Wölfe nachahmen: to imitate the cry of a wolf
+  der Ruf der Bürger nach Reformen: the call of the citizens for reforms
   Diese Schule hat einen schlechten Ruf.
   This school has a bad reputation.
 
