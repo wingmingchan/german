@@ -59,7 +59,7 @@ Zeitangabe, die: date, time (of day)
 
 Zeitplan, der: schedule, timetable
 
-Zeitschrift /ˈʦaitʃrɪft/, die: magazine
+Zeitschrift /ˈʦaitʃrɪft/, die, -en: magazine
 
 zeitweise /ˈʦaitvaizə/: temporarily
 
@@ -253,7 +253,9 @@ Zusammenbruch /ʦuˈzamənbrʊx/, der: breakdown, collapse
 
 Zusatzleistung, die: additional capacity, additional service
 
-zusätzlich /ˈʦuːzɛʦlɪç/: additional
+zusätzlich /ˈʦuːzɛʦlɪç/: additional, extra
+  Entstehen dabei zusätzliche Kosten?
+  Will it involve any extra costs?
 
 zuschauen /ˈʦuːʃauən/: to watch
   Gebannt schauten die Kinder dem Zauberer zu.
