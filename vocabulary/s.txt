@@ -38,6 +38,9 @@ sammeln /ˈzaməln/: to gather, to collect, to assemble
   Im Herbst gehen wir gerne Pilze sammeln.
   We like to go mushroom picking in the fall.
 
+sämtlich /ˈzɛmtlɪç/: all
+  sämtliche Kosten: all the costs
+
 Sand /zant/, der, -e: sand
   im Sand spielen: to play in the sand
 
@@ -164,6 +167,8 @@ scheinbar /ˈʃainbaːɐ/: apparent
   ein scheinbarer Widerspruch: an apparent contradiction
 
 scheinen /ˈʃainən/: to shine, to seem
+  Das Licht schien mir ins Gesicht.
+  The light was shining in my face.
   Das scheint mir keine gute Idee zu sein.
   That doesn't seem a very good idea to me.
 
@@ -180,6 +185,9 @@ schenken /ˈʃɛŋkən/: to give (as a present), to donate
   => Geschenk: gift
   Geschenkt! Forget it!
   jdm ein freundliches Lächeln schenken: to give sb a friendly smile
+
+Schere /ˈʃeːrə/, die, -n: scissors, shears
+  Gartenschere: garden shears
 
 scheuen /ˈʃɔyən/: to spare, to shrink from, to shy
   Wir haben für das Fest weder Kosten noch Mühe gescheut.
@@ -323,6 +331,10 @@ schmieden /ˈʃmiːdən/: to forge, to hatch
 
 schmieren: to spread, to smear, to rub
   jdm Sonnencreme auf den Rücken schmieren: to rub sun cream on sb's back
+
+schmökern /ˈʃmøːkɐn/: to bury yourself in a book
+  Sie schmökert gern in alten Romanen.
+  She likes to bury herself in old novels.
 
 Schmuck /ʃmʊk/, der, (uncountable): jewelry
   kostbaren Schmuck tragen: to wear expensive jewelry
@@ -1016,6 +1028,13 @@ Stichwort /ˈʃtɪçvɔrt/, das: headword, keyword, keypoint, cue
 Stichwortverzeichnis, das: index
   im Stichwortverzeichnis aufgeführt sein: to be listed in the index
 
+Stift /ʃtɪft/, der, -e: pen(cil), peg, tack, apprentice
+  Hast du mal einen Stift für mich?
+  Do you have a pen I could borrow?
+  etw. mit Stiften befestigen: to fix sth with tacks
+  Lass das den Stift machen.
+  Let the apprentice do that.
+
 stillen /ˈʃtɪlən/: to breastfeed
    Planst du, dein Kind zu stillen?
    Are you planning to breastfeed your baby?
@@ -1169,11 +1188,11 @@ summen /ˈzʊmən/: to hum
 surfen /ˈsøːɐfən/: to surf
   nach Hawaii zum Surfen fahren: to go surfing in Hawaii
   Nach stundenlangem Surfen hatte ich eine Ferienwohnung gefunden.
-  I found a holiday home after surfing the Net for hours. 
+  I found a holiday home after surfing the Net for hours.
+  im Internet surfen: to surf the Internet
 
 Symbol /zʏmˈboːl/, das: symbol
   die Taube als Symbol des Friedens
   the dove as a symbol of peace
-
 
 System /zʏsˈteːm/, das, -e
