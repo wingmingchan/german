@@ -181,6 +181,11 @@ Befall /bəˈfal/, der, Befalls: infestation
   Bei starkem Befall mit Blattläusen empfiehlt sich das Spritzen mit Seifenlauge.
   In cases of infestation with aphids it is recommendable to spray the plant with soapy water. 
 
+befallen /bəˈfalən/: to affect, to infest, to afflict
+  ein von Blattläusen befallener Strauch: a shrub infested with aphids (蚜虫)
+  Als er nicht heimkam, befiel mich ein Gefühl der Unruhe.
+  When he didn't come home I was seized with a sense of anxiety.
+
 Befehl /bəˈfeːl/, der, -e: order, command
   Der Offizier gab den Befehl zum Angriff.
   The officer gave orders to attack. 
@@ -493,6 +498,14 @@ Bescheid /bəˈʃait/, der: notification
 beschimpfen /bəˈʃɪmpfən/: to insult, to swear at, to abuse
   jdn am Telefon wüst beschimpfen: to hurl abuse at sb on the phone
 
+beschließen /bəˈʃliːsən/: to decide, to resolve, to pass, to end
+  Wir haben beschlossen, dieses Jahr nach Italien zu reisen.
+  We've decided to travel to Italy this year.
+  Der neue Etat wurde mit großer Mehrheit beschlossen.
+  The new budget was passed with a large majority.
+  Lass uns den Abend bei einem Glas Wein beschließen.
+  Let's finish off the evening with a glass of wine.
+
 Beschreibung /bəˈʃraibʊŋ/, die: description
 
 beschriften /bəˈʃrɪftən/: to label, to inscribe
@@ -703,11 +716,17 @@ biegen /ˈbiːgən/: to bend, to turn
 
 Biergarten /ˈbiːɐɡartən/, der, Biergärten: beer garden
 
-bieten /ˈbiːtən/: to bid, to offer, to provide
+bieten /ˈbiːtən/: to bid, to offer, to provide, to present itself, to show, to perform
   2000 Euro sind geboten. Wer bietet mehr?
   I have a bid for 2000 euros. Any other bids?
   Er hat mir für den Auftrag/das Auto viel Geld geboten.
-  He offered me a lot of money for the job/car. 
+  He offered me a lot of money for the job/car.
+  Das Hotel bietet viel Komfort.
+  The hotel has a host of amenities and luxuries to offer.
+  Da bot sich mir die Möglichkeit, ein Jahr ins Ausland zu gehen.
+  And then the opportunity presented itself to go abroad for a year.
+  Was wird zurzeit im Theater geboten?
+  What's on at the theater at the moment?
 
 Bild /bɪlt/, das, -er: painting, picture
   Bilder für einen Comic zeichnen / malen: to draw/paint pictures for a comic
@@ -1051,6 +1070,9 @@ Busen /ˈbuːzən/, der, -: bosom
 Bushaltestelle, die: bus stop
 
 bestreichen /bəˈʃtraiçn/: to spread, to butter
+
+Busch /bʊʃ/, der, ..e /ˈbʏʃə/: bush
+  sich in den Büschen verstecken: to hide in the bushes
 
 Bußgeld, das: fine, penalty
 
