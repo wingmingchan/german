@@ -35,8 +35,10 @@ daher /daˈheːɐ/: therefore
 damalige /ˈdaːmaːlɪɡə/: then, at that point
   meine damalige Chefin: my then boss
 
-damals /ˈdaːmaːls/: at that time
+damals /ˈdaːmaːls/: zu jener Zeit, at that time
   => früher
+  Damals gab es noch kein Fernsehen.
+  There was no TV back then.
 
 damit /ˈdaːmɪt/: with it, thereby, in order that, so that
   Sie blieb bei ihrem Kind, damit es sich nicht fürchtete.
@@ -177,17 +179,18 @@ Denkweise /ˈdɛŋkvaizə/, die: way of thinking, mindset
 
 denkwürdig /ˈdɛŋkvʏrdɪç/: memorable
 
-denn /dɛn/ because, since, unless
+denn /dɛn/ because, since
   Er kommt nicht, denn er ist krank.
   He's not coming, because he's ill.
-  Ich werde nicht rechtzeitig fertig, es sei denn, jemand hilft mir.
-  I won't be finished on time unless somebody helps me.
   besser/mehr/ … denn je (zuvor): better/more/… than ever (before)
   Mir geht es schlechter denn je!
   I'm feeling worse than ever!
   Was/Wer/Wie/ … denn (dann)? Then what/who/how …?
   „Bist du zu Hause? – „Nein.‟ – „Wo denn dann?‟
   "Are you home" – "No." – "Then where are you?"
+  es sei denn: unless
+  Ich werde nicht rechtzeitig fertig, es sei denn, jemand hilft mir.
+  I won't be finished on time unless somebody helps me.
 
 dennoch /ˈdɛnɔx/: nevertheless , still
   Sie sind arm und dennoch glücklich.
@@ -271,7 +274,6 @@ Direktor /di’rɛktoːɐ/, Direktorin: principal, director, manager
 Dirndl /ˈdɪrndl/, das, -(n), Dirndlkleid: dirndl, girl
   Sie ist ein fesches Dirndl.
   She's a pretty girl.
-
 
 Diskriminierung /dɪskrimiˈniːrʊŋ/, die: discrimination
 
