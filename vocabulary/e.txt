@@ -567,6 +567,10 @@ Entwicklung /ɛntˈvɪklʊŋ/, die: development
 
 Entwurf /ɛntˈvʊrf/, der: design, draft, sketch
 
+Epidemie /epideˈmiː/, die, -n: epidemic
+  Im Krisengebiet ist eine Choleraepidemie ausgebrochen.
+  A cholera epidemic has broken out in the crisis-hit region.
+
 er /eːɐ/: he, it
 
 er-: some result is achieved, the beginning of a process
@@ -766,6 +770,10 @@ erreichen /ɛɐˈraiçən/: to reach, to get hold of, to arrive at
   In Kürze erreichen wir München.
   We are now approaching Munich.
 
+Ereignis /ɛɐˈ|aiɡnɪs/, das, -se: event, occurrence
+  Zum freudigen Ereignis die herzlichsten Glückwünsche!
+  Heartiest congratulations on the happy event!
+
 errichten /ɛɐˈrɪçtən/: to build, to erect
   eine Brücke/ein Hochhaus errichten: to build a bridge/high-rise 
 
@@ -885,6 +893,9 @@ Essig /ˈɛsɪç/, der: vinegar
 Etappe /eˈtapə/, die: stage, leg
   Das war eine wichtige Etappe auf dem Weg zum Erfolg.
   That was an important stage on the road to success.
+
+Etat /eˈtaː/, der, -s: budget
+  den Etat beraten / beschließen: to discuss/ set the budget
 
 etliche /ˈɛtlɪçə/: quite a few, a number of
   Das ist etliche Jahre her.
