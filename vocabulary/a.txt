@@ -609,6 +609,7 @@ Anlass /ˈanlas/, der, ..e: reason, cause, occasion
   Es besteht Anlass zu der Hoffnung, dass …
   There are grounds for hope that…
   ein festlicher Anlass: a festive occasion
+  => Ereignis, Gelegenheit
 
 anlegen /ˈanleːɡən/: to lay out, to set up, to invest
   ein neues Gemüsebeet anlegen: to lay out a new bed
@@ -1036,8 +1037,10 @@ Ausbildung /ˈausbɪldʊŋ/, die, -en: apprenticeship, education, training, back
   He hasn't yet finished his education.
 
 Ausblick /ˈausblɪk/, der: view, outlook, perspective
-  ein Zimmer mit Ausblick aufs Meer
-  a room with a view of the sea
+  => Aussicht, blick
+  ein Zimmer mit Ausblick aufs Meer: a room with a view of the sea
+  Der Kursleiter gab uns einen Ausblick auf die kommenden Monate.
+  The teacher gave us a preview of what to expect in the coming months.
 
 ausbrechen /ˈausbrɛçən/: to break out, to escape, to erupt
 
@@ -1227,6 +1230,11 @@ aussetzen /ˈauszɛʦən/: to interrupt, to fail, to suspend, to abandon, to off
   etw. an jdm/etw. aussetzen: to find fault with sb/sth
   Er hat ständig etwas an mir auszusetzen.
   He finds fault with everything I do.
+
+Aussicht /ˈauszɪçt/, die, -en: view, prospect
+  ein Zimmer mit schöner Aussicht auf die Berge
+  a room with a wonderful view of the mountains
+  eine Karriere mit glänzenden Aussichten: a career with excellent prospects
 
 aussteigen /ˈausʃtaiɡən/: to get out, disembark, to drop out
   Sind die Passagiere schon alle ausgestiegen?
