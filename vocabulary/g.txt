@@ -164,8 +164,12 @@ gefunden => finden
 
 gegangen => gehen
 
-gegen /ˈɡeːɡən/: against, toward
+gegen /ˈɡeːɡən/: against, toward, at about
   gegen Missstände protestieren/vorgehen: to protest/act against social evils
+  Ich komme gegen fünf Uhr zurück.
+  I'll be back around five.
+  Es waren gegen 200 Leute anwesend.
+  There were about 200 people there.
 
 Gegenangriff, der: counter-attack
 
@@ -249,6 +253,9 @@ Geist, Geister, der: mind, ghost, spirit
   In his mind's eye he could already see himself on the winners' rostrum.
   Der Geist der Verstorbenen soll noch in diesen Mauern spuken.
   The ghost of the deceased is still supposed to haunt these walls.
+
+Geisterbahn /ˈɡaistɐbaːn/, die, -en: dark ride, ghost train
+  (mit der) Geisterbahn fahren: to go on a dark ride
 
 geistern /ˈɡaistɐn/: to wander, to keep running through
   Warum geisterst du so spät abends noch durchs Haus?
@@ -454,6 +461,10 @@ Gesetz /ɡəˈzɛʦ/, das: law
 Gesicht /ɡəˈzɪçt/, das, Gesichter: face
   ein hübsches Gesicht haben: to have a pretty face
 
+Gesöff /ɡəˈzœf/, das, -e: brew
+  Was ist das denn für ein saures Gesöff?
+  What kind of sour brew is that?
+
 gesperrt: blocked, closed
 
 Gestalt /ɡəˈʃtalt/, die, Gestalten: form, figure, character
@@ -654,6 +665,8 @@ Grill /ɡrɪl/, der, -s: grill
 grillen: to barbecue, to grill
   Welche Gemüsesorten eignen sich denn zum Grillen?
   What sorts of vegetables are suitable for barbecuing?
+
+Grillspieß, der: spit, rotisserie
 
 Grinsen /ˈɡrɪnzən/, das: grin
 
