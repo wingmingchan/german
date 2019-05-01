@@ -75,6 +75,16 @@ Wange /ˈvaŋə/, die: cheek
   Sie streichelte liebevoll über seine Wange.
   She lovingly stroked his cheek.
 
+wanken /ˈvaŋkən/: to sway, to stagger, to totter, to waver
+  Sie wankte vor Erschöpfung.
+  She was swaying with exhaustion.
+  Der Betrunkene wankte aus dem Zimmer.
+  The drunk man staggered out of the room.
+  auf dem wankenden Steg das Gleichgewicht verlieren
+  to lose your balance on the swaying gangplank
+  Ihr Weltbild war ins Wanken geraten.
+  Her world view had begun to waver.
+
 ward (poet) => werden
 
 Ware /ˈvaːrə/, die, -n: product, article, goods
@@ -304,6 +314,7 @@ Wette /ˈvɛtə/, die: bet, wager
 *Wetter /ˈvɛtɐ/, das: weather
 
 wichtig /ˈvɪçtɪç/: important
+  <=> nebensächlich
   Diese Arbeit ist sehr wichtig für mich.
   This job is very important to me.
 
@@ -334,6 +345,8 @@ wiedersehen
 Wiese /ˈviːzə/, die, -n: lawn, meadow
   Die Kinder spielen auf der Wiese.
   The kids are playing on the lawn.
+
+Wiesn, die: fairground, Oktoberfest
 
 wild /vɪlt/: wild, savage
   wilder Wein: woodbine
@@ -419,6 +432,9 @@ wohnlich /ˈvoːnlɪç/: cozy
   ein wohnliches Zimmer: a cozy room
 
 Wohnort /ˈvoːn|ɔrt/, der: place of residence
+
+Wohnwagen /ˈvoːnvaːɡən/, der, -: trailer
+  im Wohnwagen übernachten: to sleep in the trailer
 
 *Wolke /ˈvɔlkə/, die: cloud
   Dunkle Wolken zogen auf. Dark clouds were gathering. 
