@@ -123,8 +123,9 @@ farbig /ˈfarbɪç/: colored
 
 färben /ˈfɛrbn/: to color
 
-Fass, das: barrel
+Fass /fas/, das, ..er: barrel
   Bierfass
+  drei Fässer / Fass Wein: three barrels of wine
 
 fassbar /ˈfasbaːɐ/: comprehensible
   Es ist kaum/schwer fassbar, dass sie das getan haben soll.
@@ -135,6 +136,13 @@ fassen /ˈfasən/: to grasp, to grab, to take hold of, to touch
   to grab sb by the arm/take sb by the hand
   Fass nicht an den heißen Ofen!
   Don't touch the hot oven!
+  Der Erpresser konnte bislang nicht gefasst werden.
+  So far the blackmailers have not been apprehended.
+  Er konnte nicht fassen, was geschehen war.
+  He couldn't believe what had happened.
+  Der Saal fasst 2000 Zuschauer.
+  The auditorium has a capacity of 2000 spectators.
+  seine Gedanken in Worte fassen: to put your thoughts into words
 
 fast /fast/: almost
   Das Bild ist fast fertig.
@@ -300,10 +308,16 @@ fies /fiːs/: nasty, disgusting, horrible
 finden /ˈfɪndən/: to find
   finde, findest, findet, habe gefunden
   fand, fandest, fanden, ihr fandet
+  finden statt: to take place
+  Jetzt findet es im September statt 
 
 fingen => fangen
 
 Finnland /ˈfɪnlant/
+
+Firma /ˈfɪrma/, die, Firmen: firm, company
+  In welcher Firma arbeitet er?
+  What firm does he work for?
 
 Fisch /fɪʃ/, der, Fische: fish
 
