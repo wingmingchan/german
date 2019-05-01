@@ -199,6 +199,11 @@ umliegende /ˈʊmliːɡəndə/: surrounding
 
 Umrechnung /ˈʊmrɛçnʊŋ/, die: conversion
 
+Umriss /ˈʊmrɪs/, der, -e: outline
+  => Kontur
+  Die Umrisse des Hauses sind bereits erkennbar.
+  The outlines of the house are already visible.
+
 umrühren /ˈʊmryːrən/: to stir
   Stäbchen zum Umrühren
 
@@ -314,12 +319,22 @@ unterdrücken /ʊntɐˈdrʏkən/: to oppress, to repress, suppress
   Sie konnte das Gähnen nicht unterdrücken.
   She couldn't stop herself from yawning.
 
-unterhalten /ʊntɐˈhaltən/: to amuse, to entertain, to keep, to maintain, to support
+unterhalten /ʊntɐˈhaltən/: to amuse, to entertain, to keep, to maintain, to support, to talk to
+  die Kinder mit Spielen unterhalten: to keep the kids entertained with games
+  Wir haben uns bei dem Film bestens unterhalten.
+  We really enjoyed the movie.
+  Ich habe jetzt keine Zeit, mich mit dir zu unterhalten.
+  I don't have time to talk to you at the moment.
+  Die Familie unterhält eine kleine Frühstückspension.
+  The family runs a small bed-and-breakfast.
+  Er unterhält seine Familie allein.
+  He supports his family on his own.
 
 unterirdisch /ˈʊntɐ|ɪrdɪʃ/: underground
   ein unterirdischer Bahnhof: an underground station
 
 Unterkunft /ˈʊntɐkʊnft/, die: accommodation, housing, lodging
+  => Quartier
   für Unterkunft und Verpflegung sorgen: to provide board and lodging
 
 Unterlage, die: documents, papers
