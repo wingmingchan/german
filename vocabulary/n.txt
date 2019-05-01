@@ -143,6 +143,10 @@ neben /ˈneːbən/: next to, apart from, besides, compared to/with
   Neben ihm wirkt sie langweilig.
   Compared to him, she comes across as boring.
 
+nebensächlich /ˈneːbənzɛçlɪç/: unimportant, trivial
+  Wir haben uns über nebensächliche Dinge unterhalten.
+  We talked about trivial things.
+
 nebst /neːpst/: together with, including
   die gesamte Familie nebst Kindern
   the whole family, including the children
@@ -153,6 +157,16 @@ necken /ˈnɛkən/: to tease
 
 nehmen /ˈneːmən/: to take, to have, to use
   nehme, nimmst, nimmt, ihr nehmt, habe genommen
+
+neigen /ˈnaiɡən/: to lean, to bend, to tilt
+  sich aus dem Fenster neigen: to lean out of the window
+  Der Wagen neigte sich zur Seite und kippte um.
+  The car tilted to one side and overturned.
+  Er neigte beschämt den Kopf.
+  He bowed his head in shame.
+  zu etw. neigen: to have a tendency toward(s) sth, to tend toward(s) sth
+  Ich neige dazu, ihm zu glauben.
+  I'm inclined to believe him.
 
 nein: no
   Da sage ich nicht Nein: I wouldn't say no to that
