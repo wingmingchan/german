@@ -247,6 +247,11 @@ Begeisterung /bəˈɡaistərʊŋ/, die: enthusiasm
   sich ohne Begeisterung an die Arbeit machen
   to set to work with no enthusiasm
 
+Beginn /bəˈɡɪn/, der, (uncountable): beginning, start
+  => Anfang
+  Der Beginn des Konzertes wurde verschoben.
+  The start of the concert was delayed.
+
 beginnen /bəˈɡɪnən/: to begin
   Es beginnt zu regnen: It's starting to rain
 
@@ -423,6 +428,8 @@ benötigen /bəˈnøːtɪɡən/: to need, to require
 benutzen: to use
   Ich benutze das Handy nur zum Telefonieren.
   I only use my cell for phone calls.
+
+Benutzung /bəˈnʊʦʊŋ/, die, -en: use
 
 beobachten /bəˈ|oːbaxtən/: to observe, to watch
   Tiere in der Wildnis beobachten: to observe animals in the wild
@@ -817,6 +824,15 @@ blinzeln /ˈblɪnʦəln/: to blink
 
 Blitzer, der: flashgun, speed trap
 
+blöd /bløːt/: stupid, dumb
+  => dumm
+  Ich komme mir ganz schön blöd vor.
+  I feel really stupid.
+
+Blödheit /ˈbløːthait/, die, (uncountable): stupidity
+  Ich habe aus lauter Blödheit eine wichtige Datei gelöscht.
+  I deleted an important file through sheer stupidity.
+
 Blödsinn /ˈbløːtzɪn/, der: nonsense
   => Unsinn
 
@@ -928,6 +944,14 @@ braten: to fry
 
 Bratwurst /ˈbraːtvʊrst/, die: bratwurst
 
+brauen /ˈbrauən/: to brew
+  Sie brauen ein besonders gutes Bier.
+  They brew a particularly good beer.
+  Igitt, was hast du denn für ein Gesöff gebraut?
+  Yuck, what kind of brew is that you’ve concocted?
+
+Brauerei /brauəˈrai/, die, -en: brewery
+
 Brautstrauß, der: bridal bouquet
 
 brav /braːf/: good, well-behaved, honest, upright, brave
@@ -953,6 +977,7 @@ brennen /ˈbrɛnən/: to burn , to be on fire
   Fire!
 
 Breze(l) /ˈbreːʦə(l)/, die, -n: pretzel
+  Riesenbrezen
 
 bricht => brechen
 
