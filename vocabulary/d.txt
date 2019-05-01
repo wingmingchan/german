@@ -132,6 +132,10 @@ davon /daˈfɔn/: from it
 davor /daˈfoːɐ/: before that
 
 dazu /daˈʦuː/: to it, about it, in addition
+  Mir gefällt es nicht. Was sagst du dazu?
+  I don’t like it. What do you say to it?
+  Das Verfahren ist überholt und kostspielig dazu.
+  The procedure is out-of-date and expensive, too.
 
 dazugehörig /daˈʦuːɡəhøːrɪɡə/: appropriate, proper, corresponding
   zehn Bogen Briefpapier und die dazugehörigen Umschläge
@@ -375,7 +379,9 @@ dulden: to tolerate, to put up with
 
 dumm /dʊm/: dumb, stupid
   Sie stellt sich gern dumm, damit man ihr keine Verantwortung überträgt.
-  She likes to act dumb so nobody gives her any responsibility. 
+  She likes to act dumb so nobody gives her any responsibility.
+  Es war dumm von mir, ihm zu vertrauen.
+  It was stupid of me to trust him.
 
 dunkel /ˈdʊŋkəl/ dark, deep, vague
   im Dunkeln: in the dark
@@ -409,6 +415,7 @@ durchgreifen /ˈdʊrçɡraifən/: to reach through
 Durchsage /ˈdʊrçzaːɡə/, die, -n: announcement
   Es folgt eine wichtige Durchsage: …
   The following is an important announcement: …
+  Verkehrsdurchsagen: traffic announcements
 
 durchschneiden /ˈdʊrçʃnaidən/: to cut through
   einen Apfel/eine Schnur in der Mitte durchschneiden
