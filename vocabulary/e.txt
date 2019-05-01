@@ -674,6 +674,9 @@ Erhöhung /ɛɐˈhøːʊŋ/, die: increase
 erinnern /ɛɐˈ|ɪnɐn/: to remember
   erinnere, erinnerst, erinnert, habe erinnert
 
+erkennbar /ɛɐˈkɛnbaːɐ/: visible, discernible, recognizable
+  ein kaum erkennbarer Unterschied: a barely visible difference
+
 erkennen /ɛɐˈkɛnən/: to discern, to recognize
   Ich konnte in der Dunkelheit nicht viel erkennen.
   I couldn't make out much in the dark.
@@ -750,6 +753,8 @@ eröffnen /ɛɐˈ|œfnən/: to open
   ein neues Einkaufszentrum eröffnen: to open a new shopping mall
   Hat das neue Schwimmbad schon eröffnet?
   Has the new swimming pool opened yet? 
+
+
 
 Eröffnung /ɛɐˈ|œfnʊŋ/, die: opening
   die Eröffnung des neuen Sportzentrums: the opening of a new sports center
@@ -930,3 +935,10 @@ extra /ˈɛkstra/: extra, separate, specially
   You did that on purpose!
 
 exzellent /ɛksʦɛˈlɛnt/: excellent
+
+Exzess /ɛksˈʦɛs/, der, -e: excess
+  alkoholische Exzesse: binge drinking
+
+exzessiv /ɛksʦɛˈsiːf/: excessive
+  der exzessive Gebrauch von Schimpfwörtern: the excessive use of foul language
+
