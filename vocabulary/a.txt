@@ -265,11 +265,18 @@ abzocken /ˈapʦɔkən/: to rip off
 
 Achsel /ˈaksəl/, die: shoulder, armpit
 
+acht /axt/: eight
+  in / vor acht Tagen: in a week/a week ago
+  heute / Samstag in acht Tagen: a week from today/Saturday
+
 Achtel: eighth
 
 achten /ˈaxtən/: to respect, to pay attention to
   auf den Verkehr achten: to pay attention to traffic
   achten Sie auf Ihre Aussprache!
+
+Achterbahnen /ˈaxtɐbaːn/, die, -en: roller coaster
+  (mit der) Achterbahn fahren: to ride on the roller coaster
 
 Achtung /ˈaxtʊŋ/, die: respect, attention
   Ich habe große Achtung vor ihrer Leistung/vor ihr.
@@ -509,6 +516,11 @@ anderthalb /ˈandɐtˈhalp/: one and a half
   => eineinhalf
   anderthalb Stunden: an hour and a half
 
+Anfang /ˈanfaŋ/, der, ..e: beginning, start
+  => Beginn
+  Am / Zu Anfang war es noch schwer.
+  It was hard at the beginning.
+
 anfangen /ˈanfaŋən/: to begin
   Hast du den Aufsatz schon angefangen?
   Have you started the essay yet?
@@ -725,6 +737,8 @@ anwurzeln
 Anzahl /ˈanʦaːl/, die: number
   Eine gewisse Anzahl von Fehlern kann toleriert werden.
   A certain number of mistakes can be tolerated.
+
+anzapfen: to broach, to tap
 
 anziehen /ˈanʦiːən/: to attract, to get dressed
   Salz zieht Feuchtigkeit an.
@@ -989,6 +1003,8 @@ aufstehen /ˈaufʃteːən/: to get up, to stand up, to be open
 aufstellen /ˈaufʃtɛlən/: to put up, to arrange, to draw up
 
 auftauchen /ˈauftauxən/: to appear, to surface, to arise, to come up, to surface
+  Aus dem Nebel tauchten die Umrisse eines Hauses auf.
+  The contours of a house materialized out of the fog.
 
 Auftrag /ˈauftraːk/, der, Aufträge /ˈauftrɛːɡə/: task, job, order, contract
   einen Großauftrag von der Gemeinde erhalten
@@ -1024,6 +1040,14 @@ Auge /ˈauɡə/, das: eye
 Augenblick /ˈauɡənblɪk/, der: moment
   Einen Augenblick, bitte!
   Just a moment, please.
+
+augenblicklich /ˈauɡənblɪklɪç/: current, immediately
+  => momentan
+  in der augenblicklichen Situation: in the current situation
+  Er ist augenblicklich nicht da.
+  He's not here right now.
+  Verlassen Sie augenblicklich mein Haus!
+  Get out of my house at once!
 
 aus-: away, removed, turned off
 
@@ -1283,5 +1307,9 @@ auszählen: to count
 auszeichnen /ˈausʦaiçnən/: to honor, to distinguish
   Sie wurde mit dem Bundesverdienstkreuz ausgezeichnet.
   She was awarded the German Federal Cross of Merit.
+
+Auto /ˈauto/, das, -s: car
+
+Autoscooter, Autoskooter, der: bumper car
 
 Autoschlosser: car mechanic
