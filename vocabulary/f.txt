@@ -601,9 +601,11 @@ Führer, Führerin: guide, chief, leader, operator, driver, pilot
 
 Führung: leadership
 
-Fülle /ˈfʏlə/, die: fullness, volume
+Fülle /ˈfʏlə/, die, (uncountable): fullness, volume
   Dieses Shampoo gibt Ihrem Haar Fülle.
   This shampoo gives your hair volume.
+  Er neigt zur Fülle.
+  He's a bit on the portly side.
 
 füllen /ˈfʏlən/: to fill
   einen Eimer mit Wasser füllen: to fill a bucket with water
