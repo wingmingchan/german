@@ -244,6 +244,8 @@ schlagen /ˈʃlaːɡən/: to hit, to strike, to beat
   jdm mit der Hand/Faust ins Gesicht schlagen: to slap/punch sb in the face
   Sahne für den Kuchen steif schlagen: to whip some cream for the cake
 
+Schlagermusik, die: pop music
+
 Schlagstock /ˈʃlaːkʃtɔk/, der: baton, nightstick
   Die Beamten setzten Tränengas und Schlagstöcke gegen die Demonstranten ein.
   The officers employed tear gas and batons against the demonstrators.
@@ -404,11 +406,24 @@ schreien /ˈʃraiən/: to scream, to shout
   Sie schrie vor Schmerzen.
   She screamed with pain.
 
+schreiten /ˈʃraitən/: to stride, to walk
+  gemessenen Schrittes über den roten Teppich schreiten
+  to walk with measured steps over the red carpet
+
 schrie => schreien
 
 Schriftsteller /ˈʃrɪftʃtɛlɐ/: writer
 
 Schriftzeichen, das: character
+
+Schritt /ʃrɪt/, der, -e: step
+  => Tritt
+  einen Schritt zur Seite machen: to step to one side
+  Er folgte mir auf Schritt und Tritt.
+  He follows me everywhere I go.
+  Die Tür war nur wenige Schritte von mir entfernt.
+  The door was only a few steps away from me.
+  die nötigen Schritte einleiten: to take the necessary steps
 
 Schrott /ʃrɔt/, der: scrap, garbage
   Schrotthändler: scrap (metal) dealer
@@ -910,8 +925,14 @@ stammen /ˈʃtamən/: to come, to originate
   Sie stammt aus einer reichen Familie.
   She comes from a wealthy family.
 
-Stand /ʃtant/, der: stall, state, level
+Stand /ʃtant/, der: stall, state, stand, level
+  Er fand / hatte auf dem schmalen Felsvorsprung keinen sicheren Stand.
+  He couldn't find/didn't have a secure footing on the narrow ledge.
   ein Marktstand mit Gemüse und Früchten: a market stall selling fruit and vegetables
+  Hat eure Firma einen Stand auf der Messe?
+  Does your company have a stand at the trade fair?
+  Der Taxistand war leer.
+  The taxi stand was empty.
 
 stand => stehen
 
