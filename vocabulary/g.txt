@@ -90,6 +90,11 @@ Gebot /ɡəˈboːt/, das, -e: commandment, imperative, law, rule
 
 geboten => bieten
 
+Gebrauch /ɡəˈbraux/, der, ..e: use
+  Der Polizist machte von seiner Schusswaffe Gebrauch.
+  The policeman made use of his weapon.
+  christliche Gebräuche rund um das Osterfest: Christian conventions surrounding Easter
+
 gebracht => bringen
 
 gebrannt => brennen
@@ -592,6 +597,9 @@ Gleichberechtigung /ˈɡlaiçbərɛçtɪɡʊŋ/: equal rights
 gleichen /ˈɡlaiçən/: to resemble, to be similar
   Die Schwestern gleichen sich sehr.
   The sisters are very similar.
+
+Gleichschritt /ˈɡlaiçʃrɪt/, der, -(e)s: marching in step
+  im Gleichschritt marschierende Soldaten: soldiers marching in step
 
 Gletscher /ˈɡlɛʧɐ/, der: glacier
 
