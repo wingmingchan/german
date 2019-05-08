@@ -90,6 +90,10 @@ rätselhaft /ˈrɛːʦəlhaft/: mysterious
 
 Ratte, die: rat
 
+Raubkopie /ˈraupkopiː/, die, -n: pirated copy
+  Der Verkauf von Raubkopien ist strafbar.
+  It is illegal to sell pirated copies.
+
 rauchen /ˈrauxən/: to smoke
   Rauchen Sie?
   Do you smoke?
@@ -161,8 +165,24 @@ recyceln /riˈsaikəln/: to recycle
 
 Recycling /riˈsaiklɪŋ/, das, (uncountable): recycling
 
+Redaktion /redakˈʦjoːn/, die, -en: editorial staff, editorial department, editing
+  Name von der Redaktion geändert: name changed by the editors
+  eine Durchsuchung der Redaktion durch die Polizei
+  a search of the editorial department by the police
+  die Redaktion eines Buches übernehmen: to take on the editing of a book
+
 Rede /ˈreːdə/, die: speech
   zum Amtsantritt eine Rede halten: to give/make a speech on entering office
+
+reden /ˈreːdən/: to talk, to speak
+  zu viel reden: to talk too much
+  Wir konnten immer gut miteinander reden.
+  We always found it easy to talk to one another.
+  Vor / Zu einem so großen Publikum habe ich noch nie geredet.
+  I have never spoken in front of such a large audience before.
+  Die Nachbarn reden schon darüber, dass sie sich wohl trennen werden.
+  The neighbors are already saying that they'll probably split up.
+  sich heiser reden: to talk yourself hoarse
 
 Reform /reˈfɔrm/, die, -en: reform
   Vorschläge für eine grundlegende Reform des Gesundheitssystems machen
@@ -257,6 +277,10 @@ rennen /ˈrɛnən/: to run, to race
   She had to run for her life.
 
 renovieren /renoˈviːrən/: to renovate
+
+rentabel /rɛnˈtaːbəl/: profitable
+  nicht mehr rentable Strecken stilllegen
+  to close lines which are no longer profitable
 
 Rente /ˈrɛntə/, die: pension
 
