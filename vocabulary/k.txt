@@ -20,6 +20,10 @@ Kalk /kalk/, der, (uncountable): lime
   Das Wasser hier enthält viel Kalk.
   The water here is very hard.
 
+Kalorie /kaloˈriː/, die, -n: calorie
+  Gemüse hat nur wenig Kalorien.
+  Vegetables don't have many calories.
+
 kalt /kalt/, kälter, kälteste: cold
 
 Kälte /ˈkɛltə/, die, (uncountable): cold
@@ -161,8 +165,15 @@ Kind, das: child
 
 Kinn /kɪn/, das: chin
 
+kippen /’kɪpən/: to tip (up), to tilt, to topple over
+  das Fenster nachts gekippt lassen: to leave the window tilted open at night
+  Wasser in den Abfluss kippen: to tip water into the drain
+  mit dem Stuhl nach hinten kippen: to topple over backwards on your chair
+
 Kirche /ˈkɪrçə/, die: church
   eine gotische/romanische Kirche: a Gothic/Romanesque church 
+
+Kirschsaft, der: cherry juice
 
 Kissen /’kɪsən/, das, -: pillow, cushion
   ein paar Kissen aufs Sofa legen: to put a couple of cushions on the sofa
@@ -283,12 +294,22 @@ Kollege, Kollegen, Kollegin, Kolleginnen
 komfortabel /kɔmfɔrˈtaːbəl/: comfortable
 
 komisch /ˈkoːmɪʃ/: funny, strange
-  eine komische Geschichte erzählen: to tell a funny story 
+  eine komische Geschichte erzählen: to tell a funny story
+  Komisch, dass er noch nicht hier ist. Es wird doch nichts passiert sein?
+  Funny that he's not here yet. I hope nothing's happened to him.
 
 komm (imperative du) => kommen
 
 kommen /ˈkɔmən/: to come
   komme, kommst, kommt, bin gekommen
+
+Kommentar /kɔmɛnˈtaːɐ/, der, -e: comment, commentary
+  Auf solche unsachlichen Kommentare kann ich verzichten!
+  I can do without uncalled-for comments like that!
+
+kommentieren /kɔmɛnˈtiːrən/: to comment (on)
+  ein politisches Geschehen / Fußballspiel kommentieren
+  to comment on a political event/soccer match
 
 Kommilitone /kɔmiliˈtoːnə/: fellow student
 
@@ -430,6 +451,10 @@ kreuzen /ˈkrɔyʦən/: to cross, to meet
   kreuze, kreuzt, kreuzt, habe gekreuzt
   Unsere Wege kreuzten sich zufällig.
   Our paths crossed by chance.
+
+kreuzigen /ˈkrɔyʦɪɡən/: to crucify
+  Pompeius ließ alle Sklaven, die den Aufstand überlebt hatten, kreuzigen.
+  Pompey had all the slaves who had survived the uprising crucified.
 
 Kreuzung /ˈkrɔyʦʊŋ/, die: intersection
 
