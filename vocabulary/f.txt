@@ -110,9 +110,10 @@ Fänger: captor
 
 Fantasie /fantaˈziː/, die
 
-Farbe /ˈfarbə/, die, Farben: color
+Farbe /ˈfarbə/, die, Farben: color, paint
   Welche Farbe hat der Pullover?
   What color is the sweater?
+  zwei Eimer weiße Farbe kaufen: to buy two buckets of white paint
 
 farbig /ˈfarbɪç/: colored
   => bunt
@@ -553,7 +554,18 @@ Freund /frɔynt/, Freundin, Freunde, Freundinnen: friend
 Frieden /ˈfriːdən/, der: peace
   ein langer, ungestörter Frieden: a long period of uninterrupted peace
 
+Friedhof /ˈfriːthoːf/, der, ..e: graveyard, cemetery
+
 friedlich /ˈfriːtlɪç/: peaceful
+
+frieren /ˈfriːrən/: to be/feel cold, to freeze
+  Frierst du nicht in dem dünnen Hemd?
+  Aren't you cold in that thin shirt?
+  Friert (es) dich nicht?
+  Aren't you cold?
+  Der Boden war hart gefroren.
+  The ground was frozen solid.
+  durchfrieren: to freeze through
 
 frisch: fresh
 
