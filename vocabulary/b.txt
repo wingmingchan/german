@@ -107,6 +107,8 @@ Bau, der: building, construction
   mit dem Bau des Kindergartens beginnen
   to start with the construction of the kindergarten
 
+Baugrube, die: foundation pit, excavation
+
 bauen /ˈbauən/: to build
   baue, baust, baut, habe gebaut
   Die Kinder haben einen Schneemann gebaut.
@@ -328,6 +330,10 @@ beibringen /ˈbaibrɪŋən/: to teach, to break the news to, to inflict on, to p
   Er konnte Dokumente beibringen, die seine Ausagen belegten.
   He managed to procure documents that confirmed his claims.
 
+beieinander /bai|aiˈnandɐ/: together
+  Schön, dass wir endlich mal wieder alle beieinander sind.
+  Isn't it nice that we're finally all back together?
+
 beimessen /ˈbaimɛsən/: to attach/ascribe sth to sth
   Du solltest diesem Zwischenfall nicht zu große Bedeutung beimessen.
   You shouldn't attach too much importance to that incident.
@@ -336,6 +342,11 @@ Bein /bain/, das, Beine: leg
   Spinnen haben acht Beine.
   Spiders have eight legs.
   sich die Beine vertreten: to stretch your legs
+
+beinahe /ˈbeinahe/: almost
+  beinah(e) in allen Fällen, in beinah(e) allen Fällen: in almost every case
+
+beisammen /baiˈzamən/: together
 
 Beispiel /ˈbaiʃpiːl/, das: example
   zum Beispiel, z. B., Beisp.: for example
@@ -368,6 +379,10 @@ bekleckern /bəˈklɛkɐn/: to spill on, to stain
   not to exactly cover yourself with glory
 
 bekommen /bəˈkɔmən/: to get, to receive, to have
+
+bekömmlich /bəˈkœmlɪç/: digestible
+  Grüne Kartoffeln sind nicht bekömmlich.
+  Green potatoes aren't good for the digestion.
 
 belasten /bəˈlastən/: to burden, to pollute
   Treibgase, die das Klima belasten
@@ -652,6 +667,13 @@ Beutel /ˈbɔytəl/, der: bag
 Bevölkerung /bəˈfœlkərʊŋ/: population, people
 
 bevor /bəˈfoːɐ/: before
+
+bevorstehen /bəˈfoːɐʃteːən/: to be imminent, to be coming up, to be in the offing
+  Der Winter steht unmittelbar bevor.
+  Winter is just around the corner.
+  jdm steht etw. bevor: sb has sth in store (for them)
+  Ich wusste ja nicht, was mir noch bevorsteht.
+  Well, I didn't know what I had in store for me.
 
 bewachen /bəˈvaxən/: to guard, to watch over
   ein bewachter Parkplatz: an attended parking lot
@@ -940,6 +962,8 @@ Brand /brant/, der, ..e: fire
 
 Brandfall, der: fire
 
+Brandstiftung /ˈbrantʃtɪftʊŋ/, die, -en: arson
+
 braten: to fry
   Ich brat mir jetzt ein Steak.
   Now I'm going to fry myself a steak.
@@ -947,6 +971,10 @@ braten: to fry
   The chicken has to roast for one and a half hours.
 
 Bratwurst /ˈbraːtvʊrst/, die: bratwurst
+
+Brauch /braux/, der, ..e: custom
+  => Tradition
+  nach altem Brauch: according to old custom
 
 brauen /ˈbrauən/: to brew
   Sie brauen ein besonders gutes Bier.
