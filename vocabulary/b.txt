@@ -463,6 +463,9 @@ Berechnung /bəˈrɛçnʊŋ/, die, -en: calculation, charging
 
 Bereich /bəˈraiç/, der, -e: area, domain, range, section
   ein verkehrsberuhigter Bereich: a traffic-calmed neighborhood
+  im sozialen Bereich tätig sein: to work in the social sector
+  Die Kosten bewegen sich im fünfstelligen Bereich.
+  The costs will run to five figures.
 
 bereiten /bəˈraitən/: to cause, to give
   Ich wollte dir damit eine kleine Freude bereiten.
@@ -621,6 +624,17 @@ betragen /bəˈtraːɡən/: to be, to amount to, to behave
   The length can be 2.50 meters tops.
   Betragt euch anständig bei Oma!
   Behave yourselves at grandma's!
+
+betreiben /bəˈtraibən/: to operate, to conduct, to engage in
+  Wir sollten jetzt Ursachenforschung betreiben.
+  We should now look into the cause of it.
+  Jetzt betreib doch nicht so einen Riesenaufwand!
+  Would you stop making such a fuss over it?
+  Sie betreiben ein kleines Restaurant am Hafen.
+  They run a little restaurant at the harbor.
+  Welches Ziel betreibst du damit?
+  What goal are you trying to achieve with it?
+  ein elektrisch betriebener Wasserkocher: an electric water heater
 
 betreten /bəˈtreːtən/: to enter, to walk onto
   Betreten verboten!
