@@ -6,6 +6,8 @@ Rabatt /raˈbat/, der: discount
 
 Rad /raːt/, das, Räder /ˈrɛːdɐ/: wheel
 
+Radler /ˈraːdlɐ/, der: shandy
+
 Radi /ˈraːdi/, der: garden radish
 
 Radiergummi, der, -s: rubber, eraser
@@ -128,6 +130,9 @@ Rebe /ˈreːbə/, die: (grape)vine
   Die Reben tragen bereits reife Trauben.
   The vines already have ripe grapes on them.
 
+Rebellion /rebɛˈljoːn/, die, -en: rebellion
+  zur Rebellion aufrufen: to incite a rebellion
+
 rechnen /ˈrɛçnən/: to calculate
   Sie lernen jetzt, mit Prozenten zu rechnen.
   At the moment they're learning to do calculations with percentages.
@@ -162,6 +167,13 @@ Rede /ˈreːdə/, die: speech
 Reform /reˈfɔrm/, die, -en: reform
   Vorschläge für eine grundlegende Reform des Gesundheitssystems machen
   to make suggestions for a thorough reform of the health system
+
+regelmäßig /ˈreːɡəlmɛːsɪç/: regular
+  auf die regelmäßige Einnahme der Medikamente achten
+  to be careful to take the medication at regular intervals
+  ein sehr regelmäßiges Muster: a very regular pattern
+  Die Formen von „schauen‟ sind völlig regelmäßig.
+  "Schauen" is a completely regular verb.
 
 regelrecht /ˈreːɡəlrɛçt/: real, proper
 
@@ -228,6 +240,15 @@ reisen /ˈraizən/: to travel
 
 reizend /ˈraiʦənt/: charming, delightful
 
+Relation /relaˈʦjoːn/, die, -en: relation
+  die Relation zwischen Angebot und Nachfrage
+  the relation between supply and demand
+  Seine Reaktion steht in keiner Relation zur Ursache.
+  His reaction bears no relation to the cause.
+
+religiös /reliˈɡjøːs/: religious
+  aus religiösen Gründen: for religious reasons
+
 Rendite /rɛnˈdiːtə/, die, -e: yield, return
   eine jährliche Rendite von 6 % abwerfen / erzielen: to bring in an annual return of 6%
 
@@ -265,6 +286,10 @@ Rettung /ˈrɛtʊŋ/, die: help, rescue
   => retten
   Das war Rettung in letzter Minute!
   That help came in the nick of time!
+
+Revolte /reˈvɔltə/, die, -n: revolt
+  Unter den Gefangenen brach eine Revolte aus.
+  A revolt broke out amongst the prisoners.
 
 Rezept /reˈʦɛpt/, das: recipe, prescription
   ein Rezept für Käsekuchen: a recipe for cheesecake
