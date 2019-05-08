@@ -142,10 +142,20 @@ Schätzung /ˈʃɛʦʊŋ/, die, -en: estimate
 
 schaudern /ˈʃaudɐn/: to shiver
 
+schaufeln /ˈʃaufəln/: to shovel
+  viel Geld von einem Konto auf ein anderes schaufeln
+  to shovel lots of money from one account to another
+  Mit dieser Aktion schaufelt sich die Partei ihr eigenes Grab.
+  The party are digging their own grave by doing this.
+
 schauen /ˈʃauən/: to look, to look for
   auf die Uhr schauen: to look at the clock
   Ich habe schon überall nach dem Schlüssel geschaut.
   I've already looked all over for the key.
+
+schaum /ʃaum/, der, ..e: foam, lather, froth
+  Schaum vor dem Mund haben: to be foaming at the mouth
+  Schaum schlagen: to show off
 
 Schauspieler, Schauspielerin /ˈʃauʃpiːlɐ/: actor/actress
 
@@ -243,6 +253,18 @@ schlagen /ˈʃlaːɡən/: to hit, to strike, to beat
   schlug, schlugst, schlug, schlugen, ihr schlugt
   jdm mit der Hand/Faust ins Gesicht schlagen: to slap/punch sb in the face
   Sahne für den Kuchen steif schlagen: to whip some cream for the cake
+
+Schlager /ˈʃlaːɡɐ/, der, -: hit song, bestseller
+  im Radio gern Schlager hören: to like listening to hit songs on the radio
+  Dieses Modell war letztes Jahr der Schlager.
+  This model was last year's bestseller.
+
+Schläger /ˈʃlɛːɡɐ/, der, -: bat, racket, club
+  Baseballschläger: baseball bat
+  
+Schläger /ˈʃlɛːɡɐ/, Schlägerin: thug
+  Die Schläger lauerten ihm in der Unterführung auf.
+  The thugs were waiting for him in the underpass.
 
 Schlagermusik, die: pop music
 
@@ -453,7 +475,7 @@ Schulden tilgen: to pay up
 
 Schuldenerlass: debt relief
 
-Schuldige: culprit
+Schuldige /ˈʃʊldɪɡə/, der-die: culprit
   Schuldige besonders: guilty person/party
 
 Schule /ˈʃuːlə/, die: school
@@ -531,6 +553,12 @@ Schwert /ˈʃveːɐt/, das, Schwerter: sword
   ein zweischneidiges Schwert: a double-edged sword
 
 schwierig /ˈʃviːrɪç/: difficult
+  Ich finde es schwierig, mich zu entscheiden.
+  I am finding it difficult to decide.
+  Unser Verhältnis war schon immer etwas schwierig.
+  We always had a rather difficult relationship.
+  Er war schon als Kind sehr schwierig.
+  He was very difficult even as a child.
 
 Schwierigkeit /ˈʃviːrɪçkait/, die: difficulty, complexity
 
@@ -566,6 +594,13 @@ Seele /ˈzeːlə/, die: soul
 
 Segel /ˈzeːɡəl/, das, -: sail
   die Segel setzen: to set the sails
+
+segnen /ˈzeːɡnən/: to bless
+  Der Pfarrer segnete das Brautpaar / die Speisen.
+  The priest blessed the bride and groom / meal.
+  mit etw. gesegnet sein: to be blessed with sth
+  mit reichlich Talent gesegnet sein
+  to be blessed with plenty of talent
 
 sehen
   sehe, siehst, sieht, ihr seht, habe gesehen
@@ -819,6 +854,14 @@ spätestens /ˈʃpɛːtəstəns/: at the latest
   Ich muss spätestens um Mitternacht zu Hause sein.
   I have to be home no later than midnight.
 
+spazieren /ʃpaˈʦiːrən/: to stroll, to walk
+  durch die Straßen / durch den Wald spazieren
+  to stroll along the streets/through the wood
+
+Spaziergang /ʃpaˈʦiːɐɡaŋ/, der, ..e: walk, stroll
+  Wir haben nach dem Essen einen langen Spaziergang gemacht.
+  We went for a long walk after dinner.
+
 Speise /ˈʃpaizə/, die, -n: dish
   Speisen und Getränke sind im Preis enthalten.
   Food and drink are included in the price.
@@ -831,6 +874,10 @@ spenden /ˈʃpɛndən/: to donate, to give, to provide
 Sperma /ˈʃpɛrma/, das, Spermen /ˈʃpɛrmən/: sperm
 
 Sperrgut, das, ..ter: bulky parcel
+
+Spezi /ˈʃpeːʦi/, der-das, -: cola and lemonade
+  Zwei Spezi, bitte.
+  Two cola and lemonades, please.
 
 speziell /ʃpeˈʦjɛl/: special
   ein ganz spezielles Angebot: a very special offer
@@ -871,6 +918,9 @@ Sprechstunde /ˈʃprɛçʃtʊndə/, die, -n: consultation, consultation hours
 
 spritzen /ˈʃprɪʦən/: to spray
   jdm Wasser ins Gesicht spritzen: to spray water in sb's face
+
+Sprudel /ˈʃpruːdəl/, der, -: sparkling mineral water, soda
+  saurer / süßer Sprudel: sparkling mineral water/soda
 
 sprudelnd: bubbly, fizzy
 
@@ -977,9 +1027,9 @@ stechen /ˈʃtɛçən/: to sting, to bite, to prick
 Stecher /ˈʃtɛçɐ/: sex partner
 
 stecken /ˈʃtɛkən/: to be, to put
-  viel Arbeit/Geld/… in etw. stecken
+  viel Arbeit / Geld / … in etw. stecken
   to put a lot of work/money/… into sth
-  jdm/sich einen Ring an den Finger stecken
+  jdm / sich einen Ring an den Finger stecken
   to put a ring on sb's/your finger 
 
 steckte => stecken
@@ -1055,6 +1105,10 @@ Stift /ʃtɪft/, der, -e: pen(cil), peg, tack, apprentice
   etw. mit Stiften befestigen: to fix sth with tacks
   Lass das den Stift machen.
   Let the apprentice do that.
+  
+Stiftung /ˈʃtɪftʊŋ/, die, -en: foundation
+  ein Stipendium einer privaten Stiftung erhalten
+  to get a scholarship from a private foundation
 
 stillen /ˈʃtɪlən/: to breastfeed
    Planst du, dein Kind zu stillen?
@@ -1178,6 +1232,10 @@ Stufe /ˈʃtuːfə/, die: step, stair
   zwei Stufen auf einmal nehmen: to go up two steps at a time
 
 Stuhl /ʃtuːl/, der: chair
+
+Struktur /ʃtrʊkˈtuːɐ/, die, -en: structure, texture
+  die soziale Struktur der Gesellschaft: the social structure of society
+  ein Gewebe mit einer rauen Struktur: a fabric with a coarse texture
 
 stumm /ʃtʊm/: dumb, silent
   Seit dem traumatischen Vorfall ist das Kind stumm.
