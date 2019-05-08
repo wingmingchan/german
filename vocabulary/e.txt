@@ -68,11 +68,17 @@ egal /eˈɡaːl/: whatever, irrelevant
   „Wann soll ich kommen?‟ – „Das ist ganz egal.‟
   "When should I come?" – "Any time."
 
-eher /ˈeːɐ/: rather
+eher /ˈeːɐ/: earlier, sooner, fairly, rather
+  Du hättest eher kommen sollen.
+  You should have come sooner.
+  Diese Krankheit tritt eher selten auf.
+  This illness is fairly uncommon.
   Ich würde eher in die Berge als ans Meer fahren.
   I'd rather go into the mountains than to the ocean.
   Das Wasser war eher kalt als warm.
   The water was cold rather than warm.
+  So kann ich das schon eher akzeptieren.
+  I can accept that more easily.
 
 eheste /ˈeːɐstə/: earliest
   Das ist der eheste Zug, den wir erreichen können.
@@ -374,6 +380,10 @@ einstürzen /ˈainʃtʏrʦən/: to collapse
 Eintrag /ˈaintraːk/, der: entry, record
   Wer hat die letzten Einträge vorgenommen?
   Who made the latest entries?
+
+einträglich /ˈaintrɛːklɪç/: profitable
+  Der Handel mit Raubkopien ist ein einträgliches Geschäft.
+  Trading in bootleg copies is a profitable business.
 
 eintreffen /ˈaintrɛfən/: to arrive, to come true
   Ist der Zug aus Dortmund schon eingetroffen?
