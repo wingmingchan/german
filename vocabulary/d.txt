@@ -32,6 +32,10 @@ daher /daˈheːɐ/: therefore
   Daher kann ich leider nicht kommen.
   So I'm afraid I can't come.
 
+dahinter /ˈdaːhɪntɐ/: behind (it)
+  Da ist das Rathaus und dahinter ein kleiner Park.
+  There's city hall and behind it a small park.
+
 damalige /ˈdaːmaːlɪɡə/: then, at that point
   meine damalige Chefin: my then boss
 
@@ -172,6 +176,9 @@ denen /ˈdeːnən/: those
 denken /ˈdɛŋkən/: to think
   Ich kann nicht mehr klar denken.
   I can't think straight anymore.
+  an jdn / sich / etw. denken: to think of sb/yourself/sth
+  Ich denke sehr oft an dich.
+  I think about you very often.
 
 Denkmal /ˈdɛŋkmaːl/, das: monument
 
@@ -408,6 +415,8 @@ durchaus /ˈdʊrç|aus/: quite, by all means
   Es kann durchaus sein, dass er kommt; ich glaube es aber nicht.
   It's quite possible he'll come, but I don't believe he will.
 
+durchfrieren: to freeze through
+
 durchführen /ˈdʊrçfyːrən/: to carry out, to perform, to execute
 
 durchgreifen /ˈdʊrçɡraifən/: to reach through
@@ -422,6 +431,15 @@ durchschneiden /ˈdʊrçʃnaidən/: to cut through
   to cut through the middle of an apple/a piece of string 
 
 Durchschreibesatz, der, ..e: NCR (no carbon required) form
+
+durchsetzen /ˈdʊrçzɛʦən/: to push/force through, to gain acceptance
+  Sie muss immer ihren Willen durchsetzen.
+  She always has to get her own way.
+  Handys haben sich am Markt sehr schnell durchgesetzt.
+  Cell phones quickly gained acceptance in the market.
+  sich (mit etw.) (gegen jdn / bei jdm) durchsetzen: to assert yourself (with sth) (against sb)
+  Sie konnte sich schon als Kind nicht gegen ihre Schwester durchsetzen.
+  Even as a child she was able to assert herself against her sister.
 
 durchwaten: to wade
 
