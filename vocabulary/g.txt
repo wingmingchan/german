@@ -110,13 +110,17 @@ Geburtstag /ɡəˈbuːɐʦtaːk/, der, -e: birthday
 
 gedacht => denken
 
-Gedanke /ɡəˈdaŋkə/, der, Gedanken: thought
-  jdn auf andere Gedanken bringen
-  to help sb forget their troubles
-
 Gedächtnis /ɡəˈdɛçtnɪs/, das: memory
   Mein Gedächtnis lässt mich manchmal im Stich.
   My memory sometimes lets me down.
+
+Gedanke /ɡəˈdaŋkə/, der, Gedanken: thought, idea
+  jdn auf andere Gedanken bringen
+  to help sb forget their troubles
+  Kommt mir bloß nicht auf dumme Gedanken!
+  Don't get any stupid ideas!
+  sich über jdn / etw. Gedanken machen: to be concerned about sb/sth
+  Darüber habe ich mir für Euch Gedanken gemacht.
 
 Geduld /ɡəˈdʊlt/, die: patience
   Er hat beim / fürs Basteln keine Geduld.
@@ -456,9 +460,17 @@ geschickt: skillful, numbly, cleverly
 
 geschwätzig /ɡəˈʃvɛʦɪç/: gossipy
 
+gesegnet: blessed
+  => segnen
+
 Geselligkeit /ɡəˈzɛlɪçkait/, die: sociability, conviviality
   Dank ihrer Geselligkeit findet sie schnell überall Anschluss.
   She finds it easy to make friends since she's so sociable.
+
+Gesellschaft /ɡəˈzɛlʃaft/, die, -en: society, company, party, social event
+  die Rolle der Frau in der Gesellschaft: the role of women in society
+  in schlechte Gesellschaft geraten: to get into bad company
+  eine geschlossene Gesellschaft: a private party
 
 Gesetz /ɡəˈzɛʦ/, das: law
   die Gesetze befolgen/einhalten: to abide by/stick to the laws
@@ -475,6 +487,12 @@ gesperrt: blocked, closed
 Gestalt /ɡəˈʃtalt/, die, Gestalten: form, figure, character
   Am Bahnhof lungerten dunkle Gestalten herum.
   There were shady characters hanging around the station.
+
+gestehen /ɡəˈʃteːən/: to confess (to), to admit (to)
+  Der Mörder hat (die Tat) gestanden.
+  The murderer has confessed (to the crime).
+  Sie gestand ihm ihre Liebe.
+  She confessed her love to him.
 
 gestern /ˈɡɛstɐn/: yesterday
 
@@ -627,6 +645,25 @@ gönnen
   Du musst dir mal wieder eine Pause gönnen!
   You need to give yourself a break for a change.
 
+Gottesdienst /ˈɡɔtəsdiːnst/, der, -e: service
+  ein katholischer / evangelischer Gottesdienst
+  a Catholic/Protestant service
+
+Grab /ɡraːp/, das, ..er: grave
+  Blumen auf ein Grab legen: to lay flowers on a grave
+  jdn zu Grabe tragen: to lay sb to rest
+  sich sein eigenes Grab schaufeln: to dig your own grave
+
+Graben /ˈɡraːbən/, der, ..: ditch, rift, divide
+  einen Graben ausheben: to dig a ditch
+  Gräben zwischen Christen und Moslems aufreißen / überbrücken
+  to create rifts between Christians and Muslims
+
+graben /ˈɡraːbən/: to dig
+  Du musst tiefer graben!
+  You have to dig deeper!
+  nach jdm / etw. graben: to dig for sb/sth
+
 Grad /ɡraːt/, der: degree, level
   zehn Grad Celsius/Fahrenheit: 10 degrees centigrade/Fahrenheit
 
@@ -684,6 +721,9 @@ großartig /ˈɡroːs|artɪç/: wonderful, terrific, great
   It doesn't make much of a difference.
 
 Größe /ˈɡrøːsə/, die: size
+
+Grube /ˈɡruːbə/, die, -n: pit, hole
+  eine Grube graben / ausheben: to dig a hole/pit
 
 grün /ɡryːn/: green
   grüner Salat: lettuce
