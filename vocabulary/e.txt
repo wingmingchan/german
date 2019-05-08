@@ -109,9 +109,11 @@ eigenhändig /ˈaiɡənhɛndɪç/: in your own hand, personal
 
 Eigenleistung, die: borrower's own funding, personal contribution
 
-eigentlich /ˈaiɡəntlɪç/: actually
+eigentlich /ˈaiɡəntlɪç/: actually, really
   Eigentlich heißt er Johannes, Hansi ist nur sein Spitzname.
   Actually his name is Johannes – Hansi's just his nickname.
+  Eigentlich darfst du das ja nicht, aber ich mach mal eine Ausnahme.
+  Actually, you're not allowed to do that, but I'll make an exception this time.
 
 Eigentümer /ˈaiɡəntyːmɐ/, Eigentümerin: owner
 
@@ -152,6 +154,19 @@ eineinhalb /ˈain|ainˈhalp/: one and a half
   Sie hat eineinhalb Scheiben Brot gegessen.
   She ate one and a half slices of bread.
 
+einer: one, some, somebody
+  Einer nach dem anderen kam an die Reihe.
+  One after the other had their turn.
+  die eine, die ich meine
+  the one that I mean
+  Die Leute sind geteilter Meinung. Die einen sagen …, die anderen …
+  Opinions are divided. Some say …, while others …
+  zum einen …, zum anderen: first ( of all) …, and second (of all)
+  Zum einen gefällt uns der Wagen sehr gut, zum anderen können wir nicht schon wieder Schulden machen.
+  First of all we really like the car, and second we can just about afford it.
+  Hat einer die Tür abgeschlossen?
+  Did somebody lock the door?
+
 einfach /ˈainfax/: easy, simple, easily, simply
   Die Aufgabe war nicht ganz einfach.
   The problem wasn't exactly easy.
@@ -191,9 +206,10 @@ einfärben: to dye
   => färben: to color
   Kleider schwarz einfärben: to dye dresses black
 
-Einfluss /ˈainflʊs/, der, ..e: influence
+Einfluss /ˈainflʊs/, der, ..e: influence, authority, clout
   Sie scheint einen positiven Einfluss auf ihn auszuüben.
   She seems to exert a positive influence on him.
+  großen Einfluss besitzen: to have a great deal of clout
 
 einfügen /ˈainfyːɡən/: to insert, to fit in
   ein Puzzleteil einfügen: to put a jigsaw puzzle in its place
@@ -427,6 +443,10 @@ Eloquenz /-ˈkvɛnts/, die
 Eltern /ˈɛltɐn/: parents
   Da muss ich erst meine Eltern um Erlaubnis fragen.
   I'll have to ask my parents for permission first.
+  
+Elternhaus /ˈɛltɐnhaus/, das, ..er: parents' house, family home
+  Mein Elternhaus steht in Hamburg.
+  My parents' house is in Hamburg.
 
 empfangen /ɛmˈpfaŋən/: to receive, to pick up, to get, to greet, to welcome
   Diesen Sender können wir hier leider nicht empfangen.
@@ -567,6 +587,10 @@ enttäuschen /ɛntˈtɔyʃən/: to disappoint
 
 enttäuscht: disappointed
 
+entweder /ˈɛntveːdɐ/: either
+  Entweder es funktioniert oder nicht.
+  Either it works or it doesn't.
+
 entwickeln /ɛntˈvɪkəln/: to develop
 
 Entwicklung /ɛntˈvɪklʊŋ/, die: development
@@ -627,7 +651,9 @@ erfolgreich /ɛɐˈfɔlkraiç/: successful
 
 Erforschung /ɛɐˈfɔrʃʊŋ/, die: investigation, exploration, research
 
-erfrischen: to refresh
+erfrischen /ɛɐˈfrɪʃən/: to refresh
+  Die Pause hat ihn ein wenig erfrischt.
+  The break refreshed him a little.
 
 Erfrischung: refreshment
 
@@ -661,6 +687,8 @@ ergreifen /ɛɐˈɡrɪfn/: to seize, to overcome
 erhalten /ɛɐˈhaltən/: to receive, to get
   Haben Sie meinen Brief erhalten?
   Did you get my letter?
+  für eine Tätigkeit 400 Euro im Monat erhalten
+  to get 400 euros a month for a job
 
 erhältlich /ɛɐˈhɛltlɪç/: available
   Dieses Buch ist nur im Fachhandel erhältlich.
