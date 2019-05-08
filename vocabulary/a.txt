@@ -193,6 +193,17 @@ abschöpfen /ˈapʃɶpfən/: to skim off, to make
   Mit einem Festgeldkonto kann man eine gute Rendite abschöpfen.
   With a fixed-term savings account you can make a healthy return on your investment.
 
+absehen /ˈapzeːən/: to foresee, to learn
+  Es ist jetzt schon abzusehen, dass daraus nichts wird.
+  It's already clear that nothing's going to come of it.
+  Den Trick hab ich mir bei meinem Vater abgesehen.
+  I picked up that trick from my father.
+  von etw. absehen: to disregard sth, to refrain from sth
+  Wenn man mal vom langen Arbeitsweg absieht, ist der Job ideal.
+  With the exception of the long commute, the job is ideal.
+  Bitte sehen Sie von telefonischen Nachfragen ab.
+  Please do not call with inquiries.
+
 Absender /ˈapzɛndɐ/: sender
   <=> Empfänger
 
@@ -376,6 +387,8 @@ allerdings /ˈalɐˈdɪŋs/: however, indeed, certainly
   „Ist das denn wichtig?‟ – „Allerdings!‟
   "Is that really important?" – "Indeed!"
 
+Allerheiligen /ˈalɐˈhailɪɡən/, das, (uncountable): katholischer Feiertag am 1. November, an dem alle Heiligen geehrt werden, All Saints' Day
+
 allerlei /ˈalɐˈlai/: all kinds of
   sich allerlei zu erzählen haben: to have lots to tell each other
 
@@ -541,6 +554,13 @@ Angabe /ˈanɡaːbə/, die: information, statement
   Er hat der Polizei gegenüber falsche Angaben gemacht.
   He made false statements to the police.
 
+angeblich /ˈanɡeːplɪç/: alleged, supposed, reputed, alleged
+  seine angebliche Schwester: his would-be sister
+  Die angebliche Affäre entpuppte sich als Irrtum.
+  The purported affair turned out to be a mistake.
+  Angeblich ist er krank.
+  He claims that he's ill.
+
 Angebot /ˈanɡəboːt/, das: offer, supply
   jdm ein gutes Angebot machen: to make sb a good offer
   <=> Nachfrage
@@ -704,7 +724,7 @@ anstellen /ˈanʃtɛlən/: to hire, to employ, to engage
   Was sollen wir jetzt mit all den Kisten anstellen?
   Now what are we going to do with all these boxes?
   Stellt mir bloß nichts an, während ich weg bin!
-  Don't get up to any nonsense while I’m away.
+  Don't get up to any nonsense while I'm away.
   Sie stellte Vermutungen an, was passiert sein könnte.
   She speculated about what might have happened.
   sich hinten anstellen müssen: to have to go to the back of the line
@@ -885,6 +905,13 @@ Aufforderung /ˈauffɔrdərʊŋ/, die, -en: order, command
   Die Demonstranten kamen der Aufforderung der Polizei, den Platz zu verlassen, nicht nach.
   The demonstrators did not comply with the police's demand to leave the square.
 
+auffrischen /ˈauffrɪʃən/: to refresh, to touch up, to boost
+  durch einen Volkshochschulkurs seine Sprachkenntnisse auffrischen
+  to do an evening class to brush up your knowledge of the language
+  Die Farbe blättert ab und sollte aufgefrischt werden.
+  The paint is flaking and should be touched up.
+  Auffrischimpfung: booster vaccination
+
 aufführen /ˈauffyːrən/: to perform, to list, to act, to behave
   Unsere Klasse will ein Musical aufführen.
   Our class plans to put on a musical.
@@ -984,9 +1011,16 @@ aufreißen /ˈaufraisən/: to tear open, to open wide, to pick up, to burst (ope
   Die Naht / Tüte ist aufgerissen.
   The stitch tore/The bag burst.
 
-
 aufrichtig /ˈaufrɪçtɪç/: sincere, honest
   aufrichtigen Dank empfinden: to be sincerely grateful 
+
+aufrufen /ˈaufruːfən/: to call
+  Sie müssen warten, bis Sie aufgerufen werden.
+  You have to wait until you're called.
+  Er wusste keine Antwort, als der Lehrer ihn aufrief.
+  He didn't know the answer when the teacher called on him.
+  Alle sind aufgerufen mitzumachen.
+  Everyone is expected to join in.
 
 Aufsatz /ˈaufzaʦ/, der, ..e: essay, paper
   Wir müssen einen Aufsatz über unser schönstes Ferienerlebnis schreiben.
@@ -995,6 +1029,9 @@ Aufsatz /ˈaufzaʦ/, der, ..e: essay, paper
 aufschlagen /ˈaufʃlaːɡən/: to open, to add, to hit
   Ich hielt sie für tot, bis sie die Augen aufschlug.
   I thought she was dead till she opened her eyes.
+
+Aufstand /ˈaufʃtant/, der, ..e: revolt, rebellion
+  Arbeiteraufstand: workers' rebellion
 
 aufstehen /ˈaufʃteːən/: to get up, to stand up, to be open
   Er stand auf und bot dem Mann seinen Platz an.
@@ -1144,6 +1181,10 @@ Aushang /ˈaushaŋ/, der, ..e: notice
   Auf einem Aushang am Schwarzen Brett wird ein Babysitter gesucht.
   There's a notice on the bulletin board that sb is looking for a babysitter.
 
+ausheben /ˈausheːbən/: to dig
+  Sie haben bereits mit dem Ausheben der Baugrube begonnen.
+  They have already started digging the pit for the foundations of the building.
+
 auskühlen: to cool
 
 Ausland /ˈauslant/, das: foreign countries
@@ -1226,10 +1267,15 @@ Ausschuss /ˈausʃʊs/, der: committee, wastage
   Wir haben heute nur Ausschuss produziert.
   All we produced today was rejects.
 
-Aussehen /ˈauszeːən/, das: appearance
+Aussehen /ˈauszeːən/, das, (uncountable): appearance
+  Gutes Aussehen ist mir nicht so wichtig.
+  Looking good isn't so important for me.
 
 aussehen /ˈauszeːən/: to look
   krank/gesund aussehen: to look ill/healthy
+  nach etw. aussehen: to look like
+  Das sieht nach Brandstiftung aus.
+  That looks like arson.
 
 Aussprache /ˈausʃpraːxə/, die: pronunciation
   die richtige Aussprache eines Wortes
