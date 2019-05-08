@@ -83,6 +83,12 @@ Täter /ˈtɛːtɐ/, Täterin: culprit
 
 tätig /ˈtɛːtɪç/: active, employed, practical
 
+Tätigkeit /ˈtɛːtɪçkait/, die, -en: job, occupation, activity
+  Wir bieten Ihnen eine interessante, gut bezahlte Tätigkeit.
+  We can offer you an interesting and well-paid job.
+  Er hält Lesen für eine langweilige Tätigkeit.
+  He thinks reading is boring.
+
 tatkräftig /ˈtaːtkrɛftɪç/: energetic, active
   Zum Glück fanden sich viele tatkräftige Helfer.
   Luckily lots of energetic helpers turned up.
@@ -278,7 +284,7 @@ total /toˈtaːl/: total, really
   Ich finde es total nett von ihm, dass er dich eingeladen hat.
   I think it was really nice of him to invite you.
 
-Tote /ˈtoːtə/: dead person, dead man/woman
+Tote /ˈtoːtə/, -n: dead person, dead man/woman
   ein unbekannter Toter: an unidentified dead man
 
 Tracht /traxt/, die, -en: traditional/regional/national costume
@@ -290,6 +296,7 @@ trachten /ˈtraxtən/: to strive for sth
   jdm nach dem Leben trachten: to be after sb's blood/head
 
 Tradition /tradiˈʦjoːn/, die, -en: tradition
+  => Brauch
   an alten Traditionen festhalten: to uphold ancient traditions
 
 traditionell /tradiʦjoˈnɛl/
