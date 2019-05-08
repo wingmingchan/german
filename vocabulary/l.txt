@@ -154,6 +154,10 @@ Last, die: load, burden
 
 lästig /ˈlɛstɪç/: annoying, tiresome
 
+lauern /ˈlauɐn/: to lurk, to lie in wait
+  Die Katze lauert vor dem Mauseloch.
+  The cat is lying in wait in front of the mousehole.
+
 laufen /ˈlaufən/: to run, to walk, to be on
   laufe, läufst, läuft, ihr lauft, bin gelaufen
   lief, liefst, lief, liefen, lieft
@@ -200,6 +204,11 @@ lauten /ˈlautən/: to be
 läuten /ˈlɔytən/: to ring, to go off
   Die Glocken läuten täglich um 12 Uhr.
   The bells ring every day at 12 o'clock.
+  Der Pfarrer läutete die Glocken.
+  The parish priest rang the bells.
+  (von) etw. läuten hören: to hear rumors of sth
+  Ich habe (davon) läuten hören, dass sie angeblich schwanger ist.
+  I've heard rumors that she's supposed to be pregnant.
 
 Leben /ˈleːbən/, das: life
   ums Leben kommen: to be killed
@@ -352,6 +361,10 @@ ließ => lassen
 Liguster /liˈgʊstər/, der: common privet
 
 Limo /ˈlɪmo/, die: soda, lemonade, limo
+
+Limonade /limoˈnaːdə/, die, -n: soda
+  Zitronenlimonade: lemonade
+  Orangenlimonade
 
 Linienbus, der: public service bus
 
