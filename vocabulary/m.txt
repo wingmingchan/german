@@ -74,6 +74,8 @@ Mannequin /ˈmanəkɛ̃/, das: model
 
 männlich /ˈmɛnlɪç/: male
 
+Maracuja /maraˈkuːja/, die, -s: passion fruit
+
 Märchen /ˈmɛːɐçən/, das: fairy tale, story
   die Märchen der Brüder Grimm: Grimm's fairy tales
   Erzähl doch keine Märchen!
@@ -87,6 +89,11 @@ markieren /marˈkiːrən/: to highlight, to mark
 
 Marmelade /marməˈlaːdə/, die: jelly, jam
   hausgemachte Erdbeermarmelade: homemade strawberry jelly
+  
+marschieren /marˈʃiːrən/: to trek, to march
+  Wir marschierten durch den Wald.
+  We trekked through the forest.
+  im Gleichschritt marschieren: to march in step
 
 Maschine /maˈʃiːnə/, die: machine, plane
 
@@ -259,7 +266,9 @@ Ministerpräsident: prime minister
 
 Minute /miˈnuːtə/, die: minute
 
-Mischen: mixture
+Mischgetränk, das: mixed drink
+
+Mischen /ˈmɪʃən/: mixture
 
 mischen /ˈmɪʃən/: to mix, to shuffle
   Wasser mit Saft mischen: to mix water and juice
