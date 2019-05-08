@@ -164,6 +164,12 @@ Haupt /haupt/, das: head
 
 Hauptreisezeit: peak tourist season
 
+hauptsächlich /ˈhauptzɛçlɪç/: main, primary, chief
+  Ihr hauptsächliches Interesse gilt der Natur.
+  Her primary interest is in nature.
+  Dieses Produkt wird hauptsächlich von Frauen gekauft.
+  This product is bought primarily by women.
+
 Hauptverkehrszeit: rush hour
 
 Hausarbeit /ˈhaus|arbait/, die: housework
@@ -375,6 +381,9 @@ heutig, heutige /ˈhɔytɪɡə/: today's, contemporary, modern
 
 hielt => halten
 
+hierarchisch /hieˈrarçɪʃ/: hierarchic(al)
+  etw. ist hierarchisch geordnet: sth is organized hierarchically
+
 hierher: here
   Sie sind schon auf dem Weg hierher.
   They're already on the way here.
@@ -439,6 +448,16 @@ hinter /ˈhɪntɐ/: behind
 hinterlassen /hɪntɐˈlasən/: to leave behind
 
 hinüber /hɪˈnyːbɐ/: over
+  ein Blick hinüber zum Nachbarn: a glance over to your neighbor
+  hinüber sein: to be busted/shot/down
+  Das Auto springt nicht an, wahrscheinlich ist die Batterie hinüber.
+  The car won't started – the battery's probably dead.
+  Riech mal an der Milch. Ich glaube, sie ist hinüber.
+  Smell the milk. I think it's off.
+​ Nach dem Frost letzte Nacht sind die Tomatenpflanzen hinüber.
+  After last night's frost the last of the tomato plants have bitten the dust.
+  Zu dem Zeitpunkt war ich schon zu hinüber, um vom Gespräch noch was mitzukriegen.
+  At that point I was too tanked to pick up any of the conversation.
 
 Hinweis /ˈhɪnvaɪs/, der: information, clue, lead, evidence, indication
   Die Polizei bittet um Hinweise aus der Bevölkerung.
