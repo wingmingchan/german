@@ -59,8 +59,14 @@ insgesamt: altogether, in total
 
 Intelligenz /ɪntɛliˈɡɛnʦ/, die: intelligence
 
-Interesse /ɪntəˈrɛsə/, das: interest
+*Interesse /ɪntəˈrɛsə/, das, -n: interest
   etw. weckt jds Interesse: sth arouses sb's interest
+  Ich habe kein Interesse daran, Ihre Zeitung zu abonnieren.
+  I'm not interested in subscribing to your newspaper.
+  Meine besonderen Interessen: Lesen, Wandern, Klavierspielen.
+  My hobbies are: reading, hiking, playing the piano.
+  die Interessen der Arbeitnehmer vertreten
+  to represent the interests of the workers
 
 Internet /ˈɪntɐnɛt/, das, (uncountable)
   im Internet surfen: to surf the Internet
