@@ -729,6 +729,10 @@ Beweis /bəˈvais/, der, -e: proof, evidence
   einen Beweis für etw. erbringen: to produce proof of sth
   aus Mangel an Beweisen freigesprochen werden: to be acquitted due to lack of evidence
 
+Bewerber /bəˈvɛrbɐ/, -, Bewerberin: applicant, candidate
+  Wir haben zahlreiche hochqualifizierte Bewerber zur Auswahl.
+  We have a large number of highly qualified candidates to choose from.
+
 bewerfen /bəˈvɔrfən/: to pelt, to bombard
   jdn/etw mit etw bewerfen: to throw sth at sb/sth
 
@@ -901,8 +905,9 @@ Blutprobe /ˈbluːtproːbə/, die, -n: blood test, blood sample
 
 Bock /bɔk/, der: buck, ram, billy goat
 
-Boden, Böden, der: ground, soil
-  ein fruchtbarer/steiniger/sandiger Boden: fertile/stony/sandy ground
+Boden /ˈboːdən/, der, ..: ground, soil
+  ein fruchtbarer / steiniger / sandiger Boden: fertile/stony/sandy ground
+  auf den / zu Boden fallen: to fall to the floor/ground
 
 bog => biegen
 
