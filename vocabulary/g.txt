@@ -347,6 +347,11 @@ Gemeinde /ɡəˈmaində/, die: municipality, community
   Bund, Länder und Gemeinden
   the Federal Government, the Federal States, and the municipalities
 
+gemeinnützig /ɡəˈmainnʏʦɪç/: charitable, non-profit
+  Der Verein ist als gemeinnützig anerkannt.
+  The society is a recognized charity.
+  gemeinnützige Arbeit leisten: to do voluntary work
+
 gemeinsam /ɡəˈmainzaːm/: common, joint, mutual, united, collectively, together, in common, in concert
   gemeinsam wandern/singen: to go hiking/to sing together
   gemeinsame Interessen haben: to share common interests
@@ -418,6 +423,18 @@ geraten /ɡəˈraːtən/: to come/get/run into , to hit, to get
   How on earth did she come across that guy?
   Sie gerät leicht in Wut.
   She's quick to get angry.
+
+Gericht /ɡəˈrɪçt/, das, -e: court, bench
+  jdn vor Gericht bringen: to take sb to court
+  das Jüngste Gericht: the Last Judgement
+  Das Gericht zog sich zur Beratung zurück.
+  The bench retired for deliberations.
+  Ich muss heute aufs Gericht.
+  I have to go to court today.
+  
+Gericht, das, -e: dish, meal
+  Warme Gerichte servieren wir ab 18 Uhr.
+  We serve hot meals from 6 p.m.
 
 gering /ɡəˈrɪŋ/: low, small
   eine geringe Anzahl von Bewerbern: a small number of applicants
@@ -537,6 +554,10 @@ Gewehr /ɡəˈveːɐ/, das: rifle, shotgun
 Gewerkschaft /ɡəˈvɛrkʃaft/, die: labor union
 
 gewesen => sein
+
+Gewinn /ɡəˈvɪn/, der, -e: profit
+  <=> Verlust
+  hohe Gewinne erzielen: to make handsome profits
 
 gewiss /ɡəˈvɪs/: certain, certainly
   Eine gewisse Frau Ott hat für dich angerufen.
