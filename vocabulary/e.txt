@@ -242,6 +242,9 @@ einheimisch /ˈainhaimɪʃ/: local, native
 
 eingeschrieben: registered
 
+eingetragen: registered
+  => eintragen
+
 Einkommen /ˈainkɔmən/, das: income, earnings
   Wie hoch ist Ihr monatliches Einkommen in etwa?
   Roughly how high is your monthly income?
@@ -380,6 +383,15 @@ einstürzen /ˈainʃtʏrʦən/: to collapse
 Eintrag /ˈaintraːk/, der: entry, record
   Wer hat die letzten Einträge vorgenommen?
   Who made the latest entries?
+
+eintragen /ˈaintraːɡən/: to sign in/on, to enroll, to register, to earn
+  Bitte tragen Sie sich / Ihren Namen in die Liste ein.
+  Please sign in/enter your name on the list.
+  Diese Straße ist auf der Karte nicht eingetragen.
+  There's no record of this road on the map.
+​ ein eingetragenes Warenzeichen: a registered trademark
+  Ihr Engagement trug ihr viel Lob ein.
+  Her commitment earned her a lot of praise.
 
 einträglich /ˈaintrɛːklɪç/: profitable
   Der Handel mit Raubkopien ist ein einträgliches Geschäft.
@@ -755,6 +767,11 @@ erlangen /ɛɐˈlaŋən/: to gain, to obtain, to achieve
 Erlass /ɛɐˈlas/, der: decree, remission, release
   Schuldenerlass: debt relief
 
+erlassen /ɛɐˈlasən/: to issue
+  Gegen ihn wurde Haftbefehl erlassen.
+  A warrant was issued for his arrest.
+  
+
 erlauben /ɛɐˈlaubən/: to allow, to permit
 
 Erlaubnis /ɛɐˈlaupnɪs/, die, -se: permission
@@ -902,6 +919,10 @@ erwarten /ɛɐˈvartən/: to expect
 
 erweitern /ɛɐˈvaitɐn/: to expand, to grow, to increase
 
+erwirken /ɛɐˈvɪrkən/: to obtain, to take out
+  eine einstweilige Verfügung gegen jdn erwirken
+  to obtain a preliminary injunction against sb
+
 erwünscht /ɛɐˈvʏnʃt/: desired, welcome
   den erwünschten Erfolg erzielen: to have the desired success
   Kinder sind hier scheinbar nicht erwünscht.
@@ -960,6 +981,8 @@ etwa /ˈɛtva/: used to express surprise, by any chance
 etwas /ˈɛtvas/: something, a little, somewhat
 
 Eule /ˈɔylə/, die, Eulen: owl
+
+e.V. eingetragener Verein: registered association/society
 
 ewig /ˈeːvɪç/: eternal
   Sie schworen sich ewige Treue.
