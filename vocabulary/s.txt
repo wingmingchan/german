@@ -13,6 +13,12 @@ Sache /ˈzaxə/, die: thing
 
 sachlich /ˈzaxlɪç/: objective, matter-of-fact, factual, objectively
 
+Sackgasse /ˈzakɡasə/, die, -n: dead end, cul-de-sac
+  Das Haus steht am Ende einer Sackgasse.
+  The house is at the end of a cul-de-sac.
+  Die Verhandlungen sind in eine Sackgasse geraten.
+  The negotiations have reached a dead end.
+
 Saft /zaft/, der, Säfte: juice
   Apfelsaft, Orangensaft
 
@@ -813,6 +819,9 @@ Sorge /ˈzɔrɡə/, die, Sorgen: worry
 
 sorgen /ˈzɔrɡən/: to cater, to provide, to ensure, to worry, to cause
 
+sorgfältig /ˈzɔrkfɛltɪç/: careful
+  <=> nachlässig
+
 Sorte /ˈzɔrtə/, die, -n: sort, kind, type
   Es gab mehrere Sorten Käse und Wurst zur Auswahl.
   There was a selection of different types of cheese and sausage.
@@ -867,9 +876,16 @@ Speise /ˈʃpaizə/, die, -n: dish
   Food and drink are included in the price.
 
 spenden /ˈʃpɛndən/: to donate, to give, to provide
+  Es wurden über 100.000 Euro für die Flüchtlinge gespendet.
+  More than 100,000 euros were donated for the refugees.
+  Er hat seiner Tochter eine Niere gespendet.
+  He donated one of his kidneys to his daughter.
   Das Feuer spendete wohlige Wärme.
   The fire gave off a pleasant warmth.
   Große Kastanienbäume spenden Schatten.
+  Large chestnut trees provide shade.
+  Der Lehrer spendete viel Lob für die gute Arbeit.
+  The teacher was full of praise for the good work.
 
 Sperma /ˈʃpɛrma/, das, Spermen /ˈʃpɛrmən/: sperm
 
@@ -1060,9 +1076,21 @@ Stein /ʃtain/, der, -e: stone
 
 Steinbock /ˈʃtainbɔk/, der: ibex
 
-stellen /ˈʃtɛlən/: to put, to place, to set
+stellen /ˈʃtɛlən/: to put, to place, to set, to provide
   Blumen in eine Vase stellen: to put some flowers in a vase
   jdm eine Frage stellen: to ask sb a question
+  sich ans Fenster / auf einen Stuhl stellen
+  to go and stand by the window/position yourself on a chair
+  Getränke für die Party kalt stellen: to chill some drinks for the party
+  das Radio leiser stellen: to turn the radio down
+  Stell dir einen Wecker, damit du nicht verschläfst.
+  Set an alarm clock so you don't sleep in.
+  Die benötigten Materialien werden vom Kursleiter gestellt.
+  The necessary materials are provided by the course instructor.
+  Das Bild wirkt gestellt.
+  The photo looks posed.
+  Er lief davon, konnte aber in einer Sackgasse gestellt werden.
+  He ran away but it was possible to corner him in a cul-de-sac.
 
 -stellig /ʃtɛlɪç/: -figure, -digit
   fünfstellige
