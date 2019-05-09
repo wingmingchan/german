@@ -99,6 +99,8 @@ verdrängen /fɛɐˈdrɛŋən/: to drive out
 Verein /fɛɐˈ|ain/, der, -e: association, club, society
   Mitglied im Sportverein sein: to be a member of the sports club
 
+Vereinsmeierei, die: club fanaticism
+
 vereinbaren /fɛɐˈ|ainbaːrən/: to agree, to arrange
   einen Termin beim Zahnarzt vereinbaren
   to arrange an appointment at the dentist
@@ -141,9 +143,10 @@ verfügen /fɛɐˈfyːɡən/: to have (at your disposal), to be in charge, to or
   Das Hotel verfügt über vierzig Doppelzimmer.
   The hotel has over forty double rooms.
 
-Verfügung /fɛɐˈfyːɡʊŋ/, die, -en: disposal
+Verfügung /fɛɐˈfyːɡʊŋ/, die, -en: disposal, order, decree
   Unser Personal steht jederzeit zu Ihrer Verfügung.
   Our staff are always at your disposal.
+  eine einstweilige Verfügung erlassen / erwirken: to issue/obtain a temporary decree
 
 vergangen /fɛɐˈɡaŋən/: past, previous, last
   => vergehen
@@ -220,6 +223,12 @@ Verhandlung /fɛɐˈhandlʊŋ/, die: negotiation
 verhangen: overcast
 
 verhängen /fɛɐˈhɛŋən/: to impose, to drape
+
+Verhandlung /fɛɐˈhandlʊŋ/, die, -en: negotiation, hearing
+  Die Verhandlungen blieben leider ohne Ergebnis.
+  Unfortunately the negotiations did not end in agreement.
+  Die Verhandlung wurde auf nächste Woche vertagt.
+  The hearing was postponed until next week.
 
 verheiraten: to marry, to get married
 
@@ -318,6 +327,12 @@ verloren => verlieren
 verlumpt: worn-out
 
 Verlust /fɛɐˈlʊst/, der: loss
+  Der Verlust ihres Vaters schmerzte sie sehr.
+  The loss of her father hit her very hard.
+  <=> Gewinn
+  bei einem Geschäft 200 Euro Verlust machen: to make a loss of 200 euros on a deal
+  Bei diesem Kampf gab es schwere Verluste.
+  Heavy losses were sustained during this battle.
 
 Vermächtnis /fɛɐˈmɛçtnɪs/, das: legacy
 
@@ -485,6 +500,10 @@ verstricken /fɛɐˈʃtrɪkən/: to be caught up with, to involve sb in sth
   The suspect has become caught up in a web of lies/contradictions.
 
 Versuch /fɛɐˈzuːx/, der: attempt
+
+vertagen /fɛɐˈtaːɡən/: to adjourn
+  Die Abstimmung über den Antrag wurde auf die nächste Sitzung vertagt.
+  The vote on the application was adjourned until the next meeting.
 
 Vertrag /fɛɐˈtraːk/, der: contract
   einen Vertrag mit jdm schließen: to sign a contract with sb
