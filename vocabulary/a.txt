@@ -105,8 +105,9 @@ abkommen: to go off sth, to give up sth
   Ich bin davon abgekommen, alles allein schaffen zu wollen.
   I've given up the ideal of trying to all of that on my own.
 
-Abkürzung /ˈapkʏrʦʊŋ/, die, -en: abbreviation
+Abkürzung /ˈapkʏrʦʊŋ/, die, -en: abbreviation, shortcut
   Abkürzungsverzeichnis: list of abbreviations
+  eine Abkürzung nehmen / fahren: to take a shortcut
 
 ablaufen: to expire, to run out, to drain
   Die Frist läuft nächsten Monat ab.
@@ -708,7 +709,7 @@ ansetzen /ˈanzɛʦən/: to schedule, to estimate, to develop, to place
 
 ansonsten /anˈzɔnstən/: otherwise, apart from that
   Ich bin ein wenig erkältet, aber ansonsten geht es mir gut.
-  I have a little bit of a cold, but otherwise I’m fine.
+  I have a little bit of a cold, but otherwise I'm fine.
 ​ Wir müssen jetzt gehen, ansonsten kommen wir zu spät.
   We'd better go now – otherwise we'll be late.
 
@@ -742,6 +743,17 @@ anstreichen /ˈanʃtraiçən/: to paint, to Mark
   eine Bank blau anstreichen: to paint a bench blue
   Der Lehrer hat mir das als Fehler angestrichen.
   The teacher marked that as a mistake. 
+
+Antrag /ˈantraːk/, der, ..e: application, motion, proposal
+  Antrag auf Arbeitslosengeld stellen: to apply for unemployment benefits
+  Der Antrag wurde mit überwältigender Mehrheit angenommen.
+  The motion was carried with an overwhelming majority.
+  Er machte ihr einen Antrag.
+  He proposed to her.
+
+Antragsteller /ˈantraːkʃtɛlɐ/, Antragstellerin: applicant, claimant, petitioner
+  Unterschrift des Antragstellers: …
+  Signature of applicant: …
 
 antrocknen: to begin to dry
 
