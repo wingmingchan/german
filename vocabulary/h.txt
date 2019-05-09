@@ -27,6 +27,10 @@ Haft /haft/, die, Haft: custody, imprisonment
 
 -haft: -like
 
+Haftbefehl /ˈhaftbəfeːl/, der, -e: warrant
+  gegen jdn einen Haftbefehl erlassen
+  to issue a warrant for sb's arrest
+
 haften /ˈhaftən/: to be liable (for), to be legally responsible (for), to cling (to), to stick (to/in)
   Eltern haften nicht immer für ihre Kinder.
   Parents are not always responsible for their children's actions.
