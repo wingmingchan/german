@@ -25,6 +25,11 @@ Nachfrage /ˈnaːxfraːɡə/, die: demand
 
 nachlassen: to bate, to deteriorate, to get worse
 
+nachlässig /ˈnaːxlɛsɪç/: careless, negligent
+  <=> sorgfältig
+  seine nachlässige Datensicherung bitter bereuen
+  to bitterly regret your negligence in backing up your data
+
 Nachname /ˈnaːxnaːmə/, der: surname
   Er heißt Robert, mit Nachnamen Schmidt.
   He's called Robert and his surname is Schmidt.
