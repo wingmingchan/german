@@ -9,9 +9,9 @@ genanntes öffentliches Verkehrssystem. Öffentliche Verkehrsmittel sind zum Bei
 U-Bahnen oder Busse. Ich erkläre Euch jetzt einmal, wie das System in München
 funktioniert. Es ist leider ein wenig kompliziert, aber wir versuchen es trotzdem, ok?
 
-居住在德國的大城市裏，像慕尼黑、柏林、漢堡、斯圖加特，或者是科隆，人們並不需要私人汽車。我的很多朋友都沒有
-車，這是因為這些城市都有一個完善的公共交通系統。比如說，像地鐵、公共汽車公等共交通工具。我現在跟您解釋
-慕尼黑的公共交通系統是怎麼樣操作的。這有點複雜，但無論如何，我們試試，好不好？
+居住在德國的大城市裏，像慕尼黑、柏林、漢堡、斯圖加特，或者是科隆，人們並不需要私人汽車。我很多朋友都沒有
+車，這是因為這些城市都有一個完善的公共交通系統。公共交通工具指的是地鐵、公共汽車等交通工具。我現在跟您解釋
+慕尼黑的公共交通系統是怎麼操作的。這有點複雜，但是，我們還是試試，好不好？
 
 In der Stadt selbst fahren unter der Erde die U-Bahnen. Sie halten sehr oft und fahren
 auch sehr häufig, man muss nie lange auf eine U-Bahn warten. Oben auf der Straße gibt es
@@ -30,8 +30,8 @@ S-Bahn fahren. Sie sieht eigentlich genauso aus wie die U-Bahn, fährt aber nich
 unterirdisch, sondern auch über der Erde. Mit der S-Bahn könnt Ihr beispielsweise zum
 Flughafen fahren, der in München weit außerhalb liegt.
 
-如果您想去得遠一點兒，比如去郊區，您可以乘坐S-車。S-車看起來很像地鐵，但可以在地下、地面上開行。比如說，
-慕尼黑的機場離慕尼黑挺遠的，您可以坐S-車到機場去。
+如果您想去得遠一點兒，比如去郊區，您可以乘坐S-車。S-車看起來很像地鐵，不僅可以在地下開行，也可以跑到地面。
+像慕尼黑的機場吧，離慕尼黑挺遠的，您可以坐S-車去。
 
 Gut, Ihr wisst nun also, wo Ihr hinfahren wollt. Also braucht ihr noch eine Fahrkarte.
 Die Systeme in den Städten sind meistens sehr kompliziert, es gibt Wochen-, Monats- und
@@ -48,12 +48,13 @@ kontrolliert werdet. Ihr könnt es erst wegwerfen, wenn Ihr an Eurem Ziel angeko
 und das Ticket nicht mehr gültig ist. Ihr könnt übrigens mit so einem Ticket problemlos
 von der Bahn in den Bus umsteigen oder andersrum, das ist gar kein Problem.
 
-好了，您已經弄清楚您想到哪兒去了，您現在需要一張車票。大城市中的車票系統挺複雜的，當地通勤者可以選擇週票、
+好了，您已經知道您想到哪兒去了，您現在需要一張車票。大城市中的車票系統挺複雜的，當地通勤者可以選擇週票、
 月票、年票。遊客嘛，最好是買旅遊票。旅遊票很便宜，數天有效，同時在大部分的博物館和其他景點，持票可以得到
 優惠。您的車票必須經過自動驗證機驗證；這些驗證機一般安裝在公共汽車和有軌電車內，不過在U-車、S-車的月台上，
-甚至在自動扶梯前面都能找到。有些穿便裝的人專職查票，隨機抽查，但您不會每程車都碰上他們。假如您身上沒有
-車票，他們會讓您交罰款。德國不像倫敦、紐約等其他主要國際城市，沒有那種旋轉欄闸。您身上必須帶著車票，好應付
-查票。到了目的地，車票就無效了，您才可以把它扔掉。還有，您可以在火車、公共汽車之間隨意倒車，這都沒有問題。
+甚至在自動扶梯前面都能找到。有些穿便裝的人專職查票，隨機抽查，但您不會每程車都碰上他們。假如您身上沒有車票，
+碰上他們，您得交罰款。德國不像倫敦、紐約等其他主要國際城市，沒有那種旋轉欄闸。您身上必須帶著車票，好應付查
+票。到了目的地，車票就失效了，您才可以把它扔掉。還有，您可以拿著一張車票，在火車、公共汽車之間隨意倒車，這
+都沒有問題。
 
 Es gibt in den Zügen und Bussen übrigens besondere Plätze für Behinderte und ältere
 Menschen. Diese sind mit einem speziellen Symbol gekennzeichnet und müssen freigemacht
@@ -63,8 +64,8 @@ in der Nähe des Eingangs, bevor die Station erreicht wird. S- und U-Bahnen halt
 automatisch an jeder Station.
 
 順帶提一句，火車和公共汽車上都有殘疾人員和老年人的專用座位。这些座位標有特殊標誌，假如有人需要，您必須讓座。 
-除了這個以外，在火車、公共汽車上都不允許抽煙。假如您要下車，在到站以前，您可以摁一下在車門口附近的一個紅色
-按鈕。地鐵和S-車每一站都自動停車。
+除了這個以外，在火車、公共汽車上都不允許抽煙。假如您在公共汽車、電車上要下車，在車到站以前，您可以摁一下在車
+門口附近的一個紅色按鈕。地鐵和S-車每一站都自動停車。
 
 In München wurde das U-Bahn-System übrigens extra wegen der Olympischen Spiele 1972
 gebaut! Die S-Bahnen sind mittlerweile alle neu und klimatisiert, die U-Bahnen sind
@@ -81,8 +82,8 @@ und 19 Uhr in die Arbeit fahren oder nach Hause möchten. Die Züge und Busse si
 überfüllt und es macht keinen Spaß, mitzufahren. Genauso ist es am Samstag Nachmittag,
 wenn die Fans ins Fußballstadion fahren.
 
-如果您來旅遊，我建議您避開高峰時段。從早上7點到9點，人們上班，然後晚上17點到19點，人們上班、下班回家。在
-這些時段內，火車、公共汽車上經常人滿為患，坐車毫無樂趣可言。星期六下午球迷們要去足球場看足球，情況也一樣糟。
+如果您來旅遊，我建議您避開高峰時段。從早上7點到9點，晚上17點到19點，人們要上班、下班回家。在這些時段內，
+火車、公共汽車上經常人滿為患，坐車毫無樂趣可言。星期六下午球迷們要去足球場看足球，情況也一樣糟。
 
 Und Vorsicht: Die Züge fahren nicht die ganze Nacht! Schaut lieber vorher in einen
 Fahrplan, damit ihr kein teures Taxi nehmen müsst. Angst müsst Ihr in München in den
