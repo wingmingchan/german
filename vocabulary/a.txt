@@ -498,11 +498,17 @@ anbieten /ˈanbiːtən/: to offer
   Welche Wahlfächer bietet die Schule an?
   Which electives does the school offer?
 
+anbrachten => anbringen
+
 anbrechen /ˈanbrɛçən/: to open
   Angebrochene Medikamente bald verbrauchen!
   Use up open medication quickly.
   Ein neuer Tag ist angebrochen.
   A new day has dawned.
+
+anbringen /ˈanbrɪŋən/: to attach (to), to put up (on)
+  ein Regal an der Wand anbringen
+  to put up a shelf on the wall
 
 andauernd /ˈandauɐnt/: continuing, persistent, constant, ongoing
 
@@ -650,6 +656,9 @@ Anlass /ˈanlas/, der, ..e: reason, cause, occasion
   There are grounds for hope that…
   ein festlicher Anlass: a festive occasion
   => Ereignis, Gelegenheit
+  aus Anlass: on the occasion of
+  eine Feier aus Anlass des 150. Firmenjubiläums
+  a party on the occasion of the 150th anniversary of the company
 
 anlegen /ˈanleːɡən/: to lay out, to set up, to invest
   ein neues Gemüsebeet anlegen: to lay out a new bed
