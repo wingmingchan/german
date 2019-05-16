@@ -246,6 +246,12 @@ wenig /ˈveːnɪç/: little
 
 weniger /ˈveːnɪɡɐ/: less
 
+wenigstens /ˈveːnɪçstəns/: at least
+  Du hättest dich wenigstens mal bei mir melden können!
+  You could at least have let me know!
+  Das ist natürlich Pech, aber wenigstens ist nichts Schlimmeres passiert.
+  That is of course bad luck, but at least nothing more serious happened.
+
 wer /veːɐ/: who, whoever
   Wer mitkommen will, soll sich melden.
   Anyone who wants to come should let us know.
@@ -319,6 +325,9 @@ Wette /ˈvɛtə/, die: bet, wager
 
 *Wetter /ˈvɛtɐ/, das: weather
 
+Wettkampf /ˈvɛtkampf/, der, ..e: competition, contest
+  an einem Wettkampf teilnehmen: to take part in a competition
+
 wichtig /ˈvɪçtɪç/: important
   <=> nebensächlich
   Diese Arbeit ist sehr wichtig für mich.
@@ -341,6 +350,14 @@ wie /viː/: how, as, like, such as
 wieder /ˈviːdɐ/: again
   Musst du morgen wieder arbeiten?
   Do you have to work again tomorrow?
+
+wiederum /ˈviːdɐrʊm/: again, on the other hand, in turn
+  Sie haben sich wiederum gestritten.
+  They've fallen out again.
+  Ich wäre gern ans Meer gefahren, sie wiederum wollte lieber in die Berge.
+  I would have liked to go to the ocean, but she wanted to go to the mountains instead.
+  Das hat mir Peter erzählt, der es wiederum von Klaus erfahren hat.
+  I heard it from Peter, who in turn heard it from Klaus.
 
 Wiedersehen /ˈviːdɐzeːən/, das: reunion
 
