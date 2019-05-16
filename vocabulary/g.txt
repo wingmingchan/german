@@ -475,10 +475,23 @@ Geschicklichkeit /ɡəˈʃɪklɪçkait/, die: skillfulness
 
 geschickt: skillful, numbly, cleverly
 
+Geschütz /ɡəˈʃʏʦ/, das, -e: gun, cannon
+  ein Geschütz laden / abfeuern: to load/fire a gun
+
+geschützt /ɡəˈʃʏʦt/: sheltered, protected
+
 geschwätzig /ɡəˈʃvɛʦɪç/: gossipy
 
 gesegnet: blessed
   => segnen
+
+gesellen /ɡəˈzɛlən/:
+  jd gesellt sich zu jdm: sb joins sb
+  Er stand eine Weile allein an der Bar und gesellte sich dann zu uns.
+  He stood on his own at the bar for a while, then he came and joined us.
+  etw. gesellt sich zu etw. sth is added to sth
+  Zu ihren finanziellen Problemen gesellte sich nun noch die Sorge um seine Gesundheit.
+  In addition to her financial problems she was now also worried about his health.
 
 Geselligkeit /ɡəˈzɛlɪçkait/, die: sociability, conviviality
   Dank ihrer Geselligkeit findet sie schnell überall Anschluss.
@@ -492,6 +505,11 @@ Gesellschaft /ɡəˈzɛlʃaft/, die, -en: society, company, party, social event
 Gesetz /ɡəˈzɛʦ/, das: law
   die Gesetze befolgen/einhalten: to abide by/stick to the laws
 
+gesetzlich /ɡəˈzɛʦlɪç/: legal
+  gesetzliche Bestimmungen: legal regulations
+  Jeder ist gesetzlich verpflichtet, Mitmenschen in Not Erste Hilfe zu leisten.
+  Everyone is legally obliged to give first aid to people in need.
+
 Gesicht /ɡəˈzɪçt/, das, Gesichter: face
   ein hübsches Gesicht haben: to have a pretty face
 
@@ -504,6 +522,14 @@ gesperrt: blocked, closed
 Gestalt /ɡəˈʃtalt/, die, Gestalten: form, figure, character
   Am Bahnhof lungerten dunkle Gestalten herum.
   There were shady characters hanging around the station.
+
+gestalten /ɡəˈʃtaltən/:
+  etw. irgendwie gestalten: to design/structure/style sth in a certain way
+  Der Spielplatz soll neu gestaltet werden.
+  There are plans to redesign the playground.
+  sich irgendwie gestalten: to develop in a certain way
+  Die Umbauarbeiten gestalten sich schwieriger als erwartet.
+  The renovations are proving to be more difficult than anticipated.
 
 gestehen /ɡəˈʃteːən/: to confess (to), to admit (to)
   Der Mörder hat (die Tat) gestanden.
@@ -551,6 +577,8 @@ gewandt /ɡəˈvant/: skillful
 Gewehr /ɡəˈveːɐ/, das: rifle, shotgun
   Jagdgewehr: hunting rifle
 
+geweiht: sacred, holy
+
 Gewerkschaft /ɡəˈvɛrkʃaft/, die: labor union
 
 gewesen => sein
@@ -578,6 +606,9 @@ gewöhnlich /ɡəˈvøːnlɪç/: normal
 
 geworden => werden
 
+Gewürz /ɡəˈvʏrʦ/, das, -e: spice, seasoning, condiment
+  scharfe / pikante Gewürze: hot/aromatic spices
+
 gezielt /ɡəˈʦiːlt/: deliberate, calculated, targeted, specifically
   Das war doch eine gezielte Beleidigung!
   That was a deliberate insult.
@@ -585,6 +616,9 @@ gezielt /ɡəˈʦiːlt/: deliberate, calculated, targeted, specifically
   to purposefully kill only the sick animals, not the whole herd
 
 gezogen => ziehen
+
+gezwungen /ɡəˈʦvʊŋən/: forced, strained
+  => zwingen
 
 Gier /ɡiːɐ/, die, (uncountable): greed
   Sie stürzten sich voller Gier aufs Essen.
