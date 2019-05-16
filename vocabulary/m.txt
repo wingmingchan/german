@@ -281,9 +281,21 @@ misslingen /mɪsˈlɪŋən/: to fail
 
 Mitarbeiter /ˈmɪt|arbaitɐ/: employee
 
-Mitglied /ˈmɪtɡliːt/, das: member
+Mitglied /ˈmɪtɡliːt/, das, -er: member
   Er ist Mitglied im Schachklub.
   He's a member of the chess club.
+
+mitmachen /ˈmɪtmaxən/: to take part (in), to join in, to go through, to hold out, to cooperate
+  bei einem Experiment / Wettkampf mitmachen
+  to take part in an experiment/a contest
+  => durchmachen
+  Da macht man was mit!
+  It's a hard life!
+  => aushalten
+  Meine Beine machen nicht mehr lange mit.
+  My legs won't hold out much longer.
+  Wenn das Wetter mitmacht, gehen wir morgen schwimmen.
+  We'll go swimming tomorrow, weather permitting.
 
 mitsamt /mɪtˈzamt/: together/along with
 
@@ -340,6 +352,10 @@ momentan /momɛnˈtaːn/: present, current
 Monarch /moˈnarç/, Monarchen: monarch
 
 Mond /moːnt/, der: moon
+
+Monopol /monoˈpoːl/, das, -e: monopoly
+  Der Staat hat bei uns ein Monopol auf Glücksspiele.
+  Our state has a monopoly on gambling.
 
 Montag /ˈmoːntaːk/, der
 
