@@ -176,6 +176,12 @@ beehren /bəˈ|eːrən/: to honor sb/sth with sth
   Beehren Sie uns bald wieder!
   Please come back and see us again soon.
 
+beeinflussen /bəˈ|ainflʊsən/: to influence
+  Er lässt sich von seinen Freunden negativ beeinflussen.
+  He allows himself to be negatively influenced by his friends.
+  Die Umweltverschmutzung beeinflusst das Klima.
+  Environmental pollution has an effect on the climate.
+
 Beet /ˈbeːt/, das, Beete: (flower/plant) bed
    neue Beete anlegen: to lay out new beds 
 
@@ -657,6 +663,9 @@ Betrieb /bəˈtriːp/, der, -e: operation, company, business
 
 betrinken: to get drunk
 
+Betrug /bəˈtruːk/, der, (uncountable): trick, scam
+  auf einen Betrug hereinfallen: to be the victim of a scam
+
 betrügen /bəˈtryːɡən/: to cheat
   Er lügt und betrügt, wann es ihm passt.
   He lies and cheats whenever it's to his advantage.
@@ -736,6 +745,9 @@ Bewerber /bəˈvɛrbɐ/, -, Bewerberin: applicant, candidate
 bewerfen /bəˈvɔrfən/: to pelt, to bombard
   jdn/etw mit etw bewerfen: to throw sth at sb/sth
 
+Bewohner, Bewohnerin: occupant, resident
+  Höhlenbewohner: cave dwellers
+
 bewundern /bəˈvʊndɐn/: to admire
 
 bewusst /bəˈvʊst/: deliberate
@@ -746,6 +758,14 @@ bezahlen /bəˈʦaːlən/: to pay for
   How much do you pay your cleaning lady an hour?
 
 bezaubern: bewitch, charm, enchant
+
+beziehungsweise /bəˈʦiːʊŋsvaizə/: respectively, or, or to be more precise, or rather
+  Die Angeklagten bekamen Haftstrafen in Höhe von 15 bzw. 12 Monaten.
+  The defendants received sentences of 15 and 12 months respectively.
+  Ich werde voraussichtlich morgen damit fertig bzw. spätestens übermorgen.
+  I'll probably be finished with it tomorrow or the day after tomorrow at the latest.
+  Ich habe vier Wochen bzw. 30 Tage Urlaub im Jahr.
+  I have four weeks' or rather 30 days' vacation a year.
 
 bezwingen /bəˈʦvɪŋən/: to defeat
   Am Ende konnte der Champion den Neuling in 5 Sätzen bezwingen.
@@ -1135,6 +1155,10 @@ Bürger /ˈbʏrɡɐ/, der: citizen
   die amerikanischen Bürgerinnen und Bürger: the citizens of the USA
 
 Bürgermeister: mayor
+
+Bürokratie /byrokraˈtiː/, die, -n: bureaucracy, red tape
+  Die Reform soll zu weniger Bürokratie führen.
+  The reform is supposed to bring about a reduction in bureaucracy.
 
 Bursche /ˈbʊrʃə/, der, -n: guy
   ein hübscher / netter Bursche: a good-looking/nice guy
