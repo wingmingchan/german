@@ -222,6 +222,11 @@ einfügen /ˈainfyːɡən/: to insert, to fit in
   Das neue Gebäude fügt sich harmonisch in das Stadtbild ein.
   The new building fits nicely into the cityscape.
 
+einführen/ˈainfyːrən/: to import, to introduce, to insert
+  Gemüse aus anderen EU-Ländern einführen
+  to import vegetables from other EU countries
+  eine neue Steuer einführen: to introduce a new tax
+
 Eingang /ˈainɡaŋ/, der: entrance, start, receipt, delivery
 
 eingehen /ˈainɡeːən/: to take, to enter into, to be received
@@ -275,6 +280,16 @@ to take down, to haul in, to go shopping
   die Fahne einholen: to take down the flag
   Ich muss noch schnell (Brot) einholen gehen. => einkaufen
   I have to do some quick shopping (for bread).
+
+einiges /ˈainɪɡəs/: a lot of, something
+  einiges an Überredungskunst: a lot of convincing
+  Er erzählte uns einiges, was uns sehr erstaunte.
+  He told us some things that really astonished us.
+
+einjagen /ˈainjaːɡən/: 
+  jdm Angst / einen Schreck(en) einjagen: to scare sb
+  Er hat mir mit seinem Geschrei einen ganz schönen Schreck eingejagt.
+  He gave me quite a scare with his shrieking.
 
 einkaufen: shopping
 
@@ -348,6 +363,18 @@ einschlagen /ˈainʃlaːɡən/: to smash, to strike, to hit
   Our place was struck by lightning yesterday.
 
 einschleichen /ˈainʃlaiçən/: to sneak in
+
+einsetzen /ˈainzɛʦən/: to use, to deploy, to appoint, to set up, 
+  Wann soll diese Waffe eingesetzt werden?
+  When is this weapon to be used?
+  einen Untersuchungsausschuss einsetzen
+  to set up an investigation committee
+  eine neue Fensterscheibe einsetzen: to put in a new windowpane
+  Nach einigen Takten setzten die Streicher ein.
+  After a few bars the strings came in.
+  sich (bei jdm) für jdn / etw. einsetzen: to stand up for sb/sth (to sb)
+  Er hat sich bei seinem Vater für dich eingesetzt.
+  He put in a good word for you with his father.
 
 Einsicht, die: view, insight, conclusion
   Ich bin zu der Einsicht gelangt, dass wir mehr Mitarbeiter brauchen.
@@ -425,6 +452,9 @@ Einwohner /ˈainvoːnɐ/: inhabitants
 Einzel, das: single
   Er gewann im Herreneinzel.
   He won the men's singles.
+  
+einzeln /ˈainʦəln/: single, individual
+
 
 einzig /ˈainʦɪç/: only , solely
   Das ist die einzig mögliche Lösung.
@@ -881,6 +911,13 @@ erstatten /ɛɐˈʃtatən/: to reimburse, to refund, to give, to make, to file
   Er bekommt von seinem Arbeitgeber die Fahrtkosten zur Arbeit voll erstattet.
   He gets his travel expenses to the office reimbursed in full by his employer.
 
+Erstaunen, die: astonishment
+
+erstaunen /ɛɐˈʃtaunən/: to astonish, to amaze
+  => überraschen
+  Seine freundliche Antwort erstaunte sie.
+  His friendly reply astonished her.
+
 erstellen /ɛɐˈʃtɛlən/: to draw up, to create, to construct
   für eine Kontaktbörse im Internet sein Profil erstellen
   to create your profile for a networking forum on the internet
@@ -920,6 +957,10 @@ erweitern /ɛɐˈvaitɐn/: to expand, to grow, to increase
 erwirken /ɛɐˈvɪrkən/: to obtain, to take out
   eine einstweilige Verfügung gegen jdn erwirken
   to obtain a preliminary injunction against sb
+
+erwirtschaften /ɛɐˈvɪrtʃaftən/: to earn, to make
+  ein Vermögen / hohe Gewinne erwirtschaften
+  to earn a fortune/high profits
 
 erwünscht /ɛɐˈvʏnʃt/: desired, welcome
   den erwünschten Erfolg erzielen: to have the desired success
