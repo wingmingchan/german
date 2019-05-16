@@ -228,6 +228,11 @@ heftig /ˈhɛftɪç/: violent
 
 heikel /ˈhaikəl/: delicate
 
+heilig /ˈhailɪç/: holy, sacred, lots of
+  die heilige Elisabeth: Saint Elisabeth
+  Ich hatte meine heilige Mühe / Not mit ihr.
+  I had my work cut out/a pile of trouble with her.
+
 Heiligtum /ˈhailɪçtuːm/, das, Heiligtümer: shrine, holy place
   ein ägyptisches Heiligtum: an Egyptian shrine 
 
@@ -407,6 +412,8 @@ Hilfe /ˈhɪlfə/, die: help
   Erste Hilfe: first aid
   Entwicklungshilfe: foreign aid
 
+Hilfsaktion, die: relief action
+
 hilfsbereit /ˈhɪlfsbərait/: helpful, obliging
   Sie öffnete mir hilfsbereit die Tür.
   She obligingly opened the door for me.
@@ -534,6 +541,7 @@ hohe /ˈhoːə/ => hoch
 
 Höhle /ˈhøːlə/, die: cave, den, cavity
   sich in einer Höhle verstecken: to hide in a cave
+  Höhlenbewohner: cave dwellers
 
 hold /hɔlt/: fair
   eine holde Schöne: a fair maiden
