@@ -163,6 +163,10 @@ faul: lazy, rotten, bad, feeble
   Der Apfel ist innen faul.
   The apple's rotten on the inside.
 
+Faulheit /ˈfaulhait/, die, (uncountable): laziness, idleness, sloth
+  Der Grund für seine schlechten Noten ist einfach nur Faulheit.
+  The reason for his bad grades is quite simply laziness.
+
 Faust /faust/, die: fist
   mit der Faust auf den Tisch hauen: to bang your fist on the table 
 
@@ -220,7 +224,7 @@ Feingefühl /ˈfainɡəfyːl/, das, -(e)s: sensitivity, tactfulness
   Der Darstellung fehlt das nötige Feingefühl.
   What's missing from the depiction is the necessary degree of sensitivity.
 
-Feld /fɛlt/, das: field
+Feld /fɛlt/, das: field, square, space
 
 Fell /fɛl/, das, -e: fur, coat, skin
   einer Katze über das Fell streicheln: to stroke a cat's coat
@@ -352,7 +356,12 @@ Fliese /ˈfliːzə/, die, -n: tile
   Auf dem Fußboden im Bad sind weiße Fliesen verlegt.
   There are white tiles on the floor of the bathroom.
 
-fließen /ˈfliːsən/: to flow
+fließen /ˈfliːsən/: to flow, to be channeled into
+  ein langsam fließender Bach: a slow flowing stream
+  Strom fließt nur, wenn Spannung vorhanden ist.
+  Electricity can only flow if there's a current.
+  Die Bestechungsgelder flossen auf ein Konto im Ausland.
+  The kickbacks were paid into an offshore account.
 
 flog, flogen  => fliegen
 
