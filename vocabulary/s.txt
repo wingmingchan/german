@@ -143,6 +143,8 @@ schätzen /ˈʃɛʦən/: cherish, count, estimate, make, prize, treasure, value
   Ich schätze es gar nicht, wenn ich um diese Zeit noch gestört werde.
   I really don't appreciate being disturbed at this time.
 
+Schatzmeister /ˈʃaʦmaistɐ/, Schatzmeisterin: treasurer
+
 Schätzung /ˈʃɛʦʊŋ/, die, -en: estimate
   => Berechnung
 
@@ -424,6 +426,9 @@ Schrank /ʃraŋk/, der, Schränke: cupboard, closet
 Schraube /ˈʃraubə/, die: screw
   die Schrauben festdrehen/lösen: to screw in/unscrew the screws
 
+Schreck /ʃrɛk/, der, (uncountable): fright, scare
+  einen Schreck bekommen: to get a fright
+
 schreiben /ˈʃraibən/: to write
   Er schreibt Reportagen /repɔrˈtaːʒən/.
 
@@ -439,6 +444,8 @@ schreiten /ˈʃraitən/: to stride, to walk
   to walk with measured steps over the red carpet
 
 schrie => schreien
+
+Schriftführer /ˈʃrɪftfyːrɐ/, Schriftführerin: secretary
 
 Schriftsteller /ˈʃrɪftʃtɛlɐ/: writer
 
@@ -461,6 +468,8 @@ Schrott /ʃrɔt/, der: scrap, garbage
 Schubs /ʃʊps/, der: shove, push
   Sie gab dem Schlitten einen Schubs, sodass er sich in Bewegung setzte.
   She gave the sled a push to get it moving.
+
+schuf => schaffen
 
 schuften /ˈʃʊftən/: to slave away
   für einen Erfolg schwer schuften müssen: to have to really slave to be successful
@@ -502,11 +511,12 @@ Schuss, Schüssen, der: gun shot
 
 Schuss /ʃʊs/, Schüsse, der: shot
 
-schuf => schaffen
-
 schütten /ˈʃʏtən/: to pour, to tip
   einen Eimer Wasser ins Feuer schütten
   to pour a pail of water on the fire
+  es schüttet: it's pouring (down)
+  Draußen schüttet es immer noch.
+  It's still pouring (down) outside.
 
 Schutz /ʃʊʦ/, der: protection , shelter
 
@@ -737,6 +747,11 @@ Sinn /zɪn/, der: meaning, mind
 
 sitzen /ˈzɪʦən/: to sit
 
+Sitzung /ˈzɪʦʊŋ/, die, -en: meeting, session
+  eine außerordentliche Sitzung einberufen
+  to call an extraordinary meeting
+  Therapiesitzung: therapy session
+
 Skandal /skanˈdaːl/, der: scandal
   einen Skandal vermeiden/vertuschen: to avoid/hush up a scandal
 
@@ -905,6 +920,8 @@ Spiel /ʃpiːl/, das, Spiele: game
 
 Spielsachen /ˈʃpiːlzaxən/, pl: toys
 
+Spielsucht, die: compulsive gambling
+
 Spinne, die: spider
   Spinnennetz: spiderweb
 
@@ -913,6 +930,11 @@ Spiralheft, das, -e: spiral booklet
 Spital /ʃpiˈtaːl/, das, Spitäler /ʃpiˈtɛːlɐ/: hospital
   Der Verletzte wurde ins Spital eingeliefert.
   The injured man was taken to the hospital.
+
+Spitze /ˈʃpɪʦə/, die, -n: point, tip, top, peak, front
+  ein Messer mit einer scharfen Spitze: a knife with a sharp point
+  die Spitze des Eisbergs: the tip of the iceberg
+  an der Spitze des Trauerzuges: at the front/head of the funeral procession
 
 Spitzname /ˈʃpɪʦnaːmə/, der: nickname
 
@@ -1026,6 +1048,10 @@ statt /ʃtat/: instead of
 
 stattdessen /ʃtatˈdɛsən/: instead
 
+stattfinden /ˈʃtatfɪndən/: to take place
+  Die Wahlen finden im Oktober statt.
+  The elections take place in October.
+
 Status /ˈʃtaːtʊs/, der: status
 
 Stau /ʃtau/, der: traffic jam
@@ -1098,6 +1124,8 @@ stellen /ˈʃtɛlən/: to put, to place, to set, to provide
 
 Stellung /ˈʃtɛlʊŋ/, die: position
 
+Stellvertreter, Stellvertreterin: representative, deputy
+
 sterben /ˈʃtɛrbən/: to die
   er stirbt
   Er starb gestern.
@@ -1126,6 +1154,9 @@ Stichwort /ˈʃtɪçvɔrt/, das: headword, keyword, keypoint, cue
 
 Stichwortverzeichnis, das: index
   im Stichwortverzeichnis aufgeführt sein: to be listed in the index
+
+Stiefel /ˈʃtiːfəl/, der, -: boot
+  Gummistiefel: rubber boots
 
 Stift /ʃtɪft/, der, -e: pen(cil), peg, tack, apprentice
   Hast du mal einen Stift für mich?
@@ -1162,6 +1193,9 @@ stimmen /ˈʃtɪmən/:
 Stimmung /ˈʃtɪmʊŋ/, die: mood, atmosphere, good mood
   Er ist heute in schlechter Stimmung.
   He's in a bad mood today.
+
+Stimmzettel /ˈʃtɪmʦɛtəl/, der, -: ballot paper
+  die Stimmzettel auszählen: to count the ballot papers
 
 Stollen /ˈʃtɔlən/, der, Stollen: tunnel
 
@@ -1204,6 +1238,12 @@ Strauch /ʃtraux/, der, ..er /ˈʃtrɔyçɐ/: bush, shrub
 
 Strecke /ˈʃtrɛkə/, die, Strecken: distance, route
   eine weite Strecke zurücklegen: to cover a large distance
+
+Streich /ʃtraiç/, der, -e: trick, blow, stroke
+  Die Schüler spielen den Lehrern gern Streiche.
+  The students like to play tricks on the teachers.
+  Er streckte ihn mit einem Schwertstreich nieder.
+  He laid him low with a sword stroke.
 
 streicheln /ˈʃtraiçəln/: to stroke
   den Hund streicheln: to stroke the dog 
@@ -1305,6 +1345,9 @@ surfen /ˈsøːɐfən/: to surf
   Nach stundenlangem Surfen hatte ich eine Ferienwohnung gefunden.
   I found a holiday home after surfing the Net for hours.
   im Internet surfen: to surf the Internet
+
+Süßigkeit /ˈzyːsɪçkait/, die, -en: candy
+  den Kindern Süßigkeiten mitbringen: to bring candy for the children
 
 Symbol /zʏmˈboːl/, das: symbol
   die Taube als Symbol des Friedens
