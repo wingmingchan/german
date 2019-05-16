@@ -174,7 +174,7 @@ Kind, das: child
 
 Kinn /kɪn/, das: chin
 
-kippen /’kɪpən/: to tip (up), to tilt, to topple over
+kippen /’kɪpən/: to tip (up), to pour, to tilt, to topple over
   das Fenster nachts gekippt lassen: to leave the window tilted open at night
   Wasser in den Abfluss kippen: to tip water into the drain
   mit dem Stuhl nach hinten kippen: to topple over backwards on your chair
@@ -200,6 +200,16 @@ kläglich /’klɛːklɪç/: pitiful
 klappen /ˈklapən/: to work out, to go all right
   Es hat alles gut geklappt.
   Everything went well.
+
+klar /klaːɐ/: clear
+  Das Wasser war so klar, dass man bis auf den Grund sehen konnte.
+  The water was so clear that you could see to the bottom.
+  Wir hatten klare Sicht ins Tal.
+  We had a clear view of the valley.
+  Ist alles klar?
+  Is everything clear?
+  Na klar!
+  of course!
 
 klären /ˈklɛːrən/: to resolve, to settle, to treat
   die Unfallursache klären: to clarify the cause of the accident
@@ -251,6 +261,9 @@ klug /kluːk/: clever
   ein kluger Mann
 
 knapp /knap/: meagre, scarce, tight, barely
+
+Knecht /knɛçt/, der, -e: servant
+  Herren und Knechte: masters and servants
 
 kneten /ˈkneːtən/: to knead
   Sie knetete nervös ihre Hände/Schürze.
