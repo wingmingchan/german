@@ -46,6 +46,10 @@ je + … desto / umso + Komparativ: the + COMPARATIVE, the + COMPARATIVE
   Je älter er wird, umso anspruchsvoller wird er auch.
   The older he gets, the more demanding he becomes, too.
 
+je nach etw.: depending on
+  je nach Geschmack Zucker hinzufügen
+  add sugar to taste
+
 je nachdem …: depending on …
   „Kommst du heute Abend?‟ – „Je nachdem, ob ich Zeit habe.‟
   "Are you coming tonight?" – "Depends whether I have time or not."
