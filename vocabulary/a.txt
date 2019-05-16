@@ -558,6 +558,8 @@ anfänglich /ˈanfɛŋlɪç/: initial, initially
   Seine anfängliche Begeisterung verschwand schnell.
   His initial enthusiasm soon disappeared.
 
+*Anfangsbuchstabe, der: first letter
+
 anfertigen /ˈanfɛrtɪɡən/: to make, to manufacture
   eine Skizze von einem Gebäude anfertigen: to make a sketch of a building
 
@@ -671,6 +673,17 @@ Anmeldung /ˈanmɛldʊŋ/, die: enrollment, registration, application, registrat
 
 Anmerkung /ˈanmɛrkʊŋ/, die: comment, remark
   eine Anmerkung zu etw. machen: to make a comment on sth
+
+annehmen /ˈanneːmən/: to take, to accept, to pass, to assume
+  ein Paket für den Nachbarn annehmen: to take a package for the neighbors
+  Ich nehme Ihre Einladung zum Tee gerne an.
+  I'm happy to accept your invitation to tea.
+  Der Vorschlag wurde einstimmig angenommen.
+  The suggestion was carried unanimously.
+  jdn als Kind / Schüler annehmen
+  to adopt a child/to take sb on as a student
+  Die Polizei nimmt an, dass …
+  The police assume that…
 
 anonym /anoˈnyːm/: anonymous
 
@@ -1019,6 +1032,23 @@ aufmerksam /ˈaufmɛrkzaːm/: attentive, alert
 
 Aufnahme /ˈaufnaːmə/, die: photo, shot
 
+aufnehmen /ˈaufneːmən/: to take up, to take in, to admit, to record
+  Der Polizist nahm die Verfolgung des Diebes auf.
+  The policeman took up the chase of the thief.
+  Lassen Sie mich Ihre Anregung aufnehmen und …
+  Let me take up your suggestion and …
+  irgendwo freundlich aufgenommen werden: to be given a warm welcome somewhere
+  2004 wurde Polen in die EU aufgenommen.
+  Poland was admitted to the EU in 2004.
+  Für den Kauf des Autos mussten wir einen Kredit aufnehmen.
+  We had to take out a loan to buy the car.
+  Nimm mir die Sendung bitte auf, ich muss heute Abend weg.
+  Record the program, would you? I have to go out this evening.
+  Wie hat sie die Nachricht aufgenommen?
+  How did she take the news?
+  Der Kranke muss dringend mehr Flüssigkeit aufnehmen.
+  The patient urgently needs to take more liquids.
+
 aufpassen /ˈaufpasən/: to be careful, to pay attention
   Pass auf, dass du nicht hinfällst!
   Watch out that you don’t fall!
@@ -1202,6 +1232,10 @@ ausgiebig /ˈausɡiːbɪç/: copious, extensive
   Sie gähnte und dehnte sich ausgiebig.
   She had a good yawn and stretch.
 
+aushalten /ˈaushaltən/: to stand, to hold
+  Diese Hitze ist ja nicht auszuhalten!
+  This heat is unbearable.
+
 Aushang /ˈaushaŋ/, der, ..e: notice
   Auf einem Aushang am Schwarzen Brett wird ein Babysitter gesucht.
   There's a notice on the bulletin board that sb is looking for a babysitter.
@@ -1235,6 +1269,12 @@ ausnutzen /ˈausnʊʦən/: to take advantage of
 ausrauben /ˈausraubən/: to rob
   Sie wurde nachts am Bahnhof überfallen und ausgeraubt.
   She was attacked and robbed at the station at night.
+
+ausrechnen /ˈausrɛçnən/: to work out, to figure out
+  Rechne mal aus, wie lange das dauert.
+  Work out how long it'll take.
+  sich gute Chancen auf einen Sieg ausrechnen
+  to reckon you have a good chance of winning
 
 Ausrede /ˈausreːdə/, die, -n: excuse
   Er sagt, dass er Kopfschmerzen hat, aber ich halte das für eine Ausrede.
@@ -1306,6 +1346,10 @@ Aussprache /ˈausʃpraːxə/, die: pronunciation
   die richtige Aussprache eines Wortes
   the correct pronunciation of a word
 
+aussuchen /ˈauszuːxən/: to choose
+  Du hast dir diesen Beruf ausgesucht, jetzt jammere nicht.
+  You chose this job, so stop whining.
+
 außen: out, outside
 
 außer /ˈausɐ/: except, besides, outside, out of, unless
@@ -1317,6 +1361,8 @@ außer /ˈausɐ/: except, besides, outside, out of, unless
   außer Gefahr sein: to be out of danger
 
 außerdem /ˈausɐdeːm/: besides, moreover
+  Außerdem werden neue Projekte vorgestellt.
+  New projects will also be presented.
 
 außerhalb: outside
   außerhalb des Dorfes wohnen: to live outside of the village
@@ -1353,6 +1399,10 @@ Ausstieg /ˈausʃtiːk/, der: pullout, withdrawal, exit
 Auswahl /ˈausvaːl/, die: -en: selection
   Angesichts des großen Angebots fällt die Auswahl schwer.
   With so much to choose from it's hard to decide.
+
+auswählen /ˈausvɛːlən/: to choose
+  Er wurde für den Wettbewerb ausgewählt.
+  He was selected for the competition.
 
 ausüben /ˈaus|yːbən/: to carry out, to exercise, to have
   Er hat Beruf zwar erlernt, aber nie ausgeübt.
