@@ -55,6 +55,10 @@ verarbeiten /fɛɐˈ|arbaitən/: to use, to process
 Verb /vɛrp/, das
 
 verbergen /fɛɐˈbɛrɡən/: to hide
+  Ein großer Hut verbarg sein Gesicht.
+  A large hat hid his face.
+  Sie verbarg ihren Kummer vor ihrer Familie.
+  She hid her problems from her family.
 
 verbieten /fɛɐˈbiːtən/: to forbid
   Meine Eltern haben mir verboten, mit dir zu spielen.
@@ -239,6 +243,8 @@ verhelfen /fɛɐˈhɛlfən/: to help sb/sth to achieve sth
   to help a party achieve success/an idea become successful
 
 verhindern /fɛɐˈhɪndɐn/: to prevent
+  Sie konnten das Unglück gerade noch verhindern.
+  They were just in time to prevent the accident.
 
 verjagen /fɛɐˈjaːɡən/: to chase away
 
@@ -461,6 +467,12 @@ Versorgung /fɛɐˈzɔrɡʊŋ/, die: supply, treatment
 Verspätung /fɛɐˈʃpɛːtʊŋ/, die: delay, late arrival
   Das Paket kam mit zwei Wochen Verspätung an.
   The parcel arrived two weeks late.
+
+verspielen /fɛɐˈʃpiːləŋ/: to gamble away, to loose
+  Er hat beim Pferderennen Haus und Hof verspielt.
+  He gambled away the very roof over his head at the races.
+  Die Regierung hat mein Vertrauen verspielt.
+  The government has forfeited my trust.
 
 Versprechen, das: promise
 
@@ -769,7 +781,7 @@ vorsichtig /ˈfoːɐzɪçtɪç/: careful, cautious
 
 vorsitzen: to chair
 
-Vorsitzende /ˈfoːɐzɪʦəndə/: chair(person) , chairman/chairwoman
+Vorsitzende /ˈfoːɐzɪʦəndə/, der-die, -n: chair(person) , chairman/chairwoman
 
 Vorschlag /ˈfoːɐʃlaːk/, der, ..e: suggestion, proposal, recommendation
   jdm einen Vorschlag machen
