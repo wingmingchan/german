@@ -346,6 +346,8 @@ Drehkreuz /ˈdreːkrɔyʦ/, das, -e: turnstile
   Wir mussten am Eingang durch ein Drehkreuz gehen.
   We had to go through a turnstile at the entrance.
 
+Dreikönigsfest, das: Epiphany 主顯節
+
 drin /drɪn/: in it/them
   => darin
   Du hast ja gestern ein Paket bekommen; was war denn drin?
@@ -419,6 +421,13 @@ durchfrieren: to freeze through
 
 durchführen /ˈdʊrçfyːrən/: to carry out, to perform, to execute
 
+durchmachen /ˈdʊrçmaxən/: to experience, to go through, to work/party/etc. nonstop
+  Sie hat in den letzten Jahren eine positive Entwicklung durchgemacht.
+  She has developed positively in recent years.
+  Seit dem Tod seiner Frau hat er einiges durchgemacht.
+  Since his wife's death he's been through a lot.
+  
+
 durchgreifen /ˈdʊrçɡraifən/: to reach through
 
 Durchsage /ˈdʊrçzaːɡə/, die, -n: announcement
@@ -449,6 +458,9 @@ dürfen /ˈdʏrfən/: to be allowed to, may, can
 Durst /dʊrst/, der: thirst
 
 durstig /ˈdʊrstɪç/: thirsty
+
+düster /ˈdyːstɐ/: gloomy, dull, somber
+  ein Bild in düsteren Farben: a picture in somber colors
 
 Dutzend, das: dozen
 
