@@ -604,6 +604,12 @@ bestimmt /bəˈʃtɪmt/: certain, firm, decisive, certainly
 
 Bestimmungsort, der: destination
 
+bestrafen /bəˈʃtraːfən/: to punish
+  Die Schuldigen wurden hart bestraft.
+  The culprits were punished severely.
+  Der Verkauf von Zigaretten an Kinder wird mit Geldbußen bestraft.
+  Sales of cigarettes to children are subject to fines.
+
 bestreichen: to rake, to spread
 
 bestreiten /bəˈʃtraitən/: to deny, to dispute
@@ -969,6 +975,10 @@ böse /ˈbøːzə/: wicked, evil, nasty, naughty, angry
   Er hat es nicht böse gemeint.
   He didn't mean any harm.
   Pfui, böser Hund! Stop it! Bad dog! 
+
+boshaft /ˈboːshaft/: malicious
+  Das war jetzt aber etwas boshaft von dir.
+  That was a bit nasty of you, wasn't it?
 
 Boss /bɔs/, der, -e: boss
   Firmenbosse: company bosses
