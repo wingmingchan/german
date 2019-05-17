@@ -103,6 +103,9 @@ ziehen /ˈʦiːən/: to pull, to move, to go
   ziehe, ziehst, zieht, habe gezogen
   etw. nach sich ziehen: to result in/entail sth
 
+Ziehung /ˈʦiːʊŋ/, die, -en: draw
+  die Ziehung der Lottozahlen: the lottery draw
+
 Ziel /ʦiːl/, das, -e: goal, aim, objective, target, destination
   Wir haben fast alle unsere Ziele erreicht.
   We have achieved almost all our goals.
@@ -110,6 +113,11 @@ Ziel /ʦiːl/, das, -e: goal, aim, objective, target, destination
   After a long journey we finally reached our destination.
 
 ziemlich /ˈʦiːmlɪç/: quite, rather
+
+Ziffer /ˈʦɪfɐ/, die, -n: digit, number, numeral, subsection, clause
+  arabische / römische Ziffern: Arabic/Roman numerals
+  gemäß Paragraf 7 Ziffer 3 des Gesetzes …
+  according to section 7.3 of the Act
 
 Zimmer n. /ˈʦɪmɐ/: room
 
