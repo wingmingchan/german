@@ -97,14 +97,14 @@ schade /ˈʃaːdə/: pity, shame
   Wie schade!
   What a pity!
 
-schaden /ˈʃaːdən/: to damage, to harm
-  Die Affäre hat seinem Ansehen sehr geschadet.
-  The affair really damaged his reputation.
-  
 Schaden, Schäden, der: damage, harm
   Sein Verhalten hat viel Schaden angerichtet.
   His behavior caused a lot of harm.
 
+schaden /ˈʃaːdən/: to damage, to harm
+  Die Affäre hat seinem Ansehen sehr geschadet.
+  The affair really damaged his reputation.
+  
 schaffen /ˈʃafən/: to do, to manage, to finish, to take, to put, to work, to create
 
 Schal /ʃaːl/, der, Schals: scarf
@@ -307,6 +307,14 @@ schließen /ˈʃliːsən/: to close, conclude, contract, fasten, reason, shut, s
   What time does the bank close?
   jdn/sich in ein Zimmer schließen: to lock sb/yourself in a room
   einen Vertrag mit jdm schließen: to sign a contract with sb
+
+schließlich /ˈʃliːslɪç/: finally, at last, in the end, after all
+  Schließlich verließen auch die letzten Gäste das Fest.
+  At last the final guests also left the party.
+  Sie kam dann schließlich doch mit.
+  She then came along in the end.
+  Ich habe es ihm erlaubt, er ist schließlich zuverlässig.
+  I let him. He is reliable after all.
 
 Schliere /ˈʃliːrə/, die: smear
 
@@ -891,6 +899,9 @@ Spaziergang /ʃpaˈʦiːɐɡaŋ/, der, ..e: walk, stroll
   Wir haben nach dem Essen einen langen Spaziergang gemacht.
   We went for a long walk after dinner.
 
+Spedition /ʃpediˈʦjoːn/, die, -en: haulage contractor
+  Speditionsfahrer: truck driver
+
 Speise /ˈʃpaizə/, die, -n: dish
   Speisen und Getränke sind im Preis enthalten.
   Food and drink are included in the price.
@@ -1258,7 +1269,9 @@ streicheln /ˈʃtraiçəln/: to stroke
 
 streichen /ˈʃtraiçən/: to paint, to spread, to delete, to cut, to cancel
   die Wände weiß streichen: to paint the walls white
-  Butter/Marmelade aufs Brot streichen: to spread butter/jelly on the bread 
+  die Wände weiß streichen: to paint the walls white
+  Butter/Marmelade aufs Brot streichen: to spread butter/jelly on the bread
+  
 
 Streifen /ˈʃtraifən/, der: stripe
 
