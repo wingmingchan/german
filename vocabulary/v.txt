@@ -350,11 +350,17 @@ Vermerk /fɛɐˈmɛrk/, der, -e: note, remark
   Der Brief kam mit dem Vermerk „unzustellbar‟ zurück.
   The letter was returned with "not known at this address" written on the envelope.
 
+Vermieter /fɛɐˈmiːtɐ/, Vermieterin: landlord/landlady
+  Der Vermieter hat uns wegen Eigenbedarf die Wohnung gekündigt.
+  The landlord has given us notice on the apartment because he wants to move in there himself.
+
 Verminderung /fɛɐˈmɪnderʊŋ/, die: decrease
 
 vermissen /fɛɐˈmɪsən/: to miss
   Ich habe dich so vermisst! I really miss you!
   vermisste: missing
+
+Vermittler/-in: mediator, intermediary, arbitrator
 
 vermummt /fɛɐˈmʊmt/: masked
   Viele Demonstranten waren vermummt.
@@ -456,6 +462,14 @@ versenden /fɛɐˈzɛndən/: to send, to dispatch
   Your goods were dispatched today.
 
 versetzen /fɛɐˈzɛʦən/: to transfer, to promote, to move, 
+
+Versicherung /fɛɐˈzɪçərʊŋ/, die, -en: insurance policy, insurance company, assurance
+  eine Versicherung abschließen / kündigen
+  to take out / cancel an insurance policy
+  Bei grober Fahrlässigkeit zahlt die Versicherung nicht.
+  Insurance companies don’t pay out in cases of gross negligence.
+  Wir glaubten seiner Versicherung, dass er sich um alles kümmern werde.
+  We believed his assurance that he would take care of everything.
 
 versiegeln /fɛɐˈziːɡəln/: to seal
   ein versiegelter Umschlag: a sealed envelope
