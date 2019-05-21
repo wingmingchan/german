@@ -910,6 +910,11 @@ aufbauen /ˈaufbauən/: to build, to assemble, to set up, to build up
   Die Zelte waren schnell aufgebaut.
   The tents were built up quickly.
 
+aufbewahren /ˈaufbəvaːrən/: to keep
+  Wertsachen im Safe aufbewahren: to keep valuables in a safe
+  Er hat alle ihre Briefe aufbewahrt.
+  He kept all her letters.
+
 aufbrechen /ˈaufbrɛçən/: to break open, to break down
 
 aufdecken /ˈaufdɛkən/: to uncover, to show
@@ -1102,8 +1107,14 @@ auftauchen /ˈauftauxən/: to appear, to surface, to arise, to come up, to surfa
   The contours of a house materialized out of the fog.
 
 Auftrag /ˈauftraːk/, der, Aufträge /ˈauftrɛːɡə/: task, job, order, contract
+  Er bekam von seiner Mutter den Auftrag, Brot einzukaufen.
+  His mother gave him the task of buying bread.
+  Er handelte im Auftrag der Regierung.
+  He was acting on behalf of the government.
   einen Großauftrag von der Gemeinde erhalten
   to land a major contract from the city council
+  eine von der Regierung in Auftrag gegebene Studie
+  a study commissioned by the government
 
 auftragen /ˈauftraːɡən/: to tell sb to do sth, to apply sth to sth
   Mama hat mir aufgetragen, den Brief zur Post zu bringen.
