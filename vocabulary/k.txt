@@ -103,6 +103,10 @@ kaum /kaum/: barely, hardly
   Ich habe kaum geschlafen.
   I hardly slept a wink.
 
+Kaution /kauˈʦjoːn/, die, -en: deposit, security
+  Ich musste für die Wohnung zwei Monatsmieten Kaution zahlen.
+  I had to pay a two-month deposit for the apartment.
+
 Kehle /ˈkeːlə/, die, Kehlen: throat, windpipe, esophagus
   jdm die Kehle durchschneiden: to cut sb's throat
   eine trockene / raue Kehle haben: to have a dry/sore throat
@@ -547,6 +551,11 @@ Kundgebung /ˈkʊntɡeːbʊŋ/, die, -en: rally
   After the demonstration there's going to be a rally.
 
 kündigen /ˈkʏndɪɡən/: to cancel, to terminate, to give notice
+  Hast du das Abo schon gekündigt?
+  Have you canceled the subscription yet?
+  fristgerecht kündigen: to give proper notice
+  Uns wurde wegen Eigenbedarf gekündigt.
+  We were given notice to quit because the landlord needed the apartment for his own use.
 
 künftig /ˈkʏnftɪç/, adj.: future
 
