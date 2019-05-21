@@ -185,6 +185,8 @@ Hausaufgabe /ˈhaus|aufɡaːbə/, die, -n: homework
   Was habt ihr in Deutsch als Hausaufgabe auf?
   What do you have for homework in German?
 
+Hausbesitzer: householder
+
 hausen /ˈhauzən/: pejorative: to live
   Die Familie hauste in einer verrosteten Blechhütte.
   The family lived in a rusty tin shack.
@@ -493,6 +495,12 @@ hinweisen /ˈhɪnvaizən/: to point sth out to sb
 
 Hintergrund, der: background
 
+hinterlegen /hɪntɐˈleːɡən/: to leave
+  Ich werde dir das Geld an der Rezeption hinterlegen.
+  I'll leave the money for you to pick up at reception.
+  Wir mussten beim Vermieter eine Kaution hinterlegen.
+  We have to pay a deposit to the landlord.
+
 hinüber /hɪˈnyːbɐ/: over, across
   ein Blick hinüber zum Nachbarn: a glance over to your neighbor 
 
@@ -561,6 +569,10 @@ hold /hɔlt/: fair
 holen /ˈhoːlən/: to get, to fetch
   Holst du bitte mal die Butter aus dem Kühlschrank?
   Could you get the butter from the refrigerator, please?
+  Würdest du schnell Milch holen gehen?
+  Would you go pick up some milk quickly?
+  Hol schnell Hilfe!
+  Get help quickly!
 
 Hölle /ˈhœlə/, die: hell
   in die Hölle kommen: to go to hell
