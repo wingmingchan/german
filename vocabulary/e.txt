@@ -109,6 +109,8 @@ eigen /ˈaiɡən/: own
   Hast du ein eigenes Auto?
   Do you have your own car?
 
+Eigenbedarf, der: personal use
+
 eigenhändig /ˈaiɡənhɛndɪç/: in your own hand, personal
   eine eigenhändige Unterschrift: a signature in your own hand
   eigenhändige Übergabe: personal delivery
@@ -450,6 +452,10 @@ einwerfen /ˈainvɛrfən/: to insert, to mail, to smash
 Einwohner /ˈainvoːnɐ/: inhabitants
   Wie viele Einwohner hat München?
   How many inhabitants are there in Munich?
+
+Einwohnermeldeamt /ˈainvoːnɐmɛldə|amt/: residents registration office
+  Geburtsurkunden und Totenscheine bekommt man vom Einwohnermeldeamt.
+  Birth and death certificates can be obtained from the residents registration office.
 
 Einzel, das: single
   Er gewann im Herreneinzel.
