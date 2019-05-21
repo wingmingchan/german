@@ -34,6 +34,12 @@ mähen /ˈmɛːən/: to mow, to harvest
 
 Mai /mai/, der: May, der 5. Monat im Jahr
 
+Makler, Maklerin: realtor, broker
+  Der Makler bekommt zwei Monatsmieten Provision.
+  The realtor gets a commission equal to two month's rent.
+  Diese Aktien hat mir der Makler empfohlen.
+  The broker recommended these shares to me.
+
 Mal /maːl/, das, Male: time
   ein für alle Mal: once and for all
   Ein für alle Mal: Lass deine Schwester in Ruhe!
@@ -233,6 +239,15 @@ Metzger, -, Metzgerin: butcher
 
 Metzgerei /mɛʦɡəˈrai/, die, -en: butcher shop
 
+Miete /ˈmiːtə/, die, -n: rent
+  Wir zahlen monatlich 600 Euro Miete.
+  We pay 600 euros a month in rent.
+  zur Miete wohnen: to live in rented accommodation
+
+Mieter, Mieterin: tenant
+  In der Nachbarwohnung sind neue Mieter eingezogen.
+  New tenants have moved into the next apartment.
+
 Milch /mɪlç/, die: milk
 
 Milchreis, der: rice pudding
@@ -299,6 +314,10 @@ mitmachen /ˈmɪtmaxən/: to take part (in), to join in, to go through, to hold 
 
 mitsamt /mɪtˈzamt/: together/along with
 
+Mitte /ˈmɪtə/, die, -n: middle, center
+  in der Mitte des Kreises / der Stadt: in the middle of the circle/town
+  Mitte des 20. Jahrhunderts: in the middle of the 20th century
+
 mitteilen /ˈmɪttailən/: to confide, to impart, to communicate, to convey
   allen Bekannten seine neue Adresse mitteilen: to inform all your contacts of your new address
 
@@ -321,6 +340,8 @@ Mittwoch /ˈmɪtvɔx/, der: Wednesday
 Möbel /ˈmøːbəl/, pl: furniture
   Ich habe mir neue Büromöbel angeschafft.
   I got some new office furniture.
+
+Möbelpacker /ˈmøːbəlpakɐ/: mover
 
 Mode /ˈmoːdə/, die, Moden: fashion, custom
   die neue Herbstmode/Sommermode: the new fall/summer fashions
