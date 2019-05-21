@@ -131,6 +131,10 @@ beantragen /bəˈ|antraːɡən/: to apply for
 beantworten /bəˈ|antvɔrtən/: to answer
   eine Frage richtig beantworten: to answer a question correctly
 
+beauftragen /bəˈ|auftraːɡən/: to commission, to engage, to hire
+  Wen haben Sie mit dem Bau Ihres Hauses beauftragt?
+  Who have you engaged to build the house?
+
 Beben /ˈbeːbən/, das: quake
   ein Beben der Stärke 8 auf der Richter-Skala
   an earthquake with a magnitude of 8 on the Richter scale
@@ -438,6 +442,10 @@ bemerken /bəˈmɛrkən/: to notice
 
 Bemerkung /bəˈmɛrkʊŋ/, die: remark, comment
   eine abfällige Bemerkung machen: to make a snide remark
+
+benachrichtigen /bəˈnaːxrɪçtɪɡən/: to inform, to notify
+  Die Eltern wurden (davon) benachrichtigt, dass ihr Kind …
+  The parents were notified that their child…
 
 benötigen /bəˈnøːtɪɡən/: to need, to require
   Ich benötige deine Hilfe.
