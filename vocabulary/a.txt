@@ -97,6 +97,10 @@ abheben /ˈapheːbən/: to answer, to cut, to withdraw, to take off
   Ich möchte gern 300 Euro von meinem Sparbuch abheben.
   I'd like to withdraw 300 euros from my savings account.
 
+Abitur /abiˈtuːɐ/, das, -e: high school graduation
+  Hast du Abitur?
+  Did you graduate from high school?
+
 Abkommen /ˈapkɔmən/, das: agreement
   ein Friedensabkommen unterzeichnen: to sign a peace treaty
 
@@ -255,6 +259,12 @@ abtrennen /ˈaptrɛnən/: to separate, to tear off, to sever
   to take off the frayed collar and replace it
   den abgetrennten Teil der Eintrittskarte aufbewahren
   to keep the torn off part of the admission ticket 
+
+abwählen /ˈapvɛːlən/: to vote out of office, to drop
+  Der frühere Vorsitzende wurde mit großer Mehrheit abgewählt.
+  The former chairman was voted out of office with a large majority.
+  In der Oberstufe kann ich Latein endlich abwählen.
+  When I'm a senior I can finally drop Latin.
 
 Abwasser /ˈapvasɐ/, das, ..: waste water
   Abwasserkanal: gully
@@ -1089,6 +1099,10 @@ Aufsatz /ˈaufzaʦ/, der, ..e: essay, paper
 aufschlagen /ˈaufʃlaːɡən/: to open, to add, to hit
   Ich hielt sie für tot, bis sie die Augen aufschlug.
   I thought she was dead till she opened her eyes.
+
+Aufsicht /ˈaufzɪçt/, die, -en: supervision, supervisor, person in charge
+  die Aufsicht (bei / über etw.) haben / führen: to be in charge (of sth)
+  sich bei der Aufsicht melden: to report to the person in charge
 
 Aufstand /ˈaufʃtant/, der, ..e: revolt, rebellion
   Arbeiteraufstand: workers' rebellion
