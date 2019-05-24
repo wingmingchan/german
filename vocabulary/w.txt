@@ -219,6 +219,12 @@ Weitergabe /ˈvaitɐɡaːbə/, die, -: passing on
   die Weitergabe der Gene / von Informationen
   the passing on of genes/information
 
+weitergehen /ˈvaitɐɡeːən/: to go/carry on, to continue
+  Gehen wir jetzt weiter?
+  Shall we go on?
+  Nach einer kurzen Pause ging das Seminar weiter.
+  The seminar continued after a short recess.
+
 weiterhin /ˈvaitɐˈhɪn/: still
 
 weiterleiten /ˈvaitɐlaitən/: to pass on
@@ -329,6 +335,10 @@ wesentlich /ˈveːzəntlɪç/: considerably, substantially
 
 Westen /ˈvɛstən/, der: west
 
+Wettbewerb /ˈvɛtbəvɛrp/, der, -e: competition
+  an einem Wettbewerb teilnehmen: to take part in a competition
+  sich im internationalen Wettbewerb behaupten können: to be able to compete globally
+
 Wette /ˈvɛtə/, die: bet, wager
 
 *Wetter /ˈvɛtɐ/, das: weather
@@ -417,6 +427,9 @@ wissen /ˈvɪsən/: to know
 Wissenschaft /ˈvɪsənʃaft/, die: science
 
 Wissenschaftler /ˈvɪsənʃaftlɐ/: scientist
+
+wissenschaftlich /ˈvɪsənʃaftlɪç/: scientifically
+  wissenschaftlich arbeiten: to work scientifically
 
 *Witterung /ˈvɪtərʊŋ/, die: weather
    Bei guter Witterung findet das Fest im Freien statt.
