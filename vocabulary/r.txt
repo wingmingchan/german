@@ -201,6 +201,13 @@ regelmäßig /ˈreːɡəlmɛːsɪç/: regular
   Die Formen von „schauen‟ sind völlig regelmäßig.
   "Schauen" is a completely regular verb.
 
+regeln /ˈreːɡəln/: to regulate, to control, to settle, to resolve
+  Ist gesetzlich geregelt, wer solche Reparaturen zahlen muss?
+  Is it laid down by law who should pay for these sorts of repairs?
+  Eine Ampel / Ein Polizist regelt den Verkehr an der Kreuzung.
+  A traffic light/police officer controls the traffic at the intersection.
+  jds finanzielle Angelegenheiten regeln: to put sb's financial affairs in order
+
 regelrecht /ˈreːɡəlrɛçt/: real, proper
 
 Regen /ˈreːɡən/, der: rain
@@ -236,6 +243,13 @@ Reich, das: empire
 Reichtum /ˈraiçtuːm/, der, ..er: wealth
   zu Reichtum kommen: to become wealthy
   immenser Reichtum an Bodenschätzen: huge abundance of mineral resources
+
+Reife /ˈraifə/, die, (uncountable): ripeness, maturity
+  Tomaten im Gewächshaus schneller zur Reife bringen
+  to get tomatoes to ripen more quickly in the greenhouse
+  Dazu fehlt ihm die nötige geistige / sittliche Reife.
+  He's too intellectually/morally immature for that.
+  mittlere Reife: intermediate high school diploma awarded after ten years of schooling
 
 Reifen /ˈraifən/, der, Reifen: tire
   mit quietschenden Reifen um die Kurve fahren
