@@ -159,6 +159,12 @@ vergangen /fɛɐˈɡaŋən/: past, previous, last
 
 Vergangenheit /fɛɐˈɡaŋənhait/, die: past
 
+vergeben /fɛɐˈɡeːbən/: to forgive, to award
+  Bitte vergib mir!
+  Please forgive me!
+  An wen wurde die Wohnung vergeben?
+  Who was the apartment allocated to?
+
 vergehen /fɛɐˈɡeːən/: to pass, to go by, to wear off, to be dying of sth, to steal
   Wie schnell doch die Zeit vergeht!
   How quickly time flies!
@@ -170,7 +176,7 @@ vergehen /fɛɐˈɡeːən/: to pass, to go by, to wear off, to be dying of sth, 
   Wer hat sich an meinem Kuchen vergangen?
   Who's stolen my cake?
 
-vergewaltigen: to rape
+vergewaltigen /fɛɐɡəˈvaltɪɡən/: to rape
 
 vergießen /fɛɐˈɡiːsən/: to spill
   Wer hat den Kakao auf dem Tisch vergossen?
@@ -669,6 +675,11 @@ Volk /fɔlk/, das, Völker /ˈfœlkɐ/: people, nation
 vollbringen /fɔlˈbrɪŋən/: to achieve, to perform
   Da hast du aber eine Meisterleistung vollbracht!
   What a masterly performance!
+
+vollenden /fɔlˈ|ɛndən/: to complete
+  Der Autor hat den Roman erst zwei Jahre später vollendet.
+  The author only completed the novel two years later.
+  das 50. Lebensjahr vollenden usw.: to turn 50 etc.
 
 voller /ˈfɔlɐ/: full of
   ein Korb voller roter Äpfel: a basket full of red apples
