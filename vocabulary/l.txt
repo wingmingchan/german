@@ -219,6 +219,8 @@ leben /ˈleːbən/: to live
 
 Lebensgefahr /ˈleːbənsɡəfaːɐ/, die: mortal danger
 
+Lebensjahr: year of ones life
+
 Lebensmittel /ˈleːbənsmɪtəl/, das: food
   Lebensmittel einkaufen gehen: to go and buy some groceries
 
@@ -271,7 +273,7 @@ lehnen /ˈleːnən/: to lean sth somewhere
   Er lehnte mit dem Rücken an der Wand.
   He leant his back against the wall.
 
-Lehre /ˈleːrə/, die: teaching, training
+Lehre /ˈleːrə/, die: apprenticeship, teaching, training
 
 lehren /ˈleːrən/: to teach
   => beibringen
