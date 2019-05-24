@@ -190,6 +190,8 @@ scheinen /ˈʃainən/: to shine, to seem
   Das scheint mir keine gute Idee zu sein.
   That doesn't seem a very good idea to me.
 
+Schreiner /ˈʃrainɐ/, Schreinerin: carpenter
+
 Scheitel /ˈʃaitəl/, der, -: part, apex, vertex
   einen Mittelscheitel haben: to have a center part
   vom Scheitel bis zur Sohle: from top to toe
@@ -491,6 +493,8 @@ schuften /ˈʃʊftən/: to slave away
 Schuh /ʃuː/, der: shoe
   ein Paar Schuhe: a pair of shoes
 
+Schulart, die, Schultyp, der: type of school
+
 Schuld, die: guilt, fault, debt
 
 schulden: to owe
@@ -510,6 +514,10 @@ Schule /ˈʃuːlə/, die: school
 
 schulen /ˈʃuːlən/: to train
   Mitarbeiter im Umgang mit der neuen Software schulen: to train employees to use the new software
+
+Schulpflicht /ˈʃuːlpflɪçt/, die, (uncountable): compulsory school attendance
+  Die allgemeine Schulpflicht beginnt für alle Kinder nach der Vollendung des 6. Lebensjahres.
+  School attendance becomes compulsory for all children when they turn six.
 
 Schurke /ˈʃʊrkə/: villain
   Spielen Sie im Film lieber den Helden oder den Schurken?
@@ -695,6 +703,12 @@ Sekunde /zeˈkʊndə/, die: second
 
 selbst /zɛlpst/: in person, self
   ich selbst: myself
+
+selbstverständlich /ˈzɛlpstfɛɐʃtɛntlɪç/: obvious, natural, naturally, of course
+  Dass ich dir helfe, ist doch selbstverständlich.
+  It goes without saying that I’ll help you.
+  Ich werde selbstverständlich kommen.
+  Of course I'll come.
 
 seltsam /ˈzɛltzaːm/: strange, odd
   Das kommt mir seltsam vor.
@@ -1159,6 +1173,11 @@ Steuer /ˈʃtɔyɐ/, das: steeling wheel
 Steuer /ˈʃtɔyɐ/, die: tax
   Steuern zahlen/hinterziehen
   to pay/avoid paying tax
+
+steuern /ˈʃtɔyɐn/: to steer, to drive, to pilot, to head, to control
+  Wer hat den Wagen gesteuert?
+  Who was driving the car?
+
 
 Stich /ʃtɪç/, der: sting, bite, stab wound
   jdn im Stich lassen: to let sb down
