@@ -283,6 +283,12 @@ beglücken /bə’ɡlʏkən/: to please, to make happy
   Das war eine beglückende Erfahrung.
   That was an uplifting experience.
 
+begrenzt /bəˈɡrɛnʦt/: limited, to a limited extent
+  nur begrenzte Zeit zur Verfügung stehen
+  to be available for a limited time only
+  Die Untersuchungsergebnisse sind nur begrenzt aussagefähig.
+  The test results are at best of limited relevance.
+
 Begriff /bəˈɡrɪf/, der, -e: idea, notion, term
   Ich kann mir keinen rechten Begriff davon machen.
   I can't really imagine it.
@@ -308,7 +314,7 @@ behandeln /bəˈhandəln/: to treat
   eine Krankheit mit Medikamenten behandeln
   to treat an illness with medication
 
-behaupten /bəˈhauptən/: to claim
+behaupten /bəˈhauptən/: to claim, to contend, to maintain
   Sie behauptet, krank gewesen zu sein, aber ich halte das für eine Ausrede.
   She claims to have been ill, but I think that's just an excuse.
 
@@ -1127,6 +1133,9 @@ Buch /buːx/, das, Bücher /ˈbyːçɐ/: book
 
 buchen: to book
    eine Reise online /ˈɔnlain/ buchen: to book a trip online
+
+Buchführung /ˈbuːxfyːrʊŋ/: accounting, bookkeeping
+  für jdn die Buchführung machen: to do sb's accounts
 
 Buchhalter /ˈbuːxhaltɐ/: bookkeeper, accountant
 
