@@ -120,9 +120,12 @@ Pferd /pfeːɐt/, das: horse
 pflegen /ˈpfleːɡən/: to care for, to look after
   die kranken Eltern pflegen: to care for your sick parents
 
-Pflicht /pflɪçt/, die, -en: duty
+Pflicht /pflɪçt/, die, -en: duty, compulsory section
   die elterliche Aufsichtspflicht verletzen
   to neglect your legal parental duty to supervise children properly
+  <=> Kür
+  gute Noten im Pflichtlaufen bekommen
+  to get good marks in the compulsory figures
 
 pflücken /ˈpflʏkən/: to pick
 
