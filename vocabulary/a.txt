@@ -590,6 +590,11 @@ Angebot /ˈanɡəboːt/, das: offer, supply
   Das Angebot übersteigt derzeit die Nachfrage.
   Supply is outstripping demand at the moment.
 
+angegriffen /ˈanɡəɡrɪfən/: weakened, affected
+  Sie ist von der Infektion noch ganz angegriffen.
+  She's still very weak from the infection.
+  => angreifen
+
 angehören /ˈanɡəhøːrən/: to be a member (of), to belong
   Der Regierung gehören derzeit 15 Minister an.
   There are 15 ministers in the government at the moment.
@@ -627,6 +632,11 @@ angespannt /ˈanɡəʃpant/: strained, tense, fraught
 Angestellte /ˈanɡəʃtɛltə/: employee, white-collar worker
 
 angewurzelt /anɡəˈvʊrʦɛlt/: rooted to the spot
+
+angreifen /ˈanɡraifən/: to attack, to affect
+  (eine Stadt) mit Raketen angreifen: to launch a rocket attack (on a city)
+  Diese Tabletten greifen den Magen an.
+  These tablets are bad for the stomach.
 
 Angriff /ˈanɡrɪf/, der: attack
   einen feindlichen Angriff abwehren/zurückschlagen
@@ -876,6 +886,10 @@ Armut /ˈarmuːt/, die: poverty
 
 Art, die: sort, kind, species, way
 
+artgerecht /ˈartɡərɛçt/: species-appropriate
+  Hühner artgerecht halten
+  to keep chickens in their natural environment
+
 Arthritis /arˈtriːtɪs/, die
 
 Arzt /arʦt/, Ärztin: doctor
@@ -901,6 +915,10 @@ Asyl /aˈzyːl/, das: asylum
 
 Atlas /ˈatlas/, der, Atlanten /atˈlantən/: atlas
   einen Ort im Atlas nachschlagen: to look a place in the atlas 
+
+atmen /ˈaːtmən/: to breathe
+  Vor Anstrengung atmete er schwer.
+  He was breathing heavily from the exertion.
 
 Atom /aˈtoːm/, das: atom
   Atombombe: atomic bomb
@@ -1171,6 +1189,10 @@ augenblicklich /ˈauɡənblɪklɪç/: current, immediately
 
 aus-: away, removed, turned off
 
+ausatmen /ˈaus|aːtmən/: to breathe out
+  durch die Nase ein- und ausatmen
+  to breathe in and out through your nose
+
 Ausbeute /ˈausbɔytə/, die: yield
   Die Mine ist noch in Betrieb, aber die Ausbeute ist mittlerweile gering.
   The mine is still in operation but the yield is now low. 
@@ -1420,6 +1442,10 @@ Ausstellung /ˈausʃtɛlʊŋ/, die: exhibition
 
 Ausstieg /ˈausʃtiːk/, der: pullout, withdrawal, exit
   den Ausstieg aus der Atomkraft fordern: to demand a pullout from nuclear energy
+
+austoben /ˈaustoːbən/: to run riot, to let off steam
+  Die Jungen sollen sich im Garten mal so richtig austoben.
+  The boys can run around to their hearts’ content in the garden and tire themselves out.
 
 austreiben /ˈaustraibən/: to exorcise, to cure of
   Sie kam zu Tode, als ihr Vater den Teufel austreiben wollte, von dem sie angeblich besessen war.
