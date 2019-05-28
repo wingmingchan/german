@@ -174,6 +174,9 @@ bedienen /bəˈdiːnən/: to serve, to wait tables
 
 Bedienung /bəˈdiːnʊŋ/: waiter, waitress
 
+bedrohen /bəˈdroːən/: to threaten
+  sich von jdm bedroht fühlen: to feel threatened by sb
+
 beehren /bəˈ|eːrən/: to honor sb/sth with sth
   Sie hat uns doch tatsächlich mit ihrer Anwesenheit beehrt.
   She actually did grace us with her presence.
@@ -521,6 +524,10 @@ Berühmtheit /bəˈryːmthait/, die: fame
   This success helped her become moderately famous.
 
 besaßen => besitzen
+
+beschädigen /bəˈʃɛːdɪɡən/: to damage
+  Das Dach wurde beim Sturm schwer beschädigt.
+  The roof was badly damaged in the storm.
 
 beschäftigen /bəˈʃɛftɪɡən/: to employ
   Das Unternehmen beschäftigt 2000 Mitarbeiter.
