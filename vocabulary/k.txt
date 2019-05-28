@@ -576,6 +576,11 @@ Kupfer, das: copper
 
 kupfern: copper
 
+Kür /kyːɐ/, die, -en: free section
+  <=> Pflicht
+  In der Kür konnte sie zeigen, was wirklich in ihr steckt.
+  In the free section she was able to show what she was really capable of.
+
 Kurs /kʊrs/, der: course, price, rate
   einen Kurs an der Universität belegen/besuchen
   to enrol for/take a course at university
