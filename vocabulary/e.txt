@@ -140,6 +140,11 @@ einander /aiˈnandɐ/: each other
   Sind wir einander nicht schon mal begegnet?
   Haven't we met before?
 
+einatmen /ˈain|aːtmən/: to breathe in
+  <=> ausatmen
+  Sie atmete tief ein.
+  She took a deep breath.
+
 einbiegen /ˈainbiːɡən/: to turn
   Da vorn musst du rechts einbiegen.
   You have to turn right up ahead.
@@ -346,6 +351,11 @@ einpacken /ˈainpakən/: to wrap (up), to pack
 einmischen: to interfere
 
 Einrede, die: objection, protest, contradiction, defense
+
+einsam /ˈainzaːm/: lonely, lonesome, solitary, secluded, remote
+  Sie fühlt sich in letzter Zeit oft einsam.
+  She's been feeling lonely a lot recently.
+  in einer einsamen Gegend wohnen: to live in a remote area
 
 einsammeln /ˈainzaməln/: to collect
   Die Erzieherin sammelt die Spielsachen ein.
@@ -567,6 +577,12 @@ ent-: to express that sth is taken away, a process is reversed, movement away fr
 entdecken /ɛntˈdɛkən/: to discover
   Kolumbus entdeckte Amerika.
   Columbus discovered America.
+
+entfernen /ɛntˈfɛrnən/: to remove, to go away, to depart
+  Bitte entfernen Sie dieses Bild aus meinem Büro.
+  Please remove that picture from my office.
+  Entfern dich nicht so weit von uns, damit du nicht verloren gehst.
+  Don't go too far away from us so you don't get lost.
 
 entfernt /ɛntˈfɛrnt/: away, distant, remote
 
