@@ -456,6 +456,9 @@ benachrichtigen /bəˈnaːxrɪçtɪɡən/: to inform, to notify
   Die Eltern wurden (davon) benachrichtigt, dass ihr Kind …
   The parents were notified that their child…
 
+benehmen /bəˈneːmən/: to behave
+  => betragen
+
 benötigen /bəˈnøːtɪɡən/: to need, to require
   Ich benötige deine Hilfe.
   I need your help.
@@ -506,6 +509,11 @@ Bericht /bəˈrɪçt/, der: report
 berichtigen /bəˈrɪçtɪɡən/: to correct, to rectify
 
 berichten /bəˈrɪçtən/: to report
+
+Beruf /bəˈruːf/, der, -e: occupation
+  einen Beruf erlernen, ausüben: to train for / do a job
+
+beruflich: professional
 
 berufstätig /bəˈruːfstɛːtɪç/: working
   Sind Sie berufstätig?
