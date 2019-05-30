@@ -76,6 +76,10 @@ Sau /zau/, die: sow
 
 sauber /ˈzaubɐ/: clean
 
+säubern /ˈzɔybɐn/: to clean, to clean up
+  eine Wunde säubern: to clean a wound
+  Schulbücher von rassistischem Gedankengut säubern: to rid schoolbooks of any racist ideas
+
 sauer /ˈzauɐ/: sour, pissed, angrily
 
 *Sauerstoff /ˈzauɐʃtɔf/, der: oxygen
@@ -106,6 +110,15 @@ schaden /ˈʃaːdən/: to damage, to harm
   The affair really damaged his reputation.
   
 schaffen /ˈʃafən/: to do, to manage, to finish, to take, to put, to work, to create
+  Ich hab das schon mehrmals versucht, aber ich schaffe das einfach nicht.
+  I've tried several times but I just can't do it.
+  die Fahrräder in den Keller schaffen: to put the bikes in the cellar
+  Puh, gerade noch geschafft!
+  Phew, just made it!
+  Diese Hitze schafft mich ziemlich.
+  This heat fairly takes it out of me.
+  Er ist noch beim Schaffen.
+  He's still at work.
 
 Schal /ʃaːl/, der, Schals: scarf
   Nimm einen Schal um bei der Kälte!
@@ -710,6 +723,10 @@ selbstverständlich /ˈzɛlpstfɛɐʃtɛntlɪç/: obvious, natural, naturally, o
   Ich werde selbstverständlich kommen.
   Of course I'll come.
 
+selten /ˈzɛltən/: rare
+  Er ist ein seltener Gast in unserem Haus.
+  He rarely visits us.
+
 seltsam /ˈzɛltzaːm/: strange, odd
   Das kommt mir seltsam vor.
   That seems strange to me.
@@ -1254,6 +1271,10 @@ stören /ˈʃtøːrən/: to disturb, to interfere, to interrupt, to intrude, to 
 stoßen /ˈʃtoːsən/: to push, to shove, to strike, to bump
   jdn ins Wasser stoßen: to push sb into the water
   mit dem Kopf an die Decke stoßen: to bump your head on the ceiling
+
+Stoßzeit /ˈʃtoːsʦait/, die, -en: rush hour, busy time
+  Während der Stoßzeiten dürfen keine Fahrräder in der S-Bahn mitgenommen werden.
+  No bicycles are allowed on the commuter railroad during the rush hour.
 
 strafbar /ˈʃtraːfbaːɐ/: punishable, illegal
   Schon das Anklicken von Kinderpornos im Internet ist strafbar.
