@@ -595,6 +595,19 @@ angegriffen /ˈanɡəɡrɪfən/: weakened, affected
   She's still very weak from the infection.
   => angreifen
 
+angehen /ˈanɡeːən/: to begin, to go on, to burn, to light, to be acceptable, to tackle
+  Wann geht's endlich an?
+  When are things finally going to get started?
+  als das Licht wieder anging: when the light came back on
+  Das Holz war so feucht, dass das Feuer nicht angehen wollte.
+  The wood was so damp that the fire wouldn't start.
+  Das kann doch nicht angehen!
+  That's just not on!
+  Es geht dich gar nichts an, was ich mit meinem Geld mache!
+  It's none of your business what I do with my money!
+  Du solltest das Aufräumen endlich mal angehen.
+  It's about time you started clearing up at last.
+
 angehören /ˈanɡəhøːrən/: to be a member (of), to belong
   Der Regierung gehören derzeit 15 Minister an.
   There are 15 ministers in the government at the moment.
@@ -1392,6 +1405,16 @@ aussehen /ˈauszeːən/: to look
 Aussprache /ˈausʃpraːxə/, die: pronunciation
   die richtige Aussprache eines Wortes
   the correct pronunciation of a word
+
+ausstehen /ˈausʃteːən/: to loathe sb/sth, to suffer, to be outstanding
+  Er kann es nicht ausstehen, wenn geraucht wird.
+  He can't stand it when people smoke.
+  Todesängste ausstehen müssen: to be scared to death
+  etw. ist ausgestanden: it's over
+  Die Krise in der Luftfahrtindustrie ist ausgestanden.
+  The crisis in the aviation industry is over.
+  Die Miete für den letzten Monat steht noch aus.
+  Last month's rent is still owing.
 
 aussuchen /ˈauszuːxən/: to choose
   Du hast dir diesen Beruf ausgesucht, jetzt jammere nicht.
