@@ -163,7 +163,7 @@ meiden /ˈmaidən/: to avoid
 
 Meile /ˈmailə/, die: mile
 
-meinen /ˈmainən/: to think, to mean, to intend
+meinen /ˈmainən/: to think, to mean, to intend, to mean
   Seine Eltern meinen, dass er mehr im Haushalt helfen sollte.
   His parents think that he should help around the house more.
   Das will ich meinen!
@@ -221,6 +221,9 @@ merkwürdig /ˈmɛrkvʏrdɪç/: strange, odd
   That seems odd to me.
 
 messen /ˈmɛsən/: to meaure
+  bei jdm Fieber messen: to take sb's temperature
+  Er misst 1,85 Meter.
+  He's 1.85 meters tall.
 
 Messer, das: knife
 
@@ -248,9 +251,13 @@ Mieter, Mieterin: tenant
   In der Nachbarwohnung sind neue Mieter eingezogen.
   New tenants have moved into the next apartment.
 
+Mietvertrag, der: lease
+
 Milch /mɪlç/, die: milk
 
 Milchreis, der: rice pudding
+
+Militär /miliˈtɛːɐ/, das, (uncountable): military, army
 
 Milliarde /mɪlˈjardə/, die: billion
   eine halbe Milliarde Dollar Umsatz: half a billion dollars in turnover
@@ -404,6 +411,11 @@ Müll /mʏl/, der: garbage , trash
   Plastikmüll: plastic waste
   Biomüll: organic waste
 
+Müllabfuhr /ˈmʏl|apfuːɐ/, die, -en: garbage disposal company, garbage disposal
+  bei der Müllabfuhr arbeiten: to work for a garbage disposal company
+  Montag ist Müllabfuhr.
+  Garbage disposal is on Monday.
+
 Mülleimer /ˈmʏl|aimɐ/, der, -: garbage can
   Wirf das bitte in den Mülleimer!
   Please throw it in the garbage (can)!
@@ -434,6 +446,10 @@ Mut /muːt/, der, (uncountable): courage, bravery
 mutmaßlich /ˈmuːtmaːslɪç/: suspected
   Die Polizei hat den mutmaßlichen Täter verhaftet.
   The police have arrested the suspect.
+
+Mutprobe /ˈmuːtproːbə/, die, -n: test of courage
+  Er hat die Mutprobe gemacht / bestanden.
+  He did/passed the test of courage.
 
 Mutter /ˈmʊtɐ/, die, Mütter /ˈmʏtɐ/: mother
 
