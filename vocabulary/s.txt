@@ -256,10 +256,15 @@ schießen /ˈʃiːsən/: to shoot, to kick
 
 Schiff /ʃɪf/, das: ship, boat
 
-Schild /ʃɪlt/, das, Schilder: sign
+Schild /ʃɪlt/, das, -er: sign, label, tag
   => Tafel
   Auf dem Schild stand „Betreten verboten!‟
   On the sign it said, "No entry."
+  Namensschilder in die Kleider nähen: to sew name tags into the clothes
+  
+Schild, der, -e: shield
+  einen Schwerthieb mit dem Schild abwehren: to parry a sword stroke with your shield
+  etwas im Schilde führen: to be plotting sth (against sb/sth)
 
 schildern /ˈʃɪldɐn/: to describe
   jdm die Situation schildern: to describe the situation to sb
@@ -817,6 +822,10 @@ sobald /zoˈbalt/: as soon as
 
 sodass /zoˈdas/: so that
 
+sofern /zoˈfɛrn/: if
+  Sofern das Wetter schön ist, können wir am Wochenende in die Berge fahren.
+  If the weather is nice, we can go to the mountains at the weekend.
+
 sogar /zoˈɡaːɐ/: even, no less
   Sogar ein Hund kann das lernen!
   Even a dog can learn it!
@@ -1070,6 +1079,8 @@ Stand /ʃtant/, der: stall, state, stand, level
   The taxi stand was empty.
 
 stand => stehen
+
+Standesamt /ˈʃtandəs|amt/, das, ..er: bureau of vital statistics, register office/registry office
 
 ständig /ˈʃtɛndɪç/: permanent, constantly
   ein ständiges Mitglied im UN-Sicherheitsrat
@@ -1397,6 +1408,11 @@ suchen /ˈzuːxən/: to look for
 
 Süden /ˈzyːdən/, der: south
 
+Summe /ˈzʊmə/, die, -n: sum
+  eine sechsstellige Summe verdienen: to earn a six-figure sum
+  Die Summe von fünf plus vier ist neun.
+  The sum of five plus four is nine.
+
 summen /ˈzʊmən/: to hum
   Sie summte fröhlich vor sich hin.
   She was humming away happily. 
@@ -1413,5 +1429,9 @@ Süßigkeit /ˈzyːsɪçkait/, die, -en: candy
 Symbol /zʏmˈboːl/, das: symbol
   die Taube als Symbol des Friedens
   the dove as a symbol of peace
+
+sympathisch /zʏmˈpaːtɪʃ/: likable, nice
+  Sie ist mir nicht besonders sympathisch.
+  I don't particularly like her.
 
 System /zʏsˈteːm/, das, -e
