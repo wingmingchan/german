@@ -292,6 +292,9 @@ begrenzt /bəˈɡrɛnʦt/: limited, to a limited extent
   Die Untersuchungsergebnisse sind nur begrenzt aussagefähig.
   The test results are at best of limited relevance.
 
+Begrenzung /bəˈɡrɛnʦʊŋ/, die, -en: limit
+  ohne zeitliche Begrenzung: for an unlimited period
+
 Begriff /bəˈɡrɪf/, der, -e: idea, notion, term
   Ich kann mir keinen rechten Begriff davon machen.
   I can't really imagine it.
@@ -412,11 +415,19 @@ belästigen /bəˈlɛstɪɡən/: to bother, to annoy, to trouble, to pester, to 
 
 Belästigung /bəˈlɛstɪɡʊŋ/, die: annoyance, nuisance, harassment
 
+belauschen /bəˈlauʃən/: to eavesdrop on
+  seine Eltern / ein Gespräch belauschen: to eavesdrop on your parents/a conversation
+
 beleben /bəˈleːbən/: to stimulate, to be revitalized, to brighten up, to liven up
   Allmählich beleben sich die Straßen.
   The streets are gradually beginning to liven up.
 
 beleuchten: to light up
+
+Beleuchtung /bəˈlɔyçtʊŋ/, die, -en: lighting, lights
+  indirekte Beleuchtung: concealed/indirect lighting
+  die Weihnachtsbeleuchtung anbringen / abnehmen
+  to put up/take down the Christmas lights
 
 belieben /bəˈliːbən/: to please, to like
   Kommen Sie wieder, wann es Ihnen beliebt.
@@ -480,6 +491,12 @@ berauschend /bəˈrauʃənt/: intoxicating
 
 Bereich /bəˈraiç/, der: area
   ein verkehrsberuhigter Bereich: a traffic-calmed neighborhood
+
+berechnen /bəˈrɛçnən/: to calculate, to charge
+  Die Suppe ist für vier Portionen berechnet.
+  The soup is meant to serve four.
+  Den ersten Tag habe ich Ihnen nicht berechnet.
+  I didn't charge you for the first day.
 
 Berechnung /bəˈrɛçnʊŋ/, die, -en: calculation, charging
   Nach meiner Berechnung müssten wir jetzt bald ankommen.
@@ -566,6 +583,10 @@ beschließen /bəˈʃliːsən/: to decide, to resolve, to pass, to end
   Lass uns den Abend bei einem Glas Wein beschließen.
   Let's finish off the evening with a glass of wine.
 
+Beschränkung /bəˈʃrɛŋkʊŋ/, die, -en: restriction
+  die Beschränkung der Redezeit auf 5 Minuten: limiting speaking time to 5 minutes
+  jdm / sich Beschränkungen auferlegen: to impose restrictions on sb/yourself
+
 Beschreibung /bəˈʃraibʊŋ/, die: description
 
 beschriften /bəˈʃrɪftən/: to label, to inscribe
@@ -574,6 +595,10 @@ beschriften /bəˈʃrɪftən/: to label, to inscribe
 besetzen /bəˈzɛʦən/: to fill, to reserve, to occupy
   eine Führungsposition neu besetzen
   to find someone new to fill an executive position
+
+Besichtigung /bəˈzɪçtɪɡʊŋ/, die, -en: tour, sightseeing, inspection, viewing
+  eine Besichtigungstour durch die Stadt: a sightseeing trip through the city
+  die Besichtigung eines Hauses, das zum Verkauf steht: viewing a house that is up for sale
 
 besitzen /bəˈzɪʦən/: to own
   habe besessen, besaß, besaßest
@@ -591,6 +616,10 @@ besonders /bəˈzɔndɐs/: particularly, especially
   ein besonders erfolgreiches Jahr: a particularly successful year
   Sie ist nicht besonders hübsch.
   She's not particularly pretty.
+
+bespitzeln /bəˈʃpɪʦəln/: to spy on
+  Die Firma ließ ihre Mitarbeiter bespitzeln.
+  The company had its employees spied on.
 
 besprechen /bəˈʃprɛçən/: to discuss, to consult, to review
   das weitere Vorgehen eingehend besprechen
@@ -659,6 +688,9 @@ beten /ˈbeːtən/: to pray
 
 betrachten /bəˈtraxtən/: to look at, to consider, to observe
   ein Kunstwerk eingehend betrachten: to view an art work in detail
+
+Betrag /bəˈtraːk/, der, ..e: amount, sum
+  Beträge in Millionenhöhe: seven-figure amounts
 
 betragen /bəˈtraːɡən/: to be, to amount to, to behave
   Die Länge darf höchstens 2,50 m betragen.
@@ -1177,9 +1209,17 @@ Bund /bʊnt/, der: federal government, confederacy, association, league
 
 Bundesamt, das: Federal Office
 
+Bundesebene, die: at the federal level
+
+Bundeshaushalt, der: federal budget
+
 Bundeskanzler, Bundeskanzlerin: federal chancellor
   => Bund (Bundesstaat): federal government
   => Kanzler: chancellor
+
+Bundesversammlung, die: Federal Assembly
+
+Bundeswehr /ˈbʊndəsveːɐ/, die, (uncountable): armed forces
 
 Bündnispolitik, die: policy of alliances
 
