@@ -171,6 +171,14 @@ weich /vaiç/: soft, soft-boiled, soft-hearted
   <=> hart
   Gemüse weich kochen: to boil vegetables until cooked through 
 
+weigern /ˈvaiɡɐn/: to refuse
+  Sie weigerte sich, den Boden zu wischen.
+  She refused to clean the floor.
+  
+Weigerung /ˈvaiɡərʊŋ/, die, -en: refusal
+  Durch seine beharrliche Weigerung, sich zu entschuldigen, verursachte er einige Probleme.
+  His stubborn refusal to apologize caused some problems.
+
 weihen /ˈvaiən/: to consecrate, to dedicate
   Selbstmörder durften nicht in geweihter Erde begraben werden.
   Suicides could not be buried in consecrated ground.
@@ -437,6 +445,12 @@ wissenschaftlich /ˈvɪsənʃaftlɪç/: scientifically
 
 Witz /vɪʦ/, der, Witze: joke
   jdm einen Witz erzählen: to tell sb a joke 
+
+wobei /voːˈbai/: what, how, in which
+  Wobei ist das passiert?
+  How did it happen?
+  Sie gab ihm das Geld zurück, wobei sie ein trauriges Gesicht machte.
+  She gave him the money back with a sad expression on her face.
 
 *Woche /ˈvɔxə/, die: week
   letzte Woche: last week
