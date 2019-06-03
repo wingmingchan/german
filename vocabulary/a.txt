@@ -145,6 +145,8 @@ absagen /ˈapzaːɡən/: to cancel
   Wir wollten uns eigentlich treffen, aber er hat (mir) vorhin telefonisch abgesagt.
   We were supposed to be getting together but he just called to cancel.
 
+absägen /ˈapzɛːɡən/: to saw off 鋸掉
+
 abschätzig /ˈapʃɛʦɪç/: derogatory
   Das war nicht abschätzig gemeint.
   That wasn't meant to be condescending.
@@ -269,6 +271,9 @@ abwählen /ˈapvɛːlən/: to vote out of office, to drop
 Abwasser /ˈapvasɐ/, das, ..: waste water
   Abwasserkanal: gully
 
+abwesend /ˈapveːzənt/: absent
+  aus familiären Gründen abwesend sein: to be absent for family reasons
+
 abwischen /ˈapvɪʃən/: to wipe off
   => wischen: to wipe
 
@@ -369,6 +374,8 @@ Aktien => Aktie
 aktivieren /aktiˈviːrən/: to activate
   Viele Parteimitglieder wurden aktiviert, bei dem Fest mitzuhelfen.
   Many party members were mobilized to help at the festivities.
+
+Aktivität /aktiviˈtɛːt/, die, -en: activity
 
 aktuell /aktuˈɛl/: topical, up-to-date, relevant, current
   Aktuelles aus aller Welt: news from around the world
@@ -636,6 +643,10 @@ angenehm /ˈanɡəneːm/: pleasant, pleasantly
   Ich war angenehm überrascht.
   I was pleasantly surprised.
 
+Abgeordnete /ˈapɡə|ɔrdnətə/, der-die, -n: representative
+  eine Abgeordnete des deutschen Bundestages
+  a Member of the German Federal Parliament
+
 angespannt /ˈanɡəʃpant/: strained, tense, fraught
   Unsere finanziellen Verhältnisse sind gerade etwas angespannt.
   Right now our finances are a bit strained.
@@ -740,6 +751,8 @@ anrufen /ˈanruːfən/: to call, to phone
 
 Ansammlung /ˈanzamlʊŋ/, die: collection, crowd, gathering
 
+anschauen: ansehen
+
 anschleichen /ˈanʃlaiçən/: to creep up
   Lautlos schlichen sich die Löwen an.
   Silently the lions crept towards their prey.
@@ -751,8 +764,13 @@ anschließend /ˈanʃliːsənt/: subsequent
 Anschrift /ˈanʃrɪft/, die, -en: address
   jdm seine Anschrift mitteilen: to give sb your address
 
-ansehen /ˈanzeːən/: to look at
+Ansehen, das, (uncountable): reputation
+  hohes internationales Ansehen genießen: to be held in high esteem internationally
+
+ansehen /ˈanzeːən/: to look at, to watch
   jdn fragend ansehen: to look at sb questioningly
+  Wollen wir uns eine DVD ansehen?
+  Shall we watch a DVD?
 
 ansetzen /ˈanzɛʦən/: to schedule, to estimate, to develop, to place
   Die nächste Sitzung ist für Montag angesetzt.
@@ -824,6 +842,11 @@ Anwalt /ˈanvalt/: lawyer
 Anweisung /ˈanvaizʊŋ/, die, -en: instruction
   auf jds Anweisung handeln: to act on sb's instructions
   Gebrauchsanweisung: instructions for use
+
+anwesend /ˈanveːzənt/: present
+  <=> abwesend
+  Ich war in der Stunde, als das besprochen wurde, nicht anwesend.
+  I wasn't at the class in which it was discussed.
 
 anwurzeln
   wie angewurzelt dastehen/stehen bleiben: to stand rooted to the spot
@@ -989,6 +1012,10 @@ Aufforderung /ˈauffɔrdərʊŋ/, die, -en: order, command
   Die Demonstranten kamen der Aufforderung der Polizei, den Platz zu verlassen, nicht nach.
   The demonstrators did not comply with the police's demand to leave the square.
 
+aufräumen /ˈaufrɔymən/: to tidy (up)
+  Du solltest mal wieder aufräumen!
+  It's about time you tidied up again.
+
 auffrischen /ˈauffrɪʃən/: to refresh, to touch up, to boost
   durch einen Volkshochschulkurs seine Sprachkenntnisse auffrischen
   to do an evening class to brush up your knowledge of the language
@@ -1002,6 +1029,9 @@ aufführen /ˈauffyːrən/: to perform, to list, to act, to behave
   im Stichwortverzeichnis aufgeführt sein: to be listed in the index
   Führ dich doch nicht so auf!
   Stop playing up!
+
+Aufgaben /ˈaufɡaːbə/, die, -n: task, duty, goal, purpose, function
+  
 
 aufgeben /ˈaufɡeːbən/: to give up, to stop, to give, to leave, to mail
   das Rauchen aufgeben: to quit smoking
@@ -1306,6 +1336,10 @@ ausheben /ˈausheːbən/: to dig
 
 auskühlen: to cool
 
+Auskunft /ˈauskʊnft/, die, ..e: information
+  nach Auskunft der Polizei: according to police sources
+  die Auskunft anrufen: to call information
+
 Ausland /ˈauslant/, das: foreign countries
   ins Ausland reisen: to travel abroad
 
@@ -1322,6 +1356,10 @@ ausmachen /ˈausmaxən/: to switch off, to extinguish, to arrange
 
 Ausnahme /ˈausnaːmə/, die: exception
   von wenigen Ausnahmen abgesehen: aside from very few exceptions
+
+ausnahmsweise /ˈausnaːmsvaizə/: by way of exception
+  Die Geschäfte sind dieses Wochenende ausnahmsweise am Sonntag geöffnet.
+  This weekend the stores are open on Sunday by way of exception.
 
 ausnutzen /ˈausnʊʦən/: to take advantage of
   => nutzen: to use
@@ -1415,6 +1453,10 @@ ausstehen /ˈausʃteːən/: to loathe sb/sth, to suffer, to be outstanding
   The crisis in the aviation industry is over.
   Die Miete für den letzten Monat steht noch aus.
   Last month's rent is still owing.
+
+Ausstrahlung /ˈausʃtraːlʊŋ/, die, -en: transmission, charisma
+  die erste Ausstrahlung des Films im Fernsehen: the first showing of the movie on TV
+  eine positive Ausstrahlung haben: to exude a positive aura
 
 aussuchen /ˈauszuːxən/: to choose
   Du hast dir diesen Beruf ausgesucht, jetzt jammere nicht.
