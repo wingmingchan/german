@@ -37,6 +37,13 @@ echt /ɛçt/: genuine, real
   Das ist echte Freundschaft.
   That's true friendship.
 
+Eck /ɛk/, das, -e: corner
+  das Hotel am Eck: the hotel on the corner
+  über Eck: diagonally
+  Die Servietten über Eck falten.
+  Fold the napkins diagonally.
+  ein Schuss ins lange / linke Eck: a shot into the far/left corner
+
 Ecke /ˈɛkə/, die: edge, corner
   Er hat sich an der Ecke des Schranks gestoßen.
   He bumped into the corner of the closet.
@@ -79,6 +86,8 @@ eher /ˈeːɐ/: earlier, sooner, fairly, rather
   The water was cold rather than warm.
   So kann ich das schon eher akzeptieren.
   I can accept that more easily.
+
+Eheschließung, die: marriage ceremony
 
 eheste /ˈeːɐstə/: earliest
   Das ist der eheste Zug, den wir erreichen können.
@@ -473,7 +482,6 @@ Einzel, das: single
   
 einzeln /ˈainʦəln/: single, individual
 
-
 einzig /ˈainʦɪç/: only , solely
   Das ist die einzig mögliche Lösung.
   That's the only possible solution.
@@ -650,6 +658,10 @@ Entschuldigung /ɛntˈʃʊldɪɡʊŋ/, die, -en: apology, excuse
 entsorgen /ɛntˈzɔrɡən/: to dispose of
   Abfälle umweltfreundlich entsorgen
   to dispose of waste in an environmentally friendly way
+
+entsprechend /ɛntˈʃprɛçənt/: appropriate, relevant
+  => passend
+  ein den Leistungen entsprechendes Gehalt: a performance-related salary
 
 entstehen /ɛntˈʃteːən/: to originate, to arise, to come into being, to be created
   Wie entstehen Blitz und Donner?
