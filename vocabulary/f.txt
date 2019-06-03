@@ -369,9 +369,14 @@ fischen /ˈfɪʃən/: to fish
 
 flach /flax/: flat, shallow
 
+Flächen /ˈflɛçə/, die, -: area, surface, side
+  unbebaute Flächen in der Stadt: undeveloped land in the city
+  ein Haus mit 120 Quadratmetern Wohnfläche: a house with 120 square meters of living space
+  Mindestens drei Flächen einer Pyramide sind Dreiecke.
+  At least three sides of a pyramid are triangles.
+
 flammend /ˈflamənt/: impassioned, blazing
   eine flammende Rede halten: to give an impassioned speech
-
 
 Flagge /ˈflaɡə/, die: flag
 
@@ -468,6 +473,12 @@ Flut, die: high tide, flood, torrent
 
 fluten /ˈfluːtən/: to flood, to overflow
 
+föderal /fødeˈraːl/
+
+Föderalismus /føderaˈlɪsmʊs/, der, (uncountable): federalism
+  dem Föderalismus Kleinstaaterei vorwerfen
+  to accuse the federalist system of regionalism
+
 Fohlen, das: foal
   Die Stute hat ihr erstes Fohlen bekommen.
   The mare has had her first foal.
@@ -516,6 +527,9 @@ formell /fɔrˈmɛl/: formal
 förmlich /ˈfœrmlɪç/: formal
   Eine förmliche Genehmigung wurde nie erteilt.
   Formal approval was never granted.
+
+Formular /fɔrmuˈlaːɐ/m, das, -e: form
+  ein Anmeldeformular ausfüllen: to fill out a registration form
 
 forschen /ˈfɔrʃən/: to research, to search
   Die Polizei forscht nach den Ursachen für den Brand.
