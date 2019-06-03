@@ -126,7 +126,13 @@ verfahren: to proceed, to get lost
 
 verfassen /fɛɐˈfasən/: to write
   Er schenkte ihr ein selbst verfasstes Gedicht.
-  He gave her a poem he’d written himself.
+  He gave her a poem he'd written himself.
+
+Verfassung /fɛɐˈfasʊŋ/, die, -en: state (of health/mind), constitution
+  in guter / schlechter Verfassung sein: to be in good/poor shape
+  => Konstitution
+  Die deutsche Verfassung heißt Grundgesetz.
+  The German constitution is called the Basic Law.
 
 verfeindet /fɛɐˈfaindət/: hostile
 
@@ -575,7 +581,11 @@ Vertraute /fɛɐˈtrautə/, der-die: close friend, confidant/confidante
 
 vertreiben: dispel, evict, expel
 
-vertreten
+vertreten /fɛɐˈtreːtən/: to stand in/deputize for, to represent, to support
+  Er hat sich auf der Sitzung von seiner Assistentin vertreten lassen.
+  He had his assistant stand in for him at the meeting.
+  Durch wen wird sie anwaltlich vertreten?
+  Who is her legal representative?
   sich die Beine vertreten: to stretch your legs
 
 vertuschen /fɛɐˈtʊʃən/: to cover up
@@ -866,6 +876,16 @@ vorzeitig /ˈfoːɐʦaitɪç/: early, premature
   seine vorzeitige Entlassung aus der Haft: his early release from prison
   Der Vertrag wurde vorzeitig aufgelöst.
   The contract was terminated prematurely.
+
+vorziehen /ˈfoːɐʦiːən/: to prefer, to bring forward, to draw
+  Sie zog es vor, nicht mitzukommen.
+  She preferred not to come.
+  Ich ziehe Urlaub am Meer (den Bergen) vor.
+  I prefer vacationing by the ocean (to the mountains).
+  Könnten wir diesen Tagesordnungspunkt vielleicht vorziehen?
+  Could we perhaps give priority to this item on the agenda?
+  Zieh doch die Vorhänge vor, damit uns nicht jeder zuschauen kann.
+  Draw the curtains so that everyone can't see us.
 
 Vulkan /vʊlˈkaːn/, der: volcano
 
