@@ -72,6 +72,10 @@ zelebrieren /ʦeleˈbriːrən/: to celebrate
 Zelt /ʦɛlt/, das: tent
   ein Zelt aufstellen/abbrechen: to put up/take down a tent
 
+zerbrechen /ʦɛɐˈbrɛçən/: to break (into pieces), to smash (to pieces)
+  eine Fensterscheibe / einen Stock zerbrechen
+  to smash a window/snap a stick
+
 zerkratzen /ʦɛɐˈkraʦən/: to scratch
   jdm das Gesicht zerkratzen: to scratch sb's face
 
@@ -225,6 +229,15 @@ Zukunft /ˈʦuːkʊnft/, die: future
   Wir werden sehen, was uns die Zukunft bringt.
   We'll see what the future brings.
 
+zuletzt /ʦuˈlɛʦt/: last, in the end
+  Die Post erledigt sie immer zuletzt.
+  She always leaves the mail till last.
+  nicht zuletzt: not least
+  Diese positive Entwicklung ist nicht zuletzt ihrem großen Engagement zu verdanken.
+  This positive development is in no small measure thanks to her huge commitment.
+  Zuletzt hat er uns das Geld dann doch gegeben.
+  In the end, he did give us the money after all.
+
 zumachen: to close, to shut
    Machst du bitte den Kühlschrank zu?
    Would you close the fridge, please?
@@ -283,6 +296,8 @@ Zurückhaltung /ʦuˈrʏkhaltʊŋ/, die: reserve
 
 zurückschlagen /ʦuˈrʏkʃlaːɡən/: to hit back, to strike back
 
+zurückziehen /ʦuˈrʏkʦiːən/: to withdraw, to retreat, to retire
+
 zusammen: together
 
 zusammenfassen /ʦuˈzamənfasən/: to summarize, to combine, to merge, to integrate
@@ -295,6 +310,12 @@ zusammenfassend /ʦuˈzamənfasənt/: summarizing
   ein zusammenfassender Bericht: a summary
 
 Zusammenbruch /ʦuˈzamənbrʊx/, der: breakdown, collapse
+
+Zusammensetzung /ʦuˈzamənzɛʦʊŋ/, die, -en: composition, compound
+  Einfluss auf die Zusammensetzung eines Gremiums nehmen
+  to influence a committee's composition
+  Mehrteilige Zusammensetzungen kann man zur besseren Lesbarkeit mit Bindestrichen schreiben.
+  Compounds made up of several elements can be hyphenated to make them easier to read.
 
 Zusatzleistung, die: additional capacity, additional service
 
@@ -346,14 +367,18 @@ zwei: two
 
 Zweifel /ˈʦvaifəl/, der: doubt
 
-zweit /ʦvait/
-  zu zweit: in twos
-  Den Schrank kann man nur zu zweit tragen.
-  It takes two people to carry the closet.
+Zweifelsfall /ˈʦvaifəlsfal/, der, ..e: doubtful case
+  Im Zweifelsfall fragen Sie bitte einen Fachmann um Rat.
+  In case of doubt, please seek expert advice.
 
 Zweig /ʦvaik/, der: branch
   Äste und Zweige für ein Feuer sammeln
   to gather twigs and branches for a fire
+
+zweit /ʦvait/
+  zu zweit: in twos
+  Den Schrank kann man nur zu zweit tragen.
+  It takes two people to carry the closet.
 
 Zwetschge /ˈʦvɛtʃɡə/, die: plum
 
