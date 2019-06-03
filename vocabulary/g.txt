@@ -253,6 +253,16 @@ gehören /ɡəˈhøːrən/: to belong to, to be among, to go, to require
   Kostenlose Lieferung gehört zu unserem Service.
   Free delivery is part of our service.
 
+geil /ɡail/: awesome, obsessed, horny, hot
+  Er fährt einen geilen Wagen.
+  He drives an awesome ride.
+  karrieregeil sein: to be obsessed with your career
+  Er ist ganz geil auf dieses neue Handy.
+  He's desperate to get his hands on that new cell.
+  jdn geil machen: to make sb horny
+  => sexy
+  geil aussehen: to look hot
+
 Geisel, die: hostage
   Der Bankräuber hat drei Angestellte als Geiseln genommen.
   The bank robber had taken three of the staff hostage.
@@ -360,6 +370,9 @@ gemeinnützig /ɡəˈmainnʏʦɪç/: charitable, non-profit
 gemeinsam /ɡəˈmainzaːm/: common, joint, mutual, united, collectively, together, in common, in concert
   gemeinsam wandern/singen: to go hiking/to sing together
   gemeinsame Interessen haben: to share common interests
+
+gemeint: serious
+  => meinen
 
 gemessen /ɡəˈmɛsən/: measured, appropriate
   => messen: to measure
@@ -472,9 +485,10 @@ geschickt /ɡəˈʃɪkt/: skillful
   handwerklich / mit seinen Händen sehr geschickt sein
   to be very skilled with your hands
 
-geschehen /ɡəˈʃeːən/: to happen, to occur
+geschehen /ɡəˈʃeːən/: to happen, to occur, to commit
   Ein Wunder ist geschehen!
   A miracle has happened!
+  ihr Selbstmord geschah aus Verzweiflung: her despair led her to commit suicide
 
 Geschick /ɡəˈʃɪk/, das: skill, fate
 
@@ -484,12 +498,21 @@ Geschicklichkeit /ɡəˈʃɪklɪçkait/, die: skillfulness
 
 geschickt: skillful, numbly, cleverly
 
+Geschirr /ɡəˈʃɪr/, das, -e: dishes, crockery
+  Dieses Geschirr ist spülmaschinenfest.
+  These dishes are dishwasher safe.
+  das Geschirr spülen: to do the dishes
+
 Geschütz /ɡəˈʃʏʦ/, das, -e: gun, cannon
   ein Geschütz laden / abfeuern: to load/fire a gun
 
 geschützt /ɡəˈʃʏʦt/: sheltered, protected
 
 geschwätzig /ɡəˈʃvɛʦɪç/: gossipy
+
+Geschwindigkeit /ɡəˈʃvɪndɪçkait/, die, en: speed
+  Der Wagen kam mit hoher Geschwindigkeit um die Kurve.
+  The car came round the bend at high speed.
 
 gesegnet: blessed
   => segnen
@@ -513,6 +536,10 @@ Gesellschaft /ɡəˈzɛlʃaft/, die, -en: society, company, party, social event
 
 Gesetz /ɡəˈzɛʦ/, das: law
   die Gesetze befolgen/einhalten: to abide by/stick to the laws
+
+Gesetzgebung /ɡəˈzɛʦɡeːbʊŋ/, die, -en: legislation
+  die Rolle des Bundesrates bei der Gesetzgebung
+  the role of the upper house of the German Parliament in legislation
 
 gesetzlich /ɡəˈzɛʦlɪç/: legal
   gesetzliche Bestimmungen: legal regulations
@@ -802,6 +829,13 @@ Grün /ɡryːn/, das: green
   ein helles/kräftiges Grün: a light/strong green
 
 Grund /ɡrʊnt/, der: reason
+
+gründen /ˈɡrʏndən/: to found, to establish
+  Wann wurde Rom gegründet?
+  When was Rome founded?
+  etw. gründet sich auf etw.: sth is based on sth
+  Worauf gründet sich sein Erfolg / Ruhm?
+  What's his success/fame based on?
 
 Grundschule: elementary/grade school
 
