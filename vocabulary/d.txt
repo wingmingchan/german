@@ -24,6 +24,9 @@ Dach, das: roof
   Dachfenster: dormer
   unter einem Dach
 
+Dachboden /ˈdaxboːdən/, der, ..: attic, loft
+  Kisten auf dem Dachboden lagern: to store boxes in the attic
+
 Dachrinne /ˈdaxrɪnə/, die: gutter
 
 dadurch /daˈdʊrç/: that way, thus
@@ -239,6 +242,11 @@ deshalb /ˈdɛsˈhalp/: therefore
 
 Designer /diˈzainɐ/, Designerin: designer
 
+desto:
+  je besser / mehr / …, desto …: the better/more/… the …
+  Je länger du damit wartest, desto schwieriger wird es für dich.
+  The longer you wait to do it, the harder it'll be for you.
+
 deswegen /ˈdɛsˈveːɡən/: therefore, so, that's why
   Er schreibt heute eine Mathearbeit und will deswegen nicht zur Schule gehen.
   He has a math test today, so he doesn't want to go to school.
@@ -357,6 +365,8 @@ Drehkreuz /ˈdreːkrɔyʦ/, das, -e: turnstile
   Wir mussten am Eingang durch ein Drehkreuz gehen.
   We had to go through a turnstile at the entrance.
 
+Dreieck /ˈdrai|ɛk/, das, -e: triangle
+
 Dreikönigsfest, das: Epiphany 主顯節
 
 drin /drɪn/: in it/them
@@ -438,7 +448,6 @@ durchmachen /ˈdʊrçmaxən/: to experience, to go through, to work/party/etc. n
   Seit dem Tod seiner Frau hat er einiges durchgemacht.
   Since his wife's death he's been through a lot.
   
-
 durchgreifen /ˈdʊrçɡraifən/: to reach through
 
 Durchsage /ˈdʊrçzaːɡə/, die, -n: announcement
@@ -449,6 +458,12 @@ Durchsage /ˈdʊrçzaːɡə/, die, -n: announcement
 durchschneiden /ˈdʊrçʃnaidən/: to cut through
   einen Apfel/eine Schnur in der Mitte durchschneiden
   to cut through the middle of an apple/a piece of string 
+
+Durchschnitt /ˈdʊrçʃnɪt/, der, -e: average
+  Die Jugendlichen waren im Durchschnitt 14 Jahre alt.
+  On average the youngsters were 14 years old.
+  Das Essen in diesem Restaurant ist allenfalls Durchschnitt.
+  The food in this restaurant is average at best.
 
 Durchschreibesatz, der, ..e: NCR (no carbon required) form
 
