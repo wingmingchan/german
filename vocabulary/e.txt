@@ -95,6 +95,9 @@ eheste /ˈeːɐstə/: earliest
 
 ehesten /ˈeːɐstən/: first
 
+ehrgeizig /ˈeːɐɡaiʦɪç/: ambitious
+  ehrgeizige Pläne haben: to have ambitious plans
+
 ehrlich /ˈeːɐlɪç/: honest
   => aufrichtig
   <=> unehrlich
@@ -170,7 +173,11 @@ eindeutig /ˈaindɔytɪç/: clear
   So ist das eindeutig besser!
   That's much better.
 
-Eindruck /ˈaindrʊk/, der: impression
+Eindruck /ˈaindrʊk/, der, ..e: impression
+  Ich habe den Eindruck, dass es ihm nicht gut geht.
+  I have the impression that he isn't well.
+  Die Stiefel des Täters haben tiefe Eindrücke im Schlamm hinterlassen.
+  The perpetrator's boots left deep imprints in the mud.
 
 eineinhalb /ˈain|ainˈhalp/: one and a half
   Sie hat eineinhalb Scheiben Brot gegessen.
@@ -361,6 +368,12 @@ einmischen: to interfere
 
 Einrede, die: objection, protest, contradiction, defense
 
+Einrichtung /ˈainrɪçtʊŋ/, die, -en: furnishings, institution
+  ein Haus mit moderner Einrichtung: a house with modern furnishings
+  Dieser Kindergarten ist eine kirchliche Einrichtung.
+  This kindergarten is a church-run institution.
+  die Einrichtung eines Notdienstes: setting up an emergency service
+
 einsam /ˈainzaːm/: lonely, lonesome, solitary, secluded, remote
   Sie fühlt sich in letzter Zeit oft einsam.
   She's been feeling lonely a lot recently.
@@ -402,6 +415,8 @@ Einsicht, die: view, insight, conclusion
   I have come to the conclusion that we need more staff.
   Von hier aus hat man keine Einsicht in das Grundstück.
   You can't see into the property from here.
+
+einsingen: to get oneself into voice
 
 einst: once, long ago
   Einst lebten hier Dinosaurier.
@@ -482,6 +497,10 @@ Einzel, das: single
   
 einzeln /ˈainʦəln/: single, individual
 
+einziehen /ˈainʦiːən/: to move in, to collect
+  Die Gebühren werden jeweils am Monatsanfang eingezogen.
+  The fees are collected at the start of each month.
+
 einzig /ˈainʦɪç/: only , solely
   Das ist die einzig mögliche Lösung.
   That's the only possible solution.
@@ -553,6 +572,8 @@ empfinden /ɛmˈpfɪndən/: to feel
   Können Insekten Schmerz empfinden?
   Can insects feel pain?
 
+empor- /ɛmˈpoːɐ/: upwards 
+
 Empörung /ɛmˈpøːrʊŋ/, die, Empörung: indignation, outrage
 
 Ende /ˈɛndə/, das: end
@@ -582,9 +603,13 @@ Englisch /ˈɛŋlɪʃ/
 
 ent-: to express that sth is taken away, a process is reversed, movement away from somewhere, the beginning of an action
 
+Entchen, das, -: duck, duckling
+
 entdecken /ɛntˈdɛkən/: to discover
   Kolumbus entdeckte Amerika.
   Columbus discovered America.
+
+Ente /ˈɛntə/, die, -n: duck
 
 entfernen /ɛntˈfɛrnən/: to remove, to go away, to depart
   Bitte entfernen Sie dieses Bild aus meinem Büro.
@@ -737,6 +762,12 @@ Erfolg /ɛɐˈfɔlk/, der: success
 erfolgreich /ɛɐˈfɔlkraiç/: successful
   ein erfolgreicher Filmstar: a successful film star
 
+erforschen /ɛɐˈfɔrʃən/: to explore, to research
+  Wann wurde die Insel erstmals erforscht?
+  When was the island first explored?
+  Diese Krankheit ist wissenschaftlich noch kaum erforscht.
+  To date there has been little scientific research done on this illness.
+
 Erforschung /ɛɐˈfɔrʃʊŋ/, die: investigation, exploration, research
 
 erfrischen /ɛɐˈfrɪʃən/: to refresh
@@ -819,6 +850,10 @@ Erklärung /ɛɐˈklɛːrʊŋ/, die: explanation, statement, declaration
   The explanations in this encyclopedia are pretty complicated.
   Ich möchte dazu jetzt keine Erklärung abgeben.
   I would now like to deliver a statement on that.
+
+erklimmen /ɛɐˈklɪmən/: to climb, to scale
+  Gemeinsam erklommen sie die höchsten Gipfel.
+  Together they climbed the highest peaks.
 
 erkoren => erküren
 
@@ -990,6 +1025,14 @@ erwarten /ɛɐˈvartən/: to expect
 
 erweitern /ɛɐˈvaitɐn/: to expand, to grow, to increase
 
+erwidern /ɛɐˈviːdɐn/: to reply, to respond, to answer, to react to, to acknowledge, to return, to reciprocate
+  „Nein, das ist nicht möglich‟, erwiderte sie.
+  "No, that's not possible," she answered.
+  Sie erwiderte seinen Gruß mit einem Kopfnicken.
+  She acknowledged his greeting with a nod of her head.
+  Leider wurde ihre Liebe nicht erwidert.
+  Unfortunately, his love was not reciprocated.
+
 erwirken /ɛɐˈvɪrkən/: to obtain, to take out
   eine einstweilige Verfügung gegen jdn erwirken
   to obtain a preliminary injunction against sb
@@ -1043,6 +1086,8 @@ Etappe /eˈtapə/, die: stage, leg
 Etat /eˈtaː/, der, -s: budget
   den Etat beraten / beschließen: to discuss/ set the budget
 
+Ethikunterricht, der: ethics
+
 etliche /ˈɛtlɪçə/: quite a few, a number of
   Das ist etliche Jahre her.
   It's quite a few years since then.
@@ -1062,6 +1107,10 @@ e.V. eingetragener Verein: registered association/society
 ewig /ˈeːvɪç/: eternal
   Sie schworen sich ewige Treue.
   They promised to be faithful to each other forever.
+
+Exemplar /ɛksɛmˈplaːɐ/, das, -e: specimen, copy
+  Vom Sibirischen Tiger gibt es nur noch wenige Exemplare auf der Welt.
+  There are very few remaining specimens of the Siberian tiger left in the world.
 
 Exklave /ɛksˈklaːvə/, die: exclave
 
