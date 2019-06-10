@@ -147,6 +147,11 @@ absagen /ˈapzaːɡən/: to cancel
 
 absägen /ˈapzɛːɡən/: to saw off 鋸掉
 
+abschätzen /ˈapʃɛʦən/: to estimate, to appraise
+  Die Auswirkungen lassen sich jetzt noch nicht abschätzen.
+  It is impossible to estimate the effects at the moment.
+  jdm einen abschätzenden Blick zuwerfen: to cast an appraising glance at sb
+
 abschätzig /ˈapʃɛʦɪç/: derogatory
   Das war nicht abschätzig gemeint.
   That wasn't meant to be condescending.
@@ -227,6 +232,12 @@ Absicht /ˈapzɪçt/, die, -en: intention
   There is no lack of good intentions.
   mit Absicht: intentionally
   ohne Absicht: unintentionally
+
+absprechen /ˈapʃprɛçən/: to agree on, 
+  „Wir machen jetzt Schluss.‟ – „Ist das mit dem Chef so abgesprochen?‟
+  “Let's call it a day.” – “Did you clear that with the boss?”
+  sich ( mit jdm) absprechen: to agree on sth (with sb)
+  jdm etw. absprechen: to deny sb sth
 
 Abstammung /ˈapʃtamʊŋ/, die: descent, origin
   türkischer Abstammung sein: to be of Turkish descent
@@ -416,6 +427,10 @@ allerlei /ˈalɐˈlai/: all kinds of
 
 alles: everything
 
+allgegenwärtig /ˈalɡeːɡənˈvɛrtɪç/: omnipresent
+  Es ist schwer, den allgegenwärtigen Handys zu entfliehen.
+  It's hard to get away from the ubiquitous smartphone.
+
 allgemein /ˈalɡəˈmain/: general, universal, generally, broadly
   auf allgemeinen Wunsch: by general request
 
@@ -560,6 +575,12 @@ anderthalb /ˈandɐtˈhalp/: one and a half
   => eineinhalf
   anderthalb Stunden: an hour and a half
 
+andeuten /ˈandɔytən/: to hint at, to sketch out
+  Was willst du damit andeuten?
+  What are you getting at?
+  Den Hintergrund hat der Künstler nicht ausgearbeitet, sondern nur angedeutet.
+  The artist didn't finish the background – he just outlined it.
+
 Anfang /ˈanfaŋ/, der, ..e: beginning, start
   => Beginn
   Am / Zu Anfang war es noch schwer.
@@ -643,6 +664,8 @@ angenehm /ˈanɡəneːm/: pleasant, pleasantly
   Ich war angenehm überrascht.
   I was pleasantly surprised.
 
+angenommen: supposing
+
 Abgeordnete /ˈapɡə|ɔrdnətə/, der-die, -n: representative
   eine Abgeordnete des deutschen Bundestages
   a Member of the German Federal Parliament
@@ -673,12 +696,20 @@ Angst /aŋst/, die: fear, worry
 angst
   jd hat/bekommt Angst: sb is/gets scared (stiff)
 
+Anhänger /ˈanhɛŋɐ/, der: trailer, pendant, follower
+  <=> Gegner
+
 anheben /ˈanheːbən/: to lift up
   Legen Sie sich auf den Rücken, spannen die Bauchmuskeln und heben die Füße leicht an.
   Lie on your back, tense your stomach muscles and lift your feet up a little.
 
-Anhänger /ˈanhɛŋɐ/, der: trailer, pendant, follower
-  <=> Gegner
+anhören /ˈanhøːrən/: to listen to
+  Dieses Geschwätz höre ich mir nicht länger an!
+  I'm not going to listen to this nonsense any longer!
+  Bitte hören Sie mich an!
+  Please listen to me!
+  Der Vorschlag hört sich gut an.
+  The suggestion sounds good.
 
 Anker /ˈaŋkɐ/, der, Anker: anchor
  den Anker (aus)werfen/einholen: to drop/raise anchor
@@ -1326,6 +1357,8 @@ aushalten /ˈaushaltən/: to stand, to hold
   Diese Hitze ist ja nicht auszuhalten!
   This heat is unbearable.
 
+aushandeln /ˈaushandəln/: to negotiate
+
 Aushang /ˈaushaŋ/, der, ..e: notice
   Auf einem Aushang am Schwarzen Brett wird ein Babysitter gesucht.
   There's a notice on the bulletin board that sb is looking for a babysitter.
@@ -1382,6 +1415,12 @@ ausreden /ˈausreːdən/:
   jdm etw. ausreden: to talk sb out of sth
   Sie ließ sich nicht ausreden, dass ich etwas gegen sie habe.
   She wouldn't accept that I have nothing against her.
+
+Ausrichtung /ˈausrɪçtʊŋ/, die, -en: organization, direction
+  Das Land bewirbt sich um die Ausrichtung der Olympischen Spiele.
+  The country is bidding to host the Olympic Games
+  eine neue Ausrichtung der Wirtschaftspolitik fordern
+  to demand a new direction for the country’s economic policy
 
 ausruhen /ˈausruːən/: to rest
   Ich muss mich mal kurz ausruhen.
