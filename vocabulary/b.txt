@@ -523,6 +523,10 @@ Berg /bɛrk/, der: mountain
 
 Bericht /bəˈrɪçt/, der: report
 
+Berichterstattung /bəˈrɪçt|ɛɐʃtatʊŋ/, die, -en: reporting
+  Bei Privatsendern nimmt die politische Berichterstattung nur wenig Raum ein.
+  Private TV channels pay little attention to reporting on political developments.
+
 berichtigen /bəˈrɪçtɪɡən/: to correct, to rectify
 
 berichten /bəˈrɪçtən/: to report
@@ -725,6 +729,10 @@ Betreuer /bəˈtrɔyɐ/, Betreuerin, Betreuer: helper, carer, person in charge
   der Betreuer der Jugendgruppe im Schachclub
   the person in charge of the youth group at the chess club
 
+Betreuung /bəˈtrɔyʊŋ/, die, -en: supervision, care
+  die Betreuung der Jugendgruppe übernehmen
+  to take over the supervision of the youth group
+
 Betrieb /bəˈtriːp/, der, -e: operation, company, business
   ein privater Betrieb mit 50 Angestellten: a private company with 50 employees
 
@@ -801,9 +809,16 @@ Bewegung /bəˈveːɡʊŋ/, die: movement
   in Bewegung: in motion
   Bewegung in etw. bringen: to get sth going/moving
 
+Bewerbungsmappe, die: application documents
+
+Bewegungsmelder /bəˈveːɡʊŋsmɛldɐ/, der, -: motion detector/sensor
+  einen Bewegungsmelder am Garagentor anbringen: to fix a motion sensor to the garage door
+
 Beweis /bəˈvais/, der, -e: proof, evidence
   einen Beweis für etw. erbringen: to produce proof of sth
   aus Mangel an Beweisen freigesprochen werden: to be acquitted due to lack of evidence
+
+bewerben /bəˈvɛrbən/: to apply
 
 Bewerber /bəˈvɛrbɐ/, -, Bewerberin: applicant, candidate
   Wir haben zahlreiche hochqualifizierte Bewerber zur Auswahl.
@@ -925,6 +940,10 @@ Blatt /blat/, das, Blätter /ˈblɛtɐ/: page, leaf, paper
   The leaves are falling from the trees already.
   Das Blatt berichtet, dass …
   The paper says that …
+
+blättern /ˈblɛtɐn/: to browse
+  im Wartezimmer sitzen und in Zeitschriften blättern
+  to be sitting in the waiting room leafing through magazines
 
 Blei /blai/, das: (metal) lead
 
@@ -1138,6 +1157,8 @@ Briefträger /ˈbriːftrɛːɡɐ/: mail carrier
 Briefumschlag /ˈbriːf|ʊmʃlaːk/, der, ..e: envelope
 
 *Brise /ˈbriːzə/, die: breeze
+
+brisant /brɪˈzant/: explosive, controversial
 
 Brokkoli /ˈbrɔkoliː/ , der, Brokkoli: broccoli
 
