@@ -68,9 +68,11 @@ satt /zat/: full, ric, lush, substantial
   Von so einem bisschen wird man doch nicht satt!
   Such a small amount isn't enough to fill you up! 
 
-Satz /zaʦ/, der: sentence
+Satz /zaʦ/, der: sentence, leap
   Ich wurde mitten im Satz unterbrochen.
   I was interrupted in the middle of a sentence.
+  einen Satz über den Graben machen
+  to leap over the ditch
 
 Sau /zau/, die: sow
 
@@ -269,12 +271,20 @@ Schild, der, -e: shield
 schildern /ˈʃɪldɐn/: to describe
   jdm die Situation schildern: to describe the situation to sb
 
+schimpfen /ˈʃɪmpfən/: to moan/complain (about), to tell off
+  über / auf die Regierung schimpfen
+  to complain about the government
+
 Schinken /ˈʃɪŋkən/, der, -: ham
   gekochter / roher Schinken: cooked/raw ham
 
 schippen: to shovel
 
+Schlafanzug /ˈʃlaːf|anʦuːk/, der, ..e: pajamas
+
 schlafen /ˈʃlaːfən/: to sleep
+
+Schlag /ʃlaːk/, der, ..e: bang, beat, clap, crack, flap, hit, knock, percussion, shock, shot, smash, spank, stroke, swat, swing, thump, whack
 
 schlagen /ˈʃlaːɡən/: to hit, to strike, to beat
   schlage, schlägst, schlägt, ihr schlagt, habe geschlagen
@@ -398,6 +408,9 @@ schmökern /ˈʃmøːkɐn/: to bury yourself in a book, to browse
 
 Schmuck /ʃmʊk/, der, (uncountable): jewelry
   kostbaren Schmuck tragen: to wear expensive jewelry
+
+schmücken /ˈʃmʏkən/: to decorate, to adorn
+  den Tisch mit Blumen schmücken: to decorate the table with flowers
 
 Schmutz /ʃmʊʦ/, der: dirt
 
@@ -584,6 +597,10 @@ schwatzen /ˈʃvaʦən/: to chat
   mit einer Freundin am Telefon schwatzen
   to chat with a friend on the phone
 
+schweben /ˈʃveːbən/: to float
+  in der Luft schwebende Staubteilchen: dust particles floating in the air
+  in Lebensgefahr schweben: to be in a critical condition
+
 Schweden /ˈʃveːdən/
 
 *Schwefel /ˈʃveːfəl/, der: sulfur
@@ -689,6 +706,10 @@ seicht: shallow
 Seife /ˈzaifə/, die, -n: soap
   ein Stück Seife: a bar of soap
 
+Seil /zail/, das, -e: rope
+  Der Bergsteiger ließ sich an einem Seil in die Tiefe hinab.
+  The climber lowered himself into the depths on a rope.
+
 Seilbahn /ˈzailbaːn/, die: cableway, aerial tramway
   mit der Seilbahn den Berg hinauffahren
   to go up the mountain on the cableway
@@ -721,6 +742,10 @@ Sekunde /zeˈkʊndə/, die: second
 
 selbst /zɛlpst/: in person, self
   ich selbst: myself
+
+selbstständig /ˈzɛlpstʃtɛndɪç/: independent
+  an selbstständiges Arbeiten gewöhnt sein: to be used to working independently
+  
 
 selbstverständlich /ˈzɛlpstfɛɐʃtɛntlɪç/: obvious, natural, naturally, of course
   Dass ich dir helfe, ist doch selbstverständlich.
@@ -908,6 +933,11 @@ spähen /ˈʃpɛːən/: to peer
   Er spähte über den Zaun/aus dem Fenster.
   He peered over the fence/out of the window.
 
+Spalte /ˈʃpaltə/, die, -n: fissure, crevice, crack, column
+  Im Fels zeigten sich tiefe Spalten.
+  There were deep fissures in the rock.
+  zwei Spalten pro Seite drucken: to print two columns to a page
+
 Spanien
 
 Spanier, der, Spanierin, Spanier
@@ -915,6 +945,10 @@ Spanier, der, Spanierin, Spanier
 Spanisch /ˈʃpaːnɪʃ/
 
 spannend /ˈʃpanənt/: exciting
+
+Spannung /ˈʃpanʊŋ/, die, -en: excitement, suspense, tension, voltage
+  etw. voll Spannung erwarten: to eagerly await sth
+  eine Erzählung ohne jede Spannung: a story completely lacking in suspense
 
 Sparbuch /ˈʃpaːɐbuːx/, das: passbook
   ein Sparbuch anlegen: to open a savings account
@@ -1198,7 +1232,7 @@ stets /ʃteːʦ/: zu jeder Zeit
 
 Steuer /ˈʃtɔyɐ/, das: steeling wheel
 
-Steuer /ˈʃtɔyɐ/, die: tax
+Steuer /ˈʃtɔyɐ/, die, -n: tax
   Steuern zahlen/hinterziehen
   to pay/avoid paying tax
 
@@ -1360,6 +1394,10 @@ Strom /ʃtroːm/, der: electricity, torrent, stream, current
   Stromausfall
 
 strömen /ˈʃtrøːmən/: to stream, to flow, to flock, to gush, to pour
+
+Strophe /ˈʃtroːfə/, die, -n: verse
+  Sie kann alle drei Strophen auswendig.
+  She knows all three verses by heart.
 
 Stück /ʃtʏk/, das: piece, bit, play
   ein Stück Kuchen abschneiden
