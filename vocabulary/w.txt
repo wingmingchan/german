@@ -36,6 +36,10 @@ wahr /ˈvaːɐ/: true
   Das darf/kann doch nicht wahr sein!
   That can't be true!
 
+Wahrzeichen /ˈvaːɐʦaiçən/, das, -: symbol, most famous landmark
+  Die Freiheitsstatue ist das Wahrzeichen von New York.
+  The Statue of Liberty is New York's most famous landmark.
+
 wahren /ˈvaːrən/: to keep, to maintain, to protect
 
 während /ˈvɛːrənt/: while, during, as
@@ -221,6 +225,10 @@ weisen /ˈvaizən/: to point, to show, to reject
 
 weit /vait/: long, far, extensive, vast, big
 
+weitaus: far
+  Die Mannschaft ist weitaus besser als im letzten Jahr.
+  The team is far better than last year.
+
 weiter: further, other
 
 Weitergabe /ˈvaitɐɡaːbə/, die, -: passing on
@@ -363,6 +371,19 @@ Widder /ˈvɪdɐ/, der, -: Aries 白羊座
   Sie / Er ist Widder.
   She/He is (an) Aries.
 
+Widerstand /ˈviːdɐʃtant/, der, ..e: resistance, opposition
+  Er leistete bei der Verhaftung keinen Widerstand.
+  He did not resist arrest.
+  sich dem Widerstand anschließen: to join the Resistance
+  Allen Widerständen zum Trotz wurde doch noch eine Lösung gefunden.
+  A solution was found, despite all the opposition.
+
+widmen /ˈvɪtmən/: to dedicate, to devote
+  Er hat seinen ersten Roman seiner Mutter gewidmet.
+  He dedicated his first novel to his mother.
+  sein Leben dem Kampf gegen die Armut widmen
+  to devote your life to fighting poverty
+
 wie /viː/: how, as, like, such as
   Menschen in Deutschland sind nicht wie wir.
   People in Germany are not like us.
@@ -376,6 +397,12 @@ wie /viː/: how, as, like, such as
 wieder /ˈviːdɐ/: again
   Musst du morgen wieder arbeiten?
   Do you have to work again tomorrow?
+
+Wiederholung /viːdɐˈhoːlʊŋ/, die, -en: repetition
+  Ich wünsche keine Wiederholungen dieses Vorfalls!
+  I do not want any repeats of this incident!
+  Der Sender zeigt viel zu viele Wiederholungen.
+  The channel broadcasts far too many repeats.
 
 wiederum /ˈviːdɐrʊm/: again, on the other hand, in turn
   Sie haben sich wiederum gestritten.
@@ -391,6 +418,8 @@ wiedersehen
   Wann sehen wir uns wieder?
   When will we see each other again?
 
+wiegen /ˈviːɡən/: to weigh
+
 Wiese /ˈviːzə/, die, -n: lawn, meadow
   Die Kinder spielen auf der Wiese.
   The kids are playing on the lawn.
@@ -404,7 +433,8 @@ wild /vɪlt/: wild, savage
 
 Wind /vɪnt/, der: wind
 
-wiegen /ˈviːɡən/: to weigh
+Windel /ˈvɪndəl/, die, -n: diaper
+  einem Baby die Windel wechseln: to change a baby's diaper
 
 Wipfel /ˈvɪpfəl/, der: treetop
   Das Eichhörnchen springt von Wipfel zu Wipfel.
@@ -424,6 +454,8 @@ wirr /vɪr/: confused, in a mess
 Wirtschaft /ˈvɪrtʃaft/, die: economy, restaurant, bar
   Berufe in der freien Wirtschaft: careers in the free market economy
   in einer Wirtschaft zu Mittag essen: to have lunch at a restaurant
+
+Wirtschaftsteil, der: business section
 
 wischen /ˈvɪʃən/: to wipe
 
