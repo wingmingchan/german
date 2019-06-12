@@ -6,6 +6,8 @@ Kabel /ˈkaːbəl/, das, -: cable
   Kabel verlegen: to lay cables
    die Kabel einer Seilbahn: the cables of a cable car
 
+Käfer /ˈkɛːfɐ/, der, -: beetle, bug
+
 Käfig /ˈkɛːfɪç/, der, -e: cage
   Hühner im Käfig halten: to keep chicken in a cage
 
@@ -219,6 +221,10 @@ klappen /ˈklapən/: to work out, to go all right
   Es hat alles gut geklappt.
   Everything went well.
 
+klappern /ˈklapɐn/: to rattle, to clatter
+  Die Fensterläden klappern im Wind.
+  The shutters are rattling in the wind.
+
 klar /klaːɐ/: clear
   Das Wasser war so klar, dass man bis auf den Grund sehen konnte.
   The water was so clear that you could see to the bottom.
@@ -252,7 +258,7 @@ Kleidung /ˈklaidʊŋ/, Kleidung: clothes
 
 klettern /ˈklɛtɐn/: to climb
   auf einen Baum/über den Zaun klettern
-  to climb a tree/over the fence 
+  to climb a tree/over the fence
 
 Klinge /ˈklɪŋə/, die: blade
 
@@ -267,6 +273,11 @@ klingen /ˈklɪŋən/: to ring, to sound
   This idea sounds good.
   Kinderstimmen klangen durchs Haus.
   The sound of children's voices rang through the house.
+
+klipp /klɪp/:
+  klipp und klar: quite clearly
+  Ich habe ihm klipp und klar meine Meinung gesagt.
+  I told him what I thought in no uncertain terms.
 
 klirrend /ˈklɪrənt/: bitter
   => eisig
@@ -283,6 +294,9 @@ knapp /knap/: meagre, scarce, tight, barely
 Knecht /knɛçt/, der, -e: servant
   Herren und Knechte: masters and servants
 
+Kneipe /ˈknaipə/, die, -n: bar
+  auf ein Bier in die Kneipe gehen: to go to the bar for a beer
+
 kneten /ˈkneːtən/: to knead
   Sie knetete nervös ihre Hände/Schürze.
   She wrung her hands/apron nervously.
@@ -296,6 +310,12 @@ knicken /ˈknɪkən/: to fold
 Knie /kniː/, das, Knie: knee
   Er fiel vor dem König auf die Knie und bettelte um Gnade.
   He fell to his knees before the king and begged for mercy. 
+
+Knistern /ˈknɪstɐn/
+
+knistern /ˈknɪstɐn/: to crackle, to rustle
+  mit der Chipstüte knistern: to rustle your chips bag
+
 
 Knochen /ˈknɔxən/, der: bone
   dem Hund einen Knochen geben: to give the dog a bone
@@ -476,6 +496,11 @@ kraft /kraft/: by virtue of
 kräftig /ˈkrɛftiç/: powerful, strong, healthy
   Er gab der Schaukel einen kräftigen Schubs.
   He gave the swing a powerful push.
+  einen Kranken pflegen, damit er kräftiger wird
+  to care for a sick person so that he recovers his strength
+​ Eine kräftige Suppe wird dir jetzt guttun.
+  A hearty soup is just what you need right now.
+  durchsetzungskräftig sein: to be able to assert yourself
 
 Kraftwerk /ˈkraftvɛrk/, das, -e: power station
   Wasserkraftwerk: hydroelectric power station
@@ -508,6 +533,8 @@ kreuzen /ˈkrɔyʦən/: to cross, to meet
   Unsere Wege kreuzten sich zufällig.
   Our paths crossed by chance.
 
+Kreuzfahrt /ˈkrɔyʦfaːɐt/, die, -en: cruise
+
 kreuzigen /ˈkrɔyʦɪɡən/: to crucify
   Pompeius ließ alle Sklaven, die den Aufstand überlebt hatten, kreuzigen.
   Pompey had all the slaves who had survived the uprising crucified.
@@ -523,6 +550,12 @@ Kringel /ˈkrɪŋəl/, der, Kringel: ring
   Zuckerkringel backen: to bake ring-shaped sugar cookies
 
 Kripo /ˈkriːpo/, die: crime detection agency
+
+Krippe /ˈkrɪpə/, die, -n: daycare center, manger, crèche
+  Wir suchen für unsere zweijährige Tochter einen Krippenplatz.
+  We're looking for a place at a daycare center for our two-year-old daughter.
+  Futter in die Krippe tun: to put some food in the manger
+  Krippenfiguren: crèche figures
 
 kritisieren /kritiˈziːrən/: to criticize
   Die Regierung wurde wegen dieses Vorfalls/für diesen Fehler scharf kritisiert.
@@ -546,6 +579,9 @@ Kugelschreiber, der, -: pen
 
 Kultur /kʊlˈtuːɐ/, die, Kulturen: culture
   die Kultur fördern: to promote culture
+
+kümmern /ˈkʏmɐn/: to take care of sb/sth
+  sich gut um die Kinder kümmern: to take good care of the children
 
 kündigen /ˈkʏndɪɡən/: to cancel, to terminate, 
   Hast du das Abo schon gekündigt?
@@ -584,6 +620,7 @@ Kunst /kʊnst/, die, Künste: art
   darstellende/bildende Kunst: dramatic/fine art
 
 Künstler /ˈkʏnstlɐ/, Künstlerin: artist
+  Trapezkünstler 空中飛人
 
 künstlich /ˈkʏnstlɪç/: artificial
   künstlicher Intelligenz
@@ -614,6 +651,11 @@ kurz /kʊrʦ/, kürzer or kürzeste: short, briefly
 
 Kürze /ˈkʏrʦə/, die: shortness, brevity
   in Kürze: shortly
+
+kuscheln /ˈkʊʃəln/: 
+  sich an jdn / etw., in etw. kuscheln: to snuggle up to sb/sth, in sth
+  Das Kind kuschelt sich in eine Decke / an seinen Teddybär.
+  The child snuggles up in a blanket/to its teddy bear.
 
 Kuss /kʊs/, der, Küsse /ˈkʏsə/: kiss
   jdm einen Kuss auf die Wange geben: to kiss sb on the cheek
