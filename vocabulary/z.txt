@@ -56,6 +56,10 @@ zeigen /ˈʦaiɡən/: to show
   Zeigst du mir mal deine neuen Schuhe?
   Would you show me your new shoes?
 
+Zeile /ˈʦailə/, die, -n: line
+  Das Gedicht ist nur wenige Zeilen lang.
+  The poem is only a few lines long.
+
 Zeit /ʦait/, die: time
   mit der Zeit: in time
 
@@ -104,6 +108,15 @@ zeugen /ˈʦɔyɡən/: to father, to conceive, to testify, to show sth
   Even very old men can can still father children.
   Diese Bemerkung zeugt nicht gerade von großer Intelligenz.
   That remark doesn't exactly show great intelligence.
+
+Zeugnis /ˈʦɔyknɪs/, das, -se: report, reference, certificate, evidence
+  Sie hat drei Einsen im Zeugnis.
+  She got three A's in her report.
+  jdm ein gutes Zeugnis ausstellen
+  to give sb a good reference
+  ein Gesundheitszeugnis vorlegen müssen: to need to produce a certificate of health
+  Diese Fundstücke sind Zeugnisse einer hoch entwickelten Kultur.
+  These finds are evidence of a highly developed culture.
 
 Ziegel /ˈʦiːɡəl/, der, -: brick, tile
   Das Haus wurde aus Ziegeln gebaut.
@@ -197,7 +210,7 @@ züchten /ˈʦʏçtən/: to breed, to cultivate, to grow
 
 Zucker /ˈʦʊkɐ/, der, Zucker: sugar
 
-zudem /ʦuˈdeːm/: moreover , besides
+zudem /ʦuˈdeːm/: moreover, besides
   Sie ist hübsch und zudem intelligent.
   Besides being pretty she is also intelligent.
 
@@ -228,6 +241,8 @@ zugehen /ˈʦuːɡeːən/: to approach, to close, to shut
 Zukunft /ˈʦuːkʊnft/, die: future
   Wir werden sehen, was uns die Zukunft bringt.
   We'll see what the future brings.
+  
+zukunftsweisend: forward-looking
 
 zuletzt /ʦuˈlɛʦt/: last, in the end
   Die Post erledigt sie immer zuletzt.
@@ -263,6 +278,9 @@ zunehmend /ˈʦuːneːmənt/: increasingly
 
 Zunge /ˈʦʊŋə/, die, -e: tongue
   jdm die Zunge herausstrecken: to stick your tongue out at sb
+
+zupfen /ˈʦʊpfən/: to pull (at), to tug (at), to pluck
+  jdn am Ärmel zupfen: to tug at sb's sleeve
 
 zurechnen /ˈʦuːrɛçnən/: to class sb/sth as sb/sth
   Diesen Maler kann man den Expressionisten zugerechnen.
