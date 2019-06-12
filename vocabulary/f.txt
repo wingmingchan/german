@@ -54,6 +54,10 @@ Fahrt /ˈfaːɐt/, die, -en: trip, journey, speed
   Der Dampfer verlangsamte die Fahrt.
   The steamer reduced speed.
 
+Fakt /fakt/, der-das, en: fact
+  Das sind keine Vermutungen, sondern Fakten.
+  This isn't just conjecture – it's facts.
+
 Faktor /ˈfaktoːɐ/, der: factor
 
 Fakultät /fakʊlˈtɛːt/, die, -en: faculty
@@ -388,6 +392,8 @@ Flagge /ˈflaɡə/, die: flag
 
 Flanke /ˈflaŋkə/, die: flank
 
+flauschig /ˈflauʃɪç/: fluffy, soft
+
 Fleck /flɛk/, der: stain, mark
 
 flehen /ˈfleːən/: to beg
@@ -654,6 +660,7 @@ Frist /frɪst/, die: period (of time), grace period, deadline
   I'll give you another two weeks.
 
 froh /froː/: glad, happy, good
+  Frohe Weihnachten!
 
 fröhlich /ˈfrøːlɪç/: happy, cheerful, merrily
   Die Kinder sprangen fröhlich herum.
