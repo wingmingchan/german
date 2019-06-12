@@ -107,6 +107,8 @@ Hand /hant/, die, ..e: hand
   Firma Bauer, zu Händen Frau Weiss
   Bauer, for the attention of Ms. Weiss
 
+Handbewegung, die, -en: movement of the hand, gesture
+
 Handel, der: trade
   Handelsabkommen: trade agreement
 
@@ -137,6 +139,8 @@ harren /ˈharən/: to wait for sb/sth
 hart /hart/: hard
   Das Brot war alt und hart geworden.
   The bread had gotten old and hard.
+
+Häschen /ˈhɛːsçən/, das, -: hare
 
 Hass /has/, der: hate, hatred
 
@@ -246,6 +250,8 @@ heilig /ˈhailɪç/: holy, sacred, lots of
   Ich hatte meine heilige Mühe / Not mit ihr.
   I had my work cut out/a pile of trouble with her.
 
+Heiligabend /hailɪçˈ|abənt/, der, -e: Christmas Eve
+
 Heiligtum /ˈhailɪçtuːm/, das, Heiligtümer: shrine, holy place
   ein ägyptisches Heiligtum: an Egyptian shrine 
 
@@ -339,6 +345,12 @@ heraus /hɛˈraus/: out
   Heraus mit euch!
   Out with you!
 
+herausfinden /hɛˈrausfɪndən/: to find out
+  Wie hast du nur herausgefunden, dass er dich betrügt?
+  How on earth did you find out he was cheating on you?
+  Die Kinder fanden nicht mehr aus dem Wald heraus.
+  The children couldn't find their way out of the forest.
+
 herausgeben /hɛˈrausɡeːbən/: to release, to return, to give back, to give change, to issue, to publish
 
 herausgreifen /hɛˈrausɡraifən/: to single out, to select
@@ -389,6 +401,8 @@ herum /hɛˈrʊm/: (a)round, past, finished
   So ein Flug kostet um die 300 Euro herum.
   A flight like that costs around 300 euros.
 
+herumlaufen /hɛˈrʊmlaufən/: to walk/run around
+
 herunter /hɛˈrʊntɐ/: down(wards)
   der Weg vom Gipfel hier herunter: the path from the summit down to here
 
@@ -407,6 +421,8 @@ Herzog /ˈhɛrʦoːk/, Herzogin: duke/duchess
 heutig, heutige /ˈhɔytɪɡə/: today's, contemporary, modern
   am heutigen Nachmittag: this afternoon
 
+heutige: today’s
+
 hielt => halten
 
 hierarchisch /hieˈrarçɪʃ/: hierarchic(al)
@@ -424,6 +440,12 @@ Hilfe /ˈhɪlfə/, die: help
   ärztliche Hilfe benötigen: to need medical assistance
   Erste Hilfe: first aid
   Entwicklungshilfe: foreign aid
+
+hilfreich /ˈhɪlfraiç/: helpful, useful
+  Panik ist jetzt wenig hilfreich!
+  Panic's not very helpful right now.
+  Er war mir bei diesem Problem sehr hilfreich.
+  He was very helpful in solving that problem.
 
 Hilfsaktion, die: relief action
 
@@ -498,6 +520,10 @@ Hinweis /ˈhɪnvaɪs/, der: information, clue, lead, evidence, indication
   The police are asking for information from the public.
 
 hinweisen /ˈhɪnvaizən/: to point sth out to sb
+  Wir weisen darauf hin, dass die Anmeldung verbindlich ist.
+  Please note that your registration is binding.
+  Alles weist auf ihn als Täter hin.
+  Everything points to him as the perpetrator.
 
 Hintergrund, der: background
 
@@ -590,6 +616,10 @@ Holz /hɔlʦ/, das, ..er: wood
 Honig /ˈhoːnɪç/, der, Honige: honey
   echter Bienenhonig: genuine bee honey
 
+Hörbuch /ˈhøːɐbuːx/, das: audio book
+  Er hört beim Autofahren gern Hörbücher.
+  He likes to listen to audio books when driving.
+
 Hose /ˈhoːzə/, Hosen, die: trousers
   Die Hose ist mir zu eng.
   These pants are too tight for me.
@@ -628,6 +658,9 @@ Hunger /ˈhʊŋɐ/, der: hunger, starvation, yearning
 hungrig /ˈhʊŋrɪç/: hungry
   Bist du auch so hungrig?
   Are you really hungry, too? 
+
+hüpfen /ˈhʏpfən/: to hop
+  auf einem Bein hüpfen: to hop on one leg
 
 Hut, der, Hüte /huːt/: hat
 
