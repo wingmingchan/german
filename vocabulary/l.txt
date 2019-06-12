@@ -216,6 +216,10 @@ läuten /ˈlɔytən/: to ring, to go off
   Ich habe (davon) läuten hören, dass sie angeblich schwanger ist.
   I've heard rumors that she's supposed to be pregnant.
 
+lauter /ˈlautɐ/: nothing but
+  Er hat lauter Fehler im Diktat.
+  His dictation is full of mistakes.
+
 Leben /ˈleːbən/, das: life
   ums Leben kommen: to be killed
 
@@ -409,7 +413,8 @@ Litfaßsäule /ˈlɪtfaszɔylə/, die, -n: advertising pillar
 Lkw /ˈɛlkaːveː/, Lastkraftwagen, der: truck
 
 loben /ˈloːbən/: to praise
-
+  für etw. gelobt werden: to be praised for sth
+  
 Loch /lɔx/, das, Löcher /ˈlœçɐ/: hole
   ein Loch in die Wand bohren: to drill a hole in the wall 
 
@@ -417,8 +422,15 @@ Locher, der: hole puncher
 
 Löffel /ˈlœfəl/, der: spoon
 
+Lohn /loːn/, der, ..e: wage, reward
+  ein Anstieg der Löhne und Gehälter: an increase in wages and salaries
+  Das ist der gerechte Lohn für seine Mühen.
+  That's just reward for his efforts.
+
 lohnen /ˈloːnən/: to be worthwhile
   eine lohnende Investition: a worthwhile investment
+
+Lohnsteuer /ˈloːnʃtɔyɐ/, die, -n: income tax
 
 Lokal /loˈkaːl/, das: bar, restaurant
 
