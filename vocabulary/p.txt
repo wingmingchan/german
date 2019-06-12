@@ -101,6 +101,8 @@ Person /pɛrˈzoːn/, die
 Personal /pɛrzoˈnaːl/, das: staff, personnel
   qualifiziertes Personal einstellen: to employ qualified staff
 
+Personalchef, Personalchefin: personnel manager
+
 Personalpronomen /pɛrzoˈnaːlpronoːmən/, das, Personalpronomen
   die Personalpronomen ich, du, er, sie und es
 
@@ -182,11 +184,17 @@ plötzlich /ˈplœʦlɪç/: suddenly
   We were all shaken by her sudden death.
   plötzlich auftauchen: to appear suddenly
 
+plumpsen /ˈplʊmpsən/: to fall with a bump
+  Das Kind ist auf den Hintern geplumpst.
+  The child fell onto its butt with a bump.
+
 Polizei /poliˈʦai/, die: police
   Sie ist bei der Polizei.
   She is in the police.
 
 Polizist /poliˈʦɪst/, Polizistin: policeman/-woman, police officer
+
+hoppeln /ˈhɔpəln/: to lollop, to hop
 
 Portier /pɔrˈtjeː/, der: doorman
 
@@ -207,6 +215,10 @@ Postleitzahl (PLZ) /ˈpɔstlaitʦaːl/, die, -n: zip code, postcode
 prächtig /ˈprɛçtɪç/: splendid, magnificent
   ein prächtiger Ballsaal: a magnificent ballroom
   prächtiges Wetter: marvelous weather 
+
+Praktikum /ˈpraktikʊm/ das, Praktika: practical training
+  ein Praktikum absolvieren / machen
+  to complete/do a period of practical training
 
 praktisch /ˈpraktɪʃ/: practical
   praktische Beispiele / Übungen
@@ -282,6 +294,8 @@ prüfen /ˈpryːfən/: to check, to examine, to test, to consider
 Prüfung /ˈpryːfʊŋ/, die, -en: exam
   eine mündliche / schriftliche Prüfung: an oral/written exam
 
+prunkvoll /ˈprʊŋkfɔl/: splendid, magnificent
+
 Publikum /ˈpuːblikʊm/, das: audience, crowd, public, readership, customers, clientele
   Das Publikum applaudierte.
   The audience applauded.
@@ -310,3 +324,5 @@ putzen /ˈpʊʦən/: to clean
 
 Putzfrau /ˈpʊʦfrau/, die: cleaner
   als Putzfrau arbeiten: to work as a cleaner
+
+Pyjama /pyˈdʒaːma/, der, -s: pajamas
