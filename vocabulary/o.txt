@@ -26,6 +26,8 @@ Oberbürgermeister, Oberbürgermeisterin: mayor, mayoress
 
 Oberschenkel /ˈoːbɐʃɛŋkəl/, der: thigh
 
+Oberst /ˈoːbɐst/, der, -s, -e: colonel
+
 Obst /oːpst/, das, Obst(e)s: fruit
 
 obwohl /ɔpˈvoːl/: although
@@ -139,6 +141,13 @@ organisieren /ɔrɡaniˈziːrən/: to organize
   Getränke / Musiker für das Fest organisieren
   to organize drinks/musicians for the celebrations
   sich in einer Gewerkschaft organisieren: to form a labor union
+
+orientieren /orjɛnˈtiːrən/: to get one's bearings, to be based/oriented, to inform sb/yourself (about sth)
+  sich mit einer Karte / nach dem Sonnenstand orientieren
+  to get one's bearings using a map/from the position of the sun in the sky
+  sich an Vorbildern orientieren: to be based on/follow models
+  Ich war über die Einzelheiten nicht orientiert.
+I was not aware of the details.
 
 Ort /ɔrt/, der, Orte: place
   etw. an einem geheimen Ort verstecken: to hide sth somewhere secret
