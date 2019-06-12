@@ -80,6 +80,11 @@ Mannequin /ˈmanəkɛ̃/, das: model
 
 männlich /ˈmɛnlɪç/: male
 
+Mappe /ˈmapə/, die, -n: folder, briefcase
+  Papiere in einer Mappe abheften: to file some papers in a folder
+  Hast du deine Hefte in die Mappe gepackt?
+  Have you put your books in your briefcase?
+
 Maracuja /maraˈkuːja/, die, -s: passion fruit
 
 Märchen /ˈmɛːɐçən/, das: fairy tale, story
@@ -188,11 +193,13 @@ meistens /ˈmaistəns/: mostly
   Ich gehe meistens früh ins Bett.
   I go to bed early most of the time.
 
-melden /ˈmɛldən/: to report, to get in touch
+melden /ˈmɛldən/: to report, to get in touch, to sign up, to enter
   Die Zeitungen meldeten eine Geiselnahme.
   The newspapers reported a hostage-taking.
   Ich melde mich nächste Woche bei dir.
   I'll get in touch with you next week.
+  sich freiwillig zum Militärdienst melden
+  to volunteer for military service
 
 Menge /ˈmɛŋə/, die, Mengen: amount, quantity
   eine geringe Menge Wasser zugeben: to add a small amount of water
@@ -420,6 +427,11 @@ Mülleimer /ˈmʏl|aimɐ/, der, -: garbage can
   Wirf das bitte in den Mülleimer!
   Please throw it in the garbage (can)!
 
+mulmig /ˈmʊlmɪç/: uneasy
+  Ich hatte von Anfang an ein mulmiges Gefühl bei der Sache.
+  I had an uneasy feeling about the matter from the start.
+  jdm ist (zumute) / wird mulmig: sb feels a bit queasy
+
 Mund /mʊnt/, der, Münder /ˈmʏndɐ/: mouth
 
 munter /ˈmʊntɐ/: awake, lively, cheerful, jolly
@@ -442,6 +454,8 @@ Mut /muːt/, der, (uncountable): courage, bravery
   <=> Feigheit
   Es gehört schon Mut dazu, ihm zu widersprechen.
   It takes a lot of courage to contradict him.
+
+mutig /ˈmuːtɪç/: courageous, brave
 
 mutmaßlich /ˈmuːtmaːslɪç/: suspected
   Die Polizei hat den mutmaßlichen Täter verhaftet.
