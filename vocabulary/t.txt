@@ -91,6 +91,8 @@ Täter /ˈtɛːtɐ/, Täterin: culprit
 
 tätig /ˈtɛːtɪç/: active, employed, practical
 
+tätigen /ˈtɛːtɪɡən/: to carry out, to effect
+
 Tätigkeit /ˈtɛːtɪçkait/, die, -en: job, occupation, activity
   Wir bieten Ihnen eine interessante, gut bezahlte Tätigkeit.
   We can offer you an interesting and well-paid job.
@@ -103,7 +105,9 @@ tatkräftig /ˈtaːtkrɛftɪç/: energetic, active
 
 Tatort /ˈtaːt|ɔrt/, der: crime scene
 
-Tatsache /ˈtaːʦaxə/, die: fact
+Tatsache /ˈtaːʦaxə/, die， -n: fact
+  Es ist eine traurige Tatsache, dass er sie nicht mehr liebt.
+  It's a sad fact that he doesn't love her any more.
 
 tatsächlich /ˈtaːtzɛçlɪç/: actual
   Die tatsächliche Höhe des Schadens ist noch unbekannt.
@@ -172,6 +176,8 @@ Teller /ˈtɛlɐ/, der: plate
 Temperatur /tɛmpəraˈtuːɐ/, die: temperature
   Die Temperatur des Wassers beträgt 23 Grad.
   The temperature of the water is 23 degrees. 
+
+Teppich /ˈtɛpɪç/, der, -e: carpet
 
 Termin /tɛrˈmiːn/, der: deadline, date, appointment
   Wann ist der letzte Termin für die Anmeldung?
