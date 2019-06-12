@@ -257,6 +257,9 @@ eingehen /ˈainɡeːən/: to take, to enter into, to be received
   I'd bet any money that that's true.
   Ihr Auftrag ist bei uns eingegangen und wird umgehend bearbeitet.
   Your order has been received and will be processed immediately.
+  auf jdn / etw. eingehen: to react (positively) to sb/sth
+  Ist sie auf deinen Vorschlag eingegangen?
+  Did she take you up on your suggestion?
 
 eingehend /ˈainɡeːənt/: extensive, detailed, in-depth
   eine eingehende Untersuchung: an in-depth examination
@@ -732,6 +735,10 @@ Erdenrund, das: globe, world
 
 erdrutschartig, adj: landslide, devastating
 
+Ereignis /ɛɐˈ|aiɡnɪs/, das, -se: event, occurrence
+  Zum freudigen Ereignis die herzlichsten Glückwünsche!
+  Heartiest congratulations on the happy event!
+
 Erektion /erɛkˈʦjoːn/, die, Erektionen: erection
   eine Erektion haben/bekommen: to have/get an erection 
 
@@ -936,10 +943,6 @@ erreichen /ɛɐˈraiçən/: to reach, to get hold of, to arrive at
   In Kürze erreichen wir München.
   We are now approaching Munich.
 
-Ereignis /ɛɐˈ|aiɡnɪs/, das, -se: event, occurrence
-  Zum freudigen Ereignis die herzlichsten Glückwünsche!
-  Heartiest congratulations on the happy event!
-
 errichten /ɛɐˈrɪçtən/: to build, to erect
   eine Brücke/ein Hochhaus errichten: to build a bridge/high-rise 
 
@@ -959,6 +962,8 @@ erschlagen /ɛɐˈʃlaːɡən/: to kill, to slay, to overwhelm
   He bludgeoned the man to death.
   Ich war von den vielen neuen Eindrücken völlig / wie erschlagen.
   I was completely/I felt overwhelmed by all the new impressions.
+
+erschöpfen: exhaust
 
 erschrak => erschrecken
 
@@ -1022,6 +1027,9 @@ erwählen /ɛɐˈvɛːlən/: to choose
 erwarten /ɛɐˈvartən/: to expect
   Ich erwarte dich dann um drei in meinem Büro.
   So I'll expect you at three in my office.
+
+erwartungsvoll /ɛɐˈvartʊŋsfɔl/: expectant, hopeful
+  erwartungsvolle Gesichter: expectant faces
 
 erweitern /ɛɐˈvaitɐn/: to expand, to grow, to increase
 
