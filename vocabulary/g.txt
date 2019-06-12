@@ -126,6 +126,10 @@ Geduld /ɡəˈdʊlt/, die: patience
   Er hat beim / fürs Basteln keine Geduld.
   He has no patience for making things.
 
+geduldig /ɡəˈdʊldɪç/: patient
+  eine geduldige Lehrerin: a patient teacher
+  geduldig warten: to wait patiently
+
 geeignet /ɡəˈ|aiɡnət/: suitable
   Sie ist für diese Stelle nicht geeignet.
   She's not suitable for this position.
@@ -200,6 +204,8 @@ gegenüber /ɡeːɡənˈ|yːbɐ/: opposite, compared to, in comparison with, tow
   Erwachsenen gegenüber ist sie immer sehr höflich.
   She's always very polite toward adults.
 
+gegenüberliegend: opposite, facing
+
 Gegenwart /ˈɡeːɡənvart/, die: present
   in der Gegenwart leben: to live in the present
   Das Verb steht in der Gegenwart.
@@ -247,7 +253,7 @@ geholt => holen
 
 Gehölz /ɡəˈhœlʦ/, das: grove, copse, thicket
 
-gehören /ɡəˈhøːrən/: to belong to, to be among, to go, to require
+gehören /ɡəˈhøːrən/: to belong to, to be among, to go, to require, to be part of
   Wem gehört dieser Stift?
   Whose pen is this?
   Kostenlose Lieferung gehört zu unserem Service.
@@ -339,6 +345,10 @@ gelingen /ɡəˈlɪŋən/: to succeed, to be successful
   Was, wenn der Plan nicht gelingt?
   What if the plan doesn't succeed? 
 
+geloben /ɡəˈloːbən/: to vow, to pledge
+  Er gelobte Besserung.
+  He vowed to turn over a new leaf.
+
 gelten /ˈɡɛltən/: to be valid, to apply, to be in force, to be effective
   Das gilt nicht!
   That doesn't count!
@@ -391,7 +401,7 @@ Gemütlichkeit /ɡəˈmyːtlɪçkait/, die: comfort, coziness
   Das Lokal ist wegen seiner Gemütlichkeit sehr beliebt.
   The bar is really popular for its cozy atmosphere.
 
-genau /ɡəˈnau/: accurate, exact, exactly
+genau /ɡəˈnau/: accurate, exact, exactly, carefully
   Haben Sie die genaue Uhrzeit?
   Do you have the exact time?
   Das geschah vor genau vier Jahren.
@@ -555,6 +565,10 @@ Gesöff /ɡəˈzœf/, das, -e: brew
 
 gesperrt: blocked, closed
 
+Gespräch /ɡəˈʃprɛːç/, das, -e: conversation
+  mit jdm ein Gespräch über private Dinge führen
+  to have a conversation with sb about private matters
+
 Gestalt /ɡəˈʃtalt/, die, Gestalten: form, figure, character
   Am Bahnhof lungerten dunkle Gestalten herum.
   There were shady characters hanging around the station.
@@ -576,6 +590,10 @@ gestehen /ɡəˈʃteːən/: to confess (to), to admit (to)
 gestern /ˈɡɛstɐn/: yesterday
 
 gestohlen => stehlen
+
+gestört /ɡəˈʃtøːɐt/: disturbed, confused, troubled
+  eine gestörte Beziehung zu jdm / etw. haben
+  to have a troubled relationship with sb/sth
 
 gesund /ɡəˈzʊnt/: healthy
 
@@ -839,6 +857,10 @@ gründen /ˈɡrʏndən/: to found, to establish
 
 Grundschule: elementary/grade school
 
+Gruß /ɡruːs/, der, ..e: greeting, regards, wishes
+  Sie erwiderte meinen Gruß nicht.
+  She didn't return my greeting.
+
 gucken /ˈɡʊkən/: to look, to watch, to peek
   Guck mal, wer da kommt!
   Look who's coming!
@@ -863,6 +885,9 @@ günstig /ˈgʏnstɪç/: favorable, convenient, reasonable
 
 Gurke /ˈɡʊrkə/, die, -n: cucumber
   Gurken anbauen: to grow cucumbers
+
+Gürtel /ˈɡʏrtəl/, der, -: belt
+  Bademantelgürtel: bathrobe belt
 
 gut /ɡuːt/: good
   Für die Jahreszeit war das Wetter ganz gut.
