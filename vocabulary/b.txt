@@ -540,10 +540,6 @@ berufstätig /bəˈruːfstɛːtɪç/: working
   Sind Sie berufstätig?
   Do you have a job?
 
-Berührung /bəˈryːrʊŋ/, die: touch, contact
-  sanfte Berührungen: gentle touches
-  mit Viren in Berührung kommen: to come into contact with viruses
-
 berühmt /bəˈryːmt/: famous
   Das Hotel ist für seine gute Küche berühmt.
   The hotel is famous for its good cuisine.
@@ -551,6 +547,20 @@ berühmt /bəˈryːmt/: famous
 Berühmtheit /bəˈryːmthait/, die: fame
   Der Erfolg verhalf ihr zu einiger Berühmtheit.
   This success helped her become moderately famous.
+
+berühren /bəˈryːrən/: to touch, to reach
+  Die Ausstellungsstücke bitte nicht berühren!
+  Please do not touch the exhibits.
+  Die Zweige berührten fast den Boden.
+  The branches almost reached the ground.
+  Der Film hat mich sehr berührt.
+  I found the film very moving.
+  Wir haben diese Frage nur flüchtig berührt.
+  We only touched on that issue in passing.
+
+Berührung /bəˈryːrʊŋ/, die: touch, contact
+  sanfte Berührungen: gentle touches
+  mit Viren in Berührung kommen: to come into contact with viruses
 
 besaßen => besitzen
 
@@ -747,6 +757,8 @@ betrügen /bəˈtryːɡən/: to cheat
 
 Bett /bɛt/, das, Betten: bed
   früh ins/zu Bett gehen: to go to bed early
+
+Bettdecke /ˈbɛtdɛkə/, die, -n: blanket, comforter
 
 betteln /ˈbɛtəln/: to beg
   auf der Straße um Brot betteln: to beg for bread on the street
@@ -999,6 +1011,9 @@ Blumenkohl /ˈbluːmənkoːl/, der: cauliflower
 Blut, das: blood
   Er hat bei dem Unfall viel Blut verloren.
   He lost a lot of blood in the accident.
+
+Blüte /ˈblyːtə/, die, -e: flower
+  eine Rose mit roten Blüten: a rose with red flowers
 
 blutig /ˈbluːtɪç/: bloody, gory, violently
   Der Verband war schon ganz blutig.
