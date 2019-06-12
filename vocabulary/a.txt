@@ -38,6 +38,12 @@ Abend /ˈaːbənt/, der, Abende: evening
 
 Abendessen /ˈaːbənt|ɛsən/, das: supper
 
+Abenteuer /ˈaːbəntɔʏɐ/, das, -: adventure
+  Er hat auf seinen Reisen manches Abenteuer erlebt.
+  On his travels he had many an adventure.
+  Lass dich nicht auf ihn ein, er ist nur auf ein Abenteuer aus.
+  Don't have anything to do with him – all he's after is a fling.
+
 aber /ˈaːbɐ/: but
 
 Abfall /ˈapfal/, Abfälle /ˈapfɛlə/, der: waste, trash
@@ -64,6 +70,16 @@ abfragen /ˈapfraːɡən/: to ask, to quiz, to query
   Ask me my vocabulary again, would you?
   am Geldautomaten zuerst den Kontostand abfragen
   to first check how much money you have in your account at the ATM
+
+abführen /ˈapfyːrən/: to lead away, to pay
+  Der Verdächtige wurde in Handschellen abgeführt.
+  The suspect was led away in handcuffs.
+  Die Lohnsteuer wird direkt an das Finanzamt abgeführt.
+  Income tax is paid directly to the tax office.
+  Das Mittel führt schonend ab.
+  The medicine acts as a mild laxative.
+  Nach 500 m führt der Radweg von der Straße ab.
+  After 500 m the cycle path leads away from the road.
 
 Abgabe /ˈapɡaːbə/, die: tax, duty, submission, sale, distribution
   hohe Abgaben zahlen müssen: to have to pay high taxes
@@ -714,6 +730,8 @@ anhören /ˈanhøːrən/: to listen to
 Anker /ˈaŋkɐ/, der, Anker: anchor
  den Anker (aus)werfen/einholen: to drop/raise anchor
 
+ankleben /ˈankleːbən/: to stick on
+
 ankreuzen /ˈankrɔytsən/: to mark with a cross
   die passende Antwort ankreuzen
   to mark the correct answer with a cross 
@@ -736,6 +754,11 @@ Anlass /ˈanlas/, der, ..e: reason, cause, occasion
   aus Anlass: on the occasion of
   eine Feier aus Anlass des 150. Firmenjubiläums
   a party on the occasion of the 150th anniversary of the company
+
+anlaufen /ˈanlaufən/: to call at, to put into, to start, to tarnish
+  den nächsten Hafen anlaufen: to put into the nearest harbor
+  Der Film läuft nächste Woche in den Kinos an.
+  The film starts at movie theaters next week.
 
 anlegen /ˈanleːɡən/: to lay out, to set up, to invest
   ein neues Gemüsebeet anlegen: to lay out a new bed
@@ -848,6 +871,16 @@ anstreichen /ˈanʃtraiçən/: to paint, to Mark
   Der Lehrer hat mir das als Fehler angestrichen.
   The teacher marked that as a mistake. 
 
+Anteil /ˈantail/, der, -e: share
+  der Anteil von Frauen innerhalb der erwerbstätigen Bevölkerung
+  the percentage of women in the working population
+  Anteil an etw. haben: to play a part in
+  Sie hatte großen Anteil am Erfolg des Projekts.
+  She played a major role in the success of the project.
+  Anteile an einer Firma verkaufen: to buy shares in a company
+  Anteil am Schicksal eines Menschen nehmen: to sympathize with sb's fate
+  regen Anteil an einer Diskussion nehmen: to actively take part in a discussion
+
 Antrag /ˈantraːk/, der, ..e: application, motion, proposal
   Antrag auf Arbeitslosengeld stellen: to apply for unemployment benefits
   Der Antrag wurde mit überwältigender Mehrheit angenommen.
@@ -938,6 +971,10 @@ archivieren /arçiˈviːrən/: to archive
 Ärger /ˈɛrɡɐ/, der: anger
 
 ärgern /ˈɛrɡɐn/: to annoy, to make angry
+  einen Mitschüler ärgern: to annoy one of the other students
+  sich (über jdn / etw.) ärgern: to get annoyed (at sb/sth)
+  sich darüber ärgern, dass jd zu spät kommt
+  to get annoyed that sb turns up late
 
 Arm /arm/, der: arm
 
@@ -991,6 +1028,10 @@ Atom /aˈtoːm/, das: atom
   Atombombe: atomic bomb
 
 Attacke /aˈtakə/, die: attack
+
+Attentat /ˈatəntaːt/, das, -e: assassination attempt, attempt on sb's life, attempt
+  ein Attentat auf einen Politiker verüben
+  to carry out an assassination attempt on a politician
 
 auf /auf/: on, onto, at, to
   auf dem Sofa sitzen: to sit on the sofa
@@ -1063,7 +1104,6 @@ aufführen /ˈauffyːrən/: to perform, to list, to act, to behave
 
 Aufgaben /ˈaufɡaːbə/, die, -n: task, duty, goal, purpose, function
   
-
 aufgeben /ˈaufɡeːbən/: to give up, to stop, to give, to leave, to mail
   das Rauchen aufgeben: to quit smoking
   Sie musste kurz vor dem Ziel aufgeben.
@@ -1163,6 +1203,12 @@ aufpassen /ˈaufpasən/: to be careful, to pay attention
   You have to pay more attention in classes.
 
 aufregen /ˈaufreːɡən/: to get upset/worried/excited
+
+aufregend： exciting, thrilling
+  Ist das nicht aufregend?
+  Isn't it exciting?
+  Ich finde ihn einfach aufregend!
+  I find him quite simply exciting.
 
 aufreißen /ˈaufraisən/: to tear open, to open wide, to pick up, to burst (open)
   Ungeduldig riss sie die Verpackung auf.
