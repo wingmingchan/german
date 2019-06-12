@@ -194,6 +194,10 @@ umfallen /ˈʊmfalən/: to fall over
   Das Glas ist umgefallen.
   The glass fell over.
 
+umdrehen /ˈʊmdreːən/: to turn over, to turn (inside) out, to turn around
+  Sie drehte das Blatt um und schrieb auf der Rückseite weiter.
+  She turned the sheet over and continued writing on the back.
+
 umfänglich /ˈʊmfɛŋlɪç/: extensive
 
 Umfrage /ˈʊmfraːɡə/, die: survey, poll
@@ -322,6 +326,10 @@ ungarisch /ˈʊŋɡarɪʃ/: Hungarian
 
 Ungarn /ˈʊŋɡarn/: Hungary
 
+ungeduldig /ˈʊnɡədʊldɪç/: impatient
+  Kommst du? Ich werde langsam ungeduldig!
+  Are you coming? I'm starting to get impatient.
+
 ungefähr /ˈʊnɡəfɛːɐ/: approximately, roughly
 
 Ungeheuer /ˈʊnɡəhɔyɐ/, das, Ungeheuer: monster
@@ -334,6 +342,10 @@ ungeheuerlich: monstrous
 ungewiss /ˈʊnɡəvɪs/: uncertain
 
 ungewöhnlich: unusual
+
+ungläubig /ˈʊnɡlɔybɪç/: disbelieving, incredulous, unbelieving
+  ein ungläubiges Gesicht machen: to look incredulous
+  ein heiliger Krieg gegen Ungläubige: a holy war against unbelievers
 
 Unglück /ˈʊnɡlʏk/, das: disaster
 
@@ -362,7 +374,15 @@ unsinnig /ˈʊnzɪnɪç/: foolish, absurd
 
 unten /ˈʊntən/: down, at the bottom, underneath
 
-unter: under, among
+unter: under, among, amid
+  Der Hund liegt unter dem Tisch.
+  The dog is lying under the table.
+  Unter uns gab es nie Streit.
+  There was never any quarreling among us.
+  unter Schmerzen weiterlaufen
+  to keep running in spite of/through the pain
+  Die Sitzung fand unter Ausschluss der Öffentlichkeit statt.
+  The meeting was closed to the public.
 
 Unter-: under-, sub-
 
