@@ -45,8 +45,11 @@ Veranstaltung /fɛɐˈ|anʃtaltʊŋ/, die, -en: organization, event
   Was ist bei der Veranstaltung eines Feuerwerks zu beachten?
   What needs to be taken into account when organizing a firework display?
   eine öffentliche Veranstaltung besuchen: to go to a public event
+  Kulturveranstaltung
 
 verantwortlich /fɛɐˈ|antvɔrtlɪç/: responsible
+  Wer ist für diese Entscheidung verantwortlich?
+  Who is responsible for this decision?
 
 verarbeiten /fɛɐˈ|arbaitən/: to use, to process
   Wir verarbeiten nur frische Zutaten.
@@ -209,6 +212,10 @@ vergraulen /fɛɐˈɡraulən/: to scare away
 vergünstigt /fɛɐˈɡʏnstɪçt/: improved, reduced
   etw vergünstigt kaufen: to buy sth at a reduced price
 
+verhaften /fɛɐˈhaftən/: to arrest
+  Die Polizei hat drei Verdächtige verhaftet.
+  The police have arrested three suspects.
+
 verhalf => verhelfen
 
 Verhalten /fɛɐˈhaltən/, das: behavior
@@ -235,6 +242,8 @@ verhandeln /fɛɐˈhandəln/: to negotiate, to hear (a/the case)
 Verhandlung /fɛɐˈhandlʊŋ/, die: negotiation
   Die Verhandlungen blieben leider ohne Ergebnis.
   Unfortunately the negotiations did not end in agreement.
+
+Verhandlungssache: object of (od matter for) negotiation
 
 verhangen: overcast
 
@@ -516,6 +525,10 @@ Verständnis /fɛɐˈʃtɛntnɪs/, das, -se: understanding, sympathy, comprehens
   Ich habe ein anderes Verständnis von moderner Musik als du.
   My appreciation of modern music is different to yours.
 
+Verstärkung /fɛɐˈʃtɛrkʊŋ/, die, -en: strengthening, reinforcement, increase
+  eine Verstärkung der Wirkung: an increase in the effect
+  warten, bis Verstärkung eintrifft: to wait for reinforcements
+
 verstecken /fɛɐˈʃtɛkən/: to hide
   Ostereier im Garten verstecken
   to hide Easter eggs in the garden
@@ -545,6 +558,7 @@ vertagen /fɛɐˈtaːɡən/: to adjourn
 
 Vertrag /fɛɐˈtraːk/, der: contract
   einen Vertrag mit jdm schließen: to sign a contract with sb
+  Arbeitsvertrag
 
 verträglich /fɛɐˈtrɛːklɪç/: easy to get on with, easy to digest, well-tolerated
   Sonst ist sie eigentlich recht verträglich.
@@ -742,6 +756,9 @@ vorbereiten /ˈfoːɐbəraitən/: to prepare, to get ready
 Vorbereitung /ˈfoːɐbəraitʊŋ/, die: preparation
   Vorbereitungen für etw. treffen: to make preparations for sth
 
+Vorbild /ˈfoːɐbɪlt/, das, -er: model
+  ein gutes / schlechtes Vorbild für jdn sein: to be a good/bad role model for sb
+
 Vorfall /ˈfoːɐfal/, der: incident
 
 Vorgehen /ˈfoːɐɡeːən/, das, -s: actions, approach, procedure
@@ -814,6 +831,13 @@ vorsichtig /ˈfoːɐzɪçtɪç/: careful, cautious
   eine vorsichtige Schätzung
   a cautious estimate
 
+vorsingen /ˈfoːɐzɪŋən/: to sing, to sing first, to audition
+  den Kindern ein Lied vorsingen: to sing a song to the children
+  Der Lehrer sang die erste Strophe vor, und dann sangen sie alle noch einmal zusammen.
+  The teacher sang the first verse first and then they all sang it again together.
+  Die Band hat schon mehrere Kandidaten vorsingen lassen, aber sich noch für keinen entschieden.
+  The band have already auditioned several candidates but haven’t chosen one yet.
+
 vorsitzen: to chair
 
 Vorsitzende /ˈfoːɐzɪʦəndə/, der-die, -n: chair(person) , chairman/chairwoman
@@ -847,6 +871,10 @@ to introduce, to come/go for an interview, to present, to put forward(s)
   On Sunday we have to put the clocks forward by an hour.
 
 Vorstellung /ˈfoːɐʃtɛlʊŋ/, die: idea, picture
+
+Vorstellungsgespräch /ˈfoːɐʃtɛlʊŋsɡəʃprɛːç/, das, -e: interview
+  Sie hat um 10 Uhr ein Vorstellungsgespräch.
+  She has an interview at 10 o'clock.
 
 Vorteil /ˈfɔrtail/, der, -e: advantage
   Das bringt auch Vorteile mit sich.
