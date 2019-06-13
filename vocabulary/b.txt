@@ -1108,11 +1108,13 @@ Brandfall, der: fire
 
 Brandstiftung /ˈbrantʃtɪftʊŋ/, die, -en: arson
 
-braten: to fry
+braten: to fry, to roast
   Ich brat mir jetzt ein Steak.
   Now I'm going to fry myself a steak.
   Das Huhn muss eineinhalb Stunden braten.
   The chicken has to roast for one and a half hours.
+
+Bratensoße: gravy
 
 Bratwurst /ˈbraːtvʊrst/, die: bratwurst
 
@@ -1200,6 +1202,7 @@ Brücke /ˈbrʏkə/, die, Brücken: bridge
 Brust /brʊst/, die, Brüste: chest, breast
   Brustschwimmen: breaststroke
   Brustkrebs: breast cancer
+  Hähnchenbrust: chicken breast
 
 Brut, die: brood, breeding
 
