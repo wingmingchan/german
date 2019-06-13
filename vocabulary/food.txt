@@ -55,6 +55,8 @@ Bonbon, das
 braten: to fry
   gebratenen Fisch
 
+Bratensoße: gravy
+
 Bratwurst /ˈbraːtvʊrst/, Bratwurste, die: brat, a kind sausage
 
 Breze, Brezel, Brezen, Brezeln, die: pretzel
@@ -75,6 +77,8 @@ Butter, die
 Café /kaˈfeː/, das
 
 Camembert /ˈkaməmbeːɐ/, der
+
+Curry /ˈkœri/, der-das, (uncountable)
 
 ========================================================
 
@@ -201,7 +205,7 @@ Karotte /kaˈrɔtə/, die: carrot
 Karte
   Darf ich bitte die Karte sehen?
 
-Kartoffel /karˈtɔfəl/, die, Kartoffeln: potato
+Kartoffel /karˈtɔfəl/, die, -n: potato
 
 Käse /ˈkɛːzə/, der: cheese
 
@@ -319,6 +323,10 @@ Prozent /proˈʦɛnt/, das: percent
 Pudding /ˈpʊdɪŋ/, der, -s: pudding
   Schokoladenpudding: chocolate pudding
 
+Pute /ˈpuːtə/, die, -n: turkey
+
+Putenbruststreifen
+
 Putenfleisch, das: turkey meat
 
 ========================================================
@@ -382,8 +390,12 @@ schwer /ʃveːɐ/: heavy
 Senf, der: mustard
   heiße Würstchen mit Senf: hot frankfurters with mustard
 
+Soße /ˈzoːsə/, die, -n: sauce
+
 Speck /ʃpɛk/, der: bacon
  
+Speise /ˈʃpaizə/, die, -n: dish
+
 Speisekarte /ˈʃpaizəkartə/, die: menu
   Herr Ober, die Speisekarte bitte!
   The menu, please, waiter!
@@ -403,7 +415,7 @@ Supermarkt, der
 
 Suppe, die
 
-süß: sweet
+süß /zyːs/: sweet
 
 Süße Senf, der: sweet mustard
 
