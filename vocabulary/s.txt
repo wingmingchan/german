@@ -29,8 +29,9 @@ sagen: to say
 
 sah => sehen
 
-Sahne /ˈzaːnə/, die: cream
+Sahne /ˈzaːnə/, die, (uncountable): cream
   Sahne für den Kuchen steif schlagen: to whip some cream for the cake 
+  saure Sahne: sour cream
 
 Salat /zaˈlaːt/, der: lettuce, salad
   Salat aus dem eigenen Garten: home-grown lettuce
@@ -82,7 +83,8 @@ säubern /ˈzɔybɐn/: to clean, to clean up
   eine Wunde säubern: to clean a wound
   Schulbücher von rassistischem Gedankengut säubern: to rid schoolbooks of any racist ideas
 
-sauer /ˈzauɐ/: sour, pissed, angrily
+sauer /ˈzauɐ/ saurer, sauerste: sour, pissed, angrily
+  saure Sahne: sour cream
 
 *Sauerstoff /ˈzauɐʃtɔf/, der: oxygen
 
@@ -229,6 +231,12 @@ scheuen /ˈʃɔyən/: to spare, to shrink from, to shy
   We haven't spared any cost or effort with the party.
   Sie scheut sich (davor), ihn zu kritisieren.
   She shrank from criticizing him. 
+
+schick /ʃɪk/: stylish, fashionable
+  schicke Schuhe anhaben
+  to be wearing stylish shoes
+  Japanisches Essen gilt gerade als schick.
+  Japanese food is supposed to be fashionable at the moment.
 
 schicken /ˈʃɪkən/: to send, to send for, to hurry up
   ein Päckchen mit der Post schicken
@@ -923,6 +931,9 @@ sortieren /zɔrˈtiːrən/: to sort
   Die Stücke werden nach der Größe / Farbe sortiert.
   The items are sorted by size/color.
 
+Soße /ˈzoːsə/, die, -n: sauce
+  Bratensoße: gravy
+
 sowie /zoˈviː/: and, as well as
 
 sowieso /zoviˈzoː/: anyway, anyhow
@@ -1356,9 +1367,14 @@ streichen /ˈʃtraiçən/: to paint, to spread, to delete, to cut, to cancel
   die Wände weiß streichen: to paint the walls white
   die Wände weiß streichen: to paint the walls white
   Butter/Marmelade aufs Brot streichen: to spread butter/jelly on the bread
-  
 
 Streifen /ˈʃtraifən/, der: stripe
+  Zebras haben schwarze Streifen.
+  Zebras have black stripes.
+  Die Fenster hatten nach dem Putzen noch Streifen.
+  The windows were still streaky after having been cleaned.
+  Papier in Streifen schneiden: to cut paper into strips
+  ein alter Streifen: an old movie
 
 streifen: to brush against, to graze
 
@@ -1460,6 +1476,9 @@ surfen /ˈsøːɐfən/: to surf
   Nach stundenlangem Surfen hatte ich eine Ferienwohnung gefunden.
   I found a holiday home after surfing the Net for hours.
   im Internet surfen: to surf the Internet
+
+süß /zyːs/: sweet
+  süß schmecken: to taste sweet
 
 Süßigkeit /ˈzyːsɪçkait/, die, -en: candy
   den Kindern Süßigkeiten mitbringen: to bring candy for the children
