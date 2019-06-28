@@ -188,6 +188,12 @@ Gegenangriff, der: counter-attack
 
 Gegenschlag /ˈɡeːɡənʃlaːk/, der: counter-strike
 
+gegenseitig /ˈɡeːɡənzaitɪç/: mutual
+  Wir sind auf die gegenseitige Unterstützung angewiesen.
+  We are dependent on mutual aid.
+  sich im gegenseitigen Einvernehmen trennen: to separate by mutual consent
+  sich gegenseitig unterstützen: to support one another
+
 Gegenstand /ˈɡeːɡənʃtant/, der, ..e: object
   => Ding
   Er wurde mit einem stumpfen Gegenstand erschlagen.
@@ -733,6 +739,9 @@ Gleichschritt /ˈɡlaiçʃrɪt/, der, -(e)s: marching in step
   im Gleichschritt marschierende Soldaten: soldiers marching in step
 
 Gletscher /ˈɡlɛʧɐ/, der: glacier
+
+Glosse /ˈɡlɔsə/, die, -n: commentary
+  eine Glosse in der Zeitung lesen: to read a commentary in the newspaper
 
 glücklich /ˈɡlʏklɪç/: happy, lucky, fortunate
   Ich bin so glücklich mit dir!
