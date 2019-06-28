@@ -848,6 +848,11 @@ anspringen /ˈanʃprɪŋən/: to jump up on, to come running up, to start
   Bei Kälte springt das Auto oft nicht gleich an.
   When it's cold the engine often doesn't start right away.
 
+anspruchsvoll /ˈanʃprʊxsfɔl/: sophisticated, demanding, challenging
+  Man darf nicht zu anspruchsvoll sein.
+  You can't be too demanding.
+  anspruchsvolle Literatur: high-quality literature
+
 anstarren /ˈanʃtarən/: to stare at
 
 anstellen /ˈanʃtɛlən/: to hire, to employ, to engage
@@ -1549,6 +1554,7 @@ Ausstrahlung /ˈausʃtraːlʊŋ/, die, -en: transmission, charisma
   eine positive Ausstrahlung haben: to exude a positive aura
 
 aussuchen /ˈauszuːxən/: to choose
+  => auswählen
   Du hast dir diesen Beruf ausgesucht, jetzt jammere nicht.
   You chose this job, so stop whining.
 
