@@ -568,7 +568,7 @@ beschädigen /bəˈʃɛːdɪɡən/: to damage
   Das Dach wurde beim Sturm schwer beschädigt.
   The roof was badly damaged in the storm.
 
-beschäftigen /bəˈʃɛftɪɡən/: to employ
+beschäftigen /bəˈʃɛftɪɡən/: to employ, to occupy, to bother, to spend time with, to give thought to
   Das Unternehmen beschäftigt 2000 Mitarbeiter.
   The company has 2000 employees.
 
@@ -936,9 +936,14 @@ Beziehung: relationship
 
 blamieren /blaˈmiːrən/: to embarrass, to disgrace
 
-blasen /ˈblaːzən/: to blow
+blasen /ˈblaːzən/: to blow, to play
   blasen, damit die Suppe abkühlt
   to blow on the soup to cool it
+  jdm einen blasen: to give sb a blow job
+  Der Soldat blies zum Angriff.
+  The soldier sounded the attack.
+  Der Wind blies mir ins Gesicht.
+  The wind blew in my face.
 
 Blaskapelle, die: brass band
 
