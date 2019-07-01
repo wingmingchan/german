@@ -226,6 +226,12 @@ regen: to move, to stir
   In ihm regte sich allmählich ein furchtbarer Verdacht.
   A terrible suspicion gradually stirred in him.
 
+Regie /reˈʒiː/, die, (uncountable): direction, management
+  Wer hat bei dem Film Regie geführt?
+  Who directed the movie?
+  Der Verein führt die Tagung in eigener Regie durch.
+  The club holds the conference itself.
+
 regieren /reˈɡiːrən/: to rule
   Der König regierte (das Land) 25 Jahre lang.
   The king ruled (the country) for 25 years.
