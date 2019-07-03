@@ -375,7 +375,13 @@ Beispiel /ˈbaiʃpiːl/, das: example
 
 beispielsweise /ˈbaiʃpiːlsvaizə/: for example
 
-Beitrag /ˈbaitraːk/, der: contribution
+Beitrag /ˈbaitraːk/, der: contribution, article
+  die Beiträge zur Rentenversicherung erhöhen
+  to increase contributions to the pension scheme
+  einen wichtigen Beitrag zum Klimaschutz leisten
+  to make an important contribution to climate protection
+  einen Beitrag für die Schülerzeitung verfassen
+  to write an article for the student newspaper
 
 Beitragszahler: contributor
 
@@ -1056,6 +1062,9 @@ bohren /ˈboːrən/: to drill
 Bohrmaschine /ˈboːɐmaʃiːnə/, die: drill
   mit der Bohrmaschine Löcher für die Dübel in die Wand bohren
   to use the electric drill to drill holes in the wall for the wall plugs 
+
+Bon /bɔŋ/, der, -s: receipt
+  den Kassenbon überprüfen: to check the receipt
 
 Bonbon /bõˈbõ/ /bɔŋˈbɔŋ/ oder /ˈbɔŋbɔŋ/, der, -s: candy
   Bonbons lutschen: to suck candies
