@@ -142,6 +142,8 @@ hart /hart/: hard
 
 Häschen /ˈhɛːsçən/, das, -: hare
 
+*Hase /ˈhaːzə/, der, -n: hare
+
 Hass /has/, der: hate, hatred
 
 hässlich /ˈhɛslɪç/: ugly
@@ -489,6 +491,8 @@ Hindernis /ˈhɪndɐnɪs/, das: obstacle
 hineinreden /hɪˈnaɪnreːdən/: to interrupt
   Hör bitte auf, dauernd hineinzureden, wenn ich telefoniere.
   Please stop constantly interrupting me when I'm on the phone.
+
+hineinwerfen: to throw in
 
 Hinfahrt, die: way/journey there
 
