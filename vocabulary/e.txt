@@ -249,6 +249,8 @@ einführen/ˈainfyːrən/: to import, to introduce, to insert
   Gemüse aus anderen EU-Ländern einführen
   to import vegetables from other EU countries
   eine neue Steuer einführen: to introduce a new tax
+  einen Schlauch in die Nase einführen
+  to insert a tube into sb's nose
 
 Eingang /ˈainɡaŋ/, der: entrance, start, receipt, delivery
 
@@ -369,7 +371,23 @@ einpacken /ˈainpakən/: to wrap (up), to pack
 
 einmischen: to interfere
 
+Einnahme /ˈainnaːmə/, die, -n: revenue, income, takings
+  Einnahmen und Ausgaben: receipts and expenditures
+  Die Einnahme der Medikamente sollte von einem Arzt überwacht werden.
+  The use of the medication should be monitored by a doctor.
+  Die Einnahme der belagerten Stadt stand kurz bevor.
+  The capture of the besieged city was imminent.
+
 Einrede, die: objection, protest, contradiction, defense
+
+einrichten /ˈainrɪçtən/: to furnish, to set up, to arrange
+  ein gemütlich eingerichtetes Haus: a cozily furnished house
+  eine neue Beratungsstelle für Schwangere einrichten
+  to set up a new counseling center for pregnant women
+  Bitte richte es dir so ein, dass du bis 19.00 Uhr zu Hause bist.
+  Please arrange to be home by 7 pm.
+  Ich hatte mich schon darauf eingerichtet, eine Weile warten zu müssen.
+  I had already prepared myself for a long wait.
 
 Einrichtung /ˈainrɪçtʊŋ/, die, -en: furnishings, institution
   ein Haus mit moderner Einrichtung: a house with modern furnishings
@@ -448,6 +466,9 @@ einstürzen /ˈainʃtʏrʦən/: to collapse
   Das alte Haus ist unter der Schneelast eingestürzt.
   The old house collapsed under the weight of the snow.
 
+eintippen /ˈaintɪpən/: to key in, to type
+  seine Geheimzahl eintippen: to enter your PIN
+
 Eintrag /ˈaintraːk/, der: entry, record
   Wer hat die letzten Einträge vorgenommen?
   Who made the latest entries?
@@ -515,6 +536,10 @@ einzige /ˈainʦɪɡə/: only, complete
   The party was one big disappointment for me.
 
 einzigartig /ˈainʦɪç|aːɐtɪç/: unique
+
+Einzugsermächtigung /ˈainʦuːks|ɛɐmɛçtɪɡʊŋ/, die, -en: direct debit authorization
+  jdm eine Einzugsermächtigung erteilen
+  to give sb a direct debit authorization
 
 *Eis /ais/, das: ice
 
@@ -878,7 +903,6 @@ Erlass /ɛɐˈlas/, der: decree, remission, release
 erlassen /ɛɐˈlasən/: to issue
   Gegen ihn wurde Haftbefehl erlassen.
   A warrant was issued for his arrest.
-  
 
 erlauben /ɛɐˈlaubən/: to allow, to permit
 
@@ -974,6 +998,12 @@ erschweren /ɛɐˈʃveːrən/: to make more difficult, to aggravate, to impede
 ersetzen /ɛɐˈzɛʦən/: to replace
   einen alten Teppich durch einen neuen ersetzen
   to replace the old carpet with a new one
+
+ersparen /ɛɐˈʃpaːrən/: to save
+  Das neue Verfahren erspart uns viel Mühe.
+  The new procedure saves us a lot of trouble.
+  Den Computer hat er sich von seinem Taschengeld erspart.
+  He saved up for the new computer from his pocket money.
 
 erst /eːɐst/: first, not until, only, not before
   Lass ihn doch erst mal die Jacke ausziehen.
