@@ -102,6 +102,10 @@ gebrannt => brennen
 gebratenes [gedünstetes, gegrilltes, gekochtes, geschmortes] Fleisch:
   roast(ed) [steamed, grilled, boiled, stewed] meat
 
+Gebühr /ɡəˈbyːɐ/, die, -en: fee
+  In Frankreich werden für die Benutzung von Autobahnen Gebühren erhoben.
+  In France there are tolls for the use of the freeways.
+
 Geburtsdatum /ɡəˈbuːɐʦdaːtʊm/, das, Geburtsdaten: date of birth
 
 Geburtstag /ɡəˈbuːɐʦtaːk/, der, -e: birthday
