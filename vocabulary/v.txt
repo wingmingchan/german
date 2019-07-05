@@ -86,6 +86,9 @@ verbessern /fɛɐˈbɛsɐn/: to improve, to correct, to amend
 
 verbrachte => verbringen
 
+verbreitet /fɛɐˈbraitət/: common, widespread
+  ein verbreitetes Vorurteil: a common prejudice
+
 verbrennen /fɛɐˈbrɛnən/: to burn
 
 Verbraucher /fɛɐˈbrauxɐ/, Verbraucherin: consumer
@@ -621,6 +624,19 @@ verwandt: related
 Verwandte /fɛɐˈvantə/: relative, relation
   Verwandtschaft, die relations, relatives
   => Angehörige
+
+verwenden /fɛɐˈvɛndən/: to use, to spend
+  Zum Kochen verwende ich fast nur Olivenöl.
+  I virtually only use olive oil for cooking.
+  Ich habe schon viel zu viel Zeit auf dieses Projekt verwendet / verwandt.
+  I've already spent far too much time on this project.
+
+Verwendung /fɛɐˈvɛndʊŋ/, die, -en: use
+  die weitere Verwendung der Gelder: a further use for the funds
+  Hast du keine Verwendung für ihn in deiner Abteilung?
+  Do you have any use for him in your department?
+
+Verwendungszweck, der: use, purpose
 
 verwirren /fɛɐˈvɪrən/: to confuse, to bewilder, to ruffle, to get tangled up
   Weißes Haus verwirrt
