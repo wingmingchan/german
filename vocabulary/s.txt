@@ -573,6 +573,9 @@ Schuss, Schüssen, der: gun shot
 
 Schuss /ʃʊs/, Schüsse, der: shot
 
+Schüssel /ˈʃʏsəl/, die, -n: bowl
+  den Salat in einer Schüssel anrichten: to prepare the salad in a bowl
+
 schütten /ˈʃʏtən/: to pour, to tip
   einen Eimer Wasser ins Feuer schütten
   to pour a pail of water on the fire
@@ -771,6 +774,8 @@ seltsam /ˈzɛltzaːm/: strange, odd
   Das kommt mir seltsam vor.
   That seems strange to me.
 
+senden /ˈzɛndən/: to broadcast
+
 Senf /zɛnf/, der: mustard
 
 Service /zɛrˈviːs/, das: dinner/coffee/tea service
@@ -921,6 +926,12 @@ Sorge /ˈzɔrɡə/, die, Sorgen: worry
   jdm Sorgen machen/bereiten: to cause sb a lot of worry; to worry sb
 
 sorgen /ˈzɔrɡən/: to cater, to provide, to ensure, to worry, to cause
+  Wer wird während unseres Urlaubs für die Hasen sorgen?
+  Who's going to look after the rabbits while we're on vacation?
+  für einen reibungslosen Ablauf im Verkehr sorgen
+  to ensure the traffic flows smoothly
+  Sie sorgt sich um seine Gesundheit.
+  She is worried about her health.
 
 sorgfältig /ˈzɔrkfɛltɪç/: careful
   <=> nachlässig
@@ -969,6 +980,8 @@ Sparbuch /ˈʃpaːɐbuːx/, das: passbook
 sparen /ˈʃpaːrən/: to save, to save up
   Er hat schon 5.000 Euro gespart.
   He has already saved 5,000 euros.
+
+Sparkasse /ˈʃpaːɐkasə/, die, -n: savings bank
 
 spät /ʃpɛːt/: late
   im späten Mittelalter: in the late Middle Ages
@@ -1173,6 +1186,9 @@ stechen /ˈʃtɛçən/: to sting, to bite, to prick
 
 Stecher /ˈʃtɛçɐ/: sex partner
 
+Steckdose /ˈʃtɛkdoːzə/, die, -n: outlet, socket
+  den Stecker aus der Steckdose ziehen: to pull the plug out of the outlet
+
 stecken /ˈʃtɛkən/: to be, to put
   viel Arbeit / Geld / … in etw. stecken
   to put a lot of work/money/… into sth
@@ -1319,6 +1335,8 @@ stolz /ʃtɔlʦ/: proud
 stopfen /ˈʃtɔpfən/: to stuff sth into sth
   Er stopfte das Geld hastig in seine Taschen.
   He stuffed the money hastily into his pockets.
+
+stöbern /ˈʃtœːbɐn/: to browse
 
 stören /ˈʃtøːrən/: to disturb, to interfere, to interrupt, to intrude, to jam
   Stört es dich, wenn ich rauche?
