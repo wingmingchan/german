@@ -140,6 +140,8 @@ Ziel /ʦiːl/, das, -e: goal, aim, objective, target, destination
 
 ziemlich /ˈʦiːmlɪç/: quite, rather
 
+Zier /ʦiːɐ/, die, (uncountable): ornament, decoration, adornment
+
 Ziffer /ˈʦɪfɐ/, die, -n: digit, number, numeral, subsection, clause
   arabische / römische Ziffern: Arabic/Roman numerals
   gemäß Paragraf 7 Ziffer 3 des Gesetzes …
@@ -237,6 +239,11 @@ zugehen /ˈʦuːɡeːən/: to approach, to close, to shut
   She went straight toward/right up to him.
   Warum geht die Tür nicht zu?
   Why won't the door shut?
+
+Zugriff /ˈʦuːɡrɪf/, der: grasp, access
+  sich dem Zugriff der Behörden entziehen: to escape the clutches of the authorities
+  Auf diese Dateien habe ich keinen Zugriff.
+  I don't have access to these files.
 
 Zukunft /ˈʦuːkʊnft/, die: future
   Wir werden sehen, was uns die Zukunft bringt.
