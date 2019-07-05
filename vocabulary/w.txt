@@ -357,6 +357,12 @@ Wettbewerb /ˈvɛtbəvɛrp/, der, -e: competition
 
 Wette /ˈvɛtə/, die: bet, wager
 
+wetten /ˈvɛtən/: to bet
+  mit jdm um Geld wetten: to make a bet for money with sb
+  auf ein Pferd wetten: to bet on a horse
+  Ich wette zehn Euro, dass er gewinnt.
+  I bet ten euros that he wins.
+
 *Wetter /ˈvɛtɐ/, das: weather
 
 Wettkampf /ˈvɛtkampf/, der, ..e: competition, contest
@@ -454,6 +460,8 @@ wirr /vɪr/: confused, in a mess
 Wirtschaft /ˈvɪrtʃaft/, die: economy, restaurant, bar
   Berufe in der freien Wirtschaft: careers in the free market economy
   in einer Wirtschaft zu Mittag essen: to have lunch at a restaurant
+
+Wirtschaftkrise
 
 Wirtschaftsteil, der: business section
 
