@@ -283,6 +283,15 @@ Reihe /ˈraiə/, die: row, line, ranks
 Reihenfolge /ˈraiənfɔlɡə/, die, -n: sequence, order
   eine Liste in alphabetischer Reihenfolge: a list in alphabetical order
 
+rein /rain/: pure
+  ein reines Weiß: a pure white
+  Sortenreiner Kaffee ist selten und edel.
+  Unblended coffee is rare and of fine quality.
+  Das ist doch reine Erfindung!
+  That's pure fabrication!
+  Dieser Tag ist der reinste Alptraum!
+  This day is just a total nightmare!
+
 reinigen /ˈrainɪɡən/: to clean
   die Fliesen mit einem feuchten Tuch reinigen: to clean the tiles with a damp cloth
 
@@ -319,6 +328,10 @@ Rendite /rɛnˈdiːtə/, die, -e: yield, return
 rennen /ˈrɛnən/: to run, to race
   Sie musste um ihr Leben rennen.
   She had to run for her life.
+
+Renner /ˈrɛnɐ/, der, -: big hit
+  Das neue Video der Band ist der Renner / ist ein echter Renner!
+  The new video of the band is a big hit!
 
 renovieren /renoˈviːrən/: to renovate
 
@@ -496,6 +509,8 @@ rum-: around
 rund /rʊnt/: round, circular, rounded, around
   Wir saßen rund um das Feuer.
   We were sitting around the fire.
+
+Rundfunkgebühr, die: radio licence fee
 
 runter /ˈrʊntɐ/: down
   Runter vom Tisch!
