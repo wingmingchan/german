@@ -358,6 +358,10 @@ Adresse /aˈdrɛsə/, die, -n: address
 Affe /ˈafə/, der, Affen: monkey, ape
   die Affen im Zoo: the monkeys in the zoo 
 
+Affront /aˈfrõː/, der, -s: affront
+  Das Angebot der Arbeitgeber war ein Affront gegen die Gewerkschaften.
+  The employers' offer was an insult to the labor unions.
+
 ähnlich /ˈɛːnlɪç/: similar
   Sie ist ihrer Schwester sehr ähnlich.
   She's very like her sister.
@@ -527,6 +531,10 @@ Amt /amt/, das: office, position
 Amtmann, Amtfrau: bailiff
 
 Amtszeit, die: term, term of office
+
+amüsieren /amyˈziːrən/
+
+amüsiert 
 
 an /an/: at, on, from, against
   Auf geht's, an die Arbeit!
@@ -1089,6 +1097,7 @@ auffordern /ˈauffɔrdɐn/: to call for, to invite
   einen Minister zum Rücktritt auffordern: to call for the minister to resign
   Er forderte uns auf, doch hereinzukommen.
   He invited us to come in.
+  jdn zum Duell auffordern: to challenge sb to a duel
 
 Aufforderung /ˈauffɔrdərʊŋ/, die, -en: order, command
   Die Demonstranten kamen der Aufforderung der Polizei, den Platz zu verlassen, nicht nach.
@@ -1623,6 +1632,8 @@ ausstrahlen /ˈausʃtraːlən/: to broadcast
 austoben /ˈaustoːbən/: to run riot, to let off steam
   Die Jungen sollen sich im Garten mal so richtig austoben.
   The boys can run around to their hearts’ content in the garden and tire themselves out.
+
+Australien /ausˈtraːljən/
 
 austreiben /ˈaustraibən/: to exorcise, to cure of
   Sie kam zu Tode, als ihr Vater den Teufel austreiben wollte, von dem sie angeblich besessen war.
