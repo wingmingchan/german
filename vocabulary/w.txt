@@ -11,6 +11,9 @@ wachen /ˈvaxən/: to watch over, to keep watch
   darüber wachen, dass sich alle an die Regeln halten
   to watch that everyone keeps to the rules
 
+Wacholder /vaˈxɔldɐ/, der, -: juniper 杜松子
+  Wacholderbeeren: juniper berries
+
 wachsen /ˈvaksən/: to grow
 
 wächst => wachsen 
@@ -55,7 +58,8 @@ wahrscheinlich /vaːɐˈʃainlɪç/: probable, likely
 
 Waise /ˈvaizə/, die: orphan
 
-Wald /valt/, der: forest
+Wald /valt/, der, ..er: wood(s), forest
+  im Wald spazieren gehen: to go walking in the woods
 
 Waldkauz, der: tawny owl
 
@@ -437,6 +441,10 @@ wild /vɪlt/: wild, savage
   Die Missionare wollten den Wilden den christlichen Glauben bringen.
   The missionaries wanted to bring the Christian faith to the savages.
 
+willkommen /vɪlˈkɔmən/: welcome
+  Sie sind mir jederzeit willkommen!
+  You are always welcome!
+
 Wind /vɪnt/, der: wind
 
 Windel /ˈvɪndəl/, die, -n: diaper
@@ -560,6 +568,7 @@ worden => werden
 Wort /vɔrt/, das, Wörter /ˈvœrtɐ/: word
   Können Sie das Wort bitte buchstabieren?
   Could you spell the word, please?
+  beim Wort nehmen: take (someone) at his/her word
 
 Wörterbuch, das, ..er: dictionary
 
