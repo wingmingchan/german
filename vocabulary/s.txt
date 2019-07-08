@@ -642,7 +642,7 @@ Schwelle: threshold
 
 schwer /ʃveːɐ/: heavy, severe, difficult
 
-Schwert /ˈʃveːɐt/, das, Schwerter: sword
+Schwert /ˈʃveːɐt/, das, -er: sword
   ein zweischneidiges Schwert: a double-edged sword
 
 schwierig /ˈʃviːrɪç/: difficult
@@ -857,7 +857,10 @@ Sitzung /ˈzɪʦʊŋ/, die, -en: meeting, session
 Skandal /skanˈdaːl/, der: scandal
   einen Skandal vermeiden/vertuschen: to avoid/hush up a scandal
 
-Skizze /ˈskɪʦə/, die, Skizzen: sketch
+Ski /ʃiː/, der, -er: ski
+  Ski fahren / laufen: to ski/go skiing
+
+Skizze /ˈskɪʦə/, die, Skizzen: sketch, outline
   eine Skizze von einem Gebäude anfertigen: to make a sketch of a building
 
 Sklave /ˈsklaːvə, ˈsklaːfə/, Sklavin, Sklaven, Sklavinnen: slave
@@ -1071,6 +1074,8 @@ Spitze /ˈʃpɪʦə/, die, -n: point, tip, top, peak, front
 
 Spitzname /ˈʃpɪʦnaːmə/, der: nickname
 
+Sport /ʃpɔrt/, der, (unbcountable)
+
 Spott /ʃpɔt/, der: mockery
   Sie litt sehr unter dem Spott ihrer Mitschüler.
   She was mercilessly teased by the other kids at her school.
@@ -1130,7 +1135,7 @@ Staatsbesuch, der: state visit
 
 Staatsgründung: founding of a state
 
-Stäbchen /ˈʃtɛːpçən/, das: chopstick
+Stäbchen /ˈʃtɛːpçən/, das, -: chopstick
 
 Stadion /ˈʃtaːdjɔn/, das, Stadien: stadium
 
