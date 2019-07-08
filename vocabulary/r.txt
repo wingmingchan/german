@@ -73,6 +73,14 @@ Rate /ˈraːtə/, die, Raten: installment, rate
   Die Rate der Neuinfektionen geht wieder zurück.
   The rate of new infections is falling again.
 
+raten /ˈraːtən/: to guess, to advise
+  Er hat die richtige Antwort / richtig geraten.
+  He guessed the correct answer/correctly.
+  Das Gesundheitsministerium rät zur Vorsicht.
+  The health ministry advises caution.
+  Das möchte ich dir / ihm / … aber auch geraten haben!
+  I wouldn’t if I were you/him/…!
+
 ratlos /ˈraːtloːs/: helpless, baffled
   Da bin ich ratlos.
   I'm completely at a loss.
@@ -370,6 +378,10 @@ Rettung /ˈrɛtʊŋ/, die: help, rescue
   => retten
   Das war Rettung in letzter Minute!
   That help came in the nick of time!
+
+Reue /ˈrɔyə/, die, (uncountable): remorse, repentance
+  Der Mörder zeigte keine Reue.
+  The murderer showed no remorse.
 
 Revolte /reˈvɔltə/, die, -n: revolt
   Unter den Gefangenen brach eine Revolte aus.
