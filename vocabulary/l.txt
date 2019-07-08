@@ -376,6 +376,8 @@ liebenswert /ˈliːbənsveːɐt/: likeable
 Lied /liːt/, das, -er: song
   ein Lied singen: to sing a song
 
+lief => laufen
+
 liefern /ˈliːfɐn/: to deliver, to supply, to produce, to provide
   Die Möbel wurden termingerecht geliefert.
   The furniture was delivered on time.
@@ -470,6 +472,11 @@ lout: loud, noisy
 Löwe /ˈløːvə/, der: lion, Leo
   Sie ist Löwe. She is Leo.
 
+loyal /loaˈjaːl/
+  ein loyaler Freund: a loyal friend
+  Er hat sich seinen Kollegen gegenüber immer loyal verhalten.
+  He has always been loyal to his colleagues.
+
 Lücke /ˈlʏkə/, die: gap, space
   durch eine Lücke zwischen den Büschen schlüpfen
   to slip through a gap between the bushes
@@ -498,8 +505,9 @@ Lust /lʊst/, die, ..e: inclination, desire, pleasure, joy
   I feel like having some chocolate just now.
   die Lust am Lesen: the joy of reading
 
-lustig: funny
-  sich über jdn/etw. lustig machen: to make fun of sb/sth
+lustig /ˈlʊstɪç/: funny, keen on
+  sich über jdn / etw. lustig machen: to make fun of sb/sth
+  abenteuerlustig sein: fond of adventure
 
 lutschen /ˈlʊtʃən/: to suck
   ein Hustenbonbon lutschen: to suck a cough drop
