@@ -182,6 +182,8 @@ Delikt /deˈlɪkt/, das: offense
 
 Demenz /deˈmɛnʦ/, die: dementia
 
+Demokrat /demoˈkraːt/
+
 demolieren /demoˈliːrən/: to trash, to wreck
 
 denen /ˈdeːnən/: those
@@ -401,6 +403,8 @@ Droge /ˈdroːɡə/, die: drug
 
 Drogenhandel /ˈdroːɡənhandəl/, der: drug dealing/trafficking
 
+Drogist /droˈɡɪst/
+
 drohen /ˈdroːən/: to threaten, to impend
   drohe, drohst, droht, habe gedroht
   Er hat mir mit der Faust gedroht.
@@ -425,6 +429,11 @@ Dschihadist: jihadist
 
 Dschungel /ˈʤʊŋəl/, der, -: jungle, maze
   die Tiere des Dschungels: the animals of the jungle
+
+Duell /duˈɛl/, das, -e: duel
+  jdn zum Duell auffordern: to challenge sb to a duel
+  Die beiden Läuferinnen lieferten sich ein spannendes Duell.
+  The two runners fought out a thrilling battle for first place.
 
 duften /ˈdʊftən/: to smell
   Wie herrlich diese Blumen duften!
@@ -518,4 +527,5 @@ Dutzend, das: dozen
 Dynamik /dyˈnaːmɪk/, die
 
 dynamisch /dyˈnaːmɪʃ/: dynamic
+  dynamische Prozesse: dynamic processes
 
