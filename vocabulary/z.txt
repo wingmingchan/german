@@ -25,6 +25,16 @@ zahlreich /ˈʦaːlraiç/: numerous
 
 Zahn /ʦaːn/, Zähne /ˈʦɛːnə/, der: tooth
 
+zart /ʦaːɐt/: delicate, tender, gentle
+  Mit so einem zarten Pflänzchen muss man vorsichtig umgehen.
+  You have to be careful with such a delicate little plant.
+  Die Steaks waren schön zart.
+  The steaks were lovely and tender.
+  Er hauchte ihr einen zarten Kuss auf die Wange.
+  He brushed her cheek tenderly with his lips.
+  Die Wände waren in einem zarten Grün gestrichen.
+  The walls were painted a delicate green.
+
 Zauber /ˈʦaubɐ/, der, Zauber: magic, spell
   einen bösen Zauber über jdn aussprechen: to cast an evil spell on sb 
 
@@ -326,7 +336,7 @@ zurückschlagen /ʦuˈrʏkʃlaːɡən/: to hit back, to strike back
 
 zurückziehen /ʦuˈrʏkʦiːən/: to withdraw, to retreat, to retire
 
-zusammen: together
+zusammen /ʦuˈzamən/: together
 
 zusammenfassen /ʦuˈzamənfasən/: to summarize, to combine, to merge, to integrate
   einen Text in wenigen Worten zusammenfassen
@@ -392,6 +402,12 @@ Zweck /ʦvɛk/, der: purpose, point
   What is the purpose of this measure?
 
 zwei: two
+
+zweideutig /ˈʦvaidɔytɪç/: ambiguous
+  Seine Antwort war zweideutig.
+  His answer was ambiguous.
+
+Zweidrittelmehrheit, die: two-thirds majority
 
 Zweifel /ˈʦvaifəl/, der: doubt
 
