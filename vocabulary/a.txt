@@ -277,6 +277,14 @@ abstempeln /ˈapʃtɛmpəln/: to stamp
   Die Fahrkarte musst du noch abstempeln.
   You still have validate to your ticket.
 
+absterben /ˈapʃtɛrbən/: to die (off), to go numb, to stall
+  Einige Wurzeln des Rosenstocks sind bereits abgestorben.
+  Some of the roots of the rose bush have already died off.
+  Bei der Kälte sterben einem ja die Finger ab!
+  It's so cold your fingers go numb!
+  An der Kreuzung ist mir der Motor abgestorben.
+  The engine stalled at the crossroads.
+
 abstoßen /ˈapʃtoːsən/: to push off, to reject
 
 abstoßend /ˈapʃtoːsənt/: abhorrent, revolting
@@ -356,7 +364,9 @@ Adresse /aˈdrɛsə/, die, -n: address
   => Anschrift
 
 Affe /ˈafə/, der, Affen: monkey, ape
-  die Affen im Zoo: the monkeys in the zoo 
+  die Affen im Zoo: the monkeys in the zoo
+  So ein blöder Affe!
+  What a jerk!
 
 Affront /aˈfrõː/, der, -s: affront
   Das Angebot der Arbeitgeber war ein Affront gegen die Gewerkschaften.
@@ -392,6 +402,10 @@ akademisch /akaˈdeːmɪʃ/: academic
 
 akklimatisieren /aklimatiˈziːrən/: to acclimate yourself
 
+Akkord /aˈkɔrt/, der, -e: chord, piecework 零工
+  ein paar Akkorde auf dem Klavier spielen: to play a few chords on the piano
+  im Akkord arbeiten: to do piecework
+
 Akku /ˈaku/, der, Akkus: battery
   den Akku vom Handy aufladen: to charge your cell
 
@@ -401,6 +415,8 @@ Aktie /ˈakʦjə/, die: share, stock
   sein Vermögen in Aktien anlegen: to invest your fortune in shares
 
 Aktien => Aktie
+
+Aktion /akˈʦjoːn/, die, -en: action, operation
 
 aktivieren /aktiˈviːrən/: to activate
   Viele Parteimitglieder wurden aktiviert, bei dem Fest mitzuhelfen.
@@ -531,6 +547,8 @@ Amt /amt/, das: office, position
 Amtmann, Amtfrau: bailiff
 
 Amtszeit, die: term, term of office
+
+amüsant /amyˈzant/
 
 amüsieren /amyˈziːrən/
 
@@ -955,6 +973,8 @@ Apfel /ˈapfəl/, der, Äpfel /ˈɛpfəl/: apple
   Apfelkuchen: apple pie
   Apfelschorle, die: apple juice and mineral water
 
+Apfelsine /ˈapfəlziːnə/, die, -n: orange
+
 Apparat /apaˈraːt/, der, -e: device, gadget, phone, camera, TV
   Ein Computer ist ein komplizierter Apparat.
   A computer is a complicated device.
@@ -1001,7 +1021,7 @@ Armer: pauper
 Armut /ˈarmuːt/, die: poverty
   in bitterster Armut leben: to be desperately poor
 
-Art, die: sort, kind, species, way
+Art /art/, die: sort, kind, species, way
 
 artgerecht /ˈartɡərɛçt/: species-appropriate
   Hühner artgerecht halten
@@ -1670,6 +1690,11 @@ Ausweitung /ˈausvaitʊŋ/, die: expansion
 
 auswendig /ˈausvɛndɪç/: by heart
   ein Gedicht auswendig vortragen: to recite a poem by heart
+
+auswerten /ˈausveːrtən/: to evaluate
+  die Ergebnisse einer Studie wissenschaftlich auswerten
+  to evaluate the results of a study scientifically
+  historische Quellen auswerten: to analyze historical sources
 
 auswirken /ˈausvɪrkən/
   sich irgendwie (auf jdn / etw.) auswirken: to affect (on sb/sth) in a certain way
