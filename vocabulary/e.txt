@@ -641,7 +641,7 @@ Entchen, das, -: duck, duckling
 
 entdecken /ɛntˈdɛkən/: to discover
   Kolumbus entdeckte Amerika.
-  Columbus discovered America.
+  Columbus discovered America.x
 
 Ente /ˈɛntə/, die, -n: duck
 
@@ -821,6 +821,15 @@ erfüllen /ɛɐˈfʏlən/: to be fulfilled, to come true
   Leider haben sich meine Träume nicht erfüllt.
   Unfortunately my dreams weren't fulfilled.
 
+Erfüllung /ɛɐˈfʏlʊŋ/, die, (uncountable): fulfillment
+  Für sie ist ein Traum in Erfüllung gegangen.
+  For her a dream has come true.
+  Die Reise war die Erfüllung eines sehnlichen Wunsches.
+  The trip was the fulfillment of a burning desire.
+  Sein Engagement geht weit über reine Pflichterfüllung hinaus.
+  His commitment goes far beyond the call of duty.
+  im Glauben Erfüllung finden: to find fulfillment in faith
+
 ergänzen /ɛɐˈɡɛnʦən/: to add, to complete
   Bitte ergänzen Sie die fehlenden Wörter.
   Please add the missing words.
@@ -948,6 +957,9 @@ ermorden /ɛɐˈmɔrdən/: to murder
 
 Ernährung /ɛɐˈnɛːrʊŋ/, die: food, diet, nutrition
 
+Ernte /ˈɛrntə/, die, -n: harvest
+  bei der Ernte helfen: to help bring in the harvest
+
 erobern /ɛɐˈ|oːbɐn/: to conquer, to seize, to win, to capture
   Das Dorf wurde von den Wikingern erobert.
   The village was conquered by the Vikings.
@@ -969,6 +981,14 @@ erregen /ɛɐˈreːɡən/: to annoy, to infuriate, to upset
   The threatening letter made her very upset.
 
 erreichbar /ɛɐˈraiçbaːɐ/: available, accessible, reachable
+  Ich bin morgen den ganzen Tag nicht erreichbar.
+  I won't be available all day tomorrow.
+  Das Dorf ist nur zu Fuß erreichbar.
+  You can only get to the village on foot.
+  Die schmerzende Stelle am Rücken war für ihn nicht erreichbar.
+  He couldn't reach the spot on his back that hurt.
+  Früher erschien ihr eine Führungsposition niemals erreichbar.
+  She used to think that a managerial position was unattainable for her.
 
 erreichen /ɛɐˈraiçən/: to reach, to get hold of, to arrive at
   Wann kann ich Sie im Büro am besten erreichen?
@@ -1149,6 +1169,13 @@ etwas /ˈɛtvas/: something, a little, somewhat
 
 Eule /ˈɔylə/, die, Eulen: owl
 
+Europa /ɔyˈroːpaː/, das
+
+europäisch /ɔyroˈpɛːɪʃ/: European
+  die europäischen Länder: the European countries
+
+europäisieren: europeanize
+
 e.V. eingetragener Verein: registered association/society
 
 ewig /ˈeːvɪç/: eternal
@@ -1158,6 +1185,9 @@ ewig /ˈeːvɪç/: eternal
 Exemplar /ɛksɛmˈplaːɐ/, das, -e: specimen, copy
   Vom Sibirischen Tiger gibt es nur noch wenige Exemplare auf der Welt.
   There are very few remaining specimens of the Siberian tiger left in the world.
+
+Existenz /ɛksɪsˈtɛnʦ/, die, -en: existence
+  die Existenz Gottes bezweifeln: to cast doubt on the existence of God
 
 Exklave /ɛksˈklaːvə/, die: exclave
 
