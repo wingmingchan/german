@@ -12,7 +12,10 @@ Backe /ˈbakə/, die, Backen: cheek
   => Wange
   mit vollen Backen kauen: to chew with your cheeks full 
 
-backen /ˈbakən/: to bake
+backen /ˈbakən/: to bake, to fry
+  50 Minuten im vorgeheizten Backofen backen: to bake in a preheated oven for 50 minutes
+  den panierten Fisch in der Pfanne goldgelb backen
+  to fry the breaded fish golden brown in a pan
 
 Bäcker /ˈbɛkɐ/, Bäckerin: baker
   beim Bäcker Brötchen holen: to get bread rolls from the baker's
@@ -122,6 +125,8 @@ Baum /baum/, Bäume /ˈbɔymə/, der: tree
    Bäume fällen: to cut down trees 
 
 bayerisch /ˈbaiərɪʃ/: Bavarian
+
+Bayreuth /baiˈrɔyt/
 
 be-: to turn a noun or adjective to a verb, intransitive -> transitive
 
@@ -374,6 +379,10 @@ beinahe /ˈbeinahe/: almost
 
 beisammen /baiˈzamən/: together
 
+beiseite /bai’zaitə/: aside
+  Sie legte das Buch, in dem sie gelesen hatte, beiseite, um mit ihm zu sprechen.
+  She put aside the book that she's been reading so she could talk with him.
+
 Beispiel /ˈbaiʃpiːl/, das: example
   zum Beispiel, z. B., Beisp.: for example
 
@@ -472,6 +481,15 @@ bemerken /bəˈmɛrkən/: to notice
 
 Bemerkung /bəˈmɛrkʊŋ/, die: remark, comment
   eine abfällige Bemerkung machen: to make a snide remark
+
+bemüht /bəˈmyːt/: conscientious
+  ein sehr bemühter Lehrer: a very conscientious teacher
+  bemüht sein, etw. zu tun: to try hard to do sth
+  Sie ist sehr bemüht, den Anschluss an die Klasse zu schaffen.
+  She's trying very hard to catch up on the classwork.
+  um jdn / etw. bemüht sein: to do a lot for sb/sth
+  Er war immer sehr um seine Frau bemüht.
+  He always cared a lot for his wife.
 
 benachrichtigen /bəˈnaːxrɪçtɪɡən/: to inform, to notify
   Die Eltern wurden (davon) benachrichtigt, dass ihr Kind …
@@ -615,6 +633,13 @@ Beschreibung /bəˈʃraibʊŋ/, die: description
 
 beschriften /bəˈʃrɪftən/: to label, to inscribe
   die Marmeladengläser beschriften: to label the Mason jars
+
+Beschwerde /bəˈʃveːɐdə/, die, -n: complaint, appeal, trouble, discomfort
+  die Beschwerden der Lehrer über die Faulheit der Schüler
+  complaints from the teachers about the students' laziness
+  Beschwerde gegen jdn / etw. einlegen: to appeal against sb/sth
+  die Beschwerden eines Patienten lindern
+  to alleviate a patient's discomfort
 
 besetzen /bəˈzɛʦən/: to fill, to reserve, to occupy
   eine Führungsposition neu besetzen
@@ -871,6 +896,11 @@ beziehungsweise /bəˈʦiːʊŋsvaizə/: respectively, or, or to be more precise
   Ich habe vier Wochen bzw. 30 Tage Urlaub im Jahr.
   I have four weeks' or rather 30 days' vacation a year.
 
+bezweifeln  /bəˈʦvaifəln/: to doubt
+  ich bezweifele / bezweifle
+  Ich bezweifle stark, dass das wahr ist.
+  I very much doubt that that is true.
+
 bezwingen /bəˈʦvɪŋən/: to defeat
   Am Ende konnte der Champion den Neuling in 5 Sätzen bezwingen.
   In the end the champion managed to overcome the newcomer in 5 sets.
@@ -1005,6 +1035,8 @@ blöd /bløːt/: stupid, dumb
   => dumm
   Ich komme mir ganz schön blöd vor.
   I feel really stupid.
+  So ein blöder Affe!
+  What a jerk!
 
 Blödheit /ˈbløːthait/, die, (uncountable): stupidity
   Ich habe aus lauter Blödheit eine wichtige Datei gelöscht.
