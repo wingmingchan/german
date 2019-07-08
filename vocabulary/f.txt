@@ -206,7 +206,7 @@ Faulheit /ˈfaulhait/, die, (uncountable): laziness, idleness, sloth
   Der Grund für seine schlechten Noten ist einfach nur Faulheit.
   The reason for his bad grades is quite simply laziness.
 
-Faust /faust/, die: fist
+Faust /faust/, die, ..e: fist
   mit der Faust auf den Tisch hauen: to bang your fist on the table 
 
 Fazit /ˈfaːʦɪt/, das: conclusion
@@ -533,6 +533,8 @@ fördern /ˈfœrdɐn/: to promote, to support
   Hot spices are good for the digestion.
 
 Förderschule: special needs school
+
+Forelle /foˈrɛlə/, die, -n: trout
 
 Form /fɔrm/, Formen: form, shape
   Die Schüssel hatte eine ovale Form.
