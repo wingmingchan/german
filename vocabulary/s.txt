@@ -146,6 +146,14 @@ Schalter /ˈʃaltɐ/, der, -: switch, counter
   Bankschalter: bank counter
 
 scharf /ʃarf/: sharp, strong, hot, spicy, rigorous, tough
+  eine scharf geschliffene Klinge: a sharpened blade
+  sich an einer scharfen Kante stoßen: to bang yourself on a sharp edge
+  Fahr langsamer, die nächsten Kurven sind ziemlich scharf.
+  Slow down. The next few bends are pretty sharp.
+  Möchtest du scharfen oder süßen Senf?
+  Would you like hot or sweet mustard?
+  Sie hat ganz wunde Hände von den scharfen Putzmitteln.
+  Her hands are all sore from the caustic cleaning products.
 
 Schatten /ˈʃatən/, der: shadow, shade
   Er folgte mir wie ein Schatten.
@@ -665,6 +673,10 @@ schwören /ˈʃvøːrən/: to swear
 schwul /ʃvuːl/: gay, homosexual
   Papst führt privates Gespräch mit schwulem Mann
 
+Schwung /ʃvʊŋ/, der, ..e: force, impetus
+  einen Ball mit Schwung werfen: to throw a ball hard
+  Schwung holen / nehmen: to gather momentum
+
 Schwur /ʃvuːɐ/, der: oath
 
 schwur => schwören
@@ -759,7 +771,6 @@ selbst /zɛlpst/: in person, self
 selbstständig /ˈzɛlpstʃtɛndɪç/: independent
   an selbstständiges Arbeiten gewöhnt sein: to be used to working independently
   
-
 selbstverständlich /ˈzɛlpstfɛɐʃtɛntlɪç/: obvious, natural, naturally, of course
   Dass ich dir helfe, ist doch selbstverständlich.
   It goes without saying that I’ll help you.
@@ -787,6 +798,8 @@ Service ˈsøːɐvɪs/, der: service, custom service
   Free delivery is part of our service.
 
 setzen /ˈzɛʦən/: to sit, to set
+  sich aufs Pferd setzen: to get into the saddle
+  das Kind in den Kinderwagen setzen: to put the child in the stroller
   Frist gesetzt: deadline set
 
 sexuell /zɛˈksuɛl/: sexual
@@ -825,7 +838,7 @@ Sieg /ziːk/, der: victory, win
 
 siegeln /ˈziːɡəln/: to seal
 
-sieht => sehen
+sieh, siehe, sieht => sehen
 
 singen /ˈzɪŋən/: to sing
 
@@ -866,6 +879,10 @@ sofern /zoˈfɛrn/: if
   Sofern das Wetter schön ist, können wir am Wochenende in die Berge fahren.
   If the weather is nice, we can go to the mountains at the weekend.
 
+Sog /zoːk/, der, -e: suction, wake, vortex
+  in den Sog eines sinkenden Schiffs geraten
+  to get caught in the wake of a sinking ship
+
 sogar /zoˈɡaːɐ/: even, no less
   Sogar ein Hund kann das lernen!
   Even a dog can learn it!
@@ -885,7 +902,7 @@ Sohle /ˈzoːlə/, die, -n: sole (of your foot)
   Auf leisen Sohlen schlich sich die Raubkatze an.
   The big cat crept up noiselessly.
 
-Sohn m. /zoːn/: son
+Sohn /zoːn/, der, ..e: son
 
 solch /zɔlç/: such
   Solch eine Unverschämtheit!
@@ -1481,6 +1498,10 @@ suchen /ˈzuːxən/: to look for
   Herr Meier sucht ein Zimmer.
 
 Süden /ˈzyːdən/, der: south
+
+Suite /ˈsviːtə/, die, -n
+  eine Luxussuite buchen: to book a luxury suite
+  eine Suite für Klavier: a suite for piano
 
 Summe /ˈzʊmə/, die, -n: sum
   eine sechsstellige Summe verdienen: to earn a six-figure sum
