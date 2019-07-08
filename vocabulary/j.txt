@@ -21,6 +21,8 @@ jähren /ˈjɛːrən/: to be the + CARDINAL NUMBER anniversary of
   Am 13. März jährt sich ihr Todestag zum fünften Mal.
   On March 13th it's the fifth anniversary of her death.
 
+Jahrhundert /jaːɐˈhʊndɐt/, das, -e: century
+
 jährig /ˈjɛːrɪç/: lasting a year, one-year
 
 Januar /ˈjanuaːɐ/, der: January
@@ -89,6 +91,9 @@ jenseits: on the other side of, beyond
   Das ist jenseits unserer Vorstellungskraft.
   That's beyond our imagination.
 
+jetten /ˈdʒɛtn/: to jet off
+  um die Welt jetten
+
 jetzige /ˈjɛʦɪɡə/: current
 
 jetzt /jɛʦt/: now, these days
@@ -112,7 +117,7 @@ Journalismus /ʒurnaˈlɪsmʊs/, der, (uncountable): journalism
   investigativer Journalismus: investigative journalism
   Lokaljournalismus
 
-Journalist, Journalistin: journalist
+Journalist /ʒʊrnaˈlɪst/, Journalistin: journalist
   als freier Journalist arbeiten: to work as a freelance journalist
 
 journalistisch /ʒʊrnaˈlɪstɪʃ/: journalistic
