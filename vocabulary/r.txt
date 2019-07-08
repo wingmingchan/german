@@ -89,9 +89,12 @@ Ratschlag /ˈraːtʃlaːk/, der: piece of advice
   Auf solche Ratschläge kann ich verzichten!
   I can do without advice like that!
 
-Rätsel /ˈrɛːʦəl/, das: puzzle, riddle, mystery
+Rätsel /ˈrɛːʦəl/, das, -: puzzle, riddle, mystery
   Ich gebe dir ein Rätsel auf: …
   I've got a riddle for you: …
+  in Rätseln sprechen: to speak in riddles
+  Die Polizei steht vor einem Rätsel.
+  The police are baffled.
 
 rätselhaft /ˈrɛːʦəlhaft/: mysterious
   sein rätselhafter Tod: his mysterious death 
@@ -248,6 +251,11 @@ Regierung /reˈɡiːrʊŋ/, die: government
   Landesregierung: provincial government, state government
   Zentralregierung: central government
 
+Regierungssystem: regime
+
+Regime /reˈʒiːm/, das, -s
+  ein autoritäres Regime: an authoritarian regime
+
 Region /reˈɡjoːn/, die, -en: region
   eine abgelegene, dünn besiedelte Region: a remote, sparsely populated region
   Welche Hirnregionen sind beim Lesen aktiv?
@@ -390,6 +398,9 @@ Revolte /reˈvɔltə/, die, -n: revolt
 Rezept /reˈʦɛpt/, das: recipe, prescription
   ein Rezept für Käsekuchen: a recipe for cheesecake
 
+Rhabarber /raˈbarbɐ/, der, (uncountable): rhubarb
+  Rhabarberkompott: stewed rhubarb
+
 richten /ˈrɪçtən/: to direct, to point, to turn
 
 richtig /ˈrɪçtɪç/: right, correct
@@ -440,6 +451,16 @@ Rolltreppe /ˈrɔltrɛpə/, die, -n: escalator
   mit der Rolltreppe fahren: to go on the escalator
 
 Roman /roˈmaːn/, der: novel
+
+romantisch /roˈmantɪʃ/
+  Wie romantisch von ihm!
+  How romantic of him!
+  Die Romantische Straße berührt zahlreiche mittelalterliche Städte.
+  The Romantic Road goes through numerous medieval towns.
+  der romantische Maler Caspar David Friedrich: the Romantic artist Caspar David Friedrich
+
+rosa /ˈroːza/: pink
+  rosa Nelken: pink carnations
 
 Rosenmontag /ˈroːzənmoːntaːk/, der, -e: Monday before Ash Wednesday
   Am Rosenmontag finden vielerorts Karnevalsumzüge statt.
