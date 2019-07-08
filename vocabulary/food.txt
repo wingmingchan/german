@@ -9,11 +9,14 @@ Ananas /ˈananas/, die, -, -se: pineapple
   Ananassaft: pineapple juice
 
 Apfel /ˈapfəl/, Äpfel /ˈɛpfəl/, der
+  Apfelstrudel
 
 Appetit /apeˈtiːt/, der
   Guten Appetit!
 
 ========================================================
+
+backen /ˈbakən/: to bake, to fry
 
 Banane, die
 
@@ -122,6 +125,8 @@ Flasche /ˈflaʃə/, die: bottle
 
 Fleisch /flaiʃ/, das, -(e)s: meat
 
+Forelle /foˈrɛlə/, die, -n: trout
+
 Fressen /ˈfrɛsən/, das, (uncountable): food
 
 fressen: to eat, to guzzle
@@ -174,6 +179,8 @@ Hauptgericht, das: main course
 Helle, das: light beer
 
 Himbeere, die: raspberry
+
+Holunder /hoˈlʊndɐ/, der, -: elder(berry) 接骨木
 
 Honig /ˈhoːnɪç/, der, Honige: honey
 
@@ -388,12 +395,18 @@ Schokolade, die
 
 Schwarzbrot, das: black bread
 
+Schwein /ʃvain/, das: pork
+
 Schweinefleisch, das: pork
 
 schwer /ʃveːɐ/: heavy
 
 Senf, der: mustard
   heiße Würstchen mit Senf: hot frankfurters with mustard
+
+Serviette /zɛrˈvjɛtə/, die: napkin
+  sich mit der Serviette den Mund abwischen
+  to wipe your mouth with your napkin
 
 Soße /ˈzoːsə/, die, -n: sauce
 
@@ -412,9 +425,7 @@ Spinat /ʃpiˈnaːt/, der
 
 Sprudel /ˈʃpruːdəl/, der, -: sparkling mineral water, soda
 
-Serviette /zɛrˈvjɛtə/, die: napkin
-  sich mit der Serviette den Mund abwischen
-  to wipe your mouth with your napkin
+Stäbchen /ˈʃtɛːpçən/, das, -: chopstick
 
 Supermarkt, der
 
@@ -423,8 +434,6 @@ Suppe, die
 süß /zyːs/: sweet
 
 Süße Senf, der: sweet mustard
-
-Schwein /ʃvain/, das: pork
 
 ========================================================
 
@@ -463,6 +472,8 @@ Vorspeise /ˈfoːɐʃpaizə/, die
   Möchten Sie eine Vorspeise?
 
 ========================================================
+
+Wacholder /vaˈxɔldɐ/, der, -: juniper 杜松子
 
 Wasser, das
 
