@@ -101,6 +101,13 @@ Hammer /ˈhamɐ/, der, Hämmer: hammer
   mit dem Hammer einen Nagel in die Wand schlagen
   to hammer a nail into the wall
 
+hämmern /ˈhɛmɐn/: to hammer, to pound, to throb
+  Sie hämmerten und sägten den ganzen Tag.
+  They were hammering and sawing all day long.
+  mit den Fäusten gegen die Tür hämmern
+  to pound against the door with your fists
+  mit heftig hämmerndem Herzen: with your heart pounding
+
 Hand /hant/, die, ..e: hand
   jdm die Hand geben / schütteln: to give sb your hand/to shake hands with sb
   zu Händen: for the attention of
@@ -145,6 +152,12 @@ Häschen /ˈhɛːsçən/, das, -: hare
 *Hase /ˈhaːzə/, der, -n: hare
 
 Hass /has/, der: hate, hatred
+
+hassen /ˈhasən/: to hate
+  Ich hasse dich!
+  I hate you!
+  Ich hasse es, zu spät zu kommen.
+  I hate being late.
 
 hässlich /ˈhɛslɪç/: ugly
   Diese Betonblocks sind einfach nur hässlich.
@@ -335,7 +348,7 @@ Hemd /hɛmt/, das, Hemden: shirt
   Er trug zur Hose Hemd und Krawatte.
   He was wearing a shirt and tie with the pants.
 
-Henne /ˈhɛnə/, die: hen
+Henne /ˈhɛnə/, die, -n: hen
   Die Henne hat ein Ei gelegt.
   The hen has laid an egg. 
 
@@ -376,6 +389,15 @@ herausputzen: to dress up
 Herbst /hɛrpst/, der: autumn
    Bald wird es Herbst.
    It'll soon be fall.
+
+Herd /heːɐt/, der, -e: stove, range, epicenter, focus
+  Er stand am Herd und rührte die Suppe um.
+  He was standing at the stove stirring the soup.
+  Brandherd: the source of the fire
+
+Herde /ˈheːɐdə/, die, -n: herd, flock
+  Der Schäfer hütet seine Herde.
+  The shepherd tends his flock.
 
 Herkunft /ˈheːɐkʊnft/, die: descent, origin, derivation, background
   => Abstammung
@@ -427,10 +449,18 @@ herzlich /ˈhɛrʦlɪç/: warm, cordial
 
 Herzog /ˈhɛrʦoːk/, Herzogin: duke/duchess
 
+Heuchelei /hɔyçəˈlai/, die, -en: hypocrisy
+  Das ist alles bloß Heuchelei.
+  That's all pure hypocrisy.
+
+heurige /ˈhɔyrɪɡə/: this year's
+  Die heurige Ernte war gut.
+  This year's harvest was good.
+
 heutig, heutige /ˈhɔytɪɡə/: today's, contemporary, modern
   am heutigen Nachmittag: this afternoon
 
-heutige: today’s
+heutige: today's
 
 hielt => halten
 
@@ -569,6 +599,8 @@ hoch /hoːx/, hohe /ˈhoːə/: tall, high
 Hochburg /ˈhoːxbʊrk/, die, -en: stronghold, bastion
   eine Hochburg des Rechtsextremismus: a bastion of right-wing extremism
 
+Hochebene, die: plateau
+
 Hochzeit /ˈhɔxʦait/, die: wedding
   die kirchliche/standesamtliche Hochzeit
   the church wedding/civil wedding ceremony
@@ -627,6 +659,8 @@ Hölle /ˈhœlə/, die: hell
   in die Hölle kommen: to go to hell
   jdm das Leben zur Hölle machen: to make sb’s life hell 
 
+Holunder /hoˈlʊndɐ/, der, -: elder(berry) 接骨木
+
 Holz /hɔlʦ/, das, ..er: wood
   edle Hölzer: precious woods
 
@@ -636,6 +670,9 @@ Honig /ˈhoːnɪç/, der, Honige: honey
 Hörbuch /ˈhøːɐbuːx/, das: audio book
   Er hört beim Autofahren gern Hörbücher.
   He likes to listen to audio books when driving.
+
+Hornisse /hɔrˈnɪsə/, die, -n: hornet
+  Hornissenschwarm: swarm of hornets
 
 Hose /ˈhoːzə/, Hosen, die: trousers
   Die Hose ist mir zu eng.
@@ -663,6 +700,10 @@ Huhn /huːn/, das, Hühner: chicken, hen
   Hühner halten: to keep chickens
 
 Hummer /ˈhʊmɐ/, der, -: lobster
+
+Humor /huˈmoːɐ/, der, (uncountable)
+  Er hat viel / keinen Humor.
+  He has a good/no sense of humor.
 
 Hund /hʊnt/, der; Rüde, der; Hündin, die
   Ist das ein Rüde oder eine Hündin?
