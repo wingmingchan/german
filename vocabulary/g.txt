@@ -68,6 +68,10 @@ Gatt, das: stern, hole
 
 Gatte/Gattin: spouse
 
+Gebärde /ɡəˈbɛːɐdə/, die, -n: gesture
+  die Gebärdensprache der Gehörlosen
+  the sign language used by the deaf
+
 Gebet /ɡəˈbeːt/, das, -e: prayer
   die Hände zum Gebet falten
   to fold your hands in prayer
@@ -373,6 +377,9 @@ geltend: current, established, applicable, valid, in force
 
 gemächlich /ɡəˈmɛːçlɪç/: leisurely , unhurried
 
+*Gemälde /ɡəˈmɛːldə/, das, -: painting
+  ein Gemälde von Picasso: a painting by Picasso
+
 gemein /ɡəˈmain/: mean, nasty, cruel, annoying
   eine gemeine Lüge: a cruel lie
   Jetzt fängt es auch noch zu regnen an, wie gemein!
@@ -486,6 +493,10 @@ gering /ɡəˈrɪŋ/: low, small
 Geringfügigkeit: pettiness, triviality
 
 Geröll /ɡəˈrœl/, das: debris, pebbles, gravel
+
+Geruch /ɡəˈrʊx/, der, ..e: smell
+  Ihr Parfüm hatte einen süßlichen Geruch.
+  Her perfume has a cloying smell.
 
 gerundet: rounded
 
@@ -694,7 +705,7 @@ Gift, das: poison
 
 gilt => gelten
 
-Gin, der
+Gin /dʒɪn/, der
 
 ging => gehen
 
