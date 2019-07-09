@@ -264,6 +264,13 @@ Region /reˈɡjoːn/, die, -en: region
 regional /reɡjoˈnaːl/: regional
   regionale Spezialitäten: regional specialties
 
+Reglement /reɡləˈmãː/, das, -s: regulations (plural), rules (plural)
+  ein strenges Reglement: strict rules
+
+reglementieren /reɡlemenˈtiːrən/: to regulate
+  das streng reglementierte Leben in einer Haftanstalt
+  the strictly regimented life in a correctional facility
+
 regnen /ˈreːɡnən/: to rain
   Es regnete in Strömen.
   It's pouring with rain.
@@ -361,6 +368,8 @@ Rentner, Rentnerin: pensioner, senior (citizen)
 
 Renteneintritt, der: retirement
 
+Requiem /ˈreːkviɛm/, das, -s
+
 Reservierung: reservation
 
 Ressort /reˈsoːɐ/, das, -s: department
@@ -451,6 +460,11 @@ Rolltreppe /ˈrɔltrɛpə/, die, -n: escalator
   mit der Rolltreppe fahren: to go on the escalator
 
 Roman /roˈmaːn/, der: novel
+
+Romantik /roˈmantɪk/, die, (uncountable)
+  die deutsche / französische Romantik: German/French Romanticism
+  Er hat keinen Sinn für Romantik.
+  He has no sense of the romantic.
 
 romantisch /roˈmantɪʃ/
   Wie romantisch von ihm!
