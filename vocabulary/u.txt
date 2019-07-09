@@ -171,13 +171,15 @@ Ufer /ˈuːfɐ/, das: bank, shore
   Der Fluss ist über die Ufer getreten.
   The river burst its banks.
 
-Uhr /uːɐ/, die: watch, clock
+Uhr /uːɐ/, die, -en: watch, clock
   Meine Uhr ist stehen geblieben.
   My watch has stopped.
 
 Uhrzeit /ˈuːɐʦait/, die, -en: time
   Um welche Uhrzeit soll ich dich abholen?
   What time should I pick you up?
+
+△um /ʊm/
 
 umbinden /ˈʊmbɪndən/:
   jdm/sich etw. umbinden: to tie sth around sb/sth
@@ -526,7 +528,13 @@ ursprünglich /ˈuːɐʃprʏŋlɪç/: original, initial
   Ursprünglich wollten wir fliegen, haben uns aber nun doch für die Bahn entschieden.
   We wanted to fly originally but then we decided to go by train after all.
 
-urteilen /ˈuːɐtailən/: to judge
+△Urteil /ˈʊrtail/, das, -e: judgement, verdict, sentence
+  Dazu kann ich kein Urteil abgeben.
+  I'm no judge of that.
+  Das Urteil lautet auf lebenslange Haft.
+  The sentence is life imprisonment.
+
+△urteilen /ˈʊtailən/: to judge
   Ihrem Gesichtsausdruck nach zu urteilen hat sie eine gute Nachricht erhalten.
   To judge by her expression she's had some good news.
 
