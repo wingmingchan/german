@@ -27,6 +27,8 @@ Haft /haft/, die, Haft: custody, imprisonment
 
 -haft: -like
 
+Haftanstalt, die: prison, detention center
+
 Haftbefehl /ˈhaftbəfeːl/, der, -e: warrant
   gegen jdn einen Haftbefehl erlassen
   to issue a warrant for sb's arrest
@@ -125,6 +127,8 @@ handeln /ˈhandəln/: to deal, to trade, to bargin, to negotiate, to act
   Sie lässt nicht mit sich handeln.
   He refuses to negotiate.
   es handelt sich um jdn / etw.: to be about sb/sth
+  Es handelt sich hier um einen Notfall.
+  It's an emergency.
 
 Handlung /ˈhandlʊŋ/, die: act, action
 
@@ -496,7 +500,7 @@ Himmel /ˈhɪməl/, der: sky
 
 himmlisch /ˈhɪmlɪʃ/: heavenly, divine
 
-hin /hɪn/: in the direction of, till, to, toward
+△hin /hɪn/: in the direction of, till, to, toward
   ein Zimmer zum Hof hin: a room facing the courtyard
   Bis zu meinem Geburtstag ist es noch so lange hin!
   It's still a long time till my birthday.
@@ -593,7 +597,7 @@ hissen /ˈhɪsən/: to hoist
 
 Hitze /ˈhɪʦə/, die: heat
 
-hoch /hoːx/, hohe /ˈhoːə/: tall, high
+▲hoch /hoːx/, hohe /ˈhoːə/: tall, high
   das hohe C
 
 Hochburg /ˈhoːxbʊrk/, die, -en: stronghold, bastion
@@ -683,9 +687,17 @@ Hosen-: trouser-
 
 Hosentasche, die: trouser pocket
 
-hübsch /hʏpʃ/: pretty
+Hubraum /ˈhuːpraum/, der, ..e: cubic/engine capacity
+  Das neue Modell hat zwei Liter Hubraum.
+  The new model has an engine capacity of two liters.
+
+hübsch /hʏpʃ/: pretty, nice, tidy
   Sie ist wirklich ein hübsches Mädchen.
   She really is a pretty girl.
+  Sehr hübsch, hast du das selbst komponiert?
+  Very nice – did you write it yourself?
+  Er hat ein hübsches Sümmchen dafür bezahlt.
+  He paid a tidy sum for it.
 
 Hülle /ˈhʏlə/, die: cover, case, holder, blanket, sheath, shroud
   Bitte steck die Dokumente wieder in die Hülle zurück.
@@ -719,6 +731,13 @@ hungrig /ˈhʊŋrɪç/: hungry
 
 hüpfen /ˈhʏpfən/: to hop
   auf einem Bein hüpfen: to hop on one leg
+
+▲Husten /ˈhuːstən/, der, (uncountable): cough
+  Husten haben / bekommen: to have/get a cough
+
+▲husten /ˈhuːstən/: to cough
+  Sie hat die ganze Nacht gehustet.
+  She coughed all night long.
 
 Hut, der, Hüte /huːt/: hat
 
