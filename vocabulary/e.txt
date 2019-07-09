@@ -111,6 +111,11 @@ Ei /ai/, das, Eier: egg
 ei: oh
   Ei, ei! There!
 
+Eiche /ˈaiçə/, die, -n: oak
+  Die alte Eiche soll gefällt werden.
+  The old oak tree is to be cut down.
+  Möbel aus Eiche: oak furniture
+
 Eid /ait/, der: oath
 
 Eigelb /ˈaiɡɛlp/, das, -: yolk
@@ -625,6 +630,8 @@ Enge /ˈɛŋə/, die: narrowness, tightness
   the lack of space in the overcrowded subway
   jdn in die Enge treiben: to drive sb into a corner
 
+England /ˈɛŋlant/
+
 Engländer, der, Engländerin, Engländer
 
 Engpass /ˈɛŋpas/, der: bottleneck, narrow pass
@@ -636,6 +643,13 @@ Englisch /ˈɛŋlɪʃ/
 Enquete /ãˈkɛːt(ə)/, die, -n: official inquiry
 
 ent-: to express that sth is taken away, a process is reversed, movement away from somewhere, the beginning of an action
+
+entbehren /ɛntˈbeːrən/: to do without
+  Wir können im Moment keinen unserer Mitarbeiter entbehren.
+  At the moment we can't spare any of our staff.
+  etw. entbehrt einer Sache: sth has no sth
+  Deine Vorwürfe entbehren jeglicher Grundlage.
+  Your accusations are completely unfounded.
 
 Entchen, das, -: duck, duckling
 
@@ -722,6 +736,12 @@ entsprechend /ɛntˈʃprɛçənt/: appropriate, relevant
   => passend
   ein den Leistungen entsprechendes Gehalt: a performance-related salary
 
+Endstation /ˈɛntʃtaʦjoːn/, die, -en: terminal, last stop
+  Ich fahre bis zur Endstation.
+  I'm going to the last stop.
+  Für viele Kinder bedeutet die Förderschule Endstation Behindertenwerkstatt.
+  For many children who attend special needs schools, the end of the line is shelter workshops.
+
 entstehen /ɛntˈʃteːən/: to originate, to arise, to come into being, to be created
   Wie entstehen Blitz und Donner?
   How does thunder and lightning form?
@@ -748,6 +768,11 @@ Entwurf /ɛntˈvʊrf/, der: design, draft, sketch
 Epidemie /epideˈmiː/, die, -n: epidemic
   Im Krisengebiet ist eine Choleraepidemie ausgebrochen.
   A cholera epidemic has broken out in the crisis-hit region.
+
+Epos /ˈeːpɔs/, das, Epen: epic
+  Heldenepos: heroic epic
+  das legendäre Südstaaten-Epos „Vom Winde verweht‟
+  the legendary epic of the southern states, “Gone with the Wind”
 
 er /eːɐ/: he, it
 
@@ -784,6 +809,8 @@ erfahren /ɛɐˈfaːrən/ to learn, to hear, to find out, to experience, to suff
   eine erfahrene Lehrerin: an experienced teacher
 
 Erfahrung /ɛɐˈfaːrʊŋ/, die: experience
+  Sie hat viel Erfahrung mit Tieren.
+  She has a lot of experience with animals.
   Erfahrungen sammeln: to gain experience
 
 erfinden /ɛɐˈfɪndən/: to invent
@@ -1132,7 +1159,7 @@ erzürnen /ɛɐˈʦʏrnən/: to anger, to incense, to get angry
 
 erzürnt => erzürnen
 
-es /ɛs/: it, there
+△es /ɛs/: it, there
   Schau mal das Kind, wie brav es spielt.
   Look at how nicely the child is playing.
   Es regnet.
@@ -1154,6 +1181,9 @@ Etat /eˈtaː/, der, -s: budget
   den Etat beraten / beschließen: to discuss/ set the budget
 
 Ethikunterricht, der: ethics
+
+ethisch /ˈeːtɪʃ/: ethical
+  ethische Argumente anführen: to put forward ethical arguments
 
 etliche /ˈɛtlɪçə/: quite a few, a number of
   Das ist etliche Jahre her.
