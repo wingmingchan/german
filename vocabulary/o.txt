@@ -2,6 +2,8 @@
 O /oː/ O wie Otto, Ö wie Österreich /ˈøːstəʁaɪç/
 ========================================================
 
+△ob /ɔp/
+
 Obatzter, Obatzda, Obazda
 
 Obdachlos /ˈɔpdaxloːs/: homeless
@@ -27,6 +29,15 @@ Oberbürgermeister, Oberbürgermeisterin: mayor, mayoress
 Oberschenkel /ˈoːbɐʃɛŋkəl/, der: thigh
 
 Oberst /ˈoːbɐst/, der, -s, -e: colonel
+
+Objekt /ɔpˈjɛkt/, das, -e: object, property
+  ein unbekanntes Flugobjekt: an unidentified flying object
+  Sie war das Objekt der Begierde vieler Männer.
+  She was an object of desire for many men.
+  ein interessantes Objekt angeboten bekommen
+  to receive an offer for an interesting property
+  ein direktes / indirektes Objekt
+  a direct/an indirect object
 
 Obst /oːpst/, das, Obst(e)s: fruit
 
@@ -154,7 +165,11 @@ Ort /ɔrt/, der, Orte: place
 
 Osten /ˈɔstən/, der: east
 
-Österreich /ˈøːstəraiç/: Austria
+Ostern /ˈoːstɐn/, das, -: Easter
+  An / Zu Ostern suchen wir Ostereier.
+  At Easter, we hunt for Easter eggs.
+
+▲Österreich /ˈøːstəraiç/: Austria
 
 Österreicher, der, Österreicherin, Österreicher
 
