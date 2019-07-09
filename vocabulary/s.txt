@@ -7,6 +7,10 @@ Saal /zaːl/, der, Säle /ˈzɛːlə/: room, hall
 
 Saar, die: a river in NE France and W Germany
 
+Sabotage /zaboˈtaːʒə/, die, -n
+  Es handelt sich vermutlich um Sabotage.
+  It's probably a case of sabotage.
+
 Sache /ˈzaxə/, die: thing
   Was hältst du eigentlich von der ganzen Sache?
   What do you actually think about the whole thing? 
@@ -33,11 +37,17 @@ Sahne /ˈzaːnə/, die, (uncountable): cream
   Sahne für den Kuchen steif schlagen: to whip some cream for the cake 
   saure Sahne: sour cream
 
+Sakko /ˈzako/, der-das, -s: jacket
+  Du solltest ein anderes Sakko dazu anziehen.
+  You should wear a different jacket with that.
+
 Salat /zaˈlaːt/, der: lettuce, salad
   Salat aus dem eigenen Garten: home-grown lettuce
   einen gemischten Salat essen: to have a mixed salad
 
-Salz /zalʦ/, das, Salze: salt
+Salz /zalʦ/, das, -e: salt
+  An der Suppe fehlt eine Prise Salz.
+  The soup needs a pinch of salt.
 
 Samen /ˈzaːmən/, der, Samen: seed, sperm
 
@@ -50,6 +60,8 @@ sämtlich /ˈzɛmtlɪç/: all
 
 Sand /zant/, der, -e: sand
   im Sand spielen: to play in the sand
+
+sandte => senden
 
 sanft /zanft/: gentle, soft
   ein sanftes Wesen haben: to have a gentle nature
@@ -386,6 +398,14 @@ Schlüssel /ˈʃlʏsəl/, der: key
 schmähen /ˈʃmɛːən/: to revile
   Sie schmähten ihn als Feigling.
   They reviled him as a coward.
+
+schmal /ˈʃmaːl/: narrow, thin, meager
+  Der Weg ist zu schmal, um nebeneinaderzugehen.
+  The path is too narrow to walk side by side.
+  Sie machte geringschätzig die Lippen schmal.
+  She drew in her lips contemptuously.
+  Das können wir von unserem schmalen Budget nicht finanzieren.
+  We can't pay for that out of our meager budget.
 
 Schmatz /ʃmaʦ/, der: smacker
   Sie gab ihm einen dicken Schmatz auf die Backe.
@@ -786,8 +806,17 @@ seltsam /ˈzɛltzaːm/: strange, odd
   That seems strange to me.
 
 senden /ˈzɛndən/: to broadcast
+  Das ZDF sendet den Spielfilm ab 21:45 Uhr.
+  ZDF is broadcasting the movie at 9.45 p.m.
+  Sendemast: broadcasting tower
 
 Senf /zɛnf/, der: mustard
+
+seriös /zeˈrjøːs/: reliable, serious
+  Sie macht immer einen sehr seriösen Eindruck.
+  She always gives an impression of being very reliable.
+  Ist das denn ein seriöses Projekt?
+  Is this a serious project then?
 
 Service /zɛrˈviːs/, das: dinner/coffee/tea service
 
@@ -982,7 +1011,7 @@ Spalte /ˈʃpaltə/, die, -n: fissure, crevice, crack, column
   There were deep fissures in the rock.
   zwei Spalten pro Seite drucken: to print two columns to a page
 
-Spanien
+Spanien /ʃpaːniən/
 
 Spanier, der, Spanierin, Spanier
 
@@ -1000,6 +1029,10 @@ Sparbuch /ˈʃpaːɐbuːx/, das: passbook
 sparen /ˈʃpaːrən/: to save, to save up
   Er hat schon 5.000 Euro gespart.
   He has already saved 5,000 euros.
+
+Spargel /ˈʃparɡəl/, der, -: asparagus
+  Pro Person rechnen wir fünf Stangen Spargel.
+  We reckon on five spears of asparagus per person.
 
 Sparkasse /ˈʃpaːɐkasə/, die, -n: savings bank
 
@@ -1048,6 +1081,9 @@ Spezi /ˈʃpeːʦi/, der-das, -: cola and lemonade
 
 speziell /ʃpeˈʦjɛl/: special
   ein ganz spezielles Angebot: a very special offer
+
+Sphinx /sfɪŋks/, die, -e: sphinx
+  die große Sphinx von Gizeh: the Great Sphinx of Giza
 
 Spiegel /ˈʃpiːɡəl/, der: mirror
   sich im Spiegel betrachten: to look at yourself in the mirror
@@ -1122,10 +1158,6 @@ spürbar /ˈʃpyːɐbaːɐ/: noticeable , perceptible
   Auch bei uns hat spürbar die Erde gebebt.
   Even where we are you could feel the earth tremor.
 
-Stadt /ʃtat/, die, Städte /ˈʃtɛ(ː)tə/: town, city
-
-Stadtrand /ˈʃtatrant/, der, Stadtränder /ˈʃtatrɛndɐ/: outskirts
-
 Staat /ʃtaːt/, der, Staaten: state, country
   ein demokratischer Staat: a democratic state
 
@@ -1139,7 +1171,9 @@ Stäbchen /ˈʃtɛːpçən/, das, -: chopstick
 
 Stadion /ˈʃtaːdjɔn/, das, Stadien: stadium
 
-Stadt /ʃtat/, Städte, die: city
+Stadt /ʃtat/, die, Städte /ˈʃtɛ(ː)tə/: town, city
+
+Stadtrand /ˈʃtatrant/, der, Stadtränder /ˈʃtatrɛndɐ/: outskirts
 
 Stadtteil /ˈʃtattail/, der: district
 
@@ -1478,6 +1512,11 @@ Struktur /ʃtrʊkˈtuːɐ/, die, -en: structure, texture
   die soziale Struktur der Gesellschaft: the social structure of society
   ein Gewebe mit einer rauen Struktur: a fabric with a coarse texture
 
+Studium /ˈʃtuːdjʊm/, das, Studien: studies, study
+  Sie fängt im Herbst ein Studium in Hannover an.
+  She begins her studies in Hannover in the fall.
+  wissenschaftliche Studien: scientific studies
+
 stumm /ʃtʊm/: dumb, silent
   Seit dem traumatischen Vorfall ist das Kind stumm.
   The child has not spoken since that traumatic event.
@@ -1499,7 +1538,17 @@ stürzen /ˈʃtʏrʦən/: to fall, to drop, to rush, to throw, to bring down, to
   Der Aktienkurs stürzte ins Bodenlose.
   The share price took a dramatic tumble.
 
-suchen /ˈzuːxən/: to look for
+Subjekt /zʊpˈjɛkt/, das, -e: subject, individual
+  Subjekt, Prädikat und Objekt identifizieren: to identify the subject, predicate and object
+  kriminelle / verkommene Subjekte: criminal/degenerate individuals
+
+Subkontinent /ˈzʊpkɔntinɛnt/, der, -e: subcontinent
+  der indische Subkontinent: the Indian subcontinent
+
+▲Suche /ˈzuːxə/, die, -n: search
+  die Suche nach Überlebenden: the search for survivors
+
+▲suchen /ˈzuːxən/: to look for
   Herr Meier sucht ein Zimmer.
 
 Süden /ˈzyːdən/, der: south
@@ -1532,6 +1581,10 @@ Süßigkeit /ˈzyːsɪçkait/, die, -en: candy
 Symbol /zʏmˈboːl/, das: symbol
   die Taube als Symbol des Friedens
   the dove as a symbol of peace
+
+Symbolik /zʏmˈboːlɪk/, die, (uncountable)
+  Die Taube steht in der christlichen Symbolik für den Heiligen Geist.
+  In Christian symbolism, the dove represents the Holy Spirit.
 
 sympathisch /zʏmˈpaːtɪʃ/: likable, nice
   Sie ist mir nicht besonders sympathisch.
