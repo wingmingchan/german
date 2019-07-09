@@ -115,6 +115,8 @@ Darstellung /ˈdaːrʃtɛlʊŋ/, die, -en: representation, account, portrayal
   Ihre Darstellung der Maria Stuart war ergreifend.
   Her portrayal of Mary, Queen of Scots, was moving.
 
+△das /das/
+
 Daten /ˈdaːtən/, pl: data
   die technischen Daten eines Geräts: the technical specs of a device
 
@@ -242,6 +244,8 @@ derzeit /ˈdeːɐˈʦait/: at the moment
   Das kommt derzeit nicht in Frage.
   That's out of the question at the moment.
 
+△des /dɛs/
+
 Desaster /deˈzastɐ/, das: disaster
   Eine schlechte Note ist doch noch kein Desaster!
   A bad grade's not the end of the world!
@@ -293,6 +297,10 @@ dichten /’dɪçtən/: to write
 
 Dichter
 
+Dichtung /’dɪçtʊŋ/, die, -en: literature
+  die Deutsche Akademie für Sprache und Dichtung
+  the German Academy for Language and Literature
+
 dick /dɪk/: fat, thick
   <=> dünn
   Er ist dick geworden.
@@ -304,6 +312,9 @@ Dieb /diːp/: thief
 
 Dienst /diːnst/, der: service
   der öffentliche Dienst: the civil service
+
+Diesel /ˈdiːzəl/, der, -: diesel
+  Diesel tanken: to use diesel fuel
 
 Ding, das: thing
   Wir konnten nur wenige persönliche Dinge mitnehmen.
@@ -522,8 +533,10 @@ Durst /dʊrst/, der: thirst
 
 durstig /ˈdʊrstɪç/: thirsty
 
-düster /ˈdyːstɐ/: gloomy, dull, somber
+▲düster /ˈdyːstɐ/: gloomy, dull, somber
   ein Bild in düsteren Farben: a picture in somber colors
+  ein düsteres Bild von der Zukunft malen: to paint a bleak picture of the future
+  düsteren Gedanken nachhängen: to think gloomy thoughts
 
 Dutzend, das: dozen
 
