@@ -49,9 +49,15 @@ Bahnsteig /ˈbaːnʃtaik/, der: track, platform
   Die Gleise 2 und 3 liegen am gleichen Bahnsteig.
   Tracks 2 and 3 are on the same platform.
 
+Bakterien /bakˈteːrjən/, pl
+  Bakterien, die Infektionen verursachen
+  bacteria that cause infections
+
 bald /balt/: soon
 
 Balken /ˈbalkən/, der: beam
+
+Balkon /balˈkɔŋ/, der, -e/-s: balcony
 
 Ball /bal/, der: ball
   Fußball: soccer
@@ -113,6 +119,10 @@ bat, baten => bitten
 Bau, der: building, construction
   mit dem Bau des Kindergartens beginnen
   to start with the construction of the kindergarten
+
+baufällig /ˈbaufɛlɪç/: dilapidated, ramshackle
+  Der Turm war baufällig und musste abgerissen werden.
+  The tower was in disrepair and had to be torn down.
 
 Baugrube, die: foundation pit, excavation
 
@@ -209,6 +219,10 @@ befallen /bəˈfalən/: to affect, to infest, to afflict
   ein von Blattläusen befallener Strauch: a shrub infested with aphids (蚜虫)
   Als er nicht heimkam, befiel mich ein Gefühl der Unruhe.
   When he didn't come home I was seized with a sense of anxiety.
+
+befassen /bəˈfasən/: to deal with, to concern yourself with
+  Mit diesem Problem habe ich mich noch nicht befasst.
+  I haven't addressed that problem yet.
 
 Befehl /bəˈfeːl/, der, -e: order, command
   Der Offizier gab den Befehl zum Angriff.
@@ -820,6 +834,14 @@ bevorstehen /bəˈfoːɐʃteːən/: to be imminent, to be coming up, to be in th
   Ich wusste ja nicht, was mir noch bevorsteht.
   Well, I didn't know what I had in store for me.
 
+bevorzugen /bəˈfoːɐʦuːɡən/: to favor, to give preference to, to prefer
+  Privatpatienten werden in den Arztpraxen bevorzugt behandelt.
+  Privately insured patients are given preferential treatment at doctor's offices.
+  Ich bevorzuge es, nicht zu spät ins Bett zu gehen.
+  I prefer not to go to bed too late.
+
+bevorzugt: preferred
+
 bewachen /bəˈvaxən/: to guard, to watch over
   ein bewachter Parkplatz: an attended parking lot
 
@@ -905,13 +927,22 @@ bezwingen /bəˈʦvɪŋən/: to defeat
   Am Ende konnte der Champion den Neuling in 5 Sätzen bezwingen.
   In the end the champion managed to overcome the newcomer in 5 sets.
 
+Bibel /ˈbiːbəl/, die, -n: bible
+  Der Priester liest der Gemeinde ein Gleichnis aus der Bibel vor.
+  The priest reads a parable from the Bible to the congregation.
+
 Biber /ˈbiːbɐ/, der, Biber: beaver
 
-Bibliothek /biblioˈteːk/, die: library
+Bibliothek /biblioˈteːk/, die, -en: library
   sich aus der Universitätsbibliothek ein Buch ausleihen
   to borrow a book from the university library
 
 biegen /ˈbiːgən/: to bend, to turn
+  biege, bog, gebogen
+  Sie bog die Äste zur Seite.
+  She bent the branches aside.
+  Das Auto bog um die Ecke.
+  The car turned the corner.
 
 *Bier, das: beer
 
@@ -941,6 +972,9 @@ Bildung /ˈbɪldʊŋ/, die: education, forming
   eine Partei mit der Regierungsbildung beauftragen
   to assign a party the task of forming a government
 
+Billard /ˈbɪljart/, das, (uncountable): billards
+  Billardtisch: billiard table
+
 billig /ˈbɪlɪç/: cheap
    einen billigen Flug /fluːk/ buchen: to book a cheap flight 
 
@@ -952,6 +986,12 @@ binnen: within
   binnen einem Monat/eines Monats: within a month
 
 Biologe /bioˈloːɡə/: biologist
+
+△bis /bɪs/: until
+  Ich bin noch bis übermorgen in der Stadt.
+  I'll be in town till the day after tomorrow.
+  Von hier bis Wien sind es 350 km.
+  It's 350 km from here to Vienna.
 
 bisher /bɪsˈheːɐ/: up to now, so far
   Alles bleibt wie bisher.
@@ -1197,6 +1237,8 @@ brechen /ˈbrɛçən/: to break
   Sie brach das Brot in zwei Teile.
   She broke the bread in two. 
 
+brecht => brechen
+
 Brei /brai/, der, Breie: porridge, baby food
 
 breit /brait/: wide, broad
@@ -1267,9 +1309,11 @@ Bub /buːp/, der, Buben: boy
 
 Büblein, das: little boy
 
-Buch /buːx/, das, Bücher /ˈbyːçɐ/: book
+▲Buch /buːx/, das, Bücher /ˈbyːçɐ/: book
 
-buchen: to book
+▲Buche /ˈbuːxə/, die, -n: beech 櫸木
+
+▲buchen /ˈbuːxən/: to book
    eine Reise online /ˈɔnlain/ buchen: to book a trip online
 
 Buchführung /ˈbuːxfyːrʊŋ/: accounting, bookkeeping
