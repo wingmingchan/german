@@ -692,6 +692,14 @@ Verzögerung: deferral, delay, lag, retardation
 
 vgl. vergleiche: cf.
 
+Vieh /fiː/, das, (uncountable): livestock, critter
+  das Vieh füttern / versorgen: to feed/see to the livestock
+  das Vieh auf die Weide treiben: to drive the cattle onto the range
+  Dieses blöde Vieh hat mich gekratzt!
+  That stupid critter scratched me!
+
+△vielleicht /fiˈlaiçt/
+
 vielmals /ˈfiːlmaːls/: very much
   Ich bitte vielmals um Verzeihung!
   I am so very sorry!
@@ -701,9 +709,15 @@ vielmehr /ˈfiːlmeːɐ/: rather
 vielschichtig /ˈfiːlʃɪçtɪʃ/: complex
   ein vielschichtiges Thema / Problem: a complex subject/problem
 
-vierte: fourth
+vier /fiːɐ/
 
-Viertel /ˈfirtəl/, das: quarter
+vierte /ˈfiːɐtə/: fourth
+
+△Viertel /ˈfirtəl/, das, -: quarter
+
+△vierzehn /ˈfɪrʦeːn/
+
+△vierzig /ˈfɪrʦɪç/
 
 Visum /ˈviːzʊm/, Visa /ˈviːza/, das: visa
   Für die Einreise nach Nepal benötigt man ein gültiges Visum.
@@ -745,6 +759,14 @@ vollkommen /fɔlˈkɔmən/: complete, perfect
 
 Vollkorn- /ˈfɔlkɔrn/: whole-wheat
   Vollkornbrot: whole-wheat bread 
+
+vollständig /ˈfɔlʃtɛndɪç/: complete
+  Leider ist das Puzzle nicht mehr vollständig.
+  Unfortunately the jigsaw puzzle is no longer complete.
+
+△vom /fɔm/
+
+△von /fɔn/
 
 vor allem: above all
 
@@ -886,10 +908,6 @@ Vorsprung /ˈfoːɐʃprʊŋ/, der (M): lead, projection
   Er gewann mit drei Punkten Vorsprung.
   He won by three points.
 
-vollständig /ˈfɔlʃtɛndɪç/: complete
-  Leider ist das Puzzle nicht mehr vollständig.
-  Unfortunately the jigsaw puzzle is no longer complete.
-
 vorstellen /ˈfoːɐʃtɛlən/: to imagine, to understand sth by sth,
 to introduce, to come/go for an interview, to present, to put forward(s)
   Unter gutem Unterricht stelle ich mir aber etwas anderes vor!
@@ -929,8 +947,10 @@ vorverlegen /ˈfoːɐfɛɐleːɡən/: to move/bring forward(s)
 
 vorwärts: forward(s)
 
-Vorwurf /ˈfoːɐvʊrf/, Vorwürfe, der: reproach
+Vorwurf /ˈfoːɐvʊrf/, Vorwürfe, der: reproach, accusation
   jdm bittere Vorwürfe machen: to reproach sb bitterly
+  Deine Vorwürfe entbehren jeglicher Grundlage.
+  Your accusations are completely unfounded.
 
 Vorzeichen /ˈfoːɐʦaiçən/, das, Vorzeichen: omen
   etw. für ein gutes/böses Vorzeichen halten
