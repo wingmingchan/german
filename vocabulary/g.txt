@@ -110,11 +110,18 @@ Gebühr /ɡəˈbyːɐ/, die, -en: fee
   In Frankreich werden für die Benutzung von Autobahnen Gebühren erhoben.
   In France there are tolls for the use of the freeways.
 
+Geburt /ɡəˈbuːɐt/, die, -en: birth
+  von Geburt an blind / taub sein: to be blind/deaf from birth
+  von Geburt: by birth 生於
+  Er ist Franzose von Geburt.
+  He's French by birth.
+
 Geburtsdatum /ɡəˈbuːɐʦdaːtʊm/, das, Geburtsdaten: date of birth
 
 Geburtstag /ɡəˈbuːɐʦtaːk/, der, -e: birthday
   Er feiert dieses Jahr seinen 60. / einen runden Geburtstag.
   He's celebrating his 60th birthday/a big birthday this year.
+  Alles Gute zum Geburtstag!
 
 gedacht => denken
 
@@ -202,7 +209,7 @@ gegenseitig /ˈɡeːɡənzaitɪç/: mutual
   sich im gegenseitigen Einvernehmen trennen: to separate by mutual consent
   sich gegenseitig unterstützen: to support one another
 
-Gegenstand /ˈɡeːɡənʃtant/, der, ..e: object
+Gegenstand /ˈɡeːɡənʃtant/, der, ..e: object, subject
   => Ding
   Er wurde mit einem stumpfen Gegenstand erschlagen.
   He was murdered with a blunt object.
@@ -292,6 +299,7 @@ Geist, Geister, der: mind, ghost, spirit
   In his mind's eye he could already see himself on the winners' rostrum.
   Der Geist der Verstorbenen soll noch in diesen Mauern spuken.
   The ghost of the deceased is still supposed to haunt these walls.
+  der Heiligen Geist: the Holy Spirit
 
 Geisterbahn /ˈɡaistɐbaːn/, die, -en: dark ride, ghost train
   (mit der) Geisterbahn fahren: to go on a dark ride
@@ -375,6 +383,12 @@ geltend: current, established, applicable, valid, in force
   einen Einwand geltend machen: to raise an objection
   geltendes Recht sein: to be the law of the land
 
+Gelübde /ɡəˈlʏpdə/, das, -: vow
+  ein Gelübde ablegen / halten / brechen
+  to take/keep/break a vow
+  
+Gelübte => Gelübde
+
 gemächlich /ɡəˈmɛːçlɪç/: leisurely , unhurried
 
 *Gemälde /ɡəˈmɛːldə/, das, -: painting
@@ -449,6 +463,8 @@ Genussmittel /ɡəˈnʊsmɪtəl/, das, -: luxury food and drinks, stimulant
 
 Geologe /ɡeoˈloːɡə/: geologist
 
+Geologie /ɡeoloˈɡiː/, die, (uncountable)
+
 geprüft => prüfen
 
 gerade /ɡəˈraːdə/: straight, at the moment
@@ -491,6 +507,11 @@ gering /ɡəˈrɪŋ/: low, small
   eine geringe Anzahl von Bewerbern: a small number of applicants
 
 Geringfügigkeit: pettiness, triviality
+
+geringschätzig /ɡəˈrɪŋʃɛʦɪç/: contemptuous, disparaging
+  eine geringschätzige Bemerkung machen: to make a disparaging remark
+  „Du schaffst das sowieso nicht!‟, meinte sie geringschätzig.
+  “You’ll never manage that anyway,” she said contemptuously.
 
 Geröll /ɡəˈrœl/, das: debris, pebbles, gravel
 
@@ -813,7 +834,7 @@ Gräfin /ˈɡrɛːfɪn/: countess
 grafisch /ˈɡraːfɪʃ/: graphic
   Messdaten grafisch darstellen: to present measured data graphically
 
-Grammatik /ɡraˈmatɪk/, die: grammar
+△Grammatik /ɡraˈmatɪk/, die, -en: grammar
   die Grammatik einer Sprache lernen/beherrschen: to learn/master the grammar of a language
   etw. in der Grammatik nachschlagen: to look sth up in the grammar book
 
@@ -868,6 +889,10 @@ grün /ɡryːn/: green
   grüner Salat: lettuce
 
 Grund /ɡrʊnt/, der: reason, ground
+
+Grundlage /ˈɡrʊntlaːɡə/, die, -n: basis
+  Diese Anschuldigung entbehrt jeder Grundlage.
+  That accusation has no basis in fact.
 
 Grün /ɡryːn/, das: green
   ein helles/kräftiges Grün: a light/strong green
