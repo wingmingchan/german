@@ -2,6 +2,10 @@
 T /teː/ T wie Theodor
 ========================================================
 
+Tabak /ˈtaːbak/, der, (uncountable): tobacco
+  Tabak anbauen: to grow tobacco
+  starken / milden Tabak rauchen: to smoke strong/mild tobacco
+
 Tablet /ˈtɛblet/, das: tablet
   mit dem Tablet im Internet surfen: to surf the internet on a tablet 
 
@@ -32,6 +36,9 @@ tagsüber /ˈtaːks|yːbɐ/: by / during the day
 
 Taifun /taiˈfuːn/, der: typhoon
 
+Taille /ˈtaljə/, die, -n: waist
+  eine schmale Taille haben: to have a slender waist
+
 Takt /takt/, der, -e: time, tack
   ein Musikstück im Dreivierteltakt: a piece of music in three-four time
   ein paar Takte spielen: to play a couple of bars
@@ -40,7 +47,9 @@ Takt /takt/, der, -e: time, tack
 
 Tal /taːl/, der, Täler /ˈtɛːlɐ/: valley
 
-Tanne /ˈtanə/, die, Tennen: fir
+Tango /ˈtaŋɡo/, der, -s
+
+Tanne /ˈtanə/, die, Tennen: fir 冷杉
  Unser Weihnachtsbaum ist dieses Jahr eine Tanne.
  Our Christmas tree this year is a fir. 
 
@@ -142,6 +151,17 @@ täuschen /ˈtɔyʃən/: to be wrong, to deceive, to be deceptive
 Täuschung /ˈtɔyʃʊŋ/, die: deception, illusion, delusion
 
 tausend /ˈtauzənt/: thousand
+
+Technik /ˈtɛçnɪk/, die
+  (uncountable) technology, engineering
+  Die Maschinen sind auf dem neuesten Stand der Technik.
+  The machines are all state-of-the-art.
+  (uncountable) technical equipment
+  Die Technik in unserer Firma ist auf dem neuesten Stand.
+  The technical equipment used in our company is state-of-the-art.
+  -en: technique
+  Sie hat unterschiedliche Maltechniken ausprobiert.
+  She has tried out various painting techniques.
 
 Techniker /ˈtɛçnɪkɐ/, Technikerin: engineer, technician
 
@@ -340,6 +360,14 @@ traditionell /tradiʦjoˈnɛl/
 
 traf => treffen
 
+tragbar /ˈtraːkbaːɐ/: portable, acceptable, tolerable, wearable
+  Ich nehme einen tragbaren CD-Player mit in den Urlaub.
+  I'm taking a portable CD player with me on vacation.
+  Sein Verhalten war nicht mehr tragbar und er wurde entlassen.
+  His behavior was no longer acceptable and he was fired.
+  Die Models präsentierten elegante, aber tragbare Mode.
+  The models presented stylish but wearable fashions.
+
 tragen /ˈtraːɡən/: to carry, to take, to wear, to hold
   trage, trägst, trägt, ihr tragt, habe getragen
   trug, trugst, trug, trugen
@@ -461,11 +489,24 @@ Tropfen /ˈtrɔpfən/, der: drop
   Regentropfen liefen am Fenster herab.
   Raindrops were running down the window.
 
-trostlos /ˈtroːstloːs/: dreary, depressing
+▲Trost /troːst/, der, (uncountable): comfort, consolation
+  jdm Trost zusprechen / spenden
+  to comfort/console sb
+  zum Trost: as a consolation
+  Sie schenkte dem Kind zum Trost ein Stück Schokolade.
+  She gave the child a piece of chocolate as a consolation.
+  nicht (ganz / recht) bei Trost sein: to be (completely) out of your mind
+  Du hast unser ganzes Geld verspielt? Du bist wohl nicht ganz bei Trost!
+  You've gambled all our money away? Are you completely out of your mind?
+
+▲trostlos /ˈtroːstloːs/: dreary, depressing
   => trist
   Im Nebel sieht die Stadt trostlos aus.
   The city looks dreary in the fog.
-  
+
+trösten /ˈtrøːstən/: to comfort, to console
+  jdn tröstend in den Arm nehmen: to put your arm around sb to comfort them
+
 trotzdem /ˈtrɔʦdeːm/: nevertheless
   Sie wusste, dass es verboten war, aber sie tat es trotzdem.
   She knew it wasn't allowed, but she did it all the same.
@@ -478,7 +519,9 @@ trügen /ˈtryːɡən/: to deceive
   Meine Hoffnungen hatten mich nicht getrogen.
   My hopes didn't deceive me.
 
-Tuch /tuːx/, das, Tücher: cloth
+▲Tuch /tuːx/, das, Tücher: cloth
+  sich [ dative ] ein Tuch um die Schultern legen
+  to wrap a shawl around your shoulders
 
 Tulpe /ˈtʊlpə/, die, -n: tulip
   Tulpenzwiebeln in die Erde setzen: to plant tulip bulbs
