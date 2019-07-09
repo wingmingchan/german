@@ -2,7 +2,7 @@
 N /ɛn/ N wie Nordpol
 ========================================================
 
-nach /naːx/: to, after, according to
+▲nach /naːx/: to, after, according to
   nach oben schauen
   to look up
   nach dem Mittagessen ein Schläfchen machen
@@ -105,8 +105,22 @@ Nager /ˈnaːɡɐ/, der, -: rodent
 
 Nagetier, das: rodent
 
-nah /ˈnaː(ə)/ , näher, nächste: near
+nah /ˈnaː(ə)/, näher, nächste: near
   die Geschäfte in der näheren/nächsten Umgebung: the nearby stores
+  aus / von nah und fern: from near and far
+  von Nahem: from close up
+  in naher Zukunft: in the near future
+  Ich kann das nur aus näherer / nächster Entfernung erkennen.
+  I can only make it out at close range / from close up.
+  Sie ist eine nahe Verwandte von mir.
+  She is a close relative of mine.
+  bürgernahe Politik: policies that are in touch with public opinion
+  der nahe gelegene Fluss: the nearby river
+  Weihnachten rückt immer näher.
+  Christmas is getting closer and closer.
+  Sie war den Tränen nahe.
+  She was close to tears.
+  nahe dem Ufer: near (to) the shore
 
 nahen /ˈnaːən/: to draw near
   Der Morgen naht.
@@ -331,6 +345,12 @@ notwendig /ˈnoːtvɛndɪç/: necessary
 
 Notwendigkeit /ˈnoːtvɛndɪçkait/, die, -en:  need, necessity
   die Notwendigkeit sofortiger Maßnahmen: the need for immediate action
+
+Nuance /ˈnya͂ːsə/, die, -n: shade, touch, nuance
+  Blau in verschiedenen Nuancen: different shades of blue
+  Die Suppe ist eine Nuance zu salzig.
+  The soup is a touch too salty.
+  sprachliche / stilistische Nuancen: linguistic/stylistic nuances
 
 nüchtern /ˈnʏçtɐn/: sober
   nicht mehr ganz nüchtern sein: to be a little bit tipsy
