@@ -192,9 +192,11 @@ Hummer /ˈhʊmɐ/, der, -: lobster
 
 ========================================================
 
-Imbiss, der: snack
+Imbiss /ˈɪmbɪs/, der, -e: snack
   Wir essen mittags nur einen kleinen Imbiss und dafür abends richtig.
   We just have a snack for lunch and eat properly in the evenings.
+
+Ingwer /ˈɪŋvɐ/, der, -: ginger
 
 ========================================================
 
@@ -203,6 +205,8 @@ Joghurt /ˈjoːɡʊrt/, der: yogurt
 ========================================================
 
 Kaffee, der
+
+Kalbfleisch: veal
 
 Karaffe /kaˈrafə/, die: carafe
   eine Karaffe Wein: a carafe of wine
@@ -410,6 +414,8 @@ Serviette /zɛrˈvjɛtə/, die: napkin
 
 Soße /ˈzoːsə/, die, -n: sauce
 
+Spargel /ˈʃparɡəl/, der, -: asparagus
+
 Speck /ʃpɛk/, der: bacon
  
 Speise /ˈʃpaizə/, die, -n: dish
@@ -498,7 +504,7 @@ zahlen /ˈʦaːlən/: to pay
   in bar/per Überweisung/mit Karte zahlen
   to pay in cash/by bank transfer/by card
 
-Zitrone /ʦiˈtroːnə/, die: lemon
+Zitrone /ʦiˈtroːnə/, die, -n: lemon
 
 Zucker /ˈʦʊkɐ/, der, Zucker: sugar
 
