@@ -19,6 +19,10 @@ Kakao /kaˈkau/, der, (uncountable): cocoa
 Kaktus /ˈkaktʊs/, der, Kakteen: cactus
 
 Kalb /kalp/, das, ..er: calf
+  Kalbsleder: calfskin
+  Kalbfleisch: veal
+  Forscher haben im ewigen Eis ein Mammutkalb gefunden.
+  Explorers have discovered a mammoth calf in the perpetual ice.
 
 Kalk /kalk/, der, (uncountable): lime
   Das Wasser hier enthält viel Kalk.
@@ -58,6 +62,9 @@ kämpfen /ˈkɛmpfən/: to fight
 Kaninchen /kaˈniːnçən/, das, -: rabbit
   Kaninchenbau: rabbit burrow
 
+△Kap /kap/, das, -s: cape
+  das Kap der Guten Hoffnung umsegeln: to sail round the Cape of Good Hope
+
 Kapazität /kapaʦiˈtɛːt/, die, -en: capacity, expert
   die Speicherkapazität der Festplatte: the storage capacity of the hard drive
 
@@ -65,6 +72,8 @@ Kapelle /kaˈpɛlə/, die, -n: chapel, band
   Friedhofskapelle: cemetery chapel
   Am Umzug nehmen zahlreiche Blaskapellen aus der Umgebung teil.
   A large number of brass bands from the surrounding area took part in the procession.
+
+△Kapitel /kaˈpɪtəl/, das, -: chapter
 
 kapitulieren /kapituˈliːrən/: to surrender, to give up, to capitulate
   Das Schiff kapitulierte und hisste die weiße Fahne.
@@ -246,6 +255,12 @@ Klasse, die: class
 
 Klassenraum, der: classroom
 
+Klassik /ˈklasɪk/, die, (uncountable)
+  die Sagenwelt der Klassik: the legendary world of classical antiquity
+  die deutsche Klassik: the German classical age
+  Sie hört gern Klassik.
+  She likes listening to classical music.
+
 kleben /ˈkleːbən/: to stick sth somewhere
   eine Briefmarke auf den Umschlag kleben
   to stick a stamp on the envelope
@@ -295,6 +310,10 @@ klirrend /ˈklɪrənt/: bitter
 
 Klo /kloː/, das, -s: toilet
   eine Rolle Klopapier: a roll of toilet paper
+
+△Klub /klʊp/, der, -s: club
+  einem Fußballklub beitreten: to join a soccer club
+  in den Klub gehen: to go to the club
 
 klug /kluːk/: clever
   ein kluger Mann
@@ -370,6 +389,9 @@ Kollege, Kollegen, Kollegin, Kolleginnen
 
 Kollegstufe /kɔˈleːkʃtuːfə/, die, (uncountable): final two years of schooling at a Gymnasium
 
+Komfort /kɔmˈfoːɐ/, der, (uncountable): comfort, luxury
+  ein Hotel mit allem Komfort: a luxurious hotel
+
 komfortabel /kɔmfɔrˈtaːbəl/: comfortable
 
 komisch /ˈkoːmɪʃ/: funny, strange
@@ -409,6 +431,8 @@ Kompromiss /kɔmproˈmɪs/, der: compromise
 konfrontieren /kɔnfrɔnˈtiːrən/: to confront
   jdn mit der Wahrheit, mit einem Problem konfrontieren
   to confront sb with the truth/with a problem
+
+Kongo /ˈkɔŋɡo/, der
 
 konjugieren /kɔnjuˈɡiːrən/: to conjugate
 
@@ -606,7 +630,7 @@ krümmen /ˈkrʏmən/: to bend, to double up
 
 Küche /ˈkʏçə/, die: kitchen
 
-Kuchen /ˈkuːçən/, der, Kuchen: cake
+▲Kuchen /ˈkuːxən/, der, Kuchen: cake
   einen Apfelkuchen backen: to bake an apple cake 
 
 Kugelschreiber, der, -: pen
