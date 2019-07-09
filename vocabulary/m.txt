@@ -56,7 +56,7 @@ Maler /ˈmaːlɐ/, Malerin, Maler, Malerinnen: painter
   Wir haben gerade die Maler im Haus.
   We've got the painters in the house at the moment.
 
-man /man/: somebody, someone
+△man /man/: somebody, someone
   man muss es tun: it must be done
   wie sagt man dieses Wort auf Deutsch?
   Man hat mir gesagt, dass du krank bist.
@@ -71,6 +71,8 @@ manche /ˈmançə/: many, some
   Many of the victims still have dreams about it today.
 
 manchmal /ˈmançmaːl/: sometimes
+
+Mangan /maŋˈɡaːn/, das, (uncountable): manganese 锰
 
 Mangel /ˈmaŋəl/, Mängel, der: shortage, lack, defect, fault, flaw
 
@@ -139,6 +141,14 @@ mauern /ˈmauɐn/: to build, to stonewall
 Maus /maus/, Mäuse /ˈmɔyzə/, die: mouse
   Mausefalle: mousetrap 
 
+Medaille /meˈdaljə/, die, -n: medal
+
+Medaillon /medalˈjõ/, das, -s: locket, medallion
+
+Medizin /mediˈʦiːn/, die, -en: medicine
+  Medizin studieren: to study medicine
+  seine Medizin nehmen: to take your medicine
+
 Meer /meːɐ/, das, Meere: sea
   aufs offene Meer hinausfahren: to go out onto the open sea
   ein Meer von Häusern/Menschen: a sea of houses/people 
@@ -172,7 +182,7 @@ Meile /ˈmailə/, die: mile
 Memoiren /memoˈaːrən/, pl: memoirs
   seine Memoiren schreiben: to write your memoirs
 
-meinen /ˈmainən/: to think, to mean, to intend, to mean
+meinen /ˈmainən/: to think, to mean, to intend, to mean, to say
   Seine Eltern meinen, dass er mehr im Haushalt helfen sollte.
   His parents think that he should help around the house more.
   Das will ich meinen!
@@ -182,6 +192,12 @@ meinen /ˈmainən/: to think, to mean, to intend, to mean
   Welchen Film meinst du?
   Which movie do you mean?
   ein gut gemeinter Rat: a well-intentioned piece of advice
+  Sie meint es gut.
+  She means well.
+  Sie meint es nicht böse.
+  She means no harm.
+
+meinte => meinen
 
 Meinung /ˈmainʊŋ/, die, -en: opinion
   Ich bin der Meinung, dass …
@@ -248,6 +264,10 @@ Metall /meˈtal/, das, -e: metal
   Leichtmetall: light metal
   Schwermetall
 
+Metapher /meˈtafɐ/, die, -n: metaphor
+  „Der Keim des Misstrauens‟ ist eine Metapher.
+  “The seed of mistrust” is a metaphor.
+
 Metzger, -, Metzgerin: butcher
   => Fleischer
 
@@ -267,6 +287,11 @@ Mietvertrag, der: lease
 Milch /mɪlç/, die: milk
 
 Milchreis, der: rice pudding
+
+Milieu /miˈljøː/, das, -s: environment, milieu
+  ins kriminelle Milieu abrutschen: to slide into the criminal underworld
+  Diese Bakterien gedeihen in saurem Milieu nicht.
+  These bacteria do not thrive in an acidic environment.
 
 Militär /miliˈtɛːɐ/, das, (uncountable): military, army
 
@@ -311,6 +336,8 @@ Mischung /ˈmɪʃʊŋ/, die: mixture
 Missbrauch, der: abuse
 
 misslingen /mɪsˈlɪŋən/: to fail
+
+△mit /mɪt/
 
 Mitarbeiter /ˈmɪt|arbaitɐ/: employee
 
@@ -390,13 +417,24 @@ momentan /momɛnˈtaːn/: present, current
 
 Monarch /moˈnarç/, Monarchen: monarch
 
-Mond /moːnt/, der: moon
+▲Mond /moːnt/, der: moon
 
 Monopol /monoˈpoːl/, das, -e: monopoly
   Der Staat hat bei uns ein Monopol auf Glücksspiele.
   Our state has a monopoly on gambling.
 
 Montag /ˈmoːntaːk/, der
+
+moralisch /moˈraːlɪʃ/: moral, ethical, virtuous
+  moralische Zweifel / Gründe: moral doubts/reasons
+  ein moralischer Lebenswandel / Mensch: a moral way of life/person
+  bei jdm moralische Unterstützung suchen / finden
+  to look for/get moral support from sb
+
+Morgen /ˈmɔrɡən/, der, -: morning
+  am Morgen: in the morning
+
+morgen /ˈmɔrɡən/: tomorrow
 
 Most /mɔst/, der: cider
 
