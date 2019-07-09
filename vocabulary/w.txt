@@ -29,6 +29,14 @@ wagen: to dare, to venture, to risk
   Ich würde jederzeit mein Leben für dich wagen.
   I'd risk my life for you anytime.
 
+wählen /ˈvɛːlən/: to choose, to vote (for), to elect, to dial
+  mit sorgfältig gewählten Worten: in carefully chosen words
+  wählen gehen: to go and vote
+  gewählt werden: to be elected
+  Sie wurde zur Bürgermeisterin / in den Stadtrat gewählt.
+  She was elected mayor/onto the city council.
+  den Notruf wählen: to dial the emergency services
+
 Wahlkampf /ˈvaːlkampf/, der: election campaign
 
 Wahn /vaːn/, der: delusion, mania
@@ -66,6 +74,8 @@ Waldkauz, der: tawny owl
 Wand /vant/, Wände /ˈvɛndə/, die: wall
   ein Bild an die Wand hängen
   to hang a picture on the wall
+
+Wanduhr, die: wall clock
 
 Wände => Wand
 
@@ -123,6 +133,8 @@ warten /ˈvartən/: to wait, to service
 
 warum /vaˈrʊm/: why
 
+△was /vas/
+
 waschen /ˈvaʃən/: to wash
 
 Wasser /ˈvasɐ/, das: water
@@ -152,7 +164,7 @@ weder … noch: neither … nor
 Weg /veːk/, der: path, way, route
   jdn nach dem Weg fragen: to ask sb the way
 
-weg /vɛk/: away, off
+△weg /vɛk/: away, off
 
 wegen /ˈveːɡən/: for, over, because of, on account of
   Hat schon einer wegen des Autos/dem Auto angerufen?
@@ -162,6 +174,10 @@ wegen /ˈveːɡən/: for, over, because of, on account of
 
 wegsaufen: to drink intended for else
   => saufen
+
+Wegweiser /ˈveːkvaizɐ/, der, -: sign(post), guide
+  den Wegweisern zur Almhütte folgen: to follow the signs to the Alpine hut
+  ein Wegweiser für das Studium: a guide to studying
 
 wegwerfen /ˈvɛkvɛrfən/: to throw away
 
@@ -213,6 +229,8 @@ Wein, der: wine
 
 weinen /ˈvainən/: to cry, to weep
   um jdn weinen: to cry for sb
+  sich in den Schlaf weinen: to cry yourself to sleep
+  etw. ist zum Weinen: sth is enough to make you weep
 
 weinend: tearful
 
@@ -517,6 +535,7 @@ Wochentag /ˈvɔxəntaːk/, der, -e: day of the week, weekday
 wöchentlich /ˈvœçəntlɪç/: weekly
 
 Wodka /ˈvɔtka/, der, -s: vodka
+  zwei Wodka bestellen: to order two vodkas
 
 woher /voˈheːɐ/: from where
   Woher kommt er?
@@ -622,9 +641,11 @@ Würstchen /ˈvyrstçən/, das, -: frankfurter
 
 Wurzel /ˈvʊrʦəl/, die: root
 
+wusch /vuːʃ/ => waschen
+
 wusste => wissen
 
-Wüste /ˈvyːstə/, die, Wüsten: desert
+▲Wüste /ˈvyːstə/, die, Wüsten: desert
   Nomaden, die in der Wüste leben: nomads who live in the desert 
 
 Wut /vuːt/, die, -: starkes Gefühl des Ärgers, rage, fury
