@@ -5,6 +5,10 @@ F /ɛf/ F wie Friedrich
 Fabel /ˈfaːbəl/, Fabeln: fable
   die Fabeln Äsops: Aesop's fables
 
+Fabrik /faˈbriːk/, die, -en: factory
+  Fabrikarbeiter: factory workers
+  eine Fabrik bauen / abreißen: to build / pull down a factory
+
 Fach /fax/, ..er: compartment, field, subject
   Die Socken sind im untersten Fach der Kommode.
   The socks are in the bottom compartment of the dresser.
@@ -209,7 +213,7 @@ Faulheit /ˈfaulhait/, die, (uncountable): laziness, idleness, sloth
 Faust /faust/, die, ..e: fist
   mit der Faust auf den Tisch hauen: to bang your fist on the table 
 
-Fazit /ˈfaːʦɪt/, das: conclusion
+Fazit /ˈfaːʦɪt/, das, -e: conclusion
   Er zog ein positives Fazit der Veranstaltung.
   He described the event as a success.
 
@@ -410,6 +414,10 @@ Fleischer: butcher
 fleißig /ˈflaisɪç/: hardworking, diligent
   ein fleißiger Schüler: a diligent student
 
+fliegen /ˈfliːɡən/: to fly
+  Pinguine können nicht fliegen.
+  Penguins can't fly.
+
 fliehen /ˈfliːən/: to flee
   Tausende flohen vor dem Hochwasser aus der Stadt.
   Thousands fled the city to escape the floods.
@@ -431,7 +439,15 @@ Floh /floː/, der, ..e: flea
   von Flöhen gebissen werden: to be bitten by fleas
   Flohmarkt
 
-fluchen /ˈfluːxən/: to swear, to curse
+▲Fluch /fluːx/, der, ..e: curse
+  Er stieß einen lauten Fluch aus, als ihm die Kiste auf den Fuß fiel.
+  He cursed loudly when the box fell on his foot.
+  Auf dem Haus lastete angeblich ein böser Fluch.
+  It was said that the house was under an evil curse.
+  Ihre Schönheit erwies sich für sie als Fluch.
+  Her beauty turned out to be a curse for her.
+
+▲fluchen /ˈfluːxən/: to swear, to curse
   Du sollst nicht dauernd fluchen!
   Stop swearing all the time.
 
