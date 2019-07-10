@@ -2,6 +2,7 @@
 ========
 Masculine and Neuter: use -es
 Feminine and plural: use -er
+
 =================================
 Prepositions
 =================================
@@ -19,26 +20,66 @@ eueres                   eurer
 
 an meiner statt: in my place
 trotz seines Verbotes: in spite of his prohibition
-während der Spargelzeit
+
 =================================
 Possession
 =================================
 das Haus unseres Lehrers
 das Fenster unseres Hauses
 die Hoffnungen der jungen Frau
+
+=================================
+Literary usage
+=================================
+sich bedienen: to use, make use of
+bedürfen: to need, require
+sich enthalten: to refrain/abstain from
+sich entsinnen: to recall
+sich erfreuen: to enjoy (good health, privilege, etc.)
+wich erinnern: to recall (usually sich erinnern an + Acc.)
+gedenken: to think of, remember
+harren: to await
+sich rühmen: to boast of
+sich schämen: to be ashamed of
+sich vergewissern: to make sure of
+
+Diese Tatsachen bedürfen keiner Erklärung.
+These facts need no explanation.
+Er konnte sich eines Lächelns nicht enthalten.
+He could not refrain from smiling.
+
 =================================
 Adjectives
 =================================
 Ich bin mir seiner Macht bewusst.
+I am conscious of his power.
 Sie fühlte sich seiner nicht würdig.
+She did not feel worthy of him.
+
 =================================
 Time
 =================================
 Indefinite time:
 Eines Tages werde ich einen Volvo kaufen.
+One day I'm going to buy a Volvo.
 Er ist eines Morgens tot aufgefunden worden.
+He was found dead one morning.
+
 =================================
 Set phrases
 =================================
 allen Ernstes: in all seriousness
+schweren Herzens: with a heavy heart
+gemessenen Schrittes: with measured tread
+erster/zweiter Klasse (fahren): (to travel) first/second class
 
+=================================
+Use von when the genitive case cannot be shown
+=================================
+der Export von Kohle: the export of coal
+als Übersetzer von Storms Gedichten: as a translater of Storm's poems
+die Lösung von Problemen: the solving of the problems
+vs.
+die Lösung schwieriger Probleme
+
+In spoken German the genitive is commonly replaced by von + the dative.
