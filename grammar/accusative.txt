@@ -42,3 +42,13 @@ ohne
 ohne mich, ohne dich, ohne ihn, ohne sie, ohne sie, ohne euch
 vs.
 mit mir, mit dir, mit ihm, mit ihr, 
+=================================
+Time
+=================================
+Definite Time:
+Sie fahren jeden Morgen mit der Straßenbahn.
+Wir haben den ganzen Nachmittag gesucht.
+Dieses Jahr gab es eine gute Ernte.
+Duration:
+Es hat den ganzen Morgen (lang) geschneit.
+Er ist mit dem Auto den Berg hinuntergefahren.
