@@ -1,9 +1,41 @@
 ﻿Dative
 ======
-auf, aus, außer, bei, in, mit, nach, neben, seit, unter, von, vor, während, zu
 Singular masculine and neuter: use -em
 Singular feminine: use -er
 Plural (kein): use -en
+
+=================================
+Indirect object
+=================================
+Sein Vater hat ihm ein neues Wörterbuch gekauft.
+Wer hat unserem Lehrer den Mercedes gestohlen?
+
+=================================
+Verbs
+=================================
+antworten: to answer
+begegnen: to meet
+bekommen: to agree with (of food), Das Essen ist mir nicht bekommen.
+danken: to thank, Ich möchte dir für deine Hilfe vielmals danken.
+dienen: to serve, Er hat seinem Herrn stets treu gedient.
+entsprechen: to correspond to, Ihr Bericht entspricht nicht ganz der Wahrheit.
+folgen: to follow, Er folgte dem Verdächtigen unauffällig.
+gefallen: to please
+gehorchen: to obey, Seine Stimme gehorchte ihm nicht mehr.
+gehören: to belong, Wem gehört dieser Stift?
+helfen: to help
+nützen: to be of use to
+passen: to fit, Die Schuhe passen (mir) genau/nicht.
+raten: to advise, Zu dieser langen Reise kann ich dir nicht raten.
+schaden: to harm, damage, Die Affäre hat seinem Ansehen sehr geschadet.
+stehen: to suit, Das Kleid steht dir nicht.
+trauen/vertrauen: to trust, Ich vertraue ihm blind.
+widerstehen: to resist, dem Ansturm des Feindes widerstehen
+
+=================================
+Prepositions
+=================================
+auf, aus, außer, bei, in, mit, nach, neben, seit, unter, von, vor, während, zu
 
 Masculine, Neuter   Feminine    Plural
 dem                 der         den
@@ -32,7 +64,7 @@ Location:
   in + dem = im: im Januar, im Theater
   in der: in der Schweiz, in der Nähe
   plural: in den Städten
-  an + dem = am, am Fenster, am See
+  an + dem = am, am Fenster, am See, am Sonntag
   an + die = an der, an der Ostsee
 
 To, towards:
@@ -62,3 +94,15 @@ vor zehn Tagen
 
 zu + dem (masculine, neuter) = zum, zum Supermarkt, zum Arzt, zum Schloss
 zu + der (feminine) = zur, zur Post
+
+=================================
+Adjectives and nouns
+=================================
+Seine Haltung war mir unbegreiflich.
+Sie war ihrem Sohn eine gute Mutter.
+
+=================================
+Apposition
+=================================
+Es wurde von Ludwig dem Zweiten gebaut.
+am Sonntag, dem 1. Februar
