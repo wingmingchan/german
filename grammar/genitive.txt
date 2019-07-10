@@ -1,8 +1,11 @@
 ﻿Genitive
 ========
-(an)statt, trotz, während, wegen
 Masculine and Neuter: use -es
 Feminine and plural: use -er
+=================================
+Prepositions
+=================================
+(an)statt, trotz, während, wegen
 
 Masculine, Neuter        Feminine, Plural
 des                      der
@@ -16,3 +19,26 @@ eueres                   eurer
 
 an meiner statt: in my place
 trotz seines Verbotes: in spite of his prohibition
+während der Spargelzeit
+=================================
+Possession
+=================================
+das Haus unseres Lehrers
+das Fenster unseres Hauses
+die Hoffnungen der jungen Frau
+=================================
+Adjectives
+=================================
+Ich bin mir seiner Macht bewusst.
+Sie fühlte sich seiner nicht würdig.
+=================================
+Time
+=================================
+Indefinite time:
+Eines Tages werde ich einen Volvo kaufen.
+Er ist eines Morgens tot aufgefunden worden.
+=================================
+Set phrases
+=================================
+allen Ernstes: in all seriousness
+
