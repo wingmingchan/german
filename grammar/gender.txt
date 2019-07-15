@@ -1,0 +1,27 @@
+﻿=================================
+Masculine
+=================================
+-ant (weak) der Demonstrant, der Elefant, der Konsonant, der Diamant
+-ar (= person) (pl. -e) der Bibliothekar, der Missionar, der Kommentar
+-är (= person) (pl. -e) der Legionär, der Millionär
+-at (weak) der Demokrat, der Kandidat, der Soldat, der Adressat
+-ent (weak) der Student, der Dirigent
+-er (from verb) (pl. same) der Schneider, der Angeber, der Rechner
+
+
+=================================
+Feminine
+=================================
+-ade (pl. -n) die Brigade, die Limonade, die Olympiade
+-age (pl. -n) die Sabotage, die Persiflage, die Etage
+-anz (pl. -en) die Arroganz, die Diskrepanz, die Resonanz
+-ei (-elei, -erei) (pl. -en) die Kartei, die Nörgelei, die Kellerei, die Meuterei
+-enz (pl. -en) die Tendenz, die Frequenz
+-heit (pl. -en) die Schönheit, die Menschheit
+-ie (pl. -n) die Chemie, die Phobie
+-k (pl. -en) die Informatik, die Technik, die Romantik
+
+=================================
+Neuter
+=================================
+-chen (pl. same) das Kaninchen, das Kätzchen
