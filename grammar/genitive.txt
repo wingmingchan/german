@@ -1,7 +1,7 @@
 ﻿Genitive
 ========
-Masculine and Neuter: use -es
-Feminine and plural: use -er
+Masculine and Neuter: use -es, des
+Feminine and plural: use -er, der
 
 =================================
 Prepositions
