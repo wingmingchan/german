@@ -269,8 +269,9 @@ schicken /ˈʃɪkən/: to send, to send for, to hurry up
   die Kinder ins Bett / zur Schule schicken
   to send the children to bed/school
 
-Schicksal /ˈʃɪkzaːl/, das: fate, destiny
+Schicksal /ˈʃɪkzaːl/, das, -s|-e: fate, destiny
   ein schweres Schicksal haben: to be fated to have a hard life
+  das Schicksal entscheiden lassen: to leave it to fate
 
 schieben /ˈˈʃiːbən/: to push, to put, to blame, to reject
   einen Tisch zur Seite schieben: to push a table aside
@@ -577,6 +578,11 @@ Schuh /ʃuː/, der: shoe
 Schulart, die, Schultyp, der: type of school
 
 Schuld, die: guilt, fault, debt
+
+Schule /ˈʃuːlə/, die, ~|-en: school
+  Sie geht gern in die / zur Schule.
+  She likes going to school.
+  die Komponisten der Wiener Schule: composers of the Viennese School
 
 schulden: to owe
   Du schuldest mir noch 10 Euro.
@@ -1021,6 +1027,10 @@ sorgen /ˈzɔrɡən/: to cater, to provide, to ensure, to worry, to cause
 
 sorgfältig /ˈzɔrkfɛltɪç/: careful
   <=> nachlässig
+
+sorglos /ˈzɔrkloːs/: careless, carefree
+  der sorglose Umgang mit Ressourcen: careless use of resources
+  ein sorgloses Leben haben: to live a carefree life
 
 Sorte /ˈzɔrtə/, die, -n: sort, kind, type
   Es gab mehrere Sorten Käse und Wurst zur Auswahl.

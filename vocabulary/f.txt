@@ -587,6 +587,9 @@ forschen /ˈfɔrʃən/: to research, to search
 
 Forscher /ˈfɔrʃɐ/: researcher
 
+Forschung /ˈfɔrʃʊŋ/, die, ~|-en: research
+  Forschungen durchführen: to carry out research
+
 fort /fɔrt/: away, gone
   => weg
   Mein Buch ist fort!
@@ -726,8 +729,18 @@ Frucht /frʊxt/, Früchte /ˈfrʏçtə/, die: fruit
   Fruchteis: sorbet
   Fruchtyoghurt
 
-Frühling /ˈfryːlɪŋ/, der: spring
+Frühjahr /ˈfryːjaːɐ/, das, -(e)s|-e: spring
+  Frühjahrsmüdigkeit: springtime lethargy
+
+Frühling /ˈfryːlɪŋ/, der, -s|-e: spring
    Endlich wird es Frühling! Spring is here at last!
+
+Frühstück /ˈfryːʃtʏk/, das, -(e)s|-e: breakfast
+  Was gibt es zum Frühstück?
+  What's for breakfast?
+
+frühstücken /ˈfryːʃtʏkən/: to have breakfast
+  ein Müsli frühstücken: to have muesli for breakfast
 
 Fuchs /fʊks/, der: fox
 

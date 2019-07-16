@@ -224,8 +224,10 @@ Gefangenschaft /ɡəˈfaŋənʃaft/, die, -en: capture
   in Gefangenschaft geraten / sein / leben
   to be captured/be in captivity/live in captivity
 
-Gefängnis /ɡəˈfɛŋnɪs/, das: prison
+Gefängnis /ɡəˈfɛŋnɪs/, das, -ses|-se: prison
   im Gefängnis sitzen/sein: to be in prison
+  Auf Fahrerflucht steht Gefängnis.
+  Hit-and-run drivers face prison.
 
 Geflügel /ɡəˈflyːɡəl/, das, Geflügels: poultry
   Geflügel züchten: to breed poultry
@@ -676,7 +678,7 @@ Geselligkeit /ɡəˈzɛlɪçkait/, die: sociability, conviviality
   Dank ihrer Geselligkeit findet sie schnell überall Anschluss.
   She finds it easy to make friends since she's so sociable.
 
-Gesellschaft /ɡəˈzɛlʃaft/, die, -en: society, company, party, social event
+Gesellschaft /ɡəˈzɛlʃaft/, die, ~|-en: society, company, party, social event
   die Rolle der Frau in der Gesellschaft: the role of women in society
   in schlechte Gesellschaft geraten: to get into bad company
   eine geschlossene Gesellschaft: a private party

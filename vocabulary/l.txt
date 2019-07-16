@@ -234,7 +234,7 @@ lauter /ˈlautɐ/: nothing but
   Er hat lauter Fehler im Diktat.
   His dictation is full of mistakes.
 
-Leben /ˈleːbən/, das: life
+Leben /ˈleːbən/, das, -s|~: life
   ums Leben kommen: to be killed
 
 leben /ˈleːbən/: to live
@@ -387,6 +387,8 @@ Lenkrad /ˈlɛŋkraːt/, das, Lenkräder /ˈlɛŋkrɛːdɐ/: steering wheel
 letzte /ˈlɛʦtə/: last, final
    in der letzten Reihe sitzen: to sit in the last row 
 
+Leute /ˈlɔytə/, pl: people
+
 Lexikon /ˈlɛksikɔn/, das, Lexika: encyclopedia
   etw. im Lexikon nachschlagen: to look sth up in the encyclopedia
 
@@ -401,10 +403,11 @@ lieb /ˈliːp/: dear, nice, kind
   Sie war sehr lieb zu mir.
   She was very nice to me.
 
-Liebe /ˈliːbə/, die, |uncountable: love, sex
+Liebe /ˈliːbə/, die, ~|-n: love, sex
   die Liebe der Eltern für ihre Kinder/zu ihren Kindern
   the love of the parents for their children
   Liebe machen
+  körperliche Liebe: physical love (sex)
 
 lieben /ˈliːbən/: to love
   Liebst du mich?

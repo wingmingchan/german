@@ -225,7 +225,7 @@ kippen /’kɪpən/: to tip (up), to pour, to tilt, to topple over
   Wasser in den Abfluss kippen: to tip water into the drain
   mit dem Stuhl nach hinten kippen: to topple over backwards on your chair
 
-Kirche /ˈkɪrçə/, die: church
+Kirche /ˈkɪrçə/, die, ~|-n: church
   eine gotische/romanische Kirche: a Gothic/Romanesque church 
 
 Kirschsaft, der: cherry juice
@@ -276,7 +276,7 @@ Klasse, die: class
 
 Klassenraum, der: classroom
 
-Klassik /ˈklasɪk/, die, |uncountable
+Klassik /ˈklasɪk/, die, ~|uncountable
   die Sagenwelt der Klassik: the legendary world of classical antiquity
   die deutsche Klassik: the German classical age
   Sie hört gern Klassik.
@@ -445,6 +445,10 @@ Kommission /kɔmɪˈsjoːn/, die, ~|-en: commission
   Wir verkaufen ihre alten Ski gern in Kommission für Sie / nehmen Ihre alten Ski gern in Kommission.
   We'd be happy to sell/take your old skis on commission.
 
+Kommunismus /kɔmuˈnɪsmʊs/, der, ~|uncountable: Communism, Communist state
+  ein Verfechter des Kommunismus: an advocate of Communism
+  im Kommunismus leben: to live in a Communist state
+
 Kompetenz /kɔmpeˈtɛnʦ/, die: competence
   Seine Kompetenz unter Beweis stellen: to prove your competence
 
@@ -610,6 +614,8 @@ krankärgern /ˈkraŋk|ɛrɡɐn/: to be seething
 kränkeln /ˈkrɛnkəln/: to be not too well, to be sickly
   Das Kind kränkelt und mag nichts essen.
   The child isn't too well and doesn't want anything to eat.
+
+Krankenhaus /ˈkraŋkənhaus/, das, -es|..er: hospital
 
 Krapfen /ˈkrapfən/, der: jelly doughnut
 

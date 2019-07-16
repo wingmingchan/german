@@ -250,7 +250,9 @@ Mengeneinheit, die: unit of quantity
 
 Mensa /ˈmɛnza/, die, -sen: student canteen
 
-Mensch /mɛnʃ/, Menschen, der: human
+Mensch /mɛnʃ/, der, -en|-en: human
+  das Gehirn des / von Menschen: the human brain
+  ein ganz normaler Mensch: a completely normal person
 
 Menschheit /ˈmɛnʃhait/, die, ~|uncountable: humankind, humanity, mankind
   ein großer Fortschritt für die Menschheit: a giant leap forward for humankind
@@ -496,6 +498,10 @@ müde /ˈmyːdə/: tired, weary
   Das lange Warten macht müde.
   Long waits are tiring.
 
+Müdigkeit /ˈmyːdɪçkait/, die, ~|uncountable: weariness, tiredness
+  Ihre Müdigkeit war verflogen.
+  Her weariness had disappeared.
+
 Mühe /ˈmyːə/, die, Mühen: effort, trouble, bother
   Er scheute keine Mühe, um sein Ziel zu erreichen.
   He made every effort to achieve his goal.
@@ -538,7 +544,7 @@ Musik /muˈziːk/, die, -en: music
 
 Muskat /mʊsˈkaːt, ˈmʊskat/, der, -(e)s|-e: nutmeg 肉豆蔻
 
-Müsli /ˈmyːsli/, das: muesli
+Müsli /ˈmyːsli/, das: muesli 麥片
 
 müssen /ˈmʏsən/: to have to, must
   Ich/Er muss jetzt gehen.
