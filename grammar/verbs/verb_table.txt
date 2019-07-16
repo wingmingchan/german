@@ -47,6 +47,12 @@ finden
   Present Perfect: ich habe gefunden
   Imperative: du find/finde, ihr findet
 
+gebären
+  Present: ich gebäre, du gebierst, er gebiert, ihr gebärt
+  Preterite: ich gebar, du gebarst, er gebar, wir gebaren, ihr gebart
+  Present Perfect: ich habe geboren
+  Imperative: du gebier, ihr gebärt
+
 gehen
   Present: ich gehe, du gehst, er geht, ihr geht
   Preterite: ich ging, du gingst, er ging, wir gingen, ihr gingt
