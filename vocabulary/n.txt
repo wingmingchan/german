@@ -165,7 +165,11 @@ Nase /ˈnaːzə/, die: nose
 nass /nas/: wet
   jdn nass spritzen: to spray sb with water
 
-Natur /naˈtuːɐ/, die, Naturen: nature
+Nation /naˈʦjoːn/, die, ~|-en: nation
+  die deutsche Nation: the German nation
+  die Vereinten Nationen: the United Nations
+
+Natur /naˈtuːɐ/, die, ~|-en: nature
   die unberührte Natur: unspoilt nature
   Dieses Tier kommt in freier Natur kaum noch vor.
   This animal is hardly found in nature anymore.
@@ -306,6 +310,8 @@ Norden /ˈnɔrdən/, der: north
 
 Nordkoreas: North Korea
 
+Nörgelei /nœrɡəˈlai/, die, ~|-en: moaning, grumbling
+
 normal /nɔrˈmaːl/: normal
 
 Normalfall, im: normally, usually
@@ -345,6 +351,8 @@ notwendig /ˈnoːtvɛndɪç/: necessary
 
 Notwendigkeit /ˈnoːtvɛndɪçkait/, die, -en:  need, necessity
   die Notwendigkeit sofortiger Maßnahmen: the need for immediate action
+
+November /noˈvɛmbɐ/, der, -s|~
 
 Nuance /ˈnya͂ːsə/, die, -n: shade, touch, nuance
   Blau in verschiedenen Nuancen: different shades of blue
@@ -386,5 +394,9 @@ nutzbar /ˈnʊʦbaːɐ/: usable
 nutzen /ˈnʊʦən/: to use
   Sie nutzte die restliche Zeit, um sich zu entspannen.
   She used the remaining time to relax.
+  Das nutzt (mir / dir) nichts.
+  That won't help (me/you).
+
+nützen /ˈnʏtsn/: benefit
 
 nützlich /ˈnʏʦlɪç/: useful

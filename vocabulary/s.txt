@@ -23,6 +23,9 @@ Sackgasse /ˈzakɡasə/, die, -n: dead end, cul-de-sac
   Die Verhandlungen sind in eine Sackgasse geraten.
   The negotiations have reached a dead end.
 
+Sadismus /zaˈdɪsmʊs/, der, ~|uncountable: sadism
+  einen Hang zum Sadismus haben: to have a tendency towards sadism
+
 Saft /zaft/, der, Säfte: juice
   Apfelsaft, Orangensaft
 
@@ -33,7 +36,7 @@ sagen: to say
 
 sah => sehen
 
-Sahne /ˈzaːnə/, die, (uncountable): cream
+Sahne /ˈzaːnə/, die, |uncountable: cream
   Sahne für den Kuchen steif schlagen: to whip some cream for the cake 
   saure Sahne: sour cream
 
@@ -41,7 +44,7 @@ Sakko /ˈzako/, der-das, -s: jacket
   Du solltest ein anderes Sakko dazu anziehen.
   You should wear a different jacket with that.
 
-Salat /zaˈlaːt/, der: lettuce, salad
+Salat /zaˈlaːt/, der, -(e)s|-e: lettuce, salad
   Salat aus dem eigenen Garten: home-grown lettuce
   einen gemischten Salat essen: to have a mixed salad
 
@@ -444,7 +447,7 @@ schmökern /ˈʃmøːkɐn/: to bury yourself in a book, to browse
   Sie schmökert gern in alten Romanen.
   She likes to bury herself in old novels.
 
-Schmuck /ʃmʊk/, der, (uncountable): jewelry
+Schmuck /ʃmʊk/, der, |uncountable: jewelry
   kostbaren Schmuck tragen: to wear expensive jewelry
 
 schmücken /ˈʃmʏkən/: to decorate, to adorn
@@ -480,7 +483,7 @@ schneiden /ˈʃnaidən/: to cut, to chop, to slice
   Tomaten klein schneiden
   to chop tomatoes
 
-Schneider /ˈʃnaidɐ/, Schneiderin, Schneider: tailor
+Schneider /ˈʃnaidɐ/, Schneiderin, -s|~: tailor
   => schneiden
   einen Anzug vom Schneider anfertigen lassen: to have a suit tailored
 
@@ -500,9 +503,18 @@ Schokolade, die /ʃokoˈlaːdə/: chocolate
 
 Schokoladenkuchen, der: chocolate cake
 
+schon /ʃoːn/
+
+schön /ʃøːn/
+
+Schönheit /ˈʃøːnhait/, die, ~|-en: beauty
+  Schönheitsideal: ideal of beauty
+
 Schorle /ˈʃɔrlə/, die: wine mixed with mineral water or lemonade, fruit juice mixed with mineral water
 
 schossen => schießen
+
+Schotte /ˈʃɔtə/, der: Scot
 
 Schrank /ʃraŋk/, der, Schränke: cupboard, closet
   einen Anzug in den Schrank hängen: to hang a suit in the closet
@@ -510,7 +522,7 @@ Schrank /ʃraŋk/, der, Schränke: cupboard, closet
 Schraube /ˈʃraubə/, die: screw
   die Schrauben festdrehen/lösen: to screw in/unscrew the screws
 
-Schreck /ʃrɛk/, der, (uncountable): fright, scare
+Schreck /ʃrɛk/, der, |uncountable: fright, scare
   einen Schreck bekommen: to get a fright
 
 schreiben /ˈʃraibən/: to write
@@ -576,6 +588,13 @@ Schulden tilgen: to pay up
 
 Schuldenerlass: debt relief
 
+schuldig /ˈʃʊldɪç/: guilty
+  Der Angeklagte bekannte sich schuldig.
+  The defendant pleaded guilty.
+  jdm etw. schuldig sein: to owe sb sth
+  Du bist mir eine Erklärung schuldig.
+  You owe me an explanation.
+
 Schuldige /ˈʃʊldɪɡə/, der-die: culprit
   Schuldige besonders: guilty person/party
 
@@ -584,7 +603,7 @@ Schule /ˈʃuːlə/, die: school
 schulen /ˈʃuːlən/: to train
   Mitarbeiter im Umgang mit der neuen Software schulen: to train employees to use the new software
 
-Schulpflicht /ˈʃuːlpflɪçt/, die, (uncountable): compulsory school attendance
+Schulpflicht /ˈʃuːlpflɪçt/, die, |uncountable: compulsory school attendance
   Die allgemeine Schulpflicht beginnt für alle Kinder nach der Vollendung des 6. Lebensjahres.
   School attendance becomes compulsory for all children when they turn six.
 
@@ -783,6 +802,12 @@ Seite /ˈzaitə/, die, Seiten: side, page
 
 Sekretär /zekreˈtɛːɐ/, Sekretärin: clerk, secretary
 
+Sektor /ˈzɛktoːɐ/, der, -s|-en: field, area, sector
+  ein ausgewiesener Experte auf dem Sektor der Erbschafts- und Schenkungssteuer
+  a well-known expert in the field of inheritance and gift tax
+  Ein Kreissektor sieht aus wie ein Tortenstück.
+  A sector of a circle looks like a piece of pie.
+
 Sekunde /zeˈkʊndə/, die: second
 
 selbst /zɛlpst/: in person, self
@@ -805,12 +830,22 @@ seltsam /ˈzɛltzaːm/: strange, odd
   Das kommt mir seltsam vor.
   That seems strange to me.
 
+Senat /zeˈnaːt/, der, -(e)s, -e: senate
+  Der Berliner Senat erhofft sich Hilfe vom Bundesverfassungsgericht.
+  The Berlin Senate is hoping for assistance from the Federal Constitutional Court.
+
 senden /ˈzɛndən/: to broadcast
   Das ZDF sendet den Spielfilm ab 21:45 Uhr.
   ZDF is broadcasting the movie at 9.45 p.m.
   Sendemast: broadcasting tower
 
+Sender /ˈzɛndɐ/, der, -s|~: station, channel, transmitter
+  private und öffentliche Sender: private and public TV and radio stations
+  Sender und Empfänger des Babyphons: transmitter and receiver of the baby monitor
+
 Senf /zɛnf/, der: mustard
+
+September /zɛpˈtɛmbɐ/, der, (-s)|~
 
 seriös /zeˈrjøːs/: reliable, serious
   Sie macht immer einen sehr seriösen Eindruck.
@@ -941,6 +976,8 @@ solch /zɔlç/: such
   Such impertinence!
   mit solchem Unsinn
 
+Soldat /zɔlˈdaːt/, -in, -en
+
 sollen /ˈzɔlən/: to have to, shall, to be supposed
   Diese neue Therapie soll ja sehr erfolgreich sein.
   This new therapy is supposed to be very successful.
@@ -1001,6 +1038,9 @@ sowie /zoˈviː/: and, as well as
 sowieso /zoviˈzoː/: anyway, anyhow
   Der Regen macht mir nichts aus, ich wollte sowieso zu Hause bleiben.
   I don't mind that it's raining, I wanted to stay at home anyway.
+
+Sozialismus /zoʦjaˈlɪsmʊs/, der, ~|uncountable: socialism
+  der Sozialismus in der DDR: socialism in the GDR
 
 spähen /ˈʃpɛːən/: to peer
   Er spähte über den Zaun/aus dem Fenster.
@@ -1079,6 +1119,9 @@ Spezi /ˈʃpeːʦi/, der-das, -: cola and lemonade
   Zwei Spezi, bitte.
   Two cola and lemonades, please.
 
+Spezialist /ʃpeʦjaˈlɪst/, -en|-en, -in: specialist
+  ein Spezialist für mobile Technologien: a mobile technology specialist
+
 speziell /ʃpeˈʦjɛl/: special
   ein ganz spezielles Angebot: a very special offer
 
@@ -1093,6 +1136,8 @@ Spiel /ʃpiːl/, das, Spiele: game
 Spielsachen /ˈʃpiːlzaxən/, pl: toys
 
 Spielsucht, die: compulsive gambling
+
+Spinat /ʃpiˈnaːt/, der, -(e)s|uncountable: spinach
 
 Spinne, die: spider
   Spinnennetz: spiderweb
@@ -1169,7 +1214,7 @@ Staatsgründung: founding of a state
 
 Stäbchen /ˈʃtɛːpçən/, das, -: chopstick
 
-Stadion /ˈʃtaːdjɔn/, das, Stadien: stadium
+Stadion /ˈʃtaːdjɔn/, das, -s|Stadien: stadium
 
 Stadt /ʃtat/, die, Städte /ˈʃtɛ(ː)tə/: town, city
 
@@ -1211,6 +1256,18 @@ Stärke /ˈʃtɛrkə/, die: strength, power, intensity, strong point
 starten /ˈʃtartən/: to start
   Das Spiel startet in wenigen Minuten.
   The play starts in a few minutes.
+  Die Läufer sind bereits gestartet.
+  The runners have already started.
+  Sie startet für Frankreich.
+  She's competing for France.
+  Das Flugzeug ist um 20 Uhr gestartet.
+  The plane took off at 8 pm.
+  Von wem wurde die Bürgerinitiative gestartet?
+  Who started the citizens' action group?
+  Bei der Kälte startet mein Auto schlecht.
+  My car has problems starting when it's cold.
+  Er startete den Motor.
+  He started up the engine.
 
 Stationierung /ʃtaʦjoˈniːrʊŋ/, die: stationing
 
@@ -1257,8 +1314,12 @@ stehen /ˈʃteːən/: to stand, to be, to have stopped, to depend on
   stehen bleiben: to stay
   Egal, was ich machte, der Esel blieb wie angewurzelt stehen.
   Whatever I did, the donkey stayed rooted to the spot.
+  jdm (gut) stehen: to (really) suit sb
+  Das Kleid / Die Frisur steht dir nicht.
+  That dress/hairstyle doesn't suit you.
 
 stehlen /ˈʃteːlən/: to steal
+  stehle, stahl, gestohlen
   Er hat Geld aus der Kasse gestohlen.
   He stole some money out of the cash register. 
 
@@ -1355,7 +1416,13 @@ stillen /ˈʃtɪlən/: to breastfeed
    Planst du, dein Kind zu stillen?
    Are you planning to breastfeed your baby?
 
-Stimme /ˈʃtɪmə/, die: vote
+Stimme /ˈʃtɪmə/, die: voice, part, vote
+  Sie krächzte mit heiserer Stimme: …
+  She croaked in a hoarse voice: …
+  die erste / zweite Stimme singen
+  to sing the first/second part
+  Der Antrag wurde mit fünf zu zwei Stimmen angenommen.
+  The application was approved by five votes to two.
 
 stimmen /ˈʃtɪmən/:
   richtig, korrekt sein
@@ -1378,6 +1445,10 @@ Stimmung /ˈʃtɪmʊŋ/, die: mood, atmosphere, good mood
 
 Stimmzettel /ˈʃtɪmʦɛtəl/, der, -: ballot paper
   die Stimmzettel auszählen: to count the ballot papers
+
+stinken /ˈʃtɪŋkən/: to stink
+  Im Kühlschrank stinkt irgendetwas.
+  Something in the fridge stinks.
 
 Stirn /ʃtɪrn/, die, -en: forehead
   eine hohe Stirn haben: to have a high forehead
@@ -1423,6 +1494,8 @@ Straftäter /ˈʃtraːftɛːtɐ/: offender, criminal
   jugendliche Straftäter: young offender
 
 Strand /ʃtrant/, der: flaches Ufer am Meer, beach
+
+Straße /ˈʃtraːsə/, die, -en: road, street
 
 Strauch /ʃtraux/, der, ..er /ˈʃtrɔyçɐ/: bush, shrub
   Beerensträucher: berry bushes
@@ -1512,6 +1585,10 @@ Struktur /ʃtrʊkˈtuːɐ/, die, -en: structure, texture
   die soziale Struktur der Gesellschaft: the social structure of society
   ein Gewebe mit einer rauen Struktur: a fabric with a coarse texture
 
+Student /ʃtuˈdɛnt/, -in, -en|-en: student
+  Sie ist Studentin an der Universität Leipzig.
+  She is a student at Leipzig University.
+
 Studium /ˈʃtuːdjʊm/, das, Studien: studies, study
   Sie fängt im Herbst ein Studium in Hannover an.
   She begins her studies in Hannover in the fall.
@@ -1537,6 +1614,12 @@ stürzen /ˈʃtʏrʦən/: to fall, to drop, to rush, to throw, to bring down, to
   mit dem/vom Fahrrad stürzen: to fall off your bike
   Der Aktienkurs stürzte ins Bodenlose.
   The share price took a dramatic tumble.
+  Sie stürzten panisch aus dem brennenden Haus.
+  They rushed out of the burning house in a panic.
+  jdn aus dem Fenster stürzen: to throw sb out of the window
+  jdn / sich ins Unglück / in den Ruin / … stürzen: to plunge sb / be plunged into misfortune/ruin/…
+  Der Diktator wurde vom Militär gestürzt.
+  The dictator was deposed by the army.
 
 Subjekt /zʊpˈjɛkt/, das, -e: subject, individual
   Subjekt, Prädikat und Objekt identifizieren: to identify the subject, predicate and object
@@ -1582,12 +1665,16 @@ Symbol /zʏmˈboːl/, das: symbol
   die Taube als Symbol des Friedens
   the dove as a symbol of peace
 
-Symbolik /zʏmˈboːlɪk/, die, (uncountable)
+Symbolik /zʏmˈboːlɪk/, die, |uncountable
   Die Taube steht in der christlichen Symbolik für den Heiligen Geist.
   In Christian symbolism, the dove represents the Holy Spirit.
 
 sympathisch /zʏmˈpaːtɪʃ/: likable, nice
   Sie ist mir nicht besonders sympathisch.
   I don't particularly like her.
+
+Symposion /zʏmˈpoːzjɔn/, das, -s|Symposien: symposium
+  an einem Symposion zum Thema Kindesmissbrauch teilnehmen
+  to attend a symposium on child abuse
 
 System /zʏsˈteːm/, das, -e

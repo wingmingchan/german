@@ -81,7 +81,7 @@ Café /kaˈfeː/, das
 
 Camembert /ˈkaməmbeːɐ/, der
 
-Curry /ˈkœri/, der-das, (uncountable)
+Curry /ˈkœri/, der-das, |uncountable
 
 ========================================================
 
@@ -127,7 +127,7 @@ Fleisch /flaiʃ/, das, -(e)s: meat
 
 Forelle /foˈrɛlə/, die, -n: trout
 
-Fressen /ˈfrɛsən/, das, (uncountable): food
+Fressen /ˈfrɛsən/, das, |uncountable: food
 
 fressen: to eat, to guzzle
 
@@ -369,7 +369,7 @@ Rindfleisch, das: beef
 
 Saft, der: juice
 
-Sahne /ˈzaːnə/, die, (uncountable): cream
+Sahne /ˈzaːnə/, die, |uncountable: cream
 
 Salz /zalʦ/, das
 
@@ -427,7 +427,7 @@ Speisekarte /ˈʃpaizəkartə/, die: menu
 Spieß /ʃpiːs/, der: spit
   am Spieß: on the pit
 
-Spinat /ʃpiˈnaːt/, der
+Spinat /ʃpiˈnaːt/, der, -(e)s|uncountable: spinach
 
 Sprudel /ˈʃpruːdəl/, der, -: sparkling mineral water, soda
 

@@ -55,11 +55,11 @@ Individuum /ɪndiˈviːduʊm/, das: individual
 
 Industrie /ɪndʊsˈtriː/, die: industry
 
-Informatik /ɪnfɔrˈmaːtɪk/, die, (uncountable): computer science
+Informatik /ɪnfɔrˈmaːtɪk/, die, ~|uncountable: computer science
 
-Informatiker /ɪnfɔrˈmaːtɪkɐ/, Informatikerin: computer scientist
+Informatiker /ɪnfɔrˈmaːtɪkɐ/, -s|~, Informatikerin: computer scientist
 
-Ingenieur /ɪnʒeˈnjøːɐ/, Ingenieurin: engineer
+Ingenieur /ɪnʒeˈnjøːɐ/, -s|-e, Ingenieurin: engineer
 
 Ingwer /ˈɪŋvɐ/, der, -: ginger
   Ingwerplätzchen: ginger cookies
@@ -103,7 +103,10 @@ Intelligenz /ɪntɛliˈɡɛnʦ/, die: intelligence
   die Interessen der Arbeitnehmer vertreten
   to represent the interests of the workers
 
-Internet /ˈɪntɐnɛt/, das, (uncountable)
+Internat /ɪntɐˈnaːt/, das, -(e)s|-e: boarding school
+  auf / in ein Internat gehen: to go to a boarding school
+
+Internet /ˈɪntɐnɛt/, das, -s|uncountable
   im Internet surfen: to surf the Internet
 
 Internetseite: site, web page
@@ -121,6 +124,31 @@ irgendwann: sometime
 irgendwie :somehow
 
 irgendwo: somewhere
+
+irre /ˈɪrə/: awesome, mind-blowing, incredible, crazy, mad
+  Das ist ein irres Spiel!
+  This is an awesome match!
+  Das macht einen irren Spaß!
+  It's incredible fun!
+  => verrückt
+  Bist du irre oder was?
+  Are you crazy or what?
+  Man sah schon an ihrem irren Blick, dass sie nicht ansprechbar war.
+  You could tell by her manic look that she wasn't approachable.
+
+irreführen /ˈɪrəfyːrən/: to mislead
+  Hier wird der Leser bewusst irregeführt.
+  The reader is consciously misled here.
+
+Irreführung, die: misleading
+  Das war bewusste Irreführung!
+  That was deliberate deception!
+
+Irrtum /ˈɪrtuːm/, der, -s|..er: mistake
+  Es wäre ein Irrtum zu glauben, dass …
+  It would be a mistake to believe that …
+  im Irrtum sein / sich im Irrtum befinden
+  to be wrong/mistaken
 
 Italien /iˈtaːlɪən/: Italy
 

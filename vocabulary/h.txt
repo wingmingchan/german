@@ -19,11 +19,12 @@ Hafer /ˈhaːfɐ/, der, Hafers: oats
 
 Haferbrei, der: porridge, oatmeal
 
-Haft /haft/, die, Haft: custody, imprisonment
+Haft /haft/, die, ~|uncountable: custody, imprisonment
   jdn in Haft nehmen/aus der Haft entlassen
   to take sb into custody/release sb from custody
   Sie wurde zu zwei Jahren Haft verurteilt.
-  She was sentenced to two years' imprisonment. 
+  She was sentenced to two years' imprisonment.
+  Abschiebehaft: remand pending deportation
 
 -haft: -like
 
@@ -98,6 +99,13 @@ Halterung /ˈhaltərʊŋ/, die: bracket, mounting
 Haltestelle /ˈhaltəʃtɛlə/, die, -en: stop
    An der nächsten Haltestelle müssen wir aussteigen.
    We have to get off at the next stop. 
+
+Haltung /ˈhaltʊŋ/, die: posture, attitude, composure
+  eine aufrechte / gebückte Haltung einnehmen
+  to stand upright/stoop over
+  Ich kann seine negative Haltung dazu nicht verstehen.
+  I can't understand his negative attitude toward it.
+  die Haltung verlieren / bewahren: to lose/keep your composure
 
 Hammer /ˈhamɐ/, der, Hämmer: hammer
   mit dem Hammer einen Nagel in die Wand schlagen
@@ -235,7 +243,7 @@ Hausmittel /ˈhausmɪtəl/, das: household remedy
 Haustür, die: front door
   vor der Haustür: on one's doorstep
 
-Haut /haut/, die: skin
+Haut /haut/, die, ~|..e: skin
   zarte/raue/empfindliche Haut haben
   to have delicate/rough/sensitive skin
 
@@ -294,7 +302,7 @@ heiser /ˈhaizɐ/: hoarse
   Ich bin vom vielen Schreien schon ganz heiser.
   I'm real hoarse after all that shouting.
 
-Heiserkeit /ˈhaizɐkait/, die, (uncountable): hoarseness
+Heiserkeit /ˈhaizɐkait/, die, |uncountable: hoarseness
 
 heiß /hais/: hot
   Vorsicht, heiß! Careful – hot!
@@ -318,6 +326,10 @@ Held /hɛlt/, Heldin, Helden: hero
   After the rescue operation he was celebrated as a hero.
 
 Heldentat, die: heroic deed
+
+Heldentum /ˈhɛldəntuːm/, das, -s|uncountable: heroism
+  Die Polizei warnt vor Heldentum in solchen Situationen.
+  The police warn against trying to play the hero in situations like that.
 
 helfen /ˈhɛlfən/: to help
   helfe, hilfst, hilft, habe geholfen
@@ -424,6 +436,12 @@ herstellen /ˈheːɐʃtɛlən/: to produce
   This company produces electrical appliances.
 
 Hersteller /ˈheːɐʃtɛlɐ/: manufacturer, maker, producer
+
+Herstellung /ˈheːɐʃtɛlʊŋ/, die, ~|uncountable: production, manufacture, establishing, getting
+  Das Modell geht jetzt in die serienmäßige Herstellung.
+  The model is now going into series production.
+  Es gab Probleme bei der Herstellung einer Verbindung zum Internet.
+  There were problems getting an Internet connection.
 
 herum /hɛˈrʊm/: (a)round, past, finished
   im Kreis herum: around in a circle
@@ -624,7 +642,7 @@ hoffentlich /ˈhɔfəntlɪç/: hopefully
   Hoffentlich ist ihnen nichts passiert.
   I hope nothing has happened to them.
 
-Hoffnung /ˈhɔfnʊŋ/, die, -en: hope
+Hoffnung /ˈhɔfnʊŋ/, die, ~|-en: hope
   Du darfst die Hoffnung nicht aufgeben!
   You mustn't give up hope.
 
@@ -713,7 +731,7 @@ Huhn /huːn/, das, Hühner: chicken, hen
 
 Hummer /ˈhʊmɐ/, der, -: lobster
 
-Humor /huˈmoːɐ/, der, (uncountable)
+Humor /huˈmoːɐ/, der, |uncountable
   Er hat viel / keinen Humor.
   He has a good/no sense of humor.
 
@@ -732,7 +750,7 @@ hungrig /ˈhʊŋrɪç/: hungry
 hüpfen /ˈhʏpfən/: to hop
   auf einem Bein hüpfen: to hop on one leg
 
-▲Husten /ˈhuːstən/, der, (uncountable): cough
+▲Husten /ˈhuːstən/, der, |uncountable: cough
   Husten haben / bekommen: to have/get a cough
 
 ▲husten /ˈhuːstən/: to cough

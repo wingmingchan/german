@@ -70,7 +70,7 @@ Pass /pas/, der: passport
 Passagier /pasaˈʒiːɐ/, Passagierin, Passagiere: passenger
   Passagiere befördern: to transport passengers 
 
-Passat /paˈsaːt/, der: trade wind
+Passat /paˈsaːt/, der, -(e)s|-e: trade wind
 
 passen /ˈpasən/: to fit
   Die Schuhe passen (mir) genau/nicht.
@@ -93,6 +93,8 @@ Patient /paˈʦjɛnt/, Patient, -en: patient
 
 Pause /ˈpauzə/, die: break, recess, rest
   Mittagspause: lunch break
+
+Pazifik /paˈtsiːfɪk/, der, -s|uncountable
 
 Pendler /ˈpɛndlɐ/: commuter
   Um diese Zeit ist der Zug immer voller Pendler.
@@ -151,13 +153,17 @@ Pfund /pfʊnt/, das: pound
   In England kostet das 25 Pfund.
   That costs 25 pounds in England. 
 
+Phobie /foˈbiː/, die, ~|-n: phobia
+  Sie hat eine Spinnenphobie.
+  She has a spider phobia.
+
 *Phosphor /ˈfɔsfoːɐ/, der
 
 Physik /fyˈziːk/, die: physics 
 
 Physiker /ˈfyːzikɐ/, Physikerin: physicist
 
-Piep(s) /piːp(s)/, der, (uncountable)
+Piep(s) /piːp(s)/, der, |uncountable
   keinen Piep(s) mehr machen / tun: not to make another sound
   keinen Piep(s) sagen: not to say a word
 
@@ -229,7 +235,7 @@ hoppeln /ˈhɔpəln/: to lollop, to hop
 
 Porzellan /pɔrʦəˈlaːn/, das, -e: porcelain, china
   Porzellanfiguren sammeln: to collect porcelain figures
-  (uncountable) china
+  |uncountable china
   den Tisch mit feinem Porzellan decken: to set the table with fine china
 
 Portier /pɔrˈtjeː/, der: doorman
@@ -281,6 +287,10 @@ Prinzip /prɪnˈʦiːp/, das, -ien: principle
   strenge moralische Prinzipen haben
   to have strict moral principles
 
+Prisma /ˈprɪsma/, das, -s|Prismen: prism
+  Ein Regenbogen entsteht, wenn das Sonnenlicht durch das Prisma der Regentropfen zerlegt wird.
+  A rainbow is formed when sunlight is dispersed through the prism of raindrops.
+
 Privatwohnung: private apartment
 
 Probe /ˈproːbə/, die: rehearsal, test, sample
@@ -288,6 +298,9 @@ Probe /ˈproːbə/, die: rehearsal, test, sample
 
 probieren /proˈbiːrən/: to try
   Die Frau probiert eine Bluse /ˈbluːzə/.
+
+Professor /proˈfɛsoːɐ/, -s|-en, -in: professor
+  Herr Professor Schmid: Professor Schmid
 
 Profi /ˈprofi/, der: professional
 
@@ -328,6 +341,10 @@ prüfen /ˈpryːfən/: to check, to examine, to test, to consider
   Wir werden Ihre Bitte sorgfältig prüfen.
   We will consider your request carefully.
 
+Prüfling /ˈpryːflɪŋ/, der, -s|-e: examinee
+  Von 80 Prüflingen haben 78 bestanden.
+  Out of 80 examinees 78 passed.
+
 Prüfung /ˈpryːfʊŋ/, die, -en: exam
   eine mündliche / schriftliche Prüfung: an oral/written exam
 
@@ -346,7 +363,7 @@ Pudding /ˈpʊdɪŋ/, der, -s: pudding
 
 Punkt /pʊŋkt/, der: point
 
-Pünktlichkeit /ˈpʏŋktlɪçkait/, die, (uncountable): punctuality
+Pünktlichkeit /ˈpʏŋktlɪçkait/, die, |uncountable: punctuality
   Ich erwarte von jedem Mitarbeiter korrektes Auftreten und absolute Pünktlichkeit.
   I expect correct behavior and absolute punctuality from every employee.
 

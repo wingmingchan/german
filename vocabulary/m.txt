@@ -72,7 +72,7 @@ manche /ˈmançə/: many, some
 
 manchmal /ˈmançmaːl/: sometimes
 
-Mangan /maŋˈɡaːn/, das, (uncountable): manganese 锰
+Mangan /maŋˈɡaːn/, das, |uncountable: manganese 锰
 
 Mangel /ˈmaŋəl/, Mängel, der: shortage, lack, defect, fault, flaw
 
@@ -81,6 +81,7 @@ Mann /man/, der, Männer
 Mannequin /ˈmanəkɛ̃/, das: model
 
 männlich /ˈmɛnlɪç/: male
+  <=> weiblich
 
 Mappe /ˈmapə/, die, -n: folder, briefcase
   Papiere in einer Mappe abheften: to file some papers in a folder
@@ -108,9 +109,15 @@ marschieren /marˈʃiːrən/: to trek, to march
   We trekked through the forest.
   im Gleichschritt marschieren: to march in step
 
+März /mɛrts/, der, (-es)|-e
+
 Maschine /maˈʃiːnə/, die: machine, plane
 
 Maschinenbau /maˈʃiːnənbau/, der: mechanical engineering
+
+Masochismus /mazɔˈxɪsmʊs/, der, ~|uncountable: masochism
+  Um seinen Masochismus auszuleben, ging er zu einer Domina.
+  He went to a dominatrix to give vent to his masochistic tendencies.
 
 Massaker /maˈsaːkɐ/, das: massacre
 
@@ -140,6 +147,12 @@ mauern /ˈmauɐn/: to build, to stonewall
 
 Maus /maus/, Mäuse /ˈmɔyzə/, die: mouse
   Mausefalle: mousetrap 
+
+Maximum /ˈmaksimʊm/, das, -s|Maxima: maximum
+  Das Auto bietet ein Maximum an Sicherheit.
+  The car offers maximum safety.
+
+Mäzen /mɛˈʦeːn/, -s|-e, -in: patron
 
 Medaille /meˈdaljə/, die, -n: medal
 
@@ -172,6 +185,8 @@ Mehrheit /ˈmeːɐhait/, die: majority
 
 mehrere /ˈmeːrərə/: several
   ein Text mit mehreren Fehlern: a text with several mistakes
+
+Mei /mai/, der, -(e)s|-e
 
 meiden /ˈmaidən/: to avoid
   Ich versuche, solche Leute zu meiden.
@@ -237,6 +252,9 @@ Mensa /ˈmɛnza/, die, -sen: student canteen
 
 Mensch /mɛnʃ/, Menschen, der: human
 
+Menschheit /ˈmɛnʃhait/, die, ~|uncountable: humankind, humanity, mankind
+  ein großer Fortschritt für die Menschheit: a giant leap forward for humankind
+
 merken /ˈmɛrkən/: to notice, to feel, to remember
   Er hat sofort gemerkt, dass etwas nicht stimmt.
   He immediately noticed that something was wrong.
@@ -271,7 +289,9 @@ Metapher /meˈtafɐ/, die, -n: metaphor
 Metzger, -, Metzgerin: butcher
   => Fleischer
 
-Metzgerei /mɛʦɡəˈrai/, die, -en: butcher shop
+Metzgerei /mɛʦɡəˈrai/, die, ~|-en: butcher shop
+
+Meuterei /mɔytəˈrai/, die, ~|-en: 
 
 Miete /ˈmiːtə/, die, -n: rent
   Wir zahlen monatlich 600 Euro Miete.
@@ -293,12 +313,16 @@ Milieu /miˈljøː/, das, -s: environment, milieu
   Diese Bakterien gedeihen in saurem Milieu nicht.
   These bacteria do not thrive in an acidic environment.
 
-Militär /miliˈtɛːɐ/, das, (uncountable): military, army
+*Militär /miliˈtɛːɐ/, das, -s|uncountable: military, army
+  Er ist beim Militär.
+  He's in the military.
 
 Milliarde /mɪlˈjardə/, die: billion
   eine halbe Milliarde Dollar Umsatz: half a billion dollars in turnover
 
 Million /mɪlˈjoːn/, die
+
+Millionär /mɪljoˈnɛːɐ/, -in, -e
 
 Minderheit /ˈmɪndɐhait/, die: minority
   eine diskriminierte/religiöse Minderheit: a minority facing discrimination/religious minority
@@ -336,6 +360,10 @@ Mischung /ˈmɪʃʊŋ/, die: mixture
 Missbrauch, der: abuse
 
 misslingen /mɪsˈlɪŋən/: to fail
+
+Missionar /mɪsjoˈnaːɐ/, -in, -e: missionary
+  Sie arbeiten als Missionare in Afrika.
+  They work as missionaries in Africa.
 
 △mit /mɪt/
 
@@ -391,6 +419,10 @@ Möbelpacker /ˈmøːbəlpakɐ/: mover
 Mode /ˈmoːdə/, die, Moden: fashion, custom
   die neue Herbstmode/Sommermode: the new fall/summer fashions
 
+Modell /moˈdɛl/, das, -e: model
+  Im Museum ist ein Modell der Burg zu besichtigen.
+  There is a model of the castle on display in the museum.
+
 modern /moˈdɛrn/
 
 mögen /ˈmøːɡən/: to want, to like
@@ -409,6 +441,20 @@ Möglichkeit /ˈmøːklɪçkait/, die: possibility, chance, opportunity, option
   It's perfectly possible that it's true.
 
 möglicherweise /ˈmøːklɪçɐˈvaizə/: possibly
+
+Moment /moˈmɛnt/, der, -(e)s|-e: moment
+  im geeigneten Moment handeln: to act at the right moment
+  Einen Moment, bitte!
+  im Moment: im Moment
+  jeden Moment: any moment
+  Die Bombe kann jeden Moment explodieren.
+  The bomb could go off at any moment.
+  Moment mal! Jetzt erinnere ich mich!
+  Hang on! Now I remember!
+
+Moment /moˈmɛnt/, das, -(e)s|-e: factor
+  Seiner Aktion fehlte das Überraschungsmoment.
+  His campaign lacked an element of surprise.
 
 momentan /momɛnˈtaːn/: present, current
   => zurzeit, derzeit
@@ -490,13 +536,15 @@ Murmeltier /ˈmʊrməltiːɐ/, das: marmot
 Musik /muˈziːk/, die, -en: music
   gemeinsam Musik machen: to make music together
 
+Muskat /mʊsˈkaːt, ˈmʊskat/, der, -(e)s|-e: nutmeg 肉豆蔻
+
 Müsli /ˈmyːsli/, das: muesli
 
 müssen /ˈmʏsən/: to have to, must
   Ich/Er muss jetzt gehen.
   I/He must go now.
 
-Mut /muːt/, der, (uncountable): courage, bravery
+Mut /muːt/, der, |uncountable: courage, bravery
   <=> Feigheit
   Es gehört schon Mut dazu, ihm zu widersprechen.
   It takes a lot of courage to contradict him.

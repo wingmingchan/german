@@ -12,6 +12,8 @@ Jagd /jaːkt/, die: hunting, chase, hunt
 
 Jagd machen auf: prey on
 
+Jaguar /ˈjaːɡuaːɐ/, der, -s|-e: jaguar, panther
+
 *Jahr /jaːɐ/, das, -e: year
   im kommenden / vergangenen Jahr: next/last year
   Frohes neues Jahr! Happy New Year!
@@ -25,13 +27,13 @@ Jahrhundert /jaːɐˈhʊndɐt/, das, -e: century
 
 jährig /ˈjɛːrɪç/: lasting a year, one-year
 
-Januar /ˈjanuaːɐ/, der: January
+Januar /ˈjanuaːɐ/, der, -s|-e: January
 
-Japan /ˈjaːpan/
+Japan /ˈjaːpan/, das, -s
 
-Japaner, der, Japanerin, Japaner
+Japaner, der, Japanerin, -s|~
 
-Japanisch
+japanisch /jaˈpaːnɪʃ/
 
 je /jeː/: ever, each
   Es ist ungewiss, ob er je wieder gesund wird.
@@ -121,11 +123,11 @@ Journal /ʒurˈnaːl/, das, -e: magazine
   ein Journal, das Verbraucher informiert: a consumer magazine
   ein Modejournal: a fashion magazine
 
-Journalismus /ʒurnaˈlɪsmʊs/, der, (uncountable): journalism
+Journalismus /ʒurnaˈlɪsmʊs/, der, |uncountable: journalism
   investigativer Journalismus: investigative journalism
   Lokaljournalismus
 
-Journalist /ʒʊrnaˈlɪst/, Journalistin: journalist
+Journalist /ʒʊrnaˈlɪst/ -en|-en, Journalistin: journalist
   als freier Journalist arbeiten: to work as a freelance journalist
 
 journalistisch /ʒʊrnaˈlɪstɪʃ/: journalistic
@@ -137,6 +139,8 @@ Jubel /ˈjuːbl/, der: jubilation, cheer, rejoicing
 
 jüdisch /ˈjyːdɪʃ/: Jewish
 
+Juli /ˈjuːli/, der, -s|-s
+
 jung /jʊŋ/
   eine junge Frau: a young woman
   Geh noch nicht, der Tag ist doch noch jung!
@@ -146,3 +150,5 @@ jung /jʊŋ/
 Junge, das: young one, offspring
 
 Junge, der: boy
+
+Juni /ˈjuːni/, der, -s|-s

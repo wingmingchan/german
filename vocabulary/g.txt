@@ -47,6 +47,12 @@ gar /ɡaːɐ/: at all, whatsoever, too, even
   Ich glaube gar, er kommt nicht mehr.
   I even think he's not going to come at all.
 
+Garantie /ɡaranˈtiː/, die, ~|-n: guarantee
+  Für dieses Gerät übernehmen wir drei Jahre Garantie.
+  We offer a three-year guarantee on this device.
+  Ich glaube, dass es funktioniert, aber ich kann keine Garantie dafür übernehmen.
+  I think it'll work but I can't guarantee it.
+
 garantieren /ɡaranˈtiːrən/: to guarantee
 
 Garnele /ɡarˈneːlə/, die, Garnelen: prawn, shrimp
@@ -71,6 +77,17 @@ Gatte/Gattin: spouse
 Gebärde /ɡəˈbɛːɐdə/, die, -n: gesture
   die Gebärdensprache der Gehörlosen
   the sign language used by the deaf
+
+Gebaren /ɡəˈbaːrən/, das, -s|uncountable: behavior
+  ein merkwürdiges Gebaren: strange behavior
+  
+gebären /ɡəˈbɛːrən/: to give birth to (a child)
+  Hat sie schon ein Kind / einmal geboren?
+  Has she ever had a child/given birth?
+
+Gebäude /ɡəˈbɔydə/, das, -s|~: building
+  Die Polizei ließ das Gebäude räumen.
+  The police had the building evacuated.
 
 Gebet /ɡəˈbeːt/, das, -e: prayer
   die Hände zum Gebet falten
@@ -106,11 +123,31 @@ gebrannt => brennen
 gebratenes [gedünstetes, gegrilltes, gekochtes, geschmortes] Fleisch:
   roast(ed) [steamed, grilled, boiled, stewed] meat
 
-Gebühr /ɡəˈbyːɐ/, die, -en: fee
+Gebrauch /ɡəˈbraux/, der, -(e)s|..e: use
+  Der Polizist machte von seiner Schusswaffe Gebrauch.
+  The policeman made use of his weapon.
+
+Gebrüll /ɡəˈbrʏl/, das, -(e)s: roaring, screaming
+  => brüllen
+  Löwengebrüll: the roar of lions
+  Aus dem Kinderzimmer ertönte wütendes Gebrüll.
+  There was furious yelling coming from the kids’ playroom.
+
+Gebühr /ɡəˈbyːɐ/, die, ~|-en: fee
   In Frankreich werden für die Benutzung von Autobahnen Gebühren erhoben.
   In France there are tolls for the use of the freeways.
 
-Geburt /ɡəˈbuːɐt/, die, -en: birth
+gebühren /ɡəˈbyːrən/
+  etw. gebührt jdm / etw.: sth is due to sb/sth
+  Seinem mutigen Einschreiten gebührt unser Dank.
+  His brave intervention deserves our gratitude.
+  Ehre, wem Ehre gebührt!
+  Credit where credit's due.
+  etw. gebührt sich: sth is appropriate
+  Ein solches Benehmen gebührt sich nicht.
+  Behavior like that is inappropriate.
+
+Geburt /ɡəˈbuːɐt/, die, ~|-en: birth
   von Geburt an blind / taub sein: to be blind/deaf from birth
   von Geburt: by birth 生於
   Er ist Franzose von Geburt.
@@ -129,7 +166,7 @@ Gedächtnis /ɡəˈdɛçtnɪs/, das: memory
   Mein Gedächtnis lässt mich manchmal im Stich.
   My memory sometimes lets me down.
 
-Gedanke /ɡəˈdaŋkə/, der, Gedanken: thought, idea
+Gedanke /ɡəˈdaŋkə/, der, -ns|-n: thought, idea
   jdn auf andere Gedanken bringen
   to help sb forget their troubles
   Kommt mir bloß nicht auf dumme Gedanken!
@@ -137,7 +174,7 @@ Gedanke /ɡəˈdaŋkə/, der, Gedanken: thought, idea
   sich über jdn / etw. Gedanken machen: to be concerned about sb/sth
   Darüber habe ich mir für Euch Gedanken gemacht.
 
-Geduld /ɡəˈdʊlt/, die: patience
+Geduld /ɡəˈdʊlt/, die, ~|uncountable: patience
   Er hat beim / fürs Basteln keine Geduld.
   He has no patience for making things.
 
@@ -149,9 +186,13 @@ geeignet /ɡəˈ|aiɡnət/: suitable
   Sie ist für diese Stelle nicht geeignet.
   She's not suitable for this position.
 
-Gefahr /ɡəˈfaːɐ/, die, -en: danger
+Gefahr /ɡəˈfaːɐ/, die, ~|-en: danger
   Es besteht die Gefahr, dass jemand ins Eis einbricht.
   There is a risk that someone might fall through the ice.
+  auf eigene Gefahr: at your own risk
+  Gefahr laufen, etw. zu tun: to run the risk of doing sth
+  Wer dort nachts auf die Straße geht, läuft Gefahr, überfallen zu werden.
+  Anyone who goes out onto the street at night runs the risk of being mugged.
 
 gefährden /ɡəˈfɛːɐdən/: to endanger
   Rauchen gefährdet die Gesundheit.
@@ -164,7 +205,7 @@ gefährlich /ɡəˈfɛːɐlɪç/: dangerous
 Gefälle /ɡeˈfɛlə/, die, Gefälle: slope
   eine Straße mit starkem Gefälle: a road with a steep gradient 
 
-Gefallen /ɡəˈfalən/, der, -: favor, pleasure
+Gefallen /ɡəˈfalən/, der, -s|~: favor, pleasure
   an etw Gefallen finden: to get pleasure from sth
   bei jdm Gefallen finden: to appeal to sb
   jdm einen Gefallen tun / erweisen: to do sb a favor
@@ -178,6 +219,10 @@ gefallen: to please
   Are you actually going to put up with this impertinence?
 
 gefällt => fällen, gefallen
+
+Gefangenschaft /ɡəˈfaŋənʃaft/, die, -en: capture
+  in Gefangenschaft geraten / sein / leben
+  to be captured/be in captivity/live in captivity
 
 Gefängnis /ɡəˈfɛŋnɪs/, das: prison
   im Gefängnis sitzen/sein: to be in prison
@@ -219,6 +264,10 @@ Gegenstand /ˈɡeːɡənʃtant/, der, ..e: object, subject
 
 Gegenstelle, die: remote terminal, distant end
 
+Gegenteil /ˈɡeːɡəntail/, das, -e: opposite
+  „Schwer‟ ist das Gegenteil von „leicht‟.
+  “Heavy” is the opposite of “light”.
+
 gegenüber /ɡeːɡənˈ|yːbɐ/: opposite, compared to, in comparison with, toward(s)
   Die Post ist genau gegenüber dem Bäcker.
   The post office is opposite the baker's.
@@ -239,7 +288,13 @@ Gegner /ˈɡeːɡnɐ/, Gegnerin: opponent
 
 gegnerische: opposing
 
-Gehalt /ɡəˈhalt/, das: salary
+Gehalt /ɡəˈhalt/, der, -(e)s|-e: content
+  Getränke mit einem hohen Gehalt an Alkohol: drinks with a high alcohol content
+  der politische Gehalt eines Liedes / Romans: the political content of a song/novel
+
+Gehalt /ɡəˈhalt/, das, -(e)s|..er: salary
+  Wie hoch ist sein Monatsgehalt?
+  How high is his monthly salary?
 
 gehäuft /ɡəˈhɔyft/: massed, frequent
   => häufig, häufen
@@ -274,11 +329,23 @@ geholt => holen
 
 Gehölz /ɡəˈhœlʦ/, das: grove, copse, thicket
 
+gehorchen /ɡəˈhɔrçən/: to obey, to work
+  Der Hund gehorcht schlecht.
+  The dog doesn't listen.
+  Plötzlich gehorchten ihr die Beine nicht mehr.
+  Suddenly her legs wouldn't work anymore.
+
 gehören /ɡəˈhøːrən/: to belong to, to be among, to go, to require, to be part of
   Wem gehört dieser Stift?
   Whose pen is this?
   Kostenlose Lieferung gehört zu unserem Service.
   Free delivery is part of our service.
+
+Gehorsam /ɡəˈhoːɐzaːm/, der, -s|uncountable: obedience
+  => gehorchen
+  bedingungslosen Gehorsam verlangen: to demand unquestioning obedience
+
+gehorsam: obedient
 
 geil /ɡail/: awesome, obsessed, horny, hot
   Er fährt einen geilen Wagen.
@@ -399,7 +466,7 @@ gemein /ɡəˈmain/: mean, nasty, cruel, annoying
   Jetzt fängt es auch noch zu regnen an, wie gemein!
   And now it's starting to rain as well – how annoying!
 
-Gemeinde /ɡəˈmaində/, die: municipality, community
+Gemeinde /ɡəˈmaində/, die, ~|-n: municipality, community
   Bund, Länder und Gemeinden
   the Federal Government, the Federal States, and the municipalities
 
@@ -411,6 +478,10 @@ gemeinnützig /ɡəˈmainnʏʦɪç/: charitable, non-profit
 gemeinsam /ɡəˈmainzaːm/: common, joint, mutual, united, collectively, together, in common, in concert
   gemeinsam wandern/singen: to go hiking/to sing together
   gemeinsame Interessen haben: to share common interests
+
+Gemeinschaft /ɡəˈmainʃaft/, die, ~|-en: community
+  jdn aus einer Gemeinschaft ausschließen: to exclude sb from a community
+  die Europäische Gemeinschaft: The European Community
 
 gemeint: serious
   => meinen
@@ -457,13 +528,20 @@ genital /geniˈtaːl/
 
 genommen => nehmen
 
-Genuss /ɡəˈnʊs/, der: enjoyment, pleasure
+Genosse /ɡəˈnɔsə/, -n|-n, Genossin: comrade, buddy, member
+  ein Antrag des Genossen Steiner: comrade Steiner's proposal
+  Er traf sich mit seinen Jagdgenossen.
+  He met with his hunting buddies.
+  ein Revierkampf unter Artgenossen
+  a territorial fight among members of the same species
+
+Genuss /ɡəˈnʊs/, der, -es|..e: enjoyment, pleasure
 
 Genussmittel /ɡəˈnʊsmɪtəl/, das, -: luxury food and drinks, stimulant
 
 Geologe /ɡeoˈloːɡə/: geologist
 
-Geologie /ɡeoloˈɡiː/, die, (uncountable)
+Geologie /ɡeoloˈɡiː/, die, |uncountable
 
 geprüft => prüfen
 
@@ -513,15 +591,24 @@ geringschätzig /ɡəˈrɪŋʃɛʦɪç/: contemptuous, disparaging
   „Du schaffst das sowieso nicht!‟, meinte sie geringschätzig.
   “You’ll never manage that anyway,” she said contemptuously.
 
+Gerippe /ɡəˈrɪpə/, das, -s|~: skeleton, frame(work)
+  Im Sand lag ein ausgebleichtes Gerippe.
+  There was a faded skeleton on the beach.
+  das Gerippe eines Flugzeugs / Schiffes: the framework of an aircraft/a ship
+
 Geröll /ɡəˈrœl/, das: debris, pebbles, gravel
 
-Geruch /ɡəˈrʊx/, der, ..e: smell
+Geruch /ɡəˈrʊx/, der, -(e)s|..e: smell
   Ihr Parfüm hatte einen süßlichen Geruch.
   Her perfume has a cloying smell.
 
 gerundet: rounded
 
 gesammelt: collected
+
+Gesang /ɡəˈzaŋ/, der, -(e)s|..e: singing, song
+  der wunderschöne Gesang der Nachtigall: the wonderful singing of the nightingale
+  geistliche Gesänge: spiritual songs
 
 geschah => geschehen
 
@@ -532,7 +619,7 @@ Geschäftsmann: businessman
 geschehen /ɡəˈʃeːən/: to happen, to occur
   geschehe, geschiehst, geschieht, ihr gescheht, bin geschehen
 
-Geschichte /ɡəˈʃɪçtə/, die: story
+Geschichte /ɡəˈʃɪçtə/, die, ~|-n: story, history
 
 geschickt /ɡəˈʃɪkt/: skillful
   => gewandt
@@ -556,6 +643,12 @@ Geschirr /ɡəˈʃɪr/, das, -e: dishes, crockery
   Dieses Geschirr ist spülmaschinenfest.
   These dishes are dishwasher safe.
   das Geschirr spülen: to do the dishes
+
+Geschmack /ɡəˈʃmak/, der, -(e)s|..e: taste
+  Die Blätter haben einen bitteren Geschmack.
+  The leaves have a bitter taste.
+  Er hat viel / einen guten Geschmack, was Kleidung angeht.
+  He has a lot of taste/has good taste when it comes to clothes.
 
 Geschütz /ɡəˈʃʏʦ/, das, -e: gun, cannon
   ein Geschütz laden / abfeuern: to load/fire a gun
@@ -600,7 +693,7 @@ gesetzlich /ɡəˈzɛʦlɪç/: legal
   Jeder ist gesetzlich verpflichtet, Mitmenschen in Not Erste Hilfe zu leisten.
   Everyone is legally obliged to give first aid to people in need.
 
-Gesicht /ɡəˈzɪçt/, das, Gesichter: face
+Gesicht /ɡəˈzɪçt/, das, -(e)s|-er: face
   ein hübsches Gesicht haben: to have a pretty face
 
 Gesöff /ɡəˈzœf/, das, -e: brew
@@ -613,7 +706,7 @@ Gespräch /ɡəˈʃprɛːç/, das, -e: conversation
   mit jdm ein Gespräch über private Dinge führen
   to have a conversation with sb about private matters
 
-Gestalt /ɡəˈʃtalt/, die, Gestalten: form, figure, character
+Gestalt /ɡəˈʃtalt/, die, ~|-en: form, shape, figure, character
   Am Bahnhof lungerten dunkle Gestalten herum.
   There were shady characters hanging around the station.
 
@@ -624,6 +717,9 @@ gestalten /ɡəˈʃtaltən/:
   sich irgendwie gestalten: to develop in a certain way
   Die Umbauarbeiten gestalten sich schwieriger als erwartet.
   The renovations are proving to be more difficult than anticipated.
+
+Gestank /ɡəˈʃtaŋk/, der, -(e)s|uncountable: stink
+  => stinken
 
 gestehen /ɡəˈʃteːən/: to confess (to), to admit (to)
   Der Mörder hat (die Tat) gestanden.
@@ -649,7 +745,11 @@ getigert /ɡeˈtiːɡɐt/: striped
 
 Getränk /ɡəˈtrɛŋk/, das, -e: beverage, drink
 
-Gewalt, die: violence, force, power, authority
+Gewähr /ɡəˈvɛːɐ/, die, ~|uncountable: guarantee, liability
+  Alle Angaben ohne Gewähr!
+  No liability can be assumed for any of the details provided.
+
+Gewalt /ɡəˈvalt/, die, ~|-en: violence, force, power, authority
   Gewalt anwenden: to use force
   mit (aller) Gewalt: by force
   staatliche/elterliche Gewalt: public/parental authority 
@@ -677,11 +777,11 @@ Gewehr /ɡəˈveːɐ/, das: rifle, shotgun
 
 geweiht: sacred, holy
 
-Gewerkschaft /ɡəˈvɛrkʃaft/, die: labor union
+Gewerkschaft /ɡəˈvɛrkʃaft/, die, ~|-en: labor union
 
 gewesen => sein
 
-Gewinn /ɡəˈvɪn/, der, -e: profit
+Gewinn /ɡəˈvɪn/, der, -(e)s|-e: profit
   <=> Verlust
   hohe Gewinne erzielen: to make handsome profits
 
@@ -702,6 +802,15 @@ Gewohnheit /ɡəˈvoːnhait/, die, Gewohnheiten: habit
 gewöhnlich /ɡəˈvøːnlɪç/: normal
   ein ganz gewöhnlicher Tag: an absolutely ordinary day
 
+gewohnt /ɡəˈvoːnt/: familiar, habitual, usual
+  Das Tier fühlt sich in seiner gewohnten Umgebung am wohlsten.
+  The animal feels most at ease in familiar surroundings.
+  etw. gewohnt sein: to be used to sth
+  Ich bin (es) nicht gewohnt, so früh aufzustehen.
+  I'm not used to getting up so early.
+  Ich bin solche Temperamentsausbrüche nicht gewohnt.
+  I'm not used to such temperamental outbursts.
+
 geworden => werden
 
 Gewürz /ɡəˈvʏrʦ/, das, -e: spice, seasoning, condiment
@@ -718,7 +827,7 @@ gezogen => ziehen
 gezwungen /ɡəˈʦvʊŋən/: forced, strained
   => zwingen
 
-Gier /ɡiːɐ/, die, (uncountable): greed
+Gier /ɡiːɐ/, die, |uncountable: greed
   Sie stürzten sich voller Gier aufs Essen.
   Driven by greed, they made a dive for the food.
 

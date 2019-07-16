@@ -252,7 +252,7 @@ begabt /bəˈɡaːpt/: talented, gifted
   Sie ist musikalisch begabt.
   She's gifted musically. 
 
-begegnen: to meet, to confront, to face, to confront
+begegnen /bəˈɡeːɡnən/ [dative]: to meet, to confront, to face, to confront
   Ich bin ihm zum ersten Mal auf einer Party begegnet.
   I first met him at a party.
   jdm mit Misstrauen/Respekt begegnen: to treat sb with distrust/respect
@@ -285,7 +285,7 @@ Begeisterung /bəˈɡaistərʊŋ/, die: enthusiasm
   sich ohne Begeisterung an die Arbeit machen
   to set to work with no enthusiasm
 
-Beginn /bəˈɡɪn/, der, (uncountable): beginning, start
+Beginn /bəˈɡɪn/, der, |uncountable: beginning, start
   => Anfang
   Der Beginn des Konzertes wurde verschoben.
   The start of the concert was delayed.
@@ -308,6 +308,9 @@ Begleitung, die: companion, accompaniment
 beglücken /bə’ɡlʏkən/: to please, to make happy
   Das war eine beglückende Erfahrung.
   That was an uplifting experience.
+
+begreiflich /bə’ɡraiflɪç/: understandable
+  schwer begreiflicher Leichtsinn: recklessness that is hard to fathom
 
 begrenzt /bəˈɡrɛnʦt/: limited, to a limited extent
   nur begrenzte Zeit zur Verfügung stehen
@@ -433,7 +436,22 @@ bekleckern /bəˈklɛkɐn/: to spill on, to stain
   sich nicht gerade mit Ruhm bekleckern
   not to exactly cover yourself with glory
 
-bekommen /bəˈkɔmən/: to get, to receive, to have
+bekommen /bəˈkɔmən/: to get, to receive, to have, to catch
+  Ich bekomme noch fünf Euro von dir!
+  You owe me five euros!
+  etw. von jdm gesagt bekommen: to get told sth by sb
+  Was bekommen Sie?
+  What are you having?
+  Er hat vier Jahre (Gefängnis) bekommen.
+  He got four years (in prison).
+  Durch die Verspätung haben wir unseren Anschluss nach Trier nicht mehr bekommen.
+  Thanks to the delay we missed our connection to Trier.
+  etw. bekommt jdm (gut): sth agrees with sb/sth does sb good
+  Du siehst gut aus, die Landluft scheint dir zu bekommen.
+  You look good – country air seems to agree with you.
+  etw. bekommt jdm schlecht / nicht: sth doesn't agree with sb/sth doesn't do sb any good
+  Das Essen ist mir [dative] nicht bekommen.
+  The food didn't agree with me.
 
 bekömmlich /bəˈkœmlɪç/: digestible
   Grüne Kartoffeln sind nicht bekömmlich.
@@ -643,7 +661,7 @@ Beschränkung /bəˈʃrɛŋkʊŋ/, die, -en: restriction
   die Beschränkung der Redezeit auf 5 Minuten: limiting speaking time to 5 minutes
   jdm / sich Beschränkungen auferlegen: to impose restrictions on sb/yourself
 
-Beschreibung /bəˈʃraibʊŋ/, die: description
+Beschreibung /bəˈʃraibʊŋ/, die, -en: description
 
 beschriften /bəˈʃrɪftən/: to label, to inscribe
   die Marmeladengläser beschriften: to label the Mason jars
@@ -797,7 +815,7 @@ Betrieb /bəˈtriːp/, der, -e: operation, company, business
 
 betrinken: to get drunk
 
-Betrug /bəˈtruːk/, der, (uncountable): trick, scam
+Betrug /bəˈtruːk/, der, |uncountable: trick, scam
   auf einen Betrug hereinfallen: to be the victim of a scam
 
 betrügen /bəˈtryːɡən/: to cheat
@@ -902,6 +920,9 @@ Bewohner, Bewohnerin: occupant, resident
 bewundern /bəˈvʊndɐn/: to admire
 
 bewusst /bəˈvʊst/: deliberate
+  Das war bewusste Irreführung!
+  That was deliberate deception!
+  
 
 bezahlen /bəˈʦaːlən/: to pay for
   eine Rechnung bar bezahlen: to pay an invoice in cash
@@ -933,9 +954,11 @@ Bibel /ˈbiːbəl/, die, -n: bible
 
 Biber /ˈbiːbɐ/, der, Biber: beaver
 
-Bibliothek /biblioˈteːk/, die, -en: library
+Bibliothek /biblioˈteːk/, die, -e: library
   sich aus der Universitätsbibliothek ein Buch ausleihen
   to borrow a book from the university library
+
+Bibliothekar /biblioteˈkaːɐ/, -in, -en
 
 biegen /ˈbiːgən/: to bend, to turn
   biege, bog, gebogen
@@ -972,7 +995,7 @@ Bildung /ˈbɪldʊŋ/, die: education, forming
   eine Partei mit der Regierungsbildung beauftragen
   to assign a party the task of forming a government
 
-Billard /ˈbɪljart/, das, (uncountable): billards
+Billard /ˈbɪljart/, das, |uncountable: billards
   Billardtisch: billiard table
 
 billig /ˈbɪlɪç/: cheap
@@ -1015,6 +1038,13 @@ Beziehung: relationship
   We have a friendly relationship with one another.
 
 blamieren /blaˈmiːrən/: to embarrass, to disgrace
+
+Blase /ˈblaːzə/, die, ~|-n: bubble, blister, bladder
+  Der Anstrich warf in der Hitze Blasen.
+  The paint blistered in the heat.
+  Von meinen neuen Schuhen habe ich Blasen an den Füßen.
+  I have blisters on my feet from my new shoes.
+  die Blase entleeren müssen: to have to empty your bladder
 
 blasen /ˈblaːzən/: to blow, to play
   blasen, damit die Suppe abkühlt
@@ -1078,7 +1108,7 @@ blöd /bløːt/: stupid, dumb
   So ein blöder Affe!
   What a jerk!
 
-Blödheit /ˈbløːthait/, die, (uncountable): stupidity
+Blödheit /ˈbløːthait/, die, |uncountable: stupidity
   Ich habe aus lauter Blödheit eine wichtige Datei gelöscht.
   I deleted an important file through sheer stupidity.
 
@@ -1119,7 +1149,7 @@ Boden /ˈboːdən/, der, ..: ground, soil
 
 bog => biegen
 
-Bogen /ˈboːɡən/, der, Bögen: curve, arch, bow
+Bogen /ˈboːɡən/, der, -s|~,Bögen: curve, arch, bow
   An der Stelle macht/beschreibt die Straße einen Bogen.
   At that point there is a curve in the road.
   Torbogen: archway
@@ -1293,6 +1323,11 @@ Brücke /ˈbrʏkə/, die, Brücken: bridge
   Eine Hängebrücke führte über den Fluss.
   A rope bridge led across the river.
 
+brüllen /ˈbrʏlən/: to roar, to scream
+  vor Durst brüllende Rinder: cattle bellowing with thirst
+​ Er brüllte vor Schmerz.
+  He was screaming with pain.
+
 Brust /brʊst/, die, Brüste: chest, breast
   Brustschwimmen: breaststroke
   Brustkrebs: breast cancer
@@ -1354,7 +1389,7 @@ Bundeskanzler, Bundeskanzlerin: federal chancellor
 
 Bundesversammlung, die: Federal Assembly
 
-Bundeswehr /ˈbʊndəsveːɐ/, die, (uncountable): armed forces
+Bundeswehr /ˈbʊndəsveːɐ/, die, |uncountable: armed forces
 
 Bündnispolitik, die: policy of alliances
 

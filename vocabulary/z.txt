@@ -86,6 +86,14 @@ zelebrieren /ʦeleˈbriːrən/: to celebrate
 Zelt /ʦɛlt/, das: tent
   ein Zelt aufstellen/abbrechen: to put up/take down a tent
 
+Zement /ʦeˈmɛnt/, der, -(e)s|uncountable: cement
+  Zement mischen: to mix cement
+
+Zentrum /ˈʦɛntrʊm/, das, -s|Zentren: center
+  im Zentrum der Stadt wohnen: to live downtown
+  das kulturelle Zentrum eines Landes: the cultural center of a country
+  ein Kulturzentrum errichten: to build a cultural center
+
 zerbrechen /ʦɛɐˈbrɛçən/: to break (into pieces), to smash (to pieces)
   eine Fensterscheibe / einen Stock zerbrechen
   to smash a window/snap a stick
@@ -150,7 +158,7 @@ Ziel /ʦiːl/, das, -e: goal, aim, objective, target, destination
 
 ziemlich /ˈʦiːmlɪç/: quite, rather
 
-Zier /ʦiːɐ/, die, (uncountable): ornament, decoration, adornment
+Zier /ʦiːɐ/, die, |uncountable: ornament, decoration, adornment
 
 Ziffer /ˈʦɪfɐ/, die, -n: digit, number, numeral, subsection, clause
   arabische / römische Ziffern: Arabic/Roman numerals
@@ -164,6 +172,12 @@ Zinn, das: tin
 Zinshahn: cock given as rent
 
 zirka /ˈʦɪrka/ => circa
+
+Zirkus /ˈʦɪrkʊs/, der, ~|-se: circus, fuss
+  Ein Zirkus gastiert in der Stadt.
+  A circus is in town.
+  Mach doch nicht so einen Zirkus wegen dieser Kleinigkeit!
+  There's no need to make such a song and dance about something so small!
 
 Zitat /ʦiˈtaːt/, das, -e: quotation
   eine Aussage mit Zitaten belegen: to support a statement with citations
@@ -396,7 +410,7 @@ zuverlässig /ˈʦuːfɛɐlɛsɪç/: reliable
   Martina ist hilfsbereit und sehr zuverlässig.
   Martina is helpful and very reliable.
 
-Zuverlässigkeit /ˈʦuːfɛɐlɛsɪçkait/, die, (uncountable): reliability
+Zuverlässigkeit /ˈʦuːfɛɐlɛsɪçkait/, die, |uncountable: reliability
 
 zwängen /ˈʦvɛŋən/: to squeeze, to force
   seine Füße in viel zu kleine Schuhe zwängen

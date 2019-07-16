@@ -2,14 +2,14 @@
 A /aː/ A wie Anton, Ä wie Ärger
 ========================================================
 
-Aal /aːl/, der, -e: eel
+Aal /aːl/, der, -(e)s|-e: eel
   Räucheraal: smoked eel 
 
 aalen /ˈaːlən/: to laze, to bask
   Wir haben uns stundenlang in der Sonne geaalt.
   We basked in the sun for hours.
 
-Aas /aːs/, das, (uncountable): carrion, jackass
+Aas /aːs/, das, -es|uncountable: carrion, jackass
   Geier ernähren sich von Aas.
   Vultures live on carrion.
   So ein mieses Aas!
@@ -34,11 +34,11 @@ abdrucken /ˈapdrʊkən/: to print
   Ihr Leserbrief wurde in der Zeitung abgedruckt.
   Her letter to the editor was printed in the newspaper.
 
-Abend /ˈaːbənt/, der, Abende: evening
+Abend /ˈaːbənt/, der, -s|-e: evening
 
-Abendessen /ˈaːbənt|ɛsən/, das: supper
+Abendessen /ˈaːbənt|ɛsən/, das, -s|-en: supper
 
-Abenteuer /ˈaːbəntɔʏɐ/, das, -: adventure
+Abenteuer /ˈaːbəntɔʏɐ/, das, -s|~: adventure
   Er hat auf seinen Reisen manches Abenteuer erlebt.
   On his travels he had many an adventure.
   Lass dich nicht auf ihn ein, er ist nur auf ein Abenteuer aus.
@@ -46,7 +46,7 @@ Abenteuer /ˈaːbəntɔʏɐ/, das, -: adventure
 
 aber /ˈaːbɐ/: but
 
-Abfall /ˈapfal/, Abfälle /ˈapfɛlə/, der: waste, trash
+Abfall /ˈapfal/, der, -(e)s|..e: waste, trash
   industrielle Abfälle: industrial waste
 
 abfällig /ˈapfɛlɪç/: derogatory
@@ -61,7 +61,7 @@ abfinden /ˈapfɪndən/: to pay off, to come to terms with
   Er hat sich damit abgefunden, dass das nicht mehr klappen wird.
   He had come to accept the fact that it's never going to work.
 
-Abflug /ˈapfluːk/, Abflüge, der: departure
+Abflug /ˈapfluːk/, der, -(e)s|..e: departure
   Der Abflug verzögert sich um 30 Minuten.
   The departure will be delayed by 30 minutes.
 
@@ -81,7 +81,7 @@ abführen /ˈapfyːrən/: to lead away, to pay
   Nach 500 m führt der Radweg von der Straße ab.
   After 500 m the cycle path leads away from the road.
 
-Abgabe /ˈapɡaːbə/, die: tax, duty, submission, sale, distribution
+Abgabe /ˈapɡaːbə/, die, ~|-n: tax, duty, submission, sale, distribution
   hohe Abgaben zahlen müssen: to have to pay high taxes
   
 abgabenfrei: duty-free, tax-exempt, tax-free
@@ -97,13 +97,13 @@ abgelegen: remote
   Das Hotel ist weit abgelegen vom Zentrum.
   The hotel is miles away from the downtown.
 
-Abgeordnete /ˈapɡə|ɔrdnətə/: representative
+Abgeordnete /ˈapɡə|ɔrdnətə/, der-die, -n|-n: representative
   eine Abgeordnete des deutschen Bundestages: a Member of the German Federal Parliament
 
 abgestoßen: repelled, revoted
   => stoßen: to push, to shove
 
-Abgrund /ˈapɡrʊnt/, Abgründe, der: abyss
+Abgrund /ˈapɡrʊnt/, der, -(e)s|..e: abyss
   vom Gipfel in den Abgrund blicken: to look down into the depths from the summit
   ein Abgrund an Gewalt: extreme violence
 
@@ -113,11 +113,11 @@ abheben /ˈapheːbən/: to answer, to cut, to withdraw, to take off
   Ich möchte gern 300 Euro von meinem Sparbuch abheben.
   I'd like to withdraw 300 euros from my savings account.
 
-Abitur /abiˈtuːɐ/, das, -e: high school graduation
+Abitur /abiˈtuːɐ/, das, -s|-e: high school graduation (exam)
   Hast du Abitur?
   Did you graduate from high school?
 
-Abkommen /ˈapkɔmən/, das: agreement
+Abkommen /ˈapkɔmən/, das, -s|~: agreement
   ein Friedensabkommen unterzeichnen: to sign a peace treaty
 
 abkommen: to go off sth, to give up sth
@@ -125,13 +125,21 @@ abkommen: to go off sth, to give up sth
   Ich bin davon abgekommen, alles allein schaffen zu wollen.
   I've given up the ideal of trying to all of that on my own.
 
-Abkürzung /ˈapkʏrʦʊŋ/, die, -en: abbreviation, shortcut
+Abkürzung /ˈapkʏrʦʊŋ/, die, ~|-en: abbreviation, shortcut
   Abkürzungsverzeichnis: list of abbreviations
   eine Abkürzung nehmen / fahren: to take a shortcut
 
 ablaufen: to expire, to run out, to drain
   Die Frist läuft nächsten Monat ab.
   The deadline expires next month.
+
+ablehnen /ˈapleːnən/: to refuse, to reject
+  Ich muss Ihre Einladung leider ablehnen.
+  I'm afraid I have to decline your invitation.
+  Sie lehnt jede Form von Gewalt ab.
+  She rejects all forms of violence.
+  Er lehnte es ab, mit ihr zu sprechen.
+  He refused to speak with me.
 
 abmachen /ˈapmaxən/: to take off, to agree
   das Preisschild abmachen: to take the price tag off
@@ -140,7 +148,7 @@ abmachen /ˈapmaxən/: to take off, to agree
   Das Problem müsst ihr unter euch abmachen, ich habe nichts damit zu tun.
   You'll have to solve the problem among yourselves – it has nothing to do with me.
 
-Abmachung /ˈapmaxʊŋ/, die, -en: agreement
+Abmachung /ˈapmaxʊŋ/, die, ~|-en: agreement
   eine Abmachung treffen: to come to an agreement
 
 abrasieren /ˈapraziːrən/: to shave off
@@ -152,7 +160,7 @@ abräumen /ˈaprɔymən/: to clean up
   Would you clear the table before you go, please?
   => räumen: to clear, to put away, to vacate
 
-Abreise /ˈapraizə/, die: departure
+Abreise /ˈapraizə/, die, ~|-n: departure
   ihre Abreise nach London: her departure to London
 
 abreißen /ˈapraisən/: to tear off, to tear down, to rip off, to come to a stop
@@ -183,7 +191,7 @@ abscheulich /apˈʃɔylɪç/: hideous, disgusting
   Sie findet Spinnen abscheulich.
   She finds spiders repulsive.
 
-Abschied /ˈapʃiːt/, der, -e: leave, farewell
+Abschied /ˈapʃiːt/, der, -(e)s|-e: leave, farewell
   Der Abschied von ihren Freunden fiel ihr schwer.
   She found it difficult to say goodbye to her friends.
 
@@ -193,17 +201,17 @@ abschieben /ˈapʃiːbən/: to deport, to shift
   illegale Einwanderer in ihr Heimatland abschieben
   to deport illegal immigrants to their country of origin
 
-Abschiebung /ˈapʃiːbʊŋ/, die: deportation
+Abschiebung /ˈapʃiːbʊŋ/, die, ~|-en: deportation
 
-Abschiebungshaft, die: remand pending deportation
+Abschiebehaft, Abschiebungshaft, die, ~|-en: remand pending deportation
 
-Abschied /ˈapʃiːt/, der, Abschiede: parting, leave, farewell
+Abschied /ˈapʃiːt/, der, -(e)s|-e: parting, leave, farewell
   Der Abschied von ihren Freunden fiel ihr schwer.
   She found it difficult to say goodbye to her friends.
   von jdm/etw. Abschied nehmen: to take leave of sb/say goodbye to sth
   => scheiden: to part
 
-Abschiedskuss, der: parting kiss
+Abschiedskuss, der, -es|..e: parting kiss
 
 abschließen /ˈapʃliːsən/: to lock (up), to conclude, to complete
   Hast du auch abgeschlossen?
@@ -213,7 +221,7 @@ abschließen /ˈapʃliːsən/: to lock (up), to conclude, to complete
   Die Ausbildung schließt mit einer schriftlichen Prüfung ab.
   The course finishes with a written examination.
 
-Abschluss /ˈapʃlʊs/, der: completion, degree
+Abschluss /ˈapʃlʊs/, der, -es|..e: completion, degree
   etw. zum Abschluss bringen: to bring sth to a close
   einen guten Abschluss machen: to get a good degree
 
@@ -222,7 +230,7 @@ abschneiden /ˈapʃnaidən/: to cut off
   to cut yourself a slice of bread
   => schneiden: to cut
 
-Abschnitt /ˈapʃnɪt/, der, -e: section, paragraph
+Abschnitt /ˈapʃnɪt/, der, -(e)s|-e: section, paragraph
   einen Abschnitt lesen: to read a section
 
 abschöpfen /ˈapʃɶpfən/: to skim off, to make
@@ -241,14 +249,14 @@ absehen /ˈapzeːən/: to foresee, to learn
   Bitte sehen Sie von telefonischen Nachfragen ab.
   Please do not call with inquiries.
 
-Absender /ˈapzɛndɐ/: sender
+Absender /ˈapzɛndɐ/, -in, -s|~: sender
   <=> Empfänger
 
 absetzen /ˈapzɛʦən/: to drop sb off
   Kannst du mich bitte an der Schule absetzen?
   Can you drop me off at the school, please?
 
-Absicht /ˈapzɪçt/, die, -en: intention
+Absicht /ˈapzɪçt/, die, ~|-en: intention
   An guten Absichten fehlt es nicht.
   There is no lack of good intentions.
   mit Absicht: intentionally
@@ -260,10 +268,10 @@ absprechen /ˈapʃprɛçən/: to agree on,
   sich ( mit jdm) absprechen: to agree on sth (with sb)
   jdm etw. absprechen: to deny sb sth
 
-Abstammung /ˈapʃtamʊŋ/, die: descent, origin
+Abstammung /ˈapʃtamʊŋ/, die, ~|-en: descent, origin
   türkischer Abstammung sein: to be of Turkish descent
 
-Abstand /ˈapʃtant/, der: distance
+Abstand /ˈapʃtant/, der, -(e)s|..e: distance
   zehn Meter Abstand zum vorausfahrenden Auto halten
   to keep ten meters distance from the car in front
 
@@ -303,7 +311,11 @@ absurd /apˈzʊrt/: absurd
   Es klingt absurd, ist aber wahr.
   It sounds absurd, but it's true.
 
-Abteilung /apˈtailʊŋ/, die, -en: department
+Abteil /apˈtail/, das, -(e)s|-e: compartment
+  Alle Abteile waren belegt.
+  All the compartments were occupied.
+
+Abteilung /apˈtailʊŋ/, die, ~|-en: department
 
 abtrennen /ˈaptrɛnən/: to separate, to tear off, to sever
   den abgewetzten Kragen abtrennen und ersetzen
@@ -317,7 +329,7 @@ abwählen /ˈapvɛːlən/: to vote out of office, to drop
   In der Oberstufe kann ich Latein endlich abwählen.
   When I'm a senior I can finally drop Latin.
 
-Abwasser /ˈapvasɐ/, das, ..: waste water
+Abwasser /ˈapvasɐ/, das, -s|..: waste water
   Abwasserkanal: gully
 
 abwesend /ˈapveːzənt/: absent
@@ -346,22 +358,22 @@ abzocken /ˈapʦɔkən/: to rip off
   Vorsicht, bei solchen Angeboten wird man nur abgezockt!
   Be careful – offers like that are one big rip-off!
 
-Achsel /ˈaksəl/, die: shoulder, armpit
+Achsel /ˈaksəl/, die, ~|-n: shoulder, armpit
 
 acht /axt/: eight
   in / vor acht Tagen: in a week/a week ago
   heute / Samstag in acht Tagen: a week from today/Saturday
 
-Achtel: eighth
+Achtel /ˈaxtəl/, das, -s|~: eighth
 
 achten /ˈaxtən/: to respect, to pay attention to
   auf den Verkehr achten: to pay attention to traffic
   achten Sie auf Ihre Aussprache!
 
-Achterbahnen /ˈaxtɐbaːn/, die, -en: roller coaster
+Achterbahnen /ˈaxtɐbaːn/, die, ~|-en: roller coaster
   (mit der) Achterbahn fahren: to ride on the roller coaster
 
-Achtung /ˈaxtʊŋ/, die: respect, attention
+Achtung /ˈaxtʊŋ/, die, ~|uncountable: respect, attention
   Ich habe große Achtung vor ihrer Leistung/vor ihr.
   I respect her/her work immensely.
   Achtung, Baum fällt!
@@ -372,21 +384,27 @@ Achtung /ˈaxtʊŋ/, die: respect, attention
 
 adelig: noble
 
-Adjektiv /ˈatjɛktiːf/, das, -e
+Adjektiv /ˈatjɛktiːf/, das, -s|-e
 
-Adler /ˈaːdlɐ/, der: eagle
+Adler /ˈaːdlɐ/, der, -s|~: eagle
 
-Adresse /aˈdrɛsə/, die, -n: address
+Adressat /adrɛˈsaːt/, -in, -en
+  Der Adressat ist unbekannt verzogen.
+  The recipient has moved away, address unknown.
+
+Adresse /aˈdrɛsə/, die, ~|-n: address
   => Anschrift
 
-Affe /ˈafə/, der, Affen: monkey, ape
+Affe /ˈafə/, der, -n|-n: monkey, ape
   die Affen im Zoo: the monkeys in the zoo
   So ein blöder Affe!
   What a jerk!
 
-Affront /aˈfrõː/, der, -s: affront
+Affront /aˈfrõː/, der, -s|-s: affront
   Das Angebot der Arbeitgeber war ein Affront gegen die Gewerkschaften.
   The employers' offer was an insult to the labor unions.
+
+Aggressivität /aɡrɛsiviˈtɛːt/, die, ~|uncountable: aggressiveness
 
 ähnlich /ˈɛːnlɪç/: similar
   Sie ist ihrer Schwester sehr ähnlich.
@@ -405,7 +423,7 @@ ahnen /ˈaːnən/: to foresee, to sense
   I couldn't have imagined that would happen!
   nichts Böses ahnend: not expecting anything bad to happen
 
-Ahnung /ˈaːnʊŋ/, die: idea
+Ahnung /ˈaːnʊŋ/, die, ~|-en: idea
   Ich hab wenig Ahnung von Computern.
   I have no idea about computers.
   Hast du eine Ahnung!
@@ -418,27 +436,27 @@ akademisch /akaˈdeːmɪʃ/: academic
 
 akklimatisieren /aklimatiˈziːrən/: to acclimate yourself
 
-Akkord /aˈkɔrt/, der, -e: chord, piecework 零工
+Akkord /aˈkɔrt/, der, -(e)s|-e: chord, piecework 零工
   ein paar Akkorde auf dem Klavier spielen: to play a few chords on the piano
   im Akkord arbeiten: to do piecework
 
-Akku /ˈaku/, der, Akkus: battery
+Akku /ˈaku/, der, -s|-s: battery
   den Akku vom Handy aufladen: to charge your cell
 
-Aktentasche /ˈaktəntaʃə/, die: briefcase
+Aktentasche /ˈaktəntaʃə/, die, ~|-n: briefcase
 
-Aktie /ˈakʦjə/, die: share, stock
+Aktie /ˈakʦjə/, die, ~|-n: share, stock
   sein Vermögen in Aktien anlegen: to invest your fortune in shares
 
 Aktien => Aktie
 
-Aktion /akˈʦjoːn/, die, -en: action, operation
+Aktion /akˈʦjoːn/, die, ~|-en: action, operation
 
 aktivieren /aktiˈviːrən/: to activate
   Viele Parteimitglieder wurden aktiviert, bei dem Fest mitzuhelfen.
   Many party members were mobilized to help at the festivities.
 
-Aktivität /aktiviˈtɛːt/, die, -en: activity
+Aktivität /aktiviˈtɛːt/, die, ~|-en: activity
 
 aktuell /aktuˈɛl/: topical, up-to-date, relevant, current
   Aktuelles aus aller Welt: news from around the world
@@ -451,17 +469,35 @@ akut /aˈkuːt/: acute
   Im akuten Stadium ist die Krankheit noch gut behandelbar.
   At its acute stage the illness still responds well to treatment.
 
-Albtraum /ˈalptraum/, der: nightmare
+Akzent /akˈʦɛnt/, der, -(e)s|-e: accent, stress
+  Er sprach deutsch mit spanischem Akzent.
+  He spoke German with a Spanish accent.
+  Der Akzent liegt bei diesem Wort auf der vorletzten Silbe.
+  The stress in the word is on the second-last syllable.
+  Im Französischen gibt es drei verschiedene Akzente.
+  There are three different accents in French.
+
+albern /ˈalbɐn/: silly
+  Solche Scherze mir echt zu albern!
+  I really find jokes like that too silly.
+  Wegen so einer albernen Erkältung sage ich das Treffen nicht ab.
+  I'm not going to call off the meeting because of a stupid cold.
+
+Albernheit /ˈalbɐnhait/, die, ~|-en: silliness
+  Ihre Albernheit ist manchmal nicht zu ertragen.
+  Her silliness is sometimes unbearable.
+
+Albtraum /ˈalptraum/, der, -(e)s|..e: nightmare
   Die Fahrt war der reinste Albtraum!
   The journey was an absolute nightmare.
 
-Ali /ˈaːli/, der: Arab
+Ali /ˈaːli/, der, -s|-s: Arab
 
-Alibi /ˈaːlibi/, das, Alibis: alibi
+Alibi /ˈaːlibi/, das, -s|-s: alibi
   ein Alibi für die Tatzeit haben
   to have an alibi for the time of the crime 
 
-All /al/, das, (uncountable): space, outer space, universe
+All /al/, das, -s|uncountable: space, outer space, universe
   Spaziergang im All: space walk
   das weite/unerforschte All: the immense/unknown universe
 
@@ -477,12 +513,16 @@ allerdings /ˈalɐˈdɪŋs/: however, indeed, certainly
   „Ist das denn wichtig?‟ – „Allerdings!‟
   "Is that really important?" – "Indeed!"
 
-Allerheiligen /ˈalɐˈhailɪɡən/, das, (uncountable): katholischer Feiertag am 1. November, an dem alle Heiligen geehrt werden, All Saints' Day
+Allerheiligen /ˈalɐˈhailɪɡən/, das, -s|uncountable: katholischer Feiertag am 1. November, an dem alle Heiligen geehrt werden, All Saints' Day
 
 allerlei /ˈalɐˈlai/: all kinds of
   sich allerlei zu erzählen haben: to have lots to tell each other
 
-alles: everything
+allerletzte /ˈalɐˈlɛʦtə/: very last
+  Das ist deine allerletzte Chance!
+  This is your very last chance.
+
+alles /ˈaləs/: everything
 
 allgegenwärtig /ˈalɡeːɡənˈvɛrtɪç/: omnipresent
   Es ist schwer, den allgegenwärtigen Handys zu entfliehen.
@@ -497,11 +537,11 @@ allmählich /alˈmɛːlɪç/: gradual, gradually
   Es wird allmählich dunkel.
   It's starting to get dark.
 
-Alm /alm/, die: alpine pasture
+Alm /alm/, die, ~|-en: alpine pasture
 
-Almosen /ˈalmoːzən/, das: alms
+Almosen /ˈalmoːzən/, das, -s|~: alms
 
-Almrausch, der: alpine rose, rhododendron, mountain rose
+Almrausch, der, -es|~: alpine rose, rhododendron, mountain rose
 
 als /als/: when, than, only, as if, as
   Als ich noch in Berlin wohnte, ging ich oft ins Kino.
@@ -528,13 +568,13 @@ altbewährt: well-proven
   => bewährt: proven
   => bewähren: to prove
 
-Alter /ˈaltɐ/, das: age, old age
+Alter /ˈaltɐ/, das, -s|uncountable: age, old age
   im Alter von 50 Jahren: at the age of 50
   im Alter gesund bleiben: to remain healthy in old age
 
 Alterssicherung, die: retirement provision
 
-Altersvorsorge /ˈaltɐsfoːɐzɔrɡə/, die: pension plan
+Altersvorsorge /ˈaltɐsfoːɐzɔrɡə/, die, ~|-n: pension plan
 
 altruistisch /altruˈɪstɪʃ/: altruistic
   altruistisches Verhalten: altruistic behavior
@@ -544,28 +584,29 @@ altruistisch /altruˈɪstɪʃ/: altruistic
   I'm tallest!
   => in + dem
 
-Ameise /ˈaːmaizə/, die, Ameisen: ant
+Ameise /ˈaːmaizə/, die, ~|-n: ant
+  Ameisenhaufen: anthill
 
-Amerikaner, Amerikanerin, Amerikaner, Amerikanerinnen: American
+Amerikaner, Amerikanerin, -s|~, Amerikanerinnen: American
 
 amerikanisch /ameriˈkaːnɪʃ/: American
 
-Ammoniak /amoˈniak/, das: ammonia
+Ammoniak /amoˈniak/, das, -s|uncountable: ammonia
 
-Ammoniaklösung, die: ammonia solution
+Ammoniaklösung, die, ~|-en: ammonia solution
 
-Ampel /ˈampəl/, Ampeln, die: traffic light
+Ampel /ˈampəl/, die, ~|-n: traffic light
   an der Ampel warten müssen: to have to wait at the traffic light
  
-Ampere, das: ampère
+Ampere /amˈpɛːr/, das, (-s)|~: ampère
 
-Amt /amt/, das: office, position
+Amt /amt/, das, -(e)s|..er: office, position
   im Gesundheitsamt/Jugendamt/Sozialamt arbeiten
   to work at the health authority/youth welfare service/social security office
   in das Amt des Vereinsvorsitzenden gewählt werden
   to be elected to the post of club chairman
 
-Amtmann, Amtfrau: bailiff
+Amtmann -(e)s|..er, Amtfrau: bailiff
 
 Amtszeit, die: term, term of office
 
@@ -581,7 +622,7 @@ amüsiert
   Das Radio ist noch an.
   The radio's still on. 
 
-Ananas /ˈananas/, die, -, -se: pineapple
+Ananas /ˈananas/, die, ~|(-se): pineapple
   Ananassaft: pineapple juice
 
 anbauen /ˈanbauən/: to grow, to build an extension (to)
@@ -607,7 +648,7 @@ anbringen /ˈanbrɪŋən/: to attach (to), to put up (on)
 
 andauernd /ˈandauɐnt/: continuing, persistent, constant, ongoing
 
-Anden: Andes
+Anden /ˈandən/, pl: Andes
 
 andere /ˈandərə/: other, else
   Es tut mir leid, ich liebe einen anderen.
@@ -644,7 +685,7 @@ andeuten /ˈandɔytən/: to hint at, to sketch out
   Den Hintergrund hat der Künstler nicht ausgearbeitet, sondern nur angedeutet.
   The artist didn't finish the background – he just outlined it.
 
-Anfang /ˈanfaŋ/, der, ..e: beginning, start
+Anfang /ˈanfaŋ/, der, -(e)s|..e: beginning, start
   => Beginn
   Am / Zu Anfang war es noch schwer.
   It was hard at the beginning.
@@ -653,13 +694,13 @@ anfangen /ˈanfaŋən/: to begin
   Hast du den Aufsatz schon angefangen?
   Have you started the essay yet?
 
-Anfänger: beginner
+Anfänger, -s|~, -in: beginner
 
 anfänglich /ˈanfɛŋlɪç/: initial, initially
   Seine anfängliche Begeisterung verschwand schnell.
   His initial enthusiasm soon disappeared.
 
-*Anfangsbuchstabe, der: first letter
+*Anfangsbuchstabe, der, -n|-n: first letter
 
 anfertigen /ˈanfɛrtɪɡən/: to make, to manufacture
   eine Skizze von einem Gebäude anfertigen: to make a sketch of a building
@@ -674,7 +715,7 @@ anführen /ˈanfyːrən/: to lead, to state, to cite, to fool
   Du willst mich doch nur anführen!
   Come on, you're just taking me for a ride!
 
-Angabe /ˈanɡaːbə/, die: information, statement
+Angabe /ˈanɡaːbə/, die, ~|-n: information, statement
   Er hat der Polizei gegenüber falsche Angaben gemacht.
   He made false statements to the police.
 
@@ -685,7 +726,9 @@ angeblich /ˈanɡeːplɪç/: alleged, supposed, reputed, alleged
   Angeblich ist er krank.
   He claims that he's ill.
 
-Angebot /ˈanɡəboːt/, das: offer, supply
+Angeber /ˈanɡeːbɐ/, der, -s|~: boaster, show-off
+
+Angebot /ˈanɡəboːt/, das, -(e)s|-e: offer, supply
   jdm ein gutes Angebot machen: to make sb a good offer
   <=> Nachfrage
   Das Angebot übersteigt derzeit die Nachfrage.
@@ -713,14 +756,14 @@ angehören /ˈanɡəhøːrən/: to be a member (of), to belong
   Der Regierung gehören derzeit 15 Minister an.
   There are 15 ministers in the government at the moment.
 
-Angehörige /ˈanɡəhøːrɪɡə/: relatives, member, dependent
+Angehörige /ˈanɡəhøːrɪɡə/, der-die, -n|-n: relatives, member, dependent
   => Verwandte, Familienmitglied
   die nächsten Angehörigen eines Unfallopfers verständigen
   to notify an accident victim's next of kin
   Angehörige der Bundeswehr / von Minderheiten
   members of the German Armed Forces/of minority groups
 
-Angeklagte /ˈanɡəklaːktə/: defendant
+Angeklagte /ˈanɡəklaːktə/, der-die, -n|-n: defendant
   Der Angeklagte bestritt die Tatvorwürfe.
   The defendant disputed the alleged crimes.
 
@@ -875,7 +918,7 @@ anschließend /ˈanʃliːsənt/: subsequent
 Anschrift /ˈanʃrɪft/, die, -en: address
   jdm seine Anschrift mitteilen: to give sb your address
 
-Ansehen, das, (uncountable): reputation
+Ansehen, das, |uncountable: reputation
   hohes internationales Ansehen genießen: to be held in high esteem internationally
 
 ansehen /ˈanzeːən/: to look at, to watch
@@ -964,7 +1007,7 @@ Antwort /ˈantvɔrt/, die: answer, reply, response
   die richtige Antwort geben
   to give the right answer
 
-antworten /ˈantvɔrtən/: to answer
+antworten /ˈantvɔrtən/ [dative]: to answer
   mit Ja/Nein antworten: to answer yes/no
 
 Anwalt /ˈanvalt/: lawyer
@@ -1010,7 +1053,7 @@ Apfel /ˈapfəl/, der, Äpfel /ˈɛpfəl/: apple
 
 Apfelsine /ˈapfəlziːnə/, die, -n: orange
 
-Apparat /apaˈraːt/, der, -e: device, gadget, phone, camera, TV
+Apparat /apaˈraːt/, der, -(e)s|-e: device, gadget, phone, camera, TV
   Ein Computer ist ein komplizierter Apparat.
   A computer is a complicated device.
   „Könnte ich bitte Albert Meier sprechen?‟ – „Am Apparat!‟
@@ -1025,9 +1068,15 @@ Appartement /apartəˈmã/, das, -s
 Appetit /apeˈtiːt/, der
   Guten Appetit!
 
-△April /aˈprɪl/, der, -e
+△April /aˈprɪl/, der, (-s)|-e
 
 Äquator /ɛˈkvaːtoːɐ/, der: Equator
+
+Äquivalent /ɛkvivaˈlɛnt/, das, -(e)s|-e: equivalent
+  jemandem für etwas ein Äquivalent bieten: to offer sb an equivalent for sth
+
+äquivalent /ɛkvivaˈlɛnt/: equivalent
+  äquivalente Begriffe / Leistungen: equivalent concepts/services
 
 arbeiten /ˈarbaitən/: to work
   Er arbeitet in einer Bank.
@@ -1061,6 +1110,8 @@ Armer: pauper
 Armut /ˈarmuːt/, die: poverty
   in bitterster Armut leben: to be desperately poor
 
+Arroganz /aroˈɡanʦ/, die, |uncountable
+
 Art /art/, die: sort, kind, species, way
 
 artgerecht /ˈartɡərɛçt/: species-appropriate
@@ -1092,6 +1143,8 @@ Asyl /aˈzyːl/, das: asylum
 ätherisch /ɛˈteːrɪʃ/: ethereal, essential
   ätherische Öle: essential oils
 
+Atlantik /atˈlantɪk/, der, -s|uncountable
+
 Atlas /ˈatlas/, der, Atlanten /atˈlantən/: atlas
   einen Ort im Atlas nachschlagen: to look a place in the atlas 
 
@@ -1104,7 +1157,7 @@ Atom /aˈtoːm/, das: atom
 
 Attacke /aˈtakə/, die: attack
 
-Attentat /ˈatəntaːt/, das, -e: assassination attempt, attempt on sb's life, attempt
+Attentat /ˈatəntaːt/, das, -(e)s|-e: assassination attempt, attempt on sb's life, attempt
   ein Attentat auf einen Politiker verüben
   to carry out an assassination attempt on a politician
 
@@ -1164,10 +1217,6 @@ auffordern /ˈauffɔrdɐn/: to call for, to invite
 Aufforderung /ˈauffɔrdərʊŋ/, die, -en: order, command
   Die Demonstranten kamen der Aufforderung der Polizei, den Platz zu verlassen, nicht nach.
   The demonstrators did not comply with the police's demand to leave the square.
-
-aufräumen /ˈaufrɔymən/: to tidy (up)
-  Du solltest mal wieder aufräumen!
-  It's about time you tidied up again.
 
 auffrischen /ˈauffrɪʃən/: to refresh, to touch up, to boost
   durch einen Volkshochschulkurs seine Sprachkenntnisse auffrischen
@@ -1283,6 +1332,10 @@ aufpassen /ˈaufpasən/: to be careful, to pay attention
   Du musst im Unterricht besser aufpassen.
   You have to pay more attention in classes.
 
+aufräumen /ˈaufrɔymən/: to tidy (up)
+  Du solltest mal wieder aufräumen!
+  It's about time you tidied up again.
+
 aufregen /ˈaufreːɡən/: to get upset/worried/excited
 
 aufregend： exciting, thrilling
@@ -1392,6 +1445,8 @@ augenblicklich /ˈauɡənblɪklɪç/: current, immediately
   Verlassen Sie augenblicklich mein Haus!
   Get out of my house at once!
 
+August /auˈɡʊst/, der, -(e)s|e
+
 aus-: away, removed, turned off
 
 ausatmen /ˈaus|aːtmən/: to breathe out
@@ -1421,6 +1476,15 @@ ausbreiten /ˈausbraitən/: to spread (out), to lay out
   Er breitete seine Arme aus und kam lächelnd auf mich zu.
   He spread out his arms and came toward me with a smile.
   eine Decke auf dem Boden ausbreiten: to spread out a blanket on the ground
+
+Ausbruch /ˈausbrʊx/, der, ..e: outbreak, outburst, eruption, escape
+  Von der Ansteckung mit Masern bis zum Ausbruch vergehen 10 bis 14 Tage.
+  It takes 10 to 14 days between becoming infected by measles and the outbreak of the illness.
+  ein plötzlicher Gefühlsausbruch: a sudden emotional outburst
+  Pompeii wurde bei einem Ausbruch des Vesuvs verschüttet.
+  Pompeii was covered with ash when Vesuvius erupted.
+  Ihr gelang der Ausbruch aus der Gefangenschaft.
+  She managed to break out of captivity.
 
 ausdehnen /ˈausdeːnən/: to stretch, to extend, broaden
   Wenn du das T-Shirt immer auf diese Weise ausziehst, dehnst du den Kragen aus.
@@ -1605,7 +1669,7 @@ Ausschuss /ˈausʃʊs/, der: committee, wastage
   Wir haben heute nur Ausschuss produziert.
   All we produced today was rejects.
 
-Aussehen /ˈauszeːən/, das, (uncountable): appearance
+Aussehen /ˈauszeːən/, das, |uncountable: appearance
   Gutes Aussehen ist mir nicht so wichtig.
   Looking good isn't so important for me.
 
@@ -1750,6 +1814,13 @@ auszeichnen /ˈausʦaiçnən/: to honor, to distinguish
   She was awarded the German Federal Cross of Merit.
 
 Auto /ˈauto/, das, -s: car
+
+Automat /autoˈmaːt/, der, -en|-en: machine, ATM, slot machine, robot
+  sich eine Fahrkarte am Automat holen: to get a ticket at the machine
+​ Geld am Automaten abheben: to get money at the ATM
+  Spielautomat: slot machine
+  Bei der Herstellung kommen Automaten zum Einsatz.
+  Robots are used in the production process.
 
 Autoscooter, Autoskooter, der: bumper car
 

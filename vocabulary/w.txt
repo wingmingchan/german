@@ -47,6 +47,10 @@ wahr /ˈvaːɐ/: true
   Das darf/kann doch nicht wahr sein!
   That can't be true!
 
+Wahrheit /ˈvaːɐhait/, die, -en: truth
+  Sag (mir) die Wahrheit!
+  Tell (me) the truth!
+
 Wahrzeichen /ˈvaːɐʦaiçən/, das, -: symbol, most famous landmark
   Die Freiheitsstatue ist das Wahrzeichen von New York.
   The Statue of Liberty is New York's most famous landmark.
@@ -185,11 +189,12 @@ Wegwerfware, die: disposable goods
 
 *Weib /vaip/, das: female, babe, woman, wife
 
-Weiberfasching /ˈvaibɐfaʃɪŋ/, der, (uncountable): day during carnival when women take control
+Weiberfasching /ˈvaibɐfaʃɪŋ/, der, |uncountable: day during carnival when women take control
   nach Köln zur Weiberfastnacht reisen
   to go to Cologne for “Weiberfasching”
 
 weiblich /ˈvaiplɪç/: female
+  <=> männlich
 
 weich /vaiç/: soft, soft-boiled, soft-hearted
   <=> hart
@@ -217,7 +222,7 @@ Weihnachtsfeiertag, Weihnachtstag /ˈvainaxʦtaːk/, der: Christmas Day
 
 Weihnachtsgeschenk, das, -e: Christmas present
 
-Weihwasser /ˈvaivasɐ/, das, (uncountable): holy water
+Weihwasser /ˈvaivasɐ/, das, |uncountable: holy water
   Er bekreuzigte sich mit Weihwasser.
   He crossed himself with holy water.
 
@@ -406,6 +411,14 @@ Widerstand /ˈviːdɐʃtant/, der, ..e: resistance, opposition
   Allen Widerständen zum Trotz wurde doch noch eine Lösung gefunden.
   A solution was found, despite all the opposition.
 
+widerstehen /viːdɐˈʃteːən/: to resist, to withstand
+  Er konnte diesem Angebot einfach nicht widerstehen.
+  He simply couldn't resist this offer.
+  Dieser Stoff widersteht Wind und Wetter.
+  This material withstands all kinds of weather.
+  dem Ansturm des Feindes widerstehen
+  to withstand the enemy attack
+
 widmen /ˈvɪtmən/: to dedicate, to devote
   Er hat seinen ersten Roman seiner Mutter gewidmet.
   He dedicated his first novel to his mother.
@@ -425,6 +438,13 @@ wie /viː/: how, as, like, such as
 wieder /ˈviːdɐ/: again
   Musst du morgen wieder arbeiten?
   Do you have to work again tomorrow?
+
+wiedererkennen /ˈviːdɐ|ɛɐkɛnən/: to recognize
+  Er hätte sie nach all den Jahren fast nicht mehr wiedererkannt.
+  He almost didn't recognize her after all those years.
+  
+Wiedererkennung /ˈviːdɐ|ɛɐkɛnʊŋ/, die, |uncountable: recognition
+  der Wiedererkennungswert einer Marke: how well a brand is recognized
 
 Wiederholung /viːdɐˈhoːlʊŋ/, die, -en: repetition
   Ich wünsche keine Wiederholungen dieses Vorfalls!
@@ -589,7 +609,7 @@ Wort /vɔrt/, das, Wörter /ˈvœrtɐ/: word
   Could you spell the word, please?
   beim Wort nehmen: take (someone) at his/her word
 
-Wörterbuch, das, ..er: dictionary
+Wörterbuch /ˈvœrtɐbuːx/, das, ..er: dictionary
 
 Wortschatz /ˈvɔrtʃaʦ/, der, Wortschätze: vocabulary
   der deutsche Wortschatz: German vocabulary
@@ -614,6 +634,11 @@ Wunsch /vʊnʃ/, der, Wünsche /ˈvʏnʃə/: wish, request
 wünschen /ˈvʏnʃən/: to wish, to want
   Was wünschst du dir von uns zum Geburtstag?
   What would you like from us for your birthday?
+
+würdig /ˈvʏrdɪç/: worthy
+  einer Sache würdig sein [ genitive ]: to deserve sth
+  Er ist deines Vertrauens nicht würdig.
+  He doesn't deserve your trust.
 
 Wurf /vʊrf/, der, Würfe: throw, litter, success
   Der erste Wurf verfehlte sein Ziel.

@@ -71,6 +71,10 @@ Dänemark /ˈdɛːnəˌmark/
 
 Dank /daŋk/, das, Dank(e)s: thanks
 
+Dankbarkeit /ˈdaŋkbaːɐkait/, die, ~|uncountable: gratitude, appreciation
+  Aus reiner Dankbarkeit für seine Hilfe zahlte sie seine Schulden.
+  Out of sheer appreciation for his help she paid off his debts.
+
 danken /ˈdaŋkən/: to thank
   Ich möchte dir für deine Hilfe vielmals danken.
   I'd like to thank you very much for your help.
@@ -188,6 +192,10 @@ Demokrat /demoˈkraːt/
 
 demolieren /demoˈliːrən/: to trash, to wreck
 
+Demonstrant /demɔnˈstrant/, Demonstrantin: demonstrator
+  Es kam zu Zusammenstößen zwischen Demonstranten und Sicherheitskräften.
+  There were clashes between demonstrators and security forces.
+
 denen /ˈdeːnən/: those
   Mit denen will ich nichts zu tun haben.
   I don't want anything to do with those people.
@@ -283,12 +291,14 @@ Deutscher, Deutsche, Deutschen
   Das Wort kommt aus dem Deutschen.
   The word comes from German.
 
+Dezember /deˈʦɛmbɐ/, der, -s|~
+
 d. h., das heißt: i.e.
 
 Dialog /diaˈloːk/, der, -e: dialog
   die Dialoge in einem Theaterstück: the dialogs in a play
 
-Diamant /diaˈmant/, der: diamond
+Diamant /diaˈmant/, der, -en: diamond
 
 Diät /diˈɛːt/, die: diet
 
@@ -310,6 +320,14 @@ Dieb /diːp/: thief
   Haltet den Dieb!
   Stop, thief!
 
+dienen /ˈdiːnən/: to serve, to do your military service, to be of assistance
+  als / zur Abschreckung dienen: to serve as a deterrent
+  Er hat seinem Herrn stets treu gedient.
+  He was always a faithful servant to his master.
+  bei der Luftwaffe dienen: to be in the air force
+  Womit kann ich dienen, mein Herr?
+  How may I help you, sir?
+
 Dienst /diːnst/, der: service
   der öffentliche Dienst: the civil service
 
@@ -323,7 +341,9 @@ Ding, das: thing
 direkt /diˈrɛkt/: direct
   der direkte Weg zum Flughafen: the direct way to the airport
 
-Direktor /di’rɛktoːɐ/, Direktorin: principal, director, manager
+Direktor /diˈrɛktoːɐ/, Direktorin: principal, director, manager
+
+Dirigent /diriˈɡɛnt/, -in, -en|-en: conductor
 
 Dirndl /ˈdɪrndl/, das, -(n), Dirndlkleid: dirndl, girl
   Sie ist ein fesches Dirndl.
@@ -340,6 +360,9 @@ Doktor /’dɔktoːɐ/, der, Doktoren, Doktorin: doctor
   Guten Tag, Herr Doktor!
   Hello, doctor. (Arzt)
 
+Dokument /doku’mɛnt/, das, -(e)s|-e: document
+  ein beglaubigtes Dokument vorlegen: to produce a certified document
+
 doppelt /ˈdɔpəlt/: double
   die doppelte Menge: double the amount
 
@@ -350,6 +373,10 @@ Dose /ˈdoːzə/, die: canister, can
   eine Dose Ananas / Bohnen: a can of pineapples/beans
 
 Diskothek /dɪsko'teːk/, die
+
+Diskrepanz /dɪskreˈpants/, die, -en: discrepancy
+  die Diskrepanz zwischen offiziellen Empfehlungen und Impfraten
+  the discrepancy between official recommendations and the immunization rates
 
 Dorf /dɔrf/, das, ..er: village
   Er ist auf dem Dorf aufgewachsen.

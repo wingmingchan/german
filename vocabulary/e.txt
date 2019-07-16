@@ -95,6 +95,10 @@ eheste /ˈeːɐstə/: earliest
 
 ehesten /ˈeːɐstən/: first
 
+Ehre /ˈeːrə/, die, ~|-n: honor
+  Wir wollen Großvater zu Ehren ein Fest veranstalten.
+  We plan to have a big party in honor of grandfather.
+
 ehrgeizig /ˈeːɐɡaiʦɪç/: ambitious
   ehrgeizige Pläne haben: to have ambitious plans
 
@@ -104,7 +108,7 @@ ehrlich /ˈeːɐlɪç/: honest
   Möchtest du eine ehrliche Antwort?
   Do you want an honest answer?
 
-Ehrlichkeit /ˈeːɐlɪçkait/, die, (uncountable): honesty
+Ehrlichkeit /ˈeːɐlɪçkait/, die, |uncountable: honesty
 
 Ei /ai/, das, Eier: egg
 
@@ -283,10 +287,6 @@ eingeschrieben: registered
 eingetragen: registered
   => eintragen
 
-Einkommen /ˈainkɔmən/, das: income, earnings
-  Wie hoch ist Ihr monatliches Einkommen in etwa?
-  Roughly how high is your monthly income?
-
 einhalten /ˈainhaltən/: to adhere/stick to, to abide by, to stop
   eine Diät streng einhalten: to adhere to a strict diet
   Haltet ein!
@@ -314,10 +314,36 @@ to take down, to haul in, to go shopping
   Ich muss noch schnell (Brot) einholen gehen. => einkaufen
   I have to do some quick shopping (for bread).
 
+einig /ˈainɪç/: agreed, unanimously
+  Wir waren uns einig, dass etwas getan werden müsse.
+  We agreed that something had to be done.
+
+einige /ˈainɪɡə/: some, a few
+
+einigeln /ˈain|iːɡəln/: to curl up (into a ball), to hunker down
+  Sie igelte sich mit einer Decke auf dem Sessel ein.
+  She curled up in a blanket on the armchair.
+  Bei dem Wetter werde ich mich zu Hause einigeln und einen Film ansehen.
+  The weather's so awful I'm going to hunker down at home and watch a movie.
+
+einigen /ˈainɪɡən/: to agree
+  Ich denke, über den Preis werden wir uns noch einigen.
+  I think we'll be able to agree on the price.
+
+einigermaßen /ˈainɪɡɐˈmaːsən/: to some extent, in some degree, more or less
+  Er kommt einigermaßen mit der neuen Arbeit zurecht.
+  He's more or less getting by in his new job.
+
 einiges /ˈainɪɡəs/: a lot of, something
   einiges an Überredungskunst: a lot of convincing
   Er erzählte uns einiges, was uns sehr erstaunte.
   He told us some things that really astonished us.
+
+Einigkeit /ˈainɪçkait/, die, ~|uncountable: consensus, agreement, unity
+  Leider konnte bei den Gesprächen keine Einigkeit erzielt werden.
+  Unfortunately they were unable to reach a consensus in the talks.
+  Einigkeit und Recht und Freiheit für das deutsche Vaterland
+  Unity and justice and freedom for the German fatherland
 
 einjagen /ˈainjaːɡən/: 
   jdm Angst / einen Schreck(en) einjagen: to scare sb
@@ -327,6 +353,10 @@ einjagen /ˈainjaːɡən/:
 einkaufen: shopping
 
 Einkaufsliste: shopping list
+
+Einkommen /ˈainkɔmən/, das: income, earnings
+  Wie hoch ist Ihr monatliches Einkommen in etwa?
+  Roughly how high is your monthly income?
 
 einladen /ˈainlaːdən/: to invite, to load in
   Darf ich Sie auf ein Glas Wein einladen?
@@ -409,7 +439,15 @@ einsammeln /ˈainzaməln/: to collect
   Die Erzieherin sammelt die Spielsachen ein.
   The kindergarten teacher gathers up the toys. 
 
-Einsatz /ˈainzaʦ/, der: operation, deployment, use, effort, commitment
+Einsatz /ˈainzaʦ/, der, -es|..e: operation, deployment, use, effort, commitment, entry
+  Mehrere Helfer wurden bei dem Einsatz verletzt.
+  Several helpers were injured in the operation.
+  Alle Mitarbeiter zeigten vollen Einsatz.
+  All the workers showed complete commitment.
+  Ihre Einsätze, bitte!
+  Place your bets.
+  Die Streicher haben ihren Einsatz verpasst.
+  The strings missed their entry.
 
 einschalten /ˈainʃaltən/: to switch on
   <=> ausschalten
@@ -454,6 +492,7 @@ einstellen /ˈainʃtɛlən/: to take on, to hire, to stop, to adjust
   to take sb on as the superintendent
 
 Einstellung /ˈainʃtɛlʊŋ/, die, -en: attitude, setting, stopping
+  => Haltung
   Wie ist Ihre Einstellung zum Thema Klimaschutz?
   What's your attitude toward climate protection?
   die Einstellungen eines Gerätes ändern / überprüfen
@@ -558,9 +597,13 @@ Eisen /ˈaizən/, das: iron
 eklatant /eklaˈtant/: glaring, striking
   ein eklatanter Altersunterschied: a striking difference in age
 
-Elan /eˈlaːn/, der, (uncountable): verve, zest, vigor
+Elan /eˈlaːn/, der, |uncountable: verve, zest, vigor
   Sie ging mit viel Elan an die Arbeit.
   She got down to work with plenty of energy.
+
+Elefant /eləˈfant/, der, -en: elephant
+  der Afrikanische / Indische Elefant
+  the African/Indian elephant
 
 Elektrogerät, das: electrical appliance
 
@@ -732,6 +775,16 @@ entsorgen /ɛntˈzɔrɡən/: to dispose of
   Abfälle umweltfreundlich entsorgen
   to dispose of waste in an environmentally friendly way
 
+entsprechen /ɛntˈʃprɛçən/: to be in line with, to conform with, to be equivalent to, to be consistent with, to comply with
+  Entspricht dieses Modell Ihren Erwartungen?
+  Is this model in line with your expectations?
+  Ein Inch entspricht 2,54 Zentimetern.
+  An inch is equivalent to 2.54 centimeters.
+  Ihr Bericht entspricht nicht ganz der Wahrheit [dative].
+  Your report is not entirely true.
+  Leider können wir Ihrer Bitte nicht entsprechen.
+  I'm afraid we cannot comply with your request.
+
 entsprechend /ɛntˈʃprɛçənt/: appropriate, relevant
   => passend
   ein den Leistungen entsprechendes Gehalt: a performance-related salary
@@ -848,7 +901,7 @@ erfüllen /ɛɐˈfʏlən/: to be fulfilled, to come true
   Leider haben sich meine Träume nicht erfüllt.
   Unfortunately my dreams weren't fulfilled.
 
-Erfüllung /ɛɐˈfʏlʊŋ/, die, (uncountable): fulfillment
+Erfüllung /ɛɐˈfʏlʊŋ/, die, |uncountable: fulfillment
   Für sie ist ein Traum in Erfüllung gegangen.
   For her a dream has come true.
   Die Reise war die Erfüllung eines sehnlichen Wunsches.
@@ -866,7 +919,7 @@ to mean, to present itself, to come along, to arise, to surrender, to capitulate
   Wie viel ergibt 100 geteilt durch 5?
   How much is 100 divided by 5?
 
-Ergebnis /ɛɐˈɡeːpnɪs/, das: result, conclusion
+Ergebnis /ɛɐˈɡeːpnɪs/, das, -ses|-se: result, conclusion
   Die Verhandlungen blieben ohne Ergebnis.
   The negotiations did not produce any concrete results.
   Zu welchem Ergebnis ist der Ausschuss gekommen?
@@ -905,6 +958,19 @@ Erhöhung /ɛɐˈhøːʊŋ/, die: increase
 erinnern /ɛɐˈ|ɪnɐn/: to remember
   erinnere, erinnerst, erinnert, habe erinnert
 
+erkälten /ɛɐˈkɛltən/: to catch (a) cold, to catch a chill in
+  Hast du dich erkältet oder ist das eine Allergie?
+  Have you caught a cold or is that an allergy?
+  Sie hat sich die Blase erkältet.
+  She caught a chill in her bladder.
+
+erkältet /ɛɐˈkɛltət/: with a cold
+  Er ist stark erkältet.
+  He has a bad cold.
+
+Erkältung /ɛɐˈkɛltʊŋ/, die, ~|-en: cold
+  eine schwere Erkältung haben: to have a heavy cold
+
 erkennbar /ɛɐˈkɛnbaːɐ/: visible, discernible, recognizable
   ein kaum erkennbarer Unterschied: a barely visible difference
 
@@ -927,6 +993,8 @@ Erklärung /ɛɐˈklɛːrʊŋ/, die: explanation, statement, declaration
   The explanations in this encyclopedia are pretty complicated.
   Ich möchte dazu jetzt keine Erklärung abgeben.
   I would now like to deliver a statement on that.
+  Du bist mir eine Erklärung schuldig.
+  You owe me an explanation.
 
 erklimmen /ɛɐˈklɪmən/: to climb, to scale
   Gemeinsam erklommen sie die höchsten Gipfel.
@@ -1110,12 +1178,30 @@ erwägen /ɛɐˈvɛːɡən/: to consider
 
 erwählen /ɛɐˈvɛːlən/: to choose
 
+erwähnen /ɛɐˈvɛːnən/: to mention, to refer to
+  namentlich erwähnt werden: to be mentioned by name
+
+Erwähnung /ɛɐˈvɛːnʊŋ/, die, ~|-en: mention, reference
+
 erwarten /ɛɐˈvartən/: to expect
   Ich erwarte dich dann um drei in meinem Büro.
   So I'll expect you at three in my office.
 
+Erwartung /ɛɐˈvartʊŋ/, die, ~|-en: expectation, anticipation
+  hohe Erwartungen in jdn setzen: to have high expectations of sb
+  Voller Erwartung rannte er zur Tür.
+  He ran to the door full of anticipation.
+
 erwartungsvoll /ɛɐˈvartʊŋsfɔl/: expectant, hopeful
   erwartungsvolle Gesichter: expectant faces
+
+erweisen /ɛɐˈvaizən/: to prove
+  Es ist noch nicht erwiesen, dass er der Täter ist.
+  It's not yet proven that he's the perpetrator.
+  Sie hat ihm damit einen großen Gefallen erwiesen.
+  She did him a big favor with that.
+  Ihre Vermutung hat sich als falsch erwiesen.
+  Her suspicion proved to be wrong.
 
 erweitern /ɛɐˈvaitɐn/: to expand, to grow, to increase
 

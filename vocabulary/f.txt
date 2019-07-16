@@ -148,7 +148,7 @@ farbig /ˈfarbɪç/: colored
 
 färben /ˈfɛrbn/: to color
 
-Fasching /ˈfaʃɪŋ/, der, (uncountable): carnival
+Fasching /ˈfaʃɪŋ/, der, |uncountable: carnival
   Er will dieses Jahr im Fasching als Cowboy gehen.
   He wants to go as a cowboy in this year's carnival.
 
@@ -206,7 +206,7 @@ faul: lazy, rotten, bad, feeble
   Der Apfel ist innen faul.
   The apple's rotten on the inside.
 
-Faulheit /ˈfaulhait/, die, (uncountable): laziness, idleness, sloth
+Faulheit /ˈfaulhait/, die, |uncountable: laziness, idleness, sloth
   Der Grund für seine schlechten Noten ist einfach nur Faulheit.
   The reason for his bad grades is quite simply laziness.
 
@@ -216,6 +216,8 @@ Faust /faust/, die, ..e: fist
 Fazit /ˈfaːʦɪt/, das, -e: conclusion
   Er zog ein positives Fazit der Veranstaltung.
   He described the event as a success.
+
+Februar /ˈfeːbruaːɐ/, der, (-s)|-e
 
 fechten /ˈfɛçtən/: to fence, to fight
 
@@ -252,7 +254,7 @@ feiern /ˈfaiɐn/: to celebrate, to acclaim, to laud, to hail
 
 Feiertag /ˈfaiɐtaːk/, der: holiday
 
-Feigheit /ˈfaikhait/, die, (uncountable): cowardice
+Feigheit /ˈfaikhait/, die, |uncountable: cowardice
   <=> Mut
   Er wurde von einem Kriegsgericht wegen Feigheit vor dem Feind zum Tode verurteilt.
   He was sentenced to death by a military court for cowardice in the face of the enemy.
@@ -352,6 +354,8 @@ Feuilleton /føjəˈtõ/, das, -s: arts section
 
 Fibel /ˈfiːbl/, die, Fibeln: primer
 
+Fick /fɪk/, der, -s|-s: fuck
+
 Fieber /ˈfiːbɐ/, das, -: temperature, fever, bug
   Das Kind hatte 38,5 Grad Fieber.
   The child had a temperature of 38.5°C.
@@ -439,6 +443,9 @@ Floh /floː/, der, ..e: flea
   von Flöhen gebissen werden: to be bitten by fleas
   Flohmarkt
 
+flöhen /ˈfløːən/: to deflea, to rid
+  einen Hund flöhen
+
 ▲Fluch /fluːx/, der, ..e: curse
   Er stieß einen lauten Fluch aus, als ihm die Kiste auf den Fuß fiel.
   He cursed loudly when the box fell on his foot.
@@ -505,7 +512,7 @@ fluten /ˈfluːtən/: to flood, to overflow
 
 föderal /fødeˈraːl/
 
-Föderalismus /føderaˈlɪsmʊs/, der, (uncountable): federalism
+Föderalismus /føderaˈlɪsmʊs/, der, |uncountable: federalism
   dem Föderalismus Kleinstaaterei vorwerfen
   to accuse the federalist system of regionalism
 
@@ -556,6 +563,13 @@ Form /fɔrm/, Formen: form, shape
   Die Schüssel hatte eine ovale Form.
   The key has an oval form.
 
+Format /fɔrˈmaːt/, das, -(e)s|-e: format, caliber, standing
+  ein Schreibblock im Format DIN A4: an A4 format notepad
+  Ich kann die Datei nicht öffnen. Kannst du sie mir in einem anderen Format zuschicken?
+  I can't open the file. Can you send me it in a different format?
+  Er ist ein Mann von Format.
+  He's a man of distinction.
+
 formell /fɔrˈmɛl/: formal
   Warum denn so formell? Wollen wir uns nicht duzen?
   Why so formal? Shouldn't we use the familiar „du‟ form?
@@ -582,7 +596,7 @@ fortschreiten /ˈfɔrtʃraitən/: to progress
   Die Krankheit schreitet weiter fort.
   The illness is progressing further.
 
-Fortschritt /ˈfɔrtʃrɪt/, der: progress, advance
+Fortschritt /ˈfɔrtʃrɪt/, der, -(e)s|e: progress, advance
   Fortschritte machen: to advance, to make progress
 
 Fotogalerie, Fotostrecke, die
@@ -592,6 +606,9 @@ Foul /faul/, das: foul
 
 Frage /ˈfraːɡə/, die, Fragen: question
   jdm eine Frage stellen: to ask sb a question
+
+Fraktur /frakˈtuːr/, die, ~|-en: fracture, Gothic (lettering type), Old English, black letter
+  das Buch ist in Fraktur gedruckt
 
 Frankreich /ˈfraŋkraiç/, das: France
 
@@ -641,7 +658,17 @@ fremd /frɛmt/: foreign, outside, strange, alien
 
 Fremde: stranger, foreigner
 
-Fressen /ˈfrɛsən/, das, (uncountable): food
+Frequenz /freˈkvɛnʦ/, die, ~|-en: frequency, rate
+  Das menschliche Gehör nimmt Schallwellen in einem Frequenzbereich von 16 bis 16.000 Hertz wahr.
+  The human ear is capable of hearing sound waves on a frequency range between 16 and 16,000 Hz.
+  Der Sender hat die Frequenz gewechselt und ist jetzt auf 98,5 UKW zu empfangen.
+  The station has changed frequencies and is now available on 98.5 VHF.
+  Dieses Medikament erhöht die Pulsfrequenz.
+  This medication increases the pulse rate.
+  Dieses Wörterbuch enthält nur Wörter mit relativ hoher Frequenz.
+  This dictionary contains only words with a relatively high frequency.
+
+Fressen /ˈfrɛsən/, das, |uncountable: food
   der Katze ihr Fressen geben: to give the cat her food
 
 fressen: to eat, to guzzle
@@ -706,11 +733,7 @@ Fuchs /fʊks/, der: fox
 
 fuhr => fahren
 
-führen /ˈfyːrən/: to take, to lead, to show, to bring
-  jdn zu seinem Platz führen: to show sb to their seat
-  Touristen durch die Stadt führen: to show tourists around town
-  Der Weg führte über Felder und durch Wälder zum See.
-  The path led over fields and through forests to the lake.
+fühlen /ˈfyːlən/: to feel
 
 Führer, Führerin: guide, chief, leader, operator, driver, pilot
   eine Expedition in den Dschungel mit einheimischem Führer
@@ -720,9 +743,28 @@ Führer, Führerin: guide, chief, leader, operator, driver, pilot
   Kranführer: crane operator
   Marktführer: market leader 
 
+führen /ˈfyːrən/: to take, to lead, to show, to bring, to run, to keep, to carry out
+  jdn zu seinem Platz führen: to show sb to their seat
+  Der Weg führte über Felder und durch Wälder zum See.
+  The path led over fields and through forests to the lake.
+  Was führt Sie zu mir?
+  What brings you to me?
+  Der Fehler führte zu größeren Problemen.
+  The error led to more serious problems.
+  ein gut geführtes Hotel: a well-run hotel
+  Sie führt eine genaue Ausgabenliste.
+  She keeps an exact record of all expenditures.
+  bei einer Prüfung Aufsicht führen: to invigilate at an exam
+  Führen Sie auch Schreibwaren?
+  Do you carry stationary, too?
+  Zur Halbzeit führten sie mit drei zu null.
+  They were three-nil up at half-time.
+  etw. mit sich führen: to have sth with/on you
+  Gepäck / Waffen mit sich führen: to have baggage with you/weapons on you
+
 Führung: leadership
 
-Fülle /ˈfʏlə/, die, (uncountable): fullness, volume
+Fülle /ˈfʏlə/, die, |uncountable: fullness, volume
   Dieses Shampoo gibt Ihrem Haar Fülle.
   This shampoo gives your hair volume.
   Er neigt zur Fülle.

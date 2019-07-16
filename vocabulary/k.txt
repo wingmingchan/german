@@ -14,7 +14,7 @@ Käfig /ˈkɛːfɪç/, der, -e: cage
 Kahn /kaːn/, der, ..e: boat, barge
   eine Kahnfahrt machen: to go rowing 
 
-Kakao /kaˈkau/, der, (uncountable): cocoa
+Kakao /kaˈkau/, der, |uncountable: cocoa
 
 Kaktus /ˈkaktʊs/, der, Kakteen: cactus
 
@@ -24,7 +24,7 @@ Kalb /kalp/, das, ..er: calf
   Forscher haben im ewigen Eis ein Mammutkalb gefunden.
   Explorers have discovered a mammoth calf in the perpetual ice.
 
-Kalk /kalk/, der, (uncountable): lime
+Kalk /kalk/, der, |uncountable: lime
   Das Wasser hier enthält viel Kalk.
   The water here is very hard.
 
@@ -34,10 +34,10 @@ Kalorie /kaloˈriː/, die, -n: calorie
 
 kalt /kalt/, kälter, kälteste: cold
 
-Kälte /ˈkɛltə/, die, (uncountable): cold
+Kälte /ˈkɛltə/, die, |uncountable: cold
   klirrende/eisige Kälte bitter/icy cold 
 
-Kalzium /ˈkalʦjʊm/, das, (uncountable)
+Kalzium /ˈkalʦjʊm/, das, |uncountable
 
 kam /kaːm/ => kommen
 
@@ -59,7 +59,13 @@ Kampf /kampf/, der, ..e: battle, fight, struggle
 kämpfen /ˈkɛmpfən/: to fight
   Wie eine Münchner Lokalzeitung gegen die Nazis kämpfte
 
-Kaninchen /kaˈniːnçən/, das, -: rabbit
+Kandidat /kandiˈdaːt/, -in, -en
+  die Kandidaten für das Amt des Bürgermeisters
+  the candidates for the mayor's office
+  eine aussichtsreiche Kandidatin für die Hauptrolle
+  a strong candidate for the lead role
+
+Kaninchen /kaˈniːnçən/, das, -s|~: rabbit
   Kaninchenbau: rabbit burrow
 
 △Kap /kap/, das, -s: cape
@@ -79,7 +85,8 @@ kapitulieren /kapituˈliːrən/: to surrender, to give up, to capitulate
   Das Schiff kapitulierte und hisste die weiße Fahne.
   The ship surrendered and raised the white flag.
 
-Kater, der: tomcat
+Kartei /karˈtai/, die, ~|-en: (card) file, (card) index
+  eine Kartei führen: to keep an index
 
 Kartoffel /karˈtɔfəl/, die, Kartoffeln: potato
 
@@ -105,7 +112,14 @@ Kater /ˈkaːtɐ/, der, -: tomcat, hangover
   Tomcats have a larger territory than female cats.
   einen Kater haben: to have a hangover
 
-Katze /ˈkaʦə/, die: cat
+Katholik /katoˈliːk/, -en|-en, -in: Catholic
+  Sie ist Katholikin.
+  She's a Catholic.
+
+Kätzchen, das, -s|~
+
+Katze /ˈkaʦə/, die, ~|-n: cat
+  die Pfote der Katze, das Haus der Katzen
 
 kauen /ˈkauən/: to chew
   an den Fingernägeln kauen: to chew your fingernails
@@ -146,12 +160,19 @@ Keller /ˈkɛlɐ/, der, Keller: basement, cellar, dungeon
   Zahlreiche Keller wurden bei dem Unwetter überflutet.
   A large number of basements were flooded in the storm.
 
+Kellerei /kɛləˈrai/, die, ~|-en: wine producer's, champagne producer's, cellars
+
 Kellner, Kellnerin: waiter/waitress
 
 kennen /ˈkɛnən/: to know
   kenne, kennst, kennt, habe gekannt
   Kennst du seinen Namen?
   Do you know his name?
+
+Kenntnis /ˈkɛntnɪs/, die, ~|-se: knowledge
+  seine Sprachkenntnisse vertiefen: to improve your language skills
+  Ohne genauere Kenntnis der Sachlage kann ich diese Frage nicht beantworten.
+  Without more detailed knowledge of the circumstances I am unable to answer that question.
 
 kennzeichnen /ˈkɛnʦaiçnən/: to mark, to brand, to characterize
   die zum Fällen vorgesehenen Bäume mit einem Kreuz kennzeichnen
@@ -255,7 +276,7 @@ Klasse, die: class
 
 Klassenraum, der: classroom
 
-Klassik /ˈklasɪk/, die, (uncountable)
+Klassik /ˈklasɪk/, die, |uncountable
   die Sagenwelt der Klassik: the legendary world of classical antiquity
   die deutsche Klassik: the German classical age
   Sie hört gern Klassik.
@@ -387,9 +408,9 @@ Koks /koːks/, der, -es: coke
 Kollege, Kollegen, Kollegin, Kolleginnen
   Ich muss einem Kollegen helfen.
 
-Kollegstufe /kɔˈleːkʃtuːfə/, die, (uncountable): final two years of schooling at a Gymnasium
+Kollegstufe /kɔˈleːkʃtuːfə/, die, |uncountable: final two years of schooling at a Gymnasium
 
-Komfort /kɔmˈfoːɐ/, der, (uncountable): comfort, luxury
+Komfort /kɔmˈfoːɐ/, der, |uncountable: comfort, luxury
   ein Hotel mit allem Komfort: a luxurious hotel
 
 komfortabel /kɔmfɔrˈtaːbəl/: comfortable
@@ -407,12 +428,22 @@ kommen /ˈkɔmən/: to come
 Kommentar /kɔmɛnˈtaːɐ/, der, -e: comment, commentary
   Auf solche unsachlichen Kommentare kann ich verzichten!
   I can do without uncalled-for comments like that!
+  einen Kommentar zum Wahlergebnis schreiben
+  to write a commentary on the election result
+  Wer spricht den Kommentar bei der Fußballübertragung?
+  Who is commentating on the broadcast of the soccer match?
+  ein Kommentar zum Strafrecht: a commentary on criminal law
 
 kommentieren /kɔmɛnˈtiːrən/: to comment (on)
   ein politisches Geschehen / Fußballspiel kommentieren
   to comment on a political event/soccer match
 
 Kommilitone /kɔmiliˈtoːnə/: fellow student
+
+Kommission /kɔmɪˈsjoːn/, die, ~|-en: commission
+  der Prüfungskommission angehören: to be on the board of examiners
+  Wir verkaufen ihre alten Ski gern in Kommission für Sie / nehmen Ihre alten Ski gern in Kommission.
+  We'd be happy to sell/take your old skis on commission.
 
 Kompetenz /kɔmpeˈtɛnʦ/, die: competence
   Seine Kompetenz unter Beweis stellen: to prove your competence
@@ -454,6 +485,15 @@ Konstitution /kɔnstituˈʦjoːn/: constitution
   die körperliche / psychische Konstitution: physical/mental constitution
   die amerikanische Konstitution: the American Constitution
 
+Konsulat /kɔnzuˈlaːt/, das, -(e)s|-e: consulate
+  das deutsche Konsulat in Paris: the German consulate in Paris
+
+Konsument /kɔnzʊˈmɛnt/, der: consumer
+
+Kontingent /kɔntɪŋˈɡɛnt/, das, -(e)s|-e: quota, contingent
+  ein Kontingent festsetzen: to fix a quota
+  ein weiteres Kontingent in den Einsatz schicken: to send another contingent into action
+
 Konto /ˈkɔnto/, das, Kontos: account
   ein Bankkonto eröffnen: to open a bank account
   etw. geht auf jds Konto: sb is to blame for sth
@@ -465,8 +505,6 @@ kontrollieren /kɔntrɔˈliːrən/: to check, to control
   to check whether the windows are closed
   die von den Rebellen kontrollierten Gebiete
   the areas controlled by the rebels
-
-Konsument /kɔnzʊˈmɛnt/, der: consumer
 
 Kontur /kɔnˈtuːɐ/, die, -en: contour, outline
   => Umriss
@@ -510,6 +548,10 @@ Körperhaltung, die: posture
 Korrekturstift, der, -e: correction pen
 
 Kost /kɔst/, die: food
+
+Kostbarkeit /ˈkɔstbaːɐkait/, die, -en: precious object
+  Kostbarkeiten aus Gold und Edelsteinen
+  precious objects made from gold and precious stones
 
 köstlich /ˈkœstlɪç/: delicious
 
@@ -634,6 +676,9 @@ Küche /ˈkʏçə/, die: kitchen
   einen Apfelkuchen backen: to bake an apple cake 
 
 Kugelschreiber, der, -: pen
+
+Kühlschrank /ˈkyːlʃraŋk/, der, -(e)s|..e: refrigerator, fridge
+  die Wurst in den Kühlschrank legen: to put the sausage in the fridge
 
 Kultur /kʊlˈtuːɐ/, die, Kulturen: culture
   die Kultur fördern: to promote culture

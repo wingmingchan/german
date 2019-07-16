@@ -11,7 +11,7 @@ canceln /ˈkɛnsəln/: to cancel
 
 Cäsar /ˈʦɛːzar/, der: Caesar
 
-Cäsium /ˈʦɛːzjʊm/, das, (uncountable): cesium 铯
+Cäsium /ˈʦɛːzjʊm/, das, |uncountable: cesium 铯
 
 Chance /ˈʃãːs(ə)/, die, -n: chance
   Geschäftschancen: business opportunities
@@ -34,7 +34,7 @@ checken /ˈʧɛkən/: to check
 △Chef /ʃɛf/, Chefin, -s: boss
   Polizeichef: police chief
 
-Chemie /çeˈmiː, keˈmiː/: chemistry
+Chemie /çeˈmiː/, die, ~|uncountable: chemistry
 
 Chemiker /ˈçeːmikɐ/, Chemikerin: chemist
 
@@ -78,5 +78,5 @@ Couch /kauʧ/, die, -en: couch
 
 Courtage /kʊrˈtaːʒə/, die: commission
 
-Curry /ˈkœri/, der-das, (uncountable)
+Curry /ˈkœri/, der-das, |uncountable
   Currysoße: curry sauce

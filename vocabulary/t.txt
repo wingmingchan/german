@@ -2,7 +2,7 @@
 T /teː/ T wie Theodor
 ========================================================
 
-Tabak /ˈtaːbak/, der, (uncountable): tobacco
+Tabak /ˈtaːbak/, der, |uncountable: tobacco
   Tabak anbauen: to grow tobacco
   starken / milden Tabak rauchen: to smoke strong/mild tobacco
 
@@ -152,11 +152,10 @@ Täuschung /ˈtɔyʃʊŋ/, die: deception, illusion, delusion
 
 tausend /ˈtauzənt/: thousand
 
-Technik /ˈtɛçnɪk/, die
-  (uncountable) technology, engineering
+Technik /ˈtɛçnɪk/, die, ~|uncountable: technology, engineering
   Die Maschinen sind auf dem neuesten Stand der Technik.
   The machines are all state-of-the-art.
-  (uncountable) technical equipment
+  |uncountable technical equipment
   Die Technik in unserer Firma ist auf dem neuesten Stand.
   The technical equipment used in our company is state-of-the-art.
   -en: technique
@@ -188,7 +187,7 @@ Teint /tɛ̃ː/, der, -s: complexion
 
 Telefon /ˈteːləfoːn/, das, -e: telephone
 
-Telefonat /telefoˈnaːt/, das: phone conversation
+Telefonat /telefoˈnaːt/, das, -(e)s|-e: phone conversation
   Er führt gerade ein wichtiges Telefonat.
   He's just in the middle of an important phone conversation.
 
@@ -196,9 +195,19 @@ Teller /ˈtɛlɐ/, der: plate
   Er hat sich Berge von Nudeln auf seinen Teller gehäuft.
   He heaped up huge piles of pasta on his plate.
 
+Temperament /tɛmpəraˈmɛnt/, das, -e: temperament
+  Er hat ein aufbrausendes / ruhiges Temperament.
+  He is hot-tempered/has a quiet disposition.
+
 Temperatur /tɛmpəraˈtuːɐ/, die: temperature
   Die Temperatur des Wassers beträgt 23 Grad.
   The temperature of the water is 23 degrees. 
+
+Tendenz /tɛnˈdɛnʦ/, die, ~|-en: trend, tendency
+  Die Tendenz geht klar in diese Richtung.
+  The trend is clearly going in this direction.
+  Sie hat eine Tendenz zur Übertreibung.
+  She has a tendency to exaggerate.
 
 Teppich /ˈtɛpɪç/, der, -e: carpet
 
@@ -231,7 +240,7 @@ Theater /teˈaːtɐ/, das, -: theater
   Wollen wir nach dem Theater noch was trinken gehen?
   Shall we go for a drink after the show?
 
-Thema /ˈteːma/, das, Themen: subject, topic, theme
+Thema /ˈteːma/, das, -s|Themen: subject, topic, theme
   Über dieses Thema möchte ich nicht sprechen.
   I don't want to talk about this subject.
 
@@ -242,6 +251,11 @@ Therapie /teraˈpiː/, die
 Tief /tiːf/, das, -s: low, depression
 
 tief /tiːf/: deep, low, profound
+
+Tiefe /ˈtiːfə/, die, ~|-n: depth
+  eine Expedition in die Tiefen des Meeres: an expedition to the depths of the ocean
+  ein Regal von 2 m Breite und 40 cm Tiefe: shelves that are 2 m across and 40 cm deep
+  in die Tiefe stürzen: to plunge into the depths
 
 Tiefsee, die: deep sea
 
@@ -291,7 +305,7 @@ toben /ˈtoːbən/: to rage, to rave, to go wild
 Tod /toːt/, der: death
   einen qualvollen Tod erleiden: to suffer an agonizing death
 
-Todesstrafe /ˈtoːdəsʃtraːfə/, die, (uncountable): death penalty
+Todesstrafe /ˈtoːdəsʃtraːfə/, die, |uncountable: death penalty
   In Deutschland wurde die Todesstrafe 1949 abgeschafft.
   The death penalty was abolished in Germany in 1949.
 
@@ -301,7 +315,7 @@ toll /tɔl/: great
   Das ist ja eine tolle Geschichte!
   What an amazing story!
 
-Tollwut /ˈtɔlvuːt/, die, (uncountable): rabies
+Tollwut /ˈtɔlvuːt/, die, |uncountable: rabies
   einen Hund gegen Tollwut impfen: to vaccinate a dog against rabies
 
 Tomate /toˈmaːtə/, die, Tomaten: tomato
@@ -390,6 +404,11 @@ Träne /ˈtrɛːnə/, die: tear
 
 Tränengas: tear gas
 
+Transparent /transpaˈrɛnt/, das, -(e)s|-e: banner
+  ein Transparent für die Demonstration malen: to make a banner for the demonstration
+
+Transplantat /transplanˈtaːt/, das, -(e)s|-e: graft, transplant
+
 trat => treten: to enter
 
 Traube /ˈtraubə/, die, Trauben: grape
@@ -454,6 +473,12 @@ treten /ˈtreːtən/: to kick, to step, to trample, to tread, to enter
   mit jdm in Verhandlungen/in Kontakt treten
   to enter into negotiations/get in touch with sb
 
+treu /trɔy/: faithful
+  Er kann einfach nicht treu sein.
+  He simply isn't capable of being faithful.
+  Der Hund ist der treueste Freund des Menschen.
+  Dogs are man's most faithful friends.
+
 trieb => treiben
 
 trinken: to drink
@@ -489,7 +514,7 @@ Tropfen /ˈtrɔpfən/, der: drop
   Regentropfen liefen am Fenster herab.
   Raindrops were running down the window.
 
-▲Trost /troːst/, der, (uncountable): comfort, consolation
+▲Trost /troːst/, der, |uncountable: comfort, consolation
   jdm Trost zusprechen / spenden
   to comfort/console sb
   zum Trost: as a consolation
@@ -518,6 +543,8 @@ trug => tragen
 trügen /ˈtryːɡən/: to deceive
   Meine Hoffnungen hatten mich nicht getrogen.
   My hopes didn't deceive me.
+
+Truppeneinheit, die: unit
 
 ▲Tuch /tuːx/, das, Tücher: cloth
   sich [ dative ] ein Tuch um die Schultern legen

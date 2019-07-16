@@ -26,6 +26,10 @@ U /uː/ U wie Ulrich, Ü wie Übermut
   Das Werk bietet einen Überblick über den Stand der Forschung.
   The work presents an overview of current research.
 
+überfallen /yːbɐˈfalən/: to attack, to raid
+  Sie wurde auf dem Heimweg überfallen.
+  She was attacked on her way home.
+
 überfluten /yːbɐˈfluːtən/: to flood
   Der Fluss hat ganze Landstriche überflutet.
   The river flooded entire tracts of land.
@@ -69,7 +73,7 @@ U /uː/ U wie Ulrich, Ü wie Übermut
   Durch den Erfolg war sie übermütig geworden.
   Success had made her cocky.
 
-übernehmen /yːbɐˈneːmən/: to take over / on / care of, to overdo
+übernehmen /yːbɐˈneːmən/: to take over/on/care of, to overdo
   Lass nur, das übernehme ich.
   Let me take care of that.
   Unser Sohn soll später mal den Hof übernehmen.
@@ -81,6 +85,8 @@ U /uː/ U wie Ulrich, Ü wie Übermut
   The new owner has kept on the old workers.
   Mit der Aufgabe habe ich mich völlig übernommen.
   I bit off a lot more than I could chew with that task.
+  Ich glaube, dass es funktioniert, aber ich kann keine Garantie dafür übernehmen.
+  I think it'll work but I can't guarantee it.
 
 überprüfen /yːbɐˈpryːfən/: to check
   Überprüf doch noch mal, ob die Fenster wirklich alle zu sind.
@@ -130,6 +136,17 @@ U /uː/ U wie Ulrich, Ü wie Übermut
   They are broadcasting the soccer match live.
   Können Mücken Aids übertragen?
   Can mosquitoes transmit AIDS?
+
+übertreiben /yːbɐˈtraibən/: to exaggerate
+  „Riesig‟ wäre übertrieben, aber groß ist es schon.
+  It would be an exaggeration to call it “huge,” but it is certainly big.
+  Übertreib es nicht mit dem Training!
+  Don't overdo the exercise!
+  übertriebene Erwartungen haben: to have exaggerated expectations
+
+Übertreibung /yːbɐˈtraibʊŋ/, die: exaggeration
+  Das war ohne Übertreibung der schönste Tag meines Lebens.
+  It's no exaggeration to say that was the best day of my life.
 
 überwachen /yːbɐˈvaxən/: to watch, to keep under surveillance, to supervise
   Der Verdächtige wird rund um die Uhr überwacht.
@@ -298,6 +315,9 @@ unbedingt /ˈʊnbədɪŋt/: really, absolutely, at all costs
   Ist das denn unbedingt nötig?
   Is that absolutely necessary?
 
+unbegreiflich /ˈʊnbəɡraiflɪç/: incomprehensible, inconceivable
+  aus unbegreiflichen Gründen: for inexplicable reasons
+
 Unbehagen /ˈʊnbəhaːɡən/, das, Unbehagens: uneasiness
   Diese Vorstellung bereitet ihr Unbehagen.
   This idea makes her feel uneasy.
@@ -361,7 +381,7 @@ ungünstig: unfavorable
 
 Uni => Universität
 
-Universität /univɛrziˈtɛːt/, die
+Universität /univɛrziˈtɛːt/, die, ~|-en
 
 unklar /ˈʊnklaːɐ/: unclear
 
@@ -442,6 +462,8 @@ Unternehmen /ʊntɐˈneːmən/, das: company, firm, business, venture, operation
 unternehmen /ʊntɐˈneːmən/: to do, to go on, to (under)take, to make
   Wollen wir morgen etwas gemeinsam unternehmen?
   Shall we do something together tomorrow?
+
+Unternehmertum, das, -s|uncountable: employers, business community, entrepreneurship
 
 unternommen => unternehmen
 

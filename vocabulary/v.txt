@@ -72,9 +72,11 @@ verbinden /fɛɐˈbɪndən/: to dress, to bandage, to bind, to connect, to join,
   The doctor cleaned and dressed the wound.
   das Angenehme mit dem Nützlichen verbinden: to combine the pleasant with the useful
 
-Verbindung /fɛɐˈbɪndʊŋ/, die: connection, link
+Verbindung /fɛɐˈbɪndʊŋ/, die, ~|-en: connection, link
   Die kürzeste Verbindung zwischen zwei Punkten heißt Strecke.
   The shortest link between two points is called a line.
+  Es gab Probleme bei der Herstellung einer Verbindung zum Internet.
+  There were problems getting an Internet connection.
 
 Verbot /fɛɐˈboːt/, das, -e: ban
   Sie missachtete das Verbot ihrer Eltern und traf sich heimlich mit ihm.
@@ -95,6 +97,11 @@ Verbraucher /fɛɐˈbrauxɐ/, Verbraucherin: consumer
 
 Verbrechen /fɛɐˈbrɛçən/, das: crime
   ein Verbrechen begehen: to commit a crime
+
+Verdächtige(r): suspect
+
+verdächtigen /fɛɐˈdɛçtɪɡən/: to suspect
+  jdn des Mordes verdächtigen: to suspect sb of murder
 
 verdienen /fɛɐˈdiːnən/: to earn, to make, to deserve
   Wie viel verdient dein Mann?
@@ -356,7 +363,7 @@ verloren => verlieren
 
 verlumpt: worn-out
 
-Verlust /fɛɐˈlʊst/, der: loss
+Verlust /fɛɐˈlʊst/, der, -es|-e: loss
   Der Verlust ihres Vaters schmerzte sie sehr.
   The loss of her father hit her very hard.
   <=> Gewinn
@@ -390,6 +397,10 @@ vermummt /fɛɐˈmʊmt/: masked
   Viele Demonstranten waren vermummt.
   Many of the demonstrators were wearing masks.
 
+Vermutung /fɛɐˈmuːtʊŋ/, die, ~|-en: assumption, suspicion
+  Seine Vermutungen wurden bestätigt.
+  His suspicions were confirmed.
+
 verneinen /fɛɐˈnainən/: to say no to, to answer in the negative, to reject
   Er verneinte die Frage, ob er fertig sei.
   When asked if he was ready, he said no / answered in the negative.
@@ -418,6 +429,7 @@ verraten /fɛɐˈraːtən/: to tell, to reveal
 Verräter /fɛɐˈrɛːtɐ/: traitor
 
 verrückt /fɛɐˈrʏkt/: mad, crazy
+  => irre
   Bist du verrückt geworden? Das kannst du doch nicht tun!
   Have you gone mad? You can't do that!
   Wir schufteten wie verrückt.
@@ -481,6 +493,10 @@ verschwinden /fɛɐˈʃvɪndən/: to disappear, to vanish
 verschwunden /fɛɐˈʃvʊndən/: missing
   das verschwundene Mädchen / Auto: the missing girl/car
 
+versehentlich /fɛɐˈzeːəntlɪç/: by mistake, inadvertently
+  Ich habe versehentlich deine Haarbürste benutzt.
+  I used your hairbrush by mistake.
+
 versenden /fɛɐˈzɛndən/: to send, to dispatch
   Ihre Ware wurde heute versandt.
   Your goods were dispatched today.
@@ -528,6 +544,14 @@ versprechen /fɛɐˈʃprɛçən/: to promise, to make a mistake
 Verstand /fɛɐˈʃtant/, der, -(e)s: mind
   einen scharfen Verstand haben: to have a sharp mind
 
+verständlich /fɛɐˈʃtɛntlɪç/: audible, comprehensible, intelligible, understandable
+  Ohne Mikrofon war die Rede kaum verständlich.
+  Without a microphone the speech was hardly audible.
+  Für den Laien sind diese Formeln schwer verständlich.
+  These formulas are difficult for the layperson to understand.
+  Das war eine verständliche Reaktion von ihr.
+  That was an understandable reaction on her part.
+
 Verständnis /fɛɐˈʃtɛntnɪs/, das, -se: understanding, sympathy, comprehension, appreciation
   Für so ein Verhalten habe ich keinerlei Verständnis.
   I have absolutely no time for behavior like that.
@@ -566,6 +590,28 @@ Versuch /fɛɐˈzuːx/, der: attempt
 vertagen /fɛɐˈtaːɡən/: to adjourn
   Die Abstimmung über den Antrag wurde auf die nächste Sitzung vertagt.
   The vote on the application was adjourned until the next meeting.
+
+verteidigen /fɛɐˈtaidɪɡən/: to defend
+  sein Land / seine Freiheit verteidigen: to defend your country/liberty
+  „Ich finde, sie hat recht‟, verteidigte er seine Schwester.
+  “I think she's right,” he said, defending his sister.
+  Er wird von einem Staranwalt verteidigt.
+  He's being defended by a star lawyer.
+  Es gelang ihm ein zweites Mal, seinen Weltmeistertitel zu verteidigen.
+  He successfully defended his world championship title for a second time.
+
+vertiefen /fɛɐˈtiːfən/: to strengthen, to extend, to deepen
+  Sie möchte ihre Französischkenntnisse vertiefen.
+  She would like to extend her knowledge of French.
+  => tief
+  Seine Gefühle für sie haben sich über die Jahre vertieft.
+  His feelings for her have deepened over the years.
+  sich in etw. vertiefen: to become absorbed in sth
+  Er hatte sich gerade wieder in sein Buch vertieft, als es klingelte.
+  He had just become absorbed in his book again when the doorbell rang.
+  Sie war so in ihre Arbeit vertieft, dass sie ihn nicht kommen hörte.
+  She was so absorbed in her work that she didn’t hear him coming.
+
 
 Vertrag /fɛɐˈtraːk/, der: contract
   einen Vertrag mit jdm schließen: to sign a contract with sb
@@ -692,7 +738,7 @@ Verzögerung: deferral, delay, lag, retardation
 
 vgl. vergleiche: cf.
 
-Vieh /fiː/, das, (uncountable): livestock, critter
+Vieh /fiː/, das, |uncountable: livestock, critter
   das Vieh füttern / versorgen: to feed/see to the livestock
   das Vieh auf die Weide treiben: to drive the cattle onto the range
   Dieses blöde Vieh hat mich gekratzt!

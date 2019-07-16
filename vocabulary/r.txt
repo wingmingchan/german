@@ -79,7 +79,7 @@ raten /ˈraːtən/: to guess, to advise
   Das Gesundheitsministerium rät zur Vorsicht.
   The health ministry advises caution.
   Das möchte ich dir / ihm / … aber auch geraten haben!
-  I wouldn’t if I were you/him/…!
+  I wouldn't if I were you/him/…!
 
 ratlos /ˈraːtloːs/: helpless, baffled
   Da bin ich ratlos.
@@ -160,7 +160,7 @@ rechnen /ˈrɛçnən/: to calculate
   Sie lernen jetzt, mit Prozenten zu rechnen.
   At the moment they're learning to do calculations with percentages.
 
-Rechner /ˈrɛçnɐ/, der: mathematician, calculator, computer
+Rechner /ˈrɛçnɐ/, der, -s|~: mathematician, calculator, computer
   ein guter Rechner sein: to be good with figures
   Taschenrechner: pocket calculator
   der Großrechner der Universität: the university's mainframe computer
@@ -182,7 +182,7 @@ recken /ˈrɛkən/: to stretch
 recyceln /riˈsaikəln/: to recycle
   Altpapier und Altglas recyceln: to recycle waste paper and glass
 
-Recycling /riˈsaiklɪŋ/, das, (uncountable): recycling
+Recycling /riˈsaiklɪŋ/, das, |uncountable: recycling
 
 Redaktion /redakˈʦjoːn/, die, -en: editorial staff, editorial department, editing
   Name von der Redaktion geändert: name changed by the editors
@@ -237,7 +237,7 @@ regen: to move, to stir
   In ihm regte sich allmählich ein furchtbarer Verdacht.
   A terrible suspicion gradually stirred in him.
 
-Regie /reˈʒiː/, die, (uncountable): direction, management
+Regie /reˈʒiː/, die, |uncountable: direction, management
   Wer hat bei dem Film Regie geführt?
   Who directed the movie?
   Der Verein führt die Tagung in eigener Regie durch.
@@ -247,7 +247,7 @@ regieren /reˈɡiːrən/: to rule
   Der König regierte (das Land) 25 Jahre lang.
   The king ruled (the country) for 25 years.
 
-Regierung /reˈɡiːrʊŋ/, die: government
+Regierung /reˈɡiːrʊŋ/, die, ~|-en: government
   Landesregierung: provincial government, state government
   Zentralregierung: central government
 
@@ -283,11 +283,11 @@ reiben /ˈraibən/: to rub, to grate
 
 Reich, das: empire
 
-Reichtum /ˈraiçtuːm/, der, ..er: wealth
+Reichtum /ˈraiçtuːm/, der, -(e)s|..er: wealth
   zu Reichtum kommen: to become wealthy
   immenser Reichtum an Bodenschätzen: huge abundance of mineral resources
 
-Reife /ˈraifə/, die, (uncountable): ripeness, maturity
+Reife /ˈraifə/, die, |uncountable: ripeness, maturity
   Tomaten im Gewächshaus schneller zur Reife bringen
   to get tomatoes to ripen more quickly in the greenhouse
   Dazu fehlt ihm die nötige geistige / sittliche Reife.
@@ -314,6 +314,8 @@ rein /rain/: pure
   That's pure fabrication!
   Dieser Tag ist der reinste Alptraum!
   This day is just a total nightmare!
+  Aus reiner Dankbarkeit für seine Hilfe zahlte sie seine Schulden.
+  Out of sheer appreciation for his help she paid off his debts.
 
 reinigen /ˈrainɪɡən/: to clean
   die Fliesen mit einem feuchten Tuch reinigen: to clean the tiles with a damp cloth
@@ -372,6 +374,12 @@ Requiem /ˈreːkviɛm/, das, -s
 
 Reservierung: reservation
 
+Resonanz /rezoˈnanʦ/, die, -en: response, resonance
+  das Angebot stieß bei den Kunden auf große Resonanz.
+  The offer was met with a great response from the customers.
+  der Resonanzkörper einer Gitarre
+  the sound box of a guitar
+
 Ressort /reˈsoːɐ/, das, -s: department
   ein Ressort leiten: to run a department
 
@@ -381,6 +389,9 @@ Rest /rɛst/, der, -e: rest, remainder, leftovers, remains
   Ich mach dir die Reste vom Mittagessen warm.
   I'll heat up the leftovers from lunch for you.
   die Reste eines antiken Tempels: the remains of an ancient temple
+
+Resultat /rezʊlˈtaːt/, das, -(e)s|-e: result
+  mit einer Methode gute Resultate erzielen: to achieve good results with a method
 
 retten /ˈrɛtən/: to rescue, to save
   jdm das Leben retten: to save sb's life
@@ -396,7 +407,7 @@ Rettung /ˈrɛtʊŋ/, die: help, rescue
   Das war Rettung in letzter Minute!
   That help came in the nick of time!
 
-Reue /ˈrɔyə/, die, (uncountable): remorse, repentance
+Reue /ˈrɔyə/, die, |uncountable: remorse, repentance
   Der Mörder zeigte keine Reue.
   The murderer showed no remorse.
 
@@ -407,8 +418,14 @@ Revolte /reˈvɔltə/, die, -n: revolt
 Rezept /reˈʦɛpt/, das: recipe, prescription
   ein Rezept für Käsekuchen: a recipe for cheesecake
 
-Rhabarber /raˈbarbɐ/, der, (uncountable): rhubarb
+Rhabarber /raˈbarbɐ/, der, |uncountable: rhubarb
   Rhabarberkompott: stewed rhubarb
+
+Rhythmus /ˈrʏtmʊs/, der, ~|Rhythmen: rhythm, beat
+  Der Schlagzeuger kam aus dem Rhythmus.
+  The drummer lost the beat.
+  Ihr Herzrhythmus beschleunigte sich.
+  Her heartbeat quickened up.
 
 richten /ˈrɪçtən/: to direct, to point, to turn
 
@@ -461,7 +478,7 @@ Rolltreppe /ˈrɔltrɛpə/, die, -n: escalator
 
 Roman /roˈmaːn/, der: novel
 
-Romantik /roˈmantɪk/, die, (uncountable)
+Romantik /roˈmantɪk/, die, ~|uncountable: Romanticism, romance
   die deutsche / französische Romantik: German/French Romanticism
   Er hat keinen Sinn für Romantik.
   He has no sense of the romantic.

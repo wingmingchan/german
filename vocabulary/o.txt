@@ -106,7 +106,7 @@ Ohrring /ˈoːɐrɪŋ/, der, Ohrringe: earring
 Ökonomie /økonoˈmiː/, die, -n: economy
   die Ökonomie Griechenlands: the economy of Greece
 
-Oktober /ɔkˈtoːbɐ/, der
+Oktober /ɔkˈtoːbɐ/, der, -s|~
 
 Oktoberfest, das
   das Münchner Oktoberfest: the Munich Beer Festival
@@ -152,6 +152,10 @@ organisieren /ɔrɡaniˈziːrən/: to organize
   Getränke / Musiker für das Fest organisieren
   to organize drinks/musicians for the celebrations
   sich in einer Gewerkschaft organisieren: to form a labor union
+
+Orient /ˈoːrjɛnt/, der, -s|uncountable: Orient
+  der Zauber des alten Orients: the magic of the Ancient Orient
+  der Vordere Orient, der Nahe Osten: the Middle East
 
 orientieren /orjɛnˈtiːrən/: to get one's bearings, to be based/oriented, to inform sb/yourself (about sth)
   sich mit einer Karte / nach dem Sonnenstand orientieren

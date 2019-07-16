@@ -2,6 +2,10 @@
 L /ɛl/ L wie Ludwig
 ========================================================
 
+Labor /laˈboːɐ/, das, -s|-s/-e: lab(oratory)
+  Die Proben werden im Labor untersucht.
+  The samples are being tested in the lab.
+
 lächeln /ˈlɛçəln/: to smile
 
 lachen /ˈlaxən/: to laugh
@@ -280,7 +284,7 @@ leer /leːɐ/: empty, blank, vacant
   ein leer stehendes Gebäude: an empty building
   gähnende Leere: total emptiness
 
-Leere /ˈleːrə/, die, (uncountable): emptiness
+Leere /ˈleːrə/, die, |uncountable: emptiness
   Am Sonntagmorgen herrscht in der Stadt gähnende Leere.
   The city is completely deserted on Sunday mornings.
   eine große innere Leere verspüren: to feel a great inner emptiness
@@ -289,6 +293,8 @@ leeren /ˈleːrən/: to empty
   eine Flasche / den Mülleimer leeren: to empty a bottle/the garbage can
 
 legendär /leɡɛnˈdɛːɐ/: legendary
+
+Legionär /legjoˈnɛːr/, der, -e: legionnaire
 
 Legislaturperiode /leɡɪslaˈtuːɐperjoːdə/, die, -n: legislative period, term of office
   Nach zwei Jahren hat die Koalition nun die Hälfte der Legislaturperiode hinter sich.
@@ -310,6 +316,9 @@ lehren /ˈleːrən/: to teach
 
 Lehrer /ˈleːrɐ/, Lehrerin: teacher
 
+Lehrling /ˈleːɐlɪŋ/, der, -s|-e: apprentice, trainee
+  Bäckerlehrling: apprentice baker
+
 leicht /laiçt/: light, easy
   Das ist keine leichte Entscheidung.
   It's not an easy decision.
@@ -321,6 +330,13 @@ leiden /ˈlaidən/: to suffer
   leide, leidest, leidet, habe gelitten
 
 leidend: ailing, long-suffering
+
+Leidenschaft /ˈlaidənʃaft/, die, ~|-en: passion
+  Sie verteidigte ihn voller Leidenschaft.
+  She passionately defended him.
+
+leidlich /ˈlaitlɪç/: reasonable
+  leidliche Kenntnisse in Anatomie haben: to have a reasonable knowledge of anatomy
 
 leihen /ˈlaiən/: to lend, to borrow, to loan
 
@@ -385,7 +401,7 @@ lieb /ˈliːp/: dear, nice, kind
   Sie war sehr lieb zu mir.
   She was very nice to me.
 
-Liebe /ˈliːbə/, die, (uncountable): love, sex
+Liebe /ˈliːbə/, die, |uncountable: love, sex
   die Liebe der Eltern für ihre Kinder/zu ihren Kindern
   the love of the parents for their children
   Liebe machen
@@ -565,9 +581,9 @@ lustig /ˈlʊstɪç/: funny, keen on
 lutschen /ˈlʊtʃən/: to suck
   ein Hustenbonbon lutschen: to suck a cough drop
 
-Luxus /ˈlʊksʊs/, der, (uncountable): luxury
+Luxus /ˈlʊksʊs/, der, |uncountable: luxury
   Dieser Urlaub ist purer Luxus.
   This vacation is pure luxury.
 
-Lyrik /ˈlyːrɪk/, die, (uncountable): lyrik poetry
+Lyrik /ˈlyːrɪk/, die, |uncountable: lyrik poetry
 
