@@ -7,7 +7,11 @@ Masculine
 -at (weak) der Demokrat, der Kandidat, der Soldat, der Adressat
 -ent (weak) der Student, der Dirigent
 -er (from verb) (pl. same) der Schneider, der Angeber, der Rechner
-
+-ismus (pl. -ismen) der Sozialismus, der Sadismus
+-ist (weak) der Jounalist, der Spezialist
+-ling (pl. -e) der Lehrling, der Prüfling
+-or (pl. -en) der Professor, der Sektor
+-us (pl. varies) der Rhythmus, der Zirkus
 
 =================================
 Feminine
@@ -19,9 +23,20 @@ Feminine
 -enz (pl. -en) die Tendenz, die Frequenz
 -heit (pl. -en) die Schönheit, die Menschheit
 -ie (pl. -n) die Chemie, die Phobie
--k (pl. -en) die Informatik, die Technik, die Romantik
+-ik (pl. -en) die Informatik, die Technik, die Romantik
+-ion (pl. -en) die Nation, die Kommission
+-ität (pl. -en) die Aggressivität, die Universität
+-keit (pl. -en) die Einigkeit, die Dankbarkeit
+-schaft (pl. -en) die Gewerkschaft, die Leidenschaft
+-ung (pl. -en) die Hoffnung, die Regierung
+-ur (pl. -en) die Natur, die Fraktur
 
 =================================
 Neuter
 =================================
 -chen (pl. same) das Kaninchen, das Kätzchen
+-ion (greek origin, pl. -ien) das Stadion, das Symposion
+-ma (pl. -men) das Thema, das Prisma
+-ment (pl. -e) das Dokument, das Moment
+-tum das Heldentum, das Unternehmertum
+-um (pl. varies) das Zentrum, das Maximum
