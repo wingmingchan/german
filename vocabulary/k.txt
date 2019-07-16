@@ -107,7 +107,7 @@ Kastanie /kasˈtaːnjə/, die: chestnut
 Kasten /ˈkastən/, der, ..: box, case, crate
   ein Kasten Bier: a crate of beer
 
-Kater /ˈkaːtɐ/, der, -: tomcat, hangover
+Kater /ˈkaːtɐ/, der, -s|~: tomcat, hangover
   Kater haben ein größeres Revier als weibliche Katzen.
   Tomcats have a larger territory than female cats.
   einen Kater haben: to have a hangover
@@ -720,7 +720,7 @@ kümmern /ˈkʏmɐn/
 Kunde/Kundin: client, customer
   einen Kunden bedienen: to serve a customer
 
-Kundgebung /ˈkʊntɡeːbʊŋ/, die, -en: rally
+Kundgebung /ˈkʊntɡeːbʊŋ/, die, ~|-en: rally
   Im Anschluss an die Demonstration findet eine Kundgebung statt.
   After the demonstration there's going to be a rally.
 
