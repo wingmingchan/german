@@ -1,0 +1,37 @@
+﻿Singular
+========
+A. Masculines & Neuters
+Gen: -s der Deckel/des Deckels, das Fenster/des Fensters
+        das Gen/des Gens
+        der Schuh/des Schuhs
+     -es der Tag/des Tages, das Schiff/des Schiffes
+         ending in s, ss, ß, tz, x, z (exceptions: -as, -os, -us)
+         der Komplex/des Komplexes, das Walross/des Walrosses, der Buss/des Busses
+         der Kubismus/des Kubismus, das Epos/des Epos
+Dat: -e, normally dropped, except auf dem Lande, in hohem Maße, zu Hause
+
+B. Weak Masculines
+Gen, Dat, Pl: -en/-n (when e is already present)
+  der Mensch, den Menschen, des Menschen, dem Menschen, die Menschen
+  der Hase, den Hasen, des Hasen, dem Hasen, die Hasen
+a) Persons: -ant, -ent, -ist, -graph, -loge
+  der Demonstrant/des Demonstranten, der Student/des Studenten, der Realist/des Realisten,
+  der Geograf/des Geografen, der Theologe/des Theologen
+b) Nationalities: -e
+  der Chinese/des Chinesen, der Franzose/des Franzosen, der Schwede/des Schweden
+  aber: der Deutscher, die Deutsche, die Deutschen, des Deutschen
+c) Gen: -ns
+  der Buchstabe/des Buchstabe(n)s, der Gedanke/des Gedankens, der Glaube/des Glaubens,
+  der Name/des Namens, der Wille/des Willens, das Herz/des Herzens
+  
+C. Feminines: unchanged
+
+Plural
+======
+Nom, Acc, Gen: same form
+-n for Dat, den Häusern
+
+-e/..e:
+a) Most masculines: der Arm/Arme, der Arzt/Ärzte, der Baum/Bäume
+b) Feminine monosyllables: die Angst/Ängste, 
+-s

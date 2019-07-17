@@ -1120,7 +1120,7 @@ artgerecht /ˈartɡərɛçt/: species-appropriate
 
 Arthritis /arˈtriːtɪs/, die
 
-Arzt /arʦt/, Ärztin: doctor
+Arzt /arʦt/, -(e)s|..e, Ärztin: doctor
   ein Attest des behandelndes Arztes vorlegen
   to hand in a certificate from the attending physician
 
@@ -1523,6 +1523,10 @@ Ausflug /ˈausfluːk/, der: trip, excursion
 
 ausführen /ˈausfyːrən/: to carry out, to perform, to execute, to export
 
+ausführlich /ˈausfyːɐlɪç/: detailed
+  Für eine ausführlichere Antwort habe ich jetzt keine Zeit.
+  I don't have time right now for a more detailed reply.
+
 ausfüllen /ˈausfʏlən/: to fill out
   Sie haben nicht alle Pflichtfelder ausgefüllt.
   You haven't filled out all of the mandatory fields.
@@ -1573,7 +1577,7 @@ Auskunft /ˈauskʊnft/, die, ..e: information
   nach Auskunft der Polizei: according to police sources
   die Auskunft anrufen: to call information
 
-Ausland /ˈauslant/, das: foreign countries
+Ausland /ˈauslant/, das, -(e)s: foreign countries
   ins Ausland reisen: to travel abroad
 
 auslösen /ˈausløːzən/: to cause, to trigger
@@ -1817,7 +1821,14 @@ auszeichnen /ˈausʦaiçnən/: to honor, to distinguish
   Sie wurde mit dem Bundesverdienstkreuz ausgezeichnet.
   She was awarded the German Federal Cross of Merit.
 
-Auto /ˈauto/, das, -s: car
+ausziehen /ˈausʦiːən/: to take off, to move out
+  seine Jacke / die Schuhe ausziehen: to take off your jacket/shoes
+  Sie ist mit 17 von zu Hause ausgezogen.
+  She left home at 17.
+  Das Sofa kann man ausziehen und als Gästebett benutzen.
+  The couch can be converted for use as a spare bed.
+
+Auto /ˈauto/, das, -s|-s: car
 
 Automat /autoˈmaːt/, der, -en|-en: machine, ATM, slot machine, robot
   sich eine Fahrkarte am Automat holen: to get a ticket at the machine

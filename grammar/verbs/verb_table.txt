@@ -224,6 +224,12 @@ vergessen
   Present Perfect: habe vergessen
   Imperative: du vergiss, ihr vergesst
 
+waschen
+  Present: ich wasche, du wäschst, er wäscht, ihr wascht
+  Preterite: ich wusch, du wuschest, er wusch, wie/Sie wuschen, ihr wuscht
+  Present Perfect: habw gewaschen
+  Imperative: du wasch/wasche, ihr wascht
+
 werden
   Present: ich werde, du wirst, er wird, ihr werdet
   Preterite: ich wurde, du wurdest, er wurde, wie/Sie wurden, ihr wurdet

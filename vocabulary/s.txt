@@ -58,6 +58,8 @@ sammeln /ˈzaməln/: to gather, to collect, to assemble
   Im Herbst gehen wir gerne Pilze sammeln.
   We like to go mushroom picking in the fall.
 
+Samstag /ˈzamstaːk/, der, -(e)s|-e
+
 sämtlich /ˈzɛmtlɪç/: all
   sämtliche Kosten: all the costs
 
@@ -287,6 +289,7 @@ schief /ʃiːf/: awry
 schien => scheinen
 
 schießen /ˈʃiːsən/: to shoot, to kick
+  schieße, schoss, schossest, schosst
   auf einen Hasen schießen: to shoot at a hare
   den Ball über den Zaun schießen: to kick the ball over the fence
 
@@ -629,6 +632,11 @@ Schuss /ʃʊs/, Schüsse, der: shot
 Schüssel /ˈʃʏsəl/, die, -n: bowl
   den Salat in einer Schüssel anrichten: to prepare the salad in a bowl
 
+schütteln /ˈʃʏtəln/: to shake
+  Vor Gebrauch kräftig schütteln!
+  Shake well before use.
+  Ich schüttelte ihr die Hand.
+
 schütten /ˈʃʏtən/: to pour, to tip
   einen Eimer Wasser ins Feuer schütten
   to pour a pail of water on the fire
@@ -667,7 +675,7 @@ schweben /ˈʃveːbən/: to float
   in der Luft schwebende Staubteilchen: dust particles floating in the air
   in Lebensgefahr schweben: to be in a critical condition
 
-Schweden /ˈʃveːdən/
+Schweden /ˈʃveːdən/, das, -s
 
 *Schwefel /ˈʃveːfəl/, der: sulfur
 
@@ -678,6 +686,8 @@ schweigen /ˈʃvaiɡən/: to remain silent
 Schwein /ʃvain/, das, Schweine: pig
   Schweine schlachten: to slaughter pigs
   Schweinefleisch
+
+Schweiz /ʃvaits/, die, ~
 
 Schweizer, der, Schweizerin, Schweizer
 
@@ -1000,11 +1010,13 @@ sonderbar /ˈzɔndɐbaːɐ/: strange
   Ich finde es sonderbar, dass er noch nicht hier ist.
   I think it's strange that he isn't here yet.
 
-Sonnabend /ˈzɔnaːbənt/, der: Saturday
+Sonnabend /ˈzɔnaːbənt/, der, -s|-e: Saturday
 
 Sonne /ˈzɔnə/, die: sun, sunlight
 
 Sonnenstrahl, der: sun beam
+
+Sonntag /ˈzɔntaːk/, der, -s|-e
 
 sonst /zɔnst/: normally, else, otherwise
   Was ist denn heute los mit ihm, er ist doch sonst nicht so empfindlich.

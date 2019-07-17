@@ -377,13 +377,13 @@ finden /ˈfɪndən/: to find
 
 fingen => fangen
 
-Finnland /ˈfɪnlant/
+Finnland /ˈfɪnlant/, das, -s
 
 Firma /ˈfɪrma/, die, Firmen: firm, company
   In welcher Firma arbeitet er?
   What firm does he work for?
 
-Fisch /fɪʃ/, der, Fische: fish
+Fisch /fɪʃ/, der, -(e)s|-e: fish
 
 fischen /ˈfɪʃən/: to fish
 
@@ -651,6 +651,8 @@ freimachen /ˈfraimaçən/: to take off (work), to put a stamp on
   Take a couple of days off work.
   Bitte freimachen, wenn Marke zur Hand.
   Please put a stamp here if you have one handy.
+
+Freitag /ˈfraitaːk/, der, -(e)s|-e
 
 freiwillig /ˈfraivɪlɪç/: voluntary
   freiwillige Überstunden: voluntary overtime

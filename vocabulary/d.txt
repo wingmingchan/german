@@ -67,7 +67,7 @@ daneben /daˈneːbən/: next to it, besides
   Der Supermarkt ist um die Ecke und die Tankstelle direkt daneben.
   The supermarket is just around the corner and the gas station's right next to it.
 
-Dänemark /ˈdɛːnəˌmark/
+Dänemark /ˈdɛːnəˌmark/, das, -s
 
 Dank /daŋk/, das, Dank(e)s: thanks
 
@@ -168,7 +168,7 @@ dazugehörig /daˈʦuːɡəhøːrɪɡə/: appropriate, proper, corresponding
 
 Decke /ˈdɛkə/, die: blanket
 
-Deckel /ˈdɛkəl/, der, -: top, lid, cover
+Deckel /ˈdɛkəl/, der, -s|~, -: top, lid, cover
   Flaschendeckel: bottle cap
   den Deckel aufklappen: to lift the cover
 
@@ -285,7 +285,7 @@ Deutsch /dɔytʃ/, das
   der Unterricht in Deutsch: German lessons
   Deutscher Schäferhund: German shepherd
 
-Deutscher, Deutsche, Deutschen
+Deutsche, Deutscher, Deutsche, Deutschen
   Sind Sie Deutscher?
   Are you German?
   Das Wort kommt aus dem Deutschen.
@@ -331,6 +331,8 @@ dienen /ˈdiːnən/: to serve, to do your military service, to be of assistance
 Dienst /diːnst/, der: service
   der öffentliche Dienst: the civil service
 
+Dienstag /’diːnstaːk/, der, -(e)s|-e
+
 Diesel /ˈdiːzəl/, der, -: diesel
   Diesel tanken: to use diesel fuel
 
@@ -351,6 +353,12 @@ Dirndl /ˈdɪrndl/, das, -(n), Dirndlkleid: dirndl, girl
 
 Diskriminierung /dɪskrimiˈniːrʊŋ/, die: discrimination
 
+Diskothek /dɪsko'teːk/, die
+
+Diskrepanz /dɪskreˈpants/, die, -en: discrepancy
+  die Diskrepanz zwischen offiziellen Empfehlungen und Impfraten
+  the discrepancy between official recommendations and the immunization rates
+
 Dogge /ˈdɔɡə/, die, -n: mastiff, Great Dane
   eine Deutsche / Dänische Dogge: a Great Dane
 
@@ -360,8 +368,10 @@ Doktor /’dɔktoːɐ/, der, Doktoren, Doktorin: doctor
   Guten Tag, Herr Doktor!
   Hello, doctor. (Arzt)
 
-Dokument /doku’mɛnt/, das, -(e)s|-e: document
+Dokument /dokuˈmɛnt/, das, -(e)s|-e: document
   ein beglaubigtes Dokument vorlegen: to produce a certified document
+
+Donnerstag /ˈdɔnɐstaːk/, der, -(e)s|-e
 
 doppelt /ˈdɔpəlt/: double
   die doppelte Menge: double the amount
@@ -371,12 +381,6 @@ Dornröschenschlaf, der: long sleep
 Dose /ˈdoːzə/, die: canister, can
   Keksdose: cookie jar
   eine Dose Ananas / Bohnen: a can of pineapples/beans
-
-Diskothek /dɪsko'teːk/, die
-
-Diskrepanz /dɪskreˈpants/, die, -en: discrepancy
-  die Diskrepanz zwischen offiziellen Empfehlungen und Impfraten
-  the discrepancy between official recommendations and the immunization rates
 
 Dorf /dɔrf/, das, ..er: village
   Er ist auf dem Dorf aufgewachsen.

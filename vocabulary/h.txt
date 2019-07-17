@@ -129,6 +129,8 @@ Handbewegung, die, -en: movement of the hand, gesture
 Handel, der: trade
   Handelsabkommen: trade agreement
 
+Handeln, das, -s|uncountable: bargaining, trading, action, behavior
+
 handeln /ˈhandəln/: to deal, to trade, to bargin, to negotiate, to act
   Er handelt mit Gebrauchtwagen.
   He's a used-car dealer.
@@ -231,6 +233,8 @@ hauptsächlich /ˈhauptzɛçlɪç/: main, primary, chief
 
 Hauptverkehrszeit: rush hour
   => Stoßzeit
+
+Haus /haus/, das, -es|..er: house
 
 Hausarbeit /ˈhaus|arbait/, die: housework
   die Hausarbeit erledigen: to do the housework

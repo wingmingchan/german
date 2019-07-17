@@ -50,8 +50,12 @@ Tal /taːl/, der, Täler /ˈtɛːlɐ/: valley
 Tango /ˈtaŋɡo/, der, -s
 
 Tanne /ˈtanə/, die, Tennen: fir 冷杉
- Unser Weihnachtsbaum ist dieses Jahr eine Tanne.
- Our Christmas tree this year is a fir. 
+  Unser Weihnachtsbaum ist dieses Jahr eine Tanne.
+  Our Christmas tree this year is a fir. 
+
+Tasche /ˈtaʃə/, die, ~|-en: pocket
+  Sie hatte ihre Hände tief in den Taschen vergraben.
+  She had her hands buried deeply in her pockets.
 
 Tanz /tanʦ/, der, Tänze /ˈtɛnʦə/: dance, ball
   Er bat sie um den nächsten Tanz.
@@ -243,6 +247,8 @@ Theater /teˈaːtɐ/, das, -: theater
 Thema /ˈteːma/, das, -s|Themen: subject, topic, theme
   Über dieses Thema möchte ich nicht sprechen.
   I don't want to talk about this subject.
+
+Theologe /teoˈloːɡə/, -n|-n: theologian
 
 Therapie /teraˈpiː/, die
   Sie ist wegen dieses Leidens seit Jahren in Therapie.

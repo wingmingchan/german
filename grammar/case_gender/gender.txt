@@ -1,12 +1,42 @@
-﻿=================================
+﻿A. Meaning
+
+M: Male persons and male animals
+   Seasons, months and days of the week
+   Points of the compass and words referring to winds and kinds of weather
+   Rocks and minerals
+   Alcoholic drinks and plant- based drinks
+   Makes of car
+   Rivers outside Germany
+   Monetary units
+   Mountains and mountain ranges
+   
+F: Female persons and animals
+   Aeroplanes, motorbikes and ships
+   Native German names of rivers
+   Names of numerals
+   
+N: Young persons and animals
+   Metals and chemical elements
+   Scientific units
+   Letters of the alphabet and musical notes
+   Other parts of speech used as nouns
+   Hotels, cafés, restaurants and cinemas
+   Names of continents, countries, provinces and towns
+
+B. Form
+
+=================================
 Masculine
 =================================
 -ant (weak) der Demonstrant, der Elefant, der Konsonant, der Diamant
 -ar (= person) (pl. -e) der Bibliothekar, der Missionar, der Kommentar
 -är (= person) (pl. -e) der Legionär, der Millionär
+-ast
 -at (weak) der Demokrat, der Kandidat, der Soldat, der Adressat
 -ent (weak) der Student, der Dirigent
 -er (from verb) (pl. same) der Schneider, der Angeber, der Rechner
+-ich
+-ig
 -ismus (pl. -ismen) der Sozialismus, der Sadismus
 -ist (weak) der Jounalist, der Spezialist
 -ling (pl. -e) der Lehrling, der Prüfling
@@ -16,6 +46,7 @@ Masculine
 =================================
 Feminine
 =================================
+-a
 -ade (pl. -n) die Brigade, die Limonade, die Olympiade
 -age (pl. -n) die Sabotage, die Persiflage, die Etage
 -anz (pl. -en) die Arroganz, die Diskrepanz, die Resonanz
@@ -24,10 +55,13 @@ Feminine
 -heit (pl. -en) die Schönheit, die Menschheit
 -ie (pl. -n) die Chemie, die Phobie
 -ik (pl. -en) die Informatik, die Technik, die Romantik
+-in
 -ion (pl. -en) die Nation, die Kommission
 -ität (pl. -en) die Aggressivität, die Universität
 -keit (pl. -en) die Einigkeit, die Dankbarkeit
 -schaft (pl. -en) die Gewerkschaft, die Leidenschaft
+-sis
+-t
 -ung (pl. -en) die Hoffnung, die Regierung
 -ur (pl. -en) die Natur, die Fraktur
 

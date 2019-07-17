@@ -541,9 +541,15 @@ Genuss /ɡəˈnʊs/, der, -es|..e: enjoyment, pleasure
 
 Genussmittel /ɡəˈnʊsmɪtəl/, das, -: luxury food and drinks, stimulant
 
-Geologe /ɡeoˈloːɡə/: geologist
+Geograf /ɡeoˈɡraːf/, der, -en|-en: geographer
+  Sie ist Diplom-Geografin.
+  She has a degree in geography.
 
-Geologie /ɡeoloˈɡiː/, die, |uncountable
+Geografie /ɡeoɡraˈfiː/, die, ~|uncountable
+
+Geologe /ɡeoˈloːɡə/, -n|-n, -in: geologist
+
+Geologie /ɡeoloˈɡiː/, die, ~|uncountable
 
 geprüft => prüfen
 
@@ -853,6 +859,8 @@ glänzend /ˈɡlɛnʦənt/: glossy, shiny, brilliant
   glänzende Laune haben: to be in the best of moods
   Es geht mir glänzend!
   I'm doing real good.
+
+Glaube /ˈɡlaubə/, der, -ns|uncountable: faith
 
 gläubig /ˈɡlɔybɪç/: religious, devout
   Ich bin getauft, aber nicht besonders gläubig.

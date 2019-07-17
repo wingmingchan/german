@@ -79,6 +79,8 @@ Bank, die, Banken: bank
 Bank, die, Bänke: bench
   sich im Park auf eine Bank setzen: to sit down on a bench in the park
 
+Bankwesen, das, -s|uncountable: banking (system)
+
 Bann /ban/, der: spell
   Das Spiel hielt uns alle in Bann.
   The game had us all under its spell. 
@@ -131,7 +133,7 @@ bauen /ˈbauən/: to build
   Die Kinder haben einen Schneemann gebaut.
   The children have built a snowman.
 
-Baum /baum/, Bäume /ˈbɔymə/, der: tree
+Baum /baum/, der, -(e)s|..e: tree
    Bäume fällen: to cut down trees 
 
 bayerisch /ˈbaiərɪʃ/: Bavarian
@@ -581,7 +583,13 @@ bereits /bəˈraits/: already, as early as
 
 Berg /bɛrk/, der: mountain
 
-Bericht /bəˈrɪçt/, der: report
+Bericht /bəˈrɪçt/, der, -(e)s|-e: report
+  einen Fernsehbericht über das Erdbeben ansehen
+  to watch a TV report about the earthquake
+
+berichten /bəˈrɪçtən/: to report
+  Die Zeitungen berichteten ausführlich über das Unglück.
+  The newspapers had detailed reports of the accident.
 
 Berichterstattung /bəˈrɪçt|ɛɐʃtatʊŋ/, die, -en: reporting
   Bei Privatsendern nimmt die politische Berichterstattung nur wenig Raum ein.
@@ -822,8 +830,9 @@ betrügen /bəˈtryːɡən/: to cheat
   Er lügt und betrügt, wann es ihm passt.
   He lies and cheats whenever it's to his advantage.
 
-Bett /bɛt/, das, Betten: bed
+Bett /bɛt/, das, -(e)s|-en: bed
   früh ins/zu Bett gehen: to go to bed early
+  im Bett
 
 Bettdecke /ˈbɛtdɛkə/, die, -n: blanket, comforter
 
@@ -1125,7 +1134,7 @@ blühend: blossoming, flourishing, thriving
 
 Blumenkohl /ˈbluːmənkoːl/, der: cauliflower
 
-Blut, das: blood
+Blut /bluːt/, das, -(e)s|uncountable: blood
   Er hat bei dem Unfall viel Blut verloren.
   He lost a lot of blood in the accident.
 
@@ -1358,6 +1367,12 @@ Buchhalter /ˈbuːxhaltɐ/: bookkeeper, accountant
 
 Büchse /ˈbʏksə/, die, Büchsen: can
   eine Büchse Erbsen: a can of peas
+
+Buchstabe /ˈbuːxʃtaːbə/, der, -n(s)|-n: character, letter 字母
+  kleiner Buchstabe
+  kleiner Buchstabe
+  kleiner Buchstabe: a character in bold
+  in fetten Buchstaben
 
 buchstabieren /buːxʃtaˈbiːrən/: to spell
   Mein Name ist Mayr – ich buchstabiere: Martha, Anton, Ypsilon, Richard.

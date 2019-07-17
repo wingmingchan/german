@@ -75,6 +75,8 @@ Wald /valt/, der, ..er: wood(s), forest
 
 Waldkauz, der: tawny owl
 
+Walross /ˈvaːlrɔs/, das, -es|-e: walrus  
+
 Wand /vant/, Wände /ˈvɛndə/, die: wall
   ein Bild an die Wand hängen
   to hang a picture on the wall
@@ -140,6 +142,8 @@ warum /vaˈrʊm/: why
 △was /vas/
 
 waschen /ˈvaʃən/: to wash
+  sich mit Wasser und Seife waschen: to wash up with soap and water
+  Sie wusch sich die Haare.
 
 Wasser /ˈvasɐ/, das: water
 
@@ -478,6 +482,9 @@ wild /vɪlt/: wild, savage
   wilder Wein: woodbine
   Die Missionare wollten den Wilden den christlichen Glauben bringen.
   The missionaries wanted to bring the Christian faith to the savages.
+
+Wille /ˈvɪlə/, der, -ns|uncountable: will, intention
+  nach jds Willen: as sb wanted/wants
 
 willkommen /vɪlˈkɔmən/: welcome
   Sie sind mir jederzeit willkommen!

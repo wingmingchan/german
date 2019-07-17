@@ -1,0 +1,26 @@
+﻿Definite Article
+================
+        Singular                      Plural
+        M         F         N         All
+Nom.    der       die       das       die
+Acc.    den       die       das       die
+Gen.    des       der       des       der
+Dat.    dem       der       dem       den
+
+
+Indefinite Article
+==================
+        Singular
+        M         F         N  
+Nom.    ein       eine      ein
+Acc.    einen     eine      ein
+Gen.    eines     einer     eines
+Dat.    einem     einer     einem
+
+        Singular                      Plural
+        M         F         N  
+Nom.    kein      keine     kein      keine
+Acc.    keinen    keine     kein      keine
+Gen.    keines    keiner    keines    keiner
+Dat.    keinem    keiner    keinem    keinen
+

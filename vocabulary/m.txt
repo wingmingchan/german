@@ -121,10 +121,11 @@ Masochismus /mazɔˈxɪsmʊs/, der, ~|uncountable: masochism
 
 Massaker /maˈsaːkɐ/, das: massacre
 
-Maß /maːs/, das, -e: measure, dimension
+Maß /maːs/, das, -es|-e: measure, dimension, degree
   => messen
   der IQ als Maß für die Intelligenz: IQ as a measure of intelligence
   über die/alle Maßen: beyond all measure
+  in hohem Maße [dative]
 
 maßlos /ˈmaːsloːs/: extreme, excessive
 
@@ -410,7 +411,7 @@ mittlerweile /ˈmɪtlɐˈvailə/: meanwhile, in the meantime, since then
   Ich habe mich mittlerweile daran gewöhnt.
   In the meantime I've gotten used to it.
 
-Mittwoch /ˈmɪtvɔx/, der: Wednesday
+Mittwoch /ˈmɪtvɔx/, der, -s|-e: Wednesday
 
 Möbel /ˈmøːbəl/, pl: furniture
   Ich habe mir neue Büromöbel angeschafft.
@@ -471,7 +472,7 @@ Monopol /monoˈpoːl/, das, -e: monopoly
   Der Staat hat bei uns ein Monopol auf Glücksspiele.
   Our state has a monopoly on gambling.
 
-Montag /ˈmoːntaːk/, der
+Montag /ˈmoːntaːk/, der, -(e)s|-e
 
 moralisch /moˈraːlɪʃ/: moral, ethical, virtuous
   moralische Zweifel / Gründe: moral doubts/reasons
