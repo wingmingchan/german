@@ -446,6 +446,9 @@ Floh /floː/, der, ..e: flea
 flöhen /ˈfløːən/: to deflea, to rid
   einen Hund flöhen
 
+Floß /floːs/, das, -es|..e: raft
+  mit einem Floß den Fluss überqueren: to cross the river in a raft
+
 ▲Fluch /fluːx/, der, ..e: curse
   Er stieß einen lauten Fluch aus, als ihm die Kiste auf den Fuß fiel.
   He cursed loudly when the box fell on his foot.
@@ -727,7 +730,7 @@ Frosch, der: frog
 
 Frost /frɔst/, der: frost
 
-Frucht /frʊxt/, Früchte /ˈfrʏçtə/, die: fruit
+Frucht /frʊxt/, die, ~|..e: fruit
   Fruchteis: sorbet
   Fruchtyoghurt
 
@@ -744,7 +747,7 @@ Frühstück /ˈfryːʃtʏk/, das, -(e)s|-e: breakfast
 frühstücken /ˈfryːʃtʏkən/: to have breakfast
   ein Müsli frühstücken: to have muesli for breakfast
 
-Fuchs /fʊks/, der: fox
+Fuchs /fʊks/, der, -es|..e, Füchsin: fox
 
 fuhr => fahren
 

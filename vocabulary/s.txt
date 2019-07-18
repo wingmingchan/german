@@ -317,6 +317,11 @@ Schinken /ˈʃɪŋkən/, der, -: ham
 
 schippen: to shovel
 
+Schlacht /ʃlaxt/, die, ~|-en: battle, fest
+  in die Schlacht ziehen: to go into battle
+  Statt der üblichen Kuchenschlacht gab es auf dem Kindergartenfest nur belegte Brote.
+  Instead of the usual cake fest there were just sandwiches at the kindergarten party.
+
 Schlafanzug /ˈʃlaːf|anʦuːk/, der, ..e: pajamas
 
 schlafen /ˈʃlaːfən/: to sleep
@@ -433,7 +438,7 @@ schmeißen /ˈʃmaisən/: to chuck, to throw, to drop, to manage, to put on
   Für das Vorstellungsgespräch hat er sich in einen Anzug geschmissen.
   He put on a suit for the interview.
 
-Schmerz /ʃmɛrʦ/, der: pain
+Schmerz /ʃmɛrʦ/, der, -es|-en: pain
   ein stechender Schmerz im Knie: a stabbing pain in your knee 
 
 Schmied /ʃmiːt/: smith
@@ -658,7 +663,7 @@ Schwäche /ˈʃvɛçə/, die: weakness, failing
   Sie bekam einen Schwächeanfall.
   She suddenly felt faint.
 
-Schwalbe /ˈʃvalbə/, die: swallow
+Schwalbe /ˈʃvalbə/, die, ~|-en: swallow
   Schwalbennest: swallow's nest
 
 schwanger: pregnant
@@ -736,7 +741,11 @@ Schwur /ʃvuːɐ/, der: oath
 
 schwur => schwören
 
-See /zeː/, der: lake, sea
+See /zeː/, der, -s|-n: lake
+  in einem See baden: to swim in a lake
+
+See /zeː/, die, ~|-n: sea
+  in den Ferien an die See fahren: to go on vacation to the coast
 
 Seehöhe, die: sea level
 
@@ -1225,7 +1234,7 @@ spürbar /ˈʃpyːɐbaːɐ/: noticeable , perceptible
   Auch bei uns hat spürbar die Erde gebebt.
   Even where we are you could feel the earth tremor.
 
-Staat /ʃtaːt/, der, Staaten: state, country
+Staat /ʃtaːt/, der, -(e)s|-en: state, country
   ein demokratischer Staat: a democratic state
 
 Staatsanwalt /ˈʃtaːʦ|anvalt/: DA, presecutor
@@ -1238,7 +1247,7 @@ Stäbchen /ˈʃtɛːpçən/, das, -: chopstick
 
 Stadion /ˈʃtaːdjɔn/, das, -s|Stadien: stadium
 
-Stadt /ʃtat/, die, Städte /ˈʃtɛ(ː)tə/: town, city
+Stadt /ʃtat/, die, ~|..e: town, city
 
 Stadtrand /ˈʃtatrant/, der, Stadtränder /ˈʃtatrɛndɐ/: outskirts
 
@@ -1514,6 +1523,10 @@ Strafe /ˈʃtraːfə/, die, -n: punishment, fine
 
 Straftäter /ˈʃtraːftɛːtɐ/: offender, criminal
   jugendliche Straftäter: young offender
+
+Strahl /ʃtraːl/, der, -(e)s|-en: beam, ray, jet
+  den Strahl der Taschenlampe auf jdn / etw. richten
+  to direct the beam of the flashlight onto sb/sth
 
 Strand /ʃtrant/, der: flaches Ufer am Meer, beach
 

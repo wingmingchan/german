@@ -354,7 +354,7 @@ einkaufen: shopping
 
 Einkaufsliste: shopping list
 
-Einkommen /ˈainkɔmən/, das: income, earnings
+Einkommen /ˈainkɔmən/, das, -s|~: income, earnings
   Wie hoch ist Ihr monatliches Einkommen in etwa?
   Roughly how high is your monthly income?
 

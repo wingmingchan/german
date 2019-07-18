@@ -333,6 +333,13 @@ verlassen /fɛɐˈlasən/: to leave, to abandon
   
 verlassen: deserted, lonely, abandoned
 
+Verlauf /fɛɐˈlauf/, der, -(e)s|uncountable: course
+  den Grenzverlauf begradigen: to straighten the course taken by the border
+  Die Verhandlung hat einen ungünstigen Verlauf genommen.
+  The negotiations went badly.
+  Im Verlauf der Verhandlungen stellte es sich heraus, dass die Parteien nicht zu einem Kompromiss bereit waren.
+  During the course of the negotiations, it became apparent that the parties were not prepared to compromise.
+
 verlegen /fɛɐˈleːɡən/: to move, to mislay, to lose, to lay
   Er wurde auf die Intensivstation verlegt.
   He was moved to the intensive care unit.
@@ -687,6 +694,10 @@ Verwandte /fɛɐˈvantə/: relative, relation
   Verwandtschaft, die relations, relatives
   => Angehörige
 
+verweilen /fɛɐˈvailən/: to stay (a while), to linger
+  Ich würde gern noch ein bisschen verweilen.
+  I'd like to stay a little while longer.
+
 verwenden /fɛɐˈvɛndən/: to use, to spend
   Zum Kochen verwende ich fast nur Olivenöl.
   I virtually only use olive oil for cooking.
@@ -762,6 +773,10 @@ vielmehr /ˈfiːlmeːɐ/: rather
 
 vielschichtig /ˈfiːlʃɪçtɪʃ/: complex
   ein vielschichtiges Thema / Problem: a complex subject/problem
+
+Vielzahl /ˈfiːlʦaːl/, die, ~|uncountable: large number, multitude
+  Wir haben eine Vielzahl von interessanten Angeboten.
+  We have a large number of interesting offers.
 
 vier /fiːɐ/
 

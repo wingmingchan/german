@@ -92,6 +92,10 @@ U /uː/ U wie Ulrich, Ü wie Übermut
   Überprüf doch noch mal, ob die Fenster wirklich alle zu sind.
   Can you double-check that all the windows are really closed?
 
+überqueren /yːbɐˈkveːrən/: to cross
+  Er überquerte die Straße an der Fußgängerampel.
+  He crossed the road at the lights.
+
 überraschen /yːbɐˈraʃən/: to surprise
   Es überrascht mich nicht, dass du das so siehst.
   It doesn't surprise me that you see it that way.
@@ -188,11 +192,11 @@ Ufer /ˈuːfɐ/, das: bank, shore
   Der Fluss ist über die Ufer getreten.
   The river burst its banks.
 
-Uhr /uːɐ/, die, -en: watch, clock
+Uhr /uːɐ/, die, ~|-en: watch, clock
   Meine Uhr ist stehen geblieben.
   My watch has stopped.
 
-Uhrzeit /ˈuːɐʦait/, die, -en: time
+Uhrzeit /ˈuːɐʦait/, die, ~|-en: time
   Um welche Uhrzeit soll ich dich abholen?
   What time should I pick you up?
 
@@ -254,6 +258,11 @@ umgehend /ˈʊmɡeːənt/: immediate
   Um umgehende Antwort wird gebeten.
   Please reply immediately.
   eine Sache umgehend erledigen: to deal with something immediately
+
+umgekehrt /ˈʊmɡəkeːɐt/: opposite, reverse, the other way around
+  Es ist genau umgekehrt: Er hat sie betrogen, nicht sie ihn.
+  It's just the opposite. He cheated on her, not her on him.
+  und / oder umgekehrt: and/or vice versa
 
 Umhang /ˈʊmhaŋ/, der, Umhänge /ˈʊmhɛŋə/: cape, cloak
 

@@ -20,7 +20,7 @@ backen /ˈbakən/: to bake, to fry
 Bäcker /ˈbɛkɐ/, Bäckerin: baker
   beim Bäcker Brötchen holen: to get bread rolls from the baker's
 
-Bäckerei /bɛkəˈrai/, die: bakery
+Bäckerei /bɛkəˈrai/, die, ~|-en: bakery
 
 Bad /baːt/, das: bath, bathroom
 
@@ -513,7 +513,7 @@ bemerken /bəˈmɛrkən/: to notice
   Sein Fehlen wurde nicht bemerkt.
   His absence went unnoticed.
 
-Bemerkung /bəˈmɛrkʊŋ/, die: remark, comment
+Bemerkung /bəˈmɛrkʊŋ/, die, ~|-en: remark, comment
   eine abfällige Bemerkung machen: to make a snide remark
 
 bemüht /bəˈmyːt/: conscientious
@@ -669,7 +669,7 @@ Beschränkung /bəˈʃrɛŋkʊŋ/, die, -en: restriction
   die Beschränkung der Redezeit auf 5 Minuten: limiting speaking time to 5 minutes
   jdm / sich Beschränkungen auferlegen: to impose restrictions on sb/yourself
 
-Beschreibung /bəˈʃraibʊŋ/, die, -en: description
+Beschreibung /bəˈʃraibʊŋ/, die, ~|-en: description
 
 beschriften /bəˈʃrɪftən/: to label, to inscribe
   die Marmeladengläser beschriften: to label the Mason jars

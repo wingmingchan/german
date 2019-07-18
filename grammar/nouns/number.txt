@@ -14,13 +14,13 @@ B. Weak Masculines
 Gen, Dat, Pl: -en/-n (when e is already present)
   der Mensch, den Menschen, des Menschen, dem Menschen, die Menschen
   der Hase, den Hasen, des Hasen, dem Hasen, die Hasen
-a) Persons: -ant, -ent, -ist, -graph, -loge
+(a) Persons: -ant, -ent, -ist, -graph, -loge
   der Demonstrant/des Demonstranten, der Student/des Studenten, der Realist/des Realisten,
   der Geograf/des Geografen, der Theologe/des Theologen
-b) Nationalities: -e
+(b) Nationalities: -e
   der Chinese/des Chinesen, der Franzose/des Franzosen, der Schwede/des Schweden
   aber: der Deutscher, die Deutsche, die Deutschen, des Deutschen
-c) Gen: -ns
+(c) Gen: -ns
   der Buchstabe/des Buchstabe(n)s, der Gedanke/des Gedankens, der Glaube/des Glaubens,
   der Name/des Namens, der Wille/des Willens, das Herz/des Herzens
   
@@ -32,6 +32,20 @@ Nom, Acc, Gen: same form
 -n for Dat, den Häusern
 
 -e/..e:
-a) Most masculines: der Arm/Arme, der Arzt/Ärzte, der Baum/Bäume
-b) Feminine monosyllables: die Angst/Ängste, 
+(a) Most masculines: der Arm/Arme, der Arzt/Ärzte, der Baum/Bäume
+(b) Feminine monosyllables: die Angst/Ängste, die Frucht/Früchte, die Gans/Gänse, die Nacht/Nächte
+(c) Neuter monosyllables: das Floß/Flöße, das Boot/Boote, das Jahr/Jahre, das Pferd/Pferde, das Spiel/Spiele
+
+-en or -n:
+(a) Most feminines:
+Vast majority of those ending in a consonant
+die Schlacht/Schlachten, die Tat/Taten, die Uhr/Uhren, die Zeit/Zeiten
+-keit, -schaft, -ung
+die Bäckerei/Bäckereien, die Füchsin/Füchsinnen, die Bemerkung/Bemerkungen
+All Feminines ending in -e
+die Blume/Blumen, die Farbe/Farben, die Minute/Minuten, die Schwalbe/Schwalben
+
+(b)A number of Masculines and a few Neuters
+der Schmerz/Schmerzen, der See/Seen, der Staat/Staaten, der Strahl/Strahlen
+
 -s
