@@ -115,6 +115,9 @@ Säugling /ˈzɔyklɪŋ/, der: infant, baby
 
 Säule /ˈzɔylə/, die, -n: pillar, column
 
+Sauna /ˈzauna/, die, ~|-s/Saunen
+  in die Sauna gehen: to go to the sauna
+
 Schach /ʃax/, das: chess
   Schach spielen: to play chess
   
@@ -910,6 +913,9 @@ Sicherung /ˈzɪçərʊŋ/, die: securing, saving , backing-up, fuse
 
 Sicherungskopie, die: backup
 
+Sichtschutz /ˈzɪçtʃʊts/, der, -es|uncountable: screen
+  einen Zaun als Sichtschutz errichten: to put up a fence as a screen
+
 Sicht /zɪçt/, die: visibility, sight, (point of) view
   Der Nebel hatte sich aufgelöst und wir hatten gute Sicht ins Tal.
   The fog had lifted and we had a good view of the valley.
@@ -1496,6 +1502,9 @@ stopfen /ˈʃtɔpfən/: to stuff sth into sth
 
 stöbern /ˈʃtœːbɐn/: to browse
 
+Store /ʃtoːɐ/, der, -s|-s: curtain, drape
+  als Sichtschutz die Stores zuziehen: to pull the drapes for greater privacy
+
 stören /ˈʃtøːrən/: to disturb, to interfere, to interrupt, to intrude, to jam
   Stört es dich, wenn ich rauche?
   Does it bother you if I smoke?
@@ -1562,7 +1571,7 @@ Streifen /ˈʃtraifən/, der: stripe
 
 streifen: to brush against, to graze
 
-Streik /ʃtraik/, der: strike
+Streik /ʃtraik/, der, -(e)s|-s: strike
 
 Streit /ʃtrait/, der: argument, quarrel, dispute
   Ich bekam mit den Nachbarn Streit wegen der Katze.

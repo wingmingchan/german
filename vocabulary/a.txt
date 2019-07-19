@@ -494,6 +494,11 @@ Albtraum /ˈalptraum/, der, -(e)s|..e: nightmare
   Die Fahrt war der reinste Albtraum!
   The journey was an absolute nightmare.
 
+Album /ˈalbʊm/, das, -s|Alben
+  Sie hat ein Album, in das ihre Freundinnen kleine Sprüche schreiben.
+  She has an album in which her friends write little sayings.
+  ein Song aus ihrem neuesten Album: a song from their latest album
+
 Ali /ˈaːli/, der, -s|-s: Arab
 
 Alibi /ˈaːlibi/, das, -s|-s: alibi
@@ -848,6 +853,14 @@ ankündigen /ˈankʏndɪɡən/: to announce
 Ankunft /ˈankʊnft/, die, ..e: arrival
   Die Ankunft des Zuges verzögert sich voraussichtlich um 10 Minuten.
   The arrival of the train is expected to be delayed by 10 minutes.
+
+Anlage /ˈanlaːɡə/, die, ~|-n: facility, plant, works, equipment, investment, laying out, construction
+  militärische Anlagen: military installations
+  öffentliche Anlage: (public) park
+  Industrieanlage: industrial plant
+  die sanitären Anlagen auf einem Campingplatz: the sanitary facilities at a campground
+  eine sichere / langfristige Kapitalanlage: a safe/long-term investment
+  die Anlage eines neuen Parks / von Beeten: laying out a new park/beds
 
 Anlass /ˈanlas/, der, ..e: reason, cause, occasion
   Es besteht Anlass zu der Hoffnung, dass …
@@ -1431,7 +1444,7 @@ Aufzucht /ˈaufʦʊxt/, die: rearing, breeding
 
 Aufzug /ˈaufʦuːk/, der, Aufzüge: elevator, (theatre) act
 
-Auge /ˈauɡə/, das: eye
+Auge /ˈauɡə/, das, -s|-n: eye
   blaue/gute Augen haben
   to have blue eyes/good eyesight
   Auge in Auge: face to face

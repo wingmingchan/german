@@ -85,7 +85,7 @@ Lamm /lam/, das, Lämmer /ˈlɛmɐ/: lamb
 Lampe /ˈlampə/, die, Lampen: lamp
   die Lampe einschalten/ausschalten: to switch the lamp on/off 
 
-Land /lant/, Länder /ˈlɛndɐ/, das: land, state, country
+Land /lant/, das, -(e)s|..er: land, state, country
   Die Passagiere gehen an Land.
   The passengers are going ashore.
 
@@ -143,7 +143,9 @@ langweilig /ˈlaŋvailɪç/: boring
   Der Film war so langweilig, dass ich eingeschlafen bin.
   The movie was so boring that I fell asleep.
 
-Lapsus /ˈlapsʊs/, der: mistake
+Lapsus /ˈlapsʊs/, der, ~|~: mistake
+
+Laptop /ˈlɛptɔp/, der, -s|-s
 
 Lärche /ˈlɛrçə/, die: larch, 落叶松
 

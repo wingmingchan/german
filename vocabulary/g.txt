@@ -363,7 +363,7 @@ Geisel, die: hostage
   Der Bankräuber hat drei Angestellte als Geiseln genommen.
   The bank robber had taken three of the staff hostage.
 
-Geist, Geister, der: mind, ghost, spirit
+Geist /ɡaist/, der, -(e)s|-er: mind, ghost, spirit
   Er sah sich im Geiste schon auf dem Siegerpodest.
   In his mind's eye he could already see himself on the winners' rostrum.
   Der Geist der Verstorbenen soll noch in diesen Mauern spuken.
@@ -927,6 +927,17 @@ gönnen
   sich etw. gönnen: to treat yourself to sth
   Du musst dir mal wieder eine Pause gönnen!
   You need to give yourself a break for a change.
+
+Gott /ɡɔt/, der, -es|..er: God
+  an Gott glauben: to believe in God
+  Gott sei Dank!
+  Thank goodness.
+  Mein Gott / O Gott!
+  Oh, my goodness!
+  Um Gottes willen!
+  Oh, my goodness! / For heaven's sake!
+  „Soll ich das machen?‟ – „Um Gottes willen, bloß nicht!‟
+  “Shall I do it?” – “For heaven's sake – no way!”
 
 Gottesdienst /ˈɡɔtəsdiːnst/, der, -e: service
   ein katholischer / evangelischer Gottesdienst

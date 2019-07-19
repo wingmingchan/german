@@ -96,7 +96,8 @@ Ohnmacht /ˈoːnmaxt/, die, Ohnmachten: faint
   in Ohnmacht fallen: to faint
   die eigene Ohnmacht spüren: to feel your own helplessness
 
-Ohr /oːɐ/, das: ear
+Ohr /oːɐ/, das, -(e)s|-n: ear
+  jdm etw. ins Ohr flüstern: to whisper sth in sb's ear
 
 Ohrfeige /ˈoːɐfaiɡə/, die: slap in the face
   eine schallende Ohrfeige bekommen: to get a resounding slap in the face
@@ -146,12 +147,23 @@ Ordnung /ˈɔrdnʊŋ/, die: order
   in alphabetischer Ordnung aufgerufen werden: to have your names called out in alphabetical order
   für Ruhe und Ordnung sorgen: to guarantee law and order
 
+Organisator /ɔrɡaniˈzaːtoːɐ/, -s|-en, -in: organizer
+  der Organisator der Loveparade: the organizer(s) of the Love Parade
+
 organisieren /ɔrɡaniˈziːrən/: to organize
   Das Fest war gut organisiert.
   The celebrations were well organized.
   Getränke / Musiker für das Fest organisieren
   to organize drinks/musicians for the celebrations
   sich in einer Gewerkschaft organisieren: to form a labor union
+
+Organismus /ɔrɡaˈnɪsmʊs/, der, ~|Organismen: organism, body
+  Zu viel Fett belastet den Organismus.
+  Too much fat places a strain on your body.
+  Bakterien sind winzige Organismen.
+  Bacteria are tiny organisms.
+  Der Staat ist ein komplexer Organismus.
+  The State is a complex entity.
 
 Orient /ˈoːrjɛnt/, der, -s|uncountable: Orient
   der Zauber des alten Orients: the magic of the Ancient Orient

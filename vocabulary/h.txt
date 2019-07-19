@@ -177,7 +177,7 @@ hart /hart/: hard
 
 Häschen /ˈhɛːsçən/, das, -: hare
 
-*Hase /ˈhaːzə/, der, -n: hare
+*Hase /ˈhaːzə/, der, -n|-n: hare
 
 Hass /has/, der: hate, hatred
 
@@ -264,6 +264,8 @@ Haustür, die: front door
 Haut /haut/, die, ~|..e: skin
   zarte/raue/empfindliche Haut haben
   to have delicate/rough/sensitive skin
+
+Hazienda /haˈtsjɛnda/, die, ~|-s/Hazienden: hacienda
 
 Hebel /ˈheːbəl/, der: lever
 

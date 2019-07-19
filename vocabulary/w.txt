@@ -51,6 +51,14 @@ Wahrheit /ˈvaːɐhait/, die, -en: truth
   Sag (mir) die Wahrheit!
   Tell (me) the truth!
 
+wahrnehmen /ˈvaːɐneːmən/: to perceive, to detect, to take, to look after, to distinguish
+  Er nahm von seiner Umwelt kaum etwas wahr.
+  He was hardly aware of his surroundings.
+  Sie nahm den vereinbarten Termin beim Arzt nicht wahr.
+  She didn't keep her appointment with the doctor.
+  Welcher Anwalt nimmt Ihre Interessen wahr?
+  Which lawyer is looking after your interests?
+
 Wahrzeichen /ˈvaːɐʦaiçən/, das, -: symbol, most famous landmark
   Die Freiheitsstatue ist das Wahrzeichen von New York.
   The Statue of Liberty is New York's most famous landmark.
@@ -70,7 +78,7 @@ wahrscheinlich /vaːɐˈʃainlɪç/: probable, likely
 
 Waise /ˈvaizə/, die: orphan
 
-Wald /valt/, der, ..er: wood(s), forest
+Wald /valt/, der, -(e)s|..er: wood(s), forest
   im Wald spazieren gehen: to go walking in the woods
 
 Waldkauz, der: tawny owl
@@ -633,6 +641,10 @@ wovon /voˈfɔn/: from what, from which
   Technology is something I’m afraid I know absolutely nothing about.
 
 wovor /voˈfoːɐ/: what … in front of
+
+Wrack /vrak/, das, -(e)s|-s: wreck(age)
+  Nach dem Unfall war der Wagen nur noch ein Wrack.
+  The car was just a wreck after the accident.
 
 wundern /ˈvʊndɐn/: to be surprised, to surprise
 

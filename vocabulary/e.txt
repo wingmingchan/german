@@ -561,9 +561,13 @@ Einwohnermeldeamt /ˈainvoːnɐmɛldə|amt/: residents registration office
   Geburtsurkunden und Totenscheine bekommt man vom Einwohnermeldeamt.
   Birth and death certificates can be obtained from the residents registration office.
 
-Einzel, das: single
+Einzel, das, -s|~: single
   Er gewann im Herreneinzel.
   He won the men's singles.
+
+Einzelheit /ˈainʦəlhait/, die, ~|-en: detail
+  Weitere Einzelheiten des Vorfalls wurden erst später bekannt.
+  Further details of the incident only came to light later.
   
 einzeln /ˈainʦəln/: single, individual
 
@@ -658,7 +662,7 @@ empor- /ɛmˈpoːɐ/: upwards
 
 Empörung /ɛmˈpøːrʊŋ/, die, Empörung: indignation, outrage
 
-Ende /ˈɛndə/, das: end
+Ende /ˈɛndə/, das, -s|-n: end
   Am Ende ist das doch egal.
   In the end it doesn't matter at all.
 
@@ -675,6 +679,10 @@ Enge /ˈɛŋə/, die: narrowness, tightness
   the lack of space in the overcrowded subway
   jdn in die Enge treiben: to drive sb into a corner
 
+Engel /ˈɛŋəl/, der, -s|~: angel
+  Ihm ist ein Engel erschienen.
+  An angel appeared to him.
+
 England /ˈɛŋlant/
 
 Engländer, der, Engländerin, Engländer
@@ -686,6 +694,12 @@ Englisch /ˈɛŋlɪʃ/
   die englische Sprache
 
 Enquete /ãˈkɛːt(ə)/, die, -n: official inquiry
+
+Ensemble /ãːˈsãblə/, -s|-s
+  Heute tritt ein Ensemble für zeitgenössische Musik auf.
+  An ensemble for contemporary music is performing today.
+​ Sie trug ein Ensemble aus Rock, Pullover und Jacke aus feinster Wolle.
+  She was wearing a skirt, pullover, and jacket ensemble of the finest wool.
 
 ent-: to express that sth is taken away, a process is reversed, movement away from somewhere, the beginning of an action
 

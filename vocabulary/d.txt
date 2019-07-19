@@ -166,6 +166,11 @@ dazugehörig /daˈʦuːɡəhøːrɪɡə/: appropriate, proper, corresponding
   zehn Bogen Briefpapier und die dazugehörigen Umschläge
   ten sheets of writing paper and the proper envelopes
 
+Deck /dɛk/, das, -(e)s|-s
+  Die Passagiere sonnen sich an Deck.
+  The passengers are sunbathing on the deck.
+  Passagierdeck: passenger deck
+
 Decke /ˈdɛkə/, die: blanket
 
 Deckel /ˈdɛkəl/, der, -s|~, -: top, lid, cover
@@ -382,7 +387,7 @@ Dose /ˈdoːzə/, die: canister, can
   Keksdose: cookie jar
   eine Dose Ananas / Bohnen: a can of pineapples/beans
 
-Dorf /dɔrf/, das, ..er: village
+Dorf /dɔrf/, das, -(e)s|..er: village
   Er ist auf dem Dorf aufgewachsen.
   He grew up in a village.
 
@@ -404,7 +409,7 @@ Drachen /ˈdraxən/, der: kite, hang-glider
 Draht /draːt/, der, ..e: wire
   Kupferdraht: copper wire
 
-Drama /ˈdraːma/, das
+Drama /ˈdraːma/, das, -s|Dramen
 
 drängen /ˈdrɛŋən/: to push
 

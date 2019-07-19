@@ -32,11 +32,13 @@ Nom, Acc, Gen: same form
 -n for Dat, den Häusern
 
 -e/..e:
+-------
 (a) Most masculines: der Arm/Arme, der Arzt/Ärzte, der Baum/Bäume
 (b) Feminine monosyllables: die Angst/Ängste, die Frucht/Früchte, die Gans/Gänse, die Nacht/Nächte
 (c) Neuter monosyllables: das Floß/Flöße, das Boot/Boote, das Jahr/Jahre, das Pferd/Pferde, das Spiel/Spiele
 
 -en or -n:
+----------
 (a) Most feminines:
 Vast majority of those ending in a consonant
 die Schlacht/Schlachten, die Tat/Taten, die Uhr/Uhren, die Zeit/Zeiten
@@ -45,7 +47,40 @@ die Bäckerei/Bäckereien, die Füchsin/Füchsinnen, die Bemerkung/Bemerkungen
 All Feminines ending in -e
 die Blume/Blumen, die Farbe/Farben, die Minute/Minuten, die Schwalbe/Schwalben
 
-(b)A number of Masculines and a few Neuters
-der Schmerz/Schmerzen, der See/Seen, der Staat/Staaten, der Strahl/Strahlen
+(b) A number of Masculines and a few Neuters
+der Schmerz/Schmerzen, der See/Seen, der Staat/Staaten, der Strahl/Strahlen,
+das Auge/Augen, das Ohr/Ohren, das Bett/Betten
 
--s
+(c) All weak Masculines
+der Hase/Hasen, der Prinz/Prinzen, der Student/Studenten
+
+(d) Nouns in -or (which shift the stress in the plural)
+der Organisator/Organisatoren, der Professor/Professoren
+
+(e) Nouns of foreign origin in which -en replaces the singular ending to form the plural
+das Drama/Dramen, das Epos/Epen, das Album/Alben, das Individuum/Individuen,
+der Rhythmus/Rhythmen, der Organismus/Organismen
+
+-er or ..er:
+------------
+Most Neuters and a few Masculines
+das Dorf/Dörfer, das Ei/Eier, das Kind/Kinder, das Land/Länder, der Geist/Geister,
+der Gott/Götter, der Mann/Männer, der Wald/Wälder
+
+-s:
+---
+(a) Some nouns of foreign origin
+der Bikini/Bikinis, der Store/Stores, der Laptop/Laptops, der Streik/Streiks,
+die City/Citys, die Hazienda/Haziendas, die Sauna/Saunas, das Büro/Büros,
+das Ensemble/Ensembles, das Kino/Kinos
+
+(b) The nautical terms
+das Deck/Decks, das Dock/Docks, das Wrack/Wracks
+
+(c) Colloquial plural
+der Kerl/Kerle od Kerls, das Fräulein/Fräulein od Fräuleins
+
+~ or ..:
+--------
+(a) Masculines, usually with umlaut where possible
+der Engel/Engel
