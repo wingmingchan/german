@@ -384,6 +384,8 @@ beieinander /bai|aiˈnandɐ/: together
   Schön, dass wir endlich mal wieder alle beieinander sind.
   Isn't it nice that we're finally all back together?
 
+beiläufig /ˈbailɔyfɪç/: casual
+
 beimessen /ˈbaimɛsən/: to attach/ascribe sth to sth
   Du solltest diesem Zwischenfall nicht zu große Bedeutung beimessen.
   You shouldn't attach too much importance to that incident.
@@ -748,6 +750,7 @@ bestimmt /bəˈʃtɪmt/: certain, firm, decisive, certainly
   She was polite, but her tone was very firm.
   Er ist bestimmt schon längst dort.
   He's no doubt been there for ages.
+  der bestimmte / unbestimmte Artikel: the definite/indefinite article
 
 Bestimmungsort, der: destination
 
@@ -910,9 +913,14 @@ Bewerbungsmappe, die: application documents
 Bewegungsmelder /bəˈveːɡʊŋsmɛldɐ/, der, -: motion detector/sensor
   einen Bewegungsmelder am Garagentor anbringen: to fix a motion sensor to the garage door
 
-Beweis /bəˈvais/, der, -e: proof, evidence
+Beweis /bəˈvais/, der, -es|-e: proof, evidence
   einen Beweis für etw. erbringen: to produce proof of sth
   aus Mangel an Beweisen freigesprochen werden: to be acquitted due to lack of evidence
+
+beweisen /bəˈvaizən/: to prove, to show
+  jds Schuld beweisen: to prove sb's guilt
+  Er hat Mut bewiesen.
+  He showed courage.
 
 bewerben /bəˈvɛrbən/: to apply
 

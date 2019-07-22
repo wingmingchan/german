@@ -76,6 +76,10 @@ Mangan /maŋˈɡaːn/, das, |uncountable: manganese 锰
 
 Mangel /ˈmaŋəl/, Mängel, der: shortage, lack, defect, fault, flaw
 
+mangels /ˈmaŋəls/: for lack of
+  einen Angeklagten mangels Beweisen freisprechen
+  to acquit a defendant for lack of evidence
+
 Mann /man/, der, Männer
 
 Mannequin /ˈmanəkɛ̃/, das: model
@@ -114,6 +118,8 @@ März /mɛrts/, der, (-es)|-e
 Maschine /maˈʃiːnə/, die: machine, plane
 
 Maschinenbau /maˈʃiːnənbau/, der: mechanical engineering
+
+Maskulinum /ˈmaskuliːnʊm/, das, -s|Maskulina: masculine noun
 
 Masochismus /mazɔˈxɪsmʊs/, der, ~|uncountable: masochism
   Um seinen Masochismus auszuleben, ging er zu einer Domina.

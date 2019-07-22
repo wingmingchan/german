@@ -287,6 +287,8 @@ felsig /ˈfɛlzɪç/: rocky, craggy
 
 Felswand, die: wall of rock
 
+Femininum /ˈfeːminiːnʊm/, das, -s|Feminina: feminine noun
+
 Fenster /ˈfɛnstɐ/, das: window
   Möchten Sie am Fenster sitzen oder am Gang?
   Would you like a window or an aisle seat?
@@ -823,3 +825,6 @@ Futter, das: food
 
 füttern /ˈfʏtɐn/: to feed
   die Pferde (mit Hafer) füttern: to feed the horses (oats)
+  
+Futur /fuˈtuːɐ/, das, -s|uncountable: future
+  einen Satz ins Futur setzen: to put a sentence into the future

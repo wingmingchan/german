@@ -463,6 +463,10 @@ Kommunismus /kɔmuˈnɪsmʊs/, der, ~|uncountable: Communism, Communist state
   ein Verfechter des Kommunismus: an advocate of Communism
   im Kommunismus leben: to live in a Communist state
 
+Komparativ /ˈkɔmparatiːf/, der, -s|-e: comparative
+  Der Komparativ zu „gut‟ lautet „besser‟.
+  The comparative of “good” is “better.”
+
 Kompetenz /kɔmpeˈtɛnʦ/, die: competence
   Seine Kompetenz unter Beweis stellen: to prove your competence
 
@@ -486,6 +490,13 @@ Kompost /kɔmˈpɔst/, der, -e: compost
 Kompromiss /kɔmproˈmɪs/, der, -es|-e: compromise
   einen Kompromiss finden, schließen: to find/make a compromise
 
+Kondition /kɔndiˈʦjoːn/, die, ~|-en
+  einen Kredit zu günstigen Konditionen aufnehmen
+  to take out a loan with good terms
+
+Konditional /kɔndiʦjoˈnaːl/
+  Konditionalsatz
+
 konfrontieren /kɔnfrɔnˈtiːrən/: to confront
   jdn mit der Wahrheit, mit einem Problem konfrontieren
   to confront sb with the truth/with a problem
@@ -493,6 +504,8 @@ konfrontieren /kɔnfrɔnˈtiːrən/: to confront
 Kongo /ˈkɔŋɡo/, der
 
 konjugieren /kɔnjuˈɡiːrən/: to conjugate
+
+Konjunktion /kɔnjʊŋk’ʦjoːn/, die, ~|-en: conjunction
 
 Konjunktur /kɔnjʊŋkˈtuːɐ/, die: economy
 
@@ -543,6 +556,8 @@ konzentrieren /kɔnʦɛnˈtriːrən/: to concentrate
   I can't concentrate today.
 
 Konzern /kɔnˈtsɛrn/, der: group of companies
+
+koordinieren /ko|ɔrdiˈniːrən/: to coordinate
 
 Kopf /kɔpf/, der, Köpfe /ˈkœpfə/: head
   Er ist einen Kopf größer als ich.

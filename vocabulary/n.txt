@@ -197,6 +197,10 @@ nebensächlich /ˈneːbənzɛçlɪç/: unimportant, trivial
   Wir haben uns über nebensächliche Dinge unterhalten.
   We talked about trivial things.
 
+Nebensatz /ˈneːbənzaʦ/, der, -es|..e: subordinate clause
+  Er erwähnte das beiläufig in einem Nebensatz.
+  He mentioned it in passing.
+
 nebst /neːpst/: together with, including
   die gesamte Familie nebst Kindern
   the whole family, including the children
@@ -262,6 +266,8 @@ neun /nɔyn/: nine
 Neuseeland: New Zealand
 
 neuseeländisch
+
+Neutrum /ˈnɔytrʊm/, das, -s|Neutra: a neuter noun
 
 nicht /nɪçt/: not
 
