@@ -108,9 +108,17 @@ Pendler /ˈpɛndlɐ/: commuter
   Um diese Zeit ist der Zug immer voller Pendler.
   At this time the train is always full of commuters.
 
+Perfekt /ˈpɛrfɛkt/, das, -s|-e
+  Das Perfekt wird mit sein und haben gebildet.
+  The perfect is formed with “sein” and “haben.”
+
 perfekt /pɛrˈfɛkt/: perfect
   Der Zeitpunkt ist für mich absolut perfekt.
   That time suits me absolutely perfectly.
+  Noch eine Unterschrift und die Sache ist perfekt.
+  One more signature and the thing is sealed.
+  eine Sprache perfekt beherrschen / sprechen
+  to speak a language perfectly
 
 perfid /pɛrˈfiːt/: perfidious
   Das Perfide daran war, dass er ihr Vertrauen so geschickt ausgenutzt hat.
@@ -139,7 +147,7 @@ Pfeife /ˈpfaifə/, die: pipe
 Pfeil /pfail/, der, Pfeile: arrow
   mit Pfeil und Bogen schießen: to shoot a bow and arrow
 
-Pferd /pfeːɐt/, das: horse
+Pferd /pfeːɐt/, das, -(e)s|-e: horse
   aufs Pferd steigen: to mount
   Pferderennen: races, racing
   Pferdekutsche: horse-drawn carriage
@@ -266,6 +274,11 @@ Postleitzahl (PLZ) /ˈpɔstlaitʦaːl/, die, -n: zip code, postcode
 prächtig /ˈprɛçtɪç/: splendid, magnificent
   ein prächtiger Ballsaal: a magnificent ballroom
   prächtiges Wetter: marvelous weather 
+
+Prädikat /prɛdiˈkaːt/, das, -(e)s|-e: rating, predicate
+  ein Qualitätswein mit Prädikat: a special quality wine
+  Das Prädikat enthält das Verb.
+  The predicate contains the verb.
 
 Praktikum /ˈpraktikʊm/ das, Praktika: practical training
   ein Praktikum absolvieren / machen

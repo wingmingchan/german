@@ -15,7 +15,8 @@ haben /ˈhaːbən/: to have
   hatte, hattest, hatte, ihr hattet, hatten
   Ich hätte gerne das Wiener Schnitzel.
 
-Hafer /ˈhaːfɐ/, der, Hafers: oats
+Hafer /ˈhaːfɐ/, der, -s|uncountable: oats
+  Haferflocken: oatmeal
 
 Haferbrei, der: porridge, oatmeal
 
@@ -533,6 +534,10 @@ Hilfsaktion, die: relief action
 hilfsbereit /ˈhɪlfsbərait/: helpful, obliging
   Sie öffnete mir hilfsbereit die Tür.
   She obligingly opened the door for me.
+
+Hilfsverb /ˈhɪlfsvɛrp/, das, -s|-en: auxiliary verb
+  Im Deutschen wird das Perfekt mit den Hilfsverben haben oder sein gebildet.
+  In German the perfect tense is formed with the auxiliary verbs “haben” and “sein”.
 
 Himmel /ˈhɪməl/, der, -s|uncountable: sky, heaven
   ein strahlend blauer Himmel: a clear blue sky

@@ -207,6 +207,10 @@ Temperatur /tɛmpəraˈtuːɐ/, die: temperature
   Die Temperatur des Wassers beträgt 23 Grad.
   The temperature of the water is 23 degrees. 
 
+Tempus /ˈtɛmpʊs/, das, ~|Tempora /ˈtɛmpɔra/: tense
+  In welchem Tempus steht das Verb?
+  What tense is the verb in?
+
 Tendenz /tɛnˈdɛnʦ/, die, ~|-en: trend, tendency
   Die Tendenz geht klar in diese Richtung.
   The trend is clearly going in this direction.
@@ -307,6 +311,8 @@ Titel /ˈtiːtəl/, der, -: title
 toben /ˈtoːbən/: to rage, to rave, to go wild
   Als er das hörte, tobte er vor Wut.
   He was absolutely furious when he heard about it.
+
+Tochter /ˈtɔxtɐ/, die, ~|.. /ˈtœçtɐ/
 
 Tod /toːt/, der: death
   einen qualvollen Tod erleiden: to suffer an agonizing death

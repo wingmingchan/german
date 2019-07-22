@@ -188,7 +188,7 @@ U /uː/ U wie Ulrich, Ü wie Übermut
 
 Übung /ˈyːbʊŋ/, die, Übungen: practice, exercise
 
-Ufer /ˈuːfɐ/, das: bank, shore
+Ufer /ˈuːfɐ/, das, -s|~: bank, shore
   Der Fluss ist über die Ufer getreten.
   The river burst its banks.
 
@@ -291,6 +291,10 @@ Umsetzung /ˈʊmzɛʦʊŋ/, die, -en: implementation
 
 Umstand /ˈʊmʃtant/, der, ..e: circumstance
   unter Umständen: perhaps
+
+Umstandswort /ˈʊmʃtanʦvɔrt/, das, -(e)s|..er: adverb
+  „Immer‟ und „nie‟ sind Umstandswörter der Zeit.
+  “Always” and “never” are adverbs of time.
 
 umsteigen: to change, to transfer
 

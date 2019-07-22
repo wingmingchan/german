@@ -107,6 +107,10 @@ Kastanie /kasˈtaːnjə/, die: chestnut
 Kasten /ˈkastən/, der, ..: box, case, crate
   ein Kasten Bier: a crate of beer
 
+Kasus /ˈkaːzʊs/, der, ~|~: case
+  In welchem Kasus steht das Subjekt des Satzes?
+  What case is the subject of the sentence in?
+
 Kater /ˈkaːtɐ/, der, -s|~: tomcat, hangover
   Kater haben ein größeres Revier als weibliche Katzen.
   Tomcats have a larger territory than female cats.
@@ -337,6 +341,10 @@ klirrend /ˈklɪrənt/: bitter
 
 Klo /kloː/, das, -s: toilet
   eine Rolle Klopapier: a roll of toilet paper
+
+Kloster /ˈkloːstɐ/, das, -s|..: monastery, convent
+  Klosterkirche: monastery church
+  ins Kloster gehen: to become a monk/nun
 
 △Klub /klʊp/, der, -s: club
   einem Fußballklub beitreten: to join a soccer club

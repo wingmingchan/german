@@ -6,7 +6,9 @@ Vase /ˈvaːzə/, die, Vasen: vase
   Sie stellte die Rosen in eine Vase.
   She put the roses in a vase. 
 
-Vater /ˈfaːtɐ/, der, Väter /ˈfɛːtɐ/: father
+Vater /ˈfaːtɐ/, der, -s|..: father
+  Er gilt als einer der Väter des Internets.
+  He's considered to be the father of the internet.
 
 Vati /ˈfaːti/, der: dad, pop
 
@@ -55,7 +57,8 @@ verarbeiten /fɛɐˈ|arbaitən/: to use, to process
   Wir verarbeiten nur frische Zutaten.
   We only use fresh ingredients.
 
-Verb /vɛrp/, das
+Verb /vɛrp/, das, -s|-en: verb
+  regelmäßige / unregelmäßige Verben: regular/irregular verbs
 
 verbergen /fɛɐˈbɛrɡən/: to hide
   Ein großer Hut verbarg sein Gesicht.
@@ -792,7 +795,7 @@ Visum /ˈviːzʊm/, Visa /ˈviːza/, das: visa
   Für die Einreise nach Nepal benötigt man ein gültiges Visum.
   You need a valid visa to enter Nepal.
 
-Vogel /ˈfoːɡəl/ Vögel /ˈføːɡəl/, der: bird
+Vogel /ˈfoːɡəl/, der, -s|..: bird
   im Winter die Vögel füttern: to feed the birds in winter
 
 Vogelperspektive /ˈfoːɡəlpɛrspɛktiːvə/, die: bird's-eye view

@@ -83,4 +83,16 @@ der Kerl/Kerle od Kerls, das Fräulein/Fräulein od Fräuleins
 ~ or ..:
 --------
 (a) Masculines, usually with umlaut where possible
-der Engel/Engel
+der Engel/Engel, der Vogel/Vögel, der Garten/Gärten, der Vater/Väter
+
+(b) Neuters
+das Kloster/Klöster, das Segel/Segel, das Zeichen/Zeichen, das Ufer/Ufer,
+das Zimmer/Zimmer
+
+(c) Two Feminines: die Mutter/Mütter, die Tochter/Töchter
+
+Other endings:
+--------------
+das Adverb/Adverien, das Prinzip/Prinzipien, der Atlas/Atlanten, das Paradoxon/Paradoxa,
+Grammatical terms: das Nomen/Nomina, das Tempus/Tempora, der Kasus/Kasus, der Modus/Modi
+

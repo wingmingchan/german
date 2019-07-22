@@ -430,6 +430,12 @@ Modell /moˈdɛl/, das, -e: model
 
 modern /moˈdɛrn/
 
+Modus /ˈmoːdʊs/, der, ~|Modi /moːdi/: method, way, mood
+  Die Firma muss einen Modus finden, wie man mit behinderten Mitarbeitern besser umgehen kann.
+  The company needs to find a better way of treating disabled employees.
+  Indikativ, Konjunktiv und Imperativ sind die drei Modi im Deutschen.
+  The indicative, subjunctive and imperative are the three moods in German.
+
 mögen /ˈmøːɡən/: to want, to like
   mag, magst, mag, ihr mögt, ich habe gemocht
 
@@ -568,6 +574,6 @@ Mutprobe /ˈmuːtproːbə/, die, -n: test of courage
   Er hat die Mutprobe gemacht / bestanden.
   He did/passed the test of courage.
 
-Mutter /ˈmʊtɐ/, die, Mütter /ˈmʏtɐ/: mother
+Mutter /ˈmʊtɐ/, die, ~|.. /ˈmʏtɐ/: mother
 
 Mutti /ˈmʊti/, die: mommy

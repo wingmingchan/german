@@ -86,11 +86,18 @@ satt /zat/: full, ric, lush, substantial
   Von so einem bisschen wird man doch nicht satt!
   Such a small amount isn't enough to fill you up! 
 
-Satz /zaʦ/, der: sentence, leap
+Satz /zaʦ/, der, -s|..e: sentence, clause, rate, set, sediment, leap, theorem, movement, (type)setting
   Ich wurde mitten im Satz unterbrochen.
+  Auf Bücher entfällt der ermäßigte Mehrwertsteuersatz.
+  The reduced rate of sales tax applies to books.
   I was interrupted in the middle of a sentence.
-  einen Satz über den Graben machen
-  to leap over the ditch
+  ein Satz Reifen: a set of tires
+  Kaffeesatz: coffee grounds
+  einen Satz über den Graben machen: to leap over the ditch
+  der Satz des Pythagoras: Pythagoras' theorem
+  das Thema des ersten Satzes der Sonate: the theme of the first movement of the sonata
+  Das Buch geht jetzt in den Satz.
+  The book is now going for typesetting.
 
 Sau /zau/, die: sow
 
@@ -756,7 +763,7 @@ Seele /ˈzeːlə/, die: soul
   jdn/etw. aus tiefster Seele verabscheuen
   to loathe sb/sth with all your heart
 
-Segel /ˈzeːɡəl/, das, -: sail
+Segel /ˈzeːɡəl/, das, -s|~: sail
   die Segel setzen: to set the sails
 
 segnen /ˈzeːɡnən/: to bless

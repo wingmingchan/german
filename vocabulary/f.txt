@@ -437,6 +437,11 @@ fließen /ˈfliːsən/: to flow, to be channeled into
   Die Bestechungsgelder flossen auf ein Konto im Ausland.
   The kickbacks were paid into an offshore account.
 
+Flocke /ˈflɔkə/, die, -e|-en: flake
+  Dicke Flocken schwebten langsam zur Erde.
+  Thick flakes slowly floated to the ground.
+  Haferflockensuppe: oatmeal soup
+
 flog, flogen  => fliegen
 
 Floh /floː/, der, ..e: flea
@@ -815,3 +820,6 @@ Fuß /fuːs/, der, ..e: foot
 
 Futter, das: food
   dem Hund sein Futter geben: to give the dog his food 
+
+füttern /ˈfʏtɐn/: to feed
+  die Pferde (mit Hafer) füttern: to feed the horses (oats)

@@ -388,6 +388,7 @@ Achtung /ˈaxtʊŋ/, die, ~|uncountable: respect, attention
 adelig: noble
 
 Adjektiv /ˈatjɛktiːf/, das, -s|-e
+  das attributive Adjektiv / ein attributives Adjektiv
 
 Adler /ˈaːdlɐ/, der, -s|~: eagle
 
@@ -397,6 +398,9 @@ Adressat /adrɛˈsaːt/, -in, -en
 
 Adresse /aˈdrɛsə/, die, ~|-n: address
   => Anschrift
+
+Adverb /atˈvɛrp/, das, -s|-ien: adverb
+  => Umstandswort
 
 Affe /ˈafə/, der, -n|-n: monkey, ape
   die Affen im Zoo: the monkeys in the zoo
@@ -445,6 +449,10 @@ Akkord /aˈkɔrt/, der, -(e)s|-e: chord, piecework 零工
 
 Akku /ˈaku/, der, -s|-s: battery
   den Akku vom Handy aufladen: to charge your cell
+
+Akkusativ /ˈakuzatiːf/, -s|-e: accusative
+  Das direkte Objekt steht im Akkusativ.
+  The direct object is in the accusative.
 
 Aktentasche /ˈaktəntaʃə/, die, ~|-n: briefcase
 
@@ -1136,6 +1144,14 @@ artgerecht /ˈartɡərɛçt/: species-appropriate
 
 Arthritis /arˈtriːtɪs/, die
 
+Artikel /arˈtɪkəl/, der, -s|~: article
+  einen Artikel über etw. [ accusative ] verfassen / lesen
+  to write/read an article about sth
+  Artikel 5 des Grundgesetzes
+  section 5 of the Basic Law for the Federal Republic of Germany
+  Die unbestimmten Artikel im Deutschen sind „ein‟ und „eine‟.
+  The indefinite articles in German are “ein” and “eine”.
+
 Arzt /arʦt/, -(e)s|..e, Ärztin: doctor
   ein Attest des behandelndes Arztes vorlegen
   to hand in a certificate from the attending physician
@@ -1176,6 +1192,8 @@ Attacke /aˈtakə/, die: attack
 Attentat /ˈatəntaːt/, das, -(e)s|-e: assassination attempt, attempt on sb's life, attempt
   ein Attentat auf einen Politiker verüben
   to carry out an assassination attempt on a politician
+
+attributiv /atribuˈtiːf/: attributive
 
 auf /auf/: on, onto, at, to
   auf dem Sofa sitzen: to sit on the sofa
