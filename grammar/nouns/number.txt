@@ -122,3 +122,40 @@ Feminines
 drei Tassen Tee, 100 Drachmen
 drei Fässer Wein: individual barrels
 drei Fass Wein: quantity ordered
+
+Last noun shared by attributes and in compounds
+das Alte und Neue Testament
+im 17., 18. und 19. Jahrhundert
+in der Morgen- und Abendausgabe, in the morning and evening editions
+
+Distributive sense
+Wir nahmen den Hut ab. We took off our hats.
+Alle hoben die rechte Hande. All raised their right hands.
+Sie redete die Leute nie mit dem Namen an. She never addressed people by their names.
+Manche Leute haben ein sehr leichtes Leben. Some people have very easy lives.
+
+Where a noun denoting a quantity is followed by a plural noun, it may take a singular or
+plural verb according to whether the emphasis is more on the noun of quantity or on the
+following plural noun respectively
+Ein Dutzend Eier kostet 5 Mark.
+Eine riesige Menge Menschen war(en) versammelt.
+
+Die USA, use sie for pronoun
+Die USA haben den Vertrag ratifiziert.
+
+The verb agrees in number with the subject
+The subject is Schmetterlinge:
+Seine große Leidenschaft sind Schmetterlinge. His great passion is butterflies.
+
+Phrases like in respects/ways
+in mancher Beziehung / Hinsicht: in some respects
+auf verschiedenen Weise: in various ways
+auf tausenderlei Art: in a thousand ways
+
+Proper Names
+============
+Forenames and surnames takes -s in the genitive singular
+Juttas Fahrrad: Jutta's bicycle
+Richard Wagners Opern, die Opern Richard Wagners
+die Ermordung Kennedys: Kennedy's assassination
+

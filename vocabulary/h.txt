@@ -432,7 +432,7 @@ Herd /heːɐt/, der, -e: stove, range, epicenter, focus
   He was standing at the stove stirring the soup.
   Brandherd: the source of the fire
 
-Herde /ˈheːɐdə/, die, -n: herd, flock
+Herde /ˈheːɐdə/, die, ~|-n: herd, flock
   Der Schäfer hütet seine Herde.
   The shepherd tends his flock.
 
@@ -793,6 +793,10 @@ hüpfen /ˈhʏpfən/: to hop
   She coughed all night long.
 
 Hut, der, Hüte /huːt/: hat
+
+hüten /ˈhyːtən/: to look after, to mind, to tend, to stay, to keep
+  Da wäre es ja einfacher, Flöhe zu hüten!
+  It would be easier to herd cats!
 
 Hütte /ˈhʏtə/, die: hut, shack
 
