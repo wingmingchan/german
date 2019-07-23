@@ -314,8 +314,21 @@ toben /ˈtoːbən/: to rage, to rave, to go wild
 
 Tochter /ˈtɔxtɐ/, die, ~|.. /ˈtœçtɐ/
 
-Tod /toːt/, der: death
+Tod /toːt/, der, -(e)s|-e: death
   einen qualvollen Tod erleiden: to suffer an agonizing death
+  tausend Tode sterben: to die a thousand deaths
+  Wo warst du nur die ganze Nacht? Ich bin tausend Tode gestorben vor Sorge!
+  Where were you all night? I was worried sick!
+
+Todesangst /ˈtoːdəs|aŋst/, die, ~|..e: fear of dying/death
+  unter Todesangst leiden: to be afraid of dying/death
+
+Todesanzeige /ˈtoːdəs|anʦaiɡə/, die, ~|-n: obituary
+  die Todesanzeigen lesen: to read the obituaries
+
+Todesengel /ˈtoːdəs|ɛŋəl/, der, -s|~: angel of death
+  Azrael, der Todesengel in der islamischen Literatur
+  Azrael, the angel of death in Islamic literature
 
 Todesstrafe /ˈtoːdəsʃtraːfə/, die, |uncountable: death penalty
   In Deutschland wurde die Todesstrafe 1949 abgeschafft.
@@ -478,6 +491,9 @@ trennen: to separate
 Trennung /ˈtrɛnʊŋ/, die, -en: separation, division, distinction
   eine präzise Trennung von Fakten und Fiktion
   a precise distinction between fact and fiction
+
+Treppe /ˈtrɛpə/, die, ~|-n: staircase, stairs, steps
+  die Treppe hinunterfallen: to fall down the stairs
 
 treten /ˈtreːtən/: to kick, to step, to trample, to tread, to enter
   jdm gegen das Schienbein/auf den Fuß treten

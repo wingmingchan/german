@@ -498,7 +498,7 @@ Gemisch /ɡəˈmɪʃ/, das, -e: mixture
   Luft ist ein Gemisch aus verschiedenen Gasen.
   Air is a mixture of various gases.
 
-Gemüse /ɡəˈmyːzə/, das: vegetable
+Gemüse /ɡəˈmyːzə/, das, -s|~: vegetable
 
 gemütlich /ɡəˈmyːtlɪç/: comfortable, cozy, gemütlich
   Ich finde es sehr gemütlich bei euch.
@@ -528,6 +528,10 @@ Genehmigung /ɡəˈneːmɪɡʊŋ/, die, -en: permission, approval, authorization
   eine schriftliche Genehmigung vorlegen: to submit written authorization
 
 Genie /ʒeˈniː/, das: genius
+
+Genitiv /ˈɡeːnitiːf/, der, -s|-e: genitive
+  Auf die Präposition „mangels‟ folgt der Genitiv.
+  The preposition “mangels” is followed by the genitive.
 
 genital /geniˈtaːl/
 
@@ -616,6 +620,8 @@ Geröll /ɡəˈrœl/, das: debris, pebbles, gravel
 Geruch /ɡəˈrʊx/, der, -(e)s|..e: smell
   Ihr Parfüm hatte einen süßlichen Geruch.
   Her perfume has a cloying smell.
+
+Gerundium /ɡeˈrʊndiʊm/, das, -s|-s od Gerundien: gerund
 
 gerundet: rounded
 
@@ -789,6 +795,10 @@ gewandt /ɡəˈvant/: skillful
 
 Gewehr /ɡəˈveːɐ/, das: rifle, shotgun
   Jagdgewehr: hunting rifle
+
+Geweih /ɡəˈvai/, das, -(e)s|-e: antlers
+  Das Geweih wird jedes Jahr abgeworfen und wächst wieder nach.
+  The antlers are shed every year and grow in again.
 
 geweiht: sacred, holy
 

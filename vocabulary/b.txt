@@ -118,9 +118,18 @@ basteln /ˈbastəln/: to do handicrafts, to make with your hands
 
 bat, baten => bitten
 
-Bau, der: building, construction
+Bau /bau/, der, -(e)s|-en: building, construction
   mit dem Bau des Kindergartens beginnen
   to start with the construction of the kindergarten
+  auf dem / am Bau: on a construction site
+  Er arbeitet auf dem Bau.
+  He works on a construction site.
+  historische / moderne Bauten
+  historical/modern buildings
+
+Bau /bau/, der, -(e)s, -e: den, burrow
+  Der Hund folgte dem Fuchs in seinen Bau.
+  The dog followed the fox into its den.
 
 baufällig /ˈbaufɛlɪç/: dilapidated, ramshackle
   Der Turm war baufällig und musste abgerissen werden.
@@ -916,6 +925,7 @@ Bewegungsmelder /bəˈveːɡʊŋsmɛldɐ/, der, -: motion detector/sensor
 Beweis /bəˈvais/, der, -es|-e: proof, evidence
   einen Beweis für etw. erbringen: to produce proof of sth
   aus Mangel an Beweisen freigesprochen werden: to be acquitted due to lack of evidence
+  mangels Beweisen / Beweises: for lack of evidence/proof
 
 beweisen /bəˈvaizən/: to prove, to show
   jds Schuld beweisen: to prove sb's guilt
