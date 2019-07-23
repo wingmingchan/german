@@ -849,7 +849,9 @@ er-: some result is achieved, the beginning of a process
 
 erachten /ɛɐˈ|axtən/
 
-Erbe /ˈɛrbə/, das: inheritance, heritage
+Erbe /ˈɛrbə/, das, -s|uncountable: inheritance, heritage
+  Er hat sein ganzes Erbe verspielt.
+  He gambled away his whole inheritance.
 
 Erdbeben /ˈeːɐtbeːbən/, das, -: earthquake
   ein Erdbeben der Stärke 6: a 6.0 magnitude earthquake

@@ -158,4 +158,39 @@ Forenames and surnames takes -s in the genitive singular
 Juttas Fahrrad: Jutta's bicycle
 Richard Wagners Opern, die Opern Richard Wagners
 die Ermordung Kennedys: Kennedy's assassination
+Agnes' Hut: Agnes's hat
+Strauß' Walzer
+Marx' Ideen
+alternatively: die Walzer von Strauß
+der Tod des Sokrates: the death of Socrates
+Jesus Christus, Geschichte der Religion Jesu Christi
+
+Plural: usually -s, or -ens for sibilants
+die Schulzens: the Schulzes
+
+Geographical names: -s for genitive
+die Bevölkerung Dänemarks: the population of Denmark
+die Geschichte Roms: the history of Rome
+außerhalb Moskaus: outside Moscow
+sibilants: use von
+das Erbe von Byzanz: the heritage of Byzantium
+die Theater von Paris
+
+Continents, countries, regions: normally no articles and neuter
+die Antarktis, der Sudan, der Balkan, die Schweiz, die Türkei, die Provence, die Normandie, die Bretagne, die Toskana, die USA, (der) Irak, (der) Iran, (der) Jamen
+das südliche Spanien, das Frankreich Ludwigs XIV (=des Vierzehnten), das Warschau von heute
+
+Mountains: have the definite article, usually masculine
+der Brocken, der Montblanc, der Fudschijama, der Mount Everest, der Ural but die Eifel
+Plural: die Alpen, die Vogesen, die Pyrenäen, die Kordilleren
+
+Rivers:
+In Germany, mostly feminine: die Mosel, die Donau, but der Rhein, der Main, der Neckar, der Inn
+Foreign rivers in -a and -e: die Wolga, die Themse, die Seine
+Most foreign rivers: der Amazonas, der Jangtse, der Limpopo, der Mississippi, der Tweed
+
+Cars: generally masculine
+der Mercedes, der Renault, der Rolls-Royce, der Volvo
+Ships and aircrafts: usually feminine
+die „Graf Spee‟, die „Titanic‟, die Boeing, die DC-8, die Messerschmitt, but der Airbus, der Jumbo
 

@@ -242,7 +242,7 @@ teuflisch /ˈtɔyflɪʃ/: fiendish, diabolical
   Dieses Rätsel ist teuflisch schwer.
   This puzzle is fiendishly difficult.
 
-Theater /teˈaːtɐ/, das, -: theater
+Theater /teˈaːtɐ/, das, -s|~: theater
   Er wartete vor dem Theater auf sie.
   He waited for her outside the theater.
   Wollen wir nach dem Theater noch was trinken gehen?
@@ -588,6 +588,8 @@ tun /tuːn/: to do
 
 Tür /tyːɐ/, Türen, die: door
   Haustür: front door
+
+Türkei /tʏrˈkai/, die, ~|uncountable
 
 tuscheln /ˈtʊʃəln/: to whisper
   Sie hörte die Leute hinter ihrem Rücken über sie tuscheln.
