@@ -109,3 +109,16 @@ Points
 Some German nouns in the singular correspond to an English plural, and vice versa:
 (a) German singular: der Hafer (oats), das Gemüse (vegetables), das Geweih (antlers),
 die Treppe (stairs), die Kaserne (barracks)
+
+(b) German plural: das Haar/Haare, die Möbel, die Lebensmittel, die Flitterwochen
+(honeymoon), die Zinsen (interest, money paid), die Fortschritte (progress), die
+Kenntnisse (knowledge)
+
+Masculines and Neuters of weight or measurement, Mark, singular after numerals
+zwei Glas Bier, drei Pfund Tee, vier Dutzend Eier, zehn Grad (Celsius), vier Paar Schuhe, 
+fünf Stück Apfelsinen, 50 000 Mann (as a single unit), eine Armee von 50 000 Mann,
+100 Schritt, 20 Pfennig, 30 Mark, 50 englische Pfund, 100 Dollar
+Feminines
+drei Tassen Tee, 100 Drachmen
+drei Fässer Wein: individual barrels
+drei Fass Wein: quantity ordered

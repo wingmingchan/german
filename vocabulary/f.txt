@@ -154,7 +154,7 @@ Fasching /ˈfaʃɪŋ/, der, -s|uncountable: carnival
   Er will dieses Jahr im Fasching als Cowboy gehen.
   He wants to go as a cowboy in this year's carnival.
 
-Fass /fas/, das, ..er: barrel
+Fass /fas/, das, -es|..er: barrel
   Bierfass
   drei Fässer / Fass Wein: three barrels of wine
 
@@ -440,6 +440,10 @@ fließen /ˈfliːsən/: to flow, to be channeled into
   Electricity can only flow if there's a current.
   Die Bestechungsgelder flossen auf ein Konto im Ausland.
   The kickbacks were paid into an offshore account.
+
+Flitterwochen /ˈflɪtɐvɔxən/, pl: honeymoon
+  die Flitterwochen am Gardasee verbringen
+  to spend your honeymoon at Lake Garda
 
 Flocke /ˈflɔkə/, die, -e|-en: flake
   Dicke Flocken schwebten langsam zur Erde.
