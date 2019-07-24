@@ -1,11 +1,40 @@
 ﻿Pronouns
 ========
+Nom.     Acc.     Dat.                       Gen.
+---------------------------------------------------------------------
+ich      mich     mir          mein          meiner         meins
+du       dich     dir          dein          deiner         deins
+er       ihn      ihm          sein          seiner
+sie      sie      ihr          ihr           ihrer
+es       es       ihm          sein          seiner
+wir      uns      uns          unser         unser
+ihr      euch     euch         euer          ihrer
+sie/Sie  sie/Sie  ihnen/Ihnen  ihnen/Ihnen   ihnen/Ihnen
 
-ich      mich     mir          mein         meins
-du       dich     dir          dein         deins
-er       ihn      ihm          sein
-sie      sie      ihr          ihr
-es       es       ihm          sein
-wir      uns      uns          unser
-ihr      euch     euch         euer
-sie/Sie  sie/Sie  ihnen/Ihnen  ihnen/Ihnen
+Agreement in gender:
+der Garten, er
+das Haus, es
+die Straße, sie
+But:
+Was hat das Mädchen?-ist sie immer so?
+Das Mädchen von nebenan hat ihren Pass verloren.
+Relative pronouns always agree:
+Das Fräulein, das uns bediente, ...: the young lady who served us ...
+
+Persons with prepositions:
+mit ihm, neben ihnen
+Things with prepositions:
+da / dar + preposition, or preposition + pronoun
+damit, darauf
+Mehrere Jungen stehen um einen Fußball-und wissen nicht, was sie mit ihm (=damit) anfangen sollen.
+
+Noun clauses with da- (dar-):
+(i) dass-clause:
+Ich machte ihn darauf aufmerksam, dass es regnete.
+Ihre Enttäuschung darüber, dass sie übergangen wurde.
+(ii) ob, was, wie, etc.
+Wir haben noch nicht darüber entschieden, ob ...
+Wir sind uns darin einig, wie ...
+(iii) zu + infinitive:
+Der Kaiser träumte davon, Oberitalien zu erobern.
+Sie brachte ihn dazu, seinen Job aufzugeben.

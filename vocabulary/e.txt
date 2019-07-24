@@ -670,6 +670,12 @@ endlich /ˈɛntlɪç/: finally
   Endlich geht es ihr wieder besser.
   She's finally feeling better. 
 
+Endstation /ˈɛntʃtaʦjoːn/, die, -en: terminal, last stop
+  Ich fahre bis zur Endstation.
+  I'm going to the last stop.
+  Für viele Kinder bedeutet die Förderschule Endstation Behindertenwerkstatt.
+  For many children who attend special needs schools, the end of the line is shelter workshops.
+
 eng /ɛŋ/: narrow, tight
   Die Hose ist mir zu eng.
   These pants are too tight for me.
@@ -805,12 +811,6 @@ entsprechend /ɛntˈʃprɛçənt/: appropriate, relevant
   => passend
   ein den Leistungen entsprechendes Gehalt: a performance-related salary
 
-Endstation /ˈɛntʃtaʦjoːn/, die, -en: terminal, last stop
-  Ich fahre bis zur Endstation.
-  I'm going to the last stop.
-  Für viele Kinder bedeutet die Förderschule Endstation Behindertenwerkstatt.
-  For many children who attend special needs schools, the end of the line is shelter workshops.
-
 entstehen /ɛntˈʃteːən/: to originate, to arise, to come into being, to be created
   Wie entstehen Blitz und Donner?
   How does thunder and lightning form?
@@ -822,6 +822,10 @@ enttäuschen /ɛntˈtɔyʃən/: to disappoint
    She has been disappointed many times in her life. 
 
 enttäuscht: disappointed
+
+Enttäuschung /ɛntˈtɔyʃʊŋ/, die, ~|-en: disappointment
+  Das war eine herbe Enttäuschung für uns alle.
+  That was a bitter disappointment for all of us.
 
 entweder /ˈɛntveːdɐ/: either
   Entweder es funktioniert oder nicht.
