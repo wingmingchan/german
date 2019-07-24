@@ -598,7 +598,7 @@ Gericht /ɡəˈrɪçt/, das, -e: court, bench
   Ich muss heute aufs Gericht.
   I have to go to court today.
   
-Gericht, das, -e: dish, meal
+Gericht, das, -(e)s|-e: dish, meal
   Warme Gerichte servieren wir ab 18 Uhr.
   We serve hot meals from 6 p.m.
 
@@ -641,6 +641,8 @@ Geschäftsmann: businessman
 
 geschehen /ɡəˈʃeːən/: to happen, to occur
   geschehe, geschiehst, geschieht, ihr gescheht, bin geschehen
+  Ein Wunder ist geschehen!
+  A miracle has happened!
 
 Geschichte /ɡəˈʃɪçtə/, die, ~|-n: story, history
 
@@ -1011,7 +1013,12 @@ greifen /ˈɡraifən/: to seize, to grab, to reach, to stop
 
 grell /ɡrɛl/: dazzling
 
-Grenze /ˈɡrɛnʦə/, Grenzen, die: border, frontier
+Grenze /ˈɡrɛnʦə/, die, ~|-n: border, frontier, mark, threshold
+  an der Grenze zwischen Deutschland und Polen
+  the border between Germany and Poland
+  an der Grenze zur Wildnis: at the edge of the wilderness
+  Die Einwohnerzahl überschritt die Milliardengrenze.
+  The number of inhabitants exceeded the one billion mark.
 
 griechisch: greek
 
@@ -1098,3 +1105,7 @@ gut /ɡuːt/: good
   For the time of the year the weather was quite good.
 
 Güter, pl: goods
+
+gutmütig /ˈɡuːtmyːtɪç/: good-natured
+  Du bist manchmal wirklich zu gutmütig.
+  Sometimes you're just too good-natured.

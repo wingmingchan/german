@@ -132,6 +132,12 @@ U /uː/ U wie Ulrich, Ü wie Übermut
   Das Auto überschlug sich mehrfach.
   The car rolled over several times.
 
+überschreiten /yːbɐˈʃraitən/: to cross, to exceed
+  Die Truppen überschritten bei Mainz den Rhein.
+  The troops crossed the Rhine at Mainz.
+  Die Belastung überschreitet jetzt schon die Grenze des Erträglichen.
+  The strain is already too great to bear.
+
 Überschrift /ˈyːbɐʃrɪft/, die, -en: heading, title
   eine Tagung unter der Überschrift „Klimaschutz‟
   a meeting with the title "Climate Protection"
@@ -461,6 +467,19 @@ unterbringen /ˈʊntɐbrɪŋən/: to put up, to find room for, to fit in
 unterdrücken /ʊntɐˈdrʏkən/: to oppress, to repress, suppress
   Sie konnte das Gähnen nicht unterdrücken.
   She couldn't stop herself from yawning.
+
+Untergang /ˈʊntɐɡaŋ/, der, -(e)s|..e: setting
+  den farbenprächtigen Sonnenuntergang bewundern: to admire the gloriously colorful sunset
+  der Untergang der Titanik: the sinking of the Titanic
+
+untergehen /ˈʊntɐɡeːən/: to set, to go down, to sink, to fall, to decline, to be lost
+  Nachdem die Sonne untergegangen war, wurde es schnell kühl.
+  It quickly became cool once the sun had set.
+  Das Schiff ist vor der Küste untergegangen.
+  The ship sank off the coast.
+  das untergegangene Sowjetreich: the fallen Soviet empire
+  Seine Worte gingen im allgemeinen Gelächter unter.
+  His words were drowned out by the general laughter.
 
 unterhalten /ʊntɐˈhaltən/: to amuse, to entertain, to keep, to maintain, to support, to talk to
   die Kinder mit Spielen unterhalten: to keep the kids entertained with games

@@ -1103,6 +1103,9 @@ Appetit /apeˈtiːt/, der
 äquivalent /ɛkvivaˈlɛnt/: equivalent
   äquivalente Begriffe / Leistungen: equivalent concepts/services
 
+Ära /ˈɛːra/, die, ~|Ären: era
+  die Ära Adenauer: the Adenauer era
+
 arbeiten /ˈarbaitən/: to work
   Er arbeitet in einer Bank.
   He works at a bank. 
@@ -1268,7 +1271,13 @@ aufführen /ˈauffyːrən/: to perform, to list, to act, to behave
   Stop playing up!
 
 Aufgaben /ˈaufɡaːbə/, die, -n: task, duty, goal, purpose, function
-  
+
+Aufgang /ˈaufɡaŋ/, der, -(e)s|..e: rise, rising
+  => aufgehen
+  <=> Untergang
+  kurz vor Aufgang der Sonne: shortly before sunrise
+  Treppenaufgang: stairway
+
 aufgeben /ˈaufɡeːbən/: to give up, to stop, to give, to leave, to mail
   das Rauchen aufgeben: to quit smoking
   Sie musste kurz vor dem Ziel aufgeben.
@@ -1283,6 +1292,7 @@ aufgeben /ˈaufɡeːbən/: to give up, to stop, to give, to leave, to mail
   Remember to mail your letters in good time for Christmas.
 
 aufgehen: to rise, to open, to work, sb realizes sth
+  <=> untergehen
   Morgen geht die Sonne in Berlin um 4:58 Uhr auf.
   Tomorrow the sun rises in Berlin at 4.58 am.
   Plötzlich ging die Tür auf und Robert kam herein.

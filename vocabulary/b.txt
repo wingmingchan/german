@@ -1241,7 +1241,7 @@ Boss /bɔs/, der, -e: boss
 
 bot..an => anbieten
 
-Bote /ˈboːtə/, Botin, -n: messenger
+Bote /ˈboːtə/, -n|-n, Botin: messenger
   Postbote: mailman
   Ein Bote überbrachte ihnen die schlimme Nachricht.
   A messenger delivered the bad news.
@@ -1332,7 +1332,8 @@ Brief /briːf/, der, Briefe: letter
 Briefmarke /ˈbriːfmarkə/, die, -n: stamp
   Briefmarken sammeln: to collect stamps 
 
-Briefträger /ˈbriːftrɛːɡɐ/: mail carrier
+Briefträger /ˈbriːftrɛːɡɐ/, -s|~, -in: mail carrier
+  => Postbote
 
 Briefumschlag /ˈbriːf|ʊmʃlaːk/, der, ..e: envelope
 

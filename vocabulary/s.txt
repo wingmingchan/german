@@ -949,6 +949,10 @@ Sinn /zɪn/, der: meaning, mind
   I couldn't get his words out of my mind.
   etw. im Sinn haben: to have sth in mind
 
+Sitte /ˈzɪtə/, die, ~|-n: custom, tradition
+  Bei uns ist es Sitte, dass man dem Gastgeber ein Geschenk mitbringt.
+  It's our custom to bring the host a gift.
+
 sitzen /ˈzɪʦən/: to sit
 
 Sitzung /ˈzɪʦʊŋ/, die, -en: meeting, session
@@ -1036,7 +1040,11 @@ Sonnabend /ˈzɔnaːbənt/, der, -s|-e: Saturday
 
 Sonne /ˈzɔnə/, die: sun, sunlight
 
+Sonnenaufgang, der: sunrise
+
 Sonnenstrahl, der: sun beam
+
+Sonnenuntergang, der: sunset
 
 Sonntag /ˈzɔntaːk/, der, -s|-e
 

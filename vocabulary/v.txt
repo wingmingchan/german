@@ -279,6 +279,10 @@ Verhandlung /fɛɐˈhandlʊŋ/, die, -en: negotiation, hearing
   Die Verhandlung wurde auf nächste Woche vertagt.
   The hearing was postponed until next week.
 
+verheimlichen /fɛɐˈhaimlɪçən/: to keep secret, to hide
+  Er konnte ihr seine Affäre nicht mehr länger verheimlichen.
+  He couldn't keep his affair secret from her any longer.
+
 verheiraten: to marry, to get married
 
 verheiratet /fɛɐˈhairatət/: married
@@ -445,7 +449,13 @@ Verpflichtung /fɛɐˈpflɪçtʊŋ/, die, -en: commitment, obligation
   Sie kam allen Verpflichtungen nach.
   She fulfilled all her obligations.
 
-verraten /fɛɐˈraːtən/: to tell, to reveal
+verraten /fɛɐˈraːtən/: to tell, to reveal, to betray
+  Soll ich dir verraten, wo er sich versteckt hat?
+  Shall I tell you where he's hiding?
+  Er hat seine Komplizen an die Polizei verraten.
+  He gave away his accomplices to the police.
+  Sein Gesichtsausdruck verriet Ärger.
+  His expression betrayed his anger.
 
 Verräter /fɛɐˈrɛːtɐ/: traitor
 
@@ -682,6 +692,10 @@ vertreten /fɛɐˈtreːtən/: to stand in/deputize for, to represent, to support
   Durch wen wird sie anwaltlich vertreten?
   Who is her legal representative?
   sich die Beine vertreten: to stretch your legs
+
+Vertreter /fɛɐˈtreːtɐ/, -s|~, -in: deputy
+  Während meines Urlaubs wenden Sie sich bitte an meine Vertreterin.
+  Please contact my deputy whilst I’m away on vacation.
 
 vertuschen /fɛɐˈtʊʃən/: to cover up
   Er versuchte seinen Fehler zu vertuschen.
