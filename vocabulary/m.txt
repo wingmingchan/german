@@ -219,6 +219,11 @@ meinen /ˈmainən/: to think, to mean, to intend, to mean, to say
   Sie meint es nicht böse.
   She means no harm.
 
+meinige /ˈmainiɡə/, also Meinige
+  der / die / das Meinige: mine
+  Ich bin gern bereit, das Meinige zu tun.
+  I'm very happy to do my share.
+
 meinte => meinen
 
 Meinung /ˈmainʊŋ/, die, -en: opinion
@@ -383,6 +388,10 @@ Mitarbeiter /ˈmɪt|arbaitɐ/: employee
 Mitglied /ˈmɪtɡliːt/, das, -er: member
   Er ist Mitglied im Schachklub.
   He's a member of the chess club.
+
+Mitleid /ˈmɪtlait/, das, -(e)s|uncountable: pity, compassion, sympathy
+  Sein Schicksal erregte viel Mitleid.
+  His fate aroused a lot of sympathy.
 
 mitmachen /ˈmɪtmaxən/: to take part (in), to join in, to go through, to hold out, to cooperate
   bei einem Experiment / Wettkampf mitmachen

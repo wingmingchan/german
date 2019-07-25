@@ -531,6 +531,10 @@ bemerken /bəˈmɛrkən/: to notice
 Bemerkung /bəˈmɛrkʊŋ/, die, ~|-en: remark, comment
   eine abfällige Bemerkung machen: to make a snide remark
 
+bemitleiden /bəˈmɪtlaidən/: to pity
+  Er ist wirklich zu bemitleiden!
+  He really is to be pitied.
+
 bemüht /bəˈmyːt/: conscientious
   ein sehr bemühter Lehrer: a very conscientious teacher
   bemüht sein, etw. zu tun: to try hard to do sth
@@ -586,6 +590,12 @@ Bereich /bəˈraiç/, der, -e: area, domain, range, section
   im sozialen Bereich tätig sein: to work in the social sector
   Die Kosten bewegen sich im fünfstelligen Bereich.
   The costs will run to five figures.
+
+bereit /bəˈrait/: ready, prepared, willing
+  Der Zug ist zur Abfahrt bereit.
+  The train is ready to depart.
+​ Wir sind zu Kompromissen bereit.
+  We are prepared to make compromises.
 
 bereiten /bəˈraitən/: to cause, to give
   Ich wollte dir damit eine kleine Freude bereiten.

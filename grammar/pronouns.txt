@@ -85,3 +85,84 @@ Es weit bringen: to go a long way
 es eilig haben: to be in a hurry
 es gut meinen: to mean well
 es zu bunt treiben: to go too far
+
+Reflexive Pronouns
+------------------
+Acc:
+ich wasche mich, du wäschst dich, er wäscht sich, wir waschen uns, ihr wascht euch, sie waschen sich
+Dat:
+ich schmeichele mir, du schmeichelst dir, er schmeichelt sich, ihr schmeichelt euch, sie schmeicheln sich
+Perfect and pluperfect, normally with haben; but
+Sie sind sich neulich vor dem Bahnhof begegnet.
+Referring back to the subject:
+Ich haben kein Geld bei mir.
+Er hat kein Geld bei sich. (not bei ihm)
+Er schloss die Tür hinter sich. (not hinter ihm)
+Reinforcement by selbst
+Sie bemitleiden sich selbst: they feel sorry for themselves
+
+Possessive Pronouns
+-------------------
+Two forms:
+(i)
+        Singular                             Plural
+        Masc.       Fem.        Neut.        All Genders
+Nom.    meiner      meine       mein(e)s     meine
+Acc.    meinen      meine       mein(e)s     meine
+Dat.    meinem      meiner      meinem       meinen
+Gen.    von + dative
+
+Ihr Hut ist noch da, aber meiner ist verschwunden: Her hat's still there, but mine's disappeared
+Mein Auto ist größer als deins
+Vati hat meinen Pass-wer hat deinen?
+(ii) In literary usage
+der/die/das mein(ig)e: mine
+
+(ii) Archaic form
+Dein ist mein Herz: Thine is my heart (Die schöne Müllerin)
+
+Interrogative Pronouns
+----------------------
+
+        wer?         was?
+Nom.    wer?         was?
+Acc.    wen?         was?
+Gen.    wessen?      wessen?
+Dat.    wem?         -
+
+Neuter pronoun was is replaced by wo- (wor-) when the sense what + preposition is to be conveyed
+womit? worauf?
+
+
+Relative Pronouns
+-----------------
+        Singular                             Plural
+        Masc.       Fem.        Neut.        All Genders
+Nom.    der         die         das          die
+Acc.    den         die         das          die
+Gen.    dessen      deren       dessen       deren
+Dat.    dem         der         dem          denen
+
+1. Agreement of gender and number
+2. Never omitted
+3. Separated by commas
+4. The finite verb goes to the end of the clause
+Die Illustrierte, die ich kaufen wollte
+Der Klub, dem ich angehöre
+For 1st or 2nd person pronoun
+Ich, der ich immer so geduldig bin: I who am always so patient
+
+Pronominal adverbs: womit, worin, worüber
+Two ways:
+1. Preposition + relative pronoun
+Die Welt, in der wir leben
+2. Pronominal adverbs
+Die Welt, worin wir leben (uncommon)
+When the antecedent is a pronoun such as das, alles, einiges, etwas, nichts
+Etwas, wofür man bezahlt werden sollte: something for which one should be paid
+Alles, worüber sie geschrieben hat: everything abut which she has written
+When the antecedent is a clause
+Der Kugelstoßer hatte acht Stunden lang trainiert, wovon er ziemlich erschöpft war
+The shot-putter had been training for eight hours, as a result of which he was pretty worn out
+
+

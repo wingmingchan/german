@@ -436,6 +436,14 @@ Schmatz /ʃmaʦ/, der: smacker
 schmecken: to taste, to like
   Hat's geschmeckt?
 
+schmeicheln /ˈʃmaiçəln/: to flatter
+  Du brauchst mir gar nicht so zu schmeicheln!
+  You don't need to flatter me like that.
+  Es schmeichelt mir sehr, dass du mir das zutraust, aber …
+  I'm very flattered that you think I’m capable of that but …
+  Das Kleid schmeichelt ihrer Figur.
+  That dress flatters her figure.
+
 schmeißen /ˈʃmaisən/: to chuck, to throw, to drop, to manage, to put on
   => werfen
   den Ball über den Zaun schmeißen: to chuck the ball over the fence
@@ -1530,7 +1538,21 @@ stören /ˈʃtøːrən/: to disturb, to interfere, to interrupt, to intrude, to 
 
 stoßen /ˈʃtoːsən/: to push, to shove, to strike, to bump
   jdn ins Wasser stoßen: to push sb into the water
+  jdm ein Messer in den Rücken stoßen: to plunge a knife into sb's back
   mit dem Kopf an die Decke stoßen: to bump your head on the ceiling
+  sich an etw. stoßen [dative]: to take exception to sth
+  Stoß dich bitte nicht an der Unordnung, ich hatte noch keine Zeit zum Aufräumen.
+  Please don't mind the mess. I didn’t have time to tidy up.
+  auf etw. stoßen [accusative]: to come across sth, to meet with sth
+  Ich bin in dem Buch auf etwas Interessantes gestoßen.
+  I came across something interesting in that book.
+  Seine Forderungen stießen auf Widerstand.
+  His demands met with resistance.
+  auf jdn stoßen: to meet sb
+  auf einen würdigen Gegner stoßen: to meet a worthy opponent
+  zu jdm stoßen: to join sb
+  Er ist erst später zu uns gestoßen.
+  He only joined us later.
 
 Stoßzeit /ˈʃtoːsʦait/, die, -en: rush hour, busy time
   Während der Stoßzeiten dürfen keine Fahrräder in der S-Bahn mitgenommen werden.
