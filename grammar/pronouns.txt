@@ -165,4 +165,66 @@ When the antecedent is a clause
 Der Kugelstoßer hatte acht Stunden lang trainiert, wovon er ziemlich erschöpft war
 The shot-putter had been training for eight hours, as a result of which he was pretty worn out
 
+was as a relative:
+Das Mindeste, was du tun kannst
+Das Beste, was Händel je komponiert hat: the best thing Handel ever composed
+Das Fußballspiel musste abgebrochen werden, was wir sehr bedaurten
+The football match had to be stopped, which we very much regretted
 
+Demonstrative Pronouns
+----------------------
+        Singular                             Plural
+        Masc.       Fem.        Neut.        All Genders
+Nom.    der         die         das          die
+Acc.    den         die         das          die
+Gen.    dessen      deren       dessen       derer/deren
+Dat.    dem         der         dem          denen
+
+derer when followed by a relative clause
+Die Gesichter derer, die jahrelang gewartet hatten: the faces of those who had been waiting for years
+der / die mit der Perücke: the one with the wig
+die Unfallrate der Aeroflot ist nicht höher als die vergleichbarer westlicher Fluggesellschaften
+Aeroflot's accident rate is no higher than that of comparable Western airlines
+Sorgen?-wir haben deren genug: Worries?-we have enough of them/those
+Ach der! Oh him/that one!
+Mein Rat ist der: ... My advice is this: ...
+
+The genitive forms dessen and deren are sometimes used in place of sein to avoid ambiguity
+Am nächsten Tag besuchten sie sein Freund und dessen Sohn
+The next day they were visited by his friend and the latter's son
+
+Indefinite Pronouns
+-------------------
+(i) man
+einen, einem, sich, sein
+Man weiß nie, was geschehen kann: one never knows what may happen
+Man behauptet, er sei nach Australien ausgewandert
+They say he has emigrated to Australia
+das tut einem gut: that does one good
+Man hat mir gesagt, dass ...
+
+(ii) jemand
+Nom.     jemand            niemand
+Acc.     jemand(en)        niemand(en)
+Gen.     jemand(e)s        niemand(e)s
+Dat.     jemand(em)        niemand(em)
+
+jemand Interessantes
+mit jemand Interessantem
+jemand / niemand anders: someone/no-one else
+einer / keiner: common alternatives
+
+(iii) etwas, nichts: indeclinable, in Nom. and Acc., after prepositions
+etwas Milch, etwas müde
+
+(iv) viel, wenig: indeclinable in singular
+viele: many, wenige: few (not the same as weniger: less)
+ (v) alles, alle
+ Nom.   alles      alle
+ Acc.   alles      alle
+ Gen.   -          aller
+ Dat.   allem      allen
+
+
+
+ä ö ß ü

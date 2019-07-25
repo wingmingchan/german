@@ -1064,7 +1064,7 @@ sonst /zɔnst/: normally, else, otherwise
   Setz eine Mütze auf, sonst friert es dich an den Ohren.
   Put a hat on or your ears will get cold.
 
-Sorge /ˈzɔrɡə/, die, Sorgen: worry
+Sorge /ˈzɔrɡə/, die, ~|-n: worry
   jdm Sorgen machen/bereiten: to cause sb a lot of worry; to worry sb
 
 sorgen /ˈzɔrɡən/: to cater, to provide, to ensure, to worry, to cause
@@ -1684,8 +1684,11 @@ stumm /ʃtʊm/: dumb, silent
   She didn't say a word all evening.
   stumm nicken: to nod silently
 
-Stunde /ˈʃtʊndə/, die: hour
+Stunde /ˈʃtʊndə/, die, ~|-n: hour, period, class, time
   eine halbe Stunde: half an hour
+  In der vierten Stunde haben wir Deutsch.
+  We have German in our fourth period.
+  zur gewohnten Stunde: at the usual time/hour
 
 Sturm /ʃtʊrm/, der: storm
   Ein Sturm kam auf.
