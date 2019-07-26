@@ -1,0 +1,68 @@
+﻿Adjectives and Adverbs
+======================
+
+Forms
+-----
+Predicative use: not inflected
+Attributive use: inflected
+Adverbial use: most adjectives, not inflected
+
+(i) Weak declension: following definite articles, dieser, jeder, jener, mancher, solcher, welcher
+
+Singular
+          Masc.                Fem.                 Neut.
+Nom.      der große Hund       die große Katze      das große Tier
+Acc.      den großen Hund      die große Katze      das große Tier
+Gen.      des großen Hundes    der großen Katze     des großen Tieres
+Dat.      dem großen Hund      der großen Katze     dem großen Tier
+
+Plural
+Nom.      die großen Hunde     die großen Katzen    die großen Tiere
+Acc.      die großen Hunde     die großen Katzen    die großen Tiere
+Gen.      der großen Hunde     der großen Katzen    der großen Tiere
+Dat.      den großen Hunden    den großen Katzen    den großen Tieren
+
+(ii) Mixed declension: following indefinite article, kein, mein, dein
+
+Singular
+          Masc.                Fem.                 Neut.
+Nom.      ein großer Hund      eine große Katze     ein großes Tier
+Acc.      einen großen Hund    eine große Katze     ein großes Tier
+Gen.      eines großen Hundes  einer großen Katze   eines großen Tieres
+Dat.      einem großen Hund    einer großen Katze   einem großen Tier
+
+Plural
+Nom.      meine großen Hunde   meine großen Katzen  meine großen Tiere
+Acc.      meine großen Hunde   meine großen Katzen  meine großen Tiere
+Gen.      meiner großen Hunde  meiner großen Katzen meiner großen Tiere
+Dat.      meinen großen Hunden meinen großen Katzen meinen großen Tieren
+
+(iii) Strong declension: without article
+
+Singular
+          Masc.                Fem.                 Neut.
+Nom.      guter Wein           warme Milch          frisches Wasser
+Acc.      guten Wein           warme Milch          frisches Wasser
+Gen.      guten Weines         warmer Milch         frischen Wassers
+Dat.      gutem Wein           warmer Milch         frischem Wasser
+
+Plural
+Nom.      gute Weine
+Acc.      gute Weine
+Gen.      guter Weine
+Dat.      guten Weinen
+
+String declension are used:
+1. after uninflected words
+viel / wenig heißes Wasser
+welch glücklicher Zufall! What a happy coincidence!
+Trotz allerlei leckerer Torten: in spite of all kinds of delicious gateaux
+mit vier englischen Freunden
+2. after proper nouns in the genitive
+in Schillers großem Schreibtisch
+3. after the genitive of the relative pronoun
+der Briefträger, dessen neues Fahrrad zehn Gänge hat: the postman, whose new bicycle has ten gears
+
+
+
+ä ö ß ü
