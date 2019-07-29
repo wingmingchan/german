@@ -131,6 +131,13 @@ Bau /bau/, der, -(e)s, -e: den, burrow
   Der Hund folgte dem Fuchs in seinen Bau.
   The dog followed the fox into its den.
 
+Bauch /baux/, der, -(e)s|..e: stomach, belly
+  sich auf den Bauch legen: to lie on your stomach
+  sich [ dative ] den Bauch vollschlagen: to stuff yourself
+  aus dem Bauch (heraus): intuitively
+  aus dem hohlen Bauch: off the top of your head
+  seinem Bauch vertrauen: to trust your instincts
+
 baufällig /ˈbaufɛlɪç/: dilapidated, ramshackle
   Der Turm war baufällig und musste abgerissen werden.
   The tower was in disrepair and had to be torn down.
@@ -198,6 +205,10 @@ bedauern /bəˈdauɐn/: to regret, to be sorry
   Poor guy – I wouldn't like to be in his shoes.
   Ich bedau(e)re sehr, das verpasst zu haben.
   I am really sorry to have missed that.
+
+bedauernswert /bəˈdauɐnsvɛːɐt/: pitiable, unfortunate
+  die bedauernswerten Opfer der Betrüger: the poor victims of the scammers
+  ein bedauernswertes Missverständnis: an unfortunate misunderstanding
 
 bedecken /bəˈdɛkən/: to cover sb with sth, to blanket
   habe bedeckt
@@ -777,7 +788,11 @@ besteigen /bəˈʃtaiɡən/: to climb
   She has already climbed several eight-thousanders.
 
 bestellen /bəˈʃtɛlən/: to order
-  Frau Berger bestellt einen Salat /zaˈlaːt/.
+  Frau Berger bestellt einen Salat.
+  Wir haben für heute Abend einen Babysitter bestellt.
+  We've got a babysitter for this evening.
+  Bestell ihm schöne Grüße von mir!
+  Give him my best wishes.
   
 Bestellung /bəˈʃtɛlʊŋ/, die, -en: order
   eine Bestellung aufgeben: to place an order
@@ -1087,8 +1102,11 @@ bislang /bɪsˈlaŋ/: up to now
 
 bisschen /ˈbɪsçən/
   ein bisschen: a little, a bit
+  kein bisschen: not a bit
   ein klein bisschen: a little bit
   ein ganz bisschen: just a tiny bit/drop
+  Ach, du liebes bisschen!
+  Oh, my goodness!
 
 bitten /ˈbɪtən/: to ask, to beg, to request
   Sie bat mich, sie nach Hause zu fahren.
@@ -1401,7 +1419,11 @@ brüllen /ˈbrʏlən/: to roar, to scream
 ​ Er brüllte vor Schmerz.
   He was screaming with pain.
 
-Brust /brʊst/, die, Brüste: chest, breast
+Brust /brʊst/, die, ~|..e: chest, breast
+  Er hat eine sehr behaarte Brust.
+  He has a very hairy chest.
+  mit geschwellter Brust: sehr stolz
+  einem Kind die Brust geben: to breastfeed a baby
   Brustschwimmen: breaststroke
   Brustkrebs: breast cancer
   Hähnchenbrust: chicken breast

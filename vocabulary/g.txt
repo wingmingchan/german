@@ -603,6 +603,7 @@ Geologie /ɡeoloˈɡiː/, die, ~|uncountable
 geprüft => prüfen
 
 gerade /ɡəˈraːdə/: straight, at the moment
+  völlig gerade: perfectly straight
   gerade dann: just then
   gerade jetzt: just now
 
@@ -625,6 +626,9 @@ geraten /ɡəˈraːtən/: to come/get/run into , to hit, to get
   How on earth did she come across that guy?
   Sie gerät leicht in Wut.
   She's quick to get angry.
+
+geräuschvoll /ɡəˈrɔyʃfɔl/: noisy
+  geräuschvolles Atmen / Kauen: noisy breathing/chewing
 
 Gericht /ɡəˈrɪçt/, das, -e: court, bench
   jdn vor Gericht bringen: to take sb to court
@@ -1106,9 +1110,13 @@ gründen /ˈɡrʏndən/: to found, to establish
 
 Grundschule: elementary/grade school
 
-Gruß /ɡruːs/, der, ..e: greeting, regards, wishes
+Gruß /ɡruːs/, der, -es|..e: greeting, regards, wishes
   Sie erwiderte meinen Gruß nicht.
   She didn't return my greeting.
+  Mit freundlichen Grüßen, …
+  Kind regards
+  Bitte richten Sie Ihrer Frau herzliche Grüße von mir aus.
+  Please give your wife my best wishes.
 
 gucken /ˈɡʊkən/: to look, to watch, to peek
   Guck mal, wer da kommt!

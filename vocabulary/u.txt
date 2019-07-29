@@ -308,7 +308,7 @@ Umsetzung /ˈʊmzɛʦʊŋ/, die, -en: implementation
   Die Umsetzung des Gesetzes brachte Probleme mit sich.
   The implementation of the the law led to problems.
 
-Umstand /ˈʊmʃtant/, der, ..e: circumstance
+Umstand /ˈʊmʃtant/, der, -(e)s|..e: circumstance
   unter Umständen: perhaps
 
 Umstandswort /ˈʊmʃtanʦvɔrt/, das, -(e)s|..er: adverb
@@ -350,7 +350,7 @@ unbedingt /ˈʊnbədɪŋt/: really, absolutely, at all costs
 unbegreiflich /ˈʊnbəɡraiflɪç/: incomprehensible, inconceivable
   aus unbegreiflichen Gründen: for inexplicable reasons
 
-Unbehagen /ˈʊnbəhaːɡən/, das, Unbehagens: uneasiness
+Unbehagen /ˈʊnbəhaːɡən/, das, -s|uncountable: uneasiness
   Diese Vorstellung bereitet ihr Unbehagen.
   This idea makes her feel uneasy.
 

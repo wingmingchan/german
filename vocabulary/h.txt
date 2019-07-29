@@ -70,7 +70,7 @@ Halle /ˈhalə/, die, Hallen: hall, lobby
   Bitte warten Sie mit dem Gepäck kurz in der Halle.
   Please wait a moment in the lobby with your baggage.
 
-Hals /hals/, der: neck
+Hals /hals/, der, -es|..e: neck
   Ich band mir ein Tuch um den Hals.
   I tied a scarf around my neck.
 
@@ -598,6 +598,8 @@ hinken /ˈhɪŋkən/: to limp
 
 hinter /ˈhɪntɐ/: behind
 
+Hintergrund, der: background
+
 hinterher /hɪntɐˈheːɐ/: behind, afterward
   Er rannte aus dem Haus, den anderen hinterher.
   He ran out of the house after the others.
@@ -605,6 +607,12 @@ hinterher /hɪntɐˈheːɐ/: behind, afterward
   You're always wise after the event.
 
 hinterlassen /hɪntɐˈlasən/: to leave behind
+
+hinterlegen /hɪntɐˈleːɡən/: to leave
+  Ich werde dir das Geld an der Rezeption hinterlegen.
+  I'll leave the money for you to pick up at reception.
+  Wir mussten beim Vermieter eine Kaution hinterlegen.
+  We have to pay a deposit to the landlord.
 
 hinüber /hɪˈnyːbɐ/: over
   ein Blick hinüber zum Nachbarn: a glance over to your neighbor
@@ -627,14 +635,6 @@ hinweisen /ˈhɪnvaizən/: to point sth out to sb
   Please note that your registration is binding.
   Alles weist auf ihn als Täter hin.
   Everything points to him as the perpetrator.
-
-Hintergrund, der: background
-
-hinterlegen /hɪntɐˈleːɡən/: to leave
-  Ich werde dir das Geld an der Rezeption hinterlegen.
-  I'll leave the money for you to pick up at reception.
-  Wir mussten beim Vermieter eine Kaution hinterlegen.
-  We have to pay a deposit to the landlord.
 
 hinüber /hɪˈnyːbɐ/: over, across
   ein Blick hinüber zum Nachbarn: a glance over to your neighbor 

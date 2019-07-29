@@ -208,7 +208,7 @@ Abschiebehaft, Abschiebungshaft, die, ~|-en: remand pending deportation
 Abschied /ˈapʃiːt/, der, -(e)s|-e: parting, leave, farewell
   Der Abschied von ihren Freunden fiel ihr schwer.
   She found it difficult to say goodbye to her friends.
-  von jdm/etw. Abschied nehmen: to take leave of sb/say goodbye to sth
+  von jdm / etw. Abschied nehmen: to take leave of sb/say goodbye to sth
   => scheiden: to part
 
 Abschiedskuss, der, -es|..e: parting kiss
@@ -453,6 +453,9 @@ Akku /ˈaku/, der, -s|-s: battery
 Akkusativ /ˈakuzatiːf/, -s|-e: accusative
   Das direkte Objekt steht im Akkusativ.
   The direct object is in the accusative.
+
+Akte /ˈaktə/, die, ~|-n: file
+  eine Akte anlegen: to open a file
 
 Aktentasche /ˈaktəntaʃə/, die, ~|-n: briefcase
 
@@ -889,6 +892,7 @@ anlaufen /ˈanlaufən/: to call at, to put into, to start, to tarnish
 anlegen /ˈanleːɡən/: to lay out, to set up, to invest
   ein neues Gemüsebeet anlegen: to lay out a new bed
   ein Sparbuch anlegen: to open a savings account
+  eine Akte anlegen: to open a file
 
 Anleitung /ˈanlaitʊŋ/, die, -en: guidance, instruction
   unter Anleitung des Lehrers: under the guidance of a teacher
@@ -1001,6 +1005,14 @@ anstreichen /ˈanʃtraiçən/: to paint, to Mark
   eine Bank blau anstreichen: to paint a bench blue
   Der Lehrer hat mir das als Fehler angestrichen.
   The teacher marked that as a mistake. 
+
+anstrengend /ˈanʃtrɛŋənt/: strenuous
+
+Anstrengung /ˈanʃtrɛŋʊŋ/, die, ~|-en: effort, exertion
+  Sie war vor Anstrengung ganz rot im Gesicht.
+  She was red in the face from effort.
+  sich von den Anstrengungen der Reise erholen
+  to recover from the strain of the journey
 
 Anteil /ˈantail/, der, -e: share
   der Anteil von Frauen innerhalb der erwerbstätigen Bevölkerung
@@ -1126,11 +1138,19 @@ archivieren /arçiˈviːrən/: to archive
 
 Argument /arɡuˈment/, das, -e
 
-Arm /arm/, der, -e: arm
+Arm /arm/, der, -(e)s|-e: arm, branch, sleeve
   ein Kind auf den Arm nehmen: to take a child up into your arms
+  jdm in den Arm fallen: to pull sb back
+  jdn in den Arm nehmen: to put your arm around sb
+  ein Kronleuchter mit vier Armen: a candelabra with four branches
+  ein Hemd mit kurzem Arm: a short-sleeved shirt
 
 arm /arm/: poor
   eines der ärmsten Länder der Erde: one of the poorest countries on earth
+  Der arme Kerl zittert ja am ganzen Körper.
+  The poor guy's whole body is shaking.
+  arm dran sein: to be in bad shape
+  eine Ernährung, die arm an Vitaminen ist: a diet that is low in vitamins
 
 Arme /ˈarmə/, -n: poor person
 
@@ -1222,7 +1242,7 @@ aufbrechen /ˈaufbrɛçən/: to break open, to break down
 
 aufdecken /ˈaufdɛkən/: to uncover, to show
  Der Journalist hat die Korruption der Stadtverwaltung aufgedeckt.
- The journalist uncovered the city administration’s corruption.
+ The journalist uncovered the city administration's corruption.
 
 aufdrücken: to press sth on, to stamp sth on sth, to push open
   Den Bleistift nicht so fest aufdrücken! 
@@ -1675,6 +1695,15 @@ ausreden /ˈausreːdən/:
   jdm etw. ausreden: to talk sb out of sth
   Sie ließ sich nicht ausreden, dass ich etwas gegen sie habe.
   She wouldn't accept that I have nothing against her.
+
+ausrichten /ˈausrɪçtən/: to achieve, to organize
+  jdm etw. ausrichten: to tell sb sth
+  Ich soll dir Grüße von ihr ausrichten.
+  She told me to give you her regards.
+  Mit Drohungen richtest du bei ihr nichts aus.
+  You won't get anywhere with her by threatening her.
+  Welches Land richtet die nächsten Olympischen Spiele aus?
+  Which country is hosting the next Olympic Games?
 
 Ausrichtung /ˈausrɪçtʊŋ/, die, -en: organization, direction
   Das Land bewirbt sich um die Ausrichtung der Olympischen Spiele.

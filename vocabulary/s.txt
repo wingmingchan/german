@@ -430,7 +430,7 @@ schmal /ˈʃmaːl/: narrow, thin, meager
   Das können wir von unserem schmalen Budget nicht finanzieren.
   We can't pay for that out of our meager budget.
 
-Schmatz /ʃmaʦ/, der: smacker
+Schmatz /ʃmaʦ/, der, -es|-e: smacker
   Sie gab ihm einen dicken Schmatz auf die Backe.
   She gave him a big smacker on the cheek.
 
@@ -523,7 +523,7 @@ Schnur /ʃnuːɐ/, die, Schnüre /ˈʃnyːrə/: string, cord
   Er trug den Schlüssel an einer Schnur um den Hals.
   He wore the key on a cord around his neck. 
 
-Schnurrbart /ˈʃnʊrbaːɐt/, der: mustache
+Schnurrbart /ˈʃnʊrbaːɐt/, der, -(e)|..e: mustache
 
 schob /ʃoːp/ => schieben
 
@@ -552,6 +552,10 @@ Schraube /ˈʃraubə/, die: screw
 
 Schreck /ʃrɛk/, der, |uncountable: fright, scare
   einen Schreck bekommen: to get a fright
+
+Schrei /ʃrai/, der, -(e)s|-e: cry
+  die Schreie des Adlers: the eagle's cry
+  ein Schrei um Hilfe: a cry for help
 
 schreiben /ˈʃraibən/: to write
   Er schreibt Reportagen /repɔrˈtaːʒən/.
@@ -640,6 +644,10 @@ Schulpflicht /ˈʃuːlpflɪçt/, die, |uncountable: compulsory school attendance
   Die allgemeine Schulpflicht beginnt für alle Kinder nach der Vollendung des 6. Lebensjahres.
   School attendance becomes compulsory for all children when they turn six.
 
+Schulter /ˈʃʊltɐ/, die, ~|-n: shoulder
+  ein Mann mit breiten Schultern: a man with broad shoulders
+  mit den Schultern zucken: to shrug your shoulders
+
 Schurke /ˈʃʊrkə/: villain
   Spielen Sie im Film lieber den Helden oder den Schurken?
   Do you prefer playing the hero or the villain in a movie?
@@ -692,6 +700,7 @@ schwank: frail, slender
 schwarz /ʃvarʦ/, schwarzen: black
 
 schwatzen /ˈʃvaʦən/: to chat
+  => plaudern
   mit einer Freundin am Telefon schwatzen
   to chat with a friend on the phone
 
@@ -1449,7 +1458,6 @@ steuern /ˈʃtɔyɐn/: to steer, to drive, to pilot, to head, to control
   Wer hat den Wagen gesteuert?
   Who was driving the car?
 
-
 Stich /ʃtɪç/, der: sting, bite, stab wound
   jdn im Stich lassen: to let sb down
 
@@ -1537,6 +1545,12 @@ stören /ˈʃtøːrən/: to disturb, to interfere, to interrupt, to intrude, to 
   Das Gewitter stört den Empfang des Senders.
   The thunderstorm is disrupting the reception of this station.
 
+Störung /ˈʃtøːrʊŋ/, die, ~|-en: disturbance, disruption, fault
+  Entschuldigen Sie bitte die Störung!
+  Sorry to disturb you!
+  Schizophrenie ist eine psychische Störung.
+  Schizophrenia is a psychological disorder.
+
 stoßen /ˈʃtoːsən/: to push, to shove, to strike, to bump
   jdn ins Wasser stoßen: to push sb into the water
   jdm ein Messer in den Rücken stoßen: to plunge a knife into sb's back
@@ -1578,6 +1592,10 @@ Strahl /ʃtraːl/, der, -(e)s|-en: beam, ray, jet
   to direct the beam of the flashlight onto sb/sth
 
 Strand /ʃtrant/, der: flaches Ufer am Meer, beach
+
+strapaziös /ʃtrapaˈʦjøːs/: taxing
+  => anstrengend
+  eine strapaziöse Reise: a taxing journey
 
 Straße /ˈʃtraːsə/, die, -en: road, street
 
@@ -1663,7 +1681,9 @@ studieren /ʃtuˈdiːrən/: to study
 Stufe /ˈʃtuːfə/, die: step, stair
   zwei Stufen auf einmal nehmen: to go up two steps at a time
 
-Stuhl /ʃtuːl/, der: chair
+Stuhl /ʃtuːl/, der, -(e)s|..e: chair
+  Setz dich auf deinen Stuhl!
+  Sit down on your chair!
 
 Struktur /ʃtrʊkˈtuːɐ/, die, -en: structure, texture
   die soziale Struktur der Gesellschaft: the social structure of society

@@ -148,6 +148,10 @@ Nahrungsmittel /ˈnaːrʊŋsmɪtəl/, das, -s|~: food
   What is your name?
   Auf den Namen Schmidt
 
+namens /ˈnaːməns/: called, by the name of
+  Ist hier eine Frau namens Elisabeth?
+  Is there a woman called Elisabeth here?
+
 nämlich /ˈnɛːmlɪç/: as, since, to be precise/exact, (more) specifically
   Ich kann nicht kommen, ich habe nämlich schon etwas anderes vor.
   I can't come as I've got something else on.
@@ -328,6 +332,7 @@ Nordkoreas: North Korea
 Nörgelei /nœrɡəˈlai/, die, ~|-en: moaning, grumbling
 
 normal /nɔrˈmaːl/: normal
+  unter normalen Umständen: under normal circumstances
 
 Normalfall, im: normally, usually
 

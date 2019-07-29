@@ -793,9 +793,11 @@ entschieden => entscheiden
 
 entschuldigen /ɛntˈʃʊldɪɡən/: to excuse, to pardon
   entschuldige, entschuldigst, entschuldigt, habe entschuldigt
-  ent-: used to express that a process is reversed
+  sich (bei jdm) (für etw.) entschuldigen: to apologize (to sb) (for sth)
   Hast du dich bei deiner Lehrerin entschuldigt?
   Did you apologize to your teacher?
+  Entschuldigen Sie bitte die Störung.
+  Excuse me for interrupting.
 
 Entschuldigung /ɛntˈʃʊldɪɡʊŋ/, die, -en: apology, excuse
   Sie murmelte eine Entschuldigung.
@@ -1201,6 +1203,10 @@ erteilen /ɛɐˈtailən/: to give, to grant, to confer
   Eine förmliche Genehmigung wurde nie erteilt.
   Formal approval was never granted.
 
+ertragen /ɛɐˈtraːɡən/: to bear, to endure
+  Die Schmerzen sind kaum zu ertragen.
+  The pain is hard to bear.
+
 erträglich /ɛɐˈtrɛːklɪç/: bearable
 
 erwachen /ɛɐˈvaxən/: to wake
@@ -1321,7 +1327,8 @@ etwa /ˈɛtva/: used to express surprise, by any chance
 
 etwas /ˈɛtvas/: something, a little, somewhat
 
-Eule /ˈɔylə/, die, Eulen: owl
+Eule /ˈɔylə/, die, ~|-n: owl
+  der Schrei einer Eule: the hoot of an owl
 
 Europa /ɔyˈroːpaː/, das
 

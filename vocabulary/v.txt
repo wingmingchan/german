@@ -613,7 +613,7 @@ verstehen: to hear, understand, know
 
 verstricken /fɛɐˈʃtrɪkən/: to be caught up with, to involve sb in sth
   in einen Skandal verstrickt werden: to become involved in a scandal
-  Die Verdächtige hat sich in Lügen/Widersprüche verstrickt.
+  Die Verdächtige hat sich in Lügen / Widersprüche verstrickt.
   The suspect has become caught up in a web of lies/contradictions.
 
 Versuch /fɛɐˈzuːx/, der: attempt
@@ -762,12 +762,14 @@ verzeihen /fɛɐˈʦaiən/: to forgive, to condone
   Verzeihen Sie bitte …: Excuse me, …
   Verzeihen Sie bitte, ist dieser Platz noch frei?
 
-Verzeihung /fɛɐˈʦaiʊŋ/
+Verzeihung /fɛɐˈʦaiʊŋ/, die, ~|uncountable: forgiveness
+  (jdn) (für etw.) um Verzeihung bitten: to ask (sb) for forgiveness (for sth)
   Verzeihung!
   Oh, Verzeihung, das wollte ich nicht.
   Oh sorry, I didn't mean it.
   Verzeihung, dürfte ich mal bitte vorbei?
   Excuse me, could I just get past please?
+  Verzeihung? Pardon me?
 
 verzichten /fɛɐˈʦɪçtən/: to do without, to refrain from, to renounce
   Wenn das so ist, dann verzichte ich lieber.
@@ -870,8 +872,11 @@ vor Christi Geburt: BC
 
 vor den Augen: before/under one's very eyes
 
-
 vor Kurzem: of late
+
+vor sich hin [ accusative ]: to yourself/himself/herself/etc.
+  Sie summte fröhlich vor sich hin.
+  She was humming away happily. 
 
 voraus /foˈraus/: ahead, in front
   Andere Länder sind uns in Sachen Bildungspolitik weit voraus.
@@ -1023,7 +1028,19 @@ to introduce, to come/go for an interview, to present, to put forward(s)
   Am Sonntag müssen wir die Uhren um eine Stunde vorstellen.
   On Sunday we have to put the clocks forward by an hour.
 
-Vorstellung /ˈfoːɐʃtɛlʊŋ/, die: idea, picture
+Vorstellung /ˈfoːɐʃtɛlʊŋ/, die, ~|-en: idea, picture, performance, presentation, introduction, interview
+  Ich habe eine andere Vorstellung von Freundschaft als du.
+  I have a different idea of friendship than you.
+  Diese Gefahr existiert doch nur in deiner Vorstellung!
+  This danger only exists in your imagination!
+  Karten für die Nachmittagsvorstellung kaufen
+  to buy tickets for the afternoon performance
+  die Vorstellung eines neuen Produkts auf einer Messe
+  the presentation of a new product at a trade fair
+  Zu Beginn des Treffens gab es eine kurze Vorstellung von allen Teilnehmern.
+  At the start of the meeting all the participants were briefly introduced.
+  eine Einladung zur persönlichen Vorstellung bekommen
+  to receive an invitation for a personal interview
 
 Vorstellungsgespräch /ˈfoːɐʃtɛlʊŋsɡəʃprɛːç/, das, -e: interview
   Sie hat um 10 Uhr ein Vorstellungsgespräch.

@@ -594,8 +594,10 @@ Koreaner, der, Koreanerin, Koreaner
 
 Koreanisch
 
-Körper /ˈkœrpɐ/, der: body, torso
+Körper /ˈkœrpɐ/, der, -s|~: body, torso
   einen muskulösen Körper haben: to have a muscular body
+  die Arme eng an den Körper pressen: to press your arms tightly to your body
+  Planeten, Sterne und andere Himmelskörper: planets, stars and other heavenly bodies
 
 Körperhaltung, die: posture
 
@@ -668,6 +670,12 @@ kränkeln /ˈkrɛnkəln/: to be not too well, to be sickly
 Krankenhaus /ˈkraŋkənhaus/, das, -es|..er: hospital
 
 Krapfen /ˈkrapfən/, der: jelly doughnut
+
+Kauz /kauʦ/, der, -es|..e: screech owl, eccentric fellow, rare bird
+  Im Wald ruft ein Kauz.
+  There's a screech owl trilling in the forest.
+  Unser Nachbar ist ein sonderbarer Kauz.
+  Our neighbor's an oddball.
 
 Krawatte /kraˈvatə/, die: tie
   Er kam in Anzug und Krawatte.
