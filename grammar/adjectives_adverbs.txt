@@ -52,7 +52,7 @@ Acc.      gute Weine
 Gen.      guter Weine
 Dat.      guten Weinen
 
-String declension are used:
+Strong declension are used:
 1. after uninflected words
 viel / wenig heißes Wasser
 welch glücklicher Zufall! What a happy coincidence!
@@ -62,7 +62,30 @@ mit vier englischen Freunden
 in Schillers großem Schreibtisch
 3. after the genitive of the relative pronoun
 der Briefträger, dessen neues Fahrrad zehn Gänge hat: the postman, whose new bicycle has ten gears
+4. After singular personal pronouns
+Da steh' ich nun, ich armer Tor! (Faust I) poor fool that I am!
+Du Glücklicher! You lucky fellow!
+Weak ending in nominative plural
+Wir (erfahrenen) Angestellten: we (experienced) employees
+Wir Deutschen
+
+When inflected, adjectives ending in -el always drop e
+edel, ein edler Ritter, miserabel, sein miserables Deutsch
+foreign origin
+makaber, eine makabre Geschichte, sauer, saure Äpfel
+
+Two or more adjectives
+ein großer, runder Tisch
+
+viel and wenig
+Singular not declined:
+Sie trinkt viel Milch
+Er kommt mit wenig Geld aus
+Plural declined:
+viele Geschäftsleute
+mit wenigen Ausnahmen
 
 
 
-ä ö ß ü
+
+Ä ä ö ß ü

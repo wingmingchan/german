@@ -672,6 +672,13 @@ beschädigen /bəˈʃɛːdɪɡən/: to damage
 beschäftigen /bəˈʃɛftɪɡən/: to employ, to occupy, to bother, to spend time with, to give thought to
   Das Unternehmen beschäftigt 2000 Mitarbeiter.
   The company has 2000 employees.
+  die Kinder mit Spielzeug beschäftigen: to occupy the children with toys
+  Was mich schon lange beschäftigt: Wie schafft er das bloß?
+  What's been bothering me for a while is how he manages all that?
+  Beschäftige dich doch auch mal mit den Kindern!
+  Spend some time with the children for a change!
+  Hast du dich schon mit der Frage beschäftigt, was aus ihm werden soll?
+  Have you ever given any thought to the question of what is to become of him?
 
 beschäftigt /bəˈʃɛftɪçt/: to be employed, busy, engaged
   Sie ist bei einer großen Autofirma beschäftigt.
@@ -964,6 +971,10 @@ Bewerber /bəˈvɛrbɐ/, -, Bewerberin: applicant, candidate
 bewerfen /bəˈvɔrfən/: to pelt, to bombard
   jdn/etw mit etw bewerfen: to throw sth at sb/sth
 
+bewirken /bəˈvɪrkən/: to achieve
+  Gemeinsam können wir viel Gutes bewirken.
+  Together we can achieve a lot of good.
+
 Bewohner, Bewohnerin: occupant, resident
   Höhlenbewohner: cave dwellers
 
@@ -972,7 +983,6 @@ bewundern /bəˈvʊndɐn/: to admire
 bewusst /bəˈvʊst/: deliberate
   Das war bewusste Irreführung!
   That was deliberate deception!
-  
 
 bezahlen /bəˈʦaːlən/: to pay for
   eine Rechnung bar bezahlen: to pay an invoice in cash
@@ -1151,6 +1161,11 @@ Blindensendungen, pl: articles for the blind
 blinzeln /ˈblɪnʦəln/: to blink
   in die grelle Sonne blinzeln
   to blink into the glare of the sun
+
+Blitz /blɪʦ/, der, -es|-e: lightning
+  vom Blitz getroffen werden: to be struck by lightning
+  schnell wie der Blitz
+  mit Blitz fotografieren: to photograph using a flash
 
 Blitzer, der: flashgun, speed trap
 

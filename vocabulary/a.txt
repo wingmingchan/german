@@ -1619,6 +1619,14 @@ aushöhlen /ˈaushøːlən/: to hollow out, to undermine
   to hollow out a melon and fill it with fruit
   jds Autorität aushöhlen: to undermine sb's authority
 
+Auskommen /ˈauskɔmən/, das, -s|uncountable: living
+  ein gutes / bescheidenes Auskommen haben
+  to make a decent living/have a modest income
+
+auskommen /ˈauskɔmən/: to get by, to get along with
+  mit wenig Geld auskommen müssen: to have to get back without much money
+  gut mit den Nachbarn auskommen: to get along well with the neighbors
+
 auskühlen: to cool
 
 Auskunft /ˈauskʊnft/, die, ..e: information
@@ -1806,6 +1814,17 @@ Ausstieg /ˈausʃtiːk/, der: pullout, withdrawal, exit
   den Ausstieg aus der Atomkraft fordern: to demand a pullout from nuclear energy
 
 ausstrahlen /ˈausʃtraːlən/: to broadcast
+
+austauschen /ˈaustauʃən/: to exchange, to replace, to substitute
+  Die beiden Länder tauschten Gefangene aus.
+  The two countries exchanged prisoners.
+​ Die defekten Bremsen mussten ausgetauscht werden.
+  The faulty brakes had to be replaced.
+  Er wurde in der 20. Spielminute gegen Kahn ausgetauscht.
+  He was replaced by Kahn in the 20th minute of the match.
+  sich (mit jdm) (über etw.) austauschen [ accusative ]: to exchange opinions (with sb) (about sth)
+  Er tauscht sich gern in Internetforen über seine Interessen aus.
+  He likes exchanging views about his hobbies on Internet forums.
 
 austoben /ˈaustoːbən/: to run riot, to let off steam
   Die Jungen sollen sich im Garten mal so richtig austoben.
