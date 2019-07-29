@@ -579,7 +579,7 @@ Schriftsteller /ˈʃrɪftʃtɛlɐ/: writer
 
 Schriftzeichen, das: character
 
-Schritt /ʃrɪt/, der, -(e)s|-e: step
+Schritt /ʃrɪt/, der, -(e)s|-e: step, crotch
   => Tritt
   einen Schritt zur Seite machen: to step to one side
   Er folgte mir auf Schritt und Tritt.
@@ -587,6 +587,9 @@ Schritt /ʃrɪt/, der, -(e)s|-e: step
   Die Tür war nur wenige Schritte von mir entfernt.
   The door was only a few steps away from me.
   die nötigen Schritte einleiten: to take the necessary steps
+  Schritt für Schritt: step by step
+  Die Jeans ist im Schritt zu eng.
+  These jeans are too tight around the crotch.
 
 Schrott /ʃrɔt/, der: scrap, garbage
   Schrotthändler: scrap (metal) dealer
@@ -689,6 +692,12 @@ schwach /ʃvax/: weak, poor
 Schwäche /ˈʃvɛçə/, die: weakness, failing
   Sie bekam einen Schwächeanfall.
   She suddenly felt faint.
+
+schwächen /ˈʃvɛçən/: to weaken
+  Er ist von seiner schweren Krankheit noch sehr geschwächt.
+  He's still very weak after his serious illness.
+  Die Viren schwächen das Immunsystem.
+  The viruses weaken the immune system.
 
 Schwalbe /ˈʃvalbə/, die, ~|-en: swallow
   Schwalbennest: swallow's nest
@@ -1324,6 +1333,11 @@ ständig /ˈʃtɛndɪç/: permanent, constantly
 stark /ʃtark/, stärker: strong
 
 Stärke /ˈʃtɛrkə/, die: strength, power, intensity, strong point
+
+stärken /ˈʃtɛrkən/: to strengthen, to improve
+  durch Training seine Muskeln stärken: to strengthen your muscles by working out
+  Wir sollten uns erst noch stärken, bevor wir weitergehen.
+  We should have some refreshments before we go any further.
 
 starten /ˈʃtartən/: to start
   Das Spiel startet in wenigen Minuten.
