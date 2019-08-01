@@ -35,6 +35,10 @@ zart /ʦaːɐt/: delicate, tender, gentle
   Die Wände waren in einem zarten Grün gestrichen.
   The walls were painted a delicate green.
 
+zärtlich /ˈʦɛːɐtlɪç/: tender, loving
+  jdm zärtliche Blicke zuwerfen: to send sb loving glances
+  jdn zärtlich küssen / streicheln: to kiss/caress sb tenderly
+
 Zauber /ˈʦaubɐ/, der, Zauber: magic, spell
   einen bösen Zauber über jdn aussprechen: to cast an evil spell on sb 
 
@@ -236,8 +240,9 @@ Zoo /ʦoː/, der, Zoos: zoo
 Zorn /ʦɔrn/, der: rage, anger
 
 zornig /ˈʦɔrnɪç/: angry, mad, furious
-  Bist du zornig auf mich/über den Fehler?
+  Bist du zornig auf mich / über den Fehler?
   Are you mad at me/about the mistake?
+  mit zornig funkelnden Augen: with eyes glinting with anger
 
 zu: closed
   Tür/Fenster zu!
@@ -439,6 +444,13 @@ zwängen /ˈʦvɛŋən/: to squeeze, to force
 Zuwendung /ˈʦuːvɛndʊŋ/, die, -en: attention, affection
   Kinder sehnen sich nach Zuwendung.
   Children crave attention.
+
+zuwerfen /ˈʦuːvɛrfən/: to slam
+  Ich bin aufgewacht, als irgendwer nachts lautstark die Autotüren zugeworfen hat.
+  I woke up when someone loudly slammed their car doors in the middle of the night.
+  jdm etw. zuwerfen: to throw sth to sb
+  den Ball einem Mitspieler zuwerfen: to throw the ball to a teammate
+  jdm einen Blick / ein Lächeln zuwerfen: to glance/smile at sb
 
 zwar /ʦvaːɐ/: indeed
   Draußen ist es zwar sonnig, aber ziemlich kalt.

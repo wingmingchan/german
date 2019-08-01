@@ -231,9 +231,10 @@ Einfahrt /ˈainfaːɐt/, die: entrance, entry, driveway
   Einfahrt verboten!
   No entry!
 
-Einfall /ˈainfal/, der, Einfälle /ˈainfɛlə/: idea, invasion
+Einfall /ˈainfal/, der, -(e)s|..e /ˈainfɛlə/: idea, invasion
   Der Ausflug war ein glänzender Einfall von dir.
-  The day trip was a brilliant idea of yours. 
+  The day trip was a brilliant idea of yours.
+  der Einfall der Römer in Britannien: the Roman invasion of Britain
 
 einfallen /ˈainfalən/: to invade, to attack, to collapse, to join in
   etw. fällt jdm ein: sth occurs to sb
@@ -408,6 +409,8 @@ einmal /ˈainmaːl/: once, at once, one day, sometime
   Once upon a time there was a king …
   Komm doch einmal auf einen Kaffee vorbei, ich würde mich freuen.
   Why don't you drop by for a coffee sometime? I'd like that.
+
+einnehmbar: capable of being taken (captured)
 
 einpacken /ˈainpakən/: to wrap (up), to pack
   Weihnachtsgeschenke einpacken: to wrap up Christmas presents
@@ -807,6 +810,18 @@ entsorgen /ɛntˈzɔrɡən/: to dispose of
   Abfälle umweltfreundlich entsorgen
   to dispose of waste in an environmentally friendly way
 
+entspannen /ɛntˈʃpanən/: to relax, to unwind
+  Am Wochenende möchte ich mich endlich mal wieder richtig entspannen.
+  I'd like to really unwind a little again over the weekend.
+  Unter der Massage entspannte sich ihr Nacken.
+  The massage relaxed the back of her neck.
+  Die Lage in den Krisengebieten hat sich ein wenig entspannt.
+  The situation in the crisis-hit region has eased a little.
+  Lesen entspannt.
+  Reading is relaxing.
+  Der Lottogewinn hat unsere finanzielle Situation entspannt.
+  Winning the lottery eased our financial situation.
+
 entsprechen /ɛntˈʃprɛçən/: to be in line with, to conform with, to be equivalent to, to be consistent with, to comply with
   Entspricht dieses Modell Ihren Erwartungen?
   Is this model in line with your expectations?
@@ -869,6 +884,11 @@ erachten /ɛɐˈ|axtən/
 Erbe /ˈɛrbə/, das, -s|uncountable: inheritance, heritage
   Er hat sein ganzes Erbe verspielt.
   He gambled away his whole inheritance.
+
+Erbse /ˈɛrpsə/, die, ~|-n: pea
+  im Garten Erbsen anbauen: to plant peas in the garden
+  Als Gemüse gab es Erbsen und Karotten.
+  For vegetables there were peas and carrots.
 
 Erdbeben /ˈeːɐtbeːbən/, das, -: earthquake
   ein Erdbeben der Stärke 6: a 6.0 magnitude earthquake

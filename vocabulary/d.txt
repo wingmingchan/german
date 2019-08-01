@@ -35,6 +35,10 @@ dadurch /daˈdʊrç/: that way, thus
 
 dafür /daˈfyːɐ/: for it, for that, instead
 
+daheim /daˈhaim/: (at) home
+  Ist jemand daheim?
+  Is anyone home?
+
 daher /daˈheːɐ/: therefore
   Daher kann ich leider nicht kommen.
   So I'm afraid I can't come.
@@ -457,6 +461,18 @@ drin /drɪn/: in it/them
   => darin
   Du hast ja gestern ein Paket bekommen; was war denn drin?
   You got a package yesterday. What was in it by the way?
+
+dringen /ˈdrɪŋən/: to get out/through
+  Leise Stimmen drangen aus dem Haus nach draußen.
+  Soft voices could be heard coming from the house.
+  auf etw. dringen [ accusative ]: to insist on sth
+  Wir müssen auf rasche Behebung des Schadens dringen.
+  We must insist that the damage be repaired quickly.
+
+dringend /ˈdrɪŋənt/: urgent
+  Bitte kommen Sie schnell, Herr Doktor, es ist dringend!
+  Please come quickly, doctor, it's urgent!
+  eine dringende Bitte an jdn haben: to have an urgent request of sb
 
 dritte: third
 

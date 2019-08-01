@@ -202,6 +202,17 @@ wegwerfen /ˈvɛkvɛrfən/: to throw away
 
 Wegwerfware, die: disposable goods
 
+wehen /ˈveːən/: to blow
+  => blasen
+  Der Wind weht heute ziemlich kräftig.
+  The wind is pretty strong today.
+  Der Wind hat den Schnee von der Straße geweht.
+  The wind has blown the snow off the road.
+  Auf der Leine weht die Wäsche im Wind.
+  The washing is blowing around in the wind on the line.
+
+weht => wehen
+
 *Weib /vaip/, das: female, babe, woman, wife
 
 Weiberfasching /ˈvaibɐfaʃɪŋ/, der, |uncountable: day during carnival when women take control
@@ -313,6 +324,12 @@ Wende /ˈvɛndə/, die, -n: change, turning point
 wenden /ˈvɛndən/: to turn, to turn over, to turn around, to toss
   das Steak wenden und auf der zweiten Seite anbraten
   to turn the steak over and brown it on the other side
+  Ich konnte die Augen nicht von ihm wenden.
+  I couldn't take my eyes off him.
+  Er wendete und fuhr den gleichen Weg zurück.
+  He turned around and drove back the way he had come.
+  Der Erfolg könnte sich schnell ins Gegenteil wenden.
+  This success could soon turn into quite the opposite.
 
 wenig /ˈveːnɪç/: little
 
@@ -391,7 +408,15 @@ Wesen /ˈveːzən/, das, Wesen: being, nature, character, system
 
 wesentlich /ˈveːzəntlɪç/: considerably, substantially
 
-Westen /ˈvɛstən/, der: west
+West /vɛst/, m, ohne Artikel: west
+  Wind aus West: west(erly) wind
+
+Westen /ˈvɛstən/, der, -s|uncountable: west
+  nach Westen fahren: to go west
+  im Westen des Landes: in the west of the country
+  der Wilde Westen: the Wild West
+  Er ist über die Mauer in den Westen geflüchtet.
+  He fled across the Wall to the West.
 
 Wettbewerb /ˈvɛtbəvɛrp/, der, -e: competition
   an einem Wettbewerb teilnehmen: to take part in a competition
@@ -501,7 +526,9 @@ willkommen /vɪlˈkɔmən/: welcome
   Sie sind mir jederzeit willkommen!
   You are always welcome!
 
-Wind /vɪnt/, der: wind
+Wind /vɪnt/, der, -(e)s|-e: wind
+  Draußen weht ein frischer Wind.
+  A fresh wind is blowing outside.
 
 Windel /ˈvɪndəl/, die, -n: diaper
   einem Baby die Windel wechseln: to change a baby's diaper
@@ -689,7 +716,11 @@ Wurst /vʊrst/, die, Würste: saussage
 Würstchen /ˈvyrstçən/, das, -: frankfurter
   heiße Würstchen mit Senf: hot frankfurters with mustard
 
-Wurzel /ˈvʊrʦəl/, die: root
+Wurzel /ˈvʊrʦəl/, die, ~|-n: root
+  Unkraut mit den Wurzeln ausreißen: to pull up weeds by the roots
+  Wurzel fassen / Wurzeln schlagen: to take root
+  Wie konnte der Baum auf dem Felsen Wurzel fassen?
+  How could that tree take root on the cliff?
 
 wusch /vuːʃ/ => waschen
 
@@ -698,9 +729,11 @@ wusste => wissen
 ▲Wüste /ˈvyːstə/, die, Wüsten: desert
   Nomaden, die in der Wüste leben: nomads who live in the desert 
 
-Wut /vuːt/, die, -: starkes Gefühl des Ärgers, rage, fury
+Wut /vuːt/, die, ~|uncountable: starkes Gefühl des Ärgers, rage, fury, mania
   Da packte ihn die Wut und er schrie sie an.
   He flew into a rage and shouted at her.
+  In ihrer Aufräumwut hat sie auch wichtige Papiere weggeworfen.
+  Her mania for tidying up led her to also throw away some important papers.
 
 Wutanfall /ˈvuːt|anfal/, der, -(e)s|..e: fit of rage, tantrum
   In einem Wutanfall hat er ihre Briefe zerrissen.

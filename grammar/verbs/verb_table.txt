@@ -40,7 +40,13 @@ fahren
   Preterite: ich fuhr, du fuhrst, er fuhr, wir fuhren, ihr fuhrt
   Present Perfect: bin gefahren
   Imperative: du fahr/fahre, ihr fahrt
-  
+
+fallen
+  Present: ich falle, du fällst, er fällt, ihr fallt
+  Preterite: ich fiel, du fielst, er fiel, wir fielen, ihr fielt
+  Present Perfect: ich bin geffallen
+  Imperative: du fall/falle, ihr fallt
+
 finden
   Present: ich finde, du findest, er findet, ihr findet
   Preterite: ich fand, du fandest/fandst, er fand, ihr fandet
@@ -235,6 +241,12 @@ werden
   Preterite: ich wurde, du wurdest, er wurde, wie/Sie wurden, ihr wurdet
   Present Perfect: bin geworden
   Imperative: du werd, ihr werdet
+
+werfen
+  Present: ich werfe, du wirfst, er wirft, ihr werft
+  Preterite: ich warf, du warfst, er warf, wie/Sie warfen, ihr warft
+  Present Perfect: habe geworfen
+  Imperative: du wirf, ihr werft
 
 wissen
   Present: ich weiß, du weißt, er weißt, ihr wisst

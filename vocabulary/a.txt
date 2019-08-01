@@ -573,6 +573,8 @@ als /als/: when, than, only, as if, as
   He acted as if he hadn’t heard me.
   als Lehrer arbeiten: to work as a teacher
 
+als ob: as if
+
 also /ˈalzo/: therefore, so, well
   Ich denke, also bin ich.
   I think, therefore I am.
@@ -680,10 +682,14 @@ anderenfalls /ˈandərənfals/: otherwise
 ändern /ˈɛndɐn/: to change
   Kann ich meine Bestellung noch ändern?
   Is it still possible for me to change my order?
+  Der ändert sich nie!
+  He'll never change!
 
 anders /ˈandɐs/: differently, else
   Wir machen das so und nicht anders.
   That's how we're doing it – and no differently.
+  anders werden: to change
+  es sich anders überlegen: to change your mind
   Der Schrank hat nirgendwo anders Platz.
   There's no room for the closet anywhere else.
   ich kann nicht anders: I cannot do otherwise
@@ -721,6 +727,8 @@ anfänglich /ˈanfɛŋlɪç/: initial, initially
   His initial enthusiasm soon disappeared.
 
 *Anfangsbuchstabe, der, -n|-n: first letter
+
+anfauchen: (cat) to spit at, to snap at
 
 anfertigen /ˈanfɛrtɪɡən/: to make, to manufacture
   eine Skizze von einem Gebäude anfertigen: to make a sketch of a building
@@ -830,7 +838,16 @@ Angst /aŋst/, die, ~|..e: fear, worry
   jdm Angst machen: to frighten sb
 
 angst
-  jd hat/bekommt Angst: sb is/gets scared (stiff)
+  jd hat / bekommt Angst: sb is/gets scared (stiff)
+
+ängstigen /ˈɛŋstɪɡən/: to frighten
+  eine Vorstellung, die viele Bürger ängstigt: a scenario that scares many citizens
+  sich (um jdn / etw.) ängstigen: to be worried (about sb/sth)
+  Er ängstigt sich um seine kranke Mutter.
+  He's worried about his sick mother.
+  sich (vor jdm / etw.) ängstigen: to be afraid (of sb/sth)
+  Sie ängstigte sich vor der Operation.
+  She was afraid of the operation.
 
 Anhänger /ˈanhɛŋɐ/, der: trailer, pendant, follower
   <=> Gegner
@@ -933,7 +950,9 @@ anrufen /ˈanruːfən/: to call, to phone
   Hat jemand für mich angerufen?
   Did anyone call?
 
-Ansammlung /ˈanzamlʊŋ/, die: collection, crowd, gathering
+Ansammlung /ˈanzamlʊŋ/, die, ~|-en: collection, crowd, gathering
+  eine Ansammlung von Schätzen: a collection of treasures
+  eine Ansammlung von Demonstranten / Schaulustigen: a crowd of demonstrators/onlookers
 
 anschauen: ansehen
 
@@ -984,6 +1003,8 @@ anspruchsvoll /ˈanʃprʊxsfɔl/: sophisticated, demanding, challenging
   anspruchsvolle Literatur: high-quality literature
 
 anstarren /ˈanʃtarən/: to stare at
+  Sie starrte ihn voller Verwunderung an.
+  She gazed at him in amazement.
 
 anstellen /ˈanʃtɛlən/: to hire, to employ, to engage
   5 neue Mitarbeiter anstellen: to hire 5 new employees
@@ -1060,7 +1081,7 @@ anwesend /ˈanveːzənt/: present
   I wasn't at the class in which it was discussed.
 
 anwurzeln
-  wie angewurzelt dastehen/stehen bleiben: to stand rooted to the spot
+  wie angewurzelt dastehen / stehen bleiben: to stand rooted to the spot
 
 Anzahl /ˈanʦaːl/, die, ~|uncountable: number
   Eine gewisse Anzahl von Fehlern kann toleriert werden.
@@ -1153,6 +1174,10 @@ arm /arm/: poor
   eine Ernährung, die arm an Vitaminen ist: a diet that is low in vitamins
 
 Arme /ˈarmə/, -n: poor person
+
+Ärmel /ˈɛrməl/, der, -s|~: sleeve
+  ein Hemd mit kurzen / langen Ärmeln
+  a short-sleeved/long-sleeved shirt
 
 Armer: pauper
 
@@ -1326,6 +1351,8 @@ aufgehen: to rise, to open, to work, sb realizes sth
 aufgeregt /ˈaufɡəreːkt/: excited, nervous
   vor einer Prüfung sehr aufgeregt sein
   to be very nervous before an exam
+  Die Kinder erzählten ihr aufgeregt von ihrem Fund.
+  The children told her excitedly about what they had found.
 
 aufhalten /ˈaufhaltən/: to hold up, to stop, to detain
 
@@ -1440,6 +1467,13 @@ Aufsatz /ˈaufzaʦ/, der, ..e: essay, paper
   Wir müssen einen Aufsatz über unser schönstes Ferienerlebnis schreiben.
   We have to write an essay about the nicest thing that happened to us on vacation.
 
+aufschauen /ˈaufʃauən/: to look up
+  Sie schaute von ihrem Buch auf.
+  She looked up from her book.
+  zu jdm aufschauen: to look up to sb
+  Er schaut zu seinem Bruder als Vorbild auf.
+  He looks up to his brother as a role model.
+
 aufschlagen /ˈaufʃlaːɡən/: to open, to add, to hit
   Ich hielt sie für tot, bis sie die Augen aufschlug.
   I thought she was dead till she opened her eyes.
@@ -1464,7 +1498,7 @@ auftauchen /ˈauftauxən/: to appear, to surface, to arise, to come up, to surfa
   Aus dem Nebel tauchten die Umrisse eines Hauses auf.
   The contours of a house materialized out of the fog.
 
-Auftrag /ˈauftraːk/, der, Aufträge /ˈauftrɛːɡə/: task, job, order, contract
+Auftrag /ˈauftraːk/, der, -(e)s|..e /ˈauftrɛːɡə/: task, job, order, contract
   Er bekam von seiner Mutter den Auftrag, Brot einzukaufen.
   His mother gave him the task of buying bread.
   Er handelte im Auftrag der Regierung.

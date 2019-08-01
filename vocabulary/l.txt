@@ -200,8 +200,8 @@ Laufzeit /ˈlaufʦait/, die, -en: period, term, time, (operational) life
 läuft => laufen
   Nun läuft die Hochzeit des Jahres
 
-Laune /ˈlaunə/, die: mood
-  Er hat heute gute/schlechte Laune.
+Laune /ˈlaunə/, die, ~|-n: mood
+  Er hat heute gute / schlechte Laune.
   He's in a good/bad mood today.
 
 lauschen /ˈlauʃən/: to eavesdrop, to listen
@@ -382,7 +382,7 @@ Leiter, der: ladder, conductor
   Kupfer ist ein guter Leiter.
   Copper is a good conductor.
 
-Lenkrad /ˈlɛŋkraːt/, das, Lenkräder /ˈlɛŋkrɛːdɐ/: steering wheel
+Lenkrad /ˈlɛŋkraːt/, das, -(e)s|..er /ˈlɛŋkrɛːdɐ/: steering wheel
   Wer saß bei dem Unfall am/hinter dem Lenkrad?
   Who was at the wheel when the accident happened?
 

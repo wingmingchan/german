@@ -108,7 +108,7 @@ Eis /ais/: die
   
 Eiscreme /ˈaiskreːm/, die: ice cream
 
-Erbse /ˈɛrpsə/, die, Erbsen: pea
+Erbse /ˈɛrpsə/, die, ~|-n: pea
 
 Erdbeere /ˈeːɐtbeːrə/, die: strawberry
 
@@ -214,7 +214,7 @@ Kalbfleisch: veal
 Karaffe /kaˈrafə/, die: carafe
   eine Karaffe Wein: a carafe of wine
 
-Karotte /kaˈrɔtə/, die: carrot
+Karotte /kaˈrɔtə/, die, ~|-n: carrot
 
 Karte
   Darf ich bitte die Karte sehen?
@@ -241,6 +241,8 @@ Korn, das: corn, grain
 köstlich /ˈkœstlɪç/
   Die Suppe ist einfach köstlich!
   This soup is just delicious!
+
+Krapfen /ˈkrapfən/, der, -s|~: jelly doughnut
 
 Kreditkarte /kreˈdiːtkartə/, die: credit card
   Bezahlen Sie bar oder mit Kreditkarte?
@@ -292,6 +294,8 @@ Messer, das: knife
 Milch, die: milk
 
 Milchreis, der: rice pudding
+
+Möhre /ˈmøːrə/: ~|-n: carrot
 
 Müsli /ˈmyːsli/, das: muesli
 

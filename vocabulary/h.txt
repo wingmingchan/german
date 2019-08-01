@@ -194,6 +194,10 @@ hässlich /ˈhɛslɪç/: ugly
   Ich habe hässliche Dinge zu ihm gesagt.
   I said mean things to him.
 
+hastig /ˈhastɪç/: hasty
+  Bitte machen Sie keine hastigen Bewegungen!
+  Please don't make any hasty movements.
+
 hauen /ˈhauən/: to hit, to beat, to fight
   mit der Faust auf den Tisch hauen: to bang your fist on the table 
 
@@ -422,6 +426,8 @@ herauslesen /heˈrausleːzən/: to gather (from), to discern
   I gathered from his letter that he didn't like it there.
 
 herausputzen: to dress up
+  jemanden herausputzen: to dress sb up
+  herausputzen Zimmer, Haus usw.
 
 herb /hɛrp/, bitter, sour, dry
   Der Wein ist ein wenig herb.
@@ -525,7 +531,7 @@ hierher: here
 
 hierzu /ˈhiːɐˈʦuː, hiːɐˈʦuː/: for this, with this, in addition to this, about this
 
-hießt => heißen
+hieß, hießt => heißen
 
 Hilfe /ˈhɪlfə/, die: help
   ärztliche Hilfe benötigen: to need medical assistance
@@ -597,6 +603,10 @@ hingehen /ˈhɪnɡeːən/: to go there
   Many months passed before he returned.
 
 hinken /ˈhɪŋkən/: to limp
+
+hinschauen /ˈhɪnʃauən/: to look
+
+hinsehen /ˈhɪnzeːən/: hinschauen
 
 hinter /ˈhɪntɐ/: behind
 

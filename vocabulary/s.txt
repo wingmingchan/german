@@ -190,6 +190,13 @@ Schatten /ˈʃatən/, der: shadow, shade
   He followed me like a shadow.
   im Schatten sitzen: to sit in the shade
 
+Schatz /ʃaʦ/, der, -es|..e: treasure
+  einen Schatz finden / heben: to find/dig up some treasure
+  einen großen Schatz an schönen Erinnerungen haben
+  to have a great wealth of happy memories
+  Komm mal her, mein Schatz / Schätzchen!
+  Come here, my darling!
+
 schätzen /ˈʃɛʦən/: cherish, count, estimate, make, prize, treasure, value
   Die Feuerwehr schätzt den Sachschaden auf 100.000 Euro.
   The fire department estimates the damage to property to amount to 100,000 euros.
@@ -206,6 +213,10 @@ Schätzung /ˈʃɛʦʊŋ/, die, -en: estimate
   => Berechnung
 
 schaudern /ˈʃaudɐn/: to shiver
+  Sie schauderte in ihrem nassen T-Shirt.
+  She shivered in her wet t-shirt.
+  Mich / Mir schaudert (es) bei dem Gedanken, dass manche Völker Insekten essen.
+  It makes me shudder to think that lots of people eat insects.
 
 schaufeln /ˈʃaufəln/: to shovel
   viel Geld von einem Konto auf ein anderes schaufeln
@@ -246,8 +257,6 @@ scheinen /ˈʃainən/: to shine, to seem
   The light was shining in my face.
   Das scheint mir keine gute Idee zu sein.
   That doesn't seem a very good idea to me.
-
-Schreiner /ˈʃrainɐ/, Schreinerin: carpenter
 
 Scheitel /ˈʃaitəl/, der, -: part, apex, vertex
   einen Mittelscheitel haben: to have a center part
@@ -407,7 +416,9 @@ Schliere /ˈʃliːrə/, die: smear
 schlimm: bad, nasty
   Das ist schlimm.
 
-Schlingel /ˈʃlɪŋəl/, der: brat, scoundrel, rogue
+Schlingel /ˈʃlɪŋəl/, der, -s|~: brat, scoundrel, rogue
+  Dieser Schlingel hat auf alle Klingelknöpfe gedrückt.
+  That rascal rang all the doorbells.
 
 schlingen /ˈʃlɪŋən/: to wrap, to tie, to coil itself, to scoff
   das Seil um das Geländer schlingen: to tie the rope around the railing
@@ -484,7 +495,7 @@ Schmuck /ʃmʊk/, der, |uncountable: jewelry
 schmücken /ˈʃmʏkən/: to decorate, to adorn
   den Tisch mit Blumen schmücken: to decorate the table with flowers
 
-Schmutz /ʃmʊʦ/, der: dirt
+Schmutz /ʃmʊʦ/, der, -es|uncountable: dirt
 
 schmutzig /ˈʃmʊʦɪç/: dirty
   Macht euch vor dem Essen nicht mehr schmutzig!
@@ -495,10 +506,24 @@ schmutzig /ˈʃmʊʦɪç/: dirty
 
 Schnabel /ˈʃnaːbəl/, der: beak, bill
 
-schnappen /ˈʃnapən/: to snap, to grab
+schnappen /ˈʃnapən/: to snap, to grab, to catch
+  Der Hund schnappte nach der Wurst / nach mir.
+  The dog snapped at the sausage/me.
+  Die Schlange schnappte die Maus.
+  The snake grabbed the mouse.
+  Schnapp dir einen Pulli und dann lass uns gehen.
+  Grab a sweater and then let's go.
+  nach Luft schnappen: to gasp for breath
+  frische Luft schnappen: to get some fresh air
+  Die Polizei wird ihn schon schnappen.
+  The police will catch him.
 
-Schnecke /ˈʃnɛkə/, die, Schnecken
+Schnecke /ˈʃnɛkə/, die, ~|-n: snail, slug
+  Gehäuseschnecke: snail
   jdn zur Schnecke machen: to bawl sb out
+  Schnecken essen: to eat snails
+  Mohnschnecke: poppyseed Danish
+  in der Disco Schnecken angraben: to hit on some chicks in the disco
 
 Schnee /ˈʃneː/, der: snow
   Wir mussten uns einen Weg durch den tiefen /tiːf/ Schnee bahnen.
@@ -569,6 +594,8 @@ Schreibwaren /ˈʃraipvaːrən/, pl.: stationary
 schreien /ˈʃraiən/: to scream, to shout
   Sie schrie vor Schmerzen.
   She screamed with pain.
+
+Schreiner /ˈʃrainɐ/, Schreinerin: carpenter
 
 schreiten /ˈʃraitən/: to stride, to walk
   gemessenen Schrittes über den roten Teppich schreiten
@@ -974,10 +1001,19 @@ sieh, siehe, sieht => sehen
 
 singen /ˈzɪŋən/: to sing
 
-Sinn /zɪn/, der: meaning, mind
+Sinn /zɪn/, der: sense, meaning, mind
+  einen guten Orientierungssinn haben: to have a good sense of direction
+  (nicht) bei Sinnen sein: (not) to be in your right mind
+  wie / völlig von Sinnen sein: to be completely out of your mind
+  viel, wenig, keinen Sinn für Humor / Musik haben
+  to have a great/little/no sense of humor/music
+  Dieser Satz ergibt keinen Sinn.
+  This sentence doesn't make sense.
   Seine Worte gingen mir nicht aus dem Sinn.
   I couldn't get his words out of my mind.
   etw. im Sinn haben: to have sth in mind
+
+Sinnestäuschung, die: hallucination
 
 Sitte /ˈzɪtə/, die, ~|-n: custom, tradition
   Bei uns ist es Sitte, dass man dem Gastgeber ein Geschenk mitbringt.
@@ -1006,7 +1042,9 @@ skurril /skuˈriːl/: absurd
   Ich finde die Idee schon ein wenig skurril.
   I think the idea's pretty absurd.
 
-smaragdgrün: emerald
+Smaragd /smaˈrakt/, der, -(e)s|-e: emerald
+
+smaragdgrün: emerald (green)
 
 sobald /zoˈbalt/: as soon as
   Sobald er anruft, gebe ich Ihnen Bescheid.
@@ -1342,6 +1380,10 @@ stärken /ˈʃtɛrkən/: to strengthen, to improve
   Wir sollten uns erst noch stärken, bevor wir weitergehen.
   We should have some refreshments before we go any further.
 
+starren /ˈʃtarən/: to stare
+  gebannt auf den Bildschirm starren: to be riveted to the screen
+  vor Dreck / Schmutz starren: to be absolutely filthy
+
 starten /ˈʃtartən/: to start
   Das Spiel startet in wenigen Minuten.
   The play starts in a few minutes.
@@ -1631,10 +1673,17 @@ Streich /ʃtraiç/, der, -e: trick, blow, stroke
 streicheln /ˈʃtraiçəln/: to stroke
   den Hund streicheln: to stroke the dog 
 
-streichen /ˈʃtraiçən/: to paint, to spread, to delete, to cut, to cancel
+streichen /ˈʃtraiçən/: to paint, to spread, to delete, to cut, to cancel, to push
   die Wände weiß streichen: to paint the walls white
-  die Wände weiß streichen: to paint the walls white
-  Butter/Marmelade aufs Brot streichen: to spread butter/jelly on the bread
+  Butter / Marmelade aufs Brot streichen: to spread butter/jelly on the bread
+  einen Namen von einer Liste streichen: to cross a name off a list
+  Wenn das noch mal vorkommt, streiche ich dir das Taschengeld!
+  If this happens again I'm going to cut your allowance!
+  sich [ dative ] die Haare aus dem Gesicht streichen
+  to push your hair out of your face
+  durch / über etw. streichen [ accusative ]: to stroke sth
+  Sie strich dem Kind zärtlich durchs Haar.
+  She tenderly stroked the child's hair.
 
 Streifen /ˈʃtraifən/, der: stripe
   Zebras haben schwarze Streifen.
@@ -1665,6 +1714,8 @@ streng /ʃtrɛŋ/: strict, harsh, severe
   We expect the regulations to be strictly adhered to.
 
 streuen /ˈʃtrɔyən/: to scatter, to spread
+
+strich /ʃtrɪç/ => streichen
 
 Strohhalm /ˈʃtroːhalm/: straw
   Plastikstrohhalme
@@ -1732,7 +1783,17 @@ Sturm /ʃtʊrm/, der: storm
   Ein Sturm kam auf.
   A storm blew up.
 
-stürmen /ˈʃtʏrmən/: to storm
+stürmen /ˈʃtʏrmən/: to storm, to rush, to attack, to throng onto/into
+  es stürmt: it's blowing a gale
+  Es hat die ganze Nacht gestürmt und geschneit.
+  It was blowing a gale and snowing all night.
+  Sie stürmte wütend aus dem Haus.
+  She stormed angrily out of the house.
+  Und jetzt wird wieder gestürmt.
+  And now they're on the attack again.
+  eine Festung stürmen: to storm a fortress
+  Das Publikum stürmte die Bühne.
+  The audience thronged onto the stage.
 
 stürzen /ˈʃtʏrʦən/: to fall, to drop, to rush, to throw, to bring down, to overthrow
   mit dem/vom Fahrrad stürzen: to fall off your bike
@@ -1757,6 +1818,9 @@ Subkontinent /ˈzʊpkɔntinɛnt/, der, -e: subcontinent
 
 ▲suchen /ˈzuːxən/: to look for
   Herr Meier sucht ein Zimmer.
+
+Süd /zyːt/, m, ohne Artikel: south
+  Wind aus Süd: south wind
 
 Süden /ˈzyːdən/, der: south
 

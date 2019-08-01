@@ -400,9 +400,11 @@ Knochen /ˈknɔxən/, der: bone
   sich bis auf die Knochen blamieren: to make a total fool of yourself
   Irans Reaktion auf den Vertragsbruch der USA blamiert Trump bis auf die Knochen
 
-Knopf /knɔpf/, der: button, knob
+Knopf /knɔpf/, der, -(e)s|..e: button, knob
   den obersten Hemdknopf offen lassen: to leave your top shirt button undone
   den richtigen Knopf drücken: to press the right button
+  Dieser Schlingel hat auf alle Klingelknöpfe gedrückt.
+  That rascal rang all the doorbells.
 
 Koalition /ko|aliˈʦjoːn/, die: coalition
   große Koalition: Koalition zwischen den größten Parteien
@@ -675,7 +677,7 @@ kränkeln /ˈkrɛnkəln/: to be not too well, to be sickly
 
 Krankenhaus /ˈkraŋkənhaus/, das, -es|..er: hospital
 
-Krapfen /ˈkrapfən/, der: jelly doughnut
+Krapfen /ˈkrapfən/, der, -s|~: jelly doughnut
 
 Kauz /kauʦ/, der, -es|..e: screech owl, eccentric fellow, rare bird
   Im Wald ruft ein Kauz.
@@ -798,7 +800,7 @@ Kundgebung /ˈkʊntɡeːbʊŋ/, die, ~|-en: rally
   Im Anschluss an die Demonstration findet eine Kundgebung statt.
   After the demonstration there's going to be a rally.
 
-kündigen /ˈkʏndɪɡən/: to cancel, to terminate, to give notice
+kündigen /ˈkʏndɪɡən/: to cancel, to terminate, to give notice, to quit
   Hast du das Abo schon gekündigt?
   Have you canceled the subscription yet?
   fristgerecht kündigen: to give proper notice

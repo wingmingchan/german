@@ -626,6 +626,7 @@ geraten /ɡəˈraːtən/: to come/get/run into , to hit, to get
   How on earth did she come across that guy?
   Sie gerät leicht in Wut.
   She's quick to get angry.
+  außer sich geraten (vor etw dative ): to be beside oneself (with sth)
 
 geräuschvoll /ɡəˈrɔyʃfɔl/: noisy
   geräuschvolles Atmen / Kauen: noisy breathing/chewing
@@ -641,6 +642,8 @@ Gericht /ɡəˈrɪçt/, das, -e: court, bench
 Gericht, das, -(e)s|-e: dish, meal
   Warme Gerichte servieren wir ab 18 Uhr.
   We serve hot meals from 6 p.m.
+
+geriet => geraten
 
 gering /ɡəˈrɪŋ/: low, small
   eine geringe Anzahl von Bewerbern: a small number of applicants
@@ -772,6 +775,10 @@ Gespräch /ɡəˈʃprɛːç/, das, -e: conversation
   to have a conversation with sb about private matters
 
 Gestalt /ɡəˈʃtalt/, die, ~|-en: form, shape, figure, character
+  Unsere Erde hat die Gestalt einer Kugel.
+  Our earth has the form of a sphere.
+  ein Mann von gedrungener Gestalt: a man with a stocky figure
+  Märchengestalten: fairy-tale characters
   Am Bahnhof lungerten dunkle Gestalten herum.
   There were shady characters hanging around the station.
 
@@ -809,6 +816,10 @@ Gesundheit /ɡəˈzʊnthait/, die: health
 getigert /ɡeˈtiːɡɐt/: striped
 
 Getränk /ɡəˈtrɛŋk/, das, -e: beverage, drink
+
+gewählt /ɡəˈvɛːlt/: refined, elegant, select, in a refined manner, elegantly
+  => wählen
+  sich gewählt ausdrücken: to express yourself elegantly
 
 Gewähr /ɡəˈvɛːɐ/, die, ~|uncountable: guarantee, liability
   Alle Angaben ohne Gewähr!

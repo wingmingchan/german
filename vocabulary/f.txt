@@ -281,7 +281,7 @@ Fell /fɛl/, das, -e: fur, coat, skin
   einer Katze über das Fell streicheln: to stroke a cat's coat
   Fellhandschuhe: fur gloves
 
-Felsen /ˈfɛlzən/, der, -: rock
+Felsen /ˈfɛlzən/, der, -s|~: rock
   Auf einem Felsen am Strand saß eine Möwe.
   There was a seagull sitting on a rock at the beach.
 
@@ -332,8 +332,16 @@ Festnahme /ˈfɛstnaːmə/, die: arrest
   Since his arrest he's been in custody awaiting trial in Cologne.
 
 festsitzen: stick, adhere, be stuck
+  Wir saßen in Italien fest.
+  We were stuck in Italy.
 
 feststellen /ˈfɛstʃtɛlən/: to determine, to find out, to tell, to state
+  Welche Todesursache hat der Arzt festgestellt?
+  What cause of death did the doctor determine?
+
+Festung /ˈfɛstʊŋ/, die, ~|-en: fortress, stronghold
+  Die Festung war uneinnehmbar.
+  The fortress was unassailable.
 
 Fett /fɛt/, das, -e: fat, grease
   das Fett von der Suppe abschöpfen: to skim the fat off the soup
@@ -806,6 +814,9 @@ führen /ˈfyːrən/: to take, to lead, to show, to bring, to run, to keep, to c
   They were three-nil up at half-time.
   etw. mit sich führen: to have sth with/on you
   Gepäck / Waffen mit sich führen: to have baggage with you/weapons on you
+  Er führte mehrere wichtige Telefongespräche: He made several important telephone calls
+
+führte => führen
 
 Führung: leadership
 
@@ -820,11 +831,22 @@ füllen /ˈfʏlən/: to fill
 
 Füller, der, -: fountain pen
 
+Fund /fʊnt/, der, -(e)s|-e: finding
+  archäologische Funde ausstellen: to exhibit archeological findings
+  Die Zeitungen berichteten über den grausigen Fund eines Massengrabs.
+  The newspapers had reports on the grim discovery of a mass grave.
+
 Fünftel: fifth
 
 Funke /ˈfʊŋkə/, die: spark
   Bei dieser Dürre genügt ein Funke, um einen Waldbrand auszulösen.
   In this drought one spark is enough to cause a forest fire.
+
+funkeln /ˈfʊŋkəln/: to sparkle, to glitter
+  Ihre Augen funkelten vor Begeisterung / Wut.
+  Her eyes sparkled with excitement/blazed with rage.
+
+funkelnd: glittering
 
 funken /ˈfʊnkən/: to radio
   einen Notruf funken: to send out an SOS

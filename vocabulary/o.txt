@@ -73,7 +73,9 @@ offen /ˈɔfən/: open, openly
   The zoo is open till 7 pm.
 
 offenbar /ˈɔfənbaːɐ/: obvious
-  eine offenbare Lüge: an obvious lie 
+  eine offenbare Lüge: an obvious lie
+  Offenbar glaubt er ihr nicht.
+  He obviously doesn't believe her.
 
 öffentlich /ˈœfəntlɪç/: public
   eine öffentliche Bibliothek: a public library
@@ -137,6 +139,14 @@ Opa /ˈoːpa/, der: grandpa
   Aus dem Weg, Opa!
   Out of the way, grandpa!
 
+Operation /opəraˈʦjoːn/, die, ~|-en: operation
+  eine Operation in Vollnarkose / bei örtlicher Betäubung
+  an operation under general/local anesthetic
+  Wer leitet die Operation?
+  Who is in charge of the operation?
+  Wie viele Operationen schafft der Computer pro Sekunde?
+  How many operations can the computer carry out per second?
+
 Opfer /ˈɔpfɐ/, das: victim
   ein leichtes Opfer für Betrüger sein: to be an easy victim for swindlers
 
@@ -185,7 +195,13 @@ I was not aware of the details.
 Ort /ɔrt/, der, Orte: place
   etw. an einem geheimen Ort verstecken: to hide sth somewhere secret
 
-Osten /ˈɔstən/, der: east
+Ost /ɔst/, ohne Artikel: east
+  Wind aus Ost: easterly wind
+
+Osten /ˈɔstən/, der, -s|uncountable: east
+  nach Osten fahren: to travel east
+  im Osten Deutschlands: in eastern/the east of Germany
+  der Ferne / Mittlere / Nahe Osten: The Far/Middle/Near East
 
 Ostern /ˈoːstɐn/, das, -: Easter
   An / Zu Ostern suchen wir Ostereier.

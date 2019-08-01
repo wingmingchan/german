@@ -26,7 +26,7 @@ U /uː/ U wie Ulrich, Ü wie Übermut
   Das Werk bietet einen Überblick über den Stand der Forschung.
   The work presents an overview of current research.
 
-überfallen /yːbɐˈfalən/: to attack, to raid
+überfallen /yːbɐˈfalən/: to attack, to raid, to assault, to hijack, to mug
   Sie wurde auf dem Heimweg überfallen.
   She was attacked on her way home.
 
@@ -59,6 +59,10 @@ U /uː/ U wie Ulrich, Ü wie Übermut
 
 überhaupt /yːbɐˈhaupt/: in general, of all, anyhow, anyway, at all, actually
   überhaupt keine Fehler machen: to make no mistakes at all
+
+überkommen /yːbɐˈkɔmən/: to come over
+  Furcht usw. überkam ihn
+  he was overcome with fear etc
 
 überlassen /yːbɐˈlasən/: to leave to, to let have, to leave up to
   Ich muss gleich weg. Kann ich dir den Abwasch überlassen?
@@ -283,7 +287,9 @@ umgekehrt /ˈʊmɡəkeːɐt/: opposite, reverse, the other way around
   It's just the opposite. He cheated on her, not her on him.
   und / oder umgekehrt: and/or vice versa
 
-Umhang /ˈʊmhaŋ/, der, Umhänge /ˈʊmhɛŋə/: cape, cloak
+Umhang /ˈʊmhaŋ/, der, -(e)s|..e /ˈʊmhɛŋə/: cape, cloak
+
+umkreisen /ʊmˈkraizn/: to circle (around), to orbit
 
 umliegende /ˈʊmliːɡəndə/: surrounding
 
@@ -324,6 +330,8 @@ umstritten /ʊmˈʃtrɪtən/: controversial
 Umwelt /ˈʊmvɛlt/, die: environment
   Schadstoffe verschmutzen die Umwelt.
   Harmful substances pollute the environment.
+
+umwenden: to turn around
 
 umziehen /ˈʊmʦiːən/: to move
   Letztes Jahr sind wir von Hamburg nach Berlin umgezogen.
@@ -401,7 +409,7 @@ ungeheuerlich: monstrous
 
 ungewiss /ˈʊnɡəvɪs/: uncertain
 
-ungewöhnlich: unusual
+ungewöhnlich /ˈʊnɡəvøːnlɪç/: unusual
 
 ungläubig /ˈʊnɡlɔybɪç/: disbelieving, incredulous, unbelieving
   ein ungläubiges Gesicht machen: to look incredulous
@@ -416,6 +424,9 @@ Uni => Universität
 Universität /univɛrziˈtɛːt/, die, ~|-en
 
 unklar /ˈʊnklaːɐ/: unclear
+
+Unkraut /ˈʊnkraut/, das, -(e)s, Arten: Unkräuter: weeds
+  Unkraut jäten: to do some weeding
 
 unmittelbar /ˈʊnmɪtəlbaːɐ/: immediate, direct, immediately, directly
   in der unmittelbaren Zukunft: in the immediate future

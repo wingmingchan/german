@@ -18,8 +18,11 @@ Rahmen /ˈraːmən/, Rahmen: frame, framework, context
 
 Rakete /raˈkeːtə/, die: rocket
 
-Rand /rant/, der, ..er: edge
+Rand /rant/, der, -(e)s|..er: edge
+  am Stadtrand
   jdn an den Rand drängen: to drive sb to the brink
+  Sie war am Rande der Verzweiflung.
+  She was on the verge of despair.
 
 randalieren /randaˈliːrən/: to rampage
 
@@ -526,6 +529,9 @@ Roulette /ruˈlɛt/, die, Roulettes
   Roulette spielen: to play roulette
 
 Ruck /rʊk/, der: jerk, jolt, tug
+  Sie riss sich mit einem kräftigen Ruck von ihm los.
+  She broke away from him with a powerful tug.
+  sich einen Ruck geben [ dative ]: to pull yourself together 回復鎮定
 
 Rücken /ˈrʏkən/, der, -s|~: back
   Er klopfte mir anerkennend auf den Rücken.

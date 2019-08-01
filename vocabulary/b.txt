@@ -282,7 +282,7 @@ begabt /bəˈɡaːpt/: talented, gifted
   Sie ist musikalisch begabt.
   She's gifted musically. 
 
-begegnen /bəˈɡeːɡnən/ [dative]: to meet, to confront, to face, to confront
+begegnen /bəˈɡeːɡnən/ [dative]: to meet, to confront, to face
   Ich bin ihm zum ersten Mal auf einer Party begegnet.
   I first met him at a party.
   jdm mit Misstrauen/Respekt begegnen: to treat sb with distrust/respect
@@ -311,7 +311,7 @@ begeistern /bəˈɡaistɐn/: to be enthusiastic about, to delight, to thrill, to
 
 begeistert /bəˈɡaistɐt/: enthusiastic, excited
 
-Begeisterung /bəˈɡaistərʊŋ/, die: enthusiasm
+Begeisterung /bəˈɡaistərʊŋ/, die, ~|uncountable: enthusiasm
   sich ohne Begeisterung an die Arbeit machen
   to set to work with no enthusiasm
 
@@ -382,6 +382,9 @@ behaupten /bəˈhauptən/: to claim, to contend, to maintain
 
 Behauptung /bəˈhauptʊŋ/, die: claim, assertion
   kühne Behauptungen aufstellen: to make bold claims 
+
+Behebung /bəˈheːbʊŋ/, die, ~|uncountable: rectification, correction
+  eine schnelle Behebung des Problems wünschen: to wish for a quick resolution of the problem
 
 beherrschen /bəˈhɛrʃən/: to master
   Beherrscht du die Vokabeln schon?
@@ -592,7 +595,7 @@ berauschend /bəˈrauʃənt/: intoxicating
 Bereich /bəˈraiç/, der: area
   ein verkehrsberuhigter Bereich: a traffic-calmed neighborhood
 
-berechnen /bəˈrɛçnən/: to calculate, to charge
+berechnen /bəˈrɛçnən/: to calculate, to charge, to bill
   Die Suppe ist für vier Portionen berechnet.
   The soup is meant to serve four.
   Den ersten Tag habe ich Ihnen nicht berechnet.
@@ -674,6 +677,8 @@ Berührung /bəˈryːrʊŋ/, die: touch, contact
   sanfte Berührungen: gentle touches
   mit Viren in Berührung kommen: to come into contact with viruses
 
+besann => besinnen
+
 besaßen => besitzen
 
 beschädigen /bəˈʃɛːdɪɡən/: to damage
@@ -739,6 +744,17 @@ besetzen /bəˈzɛʦən/: to fill, to reserve, to occupy
 Besichtigung /bəˈzɪçtɪɡʊŋ/, die, -en: tour, sightseeing, inspection, viewing
   eine Besichtigungstour durch die Stadt: a sightseeing trip through the city
   die Besichtigung eines Hauses, das zum Verkauf steht: viewing a house that is up for sale
+
+besinnen /bəˈzɪnən/
+  sich (jds / etw.) / (auf jdn / etw.) besinnen: to remember (sb/sth)
+  Ich kann mich im Moment nicht auf seinen Namen besinnen.
+  I can't remember his name right now.
+  sich anders / endlich / … besinnen: to change your mind / to come to your senses / …
+  Erst wollte sie kündigen, besann sich dann jedoch noch einmal.
+  First she wanted to quit, but then she thought better of it.
+  sich einen Moment / kurz / … besinnen: to reflect for a moment
+  Er besann sich einen Moment und schrieb dann weiter.
+  He reflected for a moment then continued writing.
 
 besitzen /bəˈzɪʦən/: to own
   habe besessen, besaß, besaßest
@@ -822,6 +838,14 @@ bestreiten /bəˈʃtraitən/: to deny, to dispute
 bestücken /bəˈʃtʏkən/: to equip, to load
   einen Füller mit Patronen bestücken: to equip a fountain pen with cartridges
 
+Betäubung /bəˈtɔybʊŋ/, die, ~|-en: anesthetic, stupefaction, daze                                            
+  Wirkt die Betäubung noch?
+  Is the anesthetic still working?
+  die Betäubung des Viehs vor dem Schlachten
+  stunning the cattle before they are slaughtered
+  Sie erwachte wieder aus der Betäubung, die sie nach seinem Tod empfunden hatte.
+  She awoke from the daze that she had been in since the death of her husband.
+
 Bete /ˈbeːtə/, die, Rote Bete: beet
   ein Glas eingelegte Rote Bete: a jar of pickled beet 
 
@@ -897,6 +921,10 @@ betteln /ˈbɛtəln/: to beg
 
 Bettler /ˈbɛtlɐ/: beggar
 
+beunruhigen /bəˈ|ʊnruːɪɡən/: to worry, to trouble, to bother
+  Die Nachricht scheint ihn nicht sonderlich zu beunruhigen.
+  The news doesn't seem to have worried him particularly.
+
 Beute /ˈbɔytə/, die, Beute: loot, booty, spoils, prey
   Kriegsbeute: spoils of war
   Der Löwe zerfleischt seine Beute.
@@ -949,6 +977,8 @@ Bewährung /bəˈvɛːrʊŋ/, die: probation, test of character
 Bewältigung /bəˈvɛltɪɡʊŋ/, die: coping (with), handling
   die Bewältigung einer Krise: coping with a crisis
 
+bewarf => bewerfen
+
 bewegen /bəˈveːɡən/: to move, to budge, to move forward
   Der Felsblock ließ sich nicht von der Stelle bewegen.
   The boulder couldn't be budged.
@@ -958,11 +988,13 @@ bewegen /bəˈveːɡən/: to move, to budge, to move forward
 Beweggrund /bəˈveːkɡrʊnt/, der: motive
   ein Mord aus niederen Beweggründen: murder for base motives
 
-Bewegung /bəˈveːɡʊŋ/, die: movement
+Bewegung /bəˈveːɡʊŋ/, die, ~|-en: movement
   in Bewegung: in motion
   Bewegung in etw. bringen: to get sth going/moving
 
 Bewerbungsmappe, die: application documents
+
+bewerfen: to throw at
 
 Bewegungsmelder /bəˈveːɡʊŋsmɛldɐ/, der, -: motion detector/sensor
   einen Bewegungsmelder am Garagentor anbringen: to fix a motion sensor to the garage door
@@ -1160,7 +1192,14 @@ bleiben /ˈblaibən/: to stay
 
 Bleistift /ˈblaiʃtɪft/, der, -e: pencil
 
-Blick /blɪk/, der: look, glance
+Blick /blɪk/, der, -(e)s|-e: look, glance, look, expression, eye, view
+  einen flüchtigen Blick ins Buch werfen: to have a quick glance at the book
+  auf den ersten Blick: at first glance
+  Er hatte einen durchdringenden Blick.
+  He had a piercing look in his eyes.
+  den Blick für das Wesentliche haben: to have an eye for what really matters
+  Von hier aus hat man einen guten Blick auf die Stadt.
+  There's a good view of the city from here.
 
 blicken /ˈblɪkən/: to look, to get
   aus dem Fenster blicken: to look out of the window
@@ -1359,7 +1398,8 @@ brechen /ˈbrɛçən/: to break
 
 brecht => brechen
 
-Brei /brai/, der, Breie: porridge, baby food
+Brei /brai/, der, -(e)s|-e: porridge, baby food
+  ein Baby mit Brei füttern: to feed baby food to a baby
 
 breit /brait/: wide, broad
 
@@ -1450,6 +1490,9 @@ Buchführung /ˈbuːxfyːrʊŋ/: accounting, bookkeeping
   für jdn die Buchführung machen: to do sb's accounts
 
 Buchhalter /ˈbuːxhaltɐ/: bookkeeper, accountant
+
+Buchse /ˈbʊksə/, die, ~|-n: jack
+  Kopfhörerbuchse: headphone jack
 
 Büchse /ˈbʏksə/, die, Büchsen: can
   eine Büchse Erbsen: a can of peas

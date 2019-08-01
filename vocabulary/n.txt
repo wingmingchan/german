@@ -249,9 +249,11 @@ nennen /ˈnɛnən/ to call (as a name)
   Du kannst mich gern Basti nennen.
   You can call me Basti.
 
-Nerv /nɛrf/, der, Nerven: nerve
+Nerv /nɛrf/, der, -s/-en|-en: nerve
   Die Schmerzen kommen von einem eingeklemmten Nerv.
   The pain is caused by a trapped nerve.
+  (leicht) die Nerven verlieren: to lose one's nerve easily
+  Der hat (vielleicht) Nerven! (informal) He's got a nerve! (inf)
 
 Nessel /ˈnɛsəl/, die, Nesseln: nettle 荨麻
 
@@ -319,13 +321,26 @@ nirgends /ˈnɪrɡənts/: nowhere
 
 nirgendwo /ˈnɪrɡəntˈvoː/: nowhere
 
+nirgendwoher /ˈnɪrɡəntvohɛɐ/: out of nowhere
+  Plötzlich stand er da und schien von nirgendwoher gekommen zu sein.
+  Suddenly, he was standing there as if he had appeared out of nowhere.
+
+nirgendwohin /ˈnɪrɡəntvohɪn/: nowhere
+  Ich fahre in den Ferien nirgendwohin, sondern bleibe zu Hause.
+  I'm not going anywhere on vacation, I'm staying at home.
+
 Niveau /niˈvoː/, das: level
 
 Nomen /ˈnoːmən/, das, -s|~ od Nomina: noun
   Nomen werden im Deutschen großgeschrieben.
   Nouns in German start with a capital.
 
+Nord /nɔrt/, ohne Artikel: north
+  Wind aus Nord: north wind
+
 Norden /ˈnɔrdən/, der: north
+  im Norden des Landes: in the north of the country
+  der hohe Norden: the far North
 
 Nordkoreas: North Korea
 
