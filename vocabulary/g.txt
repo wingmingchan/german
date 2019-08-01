@@ -268,6 +268,10 @@ Gefängnis /ɡəˈfɛŋnɪs/, das, -ses|-se: prison
   Auf Fahrerflucht steht Gefängnis.
   Hit-and-run drivers face prison.
 
+Gefäß /ɡəˈfɛːs/, das, -es|-e: vessel
+  das Wasser / Salz in ein Gefäß füllen
+  to put the water into a jar/the salt into a vessel
+
 Geflügel /ɡəˈflyːɡəl/, das, Geflügels: poultry
   Geflügel züchten: to breed poultry
 
@@ -308,6 +312,9 @@ Gegenstelle, die: remote terminal, distant end
 Gegenteil /ˈɡeːɡəntail/, das, -e: opposite
   „Schwer‟ ist das Gegenteil von „leicht‟.
   “Heavy” is the opposite of “light”.
+  (ganz) im Gegenteil: on the contrary (quite the opposite)
+  Ich bin nicht böse, im Gegenteil, ich freue mich für euch.
+  I'm not angry – on the contrary, I'm happy for you.
 
 gegenüber /ɡeːɡənˈ|yːbɐ/: opposite, compared to, in comparison with, toward(s)
   Die Post ist genau gegenüber dem Bäcker.
@@ -630,6 +637,12 @@ geraten /ɡəˈraːtən/: to come/get/run into , to hit, to get
 
 geräuschvoll /ɡəˈrɔyʃfɔl/: noisy
   geräuschvolles Atmen / Kauen: noisy breathing/chewing
+
+gereizt /ɡəˈraiʦt/: irritated, irritable, tetchy
+  Warum bist du heute so gereizt?
+  Why are you so irritable today?
+  „Lass mich in Ruhe!‟, fauchte sie gereizt.
+  “Leave me in peace!” she snarled testily.
 
 Gericht /ɡəˈrɪçt/, das, -e: court, bench
   jdn vor Gericht bringen: to take sb to court
@@ -1102,6 +1115,10 @@ Größe /ˈɡrøːsə/, die: size
 
 Grube /ˈɡruːbə/, die, -n: pit, hole
   eine Grube graben / ausheben: to dig a hole/pit
+
+grummeln /ˈɡrʊməln/: to grumble, to growl, to rumble
+  In meinem Bauch grummelt es. Ich glaube, ich habe das Essen nicht vertragen.
+  My stomach's growling. I don’t think the food agreed with me.
 
 grün /ɡryːn/: green
   grüner Salat: lettuce

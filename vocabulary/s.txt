@@ -902,8 +902,10 @@ Sektor /ˈzɛktoːɐ/, der, -s|-en: field, area, sector
 
 Sekunde /zeˈkʊndə/, die: second
 
-selbst /zɛlpst/: in person, self
+selbst /zɛlpst/: in person, self, even
   ich selbst: myself
+  Selbst wenn er wollte, könnte er das nicht tun.
+  Even if he wanted to, he couldn't do it.
 
 selbstständig /ˈzɛlpstʃtɛndɪç/: independent
   an selbstständiges Arbeiten gewöhnt sein: to be used to working independently
@@ -1583,7 +1585,17 @@ stinken /ˈʃtɪŋkən/: to stink
 Stirn /ʃtɪrn/, die, -en: forehead
   eine hohe Stirn haben: to have a high forehead
 
+stöbern /ˈʃtœːbɐn/: to browse
+
 Stollen /ˈʃtɔlən/, der, Stollen: tunnel
+
+stolpern /ˈʃtɔlpɐn/: to stumble, to trip
+  auf der Treppe stolpern: to trip on the stairs
+  über jdn / etw. stolpern: to come to grief over sb/sth, to stumble across sb/sth
+  Er ist über die Bestechungsaffäre gestolpert und zurückgetreten.
+  He came to grief over the bribery scandal and resigned.
+  Ich bin im Internet über einen interessanten Artikel gestolpert.
+  I stumbled across an interesting article on the internet.
 
 stolz /ʃtɔlʦ/: proud
   Sie ist stolze Besitzerin einer Jacht.
@@ -1592,8 +1604,6 @@ stolz /ʃtɔlʦ/: proud
 stopfen /ˈʃtɔpfən/: to stuff sth into sth
   Er stopfte das Geld hastig in seine Taschen.
   He stuffed the money hastily into his pockets.
-
-stöbern /ˈʃtœːbɐn/: to browse
 
 Store /ʃtoːɐ/, der, -s|-s: curtain, drape
   als Sichtschutz die Stores zuziehen: to pull the drapes for greater privacy

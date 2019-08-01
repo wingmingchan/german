@@ -149,6 +149,8 @@ rauschhaft: ecstatic, frenzied, repturous
 reagieren /reaˈɡiːrən/: to react, to respond
   Er reagierte nicht, als ich ihn ansprach.
   He didn't react when I spoke to him.
+  Kalk reagiert mit Säure zu Wasser und Kohlendioxid.
+  Calcium carbonate reacts with acid to make water and carbon dioxide.
 
 Reaktion /reakˈʦjoːn/, die: reaction
 
@@ -353,6 +355,13 @@ Reiz /raiʦ/, der, -es|-e: stimulus, appeal
   It's not possible to process so many sensory stimuli all at once.
   der Reiz des Verbotenen: the appeal of the forbidden
 
+reizen /ˈraiʦən/: to appeal to, to attract, to annoy, to provoke
+  Würde es dich nicht reizen, mitzufahren?
+  Aren't you tempted to go too?
+  gereizt reagieren: to react angrily
+  Vorsicht, das Putzmittel reizt die Haut!
+  Be careful, that cleaner can irritate your skin.
+
 reizend /ˈraiʦənt/: charming, delightful
 
 Relation /relaˈʦjoːn/, die, -en: relation
@@ -445,6 +454,14 @@ Rhythmus /ˈrʏtmʊs/, der, ~|Rhythmen: rhythm, beat
   Her heartbeat quickened up.
 
 richten /ˈrɪçtən/: to direct, to point, to turn
+  sich irgendwohin richten: to be directed somewhere
+  Alle Augen richteten sich auf mich.
+  All eyes were focused on me.
+  Kann ich eine Frage an Sie richten?
+  Can I ask you a question?
+  sich an jdn richten: to be directed at sb
+  An wen richtet sich der Aufruf?
+  Who is the appeal being aimed at?
 
 richtig /ˈrɪçtɪç/: right, correct
   <=> falsch

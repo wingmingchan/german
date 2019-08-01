@@ -42,6 +42,7 @@ Bahn /baːn/, die, -en: train, track, path
   mit der Bahn nach Berlin fahren: to take the train to Berlin
   Auf Bahn drei startet Johnson für die USA.
   In lane three it's Johnson, running for the USA.
+  etw. wirft jdn aus der Bahn: sth throws sb completely off track
 
 bahnen /ˈbaːnən/: to clear the way for sb to sth
 
@@ -231,6 +232,10 @@ beehren /bəˈ|eːrən/: to honor sb/sth with sth
   She actually did grace us with her presence.
   Beehren Sie uns bald wieder!
   Please come back and see us again soon.
+
+beeilen /bəˈ|ailən/: to hurry (up)
+  Beeil dich, sonst verpassen wir noch den Zug!
+  Hurry up or we'll miss the train!
 
 beeinflussen /bəˈ|ainflʊsən/: to influence
   Er lässt sich von seinen Freunden negativ beeinflussen.

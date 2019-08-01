@@ -84,7 +84,7 @@ Falle /ˈfalə/, die, Fallen: trap
   eine Falle aufstellen: to set a trap
   jdm eine Falle stellen: to set a trap for sb
 
-fallen /ˈfalən/: to fall
+fallen /ˈfalən/: to fall, to be
   falle, fällst, fällt, ihr fallt, bin gefallen
   fiel, fielst, fiel, fielen, ihr fielt
   Das Glas ist vom Tablett gefallen.
@@ -722,6 +722,12 @@ Freude /ˈfrɔydə/, die: joy, pleasure
   She gets a lot of pleasure out of her garden.
   die Freuden des Lebens/der Liebe: the joys of life/love
   jdm eine Freude machen: to give sb a treat, to brighten up sb's day
+
+freudig /ˈfrɔydɪç/: joyful, happy
+  Seine Geburt war ein freudiges Ereignis.
+  His birth was a happy event.
+  Sie reagierte mit einem freudigen Lächeln.
+  She reacted with a happy smile.
 
 freuen /ˈfrɔyən/: to be pleased, to look forward to
   Ich freue mich schon auf deinen Besuch.

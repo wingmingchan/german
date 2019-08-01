@@ -2,7 +2,7 @@
 V /fau/ V wie Viktor
 ========================================================
 
-Vase /ˈvaːzə/, die, Vasen: vase
+Vase /ˈvaːzə/, die, ~|-n: vase
   Sie stellte die Rosen in eine Vase.
   She put the roses in a vase. 
 
@@ -11,6 +11,11 @@ Vater /ˈfaːtɐ/, der, -s|..: father
   He's considered to be the father of the internet.
 
 Vati /ˈfaːti/, der: dad, pop
+
+Veilchen /ˈfailçən/, das, -s|~: violet, shiner 黑眼圈
+  ein Strauß Veilchen: a bunch of violets
+  Wer hat dir denn das Veilchen verpasst?
+  Who gave you that shiner?
 
 ver-: off, end of a state
 
@@ -386,6 +391,8 @@ verlieren /fɛɐˈliːrən/: to lose
   They lost everything in the war.
   Das letzte Spiel verloren sie 2:1.
   They lost their last match 2-1.
+
+verließ => verlassen
 
 verloren => verlieren
 
@@ -828,6 +835,10 @@ vierte /ˈfiːɐtə/: fourth
 
 △vierzig /ˈfɪrʦɪç/
 
+violett /vioˈlɛt/: purple
+  Veilchen sind violette Blumen.
+  Violets are purple flowers.
+
 Visum /ˈviːzʊm/, Visa /ˈviːza/, das: visa
   Für die Einreise nach Nepal benötigt man ein gültiges Visum.
   You need a valid visa to enter Nepal.
@@ -1078,7 +1089,7 @@ vorverlegen /ˈfoːɐfɛɐleːɡən/: to move/bring forward(s)
 
 vorwärts: forward(s)
 
-Vorwurf /ˈfoːɐvʊrf/, Vorwürfe, der: reproach, accusation
+Vorwurf /ˈfoːɐvʊrf/, der, -(e)s|..e: reproach, accusation
   jdm bittere Vorwürfe machen: to reproach sb bitterly
   Deine Vorwürfe entbehren jeglicher Grundlage.
   Your accusations are completely unfounded.
