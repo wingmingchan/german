@@ -175,6 +175,11 @@ Schalter /ˈʃaltɐ/, der, -: switch, counter
   Lichtschalter: light switch
   Bankschalter: bank counter
 
+schänden /ˈʃɛndən/: to desecrate, to violate, to discredit, to dishonor
+  Leichen schänden: to violate corpses
+  den guten Ruf der Familie schänden: to discredit the good reputation of the family
+  
+
 scharf /ʃarf/: sharp, strong, hot, spicy, rigorous, tough
   eine scharf geschliffene Klinge: a sharpened blade
   sich an einer scharfen Kante stoßen: to bang yourself on a sharp edge
@@ -862,11 +867,11 @@ seicht: shallow
 Seife /ˈzaifə/, die, -n: soap
   ein Stück Seife: a bar of soap
 
-Seil /zail/, das, -e: rope
+Seil /zail/, das, -(e)s|-e: rope
   Der Bergsteiger ließ sich an einem Seil in die Tiefe hinab.
   The climber lowered himself into the depths on a rope.
 
-Seilbahn /ˈzailbaːn/, die: cableway, aerial tramway
+Seilbahn /ˈzailbaːn/, die, ~|-en: cableway, aerial tramway
   mit der Seilbahn den Berg hinauffahren
   to go up the mountain on the cableway
 
@@ -978,6 +983,12 @@ Sicherheit /ˈzɪçɐhait/, die: safety, security, certainty
 Sicherung /ˈzɪçərʊŋ/, die: securing, saving , backing-up, fuse
 
 Sicherungskopie, die: backup
+
+sichten /ˈzɪçtən/: to sight, to look through
+  Am zehnten Tag sichteten sie eine Insel.
+  On the tenth day they sighted an island.
+  Haben Sie bereits die eingegangenen Angebote gesichtet?
+  Have you already looked through the offers received?
 
 Sichtschutz /ˈzɪçtʃʊts/, der, -es|uncountable: screen
   einen Zaun als Sichtschutz errichten: to put up a fence as a screen

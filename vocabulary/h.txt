@@ -39,7 +39,7 @@ haften /ˈhaftən/: to be liable (for), to be legally responsible (for), to clin
   Eltern haften nicht immer für ihre Kinder.
   Parents are not always responsible for their children's actions.
   Wegen der Salbe haftet das Pflaster nicht.
-  The bandage wouldn’t stick because of the cream.
+  The bandage wouldn't stick because of the cream.
   im Gedächtnis haften bleiben: to stick in your memory
   Auf nasser Straße haften die Reifen schlecht.
   The tires don't grip well in the wet.
@@ -644,6 +644,20 @@ hinüber /hɪˈnyːbɐ/: over
   Zu dem Zeitpunkt war ich schon zu hinüber, um vom Gespräch noch was mitzukriegen.
   At that point I was too tanked to pick up any of the conversation.
 
+Hinweg /ˈhɪnveːk/, der: way there
+  Auf dem Hinweg habe ich mich verfahren.
+  I got lost on the way there.
+
+hinweg /hɪnˈvɛk/:
+  über etw. hinweg [ accusative ]: over sth
+  Sie unterhielt sich mit den Nachbarn über den Zaun hinweg.
+  She was talking to the neighbors over the fence.
+  für die Dauer eines Zeitraums
+  Sie haben sich über Jahre hinweg nicht gesehen.
+  They didn't see each other for years.
+  Sie sind schon länger getrennt, aber er ist noch nicht über sie hinweg.
+  They've been separated for a while now but he's still not over her.
+
 Hinweis /ˈhɪnvaɪs/, der: information, clue, lead, evidence, indication
   Die Polizei bittet um Hinweise aus der Bevölkerung.
   The police are asking for information from the public.
@@ -700,7 +714,7 @@ Hoffnung /ˈhɔfnʊŋ/, die, ~|-en: hope
 
 hoffnungslos /ˈhɔfnʊŋsloːs/: hopeless, desperate
   Die Lage ist hoffnungslos.
-  The situation’s hopeless.
+  The situation's hopeless.
   Mein Leben ist so trist, ich fühle mich so hoffnungslos.
   My life's so empty – I feel so desperate.
 
@@ -739,7 +753,7 @@ holen /ˈhoːlən/: to get, to fetch
 
 Hölle /ˈhœlə/, die, ~|uncountable: hell
   in die Hölle kommen: to go to hell
-  jdm das Leben zur Hölle machen: to make sb’s life hell 
+  jdm das Leben zur Hölle machen: to make sb's life hell 
 
 Holunder /hoˈlʊndɐ/, der, -: elder(berry) 接骨木
 

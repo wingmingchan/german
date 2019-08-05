@@ -2,6 +2,9 @@
 V /fau/ V wie Viktor
 ========================================================
 
+Vagina /ˈvaːɡina/, die, ~|Vaginen
+  => Scheide
+
 Vase /ˈvaːzə/, die, ~|-n: vase
   Sie stellte die Rosen in eine Vase.
   She put the roses in a vase. 
@@ -250,6 +253,11 @@ verhalf => verhelfen
 Verhalten /fɛɐˈhaltən/, das: behavior
   Ich kann sein Verhalten nicht verstehen.
   I can't understand his behavior.
+  
+verhalten: to act, to behave, to be
+  sich ruhig verhalten: to keep quiet
+  Die Preise sind stark gestiegen. Ähnlich verhält es sich mit den Löhnen.
+  Prices have risen sharply. The same goes for wages.
 
 verhalten /fɛɐˈhaltən/: restrained, cautious, suppressed
   etw. mit verhaltenem Spott sagen: to say sth with quiet derision
@@ -752,6 +760,13 @@ Verwendung /fɛɐˈvɛndʊŋ/, die, -en: use
 
 Verwendungszweck, der: use, purpose
 
+verwirklichen /fɛɐˈvɪrklɪçən/: to realize
+  => realisieren
+  seine Ideen / Pläne verwirklichen: to realize your ideas/plans
+  Damit hat sich für uns ein Traum verwirklicht.
+  For us that was a dream come true.
+  sich in seiner Arbeit verwirklichen: to find fulfillment in your work
+
 verwirren /fɛɐˈvɪrən/: to confuse, to bewilder, to ruffle, to get tangled up
   Weißes Haus verwirrt
   Sein nächtlicher Anruf hat mich völlig verwirrt.
@@ -845,6 +860,8 @@ Visum /ˈviːzʊm/, Visa /ˈviːza/, das: visa
 
 Vogel /ˈfoːɡəl/, der, -s|..: bird
   im Winter die Vögel füttern: to feed the birds in winter
+
+Vogelkundler(in): ornithologist
 
 Vogelperspektive /ˈfoːɡəlpɛrspɛktiːvə/, die: bird's-eye view
 

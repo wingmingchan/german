@@ -131,6 +131,10 @@ langjährigen: of many years
 
 Langlebigkeit, die: longevity
 
+längs /lɛŋs/: lengthwise
+  das Bett längs stellen: to place the bed lengthwise
+  die Bäume längs der Straße: the trees along the road
+
 langsam /ˈlaŋzaːm/: slow
    Das Auto wurde immer langsamer und blieb schließlich stehen.
    The car got slower and slower and finally came to a halt. 
@@ -341,6 +345,8 @@ leidlich /ˈlaitlɪç/: reasonable
   leidliche Kenntnisse in Anatomie haben: to have a reasonable knowledge of anatomy
 
 leihen /ˈlaiən/: to lend, to borrow, to loan
+  jemandem etwas leihen: to lend/loan sb sth
+  er lieh mir Geld: he lent me (some) money
 
 Leinwand /ˈlainvant/, die, ..e: screen
   eine Leinwand aufstellen: to set up a screen

@@ -222,7 +222,13 @@ bedienen /bəˈdiːnən/: to serve, to wait tables
   Sie bedient in einem kleinen Restaurant.
   She waits tables in a small restaurant.
 
-Bedienung /bəˈdiːnʊŋ/: waiter, waitress
+Bedienung /bəˈdiːnʊŋ/, die: waiter, waitress, service, operation
+  die Bedienung rufen, um etw. zu bestellen
+  to call the waiter/waitress to order sth
+  Preise einschließlich 10 % Bedienung
+  prices including 10% service charge
+  Die Bedienung ist ganz einfach.
+  It's really easy to operate.
 
 bedrohen /bəˈdroːən/: to threaten
   sich von jdm bedroht fühlen: to feel threatened by sb
@@ -650,6 +656,8 @@ Berichterstattung /bəˈrɪçt|ɛɐʃtatʊŋ/, die, -en: reporting
 berichtigen /bəˈrɪçtɪɡən/: to correct, to rectify
 
 berichten /bəˈrɪçtən/: to report
+  Die Zeitungen berichteten ausführlich über das Unglück.
+  The newspapers had detailed reports of the accident.
 
 Beruf /bəˈruːf/, der, -e: occupation
   einen Beruf erlernen, ausüben: to train for / do a job

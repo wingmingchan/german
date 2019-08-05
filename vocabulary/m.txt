@@ -44,10 +44,12 @@ Makler, Maklerin: realtor, broker
   Diese Aktien hat mir der Makler empfohlen.
   The broker recommended these shares to me.
 
-Mal /maːl/, das, Male: time
+Mal /maːl/, das, -(e)s|-e: time
   ein für alle Mal: once and for all
   Ein für alle Mal: Lass deine Schwester in Ruhe!
-  Leave your sister alone, once and for all! 
+  Leave your sister alone, once and for all!
+  Zwei mal drei ist sechs.
+  Two times three is six.
 
 Malen, das: painting
 
@@ -147,8 +149,9 @@ Mast /mast/, der, Maste: mast, pole
 
 Mathematik /matemaˈtiːk/, die: mathematics
 
-Mauer /ˈmauɐ/, die: wall
+Mauer /ˈmauɐ/, die, ~|-n: wall
   die (Berliner) Mauer
+  die Chinesische Mauer: the Great Wall of China
 
 mauern /ˈmauɐn/: to build, to stonewall
   Er mauerte das Fundament für das Gewächshaus.
@@ -251,6 +254,12 @@ melden /ˈmɛldən/: to report, to get in touch, to sign up, to enter
   I'll get in touch with you next week.
   sich freiwillig zum Militärdienst melden
   to volunteer for military service
+
+Meldung /ˈmɛldʊŋ/, die, ~|-en: report, piece of news
+  die Meldungen des Tages: the day's news
+  Bei der Polizei ging eine Meldung über einen Unfall ein.
+  The police received a report of an accident.
+  seine Meldung zu einem Wettkampf zurückziehen: to withdraw from a competition
 
 Menge /ˈmɛŋə/, die, ~|-n: amount, quantity
   eine geringe Menge Wasser zugeben: to add a small amount of water
@@ -359,7 +368,7 @@ Mine /ˈmiːnə/, die, Minen: lead, refill, mine, tunnel
   Die unterste Mine ist eingestürzt.
   The lowest tunnel has caved in.
 
-*Mineral /mine’raːl/, das
+*Mineral /mine'raːl/, das
   lebenswichtige Mineralien: essential minerals 
 
 Ministerpräsident: prime minister
@@ -471,7 +480,7 @@ möglich /ˈmøːklɪç/: possible
   Erledige das so schnell wie möglich.
   Do it as quickly as possible.
   „Ist das denn wahr?‟ – „Schon möglich!‟
-  “Is it true?” – “It’s possible.”
+  “Is it true?” – “It's possible.”
 
 Möglichkeit /ˈmøːklɪçkait/, die: possibility, chance, opportunity, option
   Ich hatte leider keine Möglichkeit, dich anzurufen.
@@ -595,6 +604,11 @@ Müsli /ˈmyːsli/, das: muesli 麥片
 müssen /ˈmʏsən/: to have to, must
   Ich/Er muss jetzt gehen.
   I/He must go now.
+
+Muster /ˈmʊstɐ/, das, -s|~: pattern, model, example, marking
+  ein Hemd mit Karomuster / Streifenmuster: a shirt with a checked/striped pattern
+  Sie ist ein Muster an Tugend.
+  She is a model of virtue.
 
 Mut /muːt/, der, |uncountable: courage, bravery
   <=> Feigheit

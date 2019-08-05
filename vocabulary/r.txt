@@ -19,7 +19,7 @@ Rahmen /ˈraːmən/, Rahmen: frame, framework, context
 Rakete /raˈkeːtə/, die: rocket
 
 Rand /rant/, der, -(e)s|..er: edge
-  am Stadtrand
+  am Stadtrand 近郊
   jdn an den Rand drängen: to drive sb to the brink
   Sie war am Rande der Verzweiflung.
   She was on the verge of despair.
@@ -153,6 +153,14 @@ reagieren /reaˈɡiːrən/: to react, to respond
   Calcium carbonate reacts with acid to make water and carbon dioxide.
 
 Reaktion /reakˈʦjoːn/, die: reaction
+
+realisieren /realiˈziːrən/: to realize, to carry out, to implement
+  => verwirklichen
+  Ich glaube, das lässt sich realisieren.
+  I think it can be done.
+  alles tun, damit sich ein Ziel realisiert: to do everything to achieve an aim
+  Ich realisierte allmählich, dass es so nicht weitergehen konnte.
+  I gradually realized that it couldn't go on like that.
 
 Rebe /ˈreːbə/, die: (grape)vine
   Die Reben tragen bereits reife Trauben.

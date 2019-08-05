@@ -107,6 +107,12 @@ Abgrund /ˈapɡrʊnt/, der, -(e)s|..e: abyss
   vom Gipfel in den Abgrund blicken: to look down into the depths from the summit
   ein Abgrund an Gewalt: extreme violence
 
+abhauen /ˈaphauən/: to cut off, to split, to vamoose
+  einen Ast abhauen: to chop off a branch
+  Er ist von zu Hause abgehauen.
+  He ran away from home.
+  Hau ab! Get lost!
+
 abheben /ˈapheːbən/: to answer, to cut, to withdraw, to take off
   Ich rufe dauernd an, aber keiner hebt ab.
   I keep calling but no one is answering.
@@ -655,6 +661,8 @@ anbieten /ˈanbiːtən/: to offer
   Welche Wahlfächer bietet die Schule an?
   Which electives does the school offer?
 
+anblicken: to look at
+
 anbrachten => anbringen
 
 anbrechen /ˈanbrɛçən/: to open
@@ -949,6 +957,8 @@ anrufen /ˈanruːfən/: to call, to phone
   rufe an, rufst an, ruft an, habe angerufen
   Hat jemand für mich angerufen?
   Did anyone call?
+
+ansah => ansehen
 
 Ansammlung /ˈanzamlʊŋ/, die, ~|-en: collection, crowd, gathering
   eine Ansammlung von Schätzen: a collection of treasures
@@ -1277,6 +1287,11 @@ aufdrücken: to press sth on, to stamp sth on sth, to push open
   He pressed the button and the door opened.
 
 auffahren /ˈauffaːrən/: to run into, to tailgate, to start, to ascend
+
+Auffahrt /ˈauffaːrt/, die, ~|-en: driveway, ramp, ascent, climb
+  die Auffahrt zum Schloss: the driveway to a castle
+  Die Auffahrt mit der Seilbahn dauert 20 Minuten.
+  The ascent by cable car takes 20 minutes.
 
 auffallen /ˈauffalən/
   jd/etw. fällt auf: sb/sth attracts attention

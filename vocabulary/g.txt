@@ -73,6 +73,7 @@ gar /ɡaːɐ/: done, cooked
   The vegetables should be done but overcooked. 
 
 gar /ɡaːɐ/: at all, whatsoever, too, even
+  gar nichts: nothing at all or whatsoever
   Das wusste ich noch gar nicht.
   I wasn't aware of that at all up to now.
   Man sollte sich nicht gar so wichtig nehmen.
@@ -87,6 +88,9 @@ Garantie /ɡaranˈtiː/, die, ~|-n: guarantee
   I think it'll work but I can't guarantee it.
 
 garantieren /ɡaranˈtiːrən/: to guarantee
+
+garen /ˈɡaːrən/: to cook, to prepare
+  den Spargel schonend garen: to cook the asparagus gently
 
 Garnele /ɡarˈneːlə/, die, Garnelen: prawn, shrimp
 
@@ -127,6 +131,25 @@ gebären /ɡəˈbɛːrən/: to give birth to (a child)
 Gebäude /ɡəˈbɔydə/, das, -s|~: building
   Die Polizei ließ das Gebäude räumen.
   The police had the building evacuated.
+
+geben /ˈɡeːbən/: to give, to pass
+  Gibst du mir bitte mal den Zucker?
+  Can you pass me the sugar?
+  Wer hat dir denn die Erlaubnis gegeben, das zu tun?
+  Who gave you permission to do that?
+  Kannst du mir übers Wochenende dein Auto geben?
+  Can you give me your car for the weekend?
+  Wenn ich die Prüfung bestehe, gebe ich ein großes Fest.
+  If I pass the exam, I'm going to throw a big party.
+  den Teig in eine Kuchenform geben
+  to put the dough into the cake tin
+  Im Urlaub gebe ich den Hund meiner Mutter in Pflege.
+  When I'm on vacation I leave my dog with my mother.
+  Einen Augenblick, ich gebe Ihnen den zuständigen Kollegen.
+  One moment, please. I'll put you through to the person responsible.
+  sich irgendwie geben: to act in a certain manner
+  Er gibt sich gern cool.
+  He likes to act cool.
 
 Gebet /ɡəˈbeːt/, das, -e: prayer
   die Hände zum Gebet falten
@@ -170,7 +193,7 @@ Gebrüll /ɡəˈbrʏl/, das, -(e)s: roaring, screaming
   => brüllen
   Löwengebrüll: the roar of lions
   Aus dem Kinderzimmer ertönte wütendes Gebrüll.
-  There was furious yelling coming from the kids’ playroom.
+  There was furious yelling coming from the kids' playroom.
 
 Gebühr /ɡəˈbyːɐ/, die, ~|-en: fee
   In Frankreich werden für die Benutzung von Autobahnen Gebühren erhoben.
@@ -367,7 +390,7 @@ geheimnisvoll /ɡəˈhaimnisfɔl/: mysterious
 
 gehen /ˈɡeːən/: to go, to walk, to leave
   gehe, gehst, geht, bin gegangen
-  es geht um jdn/etw: it’s about sb/sth
+  es geht um jdn/etw: it's about sb/sth
   Worum geht es in dem Buch?
   What's the book about?
   
@@ -616,7 +639,8 @@ gerade /ɡəˈraːdə/: straight, at the moment
 
 gerade: especially, particularly
   Diese Impfung ist gerade für Kinder und Ältere wichtig.
-  This vaccination is particularly important for children and the elderly. 
+  This vaccination is particularly important for children and the elderly.
+  nicht gerade: not exactly
 
 geradeaus /ɡəraːdəˈ|aus/: straight ahead
 
@@ -666,7 +690,7 @@ Geringfügigkeit: pettiness, triviality
 geringschätzig /ɡəˈrɪŋʃɛʦɪç/: contemptuous, disparaging
   eine geringschätzige Bemerkung machen: to make a disparaging remark
   „Du schaffst das sowieso nicht!‟, meinte sie geringschätzig.
-  “You’ll never manage that anyway,” she said contemptuously.
+  “You'll never manage that anyway,” she said contemptuously.
 
 Gerippe /ɡəˈrɪpə/, das, -s|~: skeleton, frame(work)
   Im Sand lag ein ausgebleichtes Gerippe.
@@ -882,13 +906,13 @@ gewiss /ɡəˈvɪs/: certain, certainly
   Eine gewisse Frau Ott hat für dich angerufen.
   A certain Mrs Ott called for you.
   Gewiss hat der Zug Verspätung.
-  The train’s bound to be late.
+  The train's bound to be late.
 
 *Gewitter /ɡəˈvɪtɐ/, das: thunderstorm
   Draußen tobte ein heftiges Gewitter.
   A heavy thunderstorm was raging outside.
 
-Gewohnheit /ɡəˈvoːnhait/, die, Gewohnheiten: habit
+Gewohnheit /ɡəˈvoːnhait/, die, Gewohnheiten: habit                                         
   Aus alter Gewohnheit griff er nach der Zigarette, obwohl er das Rauchen aufgegeben hatte.
   From sheer force of habit he reached for the cigarette, even though he had given up smoking.
 
@@ -1106,6 +1130,10 @@ Grillspieß, der: spit, rotisserie
 
 Grinsen /ˈɡrɪnzən/, das: grin
 
+grinsen: to grin
+  Sie grinste spöttisch / frech.
+  She sneered/gave an impudent grin.
+
 großartig /ˈɡroːs|artɪç/: wonderful, terrific, great
   eine großartige Künstlerin / Leistung: a wonderful artist / a terrific performance
   Das macht keinen großartigen Unterschied.
@@ -1118,7 +1146,7 @@ Grube /ˈɡruːbə/, die, -n: pit, hole
 
 grummeln /ˈɡrʊməln/: to grumble, to growl, to rumble
   In meinem Bauch grummelt es. Ich glaube, ich habe das Essen nicht vertragen.
-  My stomach's growling. I don’t think the food agreed with me.
+  My stomach's growling. I don't think the food agreed with me.
 
 grün /ɡryːn/: green
   grüner Salat: lettuce

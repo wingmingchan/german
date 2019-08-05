@@ -11,11 +11,11 @@ eben /ˈeːbən/: flat, level, just (gerade jetzt)
   Das Land ist dort sehr eben.
   The land is very flat there.
   Das Brett liegt nicht ganz eben.
-  The shelf isn’t quite level.
+  The shelf isn't quite level.
   Er kommt eben zur Tür herein.
   He's just coming through the door.
   „Wir sollten erst mal was essen.‟ – „Eben, sage ich doch!
-  "We ought to have something to eat first." – "Exactly, that’s what I say, too!"
+  "We ought to have something to eat first." – "Exactly, that's what I say, too!"
   Eben nicht! Of course not!
   nicht eben: not exactly
   Sie lebt nicht eben gesund.
@@ -187,6 +187,20 @@ einbiegen /ˈainbiːɡən/: to turn
 
 Einbiegung, die: inward bend, curve
 
+einbilden /ˈainbɪldən/
+  sich etw. einbilden [ dative ]: to imagine sth
+  Hat es gerade geklingelt, oder habe ich mir das nur eingebildet?
+  Did I hear the doorbell or did I just imagine it?
+  sich etw. (auf jdn / etw.) einbilden [ dative ]: to be proud (of sb/sth)
+  Auf solche Noten brauchst du dir nichts einzubilden!
+  There's nothing to be proud of in those grades!
+
+Einbildung /ˈainbɪldʊŋ/, die, ~|-en: imagination, illusion, fancy
+  Sein Freund existiert nur in seiner Einbildung.
+  His friend is only imaginary.
+  Alle ihre Leiden sind reine Einbildung.
+  All her ailments are a figment of her imagination.
+
 einchecken /ˈainʧɛkən/: to check in
   <=> auschecken
 
@@ -320,7 +334,7 @@ Einheit /ˈainhait/, die: unit, unity
 einholen /ˈainhoːlən/: to get, to obtain, to catch up on, to make up, to lower,
 to take down, to haul in, to go shopping
   Ich muss erst die Erlaubnis meiner Eltern dafür einholen.
-  I’ll have to get my parents' permission to do so first.
+  I'll have to get my parents' permission to do so first.
   Er ist schon vor ein paar Minuten gegangen, aber wenn du dich beeilst, holst du ihn vielleicht noch ein.
   He left a few minutes ago but you might be able to catch up on him if you hurry.
   Dieser Entwicklungsrückstand ist schwer einzuholen.
@@ -622,6 +636,12 @@ Eisen /ˈaizən/, das: iron
 eklatant /eklaˈtant/: glaring, striking
   ein eklatanter Altersunterschied: a striking difference in age
 
+eklig /ˈeːklɪç/: disgusting, icky, yucky
+  Was für ein ekliger alter Teppich!
+  What an icky old carpet!
+  Unser neuer Abteilungsleiter kann richtig eklig werden.
+  Our new head of department can be really obnoxious.
+
 Elan /eˈlaːn/, der, |uncountable: verve, zest, vigor
   Sie ging mit viel Elan an die Arbeit.
   She got down to work with plenty of energy.
@@ -801,6 +821,10 @@ entscheidend /ɛntˈʃaidənt/: vital, crucial, critical, decisive
 Entscheidung /ɛntˈʃaidʊŋ/, die: decision
 
 entschieden => entscheiden
+
+entschlossen: determined, resolute
+  Er ist fest entschlossen, seinen Traum zu verwirklichen.
+  He's determined to realize his dream.
 
 entschuldigen /ɛntˈʃʊldɪɡən/: to excuse, to pardon
   entschuldige, entschuldigst, entschuldigt, habe entschuldigt
@@ -1081,6 +1105,9 @@ erlassen /ɛɐˈlasən/: to issue
   A warrant was issued for his arrest.
 
 erlauben /ɛɐˈlaubən/: to allow, to permit
+  Mein Vater erlaubt mir nicht, diesen Film zu sehen.
+  My father won't allow me to watch that movie.
+  
 
 Erlaubnis /ɛɐˈlaupnɪs/, die, -se: permission
   => Genehmigung
@@ -1116,6 +1143,19 @@ ermorden /ɛɐˈmɔrdən/: to murder
 Ermordung /ɛɐˈmɔrdʊŋ/, die, ~|-en: murder, homicide
 
 Ernährung /ɛɐˈnɛːrʊŋ/, die: food, diet, nutrition
+
+ernst /ɛrnst/: serious, grave, 
+  Warum machst du denn so ein ernstes Gesicht?
+  Why are you looking so serious?
+  Das ist kein ernster Fehler.
+  That's not a serious mistake.
+  Ist es etwas Ernstes?
+  Is it something serious?
+  etw. ernst meinen: to be serious about sth
+  ein ernst gemeintes Angebot: a serious offer
+  jdn / etw. ernst nehmen: to take sb/sth seriously
+  Ich wollte sie warnen, aber sie hat mich nicht ernst genommen.
+  I tried to warn her but she didn't take me seriously.
 
 Ernte /ˈɛrntə/, die, -n: harvest
   bei der Ernte helfen: to help bring in the harvest
@@ -1223,6 +1263,10 @@ erstellen /ɛɐˈʃtɛlən/: to draw up, to create, to construct
   für eine Kontaktbörse im Internet sein Profil erstellen
   to create your profile for a networking forum on the internet
   in Eigenleistung erstellter Wohnraum: self-constructed living quarters
+
+Erste m/f, kein pl: first
+  als Erstes: first
+  etwas als Erstes tun: to do sth first
 
 ersticken /ɛɐˈʃtɪkən/: to suffocate
   Das Tier ist in der Kiste qualvoll erstickt.
@@ -1384,6 +1428,7 @@ Existenz /ɛksɪsˈtɛnʦ/, die, -en: existence
 Exklave /ɛksˈklaːvə/, die: exclave
 
 Experte, Expertin /ɛksˈpɛrtə/: expert
+  den Rat eines Experten einholen: to seek expert advice
 
 extra /ˈɛkstra/: extra, separate, specially
   Ich habe von meiner Mutter 10 Euro extra bekommen.

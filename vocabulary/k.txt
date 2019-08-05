@@ -234,6 +234,10 @@ Kieselstein, der: pebblestone
 
 Kind, das: child
 
+Kinderschänder: child abuser
+
+Kindesmissbrauch, der: child abuse, child molesting
+
 Kinn /kɪn/, das, -(e)s|-e: chin
 
 Kino /’kiːno/, das, -s|-s
@@ -700,6 +704,10 @@ Krebs /kreːps/, der, Krebse: cancer, crab
 
 Kreis /krais/, der: circle
 
+kreuz und quer: all over
+  mit dem Auto kreuz und quer durch die Stadt fahren
+  to drive all over the town
+
 kreuzen /ˈkrɔyʦən/: to cross, to meet
   kreuze, kreuzt, kreuzt, habe gekreuzt
   Unsere Wege kreuzten sich zufällig.
@@ -748,6 +756,9 @@ Küche /ˈkʏçə/, die: kitchen
 
 ▲Kuchen /ˈkuːxən/, der, Kuchen: cake
   einen Apfelkuchen backen: to bake an apple cake 
+
+Kuchenform /ˈkuːçənfɔrm/, die, ~|-en: baking pan
+  die Kuchenform vor dem Backen einfetten: to grease the baking pan before baking
 
 Kugelschreiber, der, -: pen
 
