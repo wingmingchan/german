@@ -187,7 +187,7 @@ einbiegen /ˈainbiːɡən/: to turn
 
 Einbiegung, die: inward bend, curve
 
-einbilden /ˈainbɪldən/
+einbilden /ˈainbɪldən/-	
   sich etw. einbilden [ dative ]: to imagine sth
   Hat es gerade geklingelt, oder habe ich mir das nur eingebildet?
   Did I hear the doorbell or did I just imagine it?
@@ -486,6 +486,12 @@ einschalten /ˈainʃaltən/: to switch on
   <=> ausschalten
   Schaltest du bitte den Fernseher/das Licht ein?
   Could you switch on the TV/light, please?
+
+einschlafen /ˈainʃlaːfən/: to fall asleep, to pass away
+  Pst, das Baby ist gerade eingeschlafen!
+  Shush – the baby's just fallen asleep.
+  Nach langer Krankheit ist sie friedlich eingeschlafen.
+  After a lengthy illness she passed away peacefully.
 
 einschlagen /ˈainʃlaːɡən/: to smash, to strike, to hit
   jdm beim Kampf den Schädel / die Zähne einschlagen

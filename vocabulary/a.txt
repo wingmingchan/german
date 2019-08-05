@@ -746,6 +746,10 @@ anfänglich /ˈanfɛŋlɪç/: initial, initially
   Seine anfängliche Begeisterung verschwand schnell.
   His initial enthusiasm soon disappeared.
 
+anfangs /ˈanfaŋs/: at the beginning, at first
+  Anfangs fiel mir die Arbeit noch schwer, aber später wurde es leichter.
+  At first I found the work tough going, but it got easier later.
+
 *Anfangsbuchstabe, der, -n|-n: first letter
 
 anfauchen: (cat) to spit at, to snap at
@@ -1525,9 +1529,11 @@ aufstehen /ˈaufʃteːən/: to get up, to stand up, to be open
 
 aufstellen /ˈaufʃtɛlən/: to put up, to arrange, to draw up
 
-auftauchen /ˈauftauxən/: to appear, to surface, to arise, to come up, to surface
+auftauchen /ˈauftauxən/: to appear, to surface, to arise, to come up, to show up, to turn up
   Aus dem Nebel tauchten die Umrisse eines Hauses auf.
   The contours of a house materialized out of the fog.
+  Leider sind unerwartet Schwierigkeiten aufgetaucht.
+  I'm afraid some unexpected difficulties have cropped up.
 
 Auftrag /ˈauftraːk/, der, -(e)s|..e /ˈauftrɛːɡə/: task, job, order, contract
   Er bekam von seiner Mutter den Auftrag, Brot einzukaufen.
@@ -1556,6 +1562,10 @@ auftreten /ˈauftreːtən/: to perform, to appear, to arise, to occur, to act
   to act as an intermediary/appear as a witness
 
 Auftritt /ˈauftrɪt/, der, Auftritte: appearance, performance, (theatre) scene
+
+aufwachen /ˈaufvaxən/: to wake up
+  Sie wachte mitten in der Nacht auf.
+  She woke up in the middle of the night.
 
 Aufzucht /ˈaufʦʊxt/, die: rearing, breeding
 
@@ -1686,6 +1696,7 @@ ausgiebig /ˈausɡiːbɪç/: copious, extensive
   She had a good yawn and stretch.
 
 aushalten /ˈaushaltən/: to stand, to hold
+  => ertragen
   Diese Hitze ist ja nicht auszuhalten!
   This heat is unbearable.
 

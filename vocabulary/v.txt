@@ -390,19 +390,19 @@ Verletzte /fɛɐˈlɛʦtə/: casualty, injured/wounded person
   Die Verletzten wurden sofort ins Krankenhaus gebracht.
   The injured were immediately taken to the hospital.
 
-verlieren /fɛɐˈliːrən/: to lose
-  habe verloren
-  verlor, verlorst, verlor, verloren, verlort
+verlieren /fɛɐˈliːrən/: to lose, to disappear, to fade away
   Ich kann den Ausweis nicht finden, vielleicht habe ich ihn verloren.
   I can't find my ID card. Perhaps I've lost it.
   Sie haben durch den Krieg alles verloren.
   They lost everything in the war.
+  nichts mehr zu verlieren haben: to have nothing to lose
   Das letzte Spiel verloren sie 2:1.
   They lost their last match 2-1.
 
 verließ => verlassen
 
-verloren => verlieren
+verlor => verlieren
+  ich verlor, du verlorst, er verlor, wir verloren, ihr verlort
 
 verlumpt: worn-out
 

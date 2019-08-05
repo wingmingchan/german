@@ -394,6 +394,11 @@ schlank /ʃlaŋk/: slim, slender
 Schlauchboot /ˈʃlauxboːt/, das: rubber dinghy, rubber boat, life raft
 
 schleichen /ˈʃlaiçən/: to creep, to crawl
+  sich aus dem Haus schleichen: to creep out of the house
+  Er schlich auf Zehenspitzen zur Tür.
+  He crept to the door on tiptoe.
+  mit hängendem Kopf nach Hause schleichen
+  to crawl home with head hanging
 
 schleppen /ˈʃlɛpən/: to drag
   einen Wagen in die Werkstatt schleppen: to tow a car to the shop
@@ -1491,6 +1496,17 @@ stehlen /ˈʃteːlən/: to steal
   stehle, stahl, gestohlen
   Er hat Geld aus der Kasse gestohlen.
   He stole some money out of the cash register. 
+
+steif /ʃtaif/: stiff
+  Die Wäsche war steif gefroren.
+  The laundry was frozen stiff.
+  Eiweiß steif schlagen: to whisk egg whites until stiff
+  Meine Finger waren steif vor Kälte.
+  My fingers were stiff with cold.
+  Ich war vom langen Sitzen ganz steif.
+  I was completely stiff from sitting for so long.
+  Anfangs wirkte sie etwas steif, aber später wurde sie zunehmend lockerer.
+  At first she seemed a bit stiff but later she became increasingly more relaxed.
 
 Steige /ˈʃtaiɡə/, die: crate, steep track
   zwei Steigen Äpfel kaufen: to buy two crates of apples
