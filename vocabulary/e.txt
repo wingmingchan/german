@@ -633,6 +633,10 @@ eisig /ˈaizɪç/: icy, frigid
 Eisen /ˈaizən/, das: iron
    ein Geländer aus Eisen: an iron handrail
 
+Eiszapfen /ˈaisʦapfən/, der, -s|~: icicle
+  Am Dach hängen große Eiszapfen.
+  There are big icicles hanging from the roof.
+
 eklatant /eklaˈtant/: glaring, striking
   ein eklatanter Altersunterschied: a striking difference in age
 
@@ -837,6 +841,12 @@ entschuldigen /ɛntˈʃʊldɪɡən/: to excuse, to pardon
 Entschuldigung /ɛntˈʃʊldɪɡʊŋ/, die, -en: apology, excuse
   Sie murmelte eine Entschuldigung.
   She mumbled an apology.
+
+Entsetzen, das: horror, terror
+
+entsetzen /ɛntˈzɛʦən/: to horrify
+  sich über jdn / etw entsetzen: to be horrified at or by sb/sth
+  sich vor etw [dative] entsetzen: to be horrified at sth
 
 entsorgen /ɛntˈzɔrɡən/: to dispose of
   Abfälle umweltfreundlich entsorgen

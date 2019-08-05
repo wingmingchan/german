@@ -256,6 +256,10 @@ Weihwasser /ˈvaivasɐ/, das, |uncountable: holy water
   Er bekreuzigte sich mit Weihwasser.
   He crossed himself with holy water.
 
+Weile /ˈvailə/, die, ~|uncountable: while
+  Ich muss eine Weile darüber nachdenken.
+  I need to think it over for a while.
+
 weilen /ˈvailən/: to stay, to be
   Sie weilen gerade in Spanien.
   They are in Spain at the moment.
@@ -435,6 +439,8 @@ wetten /ˈvɛtən/: to bet
   I bet ten euros that he wins.
 
 *Wetter /ˈvɛtɐ/, das: weather
+
+Wetteransage, die: weather report/forecast
 
 Wettkampf /ˈvɛtkampf/, der, ..e: competition, contest
   an einem Wettkampf teilnehmen: to take part in a competition

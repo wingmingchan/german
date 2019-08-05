@@ -97,6 +97,7 @@ Tat /taːt/, die, ~|-en: deed, act, action, crime, offense
   Who is suspected of the crime?
 
 tat /taːt/ => tun
+  ich tat, du tatest, er tat, wir taten, ihr tatet
 
 Täter /ˈtɛːtɐ/, Täterin: culprit
   Die Polizei hat den mutmaßlichen Täter verhaftet.
@@ -514,9 +515,9 @@ Treppe /ˈtrɛpə/, die, ~|-n: staircase, stairs, steps
   die Treppe hinunterfallen: to fall down the stairs
 
 treten /ˈtreːtən/: to kick, to step, to trample, to tread, to enter
-  jdm gegen das Schienbein/auf den Fuß treten
+  jdm gegen das Schienbein / auf den Fuß treten
   to kick sb in the shin/tread on sb's foot
-  mit jdm in Verhandlungen/in Kontakt treten
+  mit jdm in Verhandlungen / in Kontakt treten
   to enter into negotiations/get in touch with sb
 
 treu /trɔy/: faithful
@@ -600,9 +601,11 @@ Tulpe /ˈtʊlpə/, die, -n: tulip
   Tulpenzwiebeln in die Erde setzen: to plant tulip bulbs
   Tulpenfest
 
-tun /tuːn/: to do
+tun /tuːn/: to do, to pretend
   Hast du nichts Besseres zu tun?
-  Don't you have anything better to do? 
+  Don't you have anything better to do?
+  so tun, als ob ...: to pretend that ...
+  sie tut nur so: she's only pretending
 
 Tür /tyːɐ/, Türen, die: door
   Haustür: front door

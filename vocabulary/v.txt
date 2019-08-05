@@ -954,6 +954,12 @@ Vorbild /ˈfoːɐbɪlt/, das, -er: model
 
 Vorfall /ˈfoːɐfal/, der: incident
 
+vorgeben /ˈfoːɐɡeːbən/: to fix in advance, to pretend
+  Die Bearbeitungszeit ist vorgegeben.
+  The time required for processing is fixed in advance.
+  Um nicht mitkommen zu müssen, gab er vor, krank zu sein.
+  He pretended to be ill so that he didn't have to come along.
+
 Vorgehen /ˈfoːɐɡeːən/, das, -s: actions, approach, procedure
   Die Schüler waren mit dem Vorgehen des Lehrers nicht einverstanden.
   The students did not agree with the teacher's approach.

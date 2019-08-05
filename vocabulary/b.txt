@@ -288,6 +288,12 @@ befriedigend /bəˈfriːdɪɡənt/: satisfactory
 
 Befriedigung /bəˈfriːdɪɡʊŋ/: satisfaction
 
+befürchten /bəˈfʏrçtən/: to fear
+  Der Arzt befürchtet das Schlimmste.
+  The doctor fears the worst.
+  Es ist zu befürchten, dass sich die Lage weiter verschlechtert.
+  It is to be feared that the situation will deteriorate further.
+
 begabt /bəˈɡaːpt/: talented, gifted
   => Gabe
   Sie ist musikalisch begabt.
@@ -555,11 +561,13 @@ bemerken /bəˈmɛrkən/: to notice
 
 bemessen: limited
 
-bemerken /bəˈmɛrkən/: to notice
+bemerken /bəˈmɛrkən/: to notice, to remark
   Der Unterschied war kaum zu bemerken.
   The difference was hardly noticeable.
   Sein Fehlen wurde nicht bemerkt.
   His absence went unnoticed.
+  Ich finde das nicht richtig, nebenbei bemerkt.
+  I don't think that's right, by the way.
 
 Bemerkung /bəˈmɛrkʊŋ/, die, ~|-en: remark, comment
   eine abfällige Bemerkung machen: to make a snide remark

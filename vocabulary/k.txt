@@ -369,6 +369,9 @@ Kloster /ˈkloːstɐ/, das, -s|..: monastery, convent
 klug /kluːk/: clever
   ein kluger Mann
 
+Klüngel /ˈklʏŋəl/, der, -s|~: clique
+  der Bürgermeister und sein Klüngel: the mayor and his clique
+
 knapp /knap/: meagre, scarce, tight, barely
 
 Knecht /knɛçt/, der, -e: servant
@@ -641,6 +644,7 @@ Kraft /kraft/, die, ..e: strength, power
   Er zog mit aller Kraft am Seil.
   He pulled on the rope with all his strength.
   übernatürliche Kräfte haben: to have supernatural powers
+  in Kraft: in force
 
 kraft /kraft/: by virtue of
   Der Bürgermeister hat kraft seines Amtes eine Stimme im Gemeinderat.

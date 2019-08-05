@@ -125,12 +125,6 @@ räumen /ˈrɔymən/: to clear, to put away, to vacate
   Hindernisse/Mitwisser/Probleme aus dem Weg räumen
   to get rid of any obstacles/people in the know/problems
 
-rauschend /ˈrauʃənt/: lavish, rapturous
-  So rauschend das Fest auch war, etwas fehlte doch: …
-  As lavish as the party was, there was something missing: …
-  Es gab rauschenden Applaus für die Darbietung.
-  The performance received rapturous applause.
-
 Raumschiff /ˈraumʃɪf/, das: spaceship
   ein ultramodernes Raumschiff
 
@@ -144,7 +138,17 @@ rauschen /ˈrauʃən/: to rush, to whoosh, to hiss
   Sie rauschte beleidigt aus dem Büro.
   She rushed out of the office in a huff.
 
+rauschend /ˈrauʃənt/: lavish, rapturous
+  So rauschend das Fest auch war, etwas fehlte doch: …
+  As lavish as the party was, there was something missing: …
+  Es gab rauschenden Applaus für die Darbietung.
+  The performance received rapturous applause.
+
 rauschhaft: ecstatic, frenzied, repturous
+
+räuspern /ˈrɔyspɐn/: to clear your throat
+  Der Redner räusperte sich laut, bevor er zu sprechen anfing.
+  The speaker cleared his throat loudly before he began to speak.
 
 reagieren /reaˈɡiːrən/: to react, to respond
   Er reagierte nicht, als ich ihn ansprach.

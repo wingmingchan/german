@@ -547,6 +547,8 @@ allerletzte /ˈalɐˈlɛʦtə/: very last
   Das ist deine allerletzte Chance!
   This is your very last chance.
 
+allerorten: everywhere
+
 alles /ˈaləs/: everything
 
 allgegenwärtig /ˈalɡeːɡənˈvɛrtɪç/: omnipresent
@@ -717,6 +719,16 @@ andeuten /ˈandɔytən/: to hint at, to sketch out
   What are you getting at?
   Den Hintergrund hat der Künstler nicht ausgearbeitet, sondern nur angedeutet.
   The artist didn't finish the background – he just outlined it.
+
+ahfahren /ˈanfaːrən/: to hit, to snap at, to stop at, to start up
+  Sie wurde von einem Auto angefahren.
+  She was hit by a car.
+  „Halt die Klappe!‟, fuhr sie mich an.
+  “Shut your trap!” she snapped at me.
+  Der Bus fährt mehrere abgelegene Dörfer an.
+  The bus stops at several remote villages.
+  Er fuhr mit quietschenden Reifen an.
+  He sped off, burning rubber.
 
 Anfang /ˈanfaŋ/, der, -(e)s|..e: beginning, start
   => Beginn
@@ -1015,6 +1027,10 @@ anspruchsvoll /ˈanʃprʊxsfɔl/: sophisticated, demanding, challenging
 anstarren /ˈanʃtarən/: to stare at
   Sie starrte ihn voller Verwunderung an.
   She gazed at him in amazement.
+
+anstelle, an Stelle /anˈʃtɛlə/: instead of
+  Er kam anstelle seines Vaters zum Fest.
+  He came to the party instead of his father.
 
 anstellen /ˈanʃtɛlən/: to hire, to employ, to engage
   5 neue Mitarbeiter anstellen: to hire 5 new employees
@@ -1807,7 +1823,7 @@ Ausschuss /ˈausʃʊs/, der: committee, wastage
   Wir haben heute nur Ausschuss produziert.
   All we produced today was rejects.
 
-Aussehen /ˈauszeːən/, das, |uncountable: appearance
+Aussehen /ˈauszeːən/, das, -s|uncountable: appearance
   Gutes Aussehen ist mir nicht so wichtig.
   Looking good isn't so important for me.
 
@@ -1816,6 +1832,10 @@ aussehen /ˈauszeːən/: to look
   nach etw. aussehen: to look like
   Das sieht nach Brandstiftung aus.
   That looks like arson.
+  
+aussehend
+  eine blendend aussehende Dame: an extremely good-looking lady
+  in verdächtig aussehendes Individuum: a suspicious(-looking) character
 
 Aussprache /ˈausʃpraːxə/, die: pronunciation
   die richtige Aussprache eines Wortes
