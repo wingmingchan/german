@@ -293,7 +293,8 @@ deswegen /ˈdɛsˈveːɡən/: therefore, so, that's why
 Detail /deˈtai/, das: detail
 
 deuten /’dɔytən/: to interpret
-  auf etw./jdn deuten: to point (sth) at sth/sb
+  einen Traum / ein Gedicht deuten: to interpret a dream/poem
+  auf etw. / jdn deuten: to point (sth) at sth/sb
 
 deutlich /ˈdɔytlɪç/: clearly
   Er hat deutliche Fortschritte gemacht.
@@ -460,6 +461,11 @@ Drehkreuz /ˈdreːkrɔyʦ/, das, -e: turnstile
 Dreieck /ˈdrai|ɛk/, das, -e: triangle
 
 Dreikönigsfest, das: Epiphany 主顯節
+
+dreinblicken /ˈdrainblɪkən/ => dreinsehen
+
+dreinsehen /ˈdrainzeː(ə)n/: to look
+  glücklich / traurig / verwirrt dreinsehen: to look happy/sad/confused
 
 drin /drɪn/: in it/them
   => darin

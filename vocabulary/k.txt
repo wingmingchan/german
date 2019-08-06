@@ -151,6 +151,12 @@ Kaution /kauˈʦjoːn/, die, -en: deposit, security
   Ich musste für die Wohnung zwei Monatsmieten Kaution zahlen.
   I had to pay a two-month deposit for the apartment.
 
+Kauz /kauʦ/, der, -es|..e: screech owl, eccentric fellow, rare bird
+  Im Wald ruft ein Kauz.
+  There's a screech owl trilling in the forest.
+  Unser Nachbar ist ein sonderbarer Kauz.
+  Our neighbor's an oddball.
+
 Kehle /ˈkeːlə/, die, Kehlen: throat, windpipe, esophagus
   jdm die Kehle durchschneiden: to cut sb's throat
   eine trockene / raue Kehle haben: to have a dry/sore throat
@@ -439,6 +445,16 @@ Knopf /knɔpf/, der, -(e)s|..e: button, knob
   Dieser Schlingel hat auf alle Klingelknöpfe gedrückt.
   That rascal rang all the doorbells.
 
+Knoten /ˈknoːtən/, der, -s|~: knot, lump
+  einen doppelten Knoten machen: to tie a double knot
+  einen Knoten in der Brust ertasten: to feel a lump in your breast
+  Das Schiff macht im Moment 20 Knoten.
+  The ship is doing 20 knots at the moment.
+  
+knoten: to tie
+  eine Schnur an etw. [ accusative ] knoten
+  to tie a piece of string to sth
+
 Koalition /ko|aliˈʦjoːn/, die: coalition
   große Koalition: Koalition zwischen den größten Parteien
 
@@ -620,6 +636,10 @@ Kopf /kɔpf/, der, Köpfe /ˈkœpfə/: head
   Er ist einen Kopf größer als ich.
   He's a head taller than me.
 
+kopfrechnen: to do mental arithmetic
+  Sie kann gut kopfrechnen.
+  She's good at mental arithmetic.
+
 Kopie /koˈpiː/, die: copy
 
 Korb /kɔrp/, der, ..e: basket
@@ -717,13 +737,7 @@ Krankenhaus /ˈkraŋkənhaus/, das, -es|..er: hospital
 
 Krapfen /ˈkrapfən/, der, -s|~: jelly doughnut
 
-Kauz /kauʦ/, der, -es|..e: screech owl, eccentric fellow, rare bird
-  Im Wald ruft ein Kauz.
-  There's a screech owl trilling in the forest.
-  Unser Nachbar ist ein sonderbarer Kauz.
-  Our neighbor's an oddball.
-
-krähen /ˈkrɛːən/: to crow
+kraus /kraus/: frizzy, tightly curled, winkled, crumpled, untidy, cramped, confused
 
 Krawatte /kraˈvatə/, die: tie
   Er kam in Anzug und Krawatte.

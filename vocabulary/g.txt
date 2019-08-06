@@ -459,6 +459,10 @@ gekleidet: clad, dressed
 
 gekonnt => können
 
+gekräuselt: curly, curled, frizzy, ripply, frilly
+  ihre Haare haben sich im Regen gekräuselt
+  her hair turned frizzy in the rain
+
 geladen, geladene => laden 
 
 gelangen /ɡəˈlaŋən/: to get, to find your way to, to come to
@@ -792,6 +796,8 @@ Gesellschaft /ɡəˈzɛlʃaft/, die, ~|-en: society, company, party, social even
   die Rolle der Frau in der Gesellschaft: the role of women in society
   in schlechte Gesellschaft geraten: to get into bad company
   eine geschlossene Gesellschaft: a private party
+
+gesessen => sitzen
 
 Gesetz /ɡəˈzɛʦ/, das: law
   die Gesetze befolgen/einhalten: to abide by/stick to the laws

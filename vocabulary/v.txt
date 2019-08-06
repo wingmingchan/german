@@ -65,6 +65,10 @@ verarbeiten /fɛɐˈ|arbaitən/: to use, to process
   Wir verarbeiten nur frische Zutaten.
   We only use fresh ingredients.
 
+verärgert /fɛɐˈ|ɛrɡɐt/: annoyed
+  Ich war ziemlich verärgert über seine Verspätung.
+  I was quite annoyed that he was late.
+
 Verb /vɛrp/, das, -s|-en: verb
   regelmäßige / unregelmäßige Verben: regular/irregular verbs
 
@@ -562,7 +566,7 @@ Versicherung /fɛɐˈzɪçərʊŋ/, die, -en: insurance policy, insurance compan
   eine Versicherung abschließen / kündigen
   to take out / cancel an insurance policy
   Bei grober Fahrlässigkeit zahlt die Versicherung nicht.
-  Insurance companies don’t pay out in cases of gross negligence.
+  Insurance companies don't pay out in cases of gross negligence.
   Wir glaubten seiner Versicherung, dass er sich um alles kümmern werde.
   We believed his assurance that he would take care of everything.
 
@@ -665,7 +669,7 @@ vertiefen /fɛɐˈtiːfən/: to strengthen, to extend, to deepen
   Er hatte sich gerade wieder in sein Buch vertieft, als es klingelte.
   He had just become absorbed in his book again when the doorbell rang.
   Sie war so in ihre Arbeit vertieft, dass sie ihn nicht kommen hörte.
-  She was so absorbed in her work that she didn’t hear him coming.
+  She was so absorbed in her work that she didn't hear him coming.
 
 
 Vertrag /fɛɐˈtraːk/, der, -(e)s|..e: contract, treaty
@@ -723,7 +727,7 @@ vertreten /fɛɐˈtreːtən/: to stand in/deputize for, to represent, to support
 
 Vertreter /fɛɐˈtreːtɐ/, -s|~, -in: deputy
   Während meines Urlaubs wenden Sie sich bitte an meine Vertreterin.
-  Please contact my deputy whilst I’m away on vacation.
+  Please contact my deputy whilst I'm away on vacation.
 
 vertuschen /fɛɐˈtʊʃən/: to cover up
   Er versuchte seinen Fehler zu vertuschen.
@@ -777,6 +781,9 @@ verwirren /fɛɐˈvɪrən/: to confuse, to bewilder, to ruffle, to get tangled u
   Weißes Haus verwirrt
   Sein nächtlicher Anruf hat mich völlig verwirrt.
   I was completely bewildered by his night-time phone call.
+
+verwirrt /fɛɐˈvɪrt/: confused, bewildered
+  ein verwirrtes Gesicht machen: to look confused
 
 Verwirrung /fɛɐˈvɪrʊŋ/, die: confusion
   In der allgemeinen Verwirrung machte er sich mit dem Geld davon.
@@ -941,6 +948,14 @@ vorbei /foːɐˈbai/: past, by
   Wenn der Traktor vorbei ist, gehen wir über die Straße.
   When the tractor is past, we'll cross the road.
 
+vorbeikommen: to get past, to avoid, to stop by
+  Auf dem Rückweg kamen wir an einem schönen alten Bauernhaus vorbei.
+  On the way back we passed a beautiful old farmhouse.
+  Fahren Sie bitte Ihren Wagen weg, ich komme sonst nicht vorbei.
+  Please could you move your car. Otherwise I can't get past.
+  Kommst du morgen Nachmittag auf einen Kaffee vorbei?
+  Would you like to drop by for a coffee tomorrow afternoon?
+
 vorbeifliegen: to fly past
 
 vorbeigehen /foːɐˈbaiɡeːən/: to go past, to pass
@@ -1041,7 +1056,7 @@ vorsingen /ˈfoːɐzɪŋən/: to sing, to sing first, to audition
   Der Lehrer sang die erste Strophe vor, und dann sangen sie alle noch einmal zusammen.
   The teacher sang the first verse first and then they all sang it again together.
   Die Band hat schon mehrere Kandidaten vorsingen lassen, aber sich noch für keinen entschieden.
-  The band have already auditioned several candidates but haven’t chosen one yet.
+  The band have already auditioned several candidates but haven't chosen one yet.
 
 vorsitzen: to chair
 

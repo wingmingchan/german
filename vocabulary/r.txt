@@ -180,6 +180,7 @@ Rebellion /rebɛˈljoːn/, die, -en: rebellion
 rechnen /ˈrɛçnən/: to calculate
   Sie lernen jetzt, mit Prozenten zu rechnen.
   At the moment they're learning to do calculations with percentages.
+  kopfrechnen 心算
 
 Rechner /ˈrɛçnɐ/, der, -s|~: mathematician, calculator, computer
   ein guter Rechner sein: to be good with figures
@@ -565,6 +566,8 @@ Ruck /rʊk/, der: jerk, jolt, tug
   Sie riss sich mit einem kräftigen Ruck von ihm los.
   She broke away from him with a powerful tug.
   sich einen Ruck geben [ dative ]: to pull yourself together 回復鎮定
+
+rucken: give a jerk, jolt
 
 Rücken /ˈrʏkən/, der, -s|~: back
   Er klopfte mir anerkennend auf den Rücken.
