@@ -558,6 +558,8 @@ beliebt /bəˈliːpt/: popular
 
 bellen /ˈbɛlən/: to bark
 
+belustigen /bəˈlʊstɪgən/: to amuse
+
 bemerken /bəˈmɛrkən/: to notice
   Der Unterschied war kaum zu bemerken.
   The difference was hardly noticeable.
@@ -802,6 +804,8 @@ besorgen /bəˈzɔrɡən/: to get, to take care of
   Can you get me something from the pharmacy?
   Seine Schwester besorgt ihm jetzt den Haushalt.
   His sister takes care of his housework for him now.
+
+besorglich: anxious, concerned, worried
 
 bespitzeln /bəˈʃpɪʦəln/: to spy on
   Die Firma ließ ihre Mitarbeiter bespitzeln.
@@ -1067,6 +1071,20 @@ bezahlen /bəˈʦaːlən/: to pay for
   How much do you pay your cleaning lady an hour?
 
 bezaubern: bewitch, charm, enchant
+
+Beziehung /bəˈʦiːʊŋ/, die, ~|-en: relationship, connection, respect
+  Wir haben eine freundschaftliche Beziehung zueinander.
+  We have a friendly relationship with one another.
+  Wir haben seit drei Monaten eine (feste) Beziehung.
+  We've been in a (committed) relationship for three months now.
+  Um in der Politik erfolgreich zu sein, braucht man Beziehungen.
+  To be successful in politics you need connections.
+  In welcher Beziehung stehen die Ereignisse zueinander?
+  What connection do the events have with one another?
+  In dieser Beziehung bin ich ganz Ihrer Meinung.
+  I agree completely with what you say in this respect.
+  Ich habe keine rechte Beziehung zu moderner Kunst.
+  I can't really relate to modern art.
 
 beziehungsweise /bəˈʦiːʊŋsvaizə/: respectively, or, or to be more precise, or rather
   Die Angeklagten bekamen Haftstrafen in Höhe von 15 bzw. 12 Monaten.
@@ -1458,6 +1476,10 @@ Briefträger /ˈbriːftrɛːɡɐ/, -s|~, -in: mail carrier
 
 Briefumschlag /ˈbriːf|ʊmʃlaːk/, der, ..e: envelope
 
+Brille /ˈbrɪlə/, die, ~|-n: glasses
+  eine Brille tragen: to wear glasses
+  Brillenglas: spectacle glass
+
 *Brise /ˈbriːzə/, die: breeze
 
 brisant /brɪˈzant/: explosive, controversial
@@ -1537,6 +1559,10 @@ buchstabieren /buːxʃtaˈbiːrən/: to spell
   Mein Name ist Mayr – ich buchstabiere: Martha, Anton, Ypsilon, Richard.
   My name is Mayr – I'll spell it: Mike, Alpha, Yankee, Romeo.
 
+Bückling /’bʏklɪŋ/, der, -s|-e: smoked herring, kipper, bow
+  Bücklingsfilets: smoked herring filets
+  einen Bückling machen: to make a (deep) bow
+
 buddeln /ˈbʊdəln/: to dig
   Die Kinder buddeln im Sand.
   The kids are digging holes in the sand.
@@ -1581,6 +1607,8 @@ Bürger /ˈbʏrɡɐ/, der: citizen
   die amerikanischen Bürgerinnen und Bürger: the citizens of the USA
 
 Bürgermeister: mayor
+
+Bürgersteig /ˈbʏrɡɐʃtaik/, der, -(e)s|-e: sidewalk
 
 Büro /byˈroː/, das, -s|-s
   ins Büro gehen: to go to the office

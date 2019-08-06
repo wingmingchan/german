@@ -414,10 +414,16 @@ Flächen /ˈflɛçə/, die, -: area, surface, side
   Mindestens drei Flächen einer Pyramide sind Dreiecke.
   At least three sides of a pyramid are triangles.
 
-flammend /ˈflamənt/: impassioned, blazing
-  eine flammende Rede halten: to give an impassioned speech
+flackern /ˈflakɐn/: to flicker
+  im flackernden Schein des Lagerfeuers
+  in the flickering light of the campfire
+  Der Bildschirm flackerte ein paarmal und blieb dann schwarz.
+  The monitor flickered a couple of times and then went black.
 
 Flagge /ˈflaɡə/, die: flag
+
+flammend /ˈflamənt/: impassioned, blazing
+  eine flammende Rede halten: to give an impassioned speech
 
 Flanke /ˈflaŋkə/, die: flank
 
@@ -613,6 +619,9 @@ Format /fɔrˈmaːt/, das, -(e)s|-e: format, caliber, standing
 formell /fɔrˈmɛl/: formal
   Warum denn so formell? Wollen wir uns nicht duzen?
   Why so formal? Shouldn't we use the familiar „du‟ form?
+
+-förmig: -shaped
+  hinter den halbmondförmigen Brillengläsern
 
 förmlich /ˈfœrmlɪç/: formal
   Eine förmliche Genehmigung wurde nie erteilt.

@@ -236,6 +236,8 @@ Gedanke /ɡəˈdaŋkə/, der, -ns|-n: thought, idea
   sich über jdn / etw. Gedanken machen: to be concerned about sb/sth
   Darüber habe ich mir für Euch Gedanken gemacht.
 
+gedankenverloren: absentminded, abstracted
+
 Geduld /ɡəˈdʊlt/, die, ~|uncountable: patience
   Er hat beim / fürs Basteln keine Geduld.
   He has no patience for making things.
@@ -393,6 +395,7 @@ gehen /ˈɡeːən/: to go, to walk, to leave
   es geht um jdn/etw: it's about sb/sth
   Worum geht es in dem Buch?
   What's the book about?
+  was vor sich ging: what was happening
   
 Gehirn /ɡəˈhɪrn/, das: brain
 
@@ -644,6 +647,12 @@ gerade: especially, particularly
 
 geradeaus /ɡəraːdəˈ|aus/: straight ahead
 
+geradewegs /ɡəˈraːdəveːks/: straight, straightaway, straight-out
+  Sie führte ihn geradewegs ins Schlafzimmer.
+  She led him straight into the bedroom.
+  Er fragte sie geradewegs nach ihrer Telefonnummer.
+  He asked her for her phone number straight-out.
+
 Gerät /ɡəˈrɛːt/, das, -e: tool, appliance, equipment, device, apparatus
   landwirtschaftliche Geräte: agricultural equipment
   Elektrogerät: electronic appliances
@@ -719,10 +728,11 @@ Geschäft /ɡəˈʃɛft/, das: store, business, deal, trade
 
 Geschäftsmann: businessman
 
-geschehen /ɡəˈʃeːən/: to happen, to occur
+geschehen /ɡəˈʃeːən/: to happen, to occur, to commit
   geschehe, geschiehst, geschieht, ihr gescheht, bin geschehen
   Ein Wunder ist geschehen!
   A miracle has happened!
+  ihr Selbstmord geschah aus Verzweiflung: her despair led her to commit suicide
 
 Geschichte /ɡəˈʃɪçtə/, die, ~|-n: story, history
 
@@ -730,11 +740,6 @@ geschickt /ɡəˈʃɪkt/: skillful
   => gewandt
   handwerklich / mit seinen Händen sehr geschickt sein
   to be very skilled with your hands
-
-geschehen /ɡəˈʃeːən/: to happen, to occur, to commit
-  Ein Wunder ist geschehen!
-  A miracle has happened!
-  ihr Selbstmord geschah aus Verzweiflung: her despair led her to commit suicide
 
 Geschick /ɡəˈʃɪk/, das: skill, fate
 
@@ -973,6 +978,13 @@ glänzend /ˈɡlɛnʦənt/: glossy, shiny, brilliant
   Es geht mir glänzend!
   I'm doing real good.
 
+Glas /ɡlaːs/, das, -es|..er: glass, jar, lens
+  eine Auflaufform aus feuerfestem Glas
+  a casserole dish made of heat-resistant glass
+  sein Glas austrinken: to empty your glass
+  ein Glas Honig kaufen: to buy a jar of honey
+  eine Brille mit getönten Gläsern: eyeglasses with tinted lenses
+
 Glaube /ˈɡlaubə/, der, -ns|uncountable: faith
 
 gläubig /ˈɡlɔybɪç/: religious, devout
@@ -1011,6 +1023,12 @@ gleichen /ˈɡlaiçən/: to resemble, to be similar
 
 Gleichschritt /ˈɡlaiçʃrɪt/, der, -(e)s: marching in step
   im Gleichschritt marschierende Soldaten: soldiers marching in step
+
+gleiten /ˈɡlaitən/: to glide, to slide
+  Das Boot glitt geräuschlos durchs Wasser.
+  The boat eased its way noiselessly over the water.
+  Sie ließ sich vorsichtig ins Wasser gleiten.
+  She let herself slip carefully into the water.
 
 Gletscher /ˈɡlɛʧɐ/, der: glacier
 
@@ -1208,6 +1226,7 @@ Gurke /ˈɡʊrkə/, die, -n: cucumber
 
 Gürtel /ˈɡʏrtəl/, der, -: belt
   Bademantelgürtel: bathrobe belt
+  den Gürtel enger schnallen: to tighten your belt
 
 gut /ɡuːt/: good
   Für die Jahreszeit war das Wetter ganz gut.

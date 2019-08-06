@@ -171,6 +171,10 @@ hängen /ˈhɛŋən/: to hang, to be attached to
   einen Anhänger ans Auto hängen: to hook up a trailer to the car
   hängen zusammen (mit): to be related to, to be associated with
 
+Härchen /ˈhɛːrçən/, das, -s|~: tiny hair
+  Die Blätter der Pflanze sind von feinen Härchen bedeckt.
+  The leaves of the plants are covered with tiny hairs.
+
 harren /ˈharən/: to wait for sb/sth
    Sie harrte auf eine Nachricht von ihm.
    She waited for news from him.
@@ -499,12 +503,20 @@ herum /hɛˈrʊm/: (a)round, past, finished
 
 herumlaufen /hɛˈrʊmlaufən/: to walk/run around
 
+herumreden /hɛˈrʊmreːdən/: to talk around sth
+  Komm endlich zur Sache und sag, was du eigentlich willst, anstatt darum herumzureden.
+  Cut to the chase and say what you want instead of talking around things.
+
 herunter /hɛˈrʊntɐ/: down(wards)
   der Weg vom Gipfel hier herunter: the path from the summit down to here
 
 herunterladen /hɛˈrʊntɐlaːdən/: to download
   Das Programm kannst du dir kostenlos herunterladen.
   You can download the program for free.
+
+hervor /hɛrˈfoːr/: forth, out of
+  hinter dem Baum hervor: (out) from behind the tree
+  unter dem Schrank hervor: (out) from under the cupboard
 
 Herz /hɛrʦ/, das, -ens|-en: heart
   Sein Herz klopfte wild / hörte auf zu schlagen.
@@ -593,6 +605,10 @@ hindern /ˈhɪndɐn/: to prevent, to hinder
 Hindernis /ˈhɪndɐnɪs/, das: obstacle
   Nach dem Sturm lagen Bäume und Äste als Hindernisse auf der Straße.
   After the storm, trees and branches formed obstacles on the road.
+
+hineingeraten: to get in, to get caught
+  Ich bin in eine unangenehme Situation hineingeraten.
+  I got into an unpleasant situation.
 
 hineinreden /hɪˈnaɪnreːdən/: to interrupt
   Hör bitte auf, dauernd hineinzureden, wenn ich telefoniere.

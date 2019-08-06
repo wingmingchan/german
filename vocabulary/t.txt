@@ -102,6 +102,7 @@ Taste /ˈtastə/, die, -n: key, button
 Tat /taːt/, die, ~|-en: deed, act, action, crime, offense
   Wer wird der Tat verdächtigt?
   Who is suspected of the crime?
+  in der Tat: indeed, in fact
 
 tat /taːt/ => tun
   ich tat, du tatest, er tat, wir taten, ihr tatet
@@ -147,7 +148,7 @@ Taube /ˈtaubə/, die: pigeon, dove
   The pigeons are cooing on the roof.
 
 tauchen /ˈtauxən/: to dive, to swim underwater, to duck, to shroud
-  Der Raum war ins Dunkel/in sanftes Kerzenlicht getaucht.
+  Der Raum war ins Dunkel / in sanftes Kerzenlicht getaucht.
   The room was shrouded in darkness/bathed in soft candlelight.
 
 Tausch /tauʃ/, der: exchange, swap

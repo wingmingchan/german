@@ -32,12 +32,12 @@ Saft /zaft/, der, Säfte: juice
 sagen: to say
   sage, sagst, sagt, habe gesagt
   Ehrlich gesagt: Ich weiß es nicht.
-  To be honest, I don’t know.
+  To be honest, I don't know.
 
 sah => sehen
   ich sah, du sahst, er sah, wir sahen, ihr saht
 
-Sahne /ˈzaːnə/, die, |uncountable: cream
+Sahne /ˈzaːnə/, die, ~|uncountable: cream
   Sahne für den Kuchen steif schlagen: to whip some cream for the cake 
   saure Sahne: sour cream
 
@@ -416,6 +416,7 @@ schließen /ˈʃliːsən/: to close, conclude, contract, fasten, reason, shut, s
   What time does the bank close?
   jdn/sich in ein Zimmer schließen: to lock sb/yourself in a room
   einen Vertrag mit jdm schließen: to sign a contract with sb
+  ... nach zu schließen: judging by ...
 
 schließlich /ˈʃliːslɪç/: finally, at last, in the end, after all
   Schließlich verließen auch die letzten Gäste das Fest.
@@ -438,6 +439,13 @@ schlingen /ˈʃlɪŋən/: to wrap, to tie, to coil itself, to scoff
   das Seil um das Geländer schlingen: to tie the rope around the railing
   Efeu schlingt sich um den Baum.
   Ivy is twining itself around the tree.
+
+Schlitz /ʃlɪʦ/, der, -es|-e: slit, slot, fly
+  die Augen zu schmalen Schlitzen zusammenkneifen
+  to narrow your eyes into slits
+  ein Rock mit seitlichem Schlitz: a skirt with a side slit
+  Mach deinen Hosenschlitz zu!
+  Do up your fly!
 
 schlugen => schlagen
 
@@ -469,7 +477,7 @@ schmeicheln /ˈʃmaiçəln/: to flatter
   Du brauchst mir gar nicht so zu schmeicheln!
   You don't need to flatter me like that.
   Es schmeichelt mir sehr, dass du mir das zutraust, aber …
-  I'm very flattered that you think I’m capable of that but …
+  I'm very flattered that you think I'm capable of that but …
   Das Kleid schmeichelt ihrer Figur.
   That dress flatters her figure.
 
@@ -519,6 +527,15 @@ schmutzig /ˈʃmʊʦɪç/: dirty
   sich mit schmutzigen Geschäften bereichern: to get rich with some shady deals
 
 Schnabel /ˈʃnaːbəl/, der: beak, bill
+
+schnallen /ˈʃnalən/: to fasten
+  Er schnallte die Tasche auf das Fahrrad.
+  He fastened the bag onto the bike.
+  etw. weiter / enger schnallen: to loosen/tighten sth
+  Sie schnallte ihren Gürtel ein wenig enger.
+  She tightened her belt a little.
+  Hast du's jetzt endlich geschnallt? (to understand)
+  Have you finally got it yet?
 
 schnappen /ˈʃnapən/: to snap, to grab, to catch
   Der Hund schnappte nach der Wurst / nach mir.
@@ -753,6 +770,11 @@ schwanger: pregnant
 
 schwank: frail, slender
 
+Schwanz /ʃvants/, der, -es|..e: tail, penis
+  Der Hund wedelt mit dem Schwanz.
+  The dog wags its tail.
+  den Gaul beim Schwanz aufzäumen: to put the cart before the horse
+
 schwarz /ʃvarʦ/, schwarzen: black
 
 schwatzen /ˈʃvaʦən/: to chat
@@ -811,6 +833,10 @@ schwingen /ˈʃvɪŋən/: to swing
   Er schwang drohend einen Knüppel.
   He brandished a club menacingly.
 
+schwirren /ˈʃvɪrən/: to whir, to whiz, to buzz 發出嗡嗡聲
+  Es lag ein Schwirren von Tausenden Flügeln in der Luft.
+  The air was full of the sound of thousands of whirring wings.
+
 schwören /ˈʃvøːrən/: to swear
   einen Eid auf die Verfassung schwören: to swear (an oath) on the constitution
 
@@ -866,7 +892,7 @@ Sehnsucht /ˈzeːnzʊxt/, die, ..e: longing, yearning
 
 sehr /zeːɐ/: very
   Ich weiß sehr wohl, dass du mich anlügst!
-  I know perfectly well that you’re lying to me.
+  I know perfectly well that you're lying to me.
   Bitte sehr!
   You're very welcome.
 
@@ -937,7 +963,7 @@ selbstständig /ˈzɛlpstʃtɛndɪç/: independent
   
 selbstverständlich /ˈzɛlpstfɛɐʃtɛntlɪç/: obvious, natural, naturally, of course
   Dass ich dir helfe, ist doch selbstverständlich.
-  It goes without saying that I’ll help you.
+  It goes without saying that I'll help you.
   Ich werde selbstverständlich kommen.
   Of course I'll come.
 
@@ -1087,6 +1113,12 @@ sobald /zoˈbalt/: as soon as
   I'll let you know as soon as he phones.
 
 sodass /zoˈdas/: so that
+
+soeben /zo|ˈeːbən/: just (this moment), just
+  Ich bin soeben dabei, dein Hemd zu bügeln.
+  I'm just ironing your shirt.
+  Er hat soeben erfahren, dass er versetzt wird.
+  He just heard that he's being transferred.
 
 sofern /zoˈfɛrn/: if
   Sofern das Wetter schön ist, können wir am Wochenende in die Berge fahren.
@@ -1468,7 +1500,7 @@ stechen /ˈʃtɛçən/: to sting, to bite, to prick
   Nur weibliche Mücken stechen.
   Only female mosquitos bite.
   Aua, das sticht!
-  Ow, that’s prickly!
+  Ow, that's prickly!
   in See stechen: to put to sea, to set sail
 
 Stecher /ˈʃtɛçɐ/: sex partner
@@ -1481,6 +1513,10 @@ stecken /ˈʃtɛkən/: to be, to put
   to put a lot of work/money/… into sth
   jdm / sich einen Ring an den Finger stecken
   to put a ring on sb's/your finger 
+
+Stecknadel /ˈʃtɛknaːdəl/, die, ~|-n: pin
+  einen Rocksaum mit Stecknadeln abstecken: to pin up the hem of a skirt
+  eine Stecknadel im Heuhaufen: a needle in a haystack
 
 steckte => stecken
 
@@ -1586,8 +1622,9 @@ Stichwort /ˈʃtɪçvɔrt/, das: headword, keyword, keypoint, cue
 Stichwortverzeichnis, das: index
   im Stichwortverzeichnis aufgeführt sein: to be listed in the index
 
-Stiefel /ˈʃtiːfəl/, der, -: boot
+Stiefel /ˈʃtiːfəl/, der, -s|~: boot
   Gummistiefel: rubber boots
+  Schnallenstiefel: buckled boots
 
 Stift /ʃtɪft/, der, -e: pen(cil), peg, tack, apprentice
   Hast du mal einen Stift für mich?
@@ -1641,7 +1678,14 @@ stinken /ˈʃtɪŋkən/: to stink
 Stirn /ʃtɪrn/, die, -en: forehead
   eine hohe Stirn haben: to have a high forehead
 
-stöbern /ˈʃtœːbɐn/: to browse
+stöbern /ˈʃtœːbɐn/: to browse, to rummage
+  Er stöbert auf dem Speicher nach alten Erinnerungsstücken.
+  He is rummaging around in the loft for old keepsakes.
+
+Stoff /ʃtɔf/, der, -(e)s|-e: substance, material, subject matter
+  der sichere Umgang mit radioaktiven Stoffen
+  the safe handling of radioactive substances
+  ein Kleid aus rotem Stoff: a dress made from red material
 
 Stollen /ˈʃtɔlən/, der, Stollen: tunnel
 
@@ -1682,7 +1726,7 @@ stoßen /ˈʃtoːsən/: to push, to shove, to strike, to bump
   mit dem Kopf an die Decke stoßen: to bump your head on the ceiling
   sich an etw. stoßen [dative]: to take exception to sth
   Stoß dich bitte nicht an der Unordnung, ich hatte noch keine Zeit zum Aufräumen.
-  Please don't mind the mess. I didn’t have time to tidy up.
+  Please don't mind the mess. I didn't have time to tidy up.
   auf etw. stoßen [accusative]: to come across sth, to meet with sth
   Ich bin in dem Buch auf etwas Interessantes gestoßen.
   I came across something interesting in that book.
