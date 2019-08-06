@@ -273,6 +273,9 @@ befestigen /bəˈfɛstɪɡən/: to attach, to fix, to mount
   ein Schild mit Schrauben an der Wand befestigen
   to screw a sign to the wall
 
+Befinden /bəˈfɪndən/, das, -s|uncountable: health
+  sich nach jds Befinden erkundigen: to ask after sb's health
+
 Befliegung: flight, overflying
 
 befördern: to transport, to promote
@@ -793,6 +796,12 @@ besonders /bəˈzɔndɐs/: particularly, especially
   ein besonders erfolgreiches Jahr: a particularly successful year
   Sie ist nicht besonders hübsch.
   She's not particularly pretty.
+
+besorgen /bəˈzɔrɡən/: to get, to take care of
+  Kannst du mir etwas aus der Apotheke besorgen?
+  Can you get me something from the pharmacy?
+  Seine Schwester besorgt ihm jetzt den Haushalt.
+  His sister takes care of his housework for him now.
 
 bespitzeln /bəˈʃpɪʦəln/: to spy on
   Die Firma ließ ihre Mitarbeiter bespitzeln.

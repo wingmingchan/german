@@ -161,7 +161,7 @@ kehren /ˈkeːrən/ to sweep, to return
 
 kein: not, not a, less than
   Das ist keine schlechte Idee!
-  That’s not a bad idea.
+  Thatˈs not a bad idea.
   Ich musste keine zwei Minuten auf den Bus warten.
   I had to wait less than two minutes for the bus.
 
@@ -235,6 +235,10 @@ kieselig: pebbly
 
 Kieselstein, der: pebblestone
 
+Kiste /ˈkɪstə/, die, ~|-n: box, crate
+  eine Kiste (voller) Bücher: a box (full of) books
+  zwei Kisten Bier kaufen: to buy two crates of beer
+
 Kind, das: child
 
 Kinderschänder: child abuser
@@ -243,13 +247,13 @@ Kindesmissbrauch, der: child abuse, child molesting
 
 Kinn /kɪn/, das, -(e)s|-e: chin
 
-Kino /’kiːno/, das, -s|-s
+Kino /ˈkiːno/, das, -s|-s
   Was läuft diese Woche im Kino?
   What's on at the movie theater this week?
   Wann ist das Kino aus?
   When does the movie finish?
 
-kippen /’kɪpən/: to tip (up), to pour, to tilt, to topple over
+kippen /ˈkɪpən/: to tip (up), to pour, to tilt, to topple over
   das Fenster nachts gekippt lassen: to leave the window tilted open at night
   Wasser in den Abfluss kippen: to tip water into the drain
   mit dem Stuhl nach hinten kippen: to topple over backwards on your chair
@@ -259,7 +263,7 @@ Kirche /ˈkɪrçə/, die, ~|-n: church
 
 Kirschsaft, der: cherry juice
 
-Kissen /’kɪsən/, das, -: pillow, cushion
+Kissen /ˈkɪsən/, das, -: pillow, cushion
   ein paar Kissen aufs Sofa legen: to put a couple of cushions on the sofa
 
 klagen /'klaːɡən/: complain, to take legal action
@@ -268,7 +272,7 @@ klagen /'klaːɡən/: complain, to take legal action
   Wir erwägen zu klagen.
   We're considering taking legal action.
 
-kläglich /’klɛːklɪç/: pitiful
+kläglich /ˈklɛːklɪç/: pitiful
   Man hörte ein klägliches Miauen aus der Kiste.
   Pitiful meows could be heard coming from the box.
 
@@ -505,6 +509,10 @@ Komplex /kɔmˈplɛks/, der, -es|-e: complex, set
   Das gehört zu einem anderen Themenkomplex.
   That's part of a different set of issues.
 
+Kompliment /kɔmpliˈmɛnt/, das, -(e)s|-e: compliment
+  Er machte mir ein Kompliment über mein Aussehen.
+  He complemented me on my appearance.
+
 kompliziert /kɔmpliˈʦiːɐt/: complicated
   	eine komplizierte Aufgabe: a complicated task
 
@@ -535,11 +543,11 @@ Kongo /ˈkɔŋɡo/, der
 
 konjugieren /kɔnjuˈɡiːrən/: to conjugate
 
-Konjunktion /kɔnjʊŋk’ʦjoːn/, die, ~|-en: conjunction
+Konjunktion /kɔnjʊŋkˈʦjoːn/, die, ~|-en: conjunction
 
 Konjunktur /kɔnjʊŋkˈtuːɐ/, die: economy
 
-Konkurrenz /kɔnku’rɛnʦ/, die, -en: rivalry, competition
+Konkurrenz /kɔnkuˈrɛnʦ/, die, -en: rivalry, competition
   die Konkurrenz zwischen Geschwistern um die Liebe der Eltern
   the competition between siblings for the love of their parents
   einander Konkurrenz machen: to compete with each other
@@ -696,6 +704,8 @@ Kauz /kauʦ/, der, -es|..e: screech owl, eccentric fellow, rare bird
   Unser Nachbar ist ein sonderbarer Kauz.
   Our neighbor's an oddball.
 
+krähen /ˈkrɛːən/: to crow
+
 Krawatte /kraˈvatə/, die: tie
   Er kam in Anzug und Krawatte.
   He came in a suit and tie.
@@ -728,6 +738,10 @@ kreuzigen /ˈkrɔyʦɪɡən/: to crucify
 
 Kreuzung /ˈkrɔyʦʊŋ/, die: intersection
 
+kriechen /ˈkriːçən/: to creep, to crawl
+  Eine Spinne kroch über ihren Arm.
+  A spider crawled across her arm.
+
 Krieg /kriːk/, der, -e: war
 
 Kriegsfall, der: case of war
@@ -747,6 +761,9 @@ Krippe /ˈkrɪpə/, die, -n: daycare center, manger, crèche
 kritisieren /kritiˈziːrən/: to criticize
   Die Regierung wurde wegen dieses Vorfalls/für diesen Fehler scharf kritisiert.
   The government was sharply criticized for this incident/mistake.
+
+krochen => kriechen
+  ich kroch, du krochst, er kroch, ihr krocht
 
 Krug /kruːk/, Krüge: jug, pitcher
   ein Tonkrug mit Wasser: an earthenware pitcher containing water

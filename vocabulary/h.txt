@@ -89,6 +89,9 @@ halten /ˈhaltən/: to hold, to keep, to give, to deliver, to stop
   sich an etw. halten: to follow sth, to obey sth
   Sie hält eine Vorlesung über moderne Architektur.
   She's giving a lecture on modern architecture.
+  etw. von jdm / etw. halten: to think sth of sb/sth
+  Was hältst du von meinem Vorschlag?
+  What do you think of my suggestion?
 
 Halter /ˈhaltɐ/, der, -: holder, mount
   Handtuchhalter: towel rack
@@ -198,6 +201,9 @@ hastig /ˈhastɪç/: hasty
   Bitte machen Sie keine hastigen Bewegungen!
   Please don't make any hasty movements.
 
+hauchen /ˈhauxən/: to breathe
+  in die Hände hauchen, um sie zu wärmen: to breathe on your hands to warm them up
+
 hauen /ˈhauən/: to hit, to beat, to fight
   mit der Faust auf den Tisch hauen: to bang your fist on the table 
 
@@ -249,6 +255,9 @@ Hausaufgabe /ˈhaus|aufɡaːbə/, die, -n: homework
   What do you have for homework in German?
 
 Hausbesitzer: householder
+
+Häuschen /ˈhɔysçən/, das: house, building
+  Hühnerhäuschen
 
 hausen /ˈhauzən/: pejorative: to live
   Die Familie hauste in einer verrosteten Blechhütte.
@@ -701,6 +710,12 @@ Hochzeitstorte, die: wedding cake
 Hochwasser /ˈhoːxvasɐ/, das: flood(ing)
   Hochwasserkatastrophe: flood disaster
   Hochwassergefahr: danger of flooding
+
+Hof /hoːf/, der, -(e)s|..e: yard, courtyard, farm, court
+  Die Kinder spielen im Hof.
+  The kids are playing in the yard.
+  Der Hof ist schon seit vielen Generationen im Besitz der Familie.
+  The farm has been in the family for generations.
 
 hoffen /ˈhɔfən/: to hope
 

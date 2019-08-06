@@ -67,6 +67,13 @@ Tante /ˈtantə/, die: aunt
 
 tanzen /ˈtanʦən/: to dance
 
+Tapete /taˈpeːtə/, die, ~|-n: wallpaper
+  eine Tapete mit Blumenmuster: wallpaper with a flowery pattern
+
+tapezieren /tapeˈʦiːrən/: to wallpaper
+  Wir wollen (unser Wohnzimmer) neu tapezieren.
+  We want to put up some new wallpaper (in our living room).
+
 tapfer /ˈtapfɐ/: brave
   ein tapferer Krieger: a brave warrior
   Sie kämpften tapfer bis zum Sieg.
@@ -525,6 +532,10 @@ treu /trɔy/: faithful
   He simply isn't capable of being faithful.
   Der Hund ist der treueste Freund des Menschen.
   Dogs are man's most faithful friends.
+
+Treue /ˈtrɔyə/, die, ~|uncountable: faithfulness, fidelity, loyalty
+  Er hatte ihr ewige Treue geschworen.
+  He had sworn to always be faithful to her.
 
 trieb => treiben
 
