@@ -103,6 +103,18 @@ verbessern /fɛɐˈbɛsɐn/: to improve, to correct, to amend
 
 verbrachte => verbringen
 
+verbreiten /fɛɐˈbraitən/: to spread, to transmit
+  Malaria wird von Mücken verbreitet.
+  Malaria is spread by mosquitos.
+  Die Kerze verbreitete ein warmes Licht.
+  The candle gave off a warm light.
+  Er verbreitet überall, dass sie ihn verlassen hat.
+  He is spreading it about everywhere that she left him.
+  Die Nachricht verbreitete großes Entsetzen in der Bevölkerung.
+  The news caused outrage amongst the population.
+  Die Neuigkeit verbreitete sich in Windeseile.
+  The news spread like wildfire.
+
 verbreitet /fɛɐˈbraitət/: common, widespread
   ein verbreitetes Vorurteil: a common prejudice
 
@@ -1000,7 +1012,8 @@ vorhalten /ˈfoːɐhaltən/: to hold up, to accuse, to reproach, to last
   Die Erholung hielt nicht lange vor.
   The recovery didn't last long.
 
-vorgestern /ˈfoːɐɡɛstɐn/: the day before yesterday
+Vorhang /ˈfoːɐhaŋ/, der, -(e)s|..e: curtain
+  den Vorhang zuziehen: to draw the curtain
 
 Vorherrschaft /ˈfoːɐhɛrʃaft/, die: domination, supremacy
 
@@ -1121,6 +1134,12 @@ Vortrag /ˈfoːɐtraːk/, der, ..e: talk, performance
   I have to give a talk about butterflies in biology.
   Die Sängerin begeisterte durch ihren mitreißenden Vortrag.
   The singer delighted her audience with her rousing performance.
+
+vortragen /ˈfoːɐtraːɡən/: to present, to make, to express
+  Hast du dem Chef schon deine Bedenken vorgetragen?
+  Have you expressed your concerns to the boss yet?
+  Sie trug dem Publikum ihre Gedichte vor.
+  She recited her poems to the audience.
 
 Vorurteil /ˈfoːɐ|ʊrtail/, das, -e: prejudice, bias
   Vorurteile gegen Minderheiten haben

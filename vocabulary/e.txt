@@ -501,7 +501,15 @@ einschlagen /ˈainʃlaːɡən/: to smash, to strike, to hit
 
 einschleichen /ˈainʃlaiçən/: to sneak in
 
-einsetzen /ˈainzɛʦən/: to use, to deploy, to appoint, to set up, 
+einsehen /ˈainzeːən/: to realize, to accept, to look at/through, to inspect, to see
+  Ich sehe ein, dass es keine andere Möglichkeit gibt.
+  I realize that there's no alternative.
+  Sie können Ihre Akte gern einmal einsehen.
+  You're welcome to take a look at your file.
+  Da die Hecke sehr hoch ist, lässt sich die Kreuzung schlecht einsehen.
+  Since the hedge is so high, it's hard to see the crossing.
+
+einsetzen /ˈainzɛʦən/: to use, to deploy, to appoint, to set up
   Wann soll diese Waffe eingesetzt werden?
   When is this weapon to be used?
   einen Untersuchungsausschuss einsetzen
@@ -853,6 +861,8 @@ Entsetzen, das: horror, terror
 entsetzen /ɛntˈzɛʦən/: to horrify
   sich über jdn / etw entsetzen: to be horrified at or by sb/sth
   sich vor etw [dative] entsetzen: to be horrified at sth
+
+entsetzt /ɛntˈzɛʦt/: horrified, in horror
 
 entsorgen /ɛntˈzɔrɡən/: to dispose of
   Abfälle umweltfreundlich entsorgen

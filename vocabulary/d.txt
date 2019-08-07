@@ -567,6 +567,8 @@ durchaus /ˈdʊrç|aus/: quite, by all means
   Es kann durchaus sein, dass er kommt; ich glaube es aber nicht.
   It's quite possible he'll come, but I don't believe he will.
 
+durchdringend: penetrating, piercing
+
 Durcheinander /dʊrç|aiˈnandɐ/ oder /ˈdʊrç|ainandɐ/, das, -s|uncountable: mess, chaos, confusion
   Im ganzen Zimmer herrscht heilloses Durcheinander.
   The whole room was an absolute mess.
@@ -634,7 +636,7 @@ Durst /dʊrst/, der: thirst
 
 durstig /ˈdʊrstɪç/: thirsty
 
-▲düster /ˈdyːstɐ/: gloomy, dull, somber
+▲düster /ˈdyːstɐ/: gloomy, dull, dark, somber
   ein Bild in düsteren Farben: a picture in somber colors
   ein düsteres Bild von der Zukunft malen: to paint a bleak picture of the future
   düsteren Gedanken nachhängen: to think gloomy thoughts

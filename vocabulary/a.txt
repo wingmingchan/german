@@ -46,6 +46,20 @@ Abenteuer /ˈaːbəntɔʏɐ/, das, -s|~: adventure
 
 aber /ˈaːbɐ/: but
 
+abfahren /ˈapfaːrən/: to leave, to depart, to exit, to wear down, to drive along
+  Wann fährst du morgen ab?
+  When are you leaving tomorrow?
+  In Frankfurt müssen wir von der Autobahn abfahren.
+  We have to get off the freeway in Frankfurt.
+  ins Tal abfahren: to run down into the valley
+​ Das Auto hatte völlig abgefahrene Reifen.
+  The car's tires are worn right down.
+  Ich bin den ganzen Weg abgefahren, aber ich konnte sie nicht finden.
+  I drove along the whole route, searching, but I couldn't find her/it.
+  auf jdn / etw. abfahren: to be crazy about sb/sth
+  Er fährt voll auf sie ab.
+  He's crazy about her.
+
 Abfall /ˈapfal/, der, -(e)s|..e: waste, trash
   industrielle Abfälle: industrial waste
 
@@ -92,6 +106,8 @@ abgeben /ˈapɡeːbən/: to hand in, to check, to share sth with sb
   seinen Mantel an der Garderobe abgeben: to give up your coat at the cloakroom
   Gibst du mir ein Stück von deinem Kuchen ab?
   Are you going to give me a piece of your cake?
+
+abgefahren: phat
 
 abgelegen: remote
   Das Hotel ist weit abgelegen vom Zentrum.
@@ -268,6 +284,10 @@ Absicht /ˈapzɪçt/, die, ~|-en: intention
   mit Absicht: intentionally
   ohne Absicht: unintentionally
 
+absichtlich /ˈapzɪçtlɪç/: intentional 
+  ein absichtliches Foul: a deliberate foul
+  jdn absichtlich verletzen: to injure sb intentionally
+
 absprechen /ˈapʃprɛçən/: to agree on, 
   „Wir machen jetzt Schluss.‟ – „Ist das mit dem Chef so abgesprochen?‟
   “Let's call it a day.” – “Did you clear that with the boss?”
@@ -442,7 +462,7 @@ Ahnung /ˈaːnʊŋ/, die, ~|-en: idea
   Hast du eine Ahnung!
   You don't know jack!
   Ich hatte schon so eine Ahnung, dass das nicht klappt.
-  I had a feeling it wasn’t going to work. 
+  I had a feeling it wasn't going to work. 
 
 akademisch /akaˈdeːmɪʃ/: academic
   eine akademische Ausbildung haben: to have an academic background
@@ -578,7 +598,7 @@ als /als/: when, than, only, as if, as
   Ich will jetzt nichts als schlafen.
   Right now all I want to do is sleep.
   Er tat so, als hätte er mich nicht gehört.
-  He acted as if he hadn’t heard me.
+  He acted as if he hadn't heard me.
   als Lehrer arbeiten: to work as a teacher
 
 als ob: as if
@@ -988,7 +1008,11 @@ anschleichen /ˈanʃlaiçən/: to creep up
 
 anschießen /ˈanʃiːsən/: to wound
 
-anschließend /ˈanʃliːsənt/: subsequent
+anschließend /ˈanʃliːsənt/: subsequent, following
+  eine an den Vortrag anschließende Diskussion
+  a discussion following the lecture
+  Wir gingen ins Kino und anschließend etwas essen.
+  We went to a movie and then went for a bite to eat.
 
 Anschrift /ˈanʃrɪft/, die, -en: address
   jdm seine Anschrift mitteilen: to give sb your address
@@ -1266,6 +1290,10 @@ Atlantik /atˈlantɪk/, der, -s|uncountable
 Atlas /ˈatlas/, der, Atlanten /atˈlantən/: atlas
   einen Ort im Atlas nachschlagen: to look a place in the atlas 
 
+Atem /ˈaːtəm/, der, -s|uncountable: breath
+  tief Atem holen: to take a deep breath
+  außer Atem sein: to be out of breath
+
 atmen /ˈaːtmən/: to breathe
   Vor Anstrengung atmete er schwer.
   He was breathing heavily from the exertion.
@@ -1300,6 +1328,17 @@ aufbewahren /ˈaufbəvaːrən/: to keep
   He kept all her letters.
 
 aufbrechen /ˈaufbrɛçən/: to break open, to break down
+
+aufbringen /ˈaufbrɪŋən/: to raise, to start, to come up with, to get open
+  Können wir die Sanierungskosten überhaupt aufbringen?
+  Can we even raise the money for the renovation?
+  Wer hat denn diesen Unsinn aufgebracht?
+  Who came up with this nonsense?
+  jdn (gegen jdn / sich) aufbringen: to get sb upset (at sb/you)
+  Durch sein Verhalten hat er alle Lehrer gegen sich aufgebracht.
+  Through his behavior he put all the teachers against him.
+  Ich bringe das Tor nicht auf!
+  I can't get the gate to open!
 
 aufdecken /ˈaufdɛkən/: to uncover, to show
  Der Journalist hat die Korruption der Stadtverwaltung aufgedeckt.
@@ -1372,11 +1411,15 @@ aufgeben /ˈaufɡeːbən/: to give up, to stop, to give, to leave, to mail
   Ich habe den Garten aufgegeben, die Arbeit wurde mir zu viel.
   I've given up the garden – it was too much work for me.
   Gib dich / ihn nicht auf, es gibt noch eine Chance auf Heilung!
-  Don't give up / Don’t give up hope for him. There's still a chance of recovery.
+  Don't give up / Don't give up hope for him. There's still a chance of recovery.
   Ich möchte gern eine Anzeige für die Samstagsausgabe aufgeben.
-  I'd like to place an ad in Saturday’s edition.
+  I'd like to place an ad in Saturday's edition.
   Denk dran, deine Post rechtzeitig vor Weihnachten aufzugeben.
   Remember to mail your letters in good time for Christmas.
+
+aufgebracht /ˈaufɡəbraxt/: angry 惱怒的
+  Vor dem Sekretariat warteten aufgebrachte Eltern.
+  Angered parents were waiting outside the secretary's office.
 
 aufgehen: to rise, to open, to work, sb realizes sth
   <=> untergehen
@@ -1464,7 +1507,7 @@ aufnehmen /ˈaufneːmən/: to take up, to take in, to admit, to record
 
 aufpassen /ˈaufpasən/: to be careful, to pay attention
   Pass auf, dass du nicht hinfällst!
-  Watch out that you don’t fall!
+  Watch out that you don't fall!
   Du musst im Unterricht besser aufpassen.
   You have to pay more attention in classes.
 
@@ -1700,6 +1743,10 @@ ausgehen /ˈausɡeːən/: to go out, to finish, to run out, to go off
   etw. geht von jdm/etw. aus
   welche Gefahr von Adolf Hitler ausgeht
 
+ausgerechnet /ˈausɡərɛçnət/ oder /ausɡəˈrɛçnət/: of all things 偏偏
+  Ausgerechnet heute musst du zu spät kommen!
+  You had to be late today of all days!
+
 ausgezeichnet /ˈausɡəʦaiçnət/: excellent
   => auszeichnen
 
@@ -1752,7 +1799,7 @@ auslösen /ˈausløːzən/: to cause, to trigger
 ausmachen /ˈausmaxən/: to switch off, to extinguish, to arrange
   den Fernseher ausmachen: to switch off the TV
   Machen Sie bitte ihre Zigarette aus, hier ist Rauchen verboten.
-  Please put out your cigarette – there’s no smoking here.
+  Please put out your cigarette – there's no smoking here.
   Wir hatten doch ausgemacht, dass du das erledigst!
   But we had agreed that you would take care of that!
 
@@ -1798,7 +1845,7 @@ Ausrichtung /ˈausrɪçtʊŋ/, die, -en: organization, direction
   Das Land bewirbt sich um die Ausrichtung der Olympischen Spiele.
   The country is bidding to host the Olympic Games
   eine neue Ausrichtung der Wirtschaftspolitik fordern
-  to demand a new direction for the country’s economic policy
+  to demand a new direction for the country's economic policy
 
 ausruhen /ˈausruːən/: to rest
   Ich muss mich mal kurz ausruhen.
@@ -1865,6 +1912,13 @@ Aussprache /ˈausʃpraːxə/, die: pronunciation
   die richtige Aussprache eines Wortes
   the correct pronunciation of a word
 
+aussprechen /ˈausʃprɛçən/: to pronounce, to express
+  Das „e‟ in „Nicole‟ wird nicht ausgesprochen.
+  The “e” in “Nicole” is not pronounced.
+  => äußern
+  Sie sprach ihre Bedenken nicht aus.
+  She didn't put her misgivings into words.
+
 ausstehen /ˈausʃteːən/: to loathe sb/sth, to suffer, to be outstanding
   Er kann es nicht ausstehen, wenn geraucht wird.
   He can't stand it when people smoke.
@@ -1906,6 +1960,15 @@ außerdem /ˈausɐdeːm/: besides, moreover
 außerhalb: outside
   außerhalb des Dorfes wohnen: to live outside of the village
   außerhalb der Öffnungszeiten: outside business hours
+
+äußern /ˈɔysɐn/: to express
+  Möchten Sie noch einen Wunsch äußern?
+  Do you have any other wishes?
+  sich (über jdn / etw.) äußern, sich (zu etw.) äußern: to comment (on sb/sth)
+  Hat er sich zu den Vorwürfen geäußert?
+  Has he responded to the allegations?
+  Seine Unruhe äußerte sich in nervösen Zuckungen.
+  His restlessness could be seen in his nervous twitching.
 
 äußerst /ˈɔysɐst/: extremely
 
@@ -1955,7 +2018,7 @@ austauschen /ˈaustauʃən/: to exchange, to replace, to substitute
 
 austoben /ˈaustoːbən/: to run riot, to let off steam
   Die Jungen sollen sich im Garten mal so richtig austoben.
-  The boys can run around to their hearts’ content in the garden and tire themselves out.
+  The boys can run around to their hearts' content in the garden and tire themselves out.
 
 Australien /ausˈtraːljən/
 

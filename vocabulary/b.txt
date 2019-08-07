@@ -34,7 +34,7 @@ baden /ˈbaːdən/: to take a bath, to bathe, to swim
   We bathe our baby every day.
   nackt baden: to bathe (in the) nude
 
-Badewanne /’baːdəvanə/, die: bath
+Badewanne /'baːdəvanə/, die: bath
   sich in die Badewanne legen: to lie down in the bath
 
 Badezimmer /ˈbaːdəʦɪmɐ/, das: bathroom
@@ -191,6 +191,15 @@ Becher /ˈbɛçɐ/, der: cup, carton, pot
   He drank his coffee from a plastic cup.
   einen Becher Joghurt / Sahne / Pudding kaufen: to buy a pot of yoghurt/cream/pudding
 
+Bedacht /bəˈdaxt/, der, -s|uncountable
+  mit Bedacht: vorsichtig, absichtlich
+
+bedacht /bəˈdaxt/: prudent, cautious
+  auf etw acc bedacht sein: to be concerned about sth
+  
+bedacht => bedenken
+  ich bedachte, du bedachtest, er bedachte, ihr bedachtet
+
 Bedarf /bəˈdarf/, der, Bedarfs: need, requirement
   Schon eine Orange deckt den täglichen Bedarf an Vitamin C.
   One orange is enough to cover the daily requirement of vitamin C.
@@ -216,6 +225,20 @@ bedauernswert /bəˈdauɐnsvɛːɐt/: pitiable, unfortunate
 
 bedecken /bəˈdɛkən/: to cover sb with sth, to blanket
   habe bedeckt
+
+Bedenken /bəˈdɛŋkən/, n. pl.: doubt, concern, misgivings
+  Bedenken gegen das geplante Gesetz äußern / anmelden
+  to express concerns about the planned law
+
+bedenken /bəˈdɛŋkən/: to consider, to take into account
+  Du solltest die Folgen deines Handelns genau bedenken.
+  You should give careful consideration to the results of your actions.
+  (jdm) etw. zu bedenken geben: to point sth out (to sb)
+  Er gab zu bedenken, dass es noch andere Lösungen geben könnte.
+  He pointed out that there might be other possible solutions.
+  jdn / etw. mit etw. bedenken: to bestow sth upon sb/sth
+  Sein Auftritt wurde mit Applaus bedacht.
+  His performance was met with applause.
 
 Bedeutung: meaning, importance
   an Bedeutung gewinnen/verlieren: to gain/loose in importance
@@ -245,6 +268,10 @@ beehren /bəˈ|eːrən/: to honor sb/sth with sth
 beeilen /bəˈ|ailən/: to hurry (up)
   Beeil dich, sonst verpassen wir noch den Zug!
   Hurry up or we'll miss the train!
+
+beeindrucken /bəˈ|aindrʊkən/: to impress
+  Seine Worte haben mich schwer beeindruckt.
+  His words made a big impression on me.
 
 beeinflussen /bəˈ|ainflʊsən/: to influence
   Er lässt sich von seinen Freunden negativ beeinflussen.
@@ -358,11 +385,11 @@ Begleitung, die: companion, accompaniment
   in (jds) Begleitung: in (sb's) company
   die Frau in seiner Begleitung: the woman who accompanied him
 
-beglücken /bə’ɡlʏkən/: to please, to make happy
+beglücken /bə'ɡlʏkən/: to please, to make happy
   Das war eine beglückende Erfahrung.
   That was an uplifting experience.
 
-begreiflich /bə’ɡraiflɪç/: understandable
+begreiflich /bə'ɡraiflɪç/: understandable
   schwer begreiflicher Leichtsinn: recklessness that is hard to fathom
 
 begrenzt /bəˈɡrɛnʦt/: limited, to a limited extent
@@ -458,7 +485,7 @@ beinahe /ˈbeinahe/: almost
 
 beisammen /baiˈzamən/: together
 
-beiseite /bai’zaitə/: aside
+beiseite /bai'zaitə/: aside
   Sie legte das Buch, in dem sie gelesen hatte, beiseite, um mit ihm zu sprechen.
   She put aside the book that she's been reading so she could talk with him.
 
@@ -534,6 +561,18 @@ belauschen /bəˈlauʃən/: to eavesdrop on
 beleben /bəˈleːbən/: to stimulate, to be revitalized, to brighten up, to liven up
   Allmählich beleben sich die Straßen.
   The streets are gradually beginning to liven up.
+
+belegt /bəˈleːkt/: occupied, busy, hoarse, husky
+  Alle anderen Räume waren schon belegt.
+  All the other rooms were already occupied.
+  In der Hauptsaison sind wir immer voll belegt.
+  We're always fully booked in high season.
+  Ich wollte dich gestern anrufen, aber es war dauernd belegt.
+  I tried calling you yesterday but the line was busy all the time.
+  Er hatte eine belegte Zunge und Halsschmerzen.
+  His tongue was coated and he had a sore throat.
+  „Danke!‟, krächzte sie mit belegter Stimme.
+  “Thanks”, she croaked hoarsely.
 
 beleuchten: to light up
 
@@ -739,6 +778,12 @@ Bescheid /bəˈʃait/, der: notification
   Bitte sag mir rechtzeitig Bescheid, ob du kommen kannst.
   Please let me know in good time whether you can come. 
 
+Bescherung /bəˈʃeːrʊŋ/, die, ~|-en: giving Christmas presents, state of affairs
+  Die Kinder warten schon ungeduldig auf die Bescherung.
+  The children are already waiting impatiently for their Christmas presents to be given to them.
+  Das ist ja eine schöne Bescherung!
+  That's a fine mess!
+
 beschimpfen /bəˈʃɪmpfən/: to insult, to swear at, to abuse
   jdn am Telefon wüst beschimpfen: to hurl abuse at sb on the phone
 
@@ -785,7 +830,7 @@ besinnen /bəˈzɪnən/
   Er besann sich einen Moment und schrieb dann weiter.
   He reflected for a moment then continued writing.
 
-besitzen /bəˈzɪʦən/: to own
+besitzen /bəˈzɪʦən/: to own, to have
   habe besessen, besaß, besaßest
   Er besitzt ein Haus am Meer.
   He owns a house by the sea.
@@ -1428,9 +1473,13 @@ brauen /ˈbrauən/: to brew
   Sie brauen ein besonders gutes Bier.
   They brew a particularly good beer.
   Igitt, was hast du denn für ein Gesöff gebraut?
-  Yuck, what kind of brew is that you’ve concocted?
+  Yuck, what kind of brew is that you've concocted?
 
 Brauerei /brauəˈrai/, die, -en: brewery
+
+Brause /ˈbrauzə/, die, ~|-n: shower, soda
+  unter der Brause stehen: to be in the shower
+  ein Glas Brause trinken: to drink a glass of soda
 
 Brautpaar /ˈbrautpaːɐ/, das, -e: the bride and (bride)groom
   Das Brautpaar trat vor den Altar.
@@ -1562,7 +1611,7 @@ buchstabieren /buːxʃtaˈbiːrən/: to spell
   Mein Name ist Mayr – ich buchstabiere: Martha, Anton, Ypsilon, Richard.
   My name is Mayr – I'll spell it: Mike, Alpha, Yankee, Romeo.
 
-Bückling /’bʏklɪŋ/, der, -s|-e: smoked herring, kipper, bow
+Bückling /'bʏklɪŋ/, der, -s|-e: smoked herring, kipper, bow
   Bücklingsfilets: smoked herring filets
   einen Bückling machen: to make a (deep) bow
 

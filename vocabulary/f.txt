@@ -405,6 +405,10 @@ Firma /ˈfɪrma/, die, Firmen: firm, company
 Fisch /fɪʃ/, der, -(e)s|-e: fish
 
 fischen /ˈfɪʃən/: to fish
+  zum Fischen aufs Meer fahren: to go out to sea to fish
+  jdn / etw. aus etw. fischen: to fish sb/sth out of sth
+  Blätter mit einem Netz aus dem Teich fischen
+  to fish leaves out of the pond with a net
 
 flach /flax/: flat, shallow
 
@@ -643,6 +647,16 @@ fort /fɔrt/: away, gone
   => weg
   Mein Buch ist fort!
   My book's gone!
+
+fortfahren /ˈfɔrtfaːrən/: to continue (with/doing sth), to go away
+  Fahren Sie bitte fort!
+  Please continue.
+  Nächste Woche fahre ich fort.
+  I'm going away next week.
+  Sind sie schon fortgefahren?
+  Have they left already?
+  Fährst du bitte noch das Altpapier fort?
+  Could you take the waste paper away, please?
 
 fortschreiten /ˈfɔrtʃraitən/: to progress
   Die Krankheit schreitet weiter fort.

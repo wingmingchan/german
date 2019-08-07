@@ -70,6 +70,9 @@ zeigen /ˈʦaiɡən/: to show
   Zeigst du mir mal deine neuen Schuhe?
   Would you show me your new shoes?
 
+Zeiger /ˈʦaiɡɐ/, der, -s|~: hand, pointer
+  der große / kleine Zeiger einer Uhr: the big/little hand of a clock
+
 Zeile /ˈʦailə/, die, -n: line
   Das Gedicht ist nur wenige Zeilen lang.
   The poem is only a few lines long.
@@ -271,7 +274,7 @@ Zucht /ʦʊxt/, die, -en: breeding, growing, cultivation, breed, variety, discip
 züchten /ˈʦʏçtən/: to breed, to cultivate, to grow
   Orchideen / Dackel züchten: to cultivate orchids / to breed dachshunds
 
-zucken /ˈʦʊkən/: to twitch, to jerk, to flash, to flare up, to flicker
+zucken /ˈʦʊkən/: to twitch, to jerk, to flash, to flare up, to flicker 猛地一顫，畏縮
   Seine Beine zuckten im Schlaf.
   His legs were twitching in his sleep.
   die / mit den Schultern / Achseln zucken: to shrug (your shoulders)
@@ -446,15 +449,24 @@ Zutritt /ˈʦuːtrɪt/, der, -(e)s: entry, admission
 zutiefst /ʦuˈtiːfst/: deeply
   zutiefst erschüttert/gekränkt sein: to be deeply shaken/hurt
 
+zutreffen /ˈʦuːtrɛfən/: to be correct/true, to apply
+  Trifft es zu, dass Sie zum genannten Zeitpunkt am Tatort waren?
+  Is it true that you were present at the scene of the crime at the time in question?
+  Diese Regel trifft in unserem Fall nicht zu.
+  This rule doesn't apply in our case.
+
 zuverlässig /ˈʦuːfɛɐlɛsɪç/: reliable
   Martina ist hilfsbereit und sehr zuverlässig.
   Martina is helpful and very reliable.
 
 Zuverlässigkeit /ˈʦuːfɛɐlɛsɪçkait/, die, |uncountable: reliability
 
-zwängen /ˈʦvɛŋən/: to squeeze, to force
-  seine Füße in viel zu kleine Schuhe zwängen
-  to squeeze your feet into shoes that are far too small
+zuwenden /ˈʦuːvɛndən/
+  etw. / sich jdm zuwenden: to turn sth/to turn toward(s) sb, to turn sth to sb
+  Bitte wende dich mir zu, wenn du mit mir sprichst.
+  Please turn toward me when you are speaking to me.
+  Anschließend wandte er sich wieder seiner Beschäftigung zu.
+  He then turned his attention back to what he was doing.
 
 Zuwendung /ˈʦuːvɛndʊŋ/, die, -en: attention, affection
   Kinder sehnen sich nach Zuwendung.
@@ -466,6 +478,10 @@ zuwerfen /ˈʦuːvɛrfən/: to slam
   jdm etw. zuwerfen: to throw sth to sb
   den Ball einem Mitspieler zuwerfen: to throw the ball to a teammate
   jdm einen Blick / ein Lächeln zuwerfen: to glance/smile at sb
+
+zwängen /ˈʦvɛŋən/: to squeeze, to force
+  seine Füße in viel zu kleine Schuhe zwängen
+  to squeeze your feet into shoes that are far too small
 
 zwar /ʦvaːɐ/: indeed
   Draußen ist es zwar sonnig, aber ziemlich kalt.

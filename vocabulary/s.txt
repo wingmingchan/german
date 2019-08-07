@@ -189,6 +189,7 @@ scharf /ʃarf/: sharp, strong, hot, spicy, rigorous, tough
   Would you like hot or sweet mustard?
   Sie hat ganz wunde Hände von den scharfen Putzmitteln.
   Her hands are all sore from the caustic cleaning products.
+  scharf auf etw. sein: to be keen on sth
 
 Schatten /ˈʃatən/, der: shadow, shade
   Er folgte mir wie ein Schatten.
@@ -592,6 +593,10 @@ Schneider /ˈʃnaidɐ/, Schneiderin, -s|~: tailor
 
 schneien /ˈʃnaiən/: to snow
 
+schniefen /ˈʃniːfən/: to sniff
+  Der Junge schniefte noch ein wenig, beruhigte sich dann aber wieder.
+  The boy kept sniffing for a while, but then calmed down again.
+
 Schnitt /ʃnɪt/, der: average
 
 Schnur /ʃnuːɐ/, die, Schnüre /ˈʃnyːrə/: string, cord
@@ -827,6 +832,8 @@ schwer /ʃveːɐ/: heavy, severe, difficult
 Schwert /ˈʃveːɐt/, das, -er: sword
   ein zweischneidiges Schwert: a double-edged sword
 
+schwieg => schweigen
+
 schwierig /ˈʃviːrɪç/: difficult
   Ich finde es schwierig, mich zu entscheiden.
   I am finding it difficult to decide.
@@ -1005,6 +1012,13 @@ Sender /ˈzɛndɐ/, der, -s|~: station, channel, transmitter
   Sender und Empfänger des Babyphons: transmitter and receiver of the baby monitor
 
 Senf /zɛnf/, der: mustard
+
+senken /ˈzɛŋkən/: to lower, to sink, to drop
+  den Kopf / die Waffe senken: to bow your head/lower your weapon
+  Die Regierung versprach, die Steuern zu senken.
+  The government promised to lower taxes.
+  Er atmet noch, man sieht, wie sich der Brustkorb hebt und senkt.
+  He's still breathing. You can see his rib cage rising and falling.
 
 September /zɛpˈtɛmbɐ/, der, (-s)|~
 
@@ -1430,6 +1444,9 @@ Stadtteil /ˈʃtattail/, der: district
 
 *Stahl /ʃtaːl/, der: steel
 
+stammeln /ˈʃtaməln/: to stammer
+  eine Entschuldigung stammeln: to stammer an apology
+
 stammen /ˈʃtamən/: to come, to originate
   Das Gemälde stammt von Ernst Klee.
   The painting is one of Ernst Klee's.
@@ -1698,6 +1715,12 @@ stöbern /ˈʃtœːbɐn/: to browse, to rummage
   Er stöbert auf dem Speicher nach alten Erinnerungsstücken.
   He is rummaging around in the loft for old keepsakes.
 
+stocken /ˈʃtɔkən/: to falter, to come to a halt, to be interrupted
+  Die Verhandlungen kamen ins Stocken.
+  The negotiations ground to a halt.
+  Er stockte kurz, als er sie sah.
+  He faltered for a moment when he saw her.
+
 Stoff /ʃtɔf/, der, -(e)s|-e: substance, material, subject matter
   der sichere Umgang mit radioaktiven Stoffen
   the safe handling of radioactive substances
@@ -1789,6 +1812,10 @@ Strauch /ʃtraux/, der, ..er /ˈʃtrɔyçɐ/: bush, shrub
 
 Strecke /ˈʃtrɛkə/, die, Strecken: distance, route
   eine weite Strecke zurücklegen: to cover a large distance
+
+strecken /ˈʃtrɛkən/: to stretch (out)
+  Sie balancierte mit gestreckten Armen auf der Mauer.
+  She balanced on the wall with her arms outstretched.
 
 Streich /ʃtraiç/, der, -e: trick, blow, stroke
   Die Schüler spielen den Lehrern gern Streiche.

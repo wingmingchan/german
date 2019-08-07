@@ -320,6 +320,10 @@ Metzgerei /mɛʦɡəˈrai/, die, ~|-en: butcher shop
 
 Meuterei /mɔytəˈrai/, die, ~|-en: 
 
+Miene /ˈmiːnə/, die, ~|-n: expression
+  Er sah ihr mit ernster Miene zu.
+  He gave her a serious look.
+
 Miete /ˈmiːtə/, die, -n: rent
   Wir zahlen monatlich 600 Euro Miete.
   We pay 600 euros a month in rent.
@@ -628,6 +632,10 @@ Mut /muːt/, der, |uncountable: courage, bravery
   It takes a lot of courage to contradict him.
 
 mutig /ˈmuːtɪç/: courageous, brave
+
+mutmaßen /ˈmuːtmaːsən/: to surmise
+  Wir mutmaßen, dass sie finanzielle Probleme hat.
+  We surmise that she has financial problems.
 
 mutmaßlich /ˈmuːtmaːslɪç/: suspected
   Die Polizei hat den mutmaßlichen Täter verhaftet.

@@ -64,7 +64,7 @@ nachsehen /ˈnaːxzeːən/: to look, to gaze after, to overlook
 
 nachsenden /ˈnaːxzɛndən/: to forward 轉寄, 轉發
   jdm die Post in den Urlaub nachsenden
-  to forward sb’s mail to them while they are on vacation
+  to forward sb's mail to them while they are on vacation
 
 Nachspeise /ˈnaːxʃpaizə/, die, -n: desssert
   Als Nachspeise gab es Apfelstrudel mit Sahne.
@@ -162,6 +162,12 @@ nanu /naˈnuː/: hello
   Nanu, was ist denn hier los?
   Hello, what's going on here? 
 
+Nascherei /naʃəˈrai/, die, Nascheri|-en: eating sweet things, sweet (thing)
+  Kein Wunder, dass du zunimmst, bei deiner dauernden Nascherei.
+  It's hardly surprising that you've put on weight with all the sweet things you eat.
+  Auf dem Tisch standen allerlei Naschereien.
+  There were all sorts of sweet things on the table.
+
 Nase /ˈnaːzə/, die: nose
   die Nase vorn haben: to be ahead
   in der Nase bohren
@@ -221,7 +227,7 @@ necken /ˈnɛkən/: to tease
 
 negativ /ˈneːɡatiːf/: negative
   Der Bescheid der Behörde war leider negativ.
-  Unfortunately, the authority’s response was negative.
+  Unfortunately, the authority's response was negative.
   Wenn die Pflanzen so schnell wachsen, ist das eher negativ.
   It's not very good for the plants to grow so quickly.
   Temperaturen im negativen Bereich: sub-zero temperatures
@@ -388,6 +394,15 @@ nötig /ˈnøːtɪç/: necessary
 nötigen /ˈnøːtɪɡən/: to urge, to force, to coerce
   Sie haben uns zum Bleiben genötigt.
   They urged us to stay.
+
+Notiz /noˈtiːʦ/, die, ~|-en: note, item
+  In einer Notiz am Schwarzen Brett wurde ein Mitbewohner gesucht.
+  There was a note on the bulletin board seeking a roommate.
+  Sein Tod war den Zeitungen nur eine kurze Notiz wert.
+  His death only warranted a short item in the newspapers.
+  von jdm / etw. (keine) Notiz nehmen: to take (no) notice of sb/sth
+  Er nahm kaum Notiz von ihr.
+  He took no notice of her.
 
 Notruf /ˈnoːtruːf/, der: emergency call
   Mehrere Notrufe gingen bei der Feuerwehr ein.
