@@ -433,7 +433,16 @@ Flanke /ˈflaŋkə/, die: flank
 
 flauschig /ˈflauʃɪç/: fluffy, soft
 
-Fleck /flɛk/, der: stain, mark
+Fleck /flɛk/, der: stain, mark, spot, marking, place
+  Auf ihrer Hose ist ein Fleck.
+  There's a stain on her pants.
+  eine braune Kuh mit weißen Flecken
+  a brown cow with white spots
+  ein blauer Fleck: a bruise
+  Nach dem Sturz hatte das Kind mehrere blaue Flecken.
+  After the fall the child had several bruises.
+  Rühr dich nicht vom Fleck!
+  Don't move an inch!
 
 flehen /ˈfleːən/: to beg
   => betteln

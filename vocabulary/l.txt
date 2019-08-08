@@ -19,6 +19,15 @@ lachen /ˈlaxən/: to laugh
   Alle lachen über ihn, weil er so ungeschickt ist.
   Everyone laughs at him because he's so clumsy.
 
+lächerlich /ˈlɛçɐlɪç/: ridiculous, ridiculously low/small
+  In dem Kostüm kam ich mir lächerlich vor.
+  I felt ridiculous in the costume.
+  etw. ins Lächerliche ziehen: etw. ins Lächerliche ziehen
+  Er hat mir lächerliche fünf Euro dafür gegeben.
+  He gave me a paltry five euros for it.
+  
+Lächerlichkeit: ludicrousness, ridiculousness
+
 Lack /lak/, der, Lacke: varnish, paint
   den Tisch mit farblosem/weißem Lack streichen
   to paint the table with colorless varnish/white paint 
@@ -64,7 +73,7 @@ lahm /laːm/: lame, limp, dreary
   Eine lahmere Ausrede ist dir nicht eingefallen?
   You couldn't have thought of a lamer excuse?
 
-lahmen /ˈlaːmən/: to be lame
+lahmen /ˈlaːmən/: to be lame 瘸的
   Plötzlich fing das Pferd zu lahmen an.
   The horse suddenly went lame.
 
@@ -152,6 +161,11 @@ Lapsus /ˈlapsʊs/, der, ~|~: mistake
 Laptop /ˈlɛptɔp/, der, -s|-s
 
 Lärche /ˈlɛrçə/, die: larch, 落叶松
+
+Lärm /lɛrm/, der, -(e)s|uncountable: noise
+  Kinder, macht nicht so viel Lärm!
+  Stop making such a lot of noise, children!
+  viel Lärm um nichts: much ado about nothing
 
 lärmen /ˈlɛrmən/: to make a noise
   lärmende Kinder/Nachbarn: noisy children/neighbors 
@@ -300,6 +314,16 @@ leeren /ˈleːrən/: to empty
 
 legendär /leɡɛnˈdɛːɐ/: legendary
 
+Legende /leˈɡɛndə/, die, ~|-en: legend
+  Ich halte das für eine Legende.
+  I think it's a legend.
+  Er ist eine lebende Legende des Blues.
+  He's a living legend of the blues.
+  die Legende des heiligen Michael
+  the legend of St. Michael
+  ein Zeichen in der Legende suchen
+  to look for a symbol in the legend
+
 Legionär /legjoˈnɛːr/, der, -e: legionnaire
 
 Legislaturperiode /leɡɪslaˈtuːɐperjoːdə/, die, -n: legislative period, term of office
@@ -349,6 +373,9 @@ leihen /ˈlaiən/: to lend, to borrow, to loan
   er lieh mir Geld: he lent me (some) money
 
 -lein: little
+
+Leintuch /ˈlaintuːx/, das, -(e)s|..er: sheet
+  das Bett mit einem frischen Leintuch beziehen: to put a fresh sheet on the bed
 
 Leinwand /ˈlainvant/, die, ..e: screen
   eine Leinwand aufstellen: to set up a screen
@@ -448,6 +475,8 @@ lief => laufen
 liefern /ˈliːfɐn/: to deliver, to supply, to produce, to provide
   Die Möbel wurden termingerecht geliefert.
   The furniture was delivered on time.
+  Der Vorfall wird uns noch viel Gesprächsstoff liefern.
+  This incident will give us a lot to talk about.
 
 liegen /ˈliːɡən/: to lie, to be
   liege, liegst, liegt, habe gelegen

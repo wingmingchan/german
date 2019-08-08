@@ -615,6 +615,8 @@ Musik /muˈziːk/, die, -en: music
 
 Muskat /mʊsˈkaːt, ˈmʊskat/, der, -(e)s|-e: nutmeg 肉豆蔻
 
+muskel /ˈmʊskl/, der, -s|-n: muscle
+
 Müsli /ˈmyːsli/, das: muesli 麥片
 
 müssen /ˈmʏsən/: to have to, must
@@ -625,6 +627,10 @@ Muster /ˈmʊstɐ/, das, -s|~: pattern, model, example, marking
   ein Hemd mit Karomuster / Streifenmuster: a shirt with a checked/striped pattern
   Sie ist ein Muster an Tugend.
   She is a model of virtue.
+
+mustern /ˈmʊstɐn/: to scrutinize, to eye
+  jdn skeptisch mustern
+  to eye sb skeptically
 
 Mut /muːt/, der, |uncountable: courage, bravery
   <=> Feigheit

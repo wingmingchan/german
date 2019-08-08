@@ -439,6 +439,10 @@ Affront /aˈfrõː/, der, -s|-s: affront
 
 Aggressivität /aɡrɛsiviˈtɛːt/, die, ~|uncountable: aggressiveness
 
+ähneln /ˈɛːnəln/: to resemble
+  Er ähnelt seinem Vater sehr.
+  He looks very much like his father.
+
 ähnlich /ˈɛːnlɪç/: similar
   Sie ist ihrer Schwester sehr ähnlich.
   She's very like her sister.
@@ -1017,6 +1021,8 @@ anschließend /ˈanʃliːsənt/: subsequent, following
 Anschrift /ˈanʃrɪft/, die, -en: address
   jdm seine Anschrift mitteilen: to give sb your address
 
+anschwellen: to swell, to rise
+
 Ansehen, das, |uncountable: reputation
   hohes internationales Ansehen genießen: to be held in high esteem internationally
 
@@ -1438,6 +1444,11 @@ aufgeregt /ˈaufɡəreːkt/: excited, nervous
   Die Kinder erzählten ihr aufgeregt von ihrem Fund.
   The children told her excitedly about what they had found.
 
+aufgrund /aufˈɡrʊnt/: because of
+  => wegen
+  jdn aufgrund mangelnder Beweise freisprechen
+  to acquit sb due to lack of evidence
+
 aufhalten /ˈaufhaltən/: to hold up, to stop, to detain
 
 aufheben /ˈaufheːbən/: to pick up, to keep, to overturn, to cancel
@@ -1445,11 +1456,6 @@ aufheben /ˈaufheːbən/: to pick up, to keep, to overturn, to cancel
   The ban on flying can be lifted.
 
 aufhören /ˈaufhøːrən/: to stop
-
-aufgrund /aufˈɡrʊnt/: because of
-  => wegen
-  jdn aufgrund mangelnder Beweise freisprechen
-  to acquit sb due to lack of evidence
 
 aufklappen: to open up, to lift up, to fold back, to open
 
@@ -1569,6 +1575,10 @@ aufschnappen /ˈaufʃnapən/: to pick up, to snap open
 Aufsicht /ˈaufzɪçt/, die, -en: supervision, supervisor, person in charge
   die Aufsicht (bei / über etw.) haben / führen: to be in charge (of sth)
   sich bei der Aufsicht melden: to report to the person in charge
+
+aufspringen /ˈaufʃprɪŋən/, to jump up
+  Er sprang eifrig auf, um ihr seinen Platz anzubieten.
+  He jumped up eagerly to offer her his seat.
 
 Aufstand /ˈaufʃtant/, der, ..e: revolt, rebellion
   Arbeiteraufstand: workers' rebellion
@@ -1789,8 +1799,31 @@ Auskunft /ˈauskʊnft/, die, ..e: information
   nach Auskunft der Polizei: according to police sources
   die Auskunft anrufen: to call information
 
+ausladen /ˈauslaːdən/: to unload
+  <=> bepacken
+  Lad du schon mal das Auto aus.
+  You can start by taking the things out of the car.
+  das Gepäck aus dem Kofferraum ausladen
+  to take the baggage out of the trunk
+  Kurz vor dem Fest hat sie mich wieder ausgeladen.
+  Shortly before the party she told me I wasn't invited anymore.
+
+ausladend: protruding, projecting, sweeping, wide, outspread
+
+Ausladung, die: discharge, cancellation (of an invitation), projection, overhang
+
 Ausland /ˈauslant/, das, -(e)s: foreign countries
   ins Ausland reisen: to travel abroad
+
+ausliefern /ˈausliːfɐn/: to extradite, to deliver
+  Die Organisatoren des Anschlags wurden an ihren Heimatstaat ausgeliefert.
+  The organizers of the attack were extradited to their home country.
+  jdm / etw. ausgeliefert sein: to be at sb's mercy / at the mercy of sth
+  Wir waren dem Gewitter schutzos ausgeliefert.
+  We were completely at the mercy of the storm.
+  => liefern
+  Wir liefern im kommenden Monat aus.
+  We will be delivering the goods next month.
 
 auslösen /ˈausløːzən/: to cause, to trigger
   Das Erdbeben hat eine Flutwelle ausgelöst.
@@ -1969,6 +2002,9 @@ außerhalb: outside
   Has he responded to the allegations?
   Seine Unruhe äußerte sich in nervösen Zuckungen.
   His restlessness could be seen in his nervous twitching.
+
+Äußerung /ˈɔysərʊŋ/, die, ~|-en: statement
+  wegen rassistischer Äußerungen kritisiert werden: to be criticized for racist remarks
 
 äußerst /ˈɔysɐst/: extremely
 

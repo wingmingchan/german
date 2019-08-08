@@ -197,6 +197,9 @@ Rechtsstaat /ˈrɛçʦʃtaːt/, der: state founded on the rule of law, constitut
   Wir leben in einem Rechtsstaat.
   We live in a constitutional state.
 
+rechtzeitig /ˈrɛçtʦaitɪç/: timely, punctual, in/on time
+  rechtzeitig fertig werden: to be finished on/in time
+
 recken /ˈrɛkən/: to stretch
   Er reckte den Hals.
   He craned his neck.
@@ -313,6 +316,18 @@ reich /raiç/: rich, wealthy
   reich an etw.: rich in sth
   reich an Bodenschätzen, Vitaminen
   rich in mineral resources / vitamins
+
+reichen /ˈraiçən/: to be enough, to reach, to pass, to serve
+  Das Essen reicht für drei.
+  The food is enough for three.
+  Ich reiche nicht ans oberste Fach, kannst du mir helfen?
+  I can't reach the top pigeonhole. Could you help me?
+  Der Garten reicht bis an den See.
+  The garden reaches down to the lake.
+  Könntest du mir bitte das Brot reichen?
+  Could you pass me the bread, please?
+  Zum Hauptgang wurde ein leichter Weißwein gereicht.
+  A light white wine was served with the entrée.
 
 Reichtum /ˈraiçtuːm/, der, -(e)s|..er: wealth
   zu Reichtum kommen: to become wealthy
@@ -626,12 +641,21 @@ Ruhm /ruːm/, der: fame
   als Künstler internationalen Ruhm erlangen
   to find international fame as an artist
 
-rühren: to stir, to beat, to move
+rühren /ˈryːrən/: to stir, to beat, to move
   Eier und Zucker schaumig rühren: to beat eggs and sugar until fluffy
   Ich konnte vor Kälte kaum die Finger rühren.
   I could hardly move my fingers for the cold.
   Ihre Geschichte rührte mich zu Tränen.
   Her story moved me to tears.
+  an etw. rühren [ accusative ]: to touch on sth
+  Wir sollten lieber nicht mehr an diese unangenehme Sache rühren.
+  It would be better if we didn't go into this unpleasant subject any further.
+  sich (bei jdm) rühren: to say something (to sb)
+  Rühr dich, wenn du Hilfe brauchst!
+  Let me know if you need any help.
+  etw. rührt von etw. / daher, dass …: sth stems from sth / the fact that …
+  Die Probleme rühren daher, dass dies nicht rechtzeitig erkannt wurde.
+  The problems stem from the fact that this wasn't recognized in time.
 
 rum-: around
   laufen viele Menschen in Tracht rum: many people walk around in traditional clothes

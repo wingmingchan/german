@@ -120,6 +120,10 @@ Gatte/Gattin: spouse
 Gebärde /ɡəˈbɛːɐdə/, die, -n: gesture
   die Gebärdensprache der Gehörlosen
   the sign language used by the deaf
+  
+gebärden /ɡəˈbɛːɐdən/: to act, to behave
+  Er hat sich wie ein Verrückter gebärdet.
+  He acted like a lunatic.
 
 Gebaren /ɡəˈbaːrən/, das, -s|uncountable: behavior
   ein merkwürdiges Gebaren: strange behavior

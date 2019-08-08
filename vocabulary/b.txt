@@ -389,6 +389,16 @@ beglücken /bə'ɡlʏkən/: to please, to make happy
   Das war eine beglückende Erfahrung.
   That was an uplifting experience.
 
+begreifen /bəˈɡraifən/: to understand, to grasp, to realize
+  Sie begreift sehr schnell.
+  She's quick on the uptake.
+  Ich kann nicht begreifen, wie jemand so gemein sein kann.
+  I can't understand how someone can be so mean.
+  Ich begreife nicht, warum das so kompliziert sein muss.
+  I don't understand why that has to be so complicated.
+  etw. / jdn / sich als etw. begreifen: to see sth/sb/yourself as sth
+  eine Krise als Chance begreifen: to see the crisis as an opportunity
+
 begreiflich /bə'ɡraiflɪç/: understandable
   schwer begreiflicher Leichtsinn: recklessness that is hard to fathom
 
@@ -654,6 +664,9 @@ Benutzung /bəˈnʊʦʊŋ/, die, -en: use
 
 beobachten /bəˈ|oːbaxtən/: to observe, to watch
   Tiere in der Wildnis beobachten: to observe animals in the wild
+
+bepacken: to load
+  <=> ausladen
 
 berauschend /bəˈrauʃənt/: intoxicating
   => Rausch, der: intoxication
@@ -1070,9 +1083,14 @@ bewegen /bəˈveːɡən/: to move, to budge, to move forward
 Beweggrund /bəˈveːkɡrʊnt/, der: motive
   ein Mord aus niederen Beweggründen: murder for base motives
 
-Bewegung /bəˈveːɡʊŋ/, die, ~|-en: movement
+Bewegung /bəˈveːɡʊŋ/, die, ~|-en: movement, exercise, emotion, movement
   in Bewegung: in motion
   Bewegung in etw. bringen: to get sth going/moving
+  Viel Bewegung an der frischen Luft ist gesund.
+  A lot of exercise in the fresh air is good for you.
+  Der Angeklagte zeigte bei der Urteilsverkündung keinerlei Bewegung.
+  The accused showed no emotion when the verdict was being read.
+  Arbeiterbewegung: labor movement
 
 Bewerbungsmappe, die: application documents
 
@@ -1628,6 +1646,8 @@ bullig /ˈbʊlɪç/: beefy
 Bund /bʊnt/, der: federal government, confederacy, association, league
   Bund und Länder: the German federal government and the Länder
   einem Bund beitreten: to join an association
+
+Bündel /ˈbʏndl/, das, -s|~: bundle
 
 Bundesamt, das: Federal Office
 

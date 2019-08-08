@@ -122,6 +122,13 @@ Eiche /ˈaiçə/, die, -n: oak
 
 Eid /ait/, der: oath
 
+Eifer /ˈaifɐ/, der, -s|uncountable: eagerness, enthusiasm
+  Voller Eifer machte sich der Junge an die Arbeit.
+  Full of enthusiasm, the boy got down to work.
+  im Eifer des Gefechts: in the heat of the moment 一時衝動
+  Im Eifer des Gefechts hätten sie beinahe den Hund im Auto vergessen.
+  In the heat of the moment they almost left the dog in the car.
+
 Eigelb /ˈaiɡɛlp/, das, -: yolk
   => Dotter
   Eigelb und Eiweiß trennen: to separate the yolk from the egg white
@@ -166,6 +173,12 @@ eilig /ˈailɪç/: urgent
 ​ schnelle Gerichte für eilige Gäste: fast food for customers in a hurry
 
 Eilmeldung, die: newsflash
+
+Eimer /ˈaimɐ/, der, -s|~: bucket
+  zwei Eimer Wasser / Sand: two buckets of water/sand
+  im Eimer sein: kaputt / ruiniert sein
+  Jetzt ist die Maschine / Stimmung endgültig im Eimer.
+  Now the machine is completely busted/the atmosphere is completely ruined.
 
 ein /ain/: one
   ein für alle Mal: once and for all
@@ -448,6 +461,10 @@ Einnahme /ˈainnaːmə/, die, -n: revenue, income, takings
 
 Einrede, die: objection, protest, contradiction, defense
 
+einreichen /ˈainraiçən/: to file, to submit
+  Sie will die Scheidung einreichen.
+  She wants to file for divorce.
+
 einrichten /ˈainrɪçtən/: to furnish, to set up, to arrange
   ein gemütlich eingerichtetes Haus: a cozily furnished house
   eine neue Beratungsstelle für Schwangere einrichten
@@ -722,6 +739,14 @@ Empörung /ɛmˈpøːrʊŋ/, die, Empörung: indignation, outrage
 Ende /ˈɛndə/, das, -s|-n: end
   Am Ende ist das doch egal.
   In the end it doesn't matter at all.
+
+endgültig /ˈɛntɡʏltɪç/: final, once and for all
+  Das ist die endgültige Version des Textes.
+  This is the final version of the text.
+  Steht das jetzt endgültig fest?
+  Is that now final?
+  Mit dieser Äußerung hat er sich endgültig der Lächerlichkeit preisgegeben.
+  With that comment he exposed himself to ridicule once and for all.
 
 endlich /ˈɛntlɪç/: finally
   Endlich geht es ihr wieder besser.
@@ -1068,8 +1093,16 @@ erhöhen /ɛɐˈhøːən/: to increase, to raise
 
 Erhöhung /ɛɐˈhøːʊŋ/, die: increase
 
-erinnern /ɛɐˈ|ɪnɐn/: to remember
+erinnern /ɛɐˈ|ɪnɐn/: to remember, to remind
   erinnere, erinnerst, erinnert, habe erinnert
+  Nach dem Unfall konnte sie sich an nichts erinnern.
+  After the accident she couldn’t remember anything.
+  Ich erinnere mich gern an meine Schulzeit.
+  I have fond memories of my schooldays.
+  Erinnere mich bitte daran, dass ich meine Eltern anrufe.
+  Please remind me to call my parents.
+  Die Frau erinnert mich an meine Schwester.
+  That woman reminds me of my sister.
 
 erkälten /ɛɐˈkɛltən/: to catch (a) cold, to catch a chill in
   Hast du dich erkältet oder ist das eine Allergie?
@@ -1119,6 +1152,10 @@ erkunden /ɛɐˈkʊndən/: to explore
 
 erküren: to choose to be
 
+erlahmen /ɛɐˈlaːmən/: to tire, to flag, to wane
+  erlahmen von Hand, Flügel
+  erlahmen von Kraft, Interesse, Eifer
+
 erlangen /ɛɐˈlaŋən/: to gain, to obtain, to achieve
   Mit diesem Lied hat er Berühmtheit erlangt.
   This song brought him fame.
@@ -1153,6 +1190,10 @@ erledigen /ɛɐˈleːdɪɡən/: to take care of, to deal with, to carry out, to 
   die Hausarbeit erledigen: to do the housework
   Der Fall hat sich erledigt.
   The matter has been resolved.
+
+erleichtert /ɛɐˈlaiçtɐt/: relieved
+  Wir waren alle sehr erleichtert, dass dem Jungen nichts passiert war.
+  We were all very relieved that nothing had happened to the boy.
 
 erleiden /ɛɐˈlaidən/: to suffer, to sustain
   Sie musste in ihrer Jugend viel Schlimmes erleiden.

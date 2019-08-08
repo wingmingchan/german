@@ -268,6 +268,10 @@ scheinen /ˈʃainən/: to shine, to seem
   Das scheint mir keine gute Idee zu sein.
   That doesn't seem a very good idea to me.
 
+Scheinwerfer /ˈʃainvɛrfɐ/, der, -s|~: headlight, floodlight, spotlight
+  Von den Scheinwerfern geblendet, blieb das Reh auf der Straße stehen.
+  The deer stopped in the road, blinded by the headlights.
+
 Scheitel /ˈʃaitəl/, der, -: part, apex, vertex
   einen Mittelscheitel haben: to have a center part
   vom Scheitel bis zur Sohle: from top to toe
@@ -447,6 +451,30 @@ Schlitz /ʃlɪʦ/, der, -es|-e: slit, slot, fly
   ein Rock mit seitlichem Schlitz: a skirt with a side slit
   Mach deinen Hosenschlitz zu!
   Do up your fly!
+
+Schluck /ʃlʊk/, -(e)s|-e: mouthful, swallow, gulp, sip, drink
+  einen Schluck Wasser / Tee trinken: to drink a mouthful of water/tea
+  Sie würgte alles mit einem Schluck hinunter.
+  She swallowed everything in one gulp.
+  Trinken wir noch einen Schluck zusammen?
+  Shall we have another drink?
+
+Schlückchen: nip, sip
+
+schlucken /ˈʃlʊkən/: to swallow, to guzzle, to booze
+  eine Tablette schlucken: to swallow a tablet
+  Auf der Party hat er wieder ganz schön viel geschluckt.
+  He had a lot to drink again at the party.
+  Das Auto schluckt fast zehn Liter auf 100 Kilometer.
+  The car guzzles nearly ten liters over 100 kilometers.
+  Hat er die Geschichte echt geschluckt?
+  Did he really buy the story?
+  Als er den Preis nannte, musste ich ganz schön schlucken.
+  When he said the price, I really had to swallow hard.
+  Der ausgetrocknete Boden hat den Regen sofort geschluckt.
+  The parched ground absorbed the rain straightaway.
+  Die kleinen Kinos sind fast alle von großen Ketten geschluckt worden.
+  The small movie theaters have nearly all been swallowed up by big chains.
 
 schlugen => schlagen
 
@@ -2002,7 +2030,7 @@ surfen /ˈsøːɐfən/: to surf
 süß /zyːs/: sweet
   süß schmecken: to taste sweet
 
-Süßigkeit /ˈzyːsɪçkait/, die, -en: candy
+Süßigkeit /ˈzyːsɪçkait/, die, ～|-en: candy
   den Kindern Süßigkeiten mitbringen: to bring candy for the children
 
 Symbol /zʏmˈboːl/, das: symbol
