@@ -368,6 +368,11 @@ zunehmend /ˈʦuːneːmənt/: increasingly
 Zunge /ˈʦʊŋə/, die, -e: tongue
   jdm die Zunge herausstrecken: to stick your tongue out at sb
 
+zunicken /ˈʦuːnɪkən/
+  jdm zunicken: to nod to/at sb
+  Zur Begrüßung nickte er mir kurz zu.
+  He greeted me with a brief nod.
+
 zupfen /ˈʦʊpfən/: to pull (at), to tug (at), to pluck
   jdn am Ärmel zupfen: to tug at sb's sleeve
 
@@ -385,6 +390,12 @@ zurück /ʦuˈrʏk/: back, behind
 
 zurück-
   zurückbehalten, zurückfliegen, etc.
+
+zurückbehalten /ʦuˈrʏkbəhaltən/: to keep (back), to be left with
+  Er hat die Uhr als Pfand zurückbehalten.
+  He kept the watch back as security.
+  Sie hat von der Operation eine Narbe zurückbehalten.
+  She has been left with a scar from the operation.
 
 zurückbilden /ʦuˈrʏkbɪldən/: to get smaller
   Der Tumor hat sich zurückgebildet.

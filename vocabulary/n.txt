@@ -123,16 +123,18 @@ nah /ˈnaː(ə)/, näher, nächste: near
   She was close to tears.
   nahe dem Ufer: near (to) the shore
 
-nahen /ˈnaːən/: to draw near
-  Der Morgen naht.
-  Morning is drawing near.
-
 Nähe /ˈnɛːə/, die: vicinity, closeness
   Gibt es hier in der Nähe einen Supermarkt?
   Is there a supermarket nearby?
   in der Nähe des Hauptbahnhofes
 
+nahen /ˈnaːən/: to draw near
+  Der Morgen naht.
+  Morning is drawing near.
+
 Nahen Osten, das: the Middle East
+
+sich nähern: to approach
 
 näher /ˈnɛːər/: nearer
 
@@ -161,6 +163,10 @@ nämlich /ˈnɛːmlɪç/: as, since, to be precise/exact, (more) specifically
 nanu /naˈnuː/: hello
   Nanu, was ist denn hier los?
   Hello, what's going on here? 
+
+Narbe /ˈnarbə/, die, ~|-n: scar
+  Von dem Unfall habe ich Narben zurückbehalten.
+  I still have scars from the accident.
 
 Nascherei /naʃəˈrai/, die, Nascheri|-en: eating sweet things, sweet (thing)
   Kein Wunder, dass du zunimmst, bei deiner dauernden Nascherei.
@@ -292,6 +298,11 @@ neuseeländisch
 Neutrum /ˈnɔytrʊm/, das, -s|Neutra: a neuter noun
 
 nicht /nɪçt/: not
+
+nichts /ˈnɪçʦ/: nothing
+  nichts hören können: to be unable to hear anything
+
+nichts zu tun haben mit: to have nothing to do with
 
 Nichtsnutz /ˈnɪçʦnʊʦ/: good-for-nothing
 

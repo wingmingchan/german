@@ -205,7 +205,7 @@ rechtzeitig /ˈrɛçtʦaitɪç/: timely, punctual, in/on time
   rechtzeitig fertig werden: to be finished on/in time
 
 recken /ˈrɛkən/: to stretch
-  Er reckte den Hals.
+  Er reckte den Hals. 伸長（脖子）
   He craned his neck.
 
 recyceln /riˈsaikəln/: to recycle
@@ -381,6 +381,18 @@ Reise /ˈraizə/, die: journey, trip
    to take a trip to the ocean in the vacation
 
 reisen /ˈraizən/: to travel
+
+reißen /ˈraisən/: to tear, to rip, to pull
+  Die Tasche riss und alles fiel zu Boden.
+  The bag tore and everything fell to the ground.
+​ ein Stück Stoff in Streifen reißen
+  to tear a piece of material into strips
+  jdn an den Haaren reißen: to pull sb by the hair
+  Musst du denn ständig Witze über ihr Aussehen reißen?
+  Do you always have to make jokes about her appearance?
+  Die Wölfe haben drei Schafe gerissen.
+  The wolves killed three sheep.
+  sich um jdn / etw reißen: to fight over sb/sth
 
 Reiter: rider
   Der Reiter zügelte sein Pferd.
@@ -610,6 +622,8 @@ Rückschein, der:
 
 Rücksicht /ˈrʏkzɪçt/, die, -en: consideration
   Rücksicht üben / zeigen: to be considerate
+
+rücksichtslos /ˈrʏkzɪçtsloːs/: inconsiderate, reckless
 
 rückwärts /ˈrʏkvɛrʦ/: backward
   <=> vorwärts

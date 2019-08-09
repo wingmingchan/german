@@ -406,6 +406,16 @@ verlegen /fɛɐˈleːɡən/: embarrassed
   Sie ist in seiner Gegenwart immer verlegen.
   She's always embarrassed when he's around.
 
+verleihen /fɛɐˈlaiən/: to lend, to loan, to rent (out), to award, to confer
+  Das Buch, das ich von der Bücherei wollte, war schon verliehen.
+  The book I wanted to borrow from the library was already out on loan.
+  Dafür sollte man ihm einen Orden verleihen.
+  He should get a medal for that.
+  Hier, trink das, das verleiht dir neue Kraft.
+  Here, drink this, it'll get your strength up.
+
+Verleihung /fɛɐˈlaiʊŋ/, die, ~|-en: award(ing)
+
 verletzen /fɛɐˈlɛʦən/: to injure
 
 verletzt: injured
@@ -464,6 +474,11 @@ vermummt /fɛɐˈmʊmt/: masked
   Viele Demonstranten waren vermummt.
   Many of the demonstrators were wearing masks.
 
+vermuten /fɛɐˈmuːtən/: to suspect, to assume
+  Ich vermute, sie sind jetzt schon zu Hause.
+  I suppose they must be home by now.
+  Es ist / steht zu vermuten, dass …: Presumably …
+
 Vermutung /fɛɐˈmuːtʊŋ/, die, ~|-en: assumption, suspicion
   Seine Vermutungen wurden bestätigt.
   His suspicions were confirmed.
@@ -519,6 +534,11 @@ Verrückte: lunatic, madman/madwoman
 versammeln /fɛɐˈzaməln/: to gather, to assemble
 
 versammelt => versammeln
+
+Versammlung /fɛɐˈzamlʊŋ/, die, ~|-en: meeting
+  Zweimal im Jahr hielten sie eine Versammlung ab.
+  They held a meeting twice a year.
+  zu einer Versammlung sprechen: to speak to a meeting
 
 Versand /fɛɐˈzant/, der: dispatch
   Der Versand erfolgt umgehend nach Zahlungseingang.
@@ -847,6 +867,8 @@ Verzögerung: deferral, delay, lag, retardation
 Verzweiflung /fɛɐˈʦvaiflʊŋ/, die, ~|uncountable: despair, desperation
   Aus lauter Verzweiflung bat sie ihre Nachbarn um Hilfe.
   In pure desperation she asked her neighbors for help.
+
+Vetter /ˈfɛtɐ/, der, -s|-n: cousin
 
 vgl. vergleiche: cf.
 

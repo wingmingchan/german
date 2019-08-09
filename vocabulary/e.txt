@@ -985,6 +985,10 @@ Erdenrund, das: globe, world
 
 erdrutschartig, adj: landslide, devastating
 
+ereignen /ɛɐˈ|aiɡnən/: to happen, to occur
+  Wo genau hat sich das Unglück ereignet?
+  Where exactly did the accident occur?
+
 Ereignis /ɛɐˈ|aiɡnɪs/, das, -ses|-se: event, occurrence
   Zum freudigen Ereignis die herzlichsten Glückwünsche!
   Heartiest congratulations on the happy event!
@@ -1080,6 +1084,22 @@ erhalten /ɛɐˈhaltən/: to receive, to get
 erhältlich /ɛɐˈhɛltlɪç/: available
   Dieses Buch ist nur im Fachhandel erhältlich.
   This book is only available in specialist bookstores.
+
+erheben /ɛɐˈheːbən/: to raise, to charge, to get up, to rise, to ensue, to occur
+  Die Staatsanwaltschaft erhob keine Anklage gegen ihn.
+  The DA didn’t prefer charges against him.
+  Wie viel Prozent Mehrwertsteuer werden auf Bücher erhoben?
+  How high is the sales tax on books?
+  Der Hund lief mit hoch erhobenem Schwanz auf mich zu.
+  The dog ran toward me with its tail raised high.
+  Er erhob sich aus dem Sessel und verließ den Raum.
+  He got up from the armchair and left the room.
+  Elegant erhob sich der Kranich in die Lüfte.
+  The crane elegantly rose into the air.
+  Vor uns erhoben sich die schneebedeckten Gipfel der Alpen.
+  Before us towered the snow-covered peaks of the Alps.
+  Daraufhin erhob sich tosender Beifall / großer Jubel.
+  At that thunderous applause/loud cheers broke out.
 
 erheblich /ɛɐˈheːplɪç/: considerable
 
@@ -1358,6 +1378,10 @@ ertragen /ɛɐˈtraːɡən/: to bear, to endure
   The pain is hard to bear.
 
 erträglich /ɛɐˈtrɛːklɪç/: bearable
+  Die Schmerzen waren kaum noch erträglich.
+  The pain was almost unbearable.
+  Seine Noten sind ganz erträglich.
+  His grades are quite tolerable.
 
 erwachen /ɛɐˈvaxən/: to wake
   Sie ist aus dem Schlaf / der Narkose / dem Koma erwacht.
@@ -1388,6 +1412,11 @@ Erwartung /ɛɐˈvartʊŋ/, die, ~|-en: expectation, anticipation
 
 erwartungsvoll /ɛɐˈvartʊŋsfɔl/: expectant, hopeful
   erwartungsvolle Gesichter: expectant faces
+
+erwecken /ɛɐˈvɛkən/: to arouse, to inspire, to bring back
+  Der Anblick erweckte ihr Mitleid.
+  The sight inspired her pity.
+  (bei jdm) den Eindruck erwecken, als ob ...: to give (sb) the impression that ...
 
 erweisen /ɛɐˈvaizən/: to prove
   Es ist noch nicht erwiesen, dass er der Täter ist.

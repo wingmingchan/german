@@ -164,6 +164,12 @@ Kehle /ˈkeːlə/, die, Kehlen: throat, windpipe, esophagus
 
 kehren /ˈkeːrən/ to sweep, to return
   den Boden kehren: to sweep the floor
+  etw. / sich irgendwohin kehren: to turn sth somewhere/turn in some direction
+  die Taschen nach außen kehren: to turn your pockets inside out
+  sich an etw. nicht kehren [ dative ]: not to care about sth
+  Er kehrt sich nicht an dem Verbot.
+  He doesn't care about the ban.
+  in sich gekehrt: withdrawn
 
 kein: not, not a, less than
   Das ist keine schlechte Idee!
@@ -252,7 +258,7 @@ kieselig: pebbly
 
 Kieselstein, der: pebblestone
 
-Kiste /ˈkɪstə/, die, ~|-n: box, crate
+Kiste /ˈkɪstə/, die, ~|-n: box, crate, Sache
   eine Kiste (voller) Bücher: a box (full of) books
   zwei Kisten Bier kaufen: to buy two crates of beer
 
@@ -293,6 +299,20 @@ kläglich /ˈklɛːklɪç/: pitiful
   Man hörte ein klägliches Miauen aus der Kiste.
   Pitiful meows could be heard coming from the box.
 
+Klammer /ˈklamɐ/, die, ~|-n: clothespin, staple, bracket
+  die Wäsche mit Klammern aufhängen: to hang up the washing
+  etw. in Klammern setzen: to put sth in parentheses
+
+klammern /ˈklamɐn/:
+  sich an jdn / etw. klammern: to cling to sb/sth
+  Das Kind weinte und klammerte sich an seine Mutter.
+  The child cried and clung to its mother.
+  Die Schnittwunde wurde geklammert.
+  The gash was clamped.
+  etw. an etw. klammern [ accusative ]: to peg/clip/staple sth to sth
+  Die Verkäuferin klammert den Kassenbeleg an die Tüte.
+  The sales clerk stapled the sales check to the bag.
+
 Klamotte /klaˈmɔtə/, die, -n: clothes, stuff, trashy old movie/play
   Das meiste Geld gibt sie für neue Klamotten aus.
   She spends most of her money on new clothes.
@@ -331,6 +351,16 @@ Klassik /ˈklasɪk/, die, ~|uncountable
   die deutsche Klassik: the German classical age
   Sie hört gern Klassik.
   She likes listening to classical music.
+
+klatschen /ˈklaʧən/: to clap, to slap, to gossip
+  im Rhythmus der Musik klatschen: to clap in time to the music
+  in die Hände klatschen: to clap your hands
+  Die Zuschauer klatschten begeistert / klatschten der Mannschaft Beifall.
+  The spectators clapped enthusiastically/applauded the team.
+  Die Wellen klatschen gegen die Hafenmauer.
+  The waves are splashing against the harbor wall.
+  Meine Nachbarin klatscht gern.
+  My neighbor likes to gossip.
 
 kleben /ˈkleːbən/: to stick sth somewhere
   eine Briefmarke auf den Umschlag kleben
@@ -381,6 +411,12 @@ klirrend /ˈklɪrənt/: bitter
 
 Klo /kloː/, das, -s: toilet
   eine Rolle Klopapier: a roll of toilet paper
+
+klopfen /ˈklɔpfən/: to knock, to pat, to tap, to pound, to tenderize, to hammer
+  an die / der Tür klopfen: to knock on/at the door
+  Es hat geklopft, machst du bitte auf?
+  There was a knock at the door. Could you go and answer it, please?
+
 
 Kloster /ˈkloːstɐ/, das, -s|..: monastery, convent
   Klosterkirche: monastery church
@@ -688,6 +724,10 @@ kostümieren /kɔstyˈmiːrən/: to dress up
   Kinder kostümieren sich zu Halloween gerne als Hexen und Vampire.
   Children like to dress up as witches and vampires for Halloween.
 
+Köter /ˈkøːtɐ/, der, -s|~: mutt (dog)
+  Nimm endlich deinen dämlichen Köter an die Leine!
+  Put your damn mutt on a leash, for crying out loud!
+
 krabbeln /ˈkrabəln/: to crawl
   Ameisen krabbelten über die Terrasse.
   Ants were crawling across the terrace.
@@ -744,6 +784,12 @@ Krankenhaus /ˈkraŋkənhaus/, das, -es|..er: hospital
 Krapfen /ˈkrapfən/, der, -s|~: jelly doughnut
 
 kraus /kraus/: frizzy, tightly curled, winkled, crumpled, untidy, cramped, confused
+
+kräuseln /ˈkrɔyzəln/: to become wrinkled, to wrinkle, to ruffle
+  Das Wasser kräuselte sich im Wind.
+  The wind ruffled the water.
+  Das Geschenkband kann man mit der Schere kräuseln.
+  You need some scissors to crimp the parcel ribbon.
 
 Krawatte /kraˈvatə/, die: tie
   Er kam in Anzug und Krawatte.

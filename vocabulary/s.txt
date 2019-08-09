@@ -288,6 +288,10 @@ schenken /ˈʃɛŋkən/: to give (as a present), to donate
 
 Schere /ˈʃeːrə/, die, -n: scissors, shears
   Gartenschere: garden shears
+  Die eine Schere des Krebses ist viel größer als die andere.
+  One of the crab's pincers is much bigger than the other.
+  Die Schere zwischen Arm und Reich klafft immer weiter auseinander.
+  The gap between rich and poor is getting even bigger.
 
 scheuen /ˈʃɔyən/: to spare, to shrink from, to shy
   Wir haben für das Fest weder Kosten noch Mühe gescheut.
@@ -398,7 +402,7 @@ schlank /ʃlaŋk/: slim, slender
 
 Schlauchboot /ˈʃlauxboːt/, das: rubber dinghy, rubber boat, life raft
 
-schleichen /ˈʃlaiçən/: to creep, to crawl
+schleichen /ˈʃlaiçən/: to creep, to crawl, to slink
   sich aus dem Haus schleichen: to creep out of the house
   Er schlich auf Zehenspitzen zur Tür.
   He crept to the door on tiptoe.
@@ -451,6 +455,8 @@ Schlitz /ʃlɪʦ/, der, -es|-e: slit, slot, fly
   ein Rock mit seitlichem Schlitz: a skirt with a side slit
   Mach deinen Hosenschlitz zu!
   Do up your fly!
+
+schluchzen /ˈʃlʊxʦən/: to sob
 
 Schluck /ʃlʊk/, -(e)s|-e: mouthful, swallow, gulp, sip, drink
   einen Schluck Wasser / Tee trinken: to drink a mouthful of water/tea
@@ -891,7 +897,7 @@ schwimmen /ˈʃvɪmən/: to swim
 
 schwindelerregend: dizzy
 
-schwingen /ˈʃvɪŋən/: to swing
+schwingen /ˈʃvɪŋən/: to swing, to wave, to leap onto sth
   schwinge, schwingst, schwingt, habe geschwungen
   Er schwang drohend einen Knüppel.
   He brandished a club menacingly.
@@ -1300,7 +1306,7 @@ sowieso /zoviˈzoː/: anyway, anyhow
 Sozialismus /zoʦjaˈlɪsmʊs/, der, ~|uncountable: socialism
   der Sozialismus in der DDR: socialism in the GDR
 
-spähen /ˈʃpɛːən/: to peer
+spähen /ˈʃpɛːən/: to peer 端詳
   Er spähte über den Zaun/aus dem Fenster.
   He peered over the fence/out of the window.
 
@@ -1601,6 +1607,12 @@ stehen /ˈʃteːən/: to stand, to be, to have stopped, to depend on
   Das Kleid / Die Frisur steht dir nicht.
   That dress/hairstyle doesn't suit you.
 
+stehenbleiben, stehen bleiben: to stay, to stop
+  Egal, was ich machte, der Esel blieb wie angewurzelt stehen.
+  Whatever I did, the donkey stayed rooted to the spot.
+  Bleib doch mal stehen, ich kann nicht mehr!
+  Just stop, will you. I can't go on!
+
 stehlen /ˈʃteːlən/: to steal
   stehle, stahl, gestohlen
   Er hat Geld aus der Kasse gestohlen.
@@ -1755,6 +1767,10 @@ stöbern /ˈʃtœːbɐn/: to browse, to rummage
   Er stöbert auf dem Speicher nach alten Erinnerungsstücken.
   He is rummaging around in the loft for old keepsakes.
 
+stochern /ˈʃtɔxɐn/: to poke
+  Das Kind stocherte lustlos mit der Gabel im Essen.
+  The child poked at his food with his fork without much enthusiasm.
+
 stocken /ˈʃtɔkən/: to falter, to come to a halt, to be interrupted
   Die Verhandlungen kamen ins Stocken.
   The negotiations ground to a halt.
@@ -1877,6 +1893,7 @@ streichen /ˈʃtraiçən/: to paint, to spread, to delete, to cut, to cancel, to
   durch / über etw. streichen [ accusative ]: to stroke sth
   Sie strich dem Kind zärtlich durchs Haar.
   She tenderly stroked the child's hair.
+  
 
 Streifen /ˈʃtraifən/, der: stripe
   Zebras haben schwarze Streifen.
@@ -1929,6 +1946,12 @@ strömen /ˈʃtrøːmən/: to stream, to flow, to flock, to gush, to pour
 Strophe /ˈʃtroːfə/, die, -n: verse
   Sie kann alle drei Strophen auswendig.
   She knows all three verses by heart.
+
+struppig /ˈʃtrʊpɪç/: scruffy, bedraggled
+  Ist das Tier krank, dass sein Fell so struppig ist?
+  Why is that animal's coat so scruffy? Is it sick?
+  halb verhungerte, struppige Straßenköter
+  half-starving, scruffy stray dogs
 
 Stück /ʃtʏk/, das: piece, bit, play
   ein Stück Kuchen abschneiden

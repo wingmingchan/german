@@ -8,7 +8,7 @@ da: there, that one, then
   „Welches Glas möchtest du?‟ – „Das da!‟
   "Which glass would you like?" – "That one."
   da und dort: here and there
-  Ich bin gleich wieder da! I’ll be back in a moment.
+  Ich bin gleich wieder da! I'll be back in a moment.
 
 da: as, since
   Da ich dich nicht erreicht habe, bin ich ohne dich gefahren.
@@ -46,6 +46,12 @@ daher /daˈheːɐ/: therefore
 dahinter /ˈdaːhɪntɐ/: behind (it)
   Da ist das Rathaus und dahinter ein kleiner Park.
   There's city hall and behind it a small park.
+
+dalag => daliegen
+
+daliegen /ˈdaːliːɡən/: to lie there
+  Sie lag da und rührte sich nicht.
+  She lay there and didn't move an inch.
 
 damalige /ˈdaːmaːlɪɡə/: then, at that point
   meine damalige Chefin: my then boss
@@ -151,7 +157,7 @@ Dauer /ˈdauɐ/, die: duration
   von Dauer sein: to last
 
 Dauerauftrag /ˈdauɐ|auftraːk/, der, ..e: banker's order
-  die Miete per Dauerauftrag bezahlen: to pay the rent by banker’s order
+  die Miete per Dauerauftrag bezahlen: to pay the rent by banker's order
 
 dauern /ˈdauɐn/: to last, to take
   Der Film dauert zwei Stunden.
@@ -292,13 +298,23 @@ deswegen /ˈdɛsˈveːɡən/: therefore, so, that's why
 
 Detail /deˈtai/, das: detail
 
-deuten /’dɔytən/: to interpret
+deuten /'dɔytən/: to interpret
   einen Traum / ein Gedicht deuten: to interpret a dream/poem
   auf etw. / jdn deuten: to point (sth) at sth/sb
+  auf etw. / jdn deuten: sth points to sth
+  Die Zahlen / Zeichen deuten darauf, dass …
+  The figures/signs indicate that …
 
-deutlich /ˈdɔytlɪç/: clearly
+deutlich /ˈdɔytlɪç/: clear, frank, plain, forthright
   Er hat deutliche Fortschritte gemacht.
   He's made significant progress.
+  Ich muss mal ein paar deutliche Worte mit ihm sprechen.
+  I'd better have a word with him.
+  (jdm) etw. deutlich machen: to make sth clear (to sb)
+  Ich habe versucht, ihm deutlich zu machen, dass das ein Fehler ist.
+  I tried to make it clear to him that it was a mistake.
+  deutlich werden: to make yourself clear
+  deutlich sprechen / schreiben
 
 Deutsch /dɔytʃ/, das, -(e)s
   Sprechen Sie Deutsch?
@@ -309,7 +325,7 @@ Deutsch /dɔytʃ/, das, -(e)s
   der Unterricht in Deutsch: German lessons
   Deutscher Schäferhund: German shepherd
 
-Deutsche /’dɔyʧə/, -n|-n
+Deutsche /'dɔyʧə/, -n|-n
   Sind Sie Deutscher?
   Are you German?
   Das Wort kommt aus dem Deutschen.
@@ -326,12 +342,12 @@ Diamant /diaˈmant/, der, -en: diamond
 
 Diät /diˈɛːt/, die: diet
 
-dichten /’dɪçtən/: to write
+dichten /'dɪçtən/: to write
   Verse dichten: to write poetry
 
 Dichter
 
-Dichtung /’dɪçtʊŋ/, die, -en: literature
+Dichtung /'dɪçtʊŋ/, die, -en: literature
   die Deutsche Akademie für Sprache und Dichtung
   the German Academy for Language and Literature
 
@@ -355,7 +371,7 @@ dienen /ˈdiːnən/: to serve, to do your military service, to be of assistance
 Dienst /diːnst/, der: service
   der öffentliche Dienst: the civil service
 
-Dienstag /’diːnstaːk/, der, -(e)s|-e
+Dienstag /'diːnstaːk/, der, -(e)s|-e
 
 Diesel /ˈdiːzəl/, der, -: diesel
   Diesel tanken: to use diesel fuel
@@ -386,7 +402,7 @@ Diskrepanz /dɪskreˈpants/, die, -en: discrepancy
 Dogge /ˈdɔɡə/, die, -n: mastiff, Great Dane
   eine Deutsche / Dänische Dogge: a Great Dane
 
-Doktor /’dɔktoːɐ/, der, Doktoren, Doktorin: doctor
+Doktor /'dɔktoːɐ/, der, Doktoren, Doktorin: doctor
   Er ist Doktor der Philosophie.
   He's a doctor of philosophy.
   Guten Tag, Herr Doktor!
@@ -395,9 +411,11 @@ Doktor /’dɔktoːɐ/, der, Doktoren, Doktorin: doctor
 Dokument /dokuˈmɛnt/, das, -(e)s|-e: document
   ein beglaubigtes Dokument vorlegen: to produce a certified document
 
-Donner /’dɔnɐ/, der, -s|~: thunder
+Donner /'dɔnɐ/, der, -s|~: thunder
   Draußen wüten Blitz und Donner.
   There's a raging thunderstorm going on out there.
+
+donnernd: thunderous
 
 Donnerstag /ˈdɔnɐstaːk/, der, -(e)s|-e
 
@@ -543,6 +561,16 @@ dumm /dʊm/: dumb, stupid
   She likes to act dumb so nobody gives her any responsibility.
   Es war dumm von mir, ihm zu vertrauen.
   It was stupid of me to trust him.
+
+dumpf /dʊmpf/: dull, vague, musty
+  Mit einem dumpfen Schlag fiel er zu Boden.
+  He fell to the ground with a dull thud.
+  Sie verspürte einen dumpfen Schmerz im Rücken.
+  She felt a dull pain in her back.
+  lüften, um den dumpfen Geruch aus dem Keller zu vertreiben
+  to air in order to get the musty smell out of the basement
+  Ich erinnere mich nur dumpf an meine Kindheit.
+  I have only vague memories of my childhood.
 
 düngen /ˈdʏŋən/: to fertilize
   (etw.) mit Kompost / Mist düngen: to fertilize (sth) with compost/manure

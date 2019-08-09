@@ -13,6 +13,7 @@ solchem Unsinn wollten sie nichts zu tun haben.
 They were the last people you'd expect to be involved in anything
 strange or mysterious, because they just didn't hold with such
 nonsense.
+你無法想像，他們會牽扯到任何奇怪的、神秘的事情；他們是絕對不會認同這種胡鬧的。
 ------------------------------------------------------------------------------------------
 Mr. Dursley war Direktor einer Firma namens Grunnings, die
 Bohrmaschinen herstellte.
@@ -25,7 +26,7 @@ He was a big, beefy man with hardly any neck, although he did
 have a very large mustache.
 ------------------------------------------------------------------------------------------
 Mrs. Dursley war dünn und blond und besaß doppelt so viel Hals,
-wie notwendig gewesen wäre, was allerdings sehr nützlich war, denn
+wie ˈnotwendig gewesen wäre, was allerdings sehr nützlich war, denn
 so konnte sie den Hals über den Gartenzaun recken und zu den Nachbarn
 hinüberspähen.
 Mrs. Dursley was thin and blonde and had nearly twice the usual
@@ -43,7 +44,7 @@ The Dursleys had everything they wanted, but they also had a secret,
 and their greatest fear was that somebody would discover it.
 ------------------------------------------------------------------------------------------
 Einfach unerträglich wäre es, wenn die Sache mit den Potters
-herauskommen würde.
+heˈrauskommen würde.
 They didn't think they could bear it if anyone found out about
 the Potters.
 ------------------------------------------------------------------------------------------
@@ -1310,23 +1311,207 @@ Under a tuft of jet-black hair over his forehead they could see a curiously
 shaped cut, like a bolt of lightning.
 在他前額上、一束漆黑的頭髮下面，他們可以看見一道形狀奇特的、像閃電一樣的傷口。
 ------------------------------------------------------------------------------------------
+»Ist es das, wo -?«, flüsterte Professor McGonagall.
+“Is that where — ?” whispered Professor McGonagall.
+“這是不是就是 ... ?” McGonagall 老師低聲問道。
+------------------------------------------------------------------------------------------
+»Ja«, sagte Dumbledore. »Diese Narbe wird ihm immer bleiben.«
+“Yes,” said Dumbledore. “He'll have that scar forever.”
+“對，” Dumbledore 說，“這道傷疤，將伴隨他一輩子。”
+------------------------------------------------------------------------------------------
+»Können Sie nicht etwas dagegen tun, Dumbledore?«
+“Couldn't you do something about it, Dumbledore?”
+“Dumbledore，難道您不能想想辦法，把它去掉嗎？”
+------------------------------------------------------------------------------------------
+»Selbst wenn ich es könnte, ich würde es nicht.
+“Even if I could, I wouldn't.
+“我就是有辦法把它去掉，我也不會這麼幹。”
+------------------------------------------------------------------------------------------
+Narben können recht nützlich sein.
+Scars can come in handy.
+傷疤有時候很有用。
+------------------------------------------------------------------------------------------
+Ich selbst habe eine oberhalb des linken Knies, und die ist ein tadelloser
+Plan der Londoner UBahn.
+I have one myself above my left knee that is a perfect map of the
+London Underground.
+我的左膝蓋上面有一塊傷疤，跟倫敦的地鐵圖一模一樣。
+------------------------------------------------------------------------------------------
+Nun denn - gib ihn mir, Hagrid -, wir bringen es besser hinter uns.«
+Well — give him here, Hagrid — we'd better get this over with.”
+“好了，Hagrid，給我。我們還是趁早了結了這件事兒吧。”
+------------------------------------------------------------------------------------------
+Dumbledore nahm Harry in die Arme und wandte sich dem Haus der Dursleys zu.
+Dumbledore took Harry in his arms and turned toward the Dursleys' house.
+Dumbledore 接過 Harry，抱著他，轉身走向 Dursley 的家門口。
+------------------------------------------------------------------------------------------
+»Könnte ich ... könnte ich ihm adieu sagen, Sir?«, fragte Hagrid.
+“Could I — could I say good-bye to him, sir?” asked Hagrid.
+“先生，我 ... 我能跟他道別嗎？”
+------------------------------------------------------------------------------------------
+Er beugte seinen großen, struppigen Kopf über Harry und
+gab ihm einen gewiss sehr kratzigen, barthaarigen Kuss.
+He bent his great, shaggy head over Harry and gave him what must
+have been a very scratchy, whiskery kiss.
+他朝 Harry 低下了碩大的、毛髮蓬亂的頭，給了 Harry 一個必定是紮人的、怪癢癢的
+吻；
+------------------------------------------------------------------------------------------
+Dann, plötzlich, stieß Hagrid ein Heulen wie ein verletzter Hund aus.
+Then, suddenly, Hagrid let out a howl like a wounded dog.
+接著，突如其來地，發出了一聲像狗受傷的嗥叫。
+------------------------------------------------------------------------------------------
+»Schhhh!«. zischte Professor McGonagall, »Sie wecken
+noch die Muggel auf!«
+“Shhh!” hissed Professor McGonagall, “you'll wake the Muggles!”
+“輕點兒聲！” McGonagall 老師生氣地小聲說道。“你要把麻戈吵醒了！”
+------------------------------------------------------------------------------------------
+»V-v-verzeihung«, schluchzte Hagrid, zog ein großes,
+gepunktetes Taschentuch hervor und vergrub das Gesicht darin.
+“S-s-sorry,” sobbed Hagrid, taking out a large, spotted handkerchief
+and burying his face in it.
+“對 ... 對不起，” Hagrid 嗚咽著說，一面掏出一塊巨大的、帶斑點的手帕，
+然後把臉埋在裏頭了。
+------------------------------------------------------------------------------------------
+»Aber ich k-k-kann es einfach nicht fassen - Lily und James tot -
+und der arme kleine Harry muss Jetzt bei den Muggels leben -«
+“But I c-c-can't stand it — Lily an' James dead — an' poor little Harry
+off ter live with Muggles —”
+“我受不了了 ... Lily 跟 James 死了 ... 可憐的 Harry 要跟麻戈一起生活 ...”
+------------------------------------------------------------------------------------------
+»Ja, Ja, das ist alles sehr traurig, aber reiß dich zusammen,
+Hagrid, oder man wird uns entdecken«, flüsterte Professor
+McGonagall und klopfte Hagrid behutsam auf den Arm, während
+Dumbledore über die niedrige Gartenmauer stieg und zum
+Vordereingang trat.
+“Yes, yes, it's all very sad, but get a grip on yourself, Hagrid, or
+we'll be found,” Professor McGonagall whispered, patting Hagrid
+gingerly on the arm as Dumbledore stepped over the low garden
+wall and walked to the front door.
+“是的，是的，整件事兒都讓人難過；可是 Hagrid，你得控制一下你的情緒，不然，
+我們的身分就要暴露了，” McGonagall 老師一面小聲說，一面小心翼翼地輕拍 Hagrid 的
+胳膊，而 Dumbledore 則跨過花園的矮牆，向正門走去。
+------------------------------------------------------------------------------------------
+Sanft legte er Harry vor die Eingangstür, zog einen Brief aus dem Umhang,
+steckte ihn zwischen Harrys Leintücher und kehrte dann zu den beiden andern zurück.
+He laid Harry gently on the doorstep, took a letter out of his cloak,
+tucked it inside Harry's blankets, and then came back to the other two. 
+他把 Harry 輕輕地放在門前的臺階上，從披風下面拿出一封信，把信塞進毛毯裏，然後再回到其他兩個人
+的身邊。
+------------------------------------------------------------------------------------------
+Eine ganze Minute lang standen die drei da und sahen auf das kleine
+Bündel; Hagrids Schultern zuckten, Professor McGonagall blinzelte
+heftig, und das funkelnde Licht, das sonst immer aus
+Dumbledores Augen schien, war wohl erloschen.
+For a full minute the three of them stood and looked at the little bundle;
+Hagrid's shoulders shook, Professor McGonagall blinked furiously, and the
+twinkling light that usually shone from Dumbledore's eyes seemed
+to have gone out.
+整整一分鐘，他們三個就站在那兒，看著那小束毛毯。Hagrid 的肩膀在顫抖，McGonagall 老師拚
+命地眨眼，而 Dumbledore 平常閃著光芒的雙眼，好像也變得黯然無光了。
+------------------------------------------------------------------------------------------
+»Nun«, sagte Dumbledore schließlich, »das war's ... Wir
+haben hier nichts mehr zu suchen. Wir sollten lieber verschwinden
+und zu den Feiern gehen.«
+“Well,” said Dumbledore finally, “that's that. We've no business
+staying here. We may as well go and join the celebrations.”
+------------------------------------------------------------------------------------------
+»Jaow«, sagte Hagrid mit sehr dumpfer Stimme, »ich bring
+Sirius seine Kiste zurück.
+“Yeah,” said Hagrid in a very muffled voice, “I'd best get this
+bike away.
+------------------------------------------------------------------------------------------
+Nacht, Professor McGonagall - Professor Dumbledore, Sir.«
+G'night, Professor McGonagall — Professor Dumbledore, sir.”
+------------------------------------------------------------------------------------------
+Hagrid wischte sich mit dem Jackenärmel die tropfnassen
+Augen, schwang sich auf das Motorrad und erweckte die
+Maschine mit einem Fußkick zum Leben; donnernd erhob sie sich
+in die Lüfte und verschwand in der Nacht.
+Wiping his streaming eyes on his jacket sleeve, Hagrid swung
+himself onto the motorcycle and kicked the engine into life; with a
+roar it rose into the air and off into the night.
+------------------------------------------------------------------------------------------
+»Wir werden uns bald wieder sehen, vermute ich, Professor
+McGonagall«, sagte Dumbledore und nickte ihr zu.
+“I shall see you soon, I expect, Professor McGonagall,” said
+Dumbledore, nodding to her.
+------------------------------------------------------------------------------------------
+Zur Antwort schnäuzte sich Professor McGonagall die Nase.
+Professor McGonagall blew her nose in reply.
+------------------------------------------------------------------------------------------
+Dumbledore drehte sich um und entfernte sich die Straße entlang.
+Dumbledore turned and walked back down the street. 
+------------------------------------------------------------------------------------------
+An der Ecke blieb er stehen und holte den Ausmacher hervor.
+On the corner he stopped and took out the silver Put-Outer.
+------------------------------------------------------------------------------------------
+Er knipste einmal und zwölf Lichtbälle huschten zurück
+in ihre Straßenlaternen.
+He clicked it once, and twelve balls of light sped back to their
+street lamps
+------------------------------------------------------------------------------------------
+Mit einem Mal leuchtete der Ligusterweg in Orange, und er konnte
+eine kleine Tigerkatze sehen, die am anderen Ende der Straße um
+die Ecke strich.
+so that Privet Drive glowed suddenly orange and he could
+make out a tabby cat slinking around the corner at the other end of
+the street.
+------------------------------------------------------------------------------------------
+Auf der Türschwelle von Nummer 4 konnte er gerade noch das Bündel
+aus Leintüchem erkennen.
+He could just see the bundle of blankets on the step of number
+four.
+------------------------------------------------------------------------------------------
+»Viel Glück, Harry«, murmelte er.
+“Good luck, Harry,” he murmured.
+------------------------------------------------------------------------------------------
+Er drehte sich auf dem Absatz um und mit einem Wehen seines Umhangs
+war er verschwunden.
+He turned on his heel and with a swish of his cloak, he was gone.
+------------------------------------------------------------------------------------------
+Eine Brise kräuselte die sorgfältig geschnittenen Hecken des
+Ligusterwegs, der still und ordentlich dalag unter dem
+tintenfarbenen Himmel, und nie wäre man auf den Gedanken
+gekommen, dass hier etwas Unerhörtes geschehen könnte.
+A breeze ruffled the neat hedges of Privet Drive, which lay silent
+and tidy under the inky sky, the very last place you would expect
+astonishing things to happen.
+------------------------------------------------------------------------------------------
+In seinen Leintüchern drehte sich Harry Potter auf die Seite, ohne
+aufzuwachen.
+Harry Potter rolled over inside his blankets without waking up.
+------------------------------------------------------------------------------------------
+Seine kleinen Finger klammerten sich an den Brief
+neben ihm, und er schlief weiter, nicht wissend, dass er etwas
+Besonderes war, nicht wissend, dass er berühmt war, nicht
+wissend, dass in ein paar Stunden, wenn Mrs. Dursley die
+Haustür öffnen würde, um die Milchflaschen hinauszustellen, ein
+Schrei ihn wecken würde, und auch nicht wissend, dass ihn sein Vetter
+Dudley in den nächsten Wochen peinigen und piesacken würde ...
+One small hand closed on the letter beside him and he slept on,
+not knowing he was special, not knowing he was famous, not knowing
+he would be woken in a few hours' time by Mrs. Dursley's scream
+as she opened the front door to put out the milk bottles, nor that
+he would spend the next few weeks being prodded and pinched by
+his cousin Dudley ...
+------------------------------------------------------------------------------------------
+Er konnte nicht wissen, dass in eben diesem Moment überall
+im Land Versammlungen stattfanden, Gläser erhoben wurden
+und gedämpfte Stimmen sagten: »Auf Harry Potter - den Jungen,
+der lebt!«
+He couldn't know that at this very moment, people meeting in secret
+all over the country were holding up their glasses and saying in
+hushed voices: “To Harry Potter — the boy who lived!”
+------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------
 
-------------------------------------------------------------------------------------------
-
-------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------
 
-------------------------------------------------------------------------------------------
-
-------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------

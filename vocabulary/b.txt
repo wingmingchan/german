@@ -360,6 +360,8 @@ begeistern /bəˈɡaistɐn/: to be enthusiastic about, to delight, to thrill, to
   The band had the audience in raptures.
 
 begeistert /bəˈɡaistɐt/: enthusiastic, excited
+  Das Publikum applaudierte (dem Sänger) begeistert.
+  The audience applauded (the singer) enthusiastically.
 
 Begeisterung /bəˈɡaistərʊŋ/, die, ~|uncountable: enthusiasm
   sich ohne Begeisterung an die Arbeit machen
@@ -422,6 +424,10 @@ Begründung /bəˈɡrʏndʊŋ/, die, -en: explanation
   Eine längere Krankheit stellt keine ausreichende Begründung für eine Kündigung dar.
   A lengthy illness is not adequate grounds for termination.
 
+Begrüßung /bəˈɡryːsʊŋ/, die, ~|-en: greeting, welcome
+  jdm zur Begrüßung die Hand schütteln
+  to welcome sb with a handshake
+
 behalten /bəˈhaltən/: to keep, to remember
   Mama, kann ich den Hund behalten?
   Mom, can I keep the dog?
@@ -466,6 +472,11 @@ Behörde /bəˈhøːɐdə/, die, -n: authority, agency
   Welche Behörde ist für die Genehmigung von Bauvorhaben zuständig?
   Which authority is responsible for giving planning permission?
 
+behutsam /bəˈhuːtzaːm/: careful, cautious
+  eine behutsame Modernisierung: a careful modernization
+  Er deckte das Baby behutsam zu.
+  He carefully covered the baby up.
+
 beibehalten /ˈbaibəhaltən/: to maintain, to retain
   eine Gewohnheit / Geschwindigkeit beibehalten
   to keep up a habit/maintain a speed
@@ -478,6 +489,9 @@ beibringen /ˈbaibrɪŋən/: to teach, to break the news to, to inflict on, to p
 beieinander /bai|aiˈnandɐ/: together
   Schön, dass wir endlich mal wieder alle beieinander sind.
   Isn't it nice that we're finally all back together?
+
+Beifall /ˈbaifal/, der, -(e)s|uncountable: applause
+  Beifall klatschen: to applaud
 
 beiläufig /ˈbailɔyfɪç/: casual
 
@@ -1015,6 +1029,15 @@ betteln /ˈbɛtəln/: to beg
   auf der Straße um Brot betteln: to beg for bread on the street
 
 Bettler /ˈbɛtlɐ/: beggar
+
+beugen /ˈbɔyɡən/: to bend
+  Sie saß, den Kopf über ein Buch gebeugt, am Tisch.
+  She sat at the table with her head bent over a book.
+  sich über das Geländer / aus dem Fenster beugen
+  to lean over the banister/out of the window
+  Ich beuge mich der Gewalt.
+  I give in to the violence.
+  ein unregelmäßig gebeugtes Verb: an irregularly inflected verb
 
 beunruhigen /bəˈ|ʊnruːɪɡən/: to worry, to trouble, to bother
   Die Nachricht scheint ihn nicht sonderlich zu beunruhigen.

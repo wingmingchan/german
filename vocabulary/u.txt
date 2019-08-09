@@ -81,6 +81,9 @@ U /uː/ U wie Ulrich, Ü wie Übermut
 überlegen /yːbɐˈleːɡən/: to think
   Er überlegte eine Weile, dann sagte er: „Ich tue es!‟
   He paused to think, then said "I'll do it!"
+  sich etw. überlegen [ dative ]: to think sth over
+  Ich werde mir einen Plan überlegen, wie wir das machen können.
+  I'll try and come up with a plan for how we can do it.
 
 übermorgen /ˈyːbɐmɔrɡən/: the day after tomorrow
 
@@ -240,6 +243,18 @@ umbuchen /ˈʊmbuːxən/: to change (your booking for)
   Ich werde versuchen, Sie / Ihren Flug umzubuchen.
   I'll try and change your booking for you/flight.
 
+umdrehen /ˈʊmdreːən/: to turn over/(inside) out/upside-down/around
+  Sie drehte das Blatt um und schrieb auf der Rückseite weiter.
+  She turned the sheet over and continued writing on the back.
+  Er musste seine Taschen umdrehen und da kam der gestohlene Schlüssel zum Vorschein.
+  He had to turn out his pockets and that's how the stolen key was discovered.
+  Sie drehte den Eimer um und setzte sich darauf.
+  She turned the bucket upside-down and sat down on it.
+  den Schlüssel zweimal im Schloss umdrehen
+  to turn the key twice in the lock
+  Dreh bitte um, ich hab was zu Hause vergessen.
+  Please could you turn around. I've left something at home.
+
 umfallen /ˈʊmfalən/: to fall over
   Das Glas ist umgefallen.
   The glass fell over.
@@ -300,6 +315,14 @@ umhauen /ˈʊmhauən/: to fell, to knock down
   That amount of schnapps / This heat is enough to knock even the strongest man over.
   Es hat mich fast umgehauen, als ich von ihrer Wahl zur Miss World hörte.
   I was flabbergasted when I heard she'd been crowned Miss World.
+
+umkehren /ˈʊmkeːrən/: to turn back, to reverse, to turn (inside) out
+  Auf halber Strecke sind sie umgekehrt und wieder nach Hause gefahren.
+  Halfway there they turned back and drove home again.
+  Leider lässt sich diese Entwicklung nicht mehr umkehren.
+  Unfortunately this development can no longer be reversed.
+  Er musste seine Taschen umkehren und alles hergeben, was darin war.
+  He had to turn out his pockets and hand over all the contents.
 
 umkreisen /ʊmˈkraizn/: to circle (around), to orbit
 
@@ -400,9 +423,22 @@ unbekannt /ˈʊnbəkant/: unfamiliar, unknown
 
 unberechenbar /ˈʊnbərɛçənbaːɐ/: unpredictable
 
+undeutlich /ˈʊndɔytlɪç/: unclear, indistinct, vague, 
+  Im Nebel waren nur undeutliche Umrisse zu erkennen.
+  Only vague outlines could be seen in the fog.
+  eine undeutliche Aussprache haben: to pronounce things unclearly
+  Er hat nur undeutliche Vorstellungen von seiner beruflichen Zukunft.
+  He only had some vague ideas about his future career.
+  etw. nur undeutlich erkennen: to only vaguely make sth out
+
 unehrlich /ˈʊn|eːɐlɪç/: dishonest
 
 unendlich /ʊnˈ|ɛntlɪç/: infinite, never-ending
+
+unerhört /ˈʊn|ɛɐˈhøːɐt/: outrageous,
+  Das ist ja wirklich unerhört!
+  That's totally outrageous!
+  ein Skandal unerhörten Ausmaßes: an enormous scandal
 
 unerreichbar /ʊn|ɛɐˈraiçbaːr, ˈʊn|ɛɐraiçbaːr/: inaccessible, unattainable, unavailable
   Die Erfüllung seines Wunsches rückte in unerreichbare Ferne.
@@ -440,6 +476,10 @@ Ungeheuer /ˈʊnɡəhɔyɐ/, das, Ungeheuer: monster
 ungeheuer: immense, enormous
 
 ungeheuerlich: monstrous
+
+ungern /ˈʊnɡɛrn/: reluctantly
+  Sie tut das sehr ungern.
+  She is doing it very reluctantly.
 
 ungewiss /ˈʊnɡəvɪs/: uncertain
 
@@ -650,7 +690,7 @@ Ursprung /ˈuːɐʃprʊŋ/, der: origin
 
 ursprünglich /ˈuːɐʃprʏŋlɪç/: original, initial
   Sie haben den ursprünglichen Plan noch einmal geändert.
-  They’ve changed the original plan again.
+  They've changed the original plan again.
   Ursprünglich wollten wir fliegen, haben uns aber nun doch für die Bahn entschieden.
   We wanted to fly originally but then we decided to go by train after all.
 

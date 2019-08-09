@@ -198,6 +198,10 @@ absagen /ˈapzaːɡən/: to cancel
 
 absägen /ˈapzɛːɡən/: to saw off 鋸掉
 
+Absatz /ˈapzaʦ/, der, -es|..e: heel
+  Schuhe mit hohen Absätzen: high-heeled shoes
+  auf dem Absatz kehrtmachen: to turn on your heels 
+
 abschätzen /ˈapʃɛʦən/: to estimate, to appraise
   Die Auswirkungen lassen sich jetzt noch nicht abschätzen.
   It is impossible to estimate the effects at the moment.
@@ -967,6 +971,12 @@ Anmeldung /ˈanmɛldʊŋ/, die: enrollment, registration, application, registrat
 Anmerkung /ˈanmɛrkʊŋ/, die: comment, remark
   eine Anmerkung zu etw. machen: to make a comment on sth
 
+annehmbar /ˈanneːmbaːɐ/: acceptable, reasonable, passable
+  Für mich ist dieses Angebot nicht annehmbar.
+  For me this offer is not acceptable.
+  Das Hotel war ganz annehmbar.
+  The hotel was quite passable.
+
 annehmen /ˈanneːmən/: to take, to accept, to pass, to assume
   ein Paket für den Nachbarn annehmen: to take a package for the neighbors
   Ich nehme Ihre Einladung zum Tee gerne an.
@@ -976,7 +986,7 @@ annehmen /ˈanneːmən/: to take, to accept, to pass, to assume
   jdn als Kind / Schüler annehmen
   to adopt a child/to take sb on as a student
   Die Polizei nimmt an, dass …
-  The police assume that…
+  The police assume that …
 
 anonym /anoˈnyːm/: anonymous
 
@@ -1187,6 +1197,10 @@ Appartement /apartəˈmã/, das, -s
 Appetit /apeˈtiːt/, der
   Guten Appetit!
 
+applaudieren /aplauˈdiːrən/: to applaud, to clap
+  Das Publikum applaudierte (dem Sänger) begeistert.
+  The audience applauded (the singer) enthusiastically.
+​
 △April /aˈprɪl/, der, (-s)|-e
 
 Äquator /ɛˈkvaːtoːɐ/, der: Equator
@@ -1368,6 +1382,9 @@ auffallen /ˈauffalən/
   jd/etw. fällt auf: sb/sth attracts attention
   Er ist mal wieder unangenehm aufgefallen.
   He managed to make a spectacle of himself yet again.
+  etw. fällt jdm (an jdm / etw.) auf: sb notices sth (about sb/sth)
+  Ist Ihnen nichts Ungewöhnliches an ihm aufgefallen?
+  Didn't you notice anything unusual about him?
   
 auffallend /ˈauffalənt/: striking, noticeable
   eine auffallende Häufung von Unfällen
@@ -1483,14 +1500,35 @@ Auflistung, die: listing
 
 Auflösung /ˈaufløːzʊŋ/, die: resolution, disintegration
 
-aufmarschieren: march up
+aufmachen /ˈaufmaxən/: to open, to present, to display, to set out, to set off
+  Machen wir uns eine Flasche Wein auf?
+  Shall we open a bottle of wine?
+  Mach doch die Augen auf!
+  Open your eyes, would you!
+  Um wie viel Uhr macht der Supermarkt auf?
+  What time does the supermarket open?
+  Sie wollen einen neuen Kindergarten aufmachen.
+  They plan to open a new kindergarten.
+  Die Geschichte war in der Zeitung groß aufgemacht.
+  They made a big splash about the story in the newspaper.
+  Er machte sich auf, in die Stadt zu fahren.
+  He set off to drive to the city.
 
 Aufmachung /ˈaufmaxʊŋ/, die: get-up, guise
+
+aufmarschieren: march up
 
 aufmerksam /ˈaufmɛrkzaːm/: attentive, alert
   => merken: to notice
   jdn auf jdn / etw. aufmerksam machen: to draw sb's attention to sb/sth
   (jdn) auf sich aufmerksam machen: to catch (sb's) attention
+  
+Aufmerksamkeit /ˈaufmɛrkzaːmkait/, die, ~|-en: attention, small present
+  jds Aufmerksamkeit erregen / fesseln: to attract/capture sb's attention
+  jdm als kleine Aufmerksamkeit eine Flasche Wein mitbringen
+  to bring a bottle of wine with you as a small present for sb
+  die Aufmerksamkeit, mit der sie sich um uns kümmerte
+  the attention she paid to our needs
 
 Aufnahme /ˈaufnaːmə/, die: photo, shot
 
@@ -1629,6 +1667,10 @@ Auftritt /ˈauftrɪt/, der, Auftritte: appearance, performance, (theatre) scene
 aufwachen /ˈaufvaxən/: to wake up
   Sie wachte mitten in der Nacht auf.
   She woke up in the middle of the night.
+
+aufwecken /ˈaufvɛkən/: to wake up
+  Kannst du mich morgen bitte um 7 Uhr aufwecken?
+  Can you wake me up at 7 o'clock tomorrow, please?
 
 Aufzucht /ˈaufʦʊxt/, die: rearing, breeding
 
@@ -2003,10 +2045,17 @@ außerhalb: outside
   Seine Unruhe äußerte sich in nervösen Zuckungen.
   His restlessness could be seen in his nervous twitching.
 
+außerordentlich /ˈausɐ|ˈɔrdəntlɪç/: extraordinary, exceptional, special
+  ein außerordentliches Ereignis: an extraordinary event
+
+äußerst /ˈɔysɐst/: extremely
+
 Äußerung /ˈɔysərʊŋ/, die, ~|-en: statement
   wegen rassistischer Äußerungen kritisiert werden: to be criticized for racist remarks
 
-äußerst /ˈɔysɐst/: extremely
+Ausmaß /ˈausmaːs/, das, -es|-e: extent
+  eine Tragödie unvorstellbaren Ausmaßes
+  a tragedy of unimaginable proportions
 
 aussetzen /ˈauszɛʦən/: to interrupt, to fail, to suspend, to abandon, to offer
   etw. an jdm/etw. aussetzen: to find fault with sb/sth

@@ -296,6 +296,9 @@ heben /ˈheːbən/: to lift, to raise
 Heck /hɛk/, das: rear, stern
   Heckklappe: tailgate
 
+Hecke /ˈhɛkə/, die, ~|-n: hedge
+  eine Hecke pflanzen: to plant a hedge
+
 Heft /hɛft/, das, Hefte: exercise book, booklet, magazine, comic, issue
   Die Lehrerin sammelt die Hefte ein.
   The teacher collected the exercise books.
@@ -461,6 +464,18 @@ Herd /heːɐt/, der, -e: stove, range, epicenter, focus
 Herde /ˈheːɐdə/, die, ~|-n: herd, flock
   Der Schäfer hütet seine Herde.
   The shepherd tends his flock.
+
+hergeben /ˈheːɐɡeːbən/: to hand over
+  Gib das her, das gehört mir!
+  Give it to me – it's mine!
+  Ich gebe mein neues Fahrrad ungern her.
+  I don't like lending out my new bike.
+  Ich würde alles hergeben, wenn es ihr helfen würde.
+  I'd give away everything if it would help her.
+  Wie konnte er sich nur für so einen Unsinn hergeben?
+  How could he be a party to such nonsense?
+  Dieses Thema gibt nicht viel her.
+  That topic isn't very productive.
 
 herhaben /ˈheːɐhaːbən/: to get (from)
   Wo hast du denn die Puppe / diesen Spruch her?
@@ -863,6 +878,12 @@ hungrig /ˈhʊŋrɪç/: hungry
 
 hüpfen /ˈhʏpfən/: to hop
   auf einem Bein hüpfen: to hop on one leg
+
+huschen /ˈhʊʃən/: to dart, to whoosh, to scamper, to flash
+  Sie huschte leise in sein Zimmer.
+  She whooshed quietly into his room.
+  Ein Lächeln huschte über sein Gesicht.
+  A smile flashed across his face.
 
 ▲Husten /ˈhuːstən/, der, |uncountable: cough
   Husten haben / bekommen: to have/get a cough
