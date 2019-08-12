@@ -1071,11 +1071,11 @@ About what finally stopped him?”
 最後是什麼阻止了他？
 ------------------------------------------------------------------------------------------
 Offenbar hatte Professor McGonagall den Punkt erreicht,
-über den sie unbedingt reden wollte, den wirklichen Grund,
+über den sie unbedingt [really] reden wollte, den wirklichen Grund,
 warum sie den ganzen Tag auf einer kalten, harten Mauer
 gewartet hatte, denn weder als Katze noch als Frau hatte sie
 Dumbledore mit einem so durchdringenden Blick festgenagelt
-wie Jetzt. 
+wie Jetzt.
 It seemed that Professor McGonagall had reached the point she
 was most anxious to discuss, the real reason she had been waiting
 on a cold, hard wall all day, for neither as a cat nor as a woman had
@@ -1113,7 +1113,7 @@ Dumbledore senkte langsam den Kopf.
 Dumbledore bowed his head.
 Dumbledore 低下了頭,
 ------------------------------------------------------------------------------------------
-Professor McGonagall stockte der Atem.
+Professor McGonagall stockte [to falter] der Atem.
 Professor McGonagall gasped.
 McGonagall 老師倒抽了一口氣。
 ------------------------------------------------------------------------------------------
@@ -1153,10 +1153,10 @@ töten konnte, fiel Voldemorts Macht in sich zusammen - und deshalb ist
 er verschwunden.«
 No one knows why, or how, but they're saying that when he couldn't kill Harry
 Potter, Voldemort's power somehow broke — and that's why he's gone.”
-沒有人知道為什麼，可是他們說，Voldemort 殺不了 Harry Potter，自己的法力卻無緣無故消失了，
+沒有人知道為什麼，可是他們說，Voldemort 殺不了 Harry Potter，自己的法力卻不知道為什麼消失了，
 他也因此失蹤了。”
 ------------------------------------------------------------------------------------------
-Dumbledore nickte mit düsterer Miene.
+Dumbledore nickte mit düsterer [sad] Miene [expression].
 Dumbledore nodded glumly.
 Dumbledore 沮喪地點點頭。
 ------------------------------------------------------------------------------------------
@@ -1183,7 +1183,7 @@ werden wir es nie wissen.«
 “我們只能猜測，” Dumbledore 說，“也許我們永遠不會知道真相。”
 ------------------------------------------------------------------------------------------
 Professor McGonagall zog ein Spitzentaschentuch hervor
-und betupfte die Augen unter der Brille.
+und betupfte [dab] die Augen unter der Brille.
 Professor McGonagall pulled out a lace handkerchief and
 dabbed at her eyes beneath her spectacles.
 McGonagall 老師掏出一塊蕾絲手帕，輕輕地在眼鏡下面擦眼睛。
@@ -1251,9 +1251,9 @@ I've been watching them all day.
 ------------------------------------------------------------------------------------------
 Sie könnten keine zwei Menschen finden, die uns weniger ähneln.
 You couldn't find two people who are less like us.
-他們跟我們完全不是一類人；
+他們倆跟我們完全不是一類人；
 ------------------------------------------------------------------------------------------
-Und sie haben diesen Jungen -ich habe gesehen, wie er seine Mutter den ganzen Weg
+Und sie haben diesen Jungen - ich habe gesehen, wie er seine Mutter den ganzen Weg
 die Straße entlang gequält und nach Süßigkeiten geschrien hat.
 And they've got this son — I saw him kicking his mother all the way up
 the street, screaming for sweets.
@@ -1277,7 +1277,7 @@ I've written them a letter.”
 setzte sich wieder auf die Mauer.
 “A letter?” repeated Professor McGonagall faintly, sitting back
 down on the wall.
-“一封信？” McGonagall 老師輕聲重複說，然後又坐到磚牆上。
+“一封信？” McGonagall 老師軟弱地重複說，然後又坐到磚牆上。
 ------------------------------------------------------------------------------------------
 »wirklich, Dumbledore, glauben Sie, dass Sie all das in einem Brief
 erklären können?
@@ -1314,7 +1314,7 @@ Famous for something he won't even remember!
 ------------------------------------------------------------------------------------------
 Sehen Sie nicht, wie viel besser es für ihn wäre,
 wenn er weit weg von alledem aufwächst, bis er bereit ist, es zu
-begreifen?«
+begreifen [understand]?«
 Can't you see how much better off he'll be, growing up away from all that
 until he's ready to take it?”
 難道您還不明白，如果他能在遠離這一切的環境中長大，直到他能面對這些，不是對他更好嗎？”
@@ -1339,7 +1339,7 @@ Harry underneath it.
 “Hagrid's bringing him.”
 “Hagrid 會把他帶來。”
 ------------------------------------------------------------------------------------------
-»Sie halten es für - klug, Hagrid etwas so Wichtiges anzuvertrauen?«
+»Sie halten es für - klug [clever], Hagrid etwas so Wichtiges anzuvertrauen?«
 “You think it — wise — to trust Hagrid with something as important
 as this?”
 “您覺得 ... 把這麼重要的任務交給 Hagrid，這明智嗎？”
@@ -1408,12 +1408,12 @@ In his vast, muscular arms he was holding a bundle of blankets.
 “Hagrid,” said Dumbledore, sounding relieved.
 “Hagrid，” Dumbledore 說，帶點鬆了一口氣的口吻。
 ------------------------------------------------------------------------------------------
-»Endlich. Und wo hast du dieses Motorrad her?«
+»Endlich. Und wo hast du dieses Motorrad her [to get]?«
 “At last. And where did you get that motorcycle?”
 “終於來了。上哪兒找來的摩托車？”
 ------------------------------------------------------------------------------------------
 »Hab es geborgt, Professor Dumbledore, Sir«, sagte der
-Riese und kletterte vorsichtig von seinem Motorrad.
+Riese und kletterte [to climb] vorsichtig von seinem Motorrad.
 “Borrowed it, Professor Dumbledore, sir,” said the giant, climbing
 carefully off the motorcycle as he spoke.
 “先生，是借來的，Dumbledore 老師，” 巨人一面從摩托車上小心地下來，一面回答說。
@@ -1438,13 +1438,14 @@ right before the Muggles started swarmin' around.
 ------------------------------------------------------------------------------------------
 Er ist eingeschlafen, als wir über Bristol flogen.«
 He fell asleep as we was flyin' over Bristol.”
-我們飛過 Bristol 的上空的時候，他就睡著了。”
+我們飛過 Bristol 上空的時候，他就睡著了。”
 ------------------------------------------------------------------------------------------
-Dumbledore und Professor McGonagall neigten ihre Köpfe
+Dumbledore und Professor McGonagall neigten [to bend] ihre Köpfe
 über das Leintuchbündel.
 Dumbledore and Professor McGonagall bent forward over the bundle of blankets.
+Dumbledore 跟 McGonagall 老師身向前傾，低頭看著這束毛毯，
 ------------------------------------------------------------------------------------------
-Darin steckte, gerade eben zu sehen, ein kleiner Junge, fast noch ein Baby,
+Darin steckte [to be], gerade eben zu sehen, ein kleiner Junge, fast noch ein Baby,
 in tiefem Schlaf.
 Inside, just visible, was a baby boy, fast asleep.
 毛毯裏，隱約可見，裹著一個熟睡的小男孩兒；
@@ -1453,7 +1454,7 @@ Unter einem Büschel rabenschwarzen Haares auf der Stirn konnten sie einen
 merkwürdigen Schnitt erkennen, der aussah wie ein Blitz.
 Under a tuft of jet-black hair over his forehead they could see a curiously
 shaped cut, like a bolt of lightning.
-在他前額上、一束漆黑的頭髮下面，他們可以看見一道形狀奇特的、像閃電一樣的傷口。
+在他前額上、一綹漆黑的頭髮下面，他們可以看見一道形狀奇特的、像閃電一樣的傷口。
 ------------------------------------------------------------------------------------------
 »Ist es das, wo -?«, flüsterte Professor McGonagall.
 “Is that where — ?” whispered Professor McGonagall.
@@ -1469,13 +1470,13 @@ shaped cut, like a bolt of lightning.
 ------------------------------------------------------------------------------------------
 »Selbst wenn ich es könnte, ich würde es nicht.
 “Even if I could, I wouldn't.
-“我就是有辦法把它去掉，我也不會這麼幹。”
+“我就是有辦法，我也不會這麼幹。”
 ------------------------------------------------------------------------------------------
 Narben können recht nützlich sein.
 Scars can come in handy.
 傷疤有時候很有用。
 ------------------------------------------------------------------------------------------
-Ich selbst habe eine oberhalb des linken Knies, und die ist ein tadelloser
+Ich selbst habe eine oberhalb des linken Knies, und die ist ein tadelloser [perfect]
 Plan der Londoner UBahn.
 I have one myself above my left knee that is a perfect map of the
 London Underground.
@@ -1493,7 +1494,7 @@ Dumbledore 接過 Harry，抱著他，轉身走向 Dursley 的家門口。
 “Could I — could I say good-bye to him, sir?” asked Hagrid.
 “先生，我 ... 我能跟他道別嗎？”
 ------------------------------------------------------------------------------------------
-Er beugte seinen großen, struppigen Kopf über Harry und
+Er beugte [to bend] seinen großen, struppigen [scruffy] Kopf über Harry und
 gab ihm einen gewiss sehr kratzigen, barthaarigen Kuss.
 He bent his great, shaggy head over Harry and gave him what must
 have been a very scratchy, whiskery kiss.
@@ -1510,7 +1511,7 @@ noch die Muggel auf!«
 “輕點兒聲！” McGonagall 老師生氣地小聲說道。“你要把麻戈吵醒了！”
 ------------------------------------------------------------------------------------------
 »V-v-verzeihung«, schluchzte Hagrid, zog ein großes,
-gepunktetes Taschentuch hervor und vergrub das Gesicht darin.
+gepunktetes Taschentuch hervor und vergrub [to bury] das Gesicht darin.
 “S-s-sorry,” sobbed Hagrid, taking out a large, spotted handkerchief
 and burying his face in it.
 “對 ... 對不起，” Hagrid 嗚咽著說，一面掏出一塊巨大的、帶斑點的手帕，
@@ -1524,8 +1525,8 @@ off ter live with Muggles —”
 ------------------------------------------------------------------------------------------
 »Ja, Ja, das ist alles sehr traurig, aber reiß dich zusammen,
 Hagrid, oder man wird uns entdecken«, flüsterte Professor
-McGonagall und klopfte Hagrid behutsam auf den Arm, während
-Dumbledore über die niedrige Gartenmauer stieg und zum
+McGonagall und klopfte Hagrid behutsam [careful] auf den Arm, während
+Dumbledore über die niedrige [low] Gartenmauer stieg und zum
 Vordereingang trat.
 “Yes, yes, it's all very sad, but get a grip on yourself, Hagrid, or
 we'll be found,” Professor McGonagall whispered, patting Hagrid
@@ -1536,7 +1537,8 @@ wall and walked to the front door.
 胳膊，而 Dumbledore 則跨過花園的矮牆，向正門走去。
 ------------------------------------------------------------------------------------------
 Sanft legte er Harry vor die Eingangstür, zog einen Brief aus dem Umhang,
-steckte ihn zwischen Harrys Leintücher und kehrte dann zu den beiden andern zurück.
+steckte ihn zwischen Harrys Leintücher und kehrte [to return] dann zu den
+beiden andern zurück.
 He laid Harry gently on the doorstep, took a letter out of his cloak,
 tucked it inside Harry's blankets, and then came back to the other two. 
 他把 Harry 輕輕地放在門前的臺階上，從披風下面拿出一封信，把信塞進毛毯裏，然後再回到其他兩個人
@@ -1567,7 +1569,7 @@ bike away.
 Nacht, Professor McGonagall - Professor Dumbledore, Sir.«
 G'night, Professor McGonagall — Professor Dumbledore, sir.”
 ------------------------------------------------------------------------------------------
-Hagrid wischte sich mit dem Jackenärmel die tropfnassen
+Hagrid wischte [to wipe] sich mit dem Jackenärmel die tropfnassen
 Augen, schwang sich auf das Motorrad und erweckte die
 Maschine mit einem Fußkick zum Leben; donnernd erhob sie sich
 in die Lüfte und verschwand in der Nacht.
@@ -1609,14 +1611,14 @@ four.
 »Viel Glück, Harry«, murmelte er.
 “Good luck, Harry,” he murmured.
 ------------------------------------------------------------------------------------------
-Er drehte sich auf dem Absatz um und mit einem Wehen seines Umhangs
+Er drehte sich auf dem Absatz [heel] um und mit einem Wehen seines Umhangs
 war er verschwunden.
 He turned on his heel and with a swish of his cloak, he was gone.
 ------------------------------------------------------------------------------------------
 Eine Brise kräuselte die sorgfältig geschnittenen Hecken des
-Ligusterwegs, der still und ordentlich dalag unter dem
+Ligusterwegs, der still und ordentlich dalag [to lie there] unter dem
 tintenfarbenen Himmel, und nie wäre man auf den Gedanken
-gekommen, dass hier etwas Unerhörtes geschehen könnte.
+gekommen, dass hier etwas Unerhörtes [outrageous] geschehen könnte.
 A breeze ruffled the neat hedges of Privet Drive, which lay silent
 and tidy under the inky sky, the very last place you would expect
 astonishing things to happen.
@@ -1640,26 +1642,10 @@ he would spend the next few weeks being prodded and pinched by
 his cousin Dudley ...
 ------------------------------------------------------------------------------------------
 Er konnte nicht wissen, dass in eben diesem Moment überall
-im Land Versammlungen stattfanden, Gläser erhoben wurden
+im Land Versammlungen stattfanden [to take place], Gläser erhoben wurden
 und gedämpfte Stimmen sagten: »Auf Harry Potter - den Jungen,
 der lebt!«
 He couldn't know that at this very moment, people meeting in secret
 all over the country were holding up their glasses and saying in
 hushed voices: “To Harry Potter — the boy who lived!”
 ------------------------------------------------------------------------------------------
-
-------------------------------------------------------------------------------------------
-
-------------------------------------------------------------------------------------------
-
-------------------------------------------------------------------------------------------
-
-------------------------------------------------------------------------------------------
-
-------------------------------------------------------------------------------------------
-
-------------------------------------------------------------------------------------------
-
-------------------------------------------------------------------------------------------
-
-

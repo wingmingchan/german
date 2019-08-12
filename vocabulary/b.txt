@@ -1032,6 +1032,8 @@ betteln /ˈbɛtəln/: to beg
 
 Bettler /ˈbɛtlɐ/: beggar
 
+betupfen: to dab
+
 beugen /ˈbɔyɡən/: to bend
   Sie saß, den Kopf über ein Buch gebeugt, am Tisch.
   She sat at the table with her head bent over a book.
@@ -1723,6 +1725,8 @@ Bursche /ˈbʊrʃə/, der, -n: guy
 
 Bus /bʊs/, der, -se: bus
   Linienbus: public-transit bus
+
+Büschel /ˈbʏʃəl/, das, -s|~: tuft 綹
 
 Busen /ˈbuːzən/, der, -: bosom
   Sie hat einen üppigen Busen.
