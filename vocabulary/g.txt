@@ -699,6 +699,8 @@ Gericht, das, -(e)s|-e: dish, meal
   Warme Gerichte servieren wir ab 18 Uhr.
   We serve hot meals from 6 p.m.
 
+gerichtet => richten
+
 geriet => geraten
 
 gering /ɡəˈrɪŋ/: low, small

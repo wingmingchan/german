@@ -460,7 +460,12 @@ Draht /draːt/, der, ..e: wire
 
 Drama /ˈdraːma/, das, -s|Dramen
 
-drängen /ˈdrɛŋən/: to push
+drängen /ˈdrɛŋən/: to push, throng
+  Er drängte sich nach vorn.
+  He pushed his way to the front.
+  Die Demonstranten drängten sich vor dem Tor.
+  The demonstrators thronged in front of the gate.
+  jdn zur Seite / an die Wand drängen: to push sb aside/against the wall
 
 drastisch /ˈdrastɪʃ/: strong, drastic
 

@@ -55,6 +55,10 @@ Salz /zalʦ/, das, -e: salt
 
 Samen /ˈzaːmən/, der, Samen: seed, sperm
 
+Sammelbegriff /ˈzaməlbəɡrɪf/, der, -(e)s|-e: collective name/term
+  Gemüse ist ein Sammelbegriff für nicht süße, essbare Pflanzenteile.
+  Vegetables is a collective term for edible parts of plants which are not sweet.
+
 sammeln /ˈzaməln/: to gather, to collect, to assemble
   Im Herbst gehen wir gerne Pilze sammeln.
   We like to go mushroom picking in the fall.
@@ -1893,7 +1897,6 @@ streichen /ˈʃtraiçən/: to paint, to spread, to delete, to cut, to cancel, to
   durch / über etw. streichen [ accusative ]: to stroke sth
   Sie strich dem Kind zärtlich durchs Haar.
   She tenderly stroked the child's hair.
-  
 
 Streifen /ˈʃtraifən/, der: stripe
   Zebras haben schwarze Streifen.

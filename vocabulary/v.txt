@@ -659,6 +659,12 @@ Verständnis /fɛɐˈʃtɛntnɪs/, das, -se: understanding, sympathy, comprehens
 
 verstärken /fɛɐˈʃtɛrkən/: to strengthen, to reinforce, to increase, to increase
   den Deich mit Sandsäcken verstärken: to reinforce the dyke with sandbags
+  Ein neuer Mitarbeiter wird unser Team demnächst verstärken.
+  A new co-worker will soon be reinforcing our team.
+  Wir müssen unsere Anstrengungen verstärken.
+  We must increase our efforts.
+  Haben sich die Beschwerden seit gestern verstärkt?
+  Has the pain intensified since yesterday?
 
 Verstärkung /fɛɐˈʃtɛrkʊŋ/, die, -en: strengthening, reinforcement, increase
   eine Verstärkung der Wirkung: an increase in the effect
@@ -1182,6 +1188,12 @@ vorverlegen /ˈfoːɐfɛɐleːɡən/: to move/bring forward(s)
   eine Einfahrt ein Stück vorverlegen: to move an entrance forwards a little way
 
 vorwärts: forward(s)
+
+vorwärtsgehen /ˈfoːɐvɛrʦɡeːən/: to go/walk forward(s)
+  Sie ging ein paar Schritte vorwärts.
+  She took a couple of steps forwards.
+  Seit Krüger die Projektleitung übernommen hat, geht überhaupt nichts mehr vorwärts.
+  Since Krüger took over management of the project absolutely no progress has been made.
 
 Vorwurf /ˈfoːɐvʊrf/, der, -(e)s|..e: reproach, accusation
   jdm bittere Vorwürfe machen: to reproach sb bitterly

@@ -8,7 +8,7 @@ Baby /ˈbeːbi/, das
 Bach /bax/, der: stream, brook
   Gebirgsbach: mountain stream
 
-Backe /ˈbakə/, die, Backen: cheek
+Backe /ˈbakə/, die, ~|-n: cheek
   => Wange
   mit vollen Backen kauen: to chew with your cheeks full 
 
@@ -335,7 +335,7 @@ begabt /bəˈɡaːpt/: talented, gifted
 begegnen /bəˈɡeːɡnən/ [dative]: to meet, to confront, to face
   Ich bin ihm zum ersten Mal auf einer Party begegnet.
   I first met him at a party.
-  jdm mit Misstrauen/Respekt begegnen: to treat sb with distrust/respect
+  jdm mit Misstrauen / Respekt begegnen: to treat sb with distrust/respect
   => Gegner: opponent
 
 begehen /bəˈɡeːən/: to commit, to make, to celebrate, to walk on, to use
@@ -1102,6 +1102,10 @@ bewarf => bewerfen
 bewegen /bəˈveːɡən/: to move, to budge, to move forward
   Der Felsblock ließ sich nicht von der Stelle bewegen.
   The boulder couldn't be budged.
+  Du solltest dich mehr bewegen.
+  You ought to get some more exercise.
+  Ihre Forderungen bewegen sich in einem vernünftigen Rahmen.
+  Their demands are reasonable.
   Ich fand die Schlussszene sehr bewegend.
   I found the closing scene very moving.
 

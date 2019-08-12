@@ -153,8 +153,6 @@ tauchen /ˈtauxən/: to dive, to swim underwater, to duck, to shroud
 
 Tausch /tauʃ/, der: exchange, swap
 
-Tausend, das
-
 täuschen /ˈtɔyʃən/: to be wrong, to deceive, to be deceptive
   Dieser Lehrer lässt sich nicht täuschen.
   This teacher isn't easily fooled.
@@ -162,6 +160,8 @@ täuschen /ˈtɔyʃən/: to be wrong, to deceive, to be deceptive
   The first impression is deceptive. Inside, the house is in very good order.
 
 Täuschung /ˈtɔyʃʊŋ/, die: deception, illusion, delusion
+
+Tausend, das
 
 tausend /ˈtauzənt/: thousand
 
@@ -606,7 +606,9 @@ trotzdem /ˈtrɔʦdeːm/: nevertheless
   Sie wusste, dass es verboten war, aber sie tat es trotzdem.
   She knew it wasn't allowed, but she did it all the same.
 
-trübe /ˈtryːbə/: dull, dim, heavy, tarnished, cloudy
+trübe /ˈtryːbə/: dull, dim, heavy, tarnished, cloudy, cheerless, bleak, gloomy
+  in trüben Wassern fischen, im Trüben fischen: (informal) to fish in troubled waters
+  es sieht trüb aus: things are looking pretty bleak
 
 trug => tragen
 
