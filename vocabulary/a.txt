@@ -1014,6 +1014,13 @@ Ansammlung /ˈanzamlʊŋ/, die, ~|-en: collection, crowd, gathering
   eine Ansammlung von Schätzen: a collection of treasures
   eine Ansammlung von Demonstranten / Schaulustigen: a crowd of demonstrators/onlookers
 
+anschaffen /ˈanʃafən/:
+  (sich) etw. anschaffen [ dative ]: to buy sth (for yourself), to get
+  Wirst du dir das Buch anschaffen?
+  Are you going to buy the book?
+  Mach doch erst deine Ausbildung fertig, bevor du dir Kinder anschaffst.
+  You really ought to finish your apprenticeship before you have children.
+
 anschauen: ansehen
 
 anschleichen /ˈanʃlaiçən/: to creep up
@@ -1401,9 +1408,10 @@ auffordern /ˈauffɔrdɐn/: to call for, to invite
   He invited us to come in.
   jdn zum Duell auffordern: to challenge sb to a duel
 
-Aufforderung /ˈauffɔrdərʊŋ/, die, -en: order, command
+Aufforderung /ˈauffɔrdərʊŋ/, die, -en: order, command, invitation
   Die Demonstranten kamen der Aufforderung der Polizei, den Platz zu verlassen, nicht nach.
   The demonstrators did not comply with the police's demand to leave the square.
+  die Aufforderung zu einem Besuch annehmen: to accept an invitation to visit
 
 auffrischen /ˈauffrɪʃən/: to refresh, to touch up, to boost
   durch einen Volkshochschulkurs seine Sprachkenntnisse auffrischen
