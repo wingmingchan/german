@@ -324,6 +324,16 @@ umkehren /ˈʊmkeːrən/: to turn back, to reverse, to turn (inside) out
   Er musste seine Taschen umkehren und alles hergeben, was darin war.
   He had to turn out his pockets and hand over all the contents.
 
+umkippen /ˈʊmkɪpən/: to tip over, to tip/fall over, to overturn, to pass out, to turn
+  Sie kippte den Eimer um und schüttete die Erde aufs Beet.
+  She tipped over the bucket and poured the soil onto the bed.
+  Pass auf, dass der Kinderwagen nicht umkippt.
+  Watch that the stroller doesn't tip over.
+  Es war so heiß beim Sportfest, dass einige Schüler umgekippt sind.
+  It was so hot at the sports day that some students passed out.
+  Plötzlich kippte die gute Stimmung um.
+  Suddenly the good atmosphere turned.
+
 umkreisen /ʊmˈkraizn/: to circle (around), to orbit
 
 umliegende /ˈʊmliːɡəndə/: surrounding
@@ -375,6 +385,8 @@ Umwelt /ˈʊmvɛlt/, die: environment
   Harmful substances pollute the environment.
 
 umwenden: to turn around
+  Sie wandte sich um und verließ das Zimmer.
+  She turned round and left the room.
 
 umwerfen /ˈʊmvɛrfən/: to knock over, to throw on, to upset, to stun, to change
   Der Windstoß hätte mich fast umgeworfen.
@@ -554,6 +566,10 @@ unterbringen /ˈʊntɐbrɪŋən/: to put up, to find room for, to fit in
   Can you find room for this in your suitcase?
   Kannst du den Termin noch unterbringen?
   Can you fit the appointment in?
+
+unterdessen /ʊntɐˈdɛsən/: in the meantime
+  Unterdessen sah ich mich um.
+  I had a look around in the meantime.
 
 unterdrücken /ʊntɐˈdrʏkən/: to oppress, to repress, suppress
   Sie konnte das Gähnen nicht unterdrücken.

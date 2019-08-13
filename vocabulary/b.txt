@@ -519,6 +519,14 @@ Beispiel /ˈbaiʃpiːl/, das: example
 
 beispielsweise /ˈbaiʃpiːlsvaizə/: for example
 
+beißen /ˈbaisən/: to bite, to sting, to clash
+  Der Hund hat mich (ins Bein) gebissen.
+  The dog bit me (in the leg).
+  in einen Apfel beißen: to bite into an apple
+  von einer Zecke gebissen werden: to be bitten by a tick
+  Das lila Hemd beißt sich mit seinen roten Haaren.
+  The purple shirt doesn't go with his red hair.
+
 Beitrag /ˈbaitraːk/, der: contribution, article
   die Beiträge zur Rentenversicherung erhöhen
   to increase contributions to the pension scheme
@@ -624,6 +632,7 @@ beliebt /bəˈliːpt/: popular
   eine beliebte Fernsehserie: a popular TV series
 
 bellen /ˈbɛlən/: to bark
+  Hunde, die viel /laut bellen, beißen nicht
 
 belustigen /bəˈlʊstɪgən/: to amuse
 
@@ -799,6 +808,13 @@ beschäftigt /bəˈʃɛftɪçt/: to be employed, busy, engaged
   to be busy putting up the tent
 
 Beschäftigte /bəˈʃɛftɪçtə/: employee
+
+Beschäftigung /bəˈʃɛftɪɡʊŋ/, die, ~|-en: work, job, activity, dealing
+  ohne Beschäftigung sein: to be unemployed
+  die Beschäftigung älterer Arbeitnehmer: the employment of older workers
+  Sport ist eine sinnvolle Freizeitbeschäftigung.
+  Sport is a sensible pastime.
+  Formen der Beschäftigung mit dem Tod: ways of dealing with death
 
 Bescheid /bəˈʃait/, der: notification
   gegen einen ablehnenden Bescheid Widerspruch einlegen
@@ -1585,6 +1601,8 @@ Briefträger /ˈbriːftrɛːɡɐ/, -s|~, -in: mail carrier
   => Postbote
 
 Briefumschlag /ˈbriːf|ʊmʃlaːk/, der, ..e: envelope
+
+briet => braten
 
 Brille /ˈbrɪlə/, die, ~|-n: glasses
   eine Brille tragen: to wear glasses

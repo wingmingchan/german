@@ -462,6 +462,8 @@ schlingen /ˈʃlɪŋən/: to wrap, to tie, to coil itself, to scoff
   das Seil um das Geländer schlingen: to tie the rope around the railing
   Efeu schlingt sich um den Baum.
   Ivy is twining itself around the tree.
+  
+schlinger: to gobble, to swallow
 
 Schlitz /ʃlɪʦ/, der, -es|-e: slit, slot, fly
   die Augen zu schmalen Schlitzen zusammenkneifen
@@ -664,6 +666,9 @@ Schnur /ʃnuːɐ/, die, Schnüre /ˈʃnyːrə/: string, cord
   He wore the key on a cord around his neck. 
 
 Schnurrbart /ˈʃnʊrbaːɐt/, der, -(e)|..e: mustache
+
+Schnute, die: pout
+  eine Schnute ziehen (od machen): to pout
 
 schob /ʃoːp/ => schieben
 
@@ -879,6 +884,10 @@ Schwein /ʃvain/, das, Schweine: pig
   Schweine schlachten: to slaughter pigs
   Schweinefleisch
 
+Schweiß /ʃvais/, der, -es|uncountable: sweat
+  Sie brach vor Angst in Schweiß aus.
+  She was so afraid, she broke out in a sweat.
+
 Schweiz /ʃvaits/, die, ~
 
 Schweizer, der, Schweizerin, Schweizer
@@ -888,6 +897,8 @@ Schwelle: threshold
   to carry the bride over the threshold
 
 schwer /ʃveːɐ/: heavy, severe, difficult
+
+Schwerstarbeit, die: very heavy labor
 
 Schwert /ˈʃveːɐt/, das, -er: sword
   ein zweischneidiges Schwert: a double-edged sword
@@ -1361,6 +1372,13 @@ spät /ʃpɛːt/: late
 spätestens /ˈʃpɛːtəstəns/: at the latest
   Ich muss spätestens um Mitternacht zu Hause sein.
   I have to be home no later than midnight.
+
+Spatz /ʃpaʦ/, der, -en|-en: sparrow
+  die Spatzen füttern: to feed the sparrows
+  Was ist denn los, mein kleiner Spatz?
+  What's the matter, sweetie?
+
+Spätzchen => Spatz
 
 spazieren /ʃpaˈʦiːrən/: to stroll, to walk
   durch die Straßen / durch den Wald spazieren

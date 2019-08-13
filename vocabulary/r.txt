@@ -197,6 +197,8 @@ Recht /rɛçt/, das: law
   Das ist nach geltendem Recht verboten.
   That's against existing law.
 
+recht: right, real
+
 Rechtsstaat /ˈrɛçʦʃtaːt/, der: state founded on the rule of law, constitutional state
   Wir leben in einem Rechtsstaat.
   We live in a constitutional state.
@@ -221,6 +223,7 @@ Redaktion /redakˈʦjoːn/, die, -en: editorial staff, editorial department, edi
 
 Rede /ˈreːdə/, die: speech
   zum Amtsantritt eine Rede halten: to give/make a speech on entering office
+  nicht der Rede wert sein: not worth mentioning
 
 reden /ˈreːdən/: to talk, to speak
   zu viel reden: to talk too much
@@ -366,6 +369,11 @@ rein /rain/: pure
   This day is just a total nightmare!
   Aus reiner Dankbarkeit für seine Hilfe zahlte sie seine Schulden.
   Out of sheer appreciation for his help she paid off his debts.
+
+reinhauen /ˈrainhauən/
+  jdm eine reinhauen: to sock sb one
+  Ich hau dir eine rein, wenn du nicht gleich still bist!
+  I'm going to sock you one if you don't shut up right now!
 
 reinigen /ˈrainɪɡən/: to clean
   die Fliesen mit einem feuchten Tuch reinigen: to clean the tiles with a damp cloth

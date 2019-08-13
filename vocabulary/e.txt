@@ -1091,7 +1091,7 @@ erhältlich /ɛɐˈhɛltlɪç/: available
 
 erheben /ɛɐˈheːbən/: to raise, to charge, to get up, to rise, to ensue, to occur
   Die Staatsanwaltschaft erhob keine Anklage gegen ihn.
-  The DA didn’t prefer charges against him.
+  The DA didn't prefer charges against him.
   Wie viel Prozent Mehrwertsteuer werden auf Bücher erhoben?
   How high is the sales tax on books?
   Der Hund lief mit hoch erhobenem Schwanz auf mich zu.
@@ -1120,7 +1120,7 @@ Erhöhung /ɛɐˈhøːʊŋ/, die: increase
 erinnern /ɛɐˈ|ɪnɐn/: to remember, to remind
   erinnere, erinnerst, erinnert, habe erinnert
   Nach dem Unfall konnte sie sich an nichts erinnern.
-  After the accident she couldn’t remember anything.
+  After the accident she couldn't remember anything.
   Ich erinnere mich gern an meine Schulzeit.
   I have fond memories of my schooldays.
   Erinnere mich bitte daran, dass ich meine Eltern anrufe.
@@ -1377,6 +1377,12 @@ erteilen /ɛɐˈtailən/: to give, to grant, to confer
   Eine förmliche Genehmigung wurde nie erteilt.
   Formal approval was never granted.
 
+Ertrag /ɛɐˈtraːk/, der, -(e)s|..e: yield, harvest, return
+  Der Apfelbaum bringt gute Erträge.
+  The apple tree yields good pickings.
+  Die Immobilienfonds werfen gute Erträge ab.
+  Real estate funds give good returns.
+
 ertragen /ɛɐˈtraːɡən/: to bear, to endure
   Die Schmerzen sind kaum zu ertragen.
   The pain is hard to bear.
@@ -1503,6 +1509,15 @@ etliche /ˈɛtlɪçə/: quite a few, a number of
   It's quite a few years since then.
   Die Zuschauer waren unzufrieden. Etliche verließen nach der Pause das Theater.
   The audience was dissatisfied. Many left the theater after the interval.
+
+etwa: about, around, for instance/example
+  Das wird etwa eine Stunde dauern.
+  It'll take about an hour.
+  in etwa: more or less
+  Das ist in etwa das Gleiche.
+  That's more or less the same.
+  In anderen Ländern, etwa in der Schweiz, gibt es kein solches Gesetz.
+  In other countries, for instance Switzerland, there's no such law.
 
 etwa /ˈɛtva/: used to express surprise, by any chance
   Hast du etwa keine Fahrkarte gekauft?

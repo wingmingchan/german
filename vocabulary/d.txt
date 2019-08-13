@@ -354,6 +354,14 @@ Diamant /diaˈmant/, der, -en: diamond
 
 Diät /diˈɛːt/, die: diet
 
+dicht /dɪçt/: thick, dense
+  Unser Hund hat ein sehr dichtes Fell.
+  Our dog has a very thick coat.
+  Im dichten Dunst war das schlecht zu erkennen.
+  It was hard to make out in the thick haze.
+  Der Wasserhahn ist jetzt wieder dicht und tropft nicht mehr.
+  The faucet is sealed again and isn't dripping anymore.
+
 dichten /'dɪçtən/: to write
   Verse dichten: to write poetry
 
@@ -687,6 +695,18 @@ durchwaten: to wade
 
 dürfen /ˈdʏrfən/: to be allowed to, may, can
   darf, darfst, darf, ihr dürft, ich habe gedurft
+
+dürftig /ˈdʏrftɪç/: meager
+  ein dürftiges Mahl: a meager meal
+
+dürr /dʏr/: dry, dead, arid, barren, scrawny, meager
+  Der Baum hat mehrere dürre Äste.
+  The tree has several dead branches.
+​ Nach mehreren Jahren ohne Regen war das Land völlig dürr.
+  After several years with no rain the country was completely barren.
+  ein Kind mit dürren Ärmchen: a child with scrawny little arms
+  Da wird ein ganzes Leben auf ein paar dürre Zahlen reduziert.
+  What you see is a whole life reduced to a few meager numbers.
 
 Durst /dʊrst/, der: thirst
 

@@ -155,6 +155,19 @@ ablaufen: to expire, to run out, to drain
   Die Frist läuft nächsten Monat ab.
   The deadline expires next month.
 
+ablegen /ˈapleːɡən/: to put down, to take off, to take, to pass, to file, to cast off
+  den Korb auf dem Stuhl ablegen: to put the basket down on the chair
+  Bitte legen Sie doch ab!
+  Why don't you take off your coats.
+  Beamte müssen einen Eid auf die Verfassung ablegen.
+  German civil servants have to swear an oath to the constitution.
+  Haben Sie schon die Zwischenprüfung abgelegt?
+  Have you passed the intermediate exams yet?
+  Ich habe alle Versicherungsunterlagen in einem Ordner abgelegt.
+  I keep all my insurance documents in a ring binder.
+  Das Schiff legt ab.
+  The ship set sail.
+
 ablehnen /ˈapleːnən/: to refuse, to reject
   Ich muss Ihre Einladung leider ablehnen.
   I'm afraid I have to decline your invitation.
@@ -172,6 +185,16 @@ abmachen /ˈapmaxən/: to take off, to agree
 
 Abmachung /ˈapmaxʊŋ/, die, ~|-en: agreement
   eine Abmachung treffen: to come to an agreement
+
+abnehmen /ˈapneːmən/: to decrease, to lose weight, to wane, to take off, to answer the phone
+  Die Arbeitslosigkeit hat leicht abgenommen.
+  Unemployment has gone down slightly.
+  Sie hat mehr als 5 Kilo abgenommen.
+  She's lost more than 5 kilos.
+  Sie meint, Haare sollte man bei abnehmendem Mond schneiden.
+  She says you should have your hair cut when the moon is waning.
+  Nimm doch zum Grüßen die Mütze ab.
+  Take off your cap when you're greeting someone.
 
 abrasieren /ˈapraziːrən/: to shave off
   Der Sturm hat alle Bäume entlang der Straße abrasiert.
@@ -367,6 +390,14 @@ abwählen /ˈapvɛːlən/: to vote out of office, to drop
 
 Abwasser /ˈapvasɐ/, das, -s|..: waste water
   Abwasserkanal: gully
+
+abwerfen /ˈapvɛrfən/: to drop, to throw off, to discard, to yield
+  Die Bäume werfen schon ihre Blätter ab.
+  The trees are losing their leaves already.
+  Das Pferd scheute vor dem Hindernis und warf ihn ab.
+  The horse shied at the fence and threw him off.
+  Das Geschäft wirft leider nichts mehr ab.
+  Unfortunately, the business is no longer profitable.
 
 abwesend /ˈapveːzənt/: absent
   aus familiären Gründen abwesend sein: to be absent for family reasons
@@ -1286,6 +1317,7 @@ Armut /ˈarmuːt/, die: poverty
 Arroganz /aroˈɡanʦ/, die, |uncountable
 
 Art /art/, die: sort, kind, species, way
+  nach Art von: in the manner of
 
 artgerecht /ˈartɡərɛçt/: species-appropriate
   Hühner artgerecht halten
@@ -1493,6 +1525,9 @@ aufheben /ˈaufheːbən/: to pick up, to keep, to overturn, to cancel
   The ban on flying can be lifted.
 
 aufhören /ˈaufhøːrən/: to stop
+  Wann hört der Regen endlich auf?
+  When's the rain finally going to stop?
+  aufhören zu arbeiten: to stop working
 
 aufklappen: to open up, to lift up, to fold back, to open
 
@@ -1508,6 +1543,9 @@ Auflage /ˈauflaːɡə/, die: circulation, edition, condition, order, coating
   He was released on condition that he would leave the country at once.
   eine silberne Uhr mit Goldauflage: a silver watch with gold plating
   => Lage: situation, location, position, layer
+
+auflassen /ˈauflasən/: to leave open, to keep on, to allow to stay up
+  ein Fenster auflassen: to leave a window open
 
 auflegen /ˈaufleːɡən/: to hang up, to lay, to put on, to publish
   Er hat mich nicht ausreden lassen, sondern einfach aufgelegt.
@@ -1635,6 +1673,8 @@ aufschlagen /ˈaufʃlaːɡən/: to open, to add, to hit
 aufschnappen /ˈaufʃnapən/: to pick up, to snap open
   Wo hat der Junge nur wieder diese Schimpfwörter aufgeschnappt?
   Where on earth did the boy pick up those swear words?
+
+aufsetzen /ˈaufzɛʦən/: to put on, to don, 
 
 Aufsicht /ˈaufzɪçt/, die, -en: supervision, supervisor, person in charge
   die Aufsicht (bei / über etw.) haben / führen: to be in charge (of sth)
@@ -1904,6 +1944,10 @@ ausmachen /ˈausmaxən/: to switch off, to extinguish, to arrange
   Wir hatten doch ausgemacht, dass du das erledigst!
   But we had agreed that you would take care of that!
 
+Ausmaß /ˈausmaːs/, das, -es|-e: extent
+  eine Tragödie unvorstellbaren Ausmaßes: a tragedy of unimaginable proportions
+  von gewaltigen Ausmaßen: of enormous size
+
 Ausnahme /ˈausnaːmə/, die: exception
   von wenigen Ausnahmen abgesehen: aside from very few exceptions
 
@@ -1953,6 +1997,8 @@ ausruhen /ˈausruːən/: to rest
   I need to have a short rest.
   Ruh bei der Bildschirmarbeit zwischendrin mal deine Augen aus!
   When you're working at the computer you should give your eyes a rest at times.
+
+ausrutschen /ˈausrʊʧən/: to slip
 
 Ausrutscher /ˈausrʊtʃɐ/, der: slip, slip-up
   Ich hoffe, das war nur ein Ausrutscher.
@@ -2008,6 +2054,8 @@ aussehen /ˈauszeːən/: to look
 aussehend
   eine blendend aussehende Dame: an extremely good-looking lady
   in verdächtig aussehendes Individuum: a suspicious(-looking) character
+
+aussortieren: to sort out
 
 Aussprache /ˈausʃpraːxə/, die: pronunciation
   die richtige Aussprache eines Wortes

@@ -59,6 +59,10 @@ Kamm /kam/, der, ..e /ˈkɛmə/: comb, crest
   to part your hair with a comb
   der Kamm einer Gebirgskette: the crest of a mountain range 
 
+kämmen /ˈkɛmən/: to comb
+  Er kämmte das Kind / seine Haare / sich.
+  He combed the child's hair/his hair/his hair.
+
 Kampf /kampf/, der, ..e: battle, fight, struggle
   im Kampf fallen: to die in battle
   ein Kampf auf Leben und Tod: a life-or-death struggle
@@ -93,6 +97,12 @@ Kapelle /kaˈpɛlə/, die, -n: chapel, band
 kapitulieren /kapituˈliːrən/: to surrender, to give up, to capitulate
   Das Schiff kapitulierte und hisste die weiße Fahne.
   The ship surrendered and raised the white flag.
+
+karg /kark/: meager, sparsely furnished
+  Das Geschäft liefert nur karge Erträge.
+  The business yields very little profit.
+  Die Mägde hausten in kargen Dachkammern.
+  The maids lived in sparsely furnished attic rooms.
 
 Kartei /karˈtai/, die, ~|-en: (card) file, (card) index
   eine Kartei führen: to keep an index
@@ -328,6 +338,7 @@ klammern /ˈklamɐn/:
   The sales clerk stapled the sales check to the bag.
 
 Klamotte /klaˈmɔtə/, die, -n: clothes, stuff, trashy old movie/play
+  => Kleidung
   Das meiste Geld gibt sie für neue Klamotten aus.
   She spends most of her money on new clothes.
   Könnten wir nicht mal die Klamotten auf dem Speicher ausmisten?
@@ -376,6 +387,9 @@ klatschen /ˈklaʧən/: to clap, to slap, to gossip
   Meine Nachbarin klatscht gern.
   My neighbor likes to gossip.
 
+Klebeband /ˈkleːbəbant/, das, -(e)s|..er: adhesive tape
+  einen Karton mit Klebeband zukleben: to tape up a box with adhesive tape
+
 kleben /ˈkleːbən/: to stick sth somewhere
   eine Briefmarke auf den Umschlag kleben
   to stick a stamp on the envelope
@@ -394,8 +408,10 @@ Kleidung /ˈklaidʊŋ/, Kleidung: clothes
   warme Kleidung anziehen: to put on some warm clothes
 
 klettern /ˈklɛtɐn/: to climb
-  auf einen Baum/über den Zaun klettern
+  auf einen Baum / über den Zaun klettern
   to climb a tree/over the fence
+  Die Mieten klettern in die Höhe.
+  Rents are shooting up.
 
 Klinge /ˈklɪŋə/, die: blade
 
@@ -938,6 +954,9 @@ Küken /ˈkyːkən/, das, -: chick
 Kulinarik, die: cuisine
 
 Kultur /kʊlˈtuːɐ/, die: culture
+
+kümmerlich /ˈkʏmɐlɪç/: meager, miserable
+  ein kümmerliches Gehalt zahlen: to draw a meager salary
 
 kümmern /ˈkʏmɐn/
   sich um jdn / etw. kümmern: to take care of sb/sth, to concern yourself about sb/sth

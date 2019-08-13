@@ -84,6 +84,7 @@ Fall /fal/, der, Fälle /ˈfɛlə/: case
   gesetzt den Fall, dass …: supposing (that) …
   von Fall zu Fall: on a case by case basis
   etw. ist der Fall: sth is the case
+  für den Fall: in case
 
 Falle /ˈfalə/, die, Fallen: trap
   eine Falle aufstellen: to set a trap
@@ -563,6 +564,9 @@ Flugverbot, das: ban on flying
 
 Flugzeug, das: plane
 
+Flur /fluːɐ/, der, -(e)s|-e: hall, corridor
+  auf dem / im Flur warten: to wait in the corridor
+
 Flüssigkeit /ˈflʏsɪçkait/, die: fluid, liquid
   eine farblose/trübe Flüssigkeit: a colorless/cloudy liquid
 
@@ -808,6 +812,10 @@ Frischkäse /ˈfrɪʃkɛzə/, der: cream cheese
 Frist /frɪst/, die: period (of time), grace period, deadline
   Ich gebe Ihnen noch zwei Wochen Frist.
   I'll give you another two weeks.
+
+fristen /ˈfrɪstən/: to eke out, to lead
+  ein kümmerliches / trauriges / trostloses Leben fristen
+  to eke out a miserable/sad/dreary existence
 
 froh /froː/: glad, happy, good
   Frohe Weihnachten!

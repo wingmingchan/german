@@ -550,6 +550,13 @@ willkommen /vɪlˈkɔmən/: welcome
   Sie sind mir jederzeit willkommen!
   You are always welcome!
 
+wimmeln /ˈvɪməln/
+  etw. wimmelt von etw. [ plural ]: sth is swarming/teeming with sth
+  Der Stall wimmelte von Fliegen.
+  The stable was swarming with flies.
+  Unter dem Brett wimmelten Ameisen.
+  The underside of the plank was swarming with ants.
+
 Wind /vɪnt/, der, -(e)s|-e: wind
   Draußen weht ein frischer Wind.
   A fresh wind is blowing outside.
@@ -600,6 +607,11 @@ Wissenschaftler /ˈvɪsənʃaftlɐ/: scientist
 
 wissenschaftlich /ˈvɪsənʃaftlɪç/: scientifically
   wissenschaftlich arbeiten: to work scientifically
+
+wittern /ˈvɪtɐn/: to scent
+  Das Reh witterte die Hunde und floh.
+  The deer scented the dogs and fled.
+  eine gute Gelegenheit wittern: to sense a good opportunity
 
 *Witterung /ˈvɪtərʊŋ/, die: weather
    Bei guter Witterung findet das Fest im Freien statt.
@@ -721,6 +733,10 @@ wovor /voˈfoːɐ/: what … in front of
 Wrack /vrak/, das, -(e)s|-s: wreck(age)
   Nach dem Unfall war der Wagen nur noch ein Wrack.
   The car was just a wreck after the accident.
+
+wuchern /ˈvuːxɐn/: to run wild
+  Im Garten wucherte das Unkraut.
+  The weeds were running wild in the garden.
 
 wundern /ˈvʊndɐn/: to be surprised, to surprise
   sich über jdn / etw. wundern: to be surprised at/about sb/sth
