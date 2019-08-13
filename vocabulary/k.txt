@@ -48,6 +48,12 @@ Kamel /kaˈmeːl/, das, -e: camel
   Sie ritten auf Kamelen durch die Wüste.
   They rode across the desert on camels.
 
+Kamin /kaˈmiːn/, der, -s|-e: fireplace
+  Ein Feuer knistert im Kamin.
+  There was a fire crackling in the fireplace.
+
+Kaminsims m/n: mantlepiece
+
 Kamm /kam/, der, ..e /ˈkɛmə/: comb, crest
   mit dem Kamm einen Scheitel ziehen
   to part your hair with a comb
@@ -99,6 +105,10 @@ Karton /karˈtɔŋ/, der, -s: cardboard, box
   Die Kinder basteln eine Burg aus Karton.
   The kids are making a castle out of cardboard.
   schwere Kartons in den Keller schleppen: to lug heavy boxes into the basement
+
+Karussell /karuˈsɛl/, das, -s|-s/-e: carousel
+  Die Kinder wollten (mit dem) Karussell fahren.
+  The kids wanted to ride on the carousel.
 
 Käse /ˈkɛːzə/, der, -s|~: cheese
 
@@ -170,6 +180,10 @@ kehren /ˈkeːrən/ to sweep, to return
   Er kehrt sich nicht an dem Verbot.
   He doesn't care about the ban.
   in sich gekehrt: withdrawn
+
+keifen /ˈkaifən/: to yelp, to screech, to shriek
+  „Was soll das denn nun wieder?‟, keifte sie.
+  “Now what's that supposed to mean?” she yelped.
 
 kein: not, not a, less than
   Das ist keine schlechte Idee!
@@ -497,6 +511,10 @@ knoten: to tie
   eine Schnur an etw. [ accusative ] knoten
   to tie a piece of string to sth
 
+knuddeln /ˈknʊdəln/: to kiss and cuddle
+  Die Kleine knuddelte ihren Teddy.
+  The little girl was kissing and cuddling her teddy.
+
 Koalition /ko|aliˈʦjoːn/, die: coalition
   große Koalition: Koalition zwischen den größten Parteien
 
@@ -805,6 +823,23 @@ Krebs /kreːps/, der, Krebse: cancer, crab
   to write on the board in chalk
 
 Kreis /krais/, der: circle
+
+kreischen /ˈkraiʃən/: to screech, to squeal
+  Die Mädchen kreischten vor Vergnügen / Entsetzen.
+  The girls squealed in delight/screeched in horror.
+  Kreischende Möwen umkreisten das Schiff.
+  Screeching gulls were circling the ship.
+  Er bremste mit kreischenden Reifen.
+  He braked, tires screeching.
+
+kreisen /ˈkraizən/: to circle
+  Ein Adler kreiste am Himmel.
+  An eagle was circling in the sky.
+  etw. kreisen lassen: to pass sth around
+  Sie ließen eine Flasche kreisen.
+  They passed a bottle around.
+  mit etw. kreisen: to move sth around in a circle
+  mit den Armen / dem Kopf kreisen: to move your arms/head around in a circle
 
 kreuz und quer: all over
   mit dem Auto kreuz und quer durch die Stadt fahren

@@ -292,7 +292,10 @@ absichtlich /ˈapzɪçtlɪç/: intentional
   ein absichtliches Foul: a deliberate foul
   jdn absichtlich verletzen: to injure sb intentionally
 
-absprechen /ˈapʃprɛçən/: to agree on, 
+Absperrung /ˈapʃpɛrʊŋ/, die, ~|-en: barrier
+  Absperrungen errichten: to put up barriers
+
+absprechen /ˈapʃprɛçən/: to agree on
   „Wir machen jetzt Schluss.‟ – „Ist das mit dem Chef so abgesprochen?‟
   “Let's call it a day.” – “Did you clear that with the boss?”
   sich ( mit jdm) absprechen: to agree on sth (with sb)
@@ -700,6 +703,15 @@ anbrechen /ˈanbrɛçən/: to open
   Use up open medication quickly.
   Ein neuer Tag ist angebrochen.
   A new day has dawned.
+
+anbrennen /ˈanbrɛnən/: to burn
+  Der Grießbrei ist angebrannt.
+  The semolina is burnt.
+  nichts anbrennen lassen: to not miss out on anything
+  Als junger Mann hat er nichts anbrennen lassen.
+  As a young man he never missed an opportunity.
+  Nimm am Anfang kleinere Holzscheite, die leichter anbrennen.
+  Use smaller logs to start with – they burn easier.
 
 anbringen /ˈanbrɪŋən/: to attach (to), to put up (on)
   ein Regal an der Wand anbringen
@@ -1562,6 +1574,8 @@ aufpassen /ˈaufpasən/: to be careful, to pay attention
   Watch out that you don't fall!
   Du musst im Unterricht besser aufpassen.
   You have to pay more attention in classes.
+  Kannst du mal kurz auf meine Tasche aufpassen?
+  Could you look after my purse for a bit?
 
 aufräumen /ˈaufrɔymən/: to tidy (up)
   Du solltest mal wieder aufräumen!

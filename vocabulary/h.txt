@@ -217,6 +217,8 @@ hauchen /ˈhauxən/: to breathe
 
 hauen /ˈhauən/: to hit, to beat, to fight
   mit der Faust auf den Tisch hauen: to bang your fist on the table 
+  In dem Zeitungsartikel wurde der Minister ordentlich in die Pfanne gehauen.
+  They really did the dirty on the minister in that newspaper article.
 
 Haufen /ˈhaufən/, der, -: pile
   alle Kleider auf einen Haufen werfen: to throw all the clothes in a pile
@@ -408,6 +410,10 @@ Heller /ˈhɛlɐ/, der, -
 helllicht /ˈhɛlɪçt/
   am helllichten Tag: in broad daylight
 
+hellwach /ˈhɛlvax/: wide awake
+  Plötzlich war er hellwach und sprang aus dem Bett.
+  He was suddenly wide awake and leapt out of bed.
+
 Hemd /hɛmt/, das, Hemden: shirt
   Er trug zur Hose Hemd und Krawatte.
   He was wearing a shirt and tie with the pants.
@@ -463,7 +469,7 @@ Herbst /hɛrpst/, der: autumn
    Bald wird es Herbst.
    It'll soon be fall.
 
-Herd /heːɐt/, der, -e: stove, range, epicenter, focus
+Herd /heːɐt/, der, -(e)s|-e: stove, range, epicenter, focus
   Er stand am Herd und rührte die Suppe um.
   He was standing at the stove stirring the soup.
   Brandherd: the source of the fire
@@ -571,6 +577,9 @@ heutig, heutige /ˈhɔytɪɡə/: today's, contemporary, modern
   am heutigen Nachmittag: this afternoon
 
 heutige: today's
+
+Hieb /hiːp/, der, -(e)s|-e: blow
+  jdm einen Hieb (mit der Faust) versetzen: to deal sb a blow (with your fist)
 
 hielt => halten
 
@@ -904,6 +913,7 @@ Hut, der, Hüte /huːt/: hat
 hüten /ˈhyːtən/: to look after, to mind, to tend, to stay, to keep
   Da wäre es ja einfacher, Flöhe zu hüten!
   It would be easier to herd cats!
+  das Tor hüten: to keep goal 守門
 
 Hütte /ˈhʏtə/, die: hut, shack
 

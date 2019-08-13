@@ -600,7 +600,22 @@ versenden /fɛɐˈzɛndən/: to send, to dispatch
   Ihre Ware wurde heute versandt.
   Your goods were dispatched today.
 
-versetzen /fɛɐˈzɛʦən/: to transfer, to promote, to move, 
+versetzen /fɛɐˈzɛʦən/: to transfer, to promote, to move, to give, to stand up, to pawn, to mix
+  Sie soll nach Hamburg versetzt werden.
+  She's to be transferred to Hamburg.
+  Wenn deine Noten nicht besser werden, wirst du nicht versetzt.
+  If your grades don't improve, you won't be promoted.
+  Glaube kann Berge versetzen.
+  Faith can move mountains.
+  einen Beamten in den Ruhestand versetzen: to retire a civil servant
+  Er versetzte dem Hund / der Tür einen Fußtritt.
+  He gave the dog/door a kick.
+  Sie hat mich gestern vor dem Kino versetzt.
+  She stood me up in front of the movie theater yesterday.
+  Um die Miete zahlen zu können, musste er seine Uhr versetzen.
+  He had to pawn his watch in order to be able to pay the rent.
+  mit Wasser versetzter Wein: wine mixed with water
+  sich in jds Lage versetzen: to put yourself in sb's position
 
 Versicherung /fɛɐˈzɪçərʊŋ/, die, -en: insurance policy, insurance company, assurance
   eine Versicherung abschließen / kündigen
@@ -687,6 +702,9 @@ verstehen: to hear, understand, know
   Ich habe nicht verstanden, was er gesagt hat.
   I did not hear what he said.
   etwas falsch verstehen: to misunderstand sth, to mishear sth
+
+verstrichen /fɛɐˈʃtrɪçn/: elapsed
+  zwei Jahre verstrichen, bevor …
 
 verstricken /fɛɐˈʃtrɪkən/: to be caught up with, to involve sb in sth
   in einen Skandal verstrickt werden: to become involved in a scandal

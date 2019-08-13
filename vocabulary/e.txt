@@ -882,6 +882,8 @@ Entschuldigung /ɛntˈʃʊldɪɡʊŋ/, die, -en: apology, excuse
   She mumbled an apology.
 
 Entsetzen, das: horror, terror
+  Stumm vor Entsetzen starrte sie auf die Leiche.
+  Struck dumb with horror, she stared at the corpse.
 
 entsetzen /ɛntˈzɛʦən/: to horrify
   sich über jdn / etw entsetzen: to be horrified at or by sb/sth
@@ -1071,6 +1073,8 @@ ergehen /ɛɐˈɡeːən/:
   jdm ergeht es irgendwie: things go somehow for sb
   Wie ist es ihr nach dem Umzug in der neuen Stadt ergangen?
   How did things go for her after her move to the new city?
+
+erglimmen: to begin to glimmer
 
 ergreifen /ɛɐˈɡrɪfn/: to seize, to overcome
   das Feuer ergriff den ganzen Wald: the fire engulfed the whole forest

@@ -336,7 +336,9 @@ Umriss /ˈʊmrɪs/, der, -e: outline
   The outlines of the house are already visible.
 
 umrühren /ˈʊmryːrən/: to stir
-  Stäbchen zum Umrühren
+  Stäbchen zum Umrühren 用於攪拌的筷子
+  Sie rührte (den Tee) mit einem Löffel um.
+  She stirred (the tea) with a spoon.
 
 Umschlag /ˈʊmʃlaːk/, der: envelope, cover, jacket
   eine CD in einem wattierten Umschlag verschicken: to send a CD in a padded envelope
@@ -492,6 +494,10 @@ ungläubig /ˈʊnɡlɔybɪç/: disbelieving, incredulous, unbelieving
 Unglück /ˈʊnɡlʏk/, das: disaster
 
 ungünstig: unfavorable
+
+unheilvoll /ˈʊnhailfɔl/: fateful, ominous
+  Es herrschte unheilvolles Schweigen.
+  There was an ominous silence.
 
 Uni => Universität
 

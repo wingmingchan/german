@@ -51,7 +51,7 @@ Blaubeere, die: blueberry
 
 Blumenkohl /ˈbluːmənkoːl/, der: cauliflower
 
-Bohne /ˈboːnə/, die: bean
+Bohne /ˈboːnə/, die, ~|-n: bean
 
 Bonbon, das
 
@@ -425,7 +425,7 @@ Soße /ˈzoːsə/, die, -n: sauce
 
 Spargel /ˈʃparɡəl/, der, -: asparagus
 
-Speck /ʃpɛk/, der: bacon
+Speck /ʃpɛk/, der, -(e)s|uncountable: bacon
  
 Speise /ˈʃpaizə/, die, -n: dish
 

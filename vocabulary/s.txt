@@ -108,6 +108,10 @@ Sau /zau/, die: sow
 
 sauber /ˈzaubɐ/: clean
 
+säuberlich /ˈzɔybɐlɪç/: neat
+  In ihrem Garten herrscht säuberliche Ordnung.
+  Her garden is neat and tidy.
+
 säubern /ˈzɔybɐn/: to clean, to clean up
   eine Wunde säubern: to clean a wound
   Schulbücher von rassistischem Gedankengut säubern: to rid schoolbooks of any racist ideas
@@ -276,6 +280,10 @@ Scheinwerfer /ˈʃainvɛrfɐ/, der, -s|~: headlight, floodlight, spotlight
   Von den Scheinwerfern geblendet, blieb das Reh auf der Straße stehen.
   The deer stopped in the road, blinded by the headlights.
 
+Scheit /ʃait/, das, -(e)s|-e/-er: piece of wood, log
+  Leg noch ein paar Scheite nach, damit das Feuer nicht ausgeht.
+  Put another couple of pieces of wood on so that the fire doesn't go out.
+
 Scheitel /ˈʃaitəl/, der, -: part, apex, vertex
   einen Mittelscheitel haben: to have a center part
   vom Scheitel bis zur Sohle: from top to toe
@@ -370,7 +378,9 @@ Schlafanzug /ˈʃlaːf|anʦuːk/, der, ..e: pajamas
 
 schlafen /ˈʃlaːfən/: to sleep
 
-Schlag /ʃlaːk/, der, ..e: bang, beat, clap, crack, flap, hit, knock, percussion, shock, shot, smash, spank, stroke, swat, swing, thump, whack
+Schlag /ʃlaːk/, der, -(e)s|..e: bang, beat, clap, crack, flap, hit, knock, percussion, shock, shot, smash, spank, stroke, swat, swing, thump, whack
+  jdm einen Schlag in den Bauch versetzen: to punch sb in the stomach
+  jdm Schläge androhen: to threaten to beat sb
 
 schlagen /ˈʃlaːɡən/: to hit, to strike, to beat
   schlage, schlägst, schlägt, ihr schlagt, habe geschlagen
@@ -1360,6 +1370,9 @@ Spaziergang /ʃpaˈʦiːɐɡaŋ/, der, ..e: walk, stroll
   Wir haben nach dem Essen einen langen Spaziergang gemacht.
   We went for a long walk after dinner.
 
+Speck /ʃpɛk/, der, -(e)s|uncountable: bacon
+  Bohnen mit Speck: beans with bacon
+
 Spedition /ʃpediˈʦjoːn/, die, -en: haulage contractor
   Speditionsfahrer: truck driver
 
@@ -1787,6 +1800,10 @@ Stoff /ʃtɔf/, der, -(e)s|-e: substance, material, subject matter
   der sichere Umgang mit radioaktiven Stoffen
   the safe handling of radioactive substances
   ein Kleid aus rotem Stoff: a dress made from red material
+
+stöhnen /ˈʃtøːnən/: to groan, to moan
+  vor Enttäuschung / Lust / Schmerzen stöhnen
+  to groan with disappointment/moan with desire/moan in pain
 
 Stollen /ˈʃtɔlən/, der, Stollen: tunnel
 
