@@ -468,6 +468,11 @@ Widder /ˈvɪdɐ/, der, -: Aries 白羊座
   Sie / Er ist Widder.
   She/He is (an) Aries.
 
+widerlich /ˈviːdɐlɪç/: disgusting, repugnant
+  ein widerlicher Geschmack: a disgusting taste
+  Er hat sich ihr gegenüber widerlich benommen.
+  He has behaved disgustingly toward her.
+
 Widerstand /ˈviːdɐʃtant/, der, ..e: resistance, opposition
   Er leistete bei der Verhaftung keinen Widerstand.
   He did not resist arrest.
@@ -482,6 +487,9 @@ widerstehen /viːdɐˈʃteːən/: to resist, to withstand
   This material withstands all kinds of weather.
   dem Ansturm des Feindes widerstehen
   to withstand the enemy attack
+
+widerwärtig /ˈviːdɐvɛrtɪç/: disgusting, repugnant
+  => widerlich
 
 widmen /ˈvɪtmən/: to dedicate, to devote
   Er hat seinen ersten Roman seiner Mutter gewidmet.

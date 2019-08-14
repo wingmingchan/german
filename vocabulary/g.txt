@@ -181,6 +181,8 @@ Gebirge /ɡəˈbɪrɡə/, das, -: mountains
 
 Gebirgskette, die: mountain range
 
+gebissen => beißen
+
 Gebot /ɡəˈboːt/, das, -e: commandment, imperative, law, rule
   die Zehn Gebote: the Ten Commandments
   Gebotsschilder sind blau mit weißen Symbolen.
@@ -553,6 +555,9 @@ gemächlich /ɡəˈmɛːçlɪç/: leisurely , unhurried
 
 *Gemälde /ɡəˈmɛːldə/, das, -: painting
   ein Gemälde von Picasso: a painting by Picasso
+
+Gemecker: grouse 牢騷
+  => mecken
 
 gemein /ɡəˈmain/: mean, nasty, cruel, annoying
   eine gemeine Lüge: a cruel lie

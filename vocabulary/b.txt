@@ -99,6 +99,10 @@ Bär /bɛːɐ/, der, Bärin, Bären: bear
 barmherzig /barmˈhɛrʦɪç/: compassionate, kind-hearted
   der barmherzige Samariter: the good Samaritan
 
+barsch /barʃ/: brusque, gruff
+  => unwirsch
+  jdm barsch antworten: to give sb a brusque answer
+
 Bart /baːɐt/, der, Bärte /ˈbɛːɐtə/: beard
   sich [dative] einen Bart wachsen lassen: to grow a beard
 
@@ -519,7 +523,7 @@ Beispiel /ˈbaiʃpiːl/, das: example
 
 beispielsweise /ˈbaiʃpiːlsvaizə/: for example
 
-beißen /ˈbaisən/: to bite, to sting, to clash
+beißen /ˈbaisən/: to bite, essen, to sting, to clash
   Der Hund hat mich (ins Bein) gebissen.
   The dog bit me (in the leg).
   in einen Apfel beißen: to bite into an apple

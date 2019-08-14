@@ -366,6 +366,10 @@ abstrakt /apˈstrakt/
   Dabei handelt es sich nicht nur um ein abstraktes Risiko, sondern eine ganz konkrete Gefahr.
   This is not an abstract risk but a real concrete danger.
 
+Absturz /ˈapʃtʊrʦ/, der, -es|..e: crash
+  Beim Absturz des Hubschraubers sind alle Insassen ums Leben gekommen.
+  All of the occupants were killed when the helicopter crashed.
+
 absurd /apˈzʊrt/: absurd
   Es klingt absurd, ist aber wahr.
   It sounds absurd, but it's true.
@@ -391,6 +395,9 @@ abwählen /ˈapvɛːlən/: to vote out of office, to drop
 Abwasser /ˈapvasɐ/, das, -s|..: waste water
   Abwasserkanal: gully
 
+Abwechslung /ˈapvɛkslʊŋ/, die: diversion
+  eine willkommene Abwechslung: a welcome change
+
 abwerfen /ˈapvɛrfən/: to drop, to throw off, to discard, to yield
   Die Bäume werfen schon ihre Blätter ab.
   The trees are losing their leaves already.
@@ -401,9 +408,15 @@ abwerfen /ˈapvɛrfən/: to drop, to throw off, to discard, to yield
 
 abwesend /ˈapveːzənt/: absent
   aus familiären Gründen abwesend sein: to be absent for family reasons
+  mit abwesendem Blick: with a far-away look
+  jdn abwesend ansehen: to look at sb absent-mindedly
 
 abwischen /ˈapvɪʃən/: to wipe off
   => wischen: to wipe
+  Jetzt wisch dir mal erst die Tränen ab!
+  Come on now, wipe away your tears.
+  Wisch bitte das Regal ab, bevor du die Sachen hineinstellst.
+  Could you wipe off the shelf before you put the things on it, please?
 
 abwürgen /ˈapvʏrɡən/: to stifle
   Meine Versuche, mich am Gespräch zu beteiligen, wurden sofort abgewürgt.
