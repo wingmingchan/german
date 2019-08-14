@@ -944,6 +944,8 @@ angst
   Sie ängstigte sich vor der Operation.
   She was afraid of the operation.
 
+angucken => ansehen
+
 Anhänger /ˈanhɛŋɐ/, der: trailer, pendant, follower
   <=> Gegner
 
@@ -1030,6 +1032,8 @@ annehmen /ˈanneːmən/: to take, to accept, to pass, to assume
   to adopt a child/to take sb on as a student
   Die Polizei nimmt an, dass …
   The police assume that …
+
+Annehmlichkeit, die: amenity, convenience 便利設施
 
 anonym /anoˈnyːm/: anonymous
 
@@ -1370,6 +1374,11 @@ Atem /ˈaːtəm/, der, -s|uncountable: breath
 atmen /ˈaːtmən/: to breathe
   Vor Anstrengung atmete er schwer.
   He was breathing heavily from the exertion.
+
+Atmosphäre /atmoˈsfɛːrə/, die, ~|-n: atmosphere
+  beim Eintritt in die Atmosphäre verglühen
+  to burn up when entering the earth's atmosphere
+  eine angenehme Atmosphäre schaffen: to create a pleasant atmosphere
 
 Atom /aˈtoːm/, das: atom
   Atombombe: atomic bomb
@@ -1891,6 +1900,10 @@ Aushang /ˈaushaŋ/, der, ..e: notice
 ausheben /ˈausheːbən/: to dig
   Sie haben bereits mit dem Ausheben der Baugrube begonnen.
   They have already started digging the pit for the foundations of the building.
+
+aushecken /ˈaushɛkən/: to cook up
+  Was hecken die Jungen da nur wieder aus?
+  What kinds of crazy plans are the boys cooking up now?
 
 aushöhlen /ˈaushøːlən/: to hollow out, to undermine
   eine Melone aushöhlen und mit Früchten füllen
