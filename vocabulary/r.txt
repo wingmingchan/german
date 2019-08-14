@@ -528,6 +528,10 @@ Richtung /ˈrɪçtʊŋ/, die: direction
   Der Wind wehte in westlicher Richtung/kam aus östlicher Richtung.
   The wind was blowing in a westerly direction/coming from an easterly direction. 
 
+riechen /ˈriːçən/: to smell
+  Riechst du das, hier brennts doch irgendwo!
+  Can you smell that? There's something burning somewhere!
+
 rief => rufen
 
 Riemen /ˈriːmən/, der, -: strap
@@ -555,6 +559,8 @@ riskieren /rɪsˈkiːrən/: to risk
 Ritter /ˈrɪtɐ/, der, -s|~: knight
   Ritterburg: knight's castle
   jdn zum Ritter schlagen: to knight sb
+
+roch => riechen
 
 Rock /rɔk/, der: skirt
   Sie trug einen kurzen Rock.

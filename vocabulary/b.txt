@@ -857,6 +857,16 @@ Beschwerde /bəˈʃveːɐdə/, die, -n: complaint, appeal, trouble, discomfort
   Haben sich die Beschwerden seit gestern verstärkt?
   Has the pain intensified since yesterday?
 
+besessen /bəˈzɛsən/: possessed
+  => besitzen
+  Man dachte, sie sei vom Teufel besessen.
+  People thought she was possessed by the devil.
+  Sie war von dem Wunsch besessen, mit 60 noch einmal ein Kind zu bekommen.
+  She was obsessed with the idea of having another child at 60.
+  wie besessen: like crazy/mad
+  Er übt wie besessen für das Konzert.
+  He's practicing like mad for the concert.
+
 besetzen /bəˈzɛʦən/: to fill, to reserve, to occupy
   eine Führungsposition neu besetzen
   to find someone new to fill an executive position
@@ -923,6 +933,8 @@ bestehen /bəˈʃteːən/: to be, to exist, to pass
   He didn't pass (the exam).
   Das Examen besteht aus zwei schriftlichen und zwei mündlichen Prüfungen.
   The examination consists of two written and two oral tests.
+  auf etw bestehen [dative]: to insist on sth
+  auf seinem Recht bestehen: to insist on your rights
   aus etw bestehen: to consist of
   Das Examen besteht aus zwei schriftlichen und zwei mündlichen Prüfungen.
   The examination consists of two written and two oral tests.
@@ -1069,7 +1081,7 @@ Beute /ˈbɔytə/, die, Beute: loot, booty, spoils, prey
   Der Löwe zerfleischt seine Beute.
   The lion tears its prey to pieces. 
 
-Beutel /ˈbɔytəl/, der: bag
+Beutel /ˈbɔytəl/, der, -s|~: bag
   Einkaufsbeutel: shopping bag
   Teebeutel: tea bag
 

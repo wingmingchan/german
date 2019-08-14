@@ -1303,6 +1303,8 @@ arm /arm/: poor
   arm dran sein: to be in bad shape
   eine Ernährung, die arm an Vitaminen ist: a diet that is low in vitamins
 
+Armbanduhr /ˈarmbant|uːɐ/, die, ~|-en: wristwatch
+
 Arme /ˈarmə/, -n: poor person
 
 Ärmel /ˈɛrməl/, der, -s|~: sleeve
@@ -1530,6 +1532,8 @@ aufhören /ˈaufhøːrən/: to stop
   aufhören zu arbeiten: to stop working
 
 aufklappen: to open up, to lift up, to fold back, to open
+  aufklappen Buch, Taschenmesser etc
+  das Taschenmesser auf- / zuklappen: to open/close the pocket knife
 
 aufkreuzen /ˈaufkrɔyʦən/: to show up
   Er ist plötzlich wieder bei seinen Eltern aufgekreuzt.
@@ -2040,6 +2044,15 @@ ausschließlich /ˈausʃliːslɪç/: exclusively
 Ausschuss /ˈausʃʊs/, der: committee, wastage
   Wir haben heute nur Ausschuss produziert.
   All we produced today was rejects.
+
+ausschütteln: to shake out
+  ausschütteln Tischtuch etc
+  
+ausschütten /ˈausʃʏtən/: to empty, to pour out
+  den Papierkorb ausschütten und alles durchsuchen
+  to empty the wastebasket and search through everything
+  Er schüttete die Legosteine aus der Kiste auf dem / den Fußboden aus.
+  He emptied the Lego bricks from the box onto the floor.
 
 Aussehen /ˈauszeːən/, das, -s|uncountable: appearance
   Gutes Aussehen ist mir nicht so wichtig.

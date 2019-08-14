@@ -130,6 +130,13 @@ Verdächtige(r): suspect
 verdächtigen /fɛɐˈdɛçtɪɡən/: to suspect
   jdn des Mordes verdächtigen: to suspect sb of murder
 
+Verdeck /fɐɐˈdɛk/, das, -(e)s|-e: top, canopy, deck, hood
+  ein Cabrio mit offenem Verdeck fahren: to drive an open-top convertible
+
+verdecken /fɛɐˈdɛkən/: to hide, to conceal
+  Ein großer Fels verdeckte ihnen die Sicht.
+  A large rock blocked their view.
+
 verdienen /fɛɐˈdiːnən/: to earn, to make, to deserve
   Wie viel verdient dein Mann?
   How much does your husband earn?
@@ -997,6 +1004,18 @@ vollständig /ˈfɔlʃtɛndɪç/: complete
 △vom /fɔm/
 
 △von /fɔn/
+
+vor /foːɐ/: in front of, ago, with
+  Die Haltestelle ist direkt vor unserem Haus.
+  The stop is directly in front of our house.
+  Ich habe ihn vor vielen Jahren einmal getroffen.
+  I met him once many years ago.
+  Es ist zehn (Minuten) vor zwölf.
+  It's ten (minutes) to twelve.
+  Der Hund zitterte vor Angst / Kälte.
+  The dog was trembling with fear/cold.
+  vor dem Feind fliehen: to flee from the enemy
+  einen Schritt vor und zwei zurück: one step forwards and two steps back
 
 vor allem: above all
 
