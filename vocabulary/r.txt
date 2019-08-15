@@ -534,6 +534,8 @@ riechen /ˈriːçən/: to smell
   Riechst du das, hier brennts doch irgendwo!
   Can you smell that? There's something burning somewhere!
 
+-riechend: smelling
+
 rief => rufen
 
 Riemen /ˈriːmən/, der, -: strap
@@ -608,6 +610,8 @@ rot: red
 
 Roulette /ruˈlɛt/, die, Roulettes
   Roulette spielen: to play roulette
+
+Rowdy: hooligan, bully
 
 Ruck /rʊk/, der: jerk, jolt, tug
   Sie riss sich mit einem kräftigen Ruck von ihm los.

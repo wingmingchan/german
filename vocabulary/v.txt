@@ -832,6 +832,8 @@ vertuschen /fɛɐˈtʊʃən/: to cover up
   Er versuchte seinen Fehler zu vertuschen.
   He tried to cover up his mistake.
 
+verunglimpfen /fɛɐˈ|ʊnɡlɪmpfn/: to disparage, to belittle
+
 verursachen /fɛɐˈ|uːɐzaxən/: to cause
   Wer hat den Unfall verursacht?
   Who caused the accident?
@@ -1111,6 +1113,10 @@ Vorgehen /ˈfoːɐɡeːən/, das, -s: actions, approach, procedure
 vorgehen: to proceed, to act
 
 Vorgehensweise, die: approach
+
+Vorgesetzte /ˈfoːɐɡəzɛʦtə/: superior
+  sich bei seinem Vorgesetzten über einen Kollegen beschweren
+  to complain to your superior about a co-worker
 
 vorgestern /ˈfoːɐɡɛstɐn/: the day before yesterday
   vorgestern Abend: the evening of the day before yesterday

@@ -509,7 +509,7 @@ Bein /bain/, das, -(e)s|-e: leg
   sich die Beine vertreten: to stretch your legs
   auf den Beinen sein: to be on your feet/to be out and about
 
-beinahe /ˈbeinahe/: almost
+beinahe /ˈbainaːə/: almost
   beinah(e) in allen Fällen, in beinah(e) allen Fällen: in almost every case
 
 beisammen /baiˈzamən/: together
@@ -549,10 +549,13 @@ bekennen /bəˈkɛnən/: to confess, to admit
   to confess your guilt/admit your mistakes
 
 beklagen /bəˈklaːɡən/: to complain, to lament, to mourn
+  => beschweren
   Es gab zahlreiche Verletzte zu beklagen.
   There were numerous people injured.
   Er beklagte die schlechte Zusammenarbeit mit der Opposition.
   He criticized the unsatisfactory cooperation with the opposition.
+
+Beklagte /bəˈklaːktə/: defendant
 
 bekleben: to stick paper/posters etc on(to) sth
 
@@ -860,6 +863,10 @@ Beschwerde /bəˈʃveːɐdə/, die, -n: complaint, appeal, trouble, discomfort
   to alleviate a patient's discomfort
   Haben sich die Beschwerden seit gestern verstärkt?
   Has the pain intensified since yesterday?
+
+beschweren /bəˈʃveːrən/: to complain
+  Ich werde mich bei Ihrem Vorgesetzten über Sie beschweren!
+  I'm going to complain to your boss about you!
 
 besessen /bəˈzɛsən/: possessed
   => besitzen
