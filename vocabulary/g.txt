@@ -386,6 +386,8 @@ Gehalt /ɡəˈhalt/, das, -(e)s|..er: salary
   Wie hoch ist sein Monatsgehalt?
   How high is his monthly salary?
 
+gehässig /ɡəˈhɛsɪç/: spiteful, hateful, malicious
+
 gehäuft /ɡəˈhɔyft/: massed, frequent
   => häufig, häufen
   ein gehäuftes Auftreten der Krankheit beobachten
@@ -797,6 +799,8 @@ Geschmack /ɡəˈʃmak/, der, -(e)s|..e: taste
   Er hat viel / einen guten Geschmack, was Kleidung angeht.
   He has a lot of taste/has good taste when it comes to clothes.
 
+geschnitten => schneiden
+
 Geschütz /ɡəˈʃʏʦ/, das, -e: gun, cannon
   ein Geschütz laden / abfeuern: to load/fire a gun
 
@@ -1032,6 +1036,11 @@ glatt /ɡlat/: smooth, slippery, icy, straight, downright, complete
   The pilot managed to make a smooth landing in spite of the storm.
   Das ist das glatte Gegenteil von dem, was wir erreichen wollten.
   That's the complete opposite of what we wanted to achieve.
+
+Glatze  /ˈɡlaʦə/, die, ~|-n: bald head
+  eine Glatze haben / bekommen: to be/go bald
+  Er wurde von ein paar Glatzen verprügelt.
+  He was beaten up by a couple of skinheads.
 
 Glaube /ˈɡlaubə/, der, -ns|uncountable: faith
 

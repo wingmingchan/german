@@ -957,6 +957,14 @@ bestellen /bəˈʃtɛlən/: to order
 Bestellung /bəˈʃtɛlʊŋ/, die, -en: order
   eine Bestellung aufgeben: to place an order
 
+Bestimmung /bəˈʃtɪmʊŋ/, die, ~|-en: regulation, determination, identification, classification, destiny
+  die gesetzlichen Bestimmungen einhalten
+  to comply with the legal requirements
+  die genaue Bestimmung des Säuregehalts
+  the precise determination of the acidity
+  ein Bestimmungsbuch für Pilze: a classification book for mushrooms
+  seiner Bestimmung folgen: to follow your destiny
+
 bestimmt /bəˈʃtɪmt/: certain, firm, decisive, certainly
   unter bestimmten Voraussetzungen: under certain circumstances
   Sie war höflich, aber ihr Ton war sehr bestimmt.
@@ -972,6 +980,9 @@ bestrafen /bəˈʃtraːfən/: to punish
   The culprits were punished severely.
   Der Verkauf von Zigaretten an Kinder wird mit Geldbußen bestraft.
   Sales of cigarettes to children are subject to fines.
+
+Bestrafung /bəˈʃtraːfʊŋ/, die, ~|-en: punishment
+  eine strenge Bestrafung erhalten: to receive severe punishment
 
 bestreichen: to rake, to spread
 
@@ -1076,6 +1087,10 @@ beugen /ˈbɔyɡən/: to bend
   I give in to the violence.
   ein unregelmäßig gebeugtes Verb: an irregularly inflected verb
 
+Beule /ˈbɔylə/, die, ~|-n: lump, bump, dent, dint
+  eine Beule am Kopf haben: to have a lump on your head
+  beim Einparken eine Beule ins Blech machen: to dent the car when parking
+
 beunruhigen /bəˈ|ʊnruːɪɡən/: to worry, to trouble, to bother
   Die Nachricht scheint ihn nicht sonderlich zu beunruhigen.
   The news doesn't seem to have worried him particularly.
@@ -1155,6 +1170,12 @@ Bewegung /bəˈveːɡʊŋ/, die, ~|-en: movement, exercise, emotion, movement
   Der Angeklagte zeigte bei der Urteilsverkündung keinerlei Bewegung.
   The accused showed no emotion when the verdict was being read.
   Arbeiterbewegung: labor movement
+
+bewerben /bəˈvɛrbən/: to apply
+  bewarb
+  sich für verschiedene Jobs bewerben: to apply for various jobs
+  Er hat sich für / um das Amt des Bürgermeisters beworben.
+  He's standing for mayor.
 
 Bewerbungsmappe, die: application documents
 
@@ -1508,6 +1529,8 @@ boshaft /ˈboːshaft/: malicious
 
 Boss /bɔs/, der, -e: boss
   Firmenbosse: company bosses
+
+bot => bieten
 
 bot..an => anbieten
 

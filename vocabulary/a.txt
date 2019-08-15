@@ -63,6 +63,8 @@ abfahren /ˈapfaːrən/: to leave, to depart, to exit, to wear down, to drive al
 Abfall /ˈapfal/, der, -(e)s|..e: waste, trash
   industrielle Abfälle: industrial waste
 
+Abfalleimer: garbage can
+
 abfällig /ˈapfɛlɪç/: derogatory
   eine abfällige Bemerkung über jdn machen: to make a derogatory remark about sb
 
@@ -212,6 +214,8 @@ abreißen /ˈapraisən/: to tear off, to tear down, to rip off, to come to a sto
   das alte Kalenderblatt abreißen: to tear off the old page on the calendar
   Der Turm war baufällig und musste abgerissen werden.
   The tower was in disrepair and had to be torn down.
+
+absäbeln: to hack off, to cut off
 
 absagen /ˈapzaːɡən/: to cancel
   Das Konzert wurde wegen Krankheit abgesagt.
@@ -738,6 +742,12 @@ anbieten /ˈanbiːtən/: to offer
   Welche Wahlfächer bietet die Schule an?
   Which electives does the school offer?
 
+Anblick /ˈanblɪk/, die, -(e)s|-e: sight, view
+  Beim Anblick der Berge war er sehr beeindruckt.
+  The sight of the mountains really impressed him.
+  Der Garten bot einen schönen Anblick.
+  The garden had a nice view.
+
 anblicken: to look at
 
 anbrachten => anbringen
@@ -772,6 +782,8 @@ andere /ˈandərə/: other, else
 anderenfalls /ˈandərənfals/: otherwise
   Sie muss einen Kredit aufnehmen, anderenfalls muss sie ihr Geschäft schließen.
   She has to take out a loan – otherwise she'll have to close her business.
+
+andererseits /ˈandərɐzaiʦ/: on the other hand
 
 ändern /ˈɛndɐn/: to change
   Kann ich meine Bestellung noch ändern?
@@ -1422,7 +1434,12 @@ aufbewahren /ˈaufbəvaːrən/: to keep
   Er hat alle ihre Briefe aufbewahrt.
   He kept all her letters.
 
-aufbrechen /ˈaufbrɛçən/: to break open, to break down
+aufbrechen /ˈaufbrɛçən/: to break open, to break down, to set off
+  Das Auto wurde in der Nacht aufgebrochen und das Gepäck gestohlen.
+  The car was broken into during the night and the baggage stolen.
+  zu einer Reise aufbrechen: to set out on a journey
+  Die Wunde brach auf und begann wieder zu bluten.
+  The wound burst open and started to bleed again.
 
 aufbringen /ˈaufbrɪŋən/: to raise, to start, to come up with, to get open
   Können wir die Sanierungskosten überhaupt aufbringen?
@@ -1552,6 +1569,7 @@ aufhören /ˈaufhøːrən/: to stop
   Wann hört der Regen endlich auf?
   When's the rain finally going to stop?
   aufhören zu arbeiten: to stop working
+  Sofort hörte Dudley auf mit seinem falschen Weinen
 
 aufklappen: to open up, to lift up, to fold back, to open
   aufklappen Buch, Taschenmesser etc
@@ -1593,6 +1611,8 @@ aufmachen /ˈaufmaxən/: to open, to present, to display, to set out, to set off
   What time does the supermarket open?
   Sie wollen einen neuen Kindergarten aufmachen.
   They plan to open a new kindergarten.
+  Er läutete, aber keiner machte auf.
+  He rang the bell but nobody answered.
   Die Geschichte war in der Zeitung groß aufgemacht.
   They made a big splash about the story in the newspaper.
   Er machte sich auf, in die Stadt zu fahren.
@@ -1720,7 +1740,14 @@ aufstehen /ˈaufʃteːən/: to get up, to stand up, to be open
   Die Tür stand weit auf.
   The door was wide open.
 
-aufstellen /ˈaufʃtɛlən/: to put up, to arrange, to draw up
+aufstellen /ˈaufʃtɛlən/: to put up, to arrange, to draw up, to nominate
+  Das Regal war schnell zusammengeschraubt und aufgestellt.
+  It didn't take long to screw the shelving unit together and put it up.
+  die Stühle im Kreis aufstellen: to arrange the chairs in a circle
+  am Eingang einen Kontrolleur aufstellen: to post a guard at the entrance
+  Kinder, stellt euch alle in einer Reihe auf!
+  Kids, I want all of you to line up in a row.
+  jdn für eine Wahl aufstellen: to nominate sb for an election
 
 auftauchen /ˈauftauxən/: to appear, to surface, to arise, to come up, to show up, to turn up
   Aus dem Nebel tauchten die Umrisse eines Hauses auf.
@@ -1772,6 +1799,9 @@ Auge /ˈauɡə/, das, -s|-n: eye
   blaue/gute Augen haben
   to have blue eyes/good eyesight
   Auge in Auge: face to face
+  kein Auge zutun: to not sleep a wink
+  Ich habe die ganze Nacht kein Auge zugetan.
+  I didn't sleep a wink all night.
 
 Augenblick /ˈauɡənblɪk/, der: moment
   Einen Augenblick, bitte!
@@ -1795,6 +1825,10 @@ aus-: away, removed, turned off
 ausatmen /ˈaus|aːtmən/: to breathe out
   durch die Nase ein- und ausatmen
   to breathe in and out through your nose
+
+ausbeulen /ˈausbɔylən/: to bulge, to beat out, to bulge, to make baggy/floppy, 
+  Diese Bakterien erzeugen Gase, die eine Dose ausbeulen können.
+  These bacteria generate gases that can make a can bulge out.
 
 Ausbeute /ˈausbɔytə/, die: yield
   Die Mine ist noch in Betrieb, aber die Ausbeute ist mittlerweile gering.

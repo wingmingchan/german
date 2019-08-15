@@ -247,6 +247,10 @@ einer: one, some, somebody
   Hat einer die Tür abgeschlossen?
   Did somebody lock the door?
 
+einerseits /ˈainɐzaits/ …, andererseits
+  Einerseits freue ich mich auf den Urlaub zu zweit, andererseits lasse ich die Kinder ungern zurück.
+  On the one hand I'm looking forward to a vacation for just the two of us, but on the other hand I'm not keen on leaving the children behind.
+
 einfach /ˈainfax/: easy, simple, easily, simply
   Die Aufgabe war nicht ganz einfach.
   The problem wasn't exactly easy.
@@ -271,7 +275,7 @@ Einfall /ˈainfal/, der, -(e)s|..e /ˈainfɛlə/: idea, invasion
   The day trip was a brilliant idea of yours.
   der Einfall der Römer in Britannien: the Roman invasion of Britain
 
-einfallen /ˈainfalən/: to sink in, to invade, to attack, to collapse, to join in
+einfallen /ˈainfalən/: to remember, to think of, to sink in, to invade, to attack, to collapse, to join in
   etw. fällt jdm ein: sth occurs to sb
   Mir ist keine bessere Ausrede eingefallen.
   I couldn't think of a better excuse.
@@ -413,6 +417,20 @@ einlassen /ˈainlasən/: to let in, to run, to draw
   A friendly attendant let us in.
   sich auf jdn/etw. einlassen: to get involved with sb/in sth
 
+einlaufen /ˈainlaufən/: to break in, to shrink, to run in(to), to finish
+  Die neuen Wanderstiefel muss ich noch einlaufen.
+  I still have to break in my new hiking boots.
+  Der Pullover ist ein wenig eingelaufen.
+  The sweater has shrunk slightly.
+  Wasser in die Badewanne einlaufen lassen
+  to run water into the bath
+  Das Kreuzfahrtschiff lief im / in den Hafen ein.
+  The cruise ship pulled into the harbor.
+  Gleich gehts los, die Mannschaften laufen schon ein.
+  The match is about to begin, The teams are coming onto the pitch.
+  In welcher Reihenfolge sind die Pferde ins Ziel eingelaufen?
+  What order did the horses finish in?
+
 einleiten /ˈainlaitən/: to introduce, to initiate, to discharge
   ein Referat mit einem historischen Überblick einleiten
   to start off a talk with a historical overview
@@ -517,6 +535,8 @@ einschlagen /ˈainʃlaːɡən/: to smash, to strike, to hit
   Our place was struck by lightning yesterday.
 
 einschleichen /ˈainʃlaiçən/: to sneak in
+
+einschlug => einschlagen
 
 einsehen /ˈainzeːən/: to realize, to accept, to look at/through, to inspect, to see
   Ich sehe ein, dass es keine andere Möglichkeit gibt.
@@ -737,7 +757,7 @@ empfinden /ɛmˈpfɪndən/: to feel
   Können Insekten Schmerz empfinden?
   Can insects feel pain?
 
-empor- /ɛmˈpoːɐ/: upwards 
+empor- /ɛmˈpoːɐ/: upwards, aloft
 
 Empörung /ɛmˈpøːrʊŋ/, die, Empörung: indignation, outrage
 
@@ -1015,6 +1035,18 @@ Erfahrung /ɛɐˈfaːrʊŋ/, die: experience
   She has a lot of experience with animals.
   Erfahrungen sammeln: to gain experience
 
+erfassen /ɛɐˈfasən/: to grasp, to understand, to capture, to collect, to strike, to hit, to catch, to sweep/carry away
+  Sie hat den Ernst der Lage sofort erfasst.
+  She grasped the seriousness of the situation immediately.
+  Die Daten werden elektronisch erfasst.
+  The data is captured electronically.
+  Beim Überqueren der Straße wurde sie von einem Auto erfasst.
+  She was struck by a car as she was crossing the road.
+  Das Boot wurde von der Strömung erfasst und mitgerissen.
+  The boat was caught and swept away by the current.
+  Mitleid erfasste sie.
+  She was seized by pity.
+
 erfinden /ɛɐˈfɪndən/: to invent
   Wer hat die Dampfmaschine erfunden?
   Who invented the steam engine?
@@ -1223,6 +1255,11 @@ erledigen /ɛɐˈleːdɪɡən/: to take care of, to deal with, to carry out, to 
 erleichtert /ɛɐˈlaiçtɐt/: relieved
   Wir waren alle sehr erleichtert, dass dem Jungen nichts passiert war.
   We were all very relieved that nothing had happened to the boy.
+
+Erleichterung /ɛɐˈlaiçtərʊŋ/, die, ~|-en: relief
+  Voller Erleichterung stellte er fest, dass das Geld noch da war.
+  To his great relief he found that the money was still there.
+  
 
 erleiden /ɛɐˈlaidən/: to suffer, to sustain
   Sie musste in ihrer Jugend viel Schlimmes erleiden.

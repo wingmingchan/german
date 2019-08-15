@@ -161,6 +161,9 @@ verdrehen /fɛɐˈdreːən/: to twist, to distort, to roll
   Sie verdrehte genervt die Augen.
   She rolled her eyes in annoyance.
 
+verdutzt /fɛɐˈdʊʦt/: baffled
+  ein verdutztes Gesicht machen: to look baffled
+
 Verein /fɛɐˈ|ain/, der, -e: association, club, society
   Mitglied im Sportverein sein: to be a member of the sports club
 
@@ -244,6 +247,9 @@ vergeben /fɛɐˈɡeːbən/: to forgive, to award
   Please forgive me!
   An wen wurde die Wohnung vergeben?
   Who was the apartment allocated to?
+
+vergeblich /fɛɐˈɡeːplɪç/: futile, vain
+  eine vergebliche Suche: a futile search
 
 vergehen /fɛɐˈɡeːən/: to pass, to go by, to wear off, to be dying of sth, to steal
   Wie schnell doch die Zeit vergeht!
@@ -919,6 +925,12 @@ verzögern /fɛɐˈʦøːɡɐn/: to delay
 
 Verzögerung: deferral, delay, lag, retardation
 
+verzweifelt /fɛɐˈʦvaifəlt/: in despair, despairing, desperate
+  Sie war völlig verzweifelt.
+  She was in complete despair.
+  Verzweifelt rief er um Hilfe.
+  He shouted desperately for help.
+
 Verzweiflung /fɛɐˈʦvaiflʊŋ/, die, ~|uncountable: despair, desperation
   Aus lauter Verzweiflung bat sie ihre Nachbarn um Hilfe.
   In pure desperation she asked her neighbors for help.
@@ -1081,6 +1093,10 @@ Vorbild /ˈfoːɐbɪlt/, das, -er: model
   ein gutes / schlechtes Vorbild für jdn sein: to be a good/bad role model for sb
 
 Vorfall /ˈfoːɐfal/, der: incident
+
+vorfinden /ˈfoːɐfɪndən/: to find, to discover
+  im Job beste Arbeitsbedingungen vorfinden
+  to find excellent working conditions in the job
 
 vorgeben /ˈfoːɐɡeːbən/: to fix in advance, to pretend
   Die Bearbeitungszeit ist vorgegeben.
@@ -1258,9 +1274,14 @@ Vorwurf /ˈfoːɐvʊrf/, der, -(e)s|..e: reproach, accusation
   Deine Vorwürfe entbehren jeglicher Grundlage.
   Your accusations are completely unfounded.
 
-Vorzeichen /ˈfoːɐʦaiçən/, das, Vorzeichen: omen
+Vorzeichen /ˈfoːɐʦaiçən/, das, Vorzeichen: omen, sign, sharp/flat sign
   etw. für ein gutes/böses Vorzeichen halten
   to consider sth to be a good/bad omen
+  Wie rechnet man mit verschiedenen Vorzeichen?
+  How do you do calculations using different signs?
+  Vorzeichen nach dem Notenschlüssel gelten für das ganze Stück oder bis sie durch andere Vorzeichen aufgelöst werden.
+  Sharp or flat signs after the clef apply to the whole piece or until they are canceled out by other sharp or flat signs.
+  ohne Vorzeichen: natural,	not sharp or flat
 
 vorzeitig /ˈfoːɐʦaitɪç/: early, premature
   seine vorzeitige Entlassung aus der Haft: his early release from prison

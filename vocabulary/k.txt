@@ -11,6 +11,15 @@ Käfer /ˈkɛːfɐ/, der, -: beetle, bug
 Käfig /ˈkɛːfɪç/, der, -e: cage
   Hühner im Käfig halten: to keep chicken in a cage
 
+kahl /kaːl/: bald, bare, barren
+  Der Hund hat eine kahle Stelle am Bauch.
+  The dog had a bald patch on his stomach.
+  Die Schnecken haben das Beet kahl gefressen.
+  The snails have eaten everything in the bed.
+  die kahlen Felsen der Berggipfel: the bare rocks of the mountain peak
+  Die Wohnung sah etwas kahl und unpersönlich aus.
+  The apartment looked kind of bare and impersonal.
+
 Kahn /kaːn/, der, ..e: boat, barge
   eine Kahnfahrt machen: to go rowing 
 
@@ -48,9 +57,11 @@ Kamel /kaˈmeːl/, das, -e: camel
   Sie ritten auf Kamelen durch die Wüste.
   They rode across the desert on camels.
 
-Kamin /kaˈmiːn/, der, -s|-e: fireplace
+Kamin /kaˈmiːn/, der, -s|-e: fireplace, chimney
   Ein Feuer knistert im Kamin.
   There was a fire crackling in the fireplace.
+  ein Storchennest auf dem Kamin des Hauses
+  a stork's nest on the chimney of a house
 
 Kaminsims m/n: mantlepiece
 
@@ -393,6 +404,7 @@ Klebeband /ˈkleːbəbant/, das, -(e)s|..er: adhesive tape
   einen Karton mit Klebeband zukleben: to tape up a box with adhesive tape
 
 kleben /ˈkleːbən/: to stick sth somewhere
+  geklebt
   eine Briefmarke auf den Umschlag kleben
   to stick a stamp on the envelope
 
@@ -408,6 +420,15 @@ Kleid /klait/, das, -er: dress, clothes
   
 Kleidung /ˈklaidʊŋ/, Kleidung: clothes
   warme Kleidung anziehen: to put on some warm clothes
+
+klein /klain/: small, little
+  ein kleiner Garten: a small garden
+  Einen kleinen Moment, bitte.
+  Just a moment, please.
+
+Kleinigkeit /ˈklainɪçkait/, die, ~|-en: little thing
+  jdm eine Kleinigkeit zum Geburtstag schenken
+  to get sb a little something as a birthday present
 
 klettern /ˈklɛtɐn/: to climb
   auf einen Baum / über den Zaun klettern
@@ -907,7 +928,13 @@ krochen => kriechen
 Krug /kruːk/, Krüge: jug, pitcher
   ein Tonkrug mit Wasser: an earthenware pitcher containing water
 
-krumm /krʊm/: crooked
+krumm /krʊm/: crooked, odd
+  Raubvögel haben krumme Schnäbel.
+  Birds of prey have hooked beaks.
+  im Alter krumm werden: to grow bent with age
+  ein krummes Ding drehen: to get up to something shady
+  krumme Zahlen auf- und abrunden: to round non-whole numbers up and down
+  krumm sitzen: to slouch
 
 krümmen /ˈkrʏmən/: to bend, to double up
   mit gekrümmtem Rücken dasitzen: to sit there slouching

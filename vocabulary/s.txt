@@ -7,6 +7,8 @@ Saal /zaːl/, der, Säle /ˈzɛːlə/: room, hall
 
 Saar, die: a river in NE France and W Germany
 
+säbeln /ˈzɛːbəln/: to saw away at, to cut
+
 Sabotage /zaboˈtaːʒə/, die, -n
   Es handelt sich vermutlich um Sabotage.
   It's probably a case of sabotage.
@@ -640,6 +642,7 @@ Schneefeld, das: snow field
 Schneeschipper: snow shoveler
 
 schneiden /ˈʃnaidən/: to cut, to chop, to slice
+  geschnitten
   Tomaten klein schneiden
   to chop tomatoes
 
@@ -703,6 +706,14 @@ Schraube /ˈʃraubə/, die: screw
 
 Schreck /ʃrɛk/, der, |uncountable: fright, scare
   einen Schreck bekommen: to get a fright
+
+schrecklich /ˈʃrɛklɪç/: terrible, dreadful
+  ein schreckliches Monster: a terrible monster
+  schrecklichen Durst haben: to be dreadfully thirsty
+  Es war schrecklich kalt / langweilig.
+  It was terribly cold/boring.
+  Ich hab dich schrecklich lieb!
+  I love you so much!
 
 Schrei /ʃrai/, der, -(e)s|-e: cry
   die Schreie des Adlers: the eagle's cry
