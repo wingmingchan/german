@@ -152,6 +152,12 @@ längst /lɛŋst/: for a long time, long since
   Ich bin schon längst fertig!
   I finished ages ago!
 
+langweilen /ˈlaŋvailən/: to be bored, to bore
+  Ich langweile mich schon den ganzen Tag.
+  I've been bored all day.
+  Er langweilt alle Leute mit seinen Geschichten.
+  He bores everyone with his stories.
+
 langweilig /ˈlaŋvailɪç/: boring
   Der Film war so langweilig, dass ich eingeschlafen bin.
   The movie was so boring that I fell asleep.
@@ -662,6 +668,7 @@ lustig /ˈlʊstɪç/: funny, keen on
 
 lutschen /ˈlʊtʃən/: to suck
   ein Hustenbonbon lutschen: to suck a cough drop
+  am Daumen lutschen: to suck your thumb
 
 Luxus /ˈlʊksʊs/, der, |uncountable: luxury
   Dieser Urlaub ist purer Luxus.

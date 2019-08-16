@@ -1463,6 +1463,10 @@ aufdrücken: to press sth on, to stamp sth on sth, to push open
   Er drückte die Tür auf durch Knopfdruck.
   He pressed the button and the door opened.
 
+aufessen /ˈauf|ɛsən/: to eat up, to finish off
+  Sie haben das ganze Brot aufgegessen.
+  They ate all the bread.
+
 auffahren /ˈauffaːrən/: to run into, to tailgate, to start, to ascend
 
 Auffahrt /ˈauffaːrt/, die, ~|-en: driveway, ramp, ascent, climb
@@ -1574,6 +1578,16 @@ aufhören /ˈaufhøːrən/: to stop
 aufklappen: to open up, to lift up, to fold back, to open
   aufklappen Buch, Taschenmesser etc
   das Taschenmesser auf- / zuklappen: to open/close the pocket knife
+
+aufkommen /ˈaufkɔmən/: to arise, to come up
+  Plötzlich kam Wind auf.
+  It suddenly started to get windy.
+  Auf der Party kam einfach keine Stimmung auf.
+  There was just no atmosphere at the party.
+  für den Schaden aufkommen müssen: to have to pay for the damage
+  mit beiden Füßen aufkommen: to land on both feet
+  Hast du keine Angst, dass das aufkommt?
+  Isn't he afraid it'll all come out?
 
 aufkreuzen /ˈaufkrɔyʦən/: to show up
   Er ist plötzlich wieder bei seinen Eltern aufgekreuzt.

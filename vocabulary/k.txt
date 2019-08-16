@@ -281,7 +281,7 @@ keuchen /ˈkɔyçən/: to pant, to gasp
   „Bitte helft mir tragen!‟, keuchte sie.
   “Please help me carry this!” she gasped.
 
-kichern /ˈkɪçɐn/: to giggle
+kichern /ˈkɪçɐn/: to giggle, to snigger
 
 kieken: to peek, to peep
   => gucken
@@ -491,9 +491,11 @@ klug /kluːk/: clever
 Klüngel /ˈklʏŋəl/, der, -s|~: clique
   der Bürgermeister und sein Klüngel: the mayor and his clique
 
-knallen /ˈknalən/: to bang, to pop, to crack
+knallen /ˈknalən/: to bang, to pop, to crack, to crash
   Sie knallte mit der Peitsche.
   She cracked her whip.
+  Er ist mit dem Wagen gegen einen Baum geknallt.
+  He crashed his car into a tree.
 
 knapp /knap/: meagre, scarce, tight, barely
 
@@ -846,6 +848,9 @@ kränkeln /ˈkrɛnkəln/: to be not too well, to be sickly
 Krankenhaus /ˈkraŋkənhaus/, das, -es|..er: hospital
 
 Krapfen /ˈkrapfən/, der, -s|~: jelly doughnut
+
+kratzen /ˈkraʦən/: to scratch
+  sich am Kopf kratzen: to scratch your head
 
 kraus /kraus/: frizzy, tightly curled, winkled, crumpled, untidy, cramped, confused
 

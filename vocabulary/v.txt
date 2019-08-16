@@ -196,6 +196,17 @@ verfahren: to proceed, to get lost
   Sie haben sich in der Stadt hoffnungslos verfahren.
   They got hopelessly lost in the city.
 
+verfallen /fɛɐˈfalən/: to fall into disrepair, to deteriorate, to decline, to expire
+  Das alte Bauernhaus verfällt zusehends.
+  That old farmhouse is becoming visibly dilapidated.
+  Der Patient verfiel mehr und mehr.
+  The patient continued to deteriorate.
+  Sitten und Moral scheinen immer mehr zu verfallen.
+  Decency and moral standards seem to be going into even more of a decline.
+  Leider ist dieser Gutschein bereits verfallen.
+  I'm afraid this voucher has already expired.
+  auf etw acc verfallen: to think of sth; (aus Verzweiflung) to resort to sth
+
 verfassen /fɛɐˈfasən/: to write
   Er schenkte ihr ein selbst verfasstes Gedicht.
   He gave her a poem he'd written himself.
@@ -339,6 +350,10 @@ Verhandlung /fɛɐˈhandlʊŋ/, die, -en: negotiation, hearing
   Die Verhandlung wurde auf nächste Woche vertagt.
   The hearing was postponed until next week.
 
+verhauen /fɛɐˈhauən/: to beat (up)
+  Sie hat ihre Kinder mit dem Wäscheklopfer verhauen.
+  She beat her children with the laundry paddle.
+
 verheimlichen /fɛɐˈhaimlɪçən/: to keep secret, to hide
   Er konnte ihr seine Affäre nicht mehr länger verheimlichen.
   He couldn't keep his affair secret from her any longer.
@@ -350,6 +365,8 @@ verheiratet /fɛɐˈhairatət/: married
 verhelfen /fɛɐˈhɛlfən/: to help sb/sth to achieve sth
   einer Partei/Idee zum Erfolg verhelfen
   to help a party achieve success/an idea become successful
+
+verhielt => verhalten
 
 verhindern /fɛɐˈhɪndɐn/: to prevent
   Sie konnten das Unglück gerade noch verhindern.
@@ -1093,6 +1110,11 @@ Vorbereitung /ˈfoːɐbəraitʊŋ/, die: preparation
 
 Vorbild /ˈfoːɐbɪlt/, das, -er: model
   ein gutes / schlechtes Vorbild für jdn sein: to be a good/bad role model for sb
+
+Vordermann /ˈfɔrdɐman/, der: person in front
+  <=> Hintermann
+  zu wenig Sicherheitsabstand zum Vordermann halten
+  to drive too close to the person in front
 
 Vorfall /ˈfoːɐfal/, der: incident
 
