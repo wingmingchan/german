@@ -1176,6 +1176,10 @@ anstreichen /ˈanʃtraiçən/: to paint, to Mark
   Der Lehrer hat mir das als Fehler angestrichen.
   The teacher marked that as a mistake. 
 
+anstrengen /ˈanʃtrɛŋən/: to try hard, to make an effort
+  Um einen neuen Job zu bekommen, musste sie sich nicht besonders anstrengen.
+  She didn't have to try hard to find a new job.
+
 anstrengend /ˈanʃtrɛŋənt/: strenuous
 
 Anstrengung /ˈanʃtrɛŋʊŋ/, die, ~|-en: effort, exertion
@@ -1376,7 +1380,7 @@ Aschenbecher /ˈaʃənbɛçɐ/, der: ashtray
 
 asiatisch /aˈzjaːtɪʃ/
 
-Ast /ast/, Äste /ˈɛstə/, der: branch
+Ast /ast/, der, -(e)s|..e: branch
   Die Affen schwingen sich von Ast zu Ast.
   The monkeys swing from tree to tree.
 
@@ -1734,7 +1738,14 @@ aufschnappen /ˈaufʃnapən/: to pick up, to snap open
   Wo hat der Junge nur wieder diese Schimpfwörter aufgeschnappt?
   Where on earth did the boy pick up those swear words?
 
-aufsetzen /ˈaufzɛʦən/: to put on, to don, 
+aufsetzen /ˈaufzɛʦən/: to put on, to don, to land, to put down, to sit up [reflexive]
+  (einem Kind / sich) eine Mütze aufsetzen
+  to put on a cap (to put on a child's/your cap)
+  den Fuß vorsichtig aufsetzen: to put down your foot carefully
+  Das Flugzeug setzte weich auf.
+  The plane landed smoothly.
+  Heute konnte sich der Patient schon wieder zum Essen aufsetzen.
+  Today the patient was able to sit up again to eat.
 
 Aufsicht /ˈaufzɪçt/, die, -en: supervision, supervisor, person in charge
   die Aufsicht (bei / über etw.) haben / führen: to be in charge (of sth)

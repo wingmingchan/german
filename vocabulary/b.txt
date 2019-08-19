@@ -90,6 +90,8 @@ Bann /ban/, der: spell
   The game had us all under its spell. 
   jdn in seinen Bann ziehen: jdn faszinieren, to captivate sb
 
+bannen /ˈbanən/: to bewitch, to capture sb/sth on film/canvas, to exorcize, to avert
+
 Bar /baːɐ/, die, -s: bar
   mit Freunden in eine Bar gehen: to go to a bar with friends
   sich an die Bar setzen: to sit down at the bar  
@@ -286,6 +288,8 @@ beeinflussen /bəˈ|ainflʊsən/: to influence
 Beet /ˈbeːt/, das, Beete: (flower/plant) bed
    neue Beete anlegen: to lay out new beds 
 
+befahl => befehlen
+
 Befall /bəˈfal/, der, Befalls: infestation
   Bei starkem Befall mit Blattläusen empfiehlt sich das Spritzen mit Seifenlauge.
   In cases of infestation with aphids it is recommendable to spray the plant with soapy water. 
@@ -302,6 +306,10 @@ befassen /bəˈfasən/: to deal with, to concern yourself with
 Befehl /bəˈfeːl/, der, -e: order, command
   Der Offizier gab den Befehl zum Angriff.
   The officer gave orders to attack. 
+
+befehlen /bəˈfeːlən/: to order
+  Mein Vater hat mir befohlen, mein Zimmer aufzuräumen.
+  My father ordered me to tidy up my room.
 
 befestigen /bəˈfɛstɪɡən/: to attach, to fix, to mount
   ein Schild mit Schrauben an der Wand befestigen
@@ -1000,6 +1008,15 @@ bestreiten /bəˈʃtraitən/: to deny, to dispute
 bestücken /bəˈʃtʏkən/: to equip, to load
   einen Füller mit Patronen bestücken: to equip a fountain pen with cartridges
 
+betäuben /bəˈtɔybən/: to anesthetize, to stun, to numb, to daze, to deaden
+  jdn mit einer Spritze örtlich betäuben: to give sb a local anesthetic
+  Die Rinder werden vor dem Schlachten betäubt.
+  The cattle are stunned before they are slaughtered.
+  Er war vom Lärm wie betäubt.
+  He felt dazed from the noise.
+  Sie betäubte ihre Angst mit Drogen.
+  She numbed her fear with drugs.
+
 Betäubung /bəˈtɔybʊŋ/, die, ~|-en: anesthetic, stupefaction, daze                                            
   Wirkt die Betäubung noch?
   Is the anesthetic still working?
@@ -1016,6 +1033,8 @@ beten /ˈbeːtən/: to pray
   He prays every night before he goes to bed.
   Das Kind betete sein Nachtgebet.
   The child said his evening prayers.
+
+Beton /beˈtɔŋ/, der, -s|uncountable: concrete
 
 betrachten /bəˈtraxtən/: to look at, to consider, to observe
   ein Kunstwerk eingehend betrachten: to view an art work in detail
@@ -1679,6 +1698,8 @@ Bruch /brʊx/, der: break, breach
 Brücke /ˈbrʏkə/, die, Brücken: bridge
   Eine Hängebrücke führte über den Fluss.
   A rope bridge led across the river.
+
+brühen: to blanch, to soak in boiling water 灼
 
 brüllen /ˈbrʏlən/: to roar, to scream
   vor Durst brüllende Rinder: cattle bellowing with thirst

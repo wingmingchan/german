@@ -144,6 +144,7 @@ U /uː/ U wie Ulrich, Ü wie Übermut
 überschatten /yːbɐˈʃatən/: to overshadow
 
 überschlagen /yːbɐˈʃlaːɡən/: to turn over
+  überschlug
   Das Auto überschlug sich mehrfach.
   The car rolled over several times.
 
@@ -369,6 +370,9 @@ Umsetzung /ˈʊmzɛʦʊŋ/, die, -en: implementation
   Die Umsetzung des Gesetzes brachte Probleme mit sich.
   The implementation of the the law led to problems.
 
+Umsichtig /ˈʊmzɪçtɪç/: prudent
+  eine umsichtige Angestellte: a prudent employee
+
 Umstand /ˈʊmʃtant/, der, -(e)s|..e: circumstance
   unter Umständen: perhaps
 
@@ -521,6 +525,10 @@ ungünstig: unfavorable
 unheilvoll /ˈʊnhailfɔl/: fateful, ominous
   Es herrschte unheilvolles Schweigen.
   There was an ominous silence.
+
+unheimlich /ˈʊnhaimlɪç/: eerie, sinister
+  Nachts ist es auf dem Friedhof ziemlich unheimlich.
+  It's pretty eerie in the graveyard at night.
 
 Uni => Universität
 

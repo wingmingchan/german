@@ -428,6 +428,8 @@ schleichen /ˈʃlaiçən/: to creep, to crawl, to slink
   mit hängendem Kopf nach Hause schleichen
   to crawl home with head hanging
 
+schlenzen: to flick 輕拂
+
 schleppen /ˈʃlɛpən/: to drag
   einen Wagen in die Werkstatt schleppen: to tow a car to the shop
   Kisten in den zweiten Stock schleppen: to lug boxes up to the third floor
@@ -436,6 +438,12 @@ schleppen /ˈʃlɛpən/: to drag
   sich völlig erschöpft zum Bett schleppen: to drag yourself totally exhausted to bed
   Das Verfahren schleppte sich über mehrere Monate.
   The proceedings dragged on for several months.
+
+schleunigst /ˈʃlɔʏnɪçst/: immediately, hastily
+  Es muss schleunigst etwas getan werden.
+  Something needs to be done immediately.
+  Sie suchte schleunigst das Weite.
+  She disappeared hastily.
 
 schließen /ˈʃliːsən/: to close, conclude, contract, fasten, reason, shut, shut up, wind up
   Würdest du bitte das Fenster schließen?
@@ -508,6 +516,12 @@ schlucken /ˈʃlʊkən/: to swallow, to guzzle, to booze
   The small movie theaters have nearly all been swallowed up by big chains.
 
 schlugen => schlagen
+
+schlurfen /ˈʃlʊrfən/: to shuffle, to slurp
+  Der Alte schlurfte zur Tür und öffnete sie.
+  The old man shuffled to the door and opened it.
+  Schlürf nicht so!
+  Quit slurping like that!
 
 Schluss /ʃlʊs/, der: end, conclusion
   zu dem Schluss kommen, dass …: to come to the conclusion that …
@@ -609,6 +623,12 @@ schnappen /ˈʃnapən/: to snap, to grab, to catch
   Die Polizei wird ihn schon schnappen.
   The police will catch him.
 
+schnarchen /ˈʃnarçən/: to snore
+  Er liegt schnarchend im Bett.
+  He is lying in bed snoring.
+
+schnattern /ˈʃnatɐn/: to gabble 嘰哩咕嚕
+
 schnauben /ˈʃnaubən/: to snort, to blow your nose
   Die Pferde schnaubten unruhig.
   The horses were snorting restlessly.
@@ -681,6 +701,11 @@ Schnute, die: pout
   eine Schnute ziehen (od machen): to pout
 
 schob /ʃoːp/ => schieben
+
+Schock /ʃɔk/, der, -(e)s|-s: shock
+  Die Nachricht war ein ziemlicher Schock für ihn.
+  The news came as quite a shock to him.
+  einen Schock erleiden: to get a shock
 
 Schokolade, die /ʃokoˈlaːdə/: chocolate
 
@@ -764,6 +789,10 @@ Schrott /ʃrɔt/, der: scrap, garbage
 Schubs /ʃʊps/, der: shove, push
   Sie gab dem Schlitten einen Schubs, sodass er sich in Bewegung setzte.
   She gave the sled a push to get it moving.
+
+schubsen /ˈʃʊpsn/: to shove, to push, to nudge
+  Die Kinder schubsten sich gegenseitig ins Wasser.
+  The children were pushing each other into the water.
 
 schuf => schaffen
 
@@ -860,6 +889,8 @@ schwach /ʃvax/: weak, poor
 Schwäche /ˈʃvɛçə/, die: weakness, failing
   Sie bekam einen Schwächeanfall.
   She suddenly felt faint.
+  eine heimliche Schwäche für jdn / etw. haben
+  to have a secret crush on sb/a weakness for sth
 
 schwächen /ˈʃvɛçən/: to weaken
   Er ist von seiner schweren Krankheit noch sehr geschwächt.
@@ -1152,6 +1183,13 @@ Sicherung /ˈzɪçərʊŋ/, die: securing, saving , backing-up, fuse
 
 Sicherungskopie, die: backup
 
+Sicht /zɪçt/, die, ~|-en: visibility, sight, (point of) view
+  Der Nebel hatte sich aufgelöst und wir hatten gute Sicht ins Tal.
+  The fog had lifted and we had a good view of the valley.
+  Aus meiner Sicht ist der Vorschlag unsinnig.
+  From my point of view it's a ridiculous suggestion.
+  auf lange/kurze Sicht: in the long/short term
+
 sichten /ˈzɪçtən/: to sight, to look through
   Am zehnten Tag sichteten sie eine Insel.
   On the tenth day they sighted an island.
@@ -1160,13 +1198,6 @@ sichten /ˈzɪçtən/: to sight, to look through
 
 Sichtschutz /ˈzɪçtʃʊts/, der, -es|uncountable: screen
   einen Zaun als Sichtschutz errichten: to put up a fence as a screen
-
-Sicht /zɪçt/, die: visibility, sight, (point of) view
-  Der Nebel hatte sich aufgelöst und wir hatten gute Sicht ins Tal.
-  The fog had lifted and we had a good view of the valley.
-  Aus meiner Sicht ist der Vorschlag unsinnig.
-  From my point of view it's a ridiculous suggestion.
-  auf lange/kurze Sicht: in the long/short term
 
 Sie: you
 
@@ -1339,6 +1370,10 @@ sortieren /zɔrˈtiːrən/: to sort
 
 Soße /ˈzoːsə/, die, -n: sauce
   Bratensoße: gravy
+
+soweit /zoˈvait/: as/so far as
+  Soweit ich gehört habe, ist sie verreist.
+  She's away, as far as I've heard.
 
 sowie /zoˈviː/: and, as well as
 
@@ -1637,7 +1672,7 @@ stauben /ˈʃtaubən/: to create dust
 
 Staubfänger /ˈʃtaupfɛŋɐ/, der, -s|~: dust trap
   Wieso sammelst du diese Figuren, das sind doch alles nur Staubfänger.
-  Why do you collect these figures? They’re all just collecting dust.
+  Why do you collect these figures? They're all just collecting dust.
 
 staubig /ˈʃtaubɪç/: dusty
   Die Bücher waren sehr staubig.
@@ -1913,7 +1948,7 @@ Störung /ˈʃtøːrʊŋ/, die, ~|-en: disturbance, disruption, fault
   Schizophrenie ist eine psychische Störung.
   Schizophrenia is a psychological disorder.
 
-stoßen /ˈʃtoːsən/: to push, to shove, to strike, to bump
+stoßen /ˈʃtoːsən/: to push, to shove, to strike, to bump, to jerk
   jdn ins Wasser stoßen: to push sb into the water
   jdm ein Messer in den Rücken stoßen: to plunge a knife into sb's back
   mit dem Kopf an die Decke stoßen: to bump your head on the ceiling

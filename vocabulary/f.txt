@@ -305,7 +305,7 @@ Felswand, die: wall of rock
 
 Femininum /ˈfeːminiːnʊm/, das, -s|Feminina: feminine noun
 
-Fenster /ˈfɛnstɐ/, das: window
+Fenster /ˈfɛnstɐ/, das, -s|~: window
   Möchten Sie am Fenster sitzen oder am Gang?
   Would you like a window or an aisle seat?
 
@@ -330,6 +330,10 @@ Fernseher /ˈfɛrnzeːɐ/, der: TV
 Fernsehsender, der: telestation, television broadcasting station
 
 Fernweh /ˈfɛrnweː/, das: wanderlust
+
+Ferse /ˈfɛrzə/, die, ~|-n: heel
+  Sie hatte eine Blase an der Ferse.
+  She had a blister on her heel.
 
 fertig /ˈfɛrtɪç/: ready, finished
   Ich bin fertig, wir können gehen.
@@ -913,9 +917,11 @@ Fund /fʊnt/, der, -(e)s|-e: finding
 
 Fünftel: fifth
 
-Funke /ˈfʊŋkə/, die: spark
+*Funke /ˈfʊŋkə/, der, -ns|-n: spark, glimmer
   Bei dieser Dürre genügt ein Funke, um einen Waldbrand auszulösen.
   In this drought one spark is enough to cause a forest fire.
+  Gibt es denn überhaupt noch einen Funken Hoffnung?
+  Is there even a glimmer of hope?
 
 funkeln /ˈfʊŋkəln/: to sparkle, to glitter
   Ihre Augen funkelten vor Begeisterung / Wut.

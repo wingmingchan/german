@@ -113,6 +113,10 @@ zerbrechen /ʦɛɐˈbrɛçən/: to break (into pieces), to smash (to pieces)
 zerkratzen /ʦɛɐˈkraʦən/: to scratch
   jdm das Gesicht zerkratzen: to scratch sb's face
 
+zerquetschen /ʦɛɐˈkvɛʧən/: to crush, to squash
+  Bei dem Unfall wurde sein Bein zerquetscht.
+  His leg was crushed in the accident.
+
 zerstechen /ʦɛɐˈʃtɛçən/: to puncture, to sting, to bite
   Unbekannte haben die Autoreifen zerstochen.
   The tires have been slashed by persons unknown. 
@@ -198,6 +202,13 @@ Zirkus /ˈʦɪrkʊs/, der, ~|-se: circus, fuss
   A circus is in town.
   Mach doch nicht so einen Zirkus wegen dieser Kleinigkeit!
   There's no need to make such a song and dance about something so small!
+
+zischeln /ˈʦɪʃəln/: to hiss
+  die leise vor sich hin zischelnde Heizung
+  the soft hissing of the heating
+  „Psst!‟, zischelte er.
+  “Psst!” he hissed.
+  gezischelte Vorwürfe: angrily whispered reproaches
 
 zischen /ˈʦɪʃən/: to hiss, to whiz
   Es zischte laut, als sie das Fleisch in die heiße Pfanne legte.
@@ -448,6 +459,8 @@ zusammenprallen: to clash
 
 zusammenreißen: to pull yourself together
 
+zusammensacken: to slump, to fall in a heap, to collapse, to drop
+
 Zusammensetzung /ʦuˈzamənzɛʦʊŋ/, die, -en: composition, compound
   Einfluss auf die Zusammensetzung eines Gremiums nehmen
   to influence a committee's composition
@@ -561,6 +574,11 @@ zwingen /ˈʦvɪŋən/: to force
   Du kannst mich nicht dazu zwingen, dir zu helfen!
   You can't force me to help you!
 
+zwinkern /ˈʦvɪŋkɐn/: to blink, to wink
+  Der Rauch brannte mir in den Augen, so dass ich zwinkern musste.
+  The smoke was burning my eyes and making me blink.
+  freundlich (mit den Augen) zwinkern: to give a friendly wink
+
 zwischen /ˈʦvɪʃən/: between
   Er setzte sich zwischen mich und das Fenster.
   He sat down between me and the window.
@@ -574,3 +592,5 @@ zwitschern /ˈʦvɪtʃɐn/: to twitter
   The birds were singing (their song) happily.
   
 zwo: two
+
+Zylinder /ʦiˈlɪndɐ/, der, -s|~: top hat

@@ -1,10 +1,9 @@
 ﻿Ein Fenster Verschwindet
 The Vanishing Glass
 
-Fast zehn Jahre waren vergangen, seit die Dursleys eines
-Morgens die Haustür geöffnet und auf der Schwelle ihren Neffen
-gefunden hatten, doch der Ligusterweg hatte sich kaum
-verändert.
+Fast zehn Jahre waren vergangen, seit die Dursleys eines Morgens die
+Haustür geöffnet und auf der Schwelle ihren Neffen gefunden hatten,
+doch der Ligusterweg hatte sich kaum verändert.
 Nearly ten years had passed since the Dursleys had woken
 up to find their nephew on the front step, but Privet Drive
 had hardly changed at all.
@@ -19,11 +18,12 @@ Schließlich [finally] krochen ihre Strahlen [ray] ins Wohnzimmer.
 it crept into their living room,
 ------------------------------------------------------------------------------------------
 Dort sah es fast genauso aus wie in Jener Nacht, als Mr. Dursley im
-Fernsehen den ˈunheilvollen Bericht über die Eulen gesehen hatte.
+Fernsehen den ˈunheilvollen [fateful] Bericht über die Eulen gesehen
+hatte.
 which was almost exactly the same as it had been on the night when
 Mr. Dursley had seen that fateful news report about the owls.
 ------------------------------------------------------------------------------------------
-Nur die Fotos auf dem Kaminsims führten einem vor Augen, wie
+Nur die Fotos auf dem Kaminsims führten einem vor Augen [to show], wie
 viel Zeit verstrichen [elapsed] war.
 Only the photographs on the mantelpiece really showed how much time
 had passed.
@@ -32,9 +32,9 @@ Zehn Jahre zuvor hatten dort eine Menge Bilder gestanden, auf denen etwas,
 das an einen großen rosa Strandball erinnerte, zu sehen war und
 Bommelhüte in verschiedenen Farben trug - doch Dudley Dursley war
 nun kein Baby mehr und Jetzt zeigten die Fotos einen großen, blonden
-Jungen, mal auf seinem ersten Fahrrad, mal auf dem Rummelplatz Karussell
-fahrend, mal beim Computerspiel mit dem Vater und schließlich, wie ihn 
-die Mutter knuddelte und küsste.
+Jungen, mal auf seinem ersten Fahrrad, mal auf dem Rummelplatz [fairground]
+Karussell fahrend, mal beim Computerspiel mit dem Vater und schließlich,
+wie ihn die Mutter knuddelte und küsste.
 Ten years ago, there had been lots of pictures of what looked like a large
 pink beach ball wearing different-colored bonnets — but Dudley Dursley
 was no longer a baby, and now the photographs showed a large
@@ -44,45 +44,44 @@ mother.
 ------------------------------------------------------------------------------------------
 Nichts in dem Zimmer ließ ahnen [to sense], dass in diesem Haus
 auch noch ein anderer Junge lebte.
-The room held no sign at all that another boy lived in the
-house, too.
+The room held no sign at all that another boy lived in the house, too.
 ------------------------------------------------------------------------------------------
 Doch Harry Potter war immer noch da, er schlief gerade, aber nicht mehr lange.
 Yet Harry Potter was still there, asleep at the moment, but not for long.
 ------------------------------------------------------------------------------------------
 Seine Tante Petunia war schon wach und ihre schrille Stimme durchbrach
 die morgendliche Stille.
-His Aunt Petunia was awake and it was her shrill voice
-that made the first noise of the day.
+His Aunt Petunia was awake and it was her shrill voice that made the first
+noise of the day.
 ------------------------------------------------------------------------------------------
-»Aufstehen, aber dalli!«
+»Aufstehen, aber dalli [quickly]!«
 “Up! Get up! Now!”
 ------------------------------------------------------------------------------------------
-Mit einem Schlag war Harry hellwach. Noch einmal
-trommelte seine Tante gegen die Tür.
-Harry woke with a start. His aunt rapped on the door again.
+Mit einem Schlag war Harry hellwach.
+Harry woke with a start.
+------------------------------------------------------------------------------------------
+Noch einmal trommelte seine Tante gegen die Tür.
+His aunt rapped on the door again.
 ------------------------------------------------------------------------------------------
 »Aufstehen!«, kreischte sie.
 “Up!” she screeched. 
 ------------------------------------------------------------------------------------------
-Harry hörte, wie sie in die Küche ging und dort die Pfanne
-auf den Herd stellte.
+Harry hörte, wie sie in die Küche ging und dort die Pfanne auf den
+Herd [stove] stellte.
 Harry heard her walking toward the kitchen and then the sound of
 the frying pan being put on the stove.
 ------------------------------------------------------------------------------------------
-Er drehte sich auf den Rücken und versuchte sich an den Traum zu
-erinnern, den er gerade noch geträumt hatte.
-He rolled onto his back and tried to remember the dream he
-had been having.
+Er drehte sich auf den Rücken und versuchte sich an den Traum zu erinnern,
+den er gerade noch geträumt hatte.
+He rolled onto his back and tried to remember the dream he had been having.
 ------------------------------------------------------------------------------------------
 Es war ein guter Traum.
 It had been a good one.
 ------------------------------------------------------------------------------------------
-Ein fliegendes Motorrad war darin vorgekommen.
+Ein fliegendes Motorrad war darin vorgekommen [to be found].
 There had been a flying motorcycle in it.
 ------------------------------------------------------------------------------------------
-Er hatte das merkwürdige Gefühl, den Traum schon einmal
-geträumt zu haben.
+Er hatte das merkwürdige Gefühl, den Traum schon einmal geträumt zu haben.
 He had a funny feeling he'd had the same dream before.
 ------------------------------------------------------------------------------------------
 Draußen vor der Tür stand Jetzt schon wieder seine Tante.
@@ -100,10 +99,8 @@ His aunt was back outside the door.
 Ich möchte, dass du auf den Schinken aufpasst.
 I want you to look after the bacon.
 ------------------------------------------------------------------------------------------
-Und lass ihn Ja nicht anbrennen, an Duddys Geburtstag muss
-alles tipptopp sein.«
-And don't you dare let it burn, I want everything perfect on Duddy's
-birthday.”
+Und lass ihn Ja nicht anbrennen, an Duddys Geburtstag muss alles tipptopp sein.«
+And don't you dare let it burn, I want everything perfect on Duddy's birthday.”
 ------------------------------------------------------------------------------------------
 Harry stöhnte.
 Harry groaned.
@@ -683,97 +680,330 @@ das Gefühl, er hätte es wissen müssen.
 Harry felt, afterward, that he should have known it was all too
 good to last.
 ------------------------------------------------------------------------------------------
-
+Nach dem Mittagessen gingen sie ins Reptilienhaus.
+After lunch they went to the reptile house.
 ------------------------------------------------------------------------------------------
-
+Hier drin war es kühl und dunkel und entlang der Wände waren runde
+Sichtfenster eingelassen.
+It was cool and dark in there, with lit windows all along the walls.
 ------------------------------------------------------------------------------------------
-
+Hinter dem Glas krabbelten und glitten alle Arten von Echsen und Schlangen
+über Äste und Steine.
+Behind the glass, all sorts of lizards and snakes were crawling and slithering
+over bits of wood and stone.
 ------------------------------------------------------------------------------------------
-
+Dudley und Piers wollten die riesigen, giftigen Kobras und die Pythonschlangen
+sehen, die Menschen zerquetschen konnten.
+Dudley and Piers wanted to see huge, poisonous cobras and thick, man-crushing
+pythons.
 ------------------------------------------------------------------------------------------
-
+Schnell fand Dudley die größte Schlange, die es hier gab.
+Dudley quickly found the largest snake in the place.
 ------------------------------------------------------------------------------------------
-
+Sie hätte sich zweimal um Onkel Vernons Wagen schlingen und ihn in einen Mülleimer
+quetschen können - doch offenbar war sie dazu gerade nicht in Stimmung.
+It could have wrapped its body twice around Uncle Vernon's car and crushed it
+into a trash can — but at the moment it didn't look in the mood.
 ------------------------------------------------------------------------------------------
-
+Tatsächlich döste sie vor sich hin.
+In fact, it was fast asleep.
 ------------------------------------------------------------------------------------------
-
+Dudley hatte die Nase gegen das Fenster gepresst und starrte wie gebannt auf
+die glänzenden braunen Windungen.
+Dudley stood with his nose pressed against the glass, staring at
+the glistening brown coils.
 ------------------------------------------------------------------------------------------
-
+»Mach, dass sie sich bewegt«, sagte er in quengelndem Ton zu seinem Vater.
+“Make it move,” he whined at his father.
 ------------------------------------------------------------------------------------------
-
+Onkel Vernon klopfte mit der Faust gegen das Glas, doch die Schlange rührte
+sich nicht.
+Uncle Vernon tapped on the glass, but the snake didn't budge.
 ------------------------------------------------------------------------------------------
-
+»Mach's noch einmal«, befahl Dudley.
+“Do it again,” Dudley ordered.
 ------------------------------------------------------------------------------------------
-
+Onkel Vernon trommelte behände mit den Knöcheln auf das Glas, doch die
+Schlange schnarchte einfach weiter.
+Uncle Vernon rapped the glass smartly with his knuckles, but the snake just
+snoozed on.
 ------------------------------------------------------------------------------------------
-
+»Wie langweilig«, klagte Dudley und schlurfte davon.
+“This is boring,” Dudley moaned. He shuffled away.
 ------------------------------------------------------------------------------------------
-
+Harry trat vor die Scheibe und ließ den Blick auf der Schlange ruhen.
+Harry moved in front of the tank and looked intently at the snake.
 ------------------------------------------------------------------------------------------
-
+Es hätte ihn nicht überrascht, wenn auch sie vor Langeweile gestorben wäre -
+keine Gesellschaft außer doofen Leuten, die mit den Fingern gegen das Glas
+trommelten und sie den ganzen Tag lang störten.
+He wouldn't have been surprised if it had died of boredom itself — no company
+except stupid people drumming their fingers on the glass trying to disturb it
+all day long.
 ------------------------------------------------------------------------------------------
-
+Das war schlimmer, als einen Schrank als Zimmer zu haben, wo der einzige Besucher
+Tante Petunia war, die an die Tür hämmerte, um einen aufzuwecken.
+It was worse than having a cupboard as a bedroom, where the only visitor was
+Aunt Petunia hammering on the door to wake you up;
 ------------------------------------------------------------------------------------------
-
+Doch zumindest bekam er den Rest des Hauses zu sehen.
+at least he got to visit the rest of the house.
 ------------------------------------------------------------------------------------------
-
+Die Schlange öffnete plötzlich ihre kleinen Perlaugen.
+The snake suddenly opened its beady eyes. 
 ------------------------------------------------------------------------------------------
-
+Langsam, ganz allmählich, hob sie den Kopf bis ihre Augen auf
+einer Höhe mit denen Harrys waren.
+Slowly, very slowly, it raised its head until its eyes were on a level
+with Harry's.
 ------------------------------------------------------------------------------------------
-
+Sie zwinkerte.
+It winked.
 ------------------------------------------------------------------------------------------
-
+Harry starrte sie an.
+Harry stared.
 ------------------------------------------------------------------------------------------
-
+Rasch blickte er über die Schulter, ob Jemand zusah.
+Then he looked quickly around to see if anyone was watching.
 ------------------------------------------------------------------------------------------
-
+Niemand.
+They weren't.
 ------------------------------------------------------------------------------------------
-
+Er drehte sich wieder zu der Schlange um und zwinkerte zurück.
+He looked back at the snake and winked, too.
 ------------------------------------------------------------------------------------------
-
+Die Schlange stieß mit dem Kopf in Richtung Onkel Vernon und Dudley und
+rollte die Augen nach oben.
+The snake jerked its head toward Uncle Vernon and Dudley,
+then raised its eyes to the ceiling.
 ------------------------------------------------------------------------------------------
-
+Sie sah Harry mit einem Blick an, der eindeutig sagte:
+»So was muss ich den ganzen Tag ertragen.«
+It gave Harry a look that said quite plainly: “I get that all the time.”
 ------------------------------------------------------------------------------------------
-
+»Ich weiß«, murmelte Harry durch das Glas, wenn er auch nicht sicher war,
+ob die Schlange ihn hören konnte.
+“I know,” Harry murmured through the glass, though he wasn't sure the snake
+could hear him.
 ------------------------------------------------------------------------------------------
-
+»Das muss dich wirklich auf die Palme bringen.«
+“It must be really annoying.”
 ------------------------------------------------------------------------------------------
-
+Die Schlange nickte lebhaft.
+The snake nodded vigorously.
 ------------------------------------------------------------------------------------------
-
+»Woher kommst du eigentlich?«, fragte Harry.
+“Where do you come from, anyway?” Harry asked.
 ------------------------------------------------------------------------------------------
-
+Die Schlange stieß mit ihrem Schwanz gegen ein kleines Schild nahe dem Fenster.
+The snake jabbed its tail at a little sign next to the glass. 
 ------------------------------------------------------------------------------------------
-
+Harry spähte auf die Inschrift.
+Harry peered at it.
 ------------------------------------------------------------------------------------------
-
+Boa constrictor, Brasilien.
+Boa Constrictor, Brazil.
 ------------------------------------------------------------------------------------------
-
+»War es schön dort?«
+“Was it nice there?”
 ------------------------------------------------------------------------------------------
-
+Wieder stieß die Schlange mit dem Schwanz gegen das Schild, und Harry las weiter:
+Dieses Exemplar wurde im Zoo ausgebrütet.
+The boa constrictor jabbed its tail at the sign again and Harry read on:
+This specimen was bred in the zoo.
 ------------------------------------------------------------------------------------------
-
+»Oh, ich verstehe, du warst nie in Brasilien?«
+“Oh, I see — so you've never been to Brazil?”
 ------------------------------------------------------------------------------------------
-
+Die Schlange schüttelte den Kopf, und plötzlich erschallte hinter Harry ein
+ohrenbetäubendes Rufen, das sie beide zusammenzucken ließ: 
+»DUDLEY! MR. DURSLEY! KOMMT UND SEHT EUCH DIESE SCHLANGE AM DAS GLAUBT
+IHR NICHT, WAS DIE TUT!«
+As the snake shook its head, a deafening shout behind Harry made both of them jump.
+“DUDLEY! MR. DURSLEY! COME AND LOOK AT THIS SNAKE! YOU WON'T BELIEVE
+WHAT IT'S DOING!”
 ------------------------------------------------------------------------------------------
-
+Dudley kam, so schnell er konnte, auf sie zugewatschelt.
+Dudley came waddling toward them as fast as he could.
 ------------------------------------------------------------------------------------------
-
+»Aus dem Weg, Mann«, sagte er und stieß Harry in die Rippen.
+“Out of the way, you,” he said, punching Harry in the ribs.
 ------------------------------------------------------------------------------------------
-
+Harry, von dem Schlag ganz überrascht, fiel hart auf den Betonboden.
+Caught by surprise, Harry fell hard on the concrete floor.
 ------------------------------------------------------------------------------------------
-
+Was nun kam, passierte so schnell, dass niemand sah, wie es geschah:
+Einen Moment lang drückten sich Piers und Dudley ganz dicht gegen das Glas
+und im nächsten Moment sprangen sie unter Schreckgeheule zurück.
+What came next happened so fast no one saw how it happened — one
+second, Piers and Dudley were leaning right up close to the glass,
+the next, they had leapt back with howls of horror.
 ------------------------------------------------------------------------------------------
-
+Harry setzte sich auf und nun stockte ihm der Atem.
+Harry sat up and gasped; 
 ------------------------------------------------------------------------------------------
-
+Die Glasscheibe am Terrarium der Boa constrictor war verschwunden.
+the glass front of the boa constrictor's tank had vanished.
 ------------------------------------------------------------------------------------------
-
+Die große Schlange entrollte sich im Nu und schlängelte sich heraus auf den Boden.
+The great snake was uncoiling itself rapidly, slithering out onto the floor.
 ------------------------------------------------------------------------------------------
-
+- Im ganzen Reptilienhaus schrien die Menschen und rannten zu den Ausgängen.
+People throughout the reptile house screamed and started running for the exits.
 ------------------------------------------------------------------------------------------
-
+Als die Schlange an Harry vorbeiglitt, hätte er schwören können, dass eine leise,
+zischelnde Stimme sagte:
+»Brasilien, ich komme ... tschüsss, Amigo.«
+As the snake slid swiftly past him, Harry could have sworn a low,
+hissing voice said, “Brazil, here I come ... Thanksss, amigo.”
 ------------------------------------------------------------------------------------------
-
+Der Obertierpfleger des Reptilienhauses stand unter Schock.
+The keeper of the reptile house was in shock.
+------------------------------------------------------------------------------------------
+»Aber das Glas«, murmelte er ständig vor sich hin, »was ist
+aus dem Glas geworden?«
+“But the glass,” he kept saying, “where did the glass go?”
+------------------------------------------------------------------------------------------
+Der Zoodirektor persönlich brühte Tante Petunia eine Tasse
+starken, süßen Tee und überschlug sich mit seinen Entschuldigungen.
+The zoo director himself made Aunt Petunia a cup of strong,
+sweet tea while he apologized over and over again.
+------------------------------------------------------------------------------------------
+Piers und Dudley schnatterten nur noch.
+Piers and Dudley could only gibber.
+------------------------------------------------------------------------------------------
+Soweit Harry es gesehen hatte, hatte die Schlange nichts getan,
+außer im vorbeigleiten spielerisch gegen ihre Fersen zu
+schlenzen, doch als sie alle wieder in Onkel Vernons Wagen
+saßen, erzählte ihnen Dudley, die Schlange hätte ihm fast das
+Bein abgebissen, während Piers schwor, sie hätte versucht, ihn
+totzuquetschen. 
+As far as Harry had seen, the snake hadn't
+done anything except snap playfully at their heels as it passed, but
+by the time they were all back in Uncle Vernon's car, Dudley was
+telling them how it had nearly bitten off his leg, while Piers was
+swearing it had tried to squeeze him to death.
+------------------------------------------------------------------------------------------
+Doch am schlimmsten für Harry war, dass Piers, als er sich ein wenig beruhigt hatte,
+sagte: »Harry hat mit ihr gesprochen, nicht wahr, Harry?«
+But worst of all, for Harry at least, was Piers calming down enough to say,
+“Harry was talking to it, weren't you, Harry?”
+------------------------------------------------------------------------------------------
+Onkel Vernon wartete, bis Piers endgültig aus dem Haus war, bevor er sich
+Harry vorknöpfte.
+Uncle Vernon waited until Piers was safely out of the house before
+starting on Harry.
+------------------------------------------------------------------------------------------
+Er war so wütend, dass er kaum ein Wort hervorbrachte.
+He was so angry he could hardly speak.
+------------------------------------------------------------------------------------------
+»Geh - Schrank - bleib - kein Essen«, konnte er gerade noch herauswürgen,
+bevor er auf einem Stuhl zusammensackte und Tante Petunia ihm schleunigst einen
+großen Cognac bringen musste.
+He managed to say, “Go — cupboard — stay — no meals,” before he collapsed into
+a chair, and Aunt Petunia had to run and get him a large brandy.
+------------------------------------------------------------------------------------------
+Harry lag noch lange wach in seinem dunklen Schrank.
+Harry lay in his dark cupboard much later,
+------------------------------------------------------------------------------------------
+Hätte er doch nur eine Uhr.
+wishing he had a watch.
+------------------------------------------------------------------------------------------
+Er wusste nicht, wie spät es war, und er war sich nicht sicher, ob die Dursleys
+schon schliefen.
+He didn't know what time it was and he couldn't be sure the Dursleys
+were asleep yet.
+------------------------------------------------------------------------------------------
+Bis es so weit war, konnte er es nicht riskieren, in die Küche zu schleichen
+und sich etwas zu essen zu holen.
+Until they were, he couldn't risk sneaking to the kitchen for some food.
+------------------------------------------------------------------------------------------
+Fast zehn Jahre lebte er nun bei den Dursleys, solange er sich
+erinnern konnte, und es waren zehn elende Jahre gewesen.
+He'd lived with the Dursleys almost ten years, ten miserable
+years, as long as he could remember,
+------------------------------------------------------------------------------------------
+ever since he'd been a baby and his parents had died in that car crash.
+Schon als Baby war er zu ihnen gekommen, denn seine Eltern waren bei
+einem Autounfall gestorben.
+------------------------------------------------------------------------------------------
+Er konnte sich nicht erinnern, in diesem Auto gewesen zu sein, als der
+Unfall passierte.
+He couldn't remember being in the car when his parents had died.
+------------------------------------------------------------------------------------------
+Manchmal, wenn er sich während der langen Stunden im Schrank
+ganz angestrengt zu erinnern suchte, tauchte eine unheimliches
+Bild vor seinen Augen auf ein blendend heller Blitz aus grünem
+Licht und ein brennender Schmerz auf seiner Stirn.
+Sometimes, when he strained his memory during long hours in his cupboard,
+he came up with a strange vision: a blinding flash of green light and
+a burning pain on his forehead.
+------------------------------------------------------------------------------------------
+Das musste der Unfall gewesen sein, obwohl er sich nicht erklären konnte,
+wo all das grüne Licht herkam.
+This, he supposed, was the crash, though he couldn't imagine where all
+the green light came from.
+------------------------------------------------------------------------------------------
+Er konnte sich überhaupt nicht an seine Eltern erinnern.
+He couldn't remember his parents at all.
+------------------------------------------------------------------------------------------
+Onkel und Tante sprachen nie über sie, und natürlich war es ihm verboten,
+Fragen zu stellen.
+His aunt and uncle never spoke about them, and of course he was forbidden
+to ask questions.
+------------------------------------------------------------------------------------------
+Im Haus gab es auch keine Fotos von ihnen.
+There were no photographs of them in the house.
+------------------------------------------------------------------------------------------
+Als Harry noch Jünger gewesen war, hatte er immer und immer wieder von
+einem unbekannten Verwandten geträumt, der kommen und ihn mitnehmen würde,
+aber das war nie Wirklichkeit geworden; die Dursleys waren alles, was er
+noch an Familie hatte.
+When he had been younger, Harry had dreamed and dreamed of
+some unknown relation coming to take him away, but it had never
+happened; the Dursleys were his only family.
+------------------------------------------------------------------------------------------
+Doch manchmal hatte er den Eindruck (oder vielleicht die Hoffnung),
+dass Unbekannte auf der Straße ihn zu kennen schienen.
+Yet sometimes he thought (or maybe hoped) that strangers in the street
+seemed to know him.
+------------------------------------------------------------------------------------------
+Sehr merkwürdige Unbekannte waren das übrigens.
+Very strange strangers they were, too.
+------------------------------------------------------------------------------------------
+Einmal, als er mit Tante Petunia und Dudley beim Einkaufen war, hatte sich
+ein kleiner Mann mit einem violetten Zylinder vor ihm verneigt.
+A tiny man in a violet top hat had bowed to him once while out shopping
+with Aunt Petunia and Dudley.
+------------------------------------------------------------------------------------------
+Tante Petunia fragte Harry ganz entsetzt, ob er den Mann kenne,
+und schubste ihn und Dudley hastig aus dem Laden, ohne etwas zu kaufen.
+After asking Harry furiously if he knew the man, Aunt Petunia had rushed
+them out of the shop without buying anything.
+------------------------------------------------------------------------------------------
+Ein andermal hatte ihm eine wild aussehende, ganz in Grün gekleidete
+alte Frau im Bus fröhlich zugewinkt.
+A wild-looking old woman dressed all in green had waved merrily at him
+once on a bus.
+------------------------------------------------------------------------------------------
+Und ein glatzköpfiger Mann mit einem sehr langen, purpurnen Umhang hatte
+ihm doch tatsächlich mitten auf der Straße die Hand geschüttelt und
+war dann ohne ein Wort zu sagen weitergegangen.
+A bald man in a very long purple coat had actually shaken his hand
+in the street the other day and then walked away without a word.
+------------------------------------------------------------------------------------------
+Das Seltsamste an all diesen Leuten war, dass sie zu verschwinden schienen,
+wenn Harry versuchte sie genauer anzusehen.
+The weirdest thing about all these people was the way they seemed to vanish
+the second Harry tried to get a closer look.
+------------------------------------------------------------------------------------------
+In der Schule hatte Harry niemanden.
+At school, Harry had no one.
+------------------------------------------------------------------------------------------
+Jeder wusste, dass Dudleys Bande diesen komischen Harry Potter mit seinen
+ausgebeulten alten Klamotten und seiner zerbrochenen Brille nicht ausstehen
+konnte, und niemand mochte Dudleys Bande in die Quere kommen.
+Everybody knew that Dudley's gang hated that odd Harry Potter in his baggy
+old clothes and broken glasses, and nobody liked to disagree with Dudley's
+gang.
 ------------------------------------------------------------------------------------------

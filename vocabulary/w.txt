@@ -170,6 +170,10 @@ Wasser /ˈvasɐ/, das: water
 
 Wasserwerfer, der: water cannon
 
+watscheln /ˈvaːʧəln/: to waddle 搖搖擺擺地走
+  Wir haben die Enten beobachtet, wie sie über die Straße gewatschelt sind.
+  We watched the ducks waddling across the road.
+
 Wechsel /ˈvɛksəl/, der: change
   Beim Wechsel der Fahrspur übersah er das Motorrad.
   He didn't see the motorcyle when changing lanes.
@@ -364,6 +368,17 @@ wenigstens /ˈveːnɪçstəns/: at least
   You could at least have let me know!
   Das ist natürlich Pech, aber wenigstens ist nichts Schlimmeres passiert.
   That is of course bad luck, but at least nothing more serious happened.
+
+wenn /vɛn/: if, when
+  Ich komme dich besuchen, wenn ich Zeit habe.
+  I'll come and visit you if I have time.
+  Komm heim, wenn es dunkel wird.
+  Come home when it gets dark.
+  Wenn ich dich doch sehen könnte!
+  If only I could see you!
+  wenn auch …: albeit / even if
+  Er hat mir geholfen, wenn auch widerwillig.
+  He helped me, albeit reluctantly.
 
 wer /veːɐ/: who, whoever
   Wer mitkommen will, soll sich melden.
@@ -576,9 +591,28 @@ Wind /vɪnt/, der, -(e)s|-e: wind
 Windel /ˈvɪndəl/, die, -n: diaper
   einem Baby die Windel wechseln: to change a baby's diaper
 
+winden /ˈvɪndən/: to make, to bind, to twine, to wind
+  aus einem Draht eine Schlinge winden: to twine a piece of wire into a loop
+  Sie wand sich die Leine um das Handgelenk.
+  She wound the cord around her wrist.
+  Er wand sich durch das Gitter.
+  He wriggled through the bars.
+  Sie wand sich unter seinem prüfenden Blick.
+  She squirmed under his searching gaze.
+  Ein schmaler Pfad wand sich durchs Tal.
+  A narrow path wound its way through the valley.
+
+Windung /ˈvɪndʊŋ/, die, ~|-en: bend, coil
+  Die Straße führt in zahlreichen Windungen ins Tal hinab.
+  The road winds its way down into the valley.
+
 Wipfel /ˈvɪpfəl/, der: treetop
   Das Eichhörnchen springt von Wipfel zu Wipfel.
   The squirrel is jumping from treetop to treetop.
+
+winken /ˈvɪŋkən/: to wave
+  Sie winkte uns zum Abschied.
+  She waved goodbye to us.
 
 wirken /ˈvɪrkən/: to have an effect, to work, to seem
   Die Tabletten beginnen zu wirken.
@@ -659,6 +693,7 @@ Wodka /ˈvɔtka/, der, -s: vodka
 
 woher /voˈheːɐ/: from where
   Woher kommt er?
+  das Land, woher er kommt: the country which he comes from
 
 Wohl /voːl/, das, -(e)s|uncountable: welfare
   um jds Wohl besorgt sein: to be concerned about sb's welfare
@@ -749,6 +784,9 @@ Wrack /vrak/, das, -(e)s|-s: wreck(age)
 wuchern /ˈvuːxɐn/: to run wild
   Im Garten wucherte das Unkraut.
   The weeds were running wild in the garden.
+
+wund /vʊnt/: sore, raw
+  sich [ dative ] die Finger wund schreiben: to write your fingers to the bone
 
 wundern /ˈvʊndɐn/: to be surprised, to surprise
   sich über jdn / etw. wundern: to be surprised at/about sb/sth

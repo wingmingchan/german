@@ -38,6 +38,8 @@ rangeln /ˈraŋəln/: to wrestle, to scuffle
 
 ranghöher: senior
 
+rann => rinnen
+
 rar /raːɐ/: rare
   Solche schönen Tage sind im November rar.
   Such beautiful days are rare in November.
@@ -555,6 +557,10 @@ Ring /rɪŋ/, der, Ringe: ring
   jdm/sich einen Ring an den Finger stecken
   to put a ring on sb's/your finger 
 
+rinnen /ˈrɪnən/: to run, to fall
+  Schweiß rann ihm über die Stirn.
+  Sweat was running down his forehead.
+
 Rippe /ˈrɪpə/, die, -n: rib
 
 riskieren /rɪsˈkiːrən/: to risk
@@ -672,6 +678,15 @@ rügen /ˈryːɡən/: to reprimand, to criticize
   The teacher criticized her laziness.
 
 Ruhe /ˈruːə/, die: calm, calmness, placidness, quiet, repose, rest, tranquillity
+
+ruhen /ˈruːən/: to (take a) rest, to have stopped, to be at a standstill
+  nach dem Essen etwas ruhen: to take a little rest after a/the meal
+  Hier ruht …: Here lies …
+  Ruhe in Frieden!
+  Rest in peace.
+  die Arbeit / Waffen ruhen lassen: to stop work/lay down your weapons
+  Sein Blick ruhte nachdenklich auf ihr.
+  His gaze rested thoughtfully on her.
 
 ruhig /ˈruːɪç/: quiet, calm, still
 

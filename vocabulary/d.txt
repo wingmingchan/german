@@ -447,6 +447,12 @@ donnernd: thunderous
 
 Donnerstag /ˈdɔnɐstaːk/, der, -(e)s|-e
 
+doof /doːf/: dumb, stupid
+  Er ist zu doof, das zu kapieren.
+  He's too dumb to understand that.
+  So ein doofes Wetter!
+  What stupid weather!
+
 doppelt /ˈdɔpəlt/: double
   die doppelte Menge: double the amount
 
@@ -469,6 +475,9 @@ Dose /ˈdoːzə/, die, -n: canister, can
 Dotter /ˈdɔtɐ/, der-das, -: yolk
   => Eigelb
   Dotter und Eiweiß trennen: to separate the yolk from the egg white
+
+dösen /ˈdøːzən/: to doze
+  im Schatten liegen und dösen: to lie dozing in the shade
 
 *Drache /ˈdraxə/, der, -n: dragon
   ein feuerspeiender Drache: a fire-breathing dragon
@@ -576,6 +585,9 @@ drucken /ˈdrʊkən/: to print
 
 drücken /ˈdrʏkən/: to push, to press
   (auf) die Austaste drücken: to press the off button
+  jdm die Hand drücken: to squeeze sb's hand
+  jdn / etw. an sich drücken: to hug sb/sth
+  sich an jdn / etw. drücken: to snuggle up to sb/to squeeze up against sth
 
 Drucker /ˈdrʊkɐ/: jd, der in einer Druckerei arbeitet
   Drucker ist ein aussterbender Beruf.

@@ -32,6 +32,8 @@ ebenso /ˈeːbənzoː/: just as
 
 Eber /ˈeːbɐ/, der: boar
 
+Echse /ˈɛksə/, die, ~|-n: lizard
+
 echt /ɛçt/: genuine, real
   Schmuck aus echtem Gold: genuine gold jewelry
   Das ist echte Freundschaft.
@@ -596,6 +598,8 @@ einstürzen /ˈainʃtʏrʦən/: to collapse
   Das alte Haus ist unter der Schneelast eingestürzt.
   The old house collapsed under the weight of the snow.
 
+eintauchen: to dip, to immerse, merge
+
 eintippen /ˈaintɪpən/: to key in, to type
   seine Geheimzahl eintippen: to enter your PIN
 
@@ -706,6 +710,11 @@ Elefant /eləˈfant/, der, -en: elephant
   the African/Indian elephant
 
 Elektrogerät, das: electrical appliance
+
+elend /ˈeːlɛnt/: miserable, wretched, horrible, terrible
+  in einer elenden Hütte wohnen: to live in a wretched shack
+  Ist das ein elender Stress!
+  This is incredibly stressful, isn't it?
 
 elf /ɛlf/: eleven
 
@@ -876,6 +885,8 @@ entnehmen /ɛntˈneːmən/: to take, to extract, to remove
   (aus) etw. etw. entnehmen: to infer sth from sth
   Ich entnahm seinen Worten, dass die Entscheidung bereits gefallen war.
   I inferred from his words that the decision had already been taken.
+
+entrollen: unroll
 
 entschärfen /ɛntˈʃɛrfən/: to defuse, to disarm
 
@@ -1260,7 +1271,6 @@ Erleichterung /ɛɐˈlaiçtərʊŋ/, die, ~|-en: relief
   Voller Erleichterung stellte er fest, dass das Geld noch da war.
   To his great relief he found that the money was still there.
   
-
 erleiden /ɛɐˈlaidən/: to suffer, to sustain
   Sie musste in ihrer Jugend viel Schlimmes erleiden.
   In her youth she suffered many terrible things.
@@ -1348,6 +1358,8 @@ erringen /ɛɐˈrɪŋən/: to achieve
 erschaffen /ɛɐˈʃafən/: to create
   Gott erschuf die Welt und den Menschen.
   God created the world and humankind.
+
+erschallen: to ring out, to sound
 
 erscheinen /ɛɐˈʃainən/: to turn up, to appear, to be published, to seem
 
