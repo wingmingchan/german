@@ -102,7 +102,7 @@ Ratschlag /ˈraːtʃlaːk/, der: piece of advice
   Auf solche Ratschläge kann ich verzichten!
   I can do without advice like that!
 
-Rätsel /ˈrɛːʦəl/, das, -: puzzle, riddle, mystery
+Rätsel /ˈrɛːʦəl/, das, -s|~: puzzle, riddle, mystery
   Ich gebe dir ein Rätsel auf: …
   I've got a riddle for you: …
   in Rätseln sprechen: to speak in riddles
@@ -375,7 +375,7 @@ rein /rain/: pure
   Out of sheer appreciation for his help she paid off his debts.
 
 reinhauen /ˈrainhauən/
-  jdm eine reinhauen: to sock sb one
+  jdm eine reinhauen: to sock sb one (to punch someone very hard)
   Ich hau dir eine rein, wenn du nicht gleich still bist!
   I'm going to sock you one if you don't shut up right now!
 
@@ -443,6 +443,8 @@ rennen /ˈrɛnən/: to run, to race
 Renner /ˈrɛnɐ/, der, -: big hit
   Das neue Video der Band ist der Renner / ist ein echter Renner!
   The new video of the band is a big hit!
+
+Rennrad: racer
 
 renovieren /renoˈviːrən/: to renovate
 
