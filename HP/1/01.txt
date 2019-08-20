@@ -350,11 +350,11 @@ Er konnte auch Harvey heißen.
 It might have been Harvey. Or Harold.
 他的名字可能是 Harvey，也可能是 Harold。
 ------------------------------------------------------------------------------------------
-Es hatte keinen Sinn, Mrs. Dursley zu beunruhigen, sie geriet immer so außer
+Es hatte keinen Sinn, Mrs. Dursley zu beunruhigen, sie geriet [geraten] immer so außer
 sich, wenn man ihre Schwester auch nur erwähnte.
 There was no point in worrying Mrs. Dursley; she always got so upset at any
 mention of her sister.
-沒有必要讓 Dursley 太太煩心；但凡有人提到她妹妹，她就非常生氣。
+沒有必要讓 Dursley 太太煩心；只要有人提到她妹妹，她就非常生氣。
 ------------------------------------------------------------------------------------------
 Er machte ihr deswegen keinen Vorwurf - wenn er eine solche Schwester hätte.
 Und dennoch, diese Leute in den Umhängen ...
@@ -363,8 +363,8 @@ the same, those people in cloaks ...
 這也不能怪她，要是他自己有這麼一個妹妹 ... 可是啊，那些穿披風的人 ...
 ------------------------------------------------------------------------------------------
 An diesem Nachmittag fiel es ihm um einiges schwerer, seine Gedanken auf die Bohrer
-zu richten, und als er das Büro um fünf Uhr verließ, war er immer noch so voller
-Sorge, dass er beim ersten Schritt nach draußen gleich mit Jemandem
+zu richten, und als er das Büro um fünf Uhr verließ [verlassen], war er immer noch
+so voller Sorge, dass er beim ersten Schritt nach draußen gleich mit Jemandem
 zusammenprallte.
 He found it a lot harder to concentrate on drills that afternoon
 and when he left the building at five o'clock, he was still so worried
@@ -422,7 +422,7 @@ He also thought he had been called a Muggle, whatever that was.
 ------------------------------------------------------------------------------------------
 Völlig durcheinander eilte er zu seinem Wagen und fuhr nach Hause.
 He was rattled. He hurried to his car and set off for home,
-他感到不安了，匆匆上了車，上路回家，
+他被搞糊塗了，匆匆上了車，上路回家，
 ------------------------------------------------------------------------------------------
 Er hoffte, sich diese Dinge nur einzubilden, und das war neu für ihn, denn von
 Einbildungskraft Welt er normalerweise gar nichts.
@@ -466,7 +466,8 @@ Er versuchte sich zusammenzureißen und öffnete die Haustür.
 Trying to pull himself together, he let himself into the house.
 他試圖讓自己鎮定一下，才進了家門。
 ------------------------------------------------------------------------------------------
-Immer noch war er entschlossen, nichts von alledem seiner Frau zu sagen.
+Immer noch war er entschlossen [determined], nichts von alledem
+seiner Frau zu sagen.
 He was still determined not to mention anything to his wife.
 他打定主意，在太太跟前，不提任何事情。
 ------------------------------------------------------------------------------------------
@@ -489,7 +490,7 @@ in den Abendnachrichten ansah.
 When Dudley had been put to bed, he went into the living room in time to catch
 the last report on the evening news:
 ------------------------------------------------------------------------------------------
-»Und hier noch eine Meldung.
+»Und hier noch eine Meldung [report].
 Wie die Vogelkundler im ganzen Land berichten, haben sich unsere Eulen heute
 sehr ungewöhnlich verhalten.
 “And finally, bird-watchers everywhere have reported that the nation's owls

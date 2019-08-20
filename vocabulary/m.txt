@@ -223,9 +223,6 @@ meiden /ˈmaidən/: to avoid
 
 Meile /ˈmailə/, die: mile
 
-Memoiren /memoˈaːrən/, pl: memoirs
-  seine Memoiren schreiben: to write your memoirs
-
 meinen /ˈmainən/: to think, to mean, to intend, to mean, to say
   Seine Eltern meinen, dass er mehr im Haushalt helfen sollte.
   His parents think that he should help around the house more.
@@ -275,6 +272,9 @@ Meldung /ˈmɛldʊŋ/, die, ~|-en: report, piece of news
   Bei der Polizei ging eine Meldung über einen Unfall ein.
   The police received a report of an accident.
   seine Meldung zu einem Wettkampf zurückziehen: to withdraw from a competition
+
+Memoiren /memoˈaːrən/, pl: memoirs
+  seine Memoiren schreiben: to write your memoirs
 
 Menge /ˈmɛŋə/, die, ~|-n: amount, quantity
   eine geringe Menge Wasser zugeben: to add a small amount of water
