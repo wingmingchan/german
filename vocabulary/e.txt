@@ -218,6 +218,16 @@ Einbildung /ˈainbɪldʊŋ/, die, ~|-en: imagination, illusion, fancy
   Alle ihre Leiden sind reine Einbildung.
   All her ailments are a figment of her imagination.
 
+eingebracht => einbringen
+
+einbringen /ˈainbrɪŋən/: to bring in, to earn, to introduce, to submit, to contribute
+  Diese Arbeit bringt nicht viel ein.
+  This work isn't very lucrative.
+  Die Grünen haben diese Gesetzesvorlage im Bundestag eingebracht.
+  The Green Party introduced this bill in the German Bundestag.
+  Der neue Mitarbeiter hat viele gute Ideen eingebracht.
+  The new employee contributed a lot of good ideas.
+
 einchecken /ˈainʧɛkən/: to check in
   <=> auschecken
 
