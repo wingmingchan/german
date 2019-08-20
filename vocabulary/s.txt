@@ -786,6 +786,8 @@ Schrott /ʃrɔt/, der: scrap, garbage
   Im Fernsehen kommt wieder nur Schrott!
   There's just garbage on TV again.
 
+Schublade /ˈʃuːplaːdə/, die, ~|-n: drawer
+
 Schubs /ʃʊps/, der: shove, push
   Sie gab dem Schlitten einen Schubs, sodass er sich in Bewegung setzte.
   She gave the sled a push to get it moving.
@@ -1949,6 +1951,7 @@ Störung /ˈʃtøːrʊŋ/, die, ~|-en: disturbance, disruption, fault
   Schizophrenia is a psychological disorder.
 
 stoßen /ˈʃtoːsən/: to push, to shove, to strike, to bump, to jerk
+  stieß, gestoßen
   jdn ins Wasser stoßen: to push sb into the water
   jdm ein Messer in den Rücken stoßen: to plunge a knife into sb's back
   mit dem Kopf an die Decke stoßen: to bump your head on the ceiling
@@ -1987,6 +1990,11 @@ Straftäter /ˈʃtraːftɛːtɐ/: offender, criminal
 Strahl /ʃtraːl/, der, -(e)s|-en: beam, ray, jet
   den Strahl der Taschenlampe auf jdn / etw. richten
   to direct the beam of the flashlight onto sb/sth
+
+Strähne /ˈʃtrɛːnə/, die, ~|-n: strand (of hair), run, streak
+  Eine Strähne hing ihr ins Gesicht.
+  A strand of hair hung over her face.
+  eine Glückssträhne / Pechsträhne haben: to have a run of good/bad luck
 
 Strand /ʃtrant/, der: flaches Ufer am Meer, beach
 

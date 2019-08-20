@@ -474,6 +474,8 @@ herausputzen: to dress up
 
 herauswürgen: regurgitate
 
+herausziehen: to pull out
+
 herb /hɛrp/, bitter, sour, dry
   Der Wein ist ein wenig herb.
   The wine's a bit dry.

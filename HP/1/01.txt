@@ -541,7 +541,7 @@ next week, folks!
 Aber ich kann Ihnen für heute eine regnerische Nacht versprechen.«
 But I can promise a wet night tonight.”
 ------------------------------------------------------------------------------------------
-Mr. Dursley saß starr wie ein Eiszapfen in seinem Sessel [armchair].
+Mr. Dursley saß starr [rigid] wie ein Eiszapfen in seinem Sessel [armchair].
 Mr. Dursley sat frozen in his armchair.
 ------------------------------------------------------------------------------------------
 Sternschnuppen über ganz Großbritannien?
@@ -550,7 +550,7 @@ Shooting stars all over Britain?
 Eulen, die bei Tage flogen?
 Owls flying by daylight?
 ------------------------------------------------------------------------------------------
-Allerorten geheimnisvolle Leute in sonderbarer Kleidung?
+Allerorten geheimnisvolle Leute in sonderbarer [strange] Kleidung?
 Mysterious people in cloaks all over the place?
 ------------------------------------------------------------------------------------------
 Und ein Tuscheln, ein Tuscheln über die Potters ...
@@ -572,7 +572,7 @@ He cleared his throat nervously.
 gehört, oder?«
 “Er — Petunia, dear — you haven't heard from your sister lately, have you?”
 ------------------------------------------------------------------------------------------
-Wie er befürchtet hatte, blickte ihn Mrs. Dursley entsetzt [horrified]
+Wie er befürchtet [to fear] hatte, blickte ihn Mrs. Dursley entsetzt [horrified]
 und wütend an.
 As he had expected, Mrs. Dursley looked shocked and angry. 
 ------------------------------------------------------------------------------------------
@@ -601,7 +601,8 @@ town today ...”
 Mrs. Dursley nippte mit geschürzten Lippen an ihrem Tee.
 Mrs. Dursley sipped her tea through pursed lips.
 ------------------------------------------------------------------------------------------
-Konnte er es wagen, ihr zu sagen, dass er den Namen »Potter« gehört hatte?
+Konnte er es wagen [to risk], ihr zu sagen, dass er den Namen »Potter« gehört
+hatte?
 Mr. Dursley wondered whether he dared tell her he'd heard the name “Potter.”
 ------------------------------------------------------------------------------------------
 Nein, das konnte er nicht.
@@ -627,8 +628,8 @@ age now, wouldn't he?”
 »Ja, da bin ich ganz deiner Meinung.«
 “Yes, I quite agree.”
 ------------------------------------------------------------------------------------------
-Bis es Zeit zum Schlafen war und sie nach oben gingen, verlor er kein Wort
-mehr darüber.
+Bis es Zeit zum Schlafen war und sie nach oben gingen, verlor [verlieren, to lose]
+er kein Wort mehr darüber.
 He didn't say another word on the subject as they went upstairs to bed.
 ------------------------------------------------------------------------------------------
 Während Mrs. Dursley im Bad war, schlich sich Mr. Dursley zum Schlafzimmerfenster
@@ -649,20 +650,20 @@ Konnte all dies etwas mit den Potters zu tun haben?
 Could all this have anything to do with the Potters?
 ------------------------------------------------------------------------------------------
 Wenn es so war ... und wenn herauskäme, dass sie verwandt waren mit einem
-Paar von - nein, das würde er einfach nicht ertragen können.
+Paar von - nein, das würde er einfach nicht ertragen [to bear] können.
 If it did ... if it got out that they were related to a pair of — well, he
 didn't think he could bear it.
 ------------------------------------------------------------------------------------------
 Die Dursleys gingen zu Bett.
 The Dursleys got into bed.
 ------------------------------------------------------------------------------------------
-Mrs. Dursley schlief rasch ein, doch Mr. Dursley lag wach und wälzte alles
+Mrs. Dursley schlief rasch ein, doch Mr. Dursley lag wach und wälzte [to roll] alles
 noch einmal im Kopf hin und her.
 Mrs. Dursley fell asleep quickly but Mr. Dursley lay awake, turning it all
 over in his mind.
 Dursley 太太很快就睡著了，可 Dursley 先生卻睡不著，腦子裏翻來覆去想著今天的事兒，
 ------------------------------------------------------------------------------------------
-Bevor er einschlief, kam ihm ein letzter, tröstender Gedanke.
+Bevor er einschlief, kam ihm ein letzter, tröstender [comforting] Gedanke.
 His last, comforting thought before he fell asleep
 在他睡著以前，最後一個讓他稍感安慰的想法是，
 ------------------------------------------------------------------------------------------
@@ -672,14 +673,16 @@ was that even if the Potters were involved, there was no reason for them to come
 near him and Mrs. Dursley.
 Potter 一家就是牽涉其中了，他們也沒有理由接近他跟 Dursley 太太。
 ------------------------------------------------------------------------------------------
-Die Potters wussten sehr wohl, was Petunia von ihnen und ihresgleichen hielt ... 
+Die Potters wussten sehr wohl, was Petunia von ihnen und ihresgleichen
+hielt [halten, to think] ... 
 The Potters knew very well what he and Petunia thought about them and their
 kind ...
 Potter 他們太清楚了，他跟 Petunia 對他們、以及他們那一類人有什麼看法。
 ------------------------------------------------------------------------------------------
-Er konnte sich nicht denken, wie er und Petunia in irgendetwas hineingeraten
-sollten, was dort draußen vor sich ging - er gähnte und drehte sich auf
-die Seite - damit würden er und seine Frau Jedenfalls nichts zu tun haben ...
+Er konnte sich nicht denken, wie er und Petunia in irgendetwas
+hineingeraten [to get caught] sollten, was dort draußen vor sich ging -
+er gähnte und drehte sich auf die Seite - damit würden er und seine Frau
+Jedenfalls nichts zu tun haben ...
 He couldn't see how he and Petunia could get mixed up in anything that might
 be going on — he yawned and turned over — it couldn't affect them ...
 不管外頭發生什麼事情，他不認為他跟 Petunia 會牽連其中 ... 他打了個哈欠，翻過身子 ... 他們
@@ -695,7 +698,7 @@ Mr. Dursley might have been drifting into an uneasy sleep, but the cat
 on the wall outside was showing no sign of sleepiness.
 ------------------------------------------------------------------------------------------
 Sie saß noch immer da wie eine Statue, die Augen ohne zu blinzeln
-auf die weiter entfernte Ecke des Ligusterwegs gerichtet.
+auf die weiter entfernte Ecke des Ligusterwegs gerichtet [richten, to focus].
 It was sitting as still as a statue, its eyes fixed unblinkingly on the far corner
 of Privet Drive.
 ------------------------------------------------------------------------------------------
@@ -723,8 +726,8 @@ Nothing like this man had ever been seen on Privet Drive.
 Privet Drive 從來沒見過這樣的人，
 ------------------------------------------------------------------------------------------
 Er war groß, dünn und sehr alt, Jedenfalls der silbernen Farbe seines Haares
-und Bartes nach zu schließen, die beide so lang waren, dass sie in seinem Gürtel
-steckten.
+und Bartes nach zu schließen [judging by], die beide so lang waren, dass sie
+in seinem Gürtel steckten.
 He was tall, thin, and very old, judging by the silver of his hair and
 beard, which were both long enough to tuck into his belt.
 高高瘦瘦，年紀很大，這可以從他銀白的頭髮、鬍子看得出來；他的毛髮長得可以栓在腰帶裏。
@@ -749,7 +752,7 @@ This man's name was Albus Dumbledore.
 ------------------------------------------------------------------------------------------
 Albus Dumbledore schien nicht zu bemerken, dass er soeben [just]
 in einer Straße aufgetaucht war, in der alles an ihm, von seinem
-Namen bis zu seinen Stiefeln, keineswegs willkommen war.
+Namen bis zu seinen Stiefeln, keineswegs [not at all] willkommen war.
 Albus Dumbledore didn't seem to realize that he had just arrived
 in a street where everything from his name to his boots was unwelcome.
 他好像沒意識到，他剛現身於這條街上，在這兒，從他的名字，到他的靴子，都是不受歡迎的；
@@ -865,7 +868,7 @@ vorbeigekommen sein.«
 I must have passed a dozen feasts and parties on my way here.”
 來這兒的路上，我碰上了十來個慶祝晚宴、派對呢！”
 ------------------------------------------------------------------------------------------
-Verärgert schnaubte Professor McGonagall durch die Nase.
+Verärgert schnaubte [to snort] Professor McGonagall durch die Nase.
 Professor McGonagall sniffed angrily.
 McGonagall 老師生氣地抽鼻子。
 ------------------------------------------------------------------------------------------
@@ -920,7 +923,7 @@ He never had much sense.”
 “We've had precious little to celebrate for eleven years.”
 “十一年來，值得慶祝的事兒少之又少。”
 ------------------------------------------------------------------------------------------
-»Das weiß ich«, sagte Professor McGonagall gereizt.
+»Das weiß ich«, sagte Professor McGonagall gereizt [irritated].
 “I know that,” said Professor McGonagall irritably.
 “這個我知道，” McGonagall 老師惱怒地説。
 ------------------------------------------------------------------------------------------
@@ -941,7 +944,7 @@ She threw a sharp, sideways glance at Dumbledore here, as
 though hoping he was going to tell her something,
 說到這兒，她從側面凌厲地瞟了 Dumbledore 一眼，好像是希望他會告訴她一些情況；
 ------------------------------------------------------------------------------------------
-Doch er schwieg, und sie fuhr fort:
+Doch er schwieg [schweigen], und sie fuhr fort:
 but he didn't, so she went on.
 而他卻沒接話茬兒，她只好繼續說：
 ------------------------------------------------------------------------------------------
@@ -988,7 +991,7 @@ she didn't think this was the moment for lemon drops.
 ------------------------------------------------------------------------------------------
 »Wie ich schon sagte, selbst wenn Du-weißt-schon-wer wirklich fort ist -«
 “As I say, even if You-Know-Who has gone —”
-“像我說的，儘管你知道是誰消失了，”
+“像我說的，儘管'你知道是誰'消失了，”
 ------------------------------------------------------------------------------------------
 »Mein lieber Professor, eine vernünftige Person wie Sie kann ihn doch sicher
 beim Namen nennen?
@@ -1000,7 +1003,7 @@ Der ganze Unsinn mit >Du-weißt-schon-wer< - seit elf Jahren versuche ich die Le
 dazu zu bringen, ihn bei seinem richtigen Namen zu nennen: Voldemort.«
 All this 'You-Know-Who' nonsense — for eleven years I have been trying to persuade
 people to call him by his proper name: Voldemort.”
-老說你知道是誰一類的話，太荒謬了 ... 十一年來，我不斷勸大家，對他直呼其名： Voldemort。”
+老說'你知道是誰'一類的話，太荒謬了 ... 十一年來，我不斷勸大家，對他直呼其名： Voldemort。”
 ------------------------------------------------------------------------------------------
 Professor McGonagall zuckte zurück, doch Dumbledore, der zwei weitere Bonbons
 aus der Tüte fischte, schien davon keine Notiz zu nehmen.
@@ -1128,7 +1131,7 @@ Dumbledore streckte die Hand aus und klopfte ihr sanft auf die Schultern.
 Dumbledore reached out and patted her on the shoulder.
 Dumbledore 把手伸過來，輕輕拍了拍她的肩膀。
 ------------------------------------------------------------------------------------------
-»Ich weiß ... ich weiß ...«, sagte er mit belegter Stimme.
+»Ich weiß ... ich weiß ...«, sagte er mit belegter [hoarse] Stimme.
 “Iknow ... I know ...” he said heavily.
 “我知道 ... 我知道 ...” 他沉重地說。
 ------------------------------------------------------------------------------------------
@@ -1189,8 +1192,8 @@ Professor McGonagall pulled out a lace handkerchief and
 dabbed at her eyes beneath her spectacles.
 McGonagall 老師掏出一塊蕾絲手帕，輕輕地在眼鏡下面擦眼睛。
 ------------------------------------------------------------------------------------------
-Dumbledore zog eine goldene Uhr aus der Tasche und gab ein langes Schniefen von
-sich. 
+Dumbledore zog eine goldene Uhr aus der Tasche und gab ein langes
+Schniefen [sniff] von sich. 
 Dumbledore gave a great sniff as he took a golden watch from his pocket
 and examined it.
 Dumbledore 一面大聲的抽鼻子，一面從口袋裏掏出一塊金懷錶，仔細地查看。
@@ -1313,9 +1316,8 @@ Berühmt für etwas, an das er sich nicht einmal erinnern wird!
 Famous for something he won't even remember!
 因爲一些連他自己都不記得的事兒而出名！
 ------------------------------------------------------------------------------------------
-Sehen Sie nicht, wie viel besser es für ihn wäre,
-wenn er weit weg von alledem aufwächst, bis er bereit ist, es zu
-begreifen [understand]?«
+Sehen Sie nicht, wie viel besser es für ihn wäre, wenn er weit weg von alledem
+aufwächst, bis er bereit ist, es zu begreifen [understand]?«
 Can't you see how much better off he'll be, growing up away from all that
 until he's ready to take it?”
 難道您還不明白，如果他能在遠離這一切的環境中長大，直到他能面對這些，不是對他更好嗎？”
@@ -1324,7 +1326,7 @@ Professor McGonagall öffnete den Mund, änderte ihre Meinung, schluckte
 und sagte: »Ja-ja, Sie haben Recht, natürlich.
 Professor McGonagall opened her mouth, changed her mind,
 swallowed, and then said, “Yes — yes, you're right, of course.
-McGonagall 老師張了張嘴，嚥了嚥唾沫，然後說：“對，對！當然，您說得對。
+McGonagall 老師張了張嘴，改變了主意，嚥了嚥唾沫，接著說：“對，對！當然，您說得對。
 ------------------------------------------------------------------------------------------
 Doch wie kommt der Junge hierher, Dumbledore?«
 But how is the boy getting here, Dumbledore?”
@@ -1356,7 +1358,7 @@ so tun, als ob er besonders umsichtig wäre.
 McGonagall grudgingly, “but you can't pretend he's not careless.
 “我也不是說他沒有這份心；” McGonagall 老師不情願地說，“可是，您也不能否認，他很粗心，
 ------------------------------------------------------------------------------------------
-Er neigt dazu - was war das?«
+Er neigt [tend to] dazu - was war das?«
 He does tend to — what was that?”
 老出 ... 這是什麼聲音？”
 ------------------------------------------------------------------------------------------
@@ -1365,7 +1367,7 @@ A low rumbling sound had broken the silence around them.
 一陣低沉的隆隆聲打破了四周的寂靜，
 ------------------------------------------------------------------------------------------
 Immer lauter wurde es, und sie schauten links und rechts die
-Straße hinunter, ob vielleicht ein Scheinwerfer auftauchte.
+Straße hinunter, ob vielleicht ein Scheinwerfer [headlight] auftauchte.
 It grew steadily louder as they looked up and down the street for
 some sign of a headlight;
 聲音越來越響；他們把目光轉到街上，到處尋找像車頭燈的跡象。
@@ -1377,7 +1379,7 @@ it swelled to a roar as they both looked up at the sky — and a huge motorcycle
 fell out of the air and landed on the road in front of them.
 聲響最後變成了轟鳴，他們抬頭望向天空，看著一輛巨大的摩托車從天而降，落在了他們面前的路上。
 ------------------------------------------------------------------------------------------
-Schon das Motorrad war gewaltig, doch nichts im Vergleich
+Schon das Motorrad war gewaltig [huge], doch nichts im Vergleich
 zu dem Mann, der breitbeinig darauf saß.
 If the motorcycle was huge, it was nothing to the man sitting
 astride it.
@@ -1413,13 +1415,13 @@ In his vast, muscular arms he was holding a bundle of blankets.
 “At last. And where did you get that motorcycle?”
 “終於來了。上哪兒找來的摩托車？”
 ------------------------------------------------------------------------------------------
-»Hab es geborgt, Professor Dumbledore, Sir«, sagte der
+»Hab es geborgt [borgen, to borrow], Professor Dumbledore, Sir«, sagte der
 Riese und kletterte [to climb] vorsichtig von seinem Motorrad.
 “Borrowed it, Professor Dumbledore, sir,” said the giant, climbing
 carefully off the motorcycle as he spoke.
 “先生，是借來的，Dumbledore 老師，” 巨人一面從摩托車上小心地下來，一面回答說。
 ------------------------------------------------------------------------------------------
-»Der Junge Sirius Black hat es mir geliehen.
+»Der Junge Sirius Black hat es mir geliehen [leihen, to loan].
 “Young Sirius Black lent it to me.
 “是 Sirius Black 那小伙子借我的。
 ------------------------------------------------------------------------------------------
@@ -1502,7 +1504,8 @@ have been a very scratchy, whiskery kiss.
 他朝 Harry 低下了碩大的、毛髮蓬亂的頭，給了 Harry 一個必定是紮人的、怪癢癢的
 吻；
 ------------------------------------------------------------------------------------------
-Dann, plötzlich, stieß Hagrid ein Heulen wie ein verletzter Hund aus.
+Dann, plötzlich, stieß Hagrid ein Heulen wie ein verletzter Hund
+aus [ausstoßen, to emit].
 Then, suddenly, Hagrid let out a howl like a wounded dog.
 接著，突如其來地，發出了一聲像狗受傷的嗥叫。
 ------------------------------------------------------------------------------------------
