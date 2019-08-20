@@ -323,7 +323,7 @@ came back from the telephone looking both angry and worried.
 Sie kann ihn nicht nehmen.
 She can't take him.”«
 ------------------------------------------------------------------------------------------
-Unwirsch nickte sie mit dem Kopf in Harrys Richtung.
+Unwirsch [brusque] nickte sie mit dem Kopf in Harrys Richtung.
 She jerked her head in Harry's direction.
 ------------------------------------------------------------------------------------------
 Dudley klappte vor Schreck der Mund auf, doch Harrys Herz
@@ -346,14 +346,14 @@ mad old lady who lived two streets away.
 Harry hasste es, dorthin zu gehen.
 Harry hated it there.
 ------------------------------------------------------------------------------------------
-Das ganze Haus roch nach Kohl, und Mrs. Figg bestand darauf
-dass er sich die Fotos aller Katzen ansah, die sie Je besessen
+Das ganze Haus roch [riechen, to smell] nach Kohl, und Mrs. Figg bestand
+darauf dass er sich die Fotos aller Katzen ansah, die sie Je besessen
 hatte.
 The whole house smelled of cabbage and Mrs. Figg made him look at
 photographs of all the cats she'd ever owned.
 ------------------------------------------------------------------------------------------
 »Und nun?«, sagte Tante Petunia und sah Harry so zornig
-an, als hätte er persönlich diese Unannehmlichkeit ausgeheckt.
+an, als hätte er persönlich diese Unannehmlichkeit ausgeheckt [to cook up].
 “Now what?” said Aunt Petunia, looking furiously at Harry as
 though he'd planned this.
 ------------------------------------------------------------------------------------------
@@ -372,7 +372,7 @@ before he had to look at Tibbies, Snowy, Mr. Paws, and Tufty again.
 “Don't be silly, Vernon, she hates the boy.”
 ------------------------------------------------------------------------------------------
 Die Dursleys sprachen oft über Harry, als ob er gar nicht da
-wäre - oder vielmehr, als ob er etwas ganz Widerwärtiges wäre,
+wäre - oder vielmehr, als ob er etwas ganz Widerwärtiges [disgusting] wäre,
 das sie nicht verstehen konnten, eine Schnecke vielleicht.
 The Dursleys often spoke about Harry like this, as though he
 wasn't there — or rather, as though he was something very nasty
@@ -381,11 +381,11 @@ that couldn't understand them, like a slug.
 »Was ist mit Wie-heißt-sie-noch-mal, deine Freundin-Yvonne?«
 “What about what's-her-name, your friend — Yvonne?”
 ------------------------------------------------------------------------------------------
-»Macht Ferien auf Mallorca«, sagte Tante Petunia barsch.
+»Macht Ferien auf Mallorca«, sagte Tante Petunia barsch [brusque].
 “On vacation in Majorca,” snapped Aunt Petunia.
 ------------------------------------------------------------------------------------------
 »Ihr könntet mich einfach hier lassen«, schlug Harry
-hoffnungsvoll vor (dann konnte er zur Abwechslung mal
+hoffnungsvoll vor (dann konnte er zur Abwechslung [diversion] mal
 fernsehen, was er wollte, und sich vielleicht sogar einmal aber
 Dudleys Computer hermachen).
 “You could just leave me here,” Harry put in hopefully (he'd be
@@ -395,7 +395,7 @@ even have a go on Dudley's computer).
 Tante Petunia schaute, als hätte sie soeben in eine Zitrone gebissen.
 Aunt Petunia looked as though she'd just swallowed a lemon.
 ------------------------------------------------------------------------------------------
-»Und wenn wir zurückkommen, liegt das Haus in Trümmern?«. raunzte sie.
+»Und wenn wir zurückkommen, liegt das Haus in Trümmern?«. raunzte [to moan] sie.
 “And come back and find the house in ruins?” she snarled.
 ------------------------------------------------------------------------------------------
 »Ich werde das Haus schon nicht in die Luft Jagen«, sagte
@@ -407,8 +407,7 @@ Tante Petunia langsam, »... und ihn im Wagen lassen ...«
 “I suppose we could take him to the zoo,” said Aunt Petunia
 slowly, “... and leave him in the car ...”
 ------------------------------------------------------------------------------------------
-»Der Wagen ist neu, kommt nicht in Frage, dass er alleine
-drinbleibt ...«
+»Der Wagen ist neu, kommt nicht in Frage, dass er alleine drinbleibt ...«
 “That cars new, he's not sitting in it alone. . . .”
 ------------------------------------------------------------------------------------------
 Dudley begann laut zu weinen.
@@ -421,7 +420,8 @@ In fact, he wasn't really crying — it had been years since he'd really
 cried — but he knew that if he screwed up his face and wailed, his mother
 would give him anything he wanted.
 ------------------------------------------------------------------------------------------
-»Mein kleiner Duddybums, weine nicht, Mummy verdirbt dir den Geburtstag nicht!«
+»Mein kleiner Duddybums, weine nicht, Mummy verdirbt [verderben, to spoil]
+dir den Geburtstag nicht!«
 “Dinky Duddydums, don't cry, Mummy won't let him spoil
 your special day!” she cried, flinging her arms around him.
 ------------------------------------------------------------------------------------------
@@ -547,14 +547,12 @@ Aunt Petunia had decided it must have shrunk in the wash and, to his great relie
 Harry wasn't punished.
 ------------------------------------------------------------------------------------------
 Andererseits war er in schreckliche Schwierigkeiten geraten,
-weil man ihn eines Tages auf dem Dach der Schulküche
-gefunden hatte.
+weil man ihn eines Tages auf dem Dach der Schulküche gefunden hatte.
 On the other hand, he'd gotten into terrible trouble for being
 found on the roof of the school kitchens.
 ------------------------------------------------------------------------------------------
-Dudleys Bande hatte ihn wie üblich gejagt, als er
-auf einmal [suddenly], und zwar ebenso verdutzt wie alle ändern,
-auf dem Kamin saß. 
+Dudleys Bande hatte ihn wie üblich gejagt, als er auf einmal [suddenly],
+und zwar ebenso verdutzt [baffled] wie alle ändern, auf dem Kamin saß. 
 Dudley's gang had been chasing him as usual when, as much to Harry's
 surprise as anyone else's, there he was sitting on the chimney.
 ------------------------------------------------------------------------------------------
@@ -579,7 +577,7 @@ But today, nothing was going to go wrong.
 ------------------------------------------------------------------------------------------
 Um den Tag bloß nicht in der Schule, seinem Schrank oder in Mrs. Figgs nach
 Kohl riechendem Wohnzimmer verbringen zu müssen, nahm er
-sogar die Gesellschaft [company] von Dudley und Piers in Kauf.
+sogar die Gesellschaft [company] von Dudley und Piers in Kauf [to accept sth].
 It was even worth being with Dudley and Piers to be spending the day
 somewhere that wasn't school, his cupboard, or Mrs. Figg's cabbage-smelling
 living room.
@@ -600,15 +598,14 @@ Rowdys«, klagte er, als ein Motorrad sie überholte.
 “... roaring along like maniacs, the young hoodlums,” he said,
 as a motorcycle overtook them.
 ------------------------------------------------------------------------------------------
-»Ich habe von einem Motorrad geträumt«, sagte Harry, der
-sich plötzlich wieder daran erinnerte.
-“I had a dream about a motorcycle,” said Harry, remembering
-suddenly.
+»Ich habe von einem Motorrad geträumt«, sagte Harry, der sich plötzlich
+wieder daran erinnerte.
+“I had a dream about a motorcycle,” said Harry, remembering suddenly.
 ------------------------------------------------------------------------------------------
 »Es konnte fliegen.«
 “It was flying.”
 ------------------------------------------------------------------------------------------
-Onkel Vernon knallte beinahe in den Vordermann.
+Onkel Vernon knallte ˈbeinahe in den Vordermann.
 Uncle Vernon nearly crashed into the car in front.
 ------------------------------------------------------------------------------------------
 Er drehte sich auf seinem Sitz ganz nach hinten um, das Gesicht wie eine
@@ -660,9 +657,9 @@ blond.
 Es war Harrys bester Morgen seit langem.
 Harry had the best morning he'd had in a long time.
 ------------------------------------------------------------------------------------------
-Umsichtig ging er ein Stück hinter den Dursleys her, damit Dudley und Piers,
-die um die Mittagszeit anfingen sich zu langweilen, nicht wieder auf ihre
-Lieblingsbeschäftigung verfielen, nämlich Harry zu verhauen. 
+Umsichtig [prudent] ging er ein Stück hinter den Dursleys her, damit Dudley
+und Piers, die um die Mittagszeit anfingen sich zu langweilen, nicht wieder
+auf ihre Lieblingsbeschäftigung verfielen, nämlich Harry zu verhauen. 
 He was careful to walk a little way apart from the Dursleys so that Dudley
 and Piers, who were starting to get bored with the animals by
 lunchtime, wouldn't fall back on their favorite hobby of hitting
@@ -720,10 +717,10 @@ Onkel Vernon klopfte mit der Faust gegen das Glas, doch die Schlange rührte
 sich nicht.
 Uncle Vernon tapped on the glass, but the snake didn't budge.
 ------------------------------------------------------------------------------------------
-»Mach's noch einmal«, befahl Dudley.
+»Mach's noch einmal«, befahl [befehlen, to order] Dudley.
 “Do it again,” Dudley ordered.
 ------------------------------------------------------------------------------------------
-Onkel Vernon trommelte behände mit den Knöcheln auf das Glas, doch die
+Onkel Vernon trommelte behände [quickly] mit den Knöcheln auf das Glas, doch die
 Schlange schnarchte einfach weiter.
 Uncle Vernon rapped the glass smartly with his knuckles, but the snake just
 snoozed on.
@@ -731,7 +728,7 @@ snoozed on.
 »Wie langweilig«, klagte Dudley und schlurfte davon.
 “This is boring,” Dudley moaned. He shuffled away.
 ------------------------------------------------------------------------------------------
-Harry trat vor die Scheibe und ließ den Blick auf der Schlange ruhen.
+Harry trat vor die Scheibe und ließ den Blick auf der Schlange ruhen [to rest].
 Harry moved in front of the tank and looked intently at the snake.
 ------------------------------------------------------------------------------------------
 Es hätte ihn nicht überrascht, wenn auch sie vor Langeweile gestorben wäre -
@@ -777,7 +774,7 @@ rollte die Augen nach oben.
 The snake jerked its head toward Uncle Vernon and Dudley,
 then raised its eyes to the ceiling.
 ------------------------------------------------------------------------------------------
-Sie sah Harry mit einem Blick an, der eindeutig sagte:
+Sie sah Harry mit einem Blick an, der eindeutig [clear] sagte:
 »So was muss ich den ganzen Tag ertragen.«
 It gave Harry a look that said quite plainly: “I get that all the time.”
 ------------------------------------------------------------------------------------------
@@ -815,8 +812,8 @@ This specimen was bred in the zoo.
 »Oh, ich verstehe, du warst nie in Brasilien?«
 “Oh, I see — so you've never been to Brazil?”
 ------------------------------------------------------------------------------------------
-Die Schlange schüttelte den Kopf, und plötzlich erschallte hinter Harry ein
-ohrenbetäubendes Rufen, das sie beide zusammenzucken ließ: 
+Die Schlange schüttelte den Kopf, und plötzlich erschallte [to sound] hinter
+Harry ein ohrenbetäubendes Rufen, das sie beide zusammenzucken ließ: 
 »DUDLEY! MR. DURSLEY! KOMMT UND SEHT EUCH DIESE SCHLANGE AM DAS GLAUBT
 IHR NICHT, WAS DIE TUT!«
 As the snake shook its head, a deafening shout behind Harry made both of them jump.
@@ -860,7 +857,7 @@ hissing voice said, “Brazil, here I come ... Thanksss, amigo.”
 Der Obertierpfleger des Reptilienhauses stand unter Schock.
 The keeper of the reptile house was in shock.
 ------------------------------------------------------------------------------------------
-»Aber das Glas«, murmelte er ständig vor sich hin, »was ist
+»Aber das Glas«, murmelte er ständig [constantly] vor sich hin, »was ist
 aus dem Glas geworden?«
 “But the glass,” he kept saying, “where did the glass go?”
 ------------------------------------------------------------------------------------------
@@ -889,8 +886,8 @@ sagte: »Harry hat mit ihr gesprochen, nicht wahr, Harry?«
 But worst of all, for Harry at least, was Piers calming down enough to say,
 “Harry was talking to it, weren't you, Harry?”
 ------------------------------------------------------------------------------------------
-Onkel Vernon wartete, bis Piers endgültig aus dem Haus war, bevor er sich
-Harry vorknöpfte.
+Onkel Vernon wartete, bis Piers endgültig [final] aus dem Haus war, 
+bevor er sich Harry vorknöpfte.
 Uncle Vernon waited until Piers was safely out of the house before
 starting on Harry.
 ------------------------------------------------------------------------------------------
@@ -898,8 +895,8 @@ Er war so wütend, dass er kaum ein Wort hervorbrachte.
 He was so angry he could hardly speak.
 ------------------------------------------------------------------------------------------
 »Geh - Schrank - bleib - kein Essen«, konnte er gerade noch herauswürgen,
-bevor er auf einem Stuhl zusammensackte und Tante Petunia ihm schleunigst einen
-großen Cognac bringen musste.
+bevor er auf einem Stuhl zusammensackte und Tante Petunia ihm 
+schleunigst [immediately] einen großen Cognac bringen musste.
 He managed to say, “Go — cupboard — stay — no meals,” before he collapsed into
 a chair, and Aunt Petunia had to run and get him a large brandy.
 ------------------------------------------------------------------------------------------
@@ -919,21 +916,21 @@ und sich etwas zu essen zu holen.
 Until they were, he couldn't risk sneaking to the kitchen for some food.
 ------------------------------------------------------------------------------------------
 Fast zehn Jahre lebte er nun bei den Dursleys, solange er sich
-erinnern konnte, und es waren zehn elende Jahre gewesen.
+erinnern konnte, und es waren zehn elende [miserable] Jahre gewesen.
 He'd lived with the Dursleys almost ten years, ten miserable
 years, as long as he could remember,
 ------------------------------------------------------------------------------------------
-ever since he'd been a baby and his parents had died in that car crash.
 Schon als Baby war er zu ihnen gekommen, denn seine Eltern waren bei
 einem Autounfall gestorben.
+ever since he'd been a baby and his parents had died in that car crash.
 ------------------------------------------------------------------------------------------
 Er konnte sich nicht erinnern, in diesem Auto gewesen zu sein, als der
 Unfall passierte.
 He couldn't remember being in the car when his parents had died.
 ------------------------------------------------------------------------------------------
 Manchmal, wenn er sich während der langen Stunden im Schrank
-ganz angestrengt zu erinnern suchte, tauchte eine unheimliches
-Bild vor seinen Augen auf ein blendend heller Blitz aus grünem
+ganz angestrengt zu erinnern suchte, tauchte eine unheimliches [eerie]
+Bild vor seinen Augen auf ein blendend [dazzling] heller Blitz aus grünem
 Licht und ein brennender Schmerz auf seiner Stirn.
 Sometimes, when he strained his memory during long hours in his cupboard,
 he came up with a strange vision: a blinding flash of green light and
