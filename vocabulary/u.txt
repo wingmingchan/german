@@ -384,6 +384,13 @@ Umsetzung /ˈʊmzɛʦʊŋ/, die, -en: implementation
 Umsichtig /ˈʊmzɪçtɪç/: prudent
   eine umsichtige Angestellte: a prudent employee
 
+Umschlag /ˈʊmʃlaːk/, der, -(e)s|..e: envelope, cover, jacket, transfer, trans-shipment, (sudden) change
+  eine CD in einem wattierten Umschlag verschicken
+  to send a CD in a padded envelope
+  Der Hafen ist ein wichtiger Umschlagplatz.
+  The port is an important trans-shipment point.
+  Wetterumschlag: (sudden) change in the weather
+
 Umstand /ˈʊmʃtant/, der, -(e)s|..e: circumstance
   unter Umständen: perhaps
 

@@ -87,7 +87,7 @@ Halt /halt/, der: stop
 
 hält => halten
 
-halten /ˈhaltən/: to hold, to keep, to give, to deliver, to stop
+halten /ˈhaltən/: to hold, to keep, to give, to deliver, to stop, to think
   Sie hielt ein Glas in der Hand/das Baby auf dem Arm.
   She was holding a glass in her hand/the baby in her arm.
   Die nächste Stunde will unser Lehrer über Zugvögel halten.
@@ -294,7 +294,7 @@ Haustür, die: front door
   vor der Haustür: on one's doorstep
 
 Haut /haut/, die, ~|..e: skin
-  zarte/raue/empfindliche Haut haben
+  zarte / raue / empfindliche Haut haben
   to have delicate/rough/sensitive skin
 
 Hazienda /haˈtsjɛnda/, die, ~|-s/Hazienden: hacienda

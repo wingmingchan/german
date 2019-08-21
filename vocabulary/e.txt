@@ -491,6 +491,10 @@ Einnahme /ˈainnaːmə/, die, -n: revenue, income, takings
   Die Einnahme der belagerten Stadt stand kurz bevor.
   The capture of the besieged city was imminent.
 
+einprägen /ˈainprɛːɡən/: to memorize sth, to stamp, to make an impression on sb
+  Hast du dir den Weg auch gut eingeprägt?
+  Have you memorized the route carefully?
+
 Einrede, die: objection, protest, contradiction, defense
 
 einreichen /ˈainraiçən/: to file, to submit
@@ -644,6 +648,10 @@ Eintritt /ˈaintrɪt/, der: admission, entrance, entry
   Eintritt verboten!
   No entry.
 
+Einwand /ˈainvant/, der, -(e)s|..e: objection
+  Hat jemand einen Einwand gegen diesen Vorschlag?
+  Does anyone have any objections to this suggestion?
+
 Einweg-: disposable
   Einweg-Plastikflaschen
 
@@ -745,6 +753,9 @@ Eltern /ˈɛltɐn/: parents
 Elternhaus /ˈɛltɐnhaus/, das, ..er: parents' house, family home
   Mein Elternhaus steht in Hamburg.
   My parents' house is in Hamburg.
+
+Email /eˈmai/, das, -s|uncountable: enamel
+  Emailleschmuck: enamel jewelry
 
 emotional /emoʦjoˈnaːl/: emotional
   Ihre Reaktion war sehr emotional.
@@ -867,6 +878,8 @@ entgegen: toward, against
   der Strömung entgegen: against the current
   allen Erwartungen/den Ankündigungen entgegen
   against all expectations/contrary to announcements
+
+entgegenschlagen: to come swirling, to leap out
 
 entgegenstellen: to set against
 
@@ -1324,6 +1337,17 @@ ernst /ɛrnst/: serious, grave
   Ich wollte sie warnen, aber sie hat mich nicht ernst genommen.
   I tried to warn her but she didn't take me seriously.
 
+ernsthaft /ˈɛrnsthaft/: serious, genuine, grave
+  Man kann mit ihm kein ernsthaftes Gespräch führen.
+  You can't have a serious discussion with him.
+  Bestand denn überhaupt der ernsthafte Wille, sich zu einigen?
+  Was there even a genuine willingness to reach an agreement?
+  ein ernsthafter Anwärter auf den Titel: a serious contender for the title
+  Das ist kein ernsthaftes Hindernis für mich.
+  That's not a serious obstacle for me.
+  Ist es etwas Ernsthaftes?
+  Is it something serious?
+
 Ernte /ˈɛrntə/, die, -n: harvest
   bei der Ernte helfen: to help bring in the harvest
 
@@ -1336,7 +1360,7 @@ eröffnen /ɛɐˈ|œfnən/: to open, to disclose, to open up
   Hat das neue Schwimmbad schon eröffnet?
   Has the new swimming pool opened yet?
   Seine Tochter hat ihm gestern eröffnet, dass sie bald heiraten wird.
-  His daughter disclosed to him yesterday that she’s getting married soon.
+  His daughter disclosed to him yesterday that she's getting married soon.
   Diese Entwicklung eröffnete mir völlig neue Perspektiven.
   This development opened up new possibilities for me.
 

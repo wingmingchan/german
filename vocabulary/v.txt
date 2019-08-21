@@ -335,9 +335,11 @@ verhandeln /fɛɐˈhandəln/: to negotiate, to hear (a/the case)
   Ihr Fall wird morgen verhandelt.
   Your case will be heard tomorrow.
 
-Verhandlung /fɛɐˈhandlʊŋ/, die: negotiation
+Verhandlung /fɛɐˈhandlʊŋ/, die: negotiation, hearing
   Die Verhandlungen blieben leider ohne Ergebnis.
   Unfortunately the negotiations did not end in agreement.
+  Die Verhandlung wurde auf nächste Woche vertagt.
+  The hearing was postponed until next week.
 
 Verhandlungssache: object of (od matter for) negotiation
 
@@ -519,6 +521,10 @@ vermuten /fɛɐˈmuːtən/: to suspect, to assume
   Ich vermute, sie sind jetzt schon zu Hause.
   I suppose they must be home by now.
   Es ist / steht zu vermuten, dass …: Presumably …
+
+vermutlich /fɛɐˈmuːtlɪç/: presumed, probable
+  Ich komme vermutlich eine Stunde später.
+  I will probably be an hour late.
 
 Vermutung /fɛɐˈmuːtʊŋ/, die, ~|-en: assumption, suspicion
   Seine Vermutungen wurden bestätigt.

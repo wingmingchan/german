@@ -29,6 +29,8 @@ Dachboden /ˈdaxboːdən/, der, ..: attic, loft
 
 Dachrinne /ˈdaxrɪnə/, die: gutter
 
+Dachs /daks/, der, -es|-e: badger 獾
+
 dadurch /daˈdʊrç/: that way, thus
   Dadurch machst du alles nur noch schlimmer.
   You'll just make everything worse that way.
@@ -514,7 +516,8 @@ drängen /ˈdrɛŋən/: to push, throng
 
 drastisch /ˈdrastɪʃ/: strong, drastic
 
-drauf /drauf/: on it
+drauf /drauf/: on it/them
+  => darauf
 
 draußen /ˈdrausən/: outside
   Er war schon seit Tagen nicht mehr draußen.

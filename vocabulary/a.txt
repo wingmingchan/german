@@ -1007,6 +1007,9 @@ Anker /ˈaŋkɐ/, der, -s|~: anchor
 
 ankleben /ˈankleːbən/: to stick on
 
+anknacksen /ˈanknaksn/: to crack
+  sich (DAT) den Arm [Knöchel] anknacksen
+
 ankreuzen /ˈankrɔytsən/: to mark with a cross
   die passende Antwort ankreuzen
   to mark the correct answer with a cross 
@@ -1050,6 +1053,15 @@ anlegen /ˈanleːɡən/: to lay out, to set up, to invest
 
 Anleitung /ˈanlaitʊŋ/, die, -en: guidance, instruction
   unter Anleitung des Lehrers: under the guidance of a teacher
+
+anmelden /ˈanmɛldən/: to enroll, to register, to announce, to express, to declare
+  jdn / sich zu einem Sprachkurs anmelden
+  to enroll sb/to enroll for a language course
+  Hast du den Fernseher angemeldet?
+  Do you have a TV license?
+  seinen Besuch anmelden: at announce your visit
+  Möchte noch jemand Einwände anmelden?
+  Does anyone have any objections?
 
 Anmeldung /ˈanmɛldʊŋ/, die: enrollment, registration, application, registration form
 
@@ -1589,6 +1601,8 @@ aufgrund /aufˈɡrʊnt/: because of
 aufhalten /ˈaufhaltən/: to hold up, to stop, to detain
 
 aufheben /ˈaufheːbən/: to pick up, to keep, to overturn, to cancel
+  Was hast du da weggeworfen? Heb es wieder auf!
+  What was that you just threw away? Pick it up again.
   Das Flugverbot kann aufgehoben werden.
   The ban on flying can be lifted.
 
@@ -2154,6 +2168,17 @@ ausschmieren: to lubricate, to grease, to seal, to oil
 
 ausschenken: to sell (alcoholic drinks), to pour out, to serve
 
+ausschließen /ˈausʃliːsən/: to exclude, to leave out, to rule out, to lock out
+  einen Politiker aus einer Partei ausschließen: to expel a politician from a party
+  Die Öffentlichkeit ist von der Verhandlung ausgeschlossen.
+  The trial is not open to the public.
+  Brandstiftung als Ursache ausschließen können
+  to be able to rule our arson as the cause
+  Sonderangebote sind vom Umtausch ausgeschlossen.
+  Special offers cannot be exchanged.
+  Heute früh habe ich mich selbst ausgeschlossen.
+  I locked myself out this morning.
+
 ausschließlich /ˈausʃliːslɪç/: exclusively
   ein fast ausschließlich türkisches Publikum: an almost exclusively Turkish audience
 
@@ -2184,6 +2209,16 @@ aussehend
   eine blendend aussehende Dame: an extremely good-looking lady
   in verdächtig aussehendes Individuum: a suspicious(-looking) character
 
+aussetzen /ˈauszɛʦən/: to interrupt, to fail, to suspend, to abandon, to offer
+  etw. an jdm/etw. aussetzen: to find fault with sb/sth
+  Er hat ständig etwas an mir auszusetzen.
+  He finds fault with everything I do.
+
+Aussicht /ˈauszɪçt/, die, -en: view, prospect
+  ein Zimmer mit schöner Aussicht auf die Berge
+  a room with a wonderful view of the mountains
+  eine Karriere mit glänzenden Aussichten: a career with excellent prospects
+
 aussortieren: to sort out
 
 Aussprache /ˈausʃpraːxə/, die: pronunciation
@@ -2206,6 +2241,20 @@ ausstehen /ˈausʃteːən/: to loathe sb/sth, to suffer, to be outstanding
   The crisis in the aviation industry is over.
   Die Miete für den letzten Monat steht noch aus.
   Last month's rent is still owing.
+  jdn/etw. nicht ausstehen können
+  to loathe sb/sth
+
+aussteigen /ˈausʃtaiɡən/: to get out, disembark, to drop out
+  Sind die Passagiere schon alle ausgestiegen?
+  Have all the passengers exited already?
+  aus einem Vertrag aussteigen wollen
+  to want to back out of a contract
+
+Ausstellung /ˈausʃtɛlʊŋ/, die: exhibition
+  eine Ausstellung eröffnen: to open an exhibition
+
+Ausstieg /ˈausʃtiːk/, der: pullout, withdrawal, exit
+  den Ausstieg aus der Atomkraft fordern: to demand a pullout from nuclear energy
 
 ausstoßen /ˈausʃtoːsən/: to emit, to expel
   Sie stieß einen erleichterten Seufzer aus.
@@ -2228,73 +2277,6 @@ aussuchen /ˈauszuːxən/: to choose
   => auswählen
   Du hast dir diesen Beruf ausgesucht, jetzt jammere nicht.
   You chose this job, so stop whining.
-
-außen: out, outside
-
-außer /ˈausɐ/: except, besides, outside, out of, unless
-  täglich außer sonntags geöffnet
-  open daily except Sundays
-  Außer meiner Schwester kamen auch noch ihr Mann und ihre Kinder.
-  In addition to my sister, her husband and children were also there.
-  außer Sicht: out of sight
-  außer Gefahr sein: to be out of danger
-
-außerdem /ˈausɐdeːm/: besides, moreover
-  Außerdem werden neue Projekte vorgestellt.
-  New projects will also be presented.
-
-außerhalb: outside
-  außerhalb des Dorfes wohnen: to live outside of the village
-  außerhalb der Öffnungszeiten: outside business hours
-
-äußern /ˈɔysɐn/: to express
-  Möchten Sie noch einen Wunsch äußern?
-  Do you have any other wishes?
-  sich (über jdn / etw.) äußern, sich (zu etw.) äußern: to comment (on sb/sth)
-  Hat er sich zu den Vorwürfen geäußert?
-  Has he responded to the allegations?
-  Seine Unruhe äußerte sich in nervösen Zuckungen.
-  His restlessness could be seen in his nervous twitching.
-
-außerordentlich /ˈausɐ|ˈɔrdəntlɪç/: extraordinary, exceptional, special
-  ein außerordentliches Ereignis: an extraordinary event
-
-äußerst /ˈɔysɐst/: extremely
-
-Äußerung /ˈɔysərʊŋ/, die, ~|-en: statement
-  wegen rassistischer Äußerungen kritisiert werden: to be criticized for racist remarks
-
-Ausmaß /ˈausmaːs/, das, -es|-e: extent
-  eine Tragödie unvorstellbaren Ausmaßes
-  a tragedy of unimaginable proportions
-
-aussetzen /ˈauszɛʦən/: to interrupt, to fail, to suspend, to abandon, to offer
-  etw. an jdm/etw. aussetzen: to find fault with sb/sth
-  Er hat ständig etwas an mir auszusetzen.
-  He finds fault with everything I do.
-
-Aussicht /ˈauszɪçt/, die, -en: view, prospect
-  ein Zimmer mit schöner Aussicht auf die Berge
-  a room with a wonderful view of the mountains
-  eine Karriere mit glänzenden Aussichten: a career with excellent prospects
-
-aussteigen /ˈausʃtaiɡən/: to get out, disembark, to drop out
-  Sind die Passagiere schon alle ausgestiegen?
-  Have all the passengers exited already?
-  aus einem Vertrag aussteigen wollen
-  to want to back out of a contract
-
-ausstehen /ˈausʃteːən/
-  jdn/etw. nicht ausstehen können
-  to loathe sb/sth
-
-Ausstellung /ˈausʃtɛlʊŋ/, die: exhibition
-  eine Ausstellung eröffnen: to open an exhibition
-
-Ausstieg /ˈausʃtiːk/, der: pullout, withdrawal, exit
-  den Ausstieg aus der Atomkraft fordern: to demand a pullout from nuclear energy
-
-ausstrahlen /ˈausʃtraːlən/: to broadcast
 
 austapezieren
   => tapezieren: to wallpaper
@@ -2380,6 +2362,41 @@ ausziehen /ˈausʦiːən/: to take off, to move out
   She left home at 17.
   Das Sofa kann man ausziehen und als Gästebett benutzen.
   The couch can be converted for use as a spare bed.
+
+außen: out, outside
+
+außer /ˈausɐ/: except, besides, outside, out of, unless
+  täglich außer sonntags geöffnet
+  open daily except Sundays
+  Außer meiner Schwester kamen auch noch ihr Mann und ihre Kinder.
+  In addition to my sister, her husband and children were also there.
+  außer Sicht: out of sight
+  außer Gefahr sein: to be out of danger
+
+außerdem /ˈausɐdeːm/: besides, moreover
+  Außerdem werden neue Projekte vorgestellt.
+  New projects will also be presented.
+
+außerhalb: outside
+  außerhalb des Dorfes wohnen: to live outside of the village
+  außerhalb der Öffnungszeiten: outside business hours
+
+äußern /ˈɔysɐn/: to express
+  Möchten Sie noch einen Wunsch äußern?
+  Do you have any other wishes?
+  sich (über jdn / etw.) äußern, sich (zu etw.) äußern: to comment (on sb/sth)
+  Hat er sich zu den Vorwürfen geäußert?
+  Has he responded to the allegations?
+  Seine Unruhe äußerte sich in nervösen Zuckungen.
+  His restlessness could be seen in his nervous twitching.
+
+außerordentlich /ˈausɐ|ˈɔrdəntlɪç/: extraordinary, exceptional, special
+  ein außerordentliches Ereignis: an extraordinary event
+
+äußerst /ˈɔysɐst/: extremely
+
+Äußerung /ˈɔysərʊŋ/, die, ~|-en: statement
+  wegen rassistischer Äußerungen kritisiert werden: to be criticized for racist remarks
 
 Auto /ˈauto/, das, -s|-s: car
 

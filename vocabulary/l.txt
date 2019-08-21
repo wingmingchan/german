@@ -162,6 +162,18 @@ langweilig /ˈlaŋvailɪç/: boring
   Der Film war so langweilig, dass ich eingeschlafen bin.
   The movie was so boring that I fell asleep.
 
+Lappen /ˈlapən/, der, -s|~: cloth
+  den Tisch mit einem feuchten Lappen abwischen
+  to wipe the table with a damp cloth
+  jdm durch die Lappen gehen: to give sb the slip, to slip through sb's fingers
+  Er ist der Polizei wieder durch die Lappen gegangen.
+  He gave the police the slip again.
+  Das lasse ich mir nicht durch die Lappen gehen.
+  I'm not going to let it slip through my fingers.
+  => Führerschein
+  seinen Lappen abgeben müssen
+  to have to hand over your driver's license
+
 Lapsus /ˈlapsʊs/, der, ~|~: mistake
 
 Laptop /ˈlɛptɔp/, der, -s|-s
@@ -612,7 +624,9 @@ losen /ˈloːzən/: to draw lots
 lösen /ˈløːzən/: to solve, to loosen, to buy, to remove
   Das Problem hat sich von selbst gelöst.
   The problem resolved itself.
-  
+
+loslachen: burst out laughing
+
 loslegen /ˈloːsleːɡən/: to make a start (on sth)
   Wir können gleich mit der Arbeit loslegen.
   We can make a start on the work straightaway.
@@ -665,6 +679,8 @@ Lulatsch /ˈluːla(ː)tʃ/, der
   langer Lulatsch: beanpole
 
 Lümmel, der: lout, rascal, willy, dick
+
+Lumpen /ˈlʊmpən/, der, -s|~: cloth
 
 Lunge /ˈlʊŋə/, die, ~|-n: lung
   eine Lungenentzündung: a lung infection

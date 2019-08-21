@@ -14,6 +14,9 @@ wachen /ˈvaxən/: to watch over, to keep watch
 Wacholder /vaˈxɔldɐ/, der, -: juniper 杜松子
   Wacholderbeeren: juniper berries
 
+Wachs /vaks/, das, -es|uncountable: wax
+  echte Bienenwachskerzen: real beeswax candles
+
 wachsen /ˈvaksən/: to grow
 
 wächst => wachsen 
@@ -134,6 +137,12 @@ wanken /ˈvaŋkən/: to sway, to stagger, to totter, to waver
   Ihr Weltbild war ins Wanken geraten.
   Her world view had begun to waver.
 
+Wappen /ˈvapən/, das, -s|~: coat of arms
+  Auf dem Wappen von Berlin ist ein Bär abgebildet.
+  There is a bear on the coat of arms of Berlin.
+
+Wappenschild, der: blazon, escu(t)cheon, shield
+
 ward (poet) => werden
 
 Ware /ˈvaːrə/, die, -n: product, article, goods
@@ -251,6 +260,11 @@ weiblich /ˈvaiplɪç/: female
 weich /vaiç/: soft, soft-boiled, soft-hearted
   <=> hart
   Gemüse weich kochen: to boil vegetables until cooked through 
+
+weichen /ˈvaiçən/: to move, to give way
+  wich, gewichen
+  Die alten Häuser mussten einem großen Parkplatz weichen.
+  The old houses had to make way for a large parking lot.
 
 weigern /ˈvaiɡɐn/: to refuse
   Sie weigerte sich, den Boden zu wischen.
@@ -497,6 +511,16 @@ widerlich /ˈviːdɐlɪç/: disgusting, repugnant
   ein widerlicher Geschmack: a disgusting taste
   Er hat sich ihr gegenüber widerlich benommen.
   He has behaved disgustingly toward her.
+
+widersprechen /viːdɐˈʃprɛçən/: to contradict, to reject, to be at odds with
+  jdm energisch widersprechen: to vehemently contradict sb
+  sich ( selbst) widersprechen [ dative ]: to contradict yourself
+  Merkst du nicht, dass du dir ständig widersprichst?
+  Don't you realize that you keep contradicting yourself?
+  Der Aufsichtsrat hat den Vorschlägen des Vorstands widersprochen.
+  The supervisory board rejected the board of directors' proposals.
+  Das widerspricht meiner bisherigen Erfahrung.
+  That is at odds with my experience so far.
 
 Widerstand /ˈviːdɐʃtant/, der, ..e: resistance, opposition
   Er leistete bei der Verhaftung keinen Widerstand.

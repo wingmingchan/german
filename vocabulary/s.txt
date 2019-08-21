@@ -872,7 +872,7 @@ Schuss, Schüssen, der: gun shot
 
 Schuss /ʃʊs/, Schüsse, der: shot
 
-Schüssel /ˈʃʏsəl/, die, -n: bowl
+Schüssel /ˈʃʏsəl/, die, -n: bowl, basin
   den Salat in einer Schüssel anrichten: to prepare the salad in a bowl
 
 schütteln /ˈʃʏtəln/: to shake
@@ -979,6 +979,7 @@ Schwimmbad /ˈʃvɪmbaːt/, das, Schwimmbäder: swimming pool
   ins Schwimmbad gehen: to go to the swimming pool 
 
 schwimmen /ˈʃvɪmən/: to swim
+  schwimme, schwamm, geschwommen
 
 schwindelerregend: dizzy
 
@@ -1217,6 +1218,9 @@ sie: she, it, they
 
 Sieg /ziːk/, der: victory, win
   einen Sieg gegen jdn erringen: to be victorious over sb
+
+Siegel /ˈziːɡəl/, das, -s|~: seal
+  das Siegel an einem Brief aufbrechen: to break the seal on a letter
 
 siegeln /ˈziːɡəln/: to seal
 
@@ -1549,6 +1553,10 @@ sprudelnd: bubbly, fizzy
 sprühen /ˈʃpryːən/: to spray
   Sie sprühte sich Deo unter die Achseln.
   She sprayed deodorant under her arms.
+
+Spüle /ˈʃpuːlə/, die, ~|-n: sink unit
+  eine Spüle mit zwei Spülbecken und Abtropffläche
+  a sink unit with two sinks and a drainboard
 
 spülen /ˈʃpyːlən/: to wash, to rinse, to flush
 

@@ -377,6 +377,10 @@ Festung /ˈfɛstʊŋ/, die, ~|-en: fortress, stronghold
 Fett /fɛt/, das, -e: fat, grease
   das Fett von der Suppe abschöpfen: to skim the fat off the soup
 
+Fetzen /ˈfɛʦən/, der, -s|~: scrap, shred
+  Er riss ihren Brief in kleine Fetzen.
+  He tore her letter into shreds.
+
 Feuchtigkeit /ˈfɔʏçtɪçkait/, die: dampness, moisture
   eine Feuchtigkeitscreme für die Haut: a moisturizing cream for the skin
 
@@ -958,8 +962,15 @@ funktionieren /fʊŋkʦjoˈniːrən/: to function, to work
 für
   Tag für Tag: day after day
 
+furchtbar /ˈfʊrçtbaːɐ/: awful, dreadful, terrible
+  Dort herrscht eine furchtbare Hungersnot.
+  They are afflicted by a terrible famine there.
+  furchtbaren Durst haben: to be terribly thirsty
+
 fürchten /ˈfʏrçtən/: to be afraid of, to fear
   ein gefürchteter Gegnera: formidable opponent
+
+fürchterlich /ˈfʏrçtɐlɪç/: furchtbar
 
 Fürst /fʏrst/, Fürstin, Fürsten: prince
   Fürst Rainier von Monaco: Prince Rainier of Monaco
