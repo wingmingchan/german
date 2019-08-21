@@ -32,6 +32,7 @@ Waffe /ˈvafə/, die: weapon
 Wagen /ˈvaːɡən/, der: cart, car
 
 wagen: to dare, to venture, to risk
+  wage, wagte, gewagt
   Sie wagte den Sprung in die Selbstständigkeit.
   She dared to make the leap to independence.
   Ich würde jederzeit mein Leben für dich wagen.
@@ -751,6 +752,8 @@ Wollust /ˈvɔlʊst/, die, Wollüste /ˈvɔlʏstə/: lust
 wollüstig /ˈvɔlʏstɪç/: lustful
 
 womöglich /voˈmøːklɪç/: possibly
+  Womöglich war das die falsche Entscheidung.
+  That was possibly the wrong decision.
 
 wonach /voˈnaːx/: what … after, after what
   Wonach suchen Sie?

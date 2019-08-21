@@ -868,6 +868,8 @@ entgegen: toward, against
   allen Erwartungen/den Ankündigungen entgegen
   against all expectations/contrary to announcements
 
+entgegenstellen: to set against
+
 enthalten /ɛntˈhaltən/: to contain, to hold, to include
   Das Wasser hier enthält viel Kalk.
   The water here is very hard.
@@ -878,7 +880,9 @@ enthüllen /ɛntˈhʏlən/: to reveal
   Die Fahnder enthüllten Anschlagspläne der terroristischen Vereinigung.
   The investigators revealed plans by the terrorist organization for an attack.
 
-entgegenstellen: to set against
+entkommen /ɛntˈkɔmən/: to escape, to get away
+  Sie ist ihren Verfolgern entkommen.
+  She escaped from her pursuers.
 
 entlang: along
   eine Radtour die Donau entlang/entlang der Donau
@@ -1327,10 +1331,14 @@ erobern /ɛɐˈ|oːbɐn/: to conquer, to seize, to win, to capture
   Das Dorf wurde von den Wikingern erobert.
   The village was conquered by the Vikings.
 
-eröffnen /ɛɐˈ|œfnən/: to open
+eröffnen /ɛɐˈ|œfnən/: to open, to disclose, to open up
   ein neues Einkaufszentrum eröffnen: to open a new shopping mall
   Hat das neue Schwimmbad schon eröffnet?
   Has the new swimming pool opened yet?
+  Seine Tochter hat ihm gestern eröffnet, dass sie bald heiraten wird.
+  His daughter disclosed to him yesterday that she’s getting married soon.
+  Diese Entwicklung eröffnete mir völlig neue Perspektiven.
+  This development opened up new possibilities for me.
 
 Eröffnung /ɛɐˈ|œfnʊŋ/, die: opening
   die Eröffnung des neuen Sportzentrums: the opening of a new sports center

@@ -366,6 +366,15 @@ Reihe /ˈraiə/, die: row, line, ranks
 Reihenfolge /ˈraiənfɔlɡə/, die, -n: sequence, order
   eine Liste in alphabetischer Reihenfolge: a list in alphabetical order
 
+Reim /raim/, der, -(e)s|-e: rhyme
+  einen guten Reim finden: to find a good rhyme
+  ein beliebter Abzählreim für Kinderspiele
+  a popular counting-out rhyme for children's games
+  sich auf etw. einen Reim machen können [ dative, accusative ]: 
+  to be able to make sense of sth
+  Ich kann mir auf ihr Verhalten einfach keinen Reim machen.
+  I just can't make sense of her behavior.
+
 rein /rain/: pure
   ein reines Weiß: a pure white
   Sortenreiner Kaffee ist selten und edel.
@@ -440,6 +449,7 @@ Rendite /rɛnˈdiːtə/, die, -e: yield, return
   eine jährliche Rendite von 6 % abwerfen / erzielen: to bring in an annual return of 6%
 
 rennen /ˈrɛnən/: to run, to race
+  renne, rannte, gerannt
   Sie musste um ihr Leben rennen.
   She had to run for her life.
 

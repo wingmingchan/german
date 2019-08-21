@@ -755,6 +755,11 @@ gerundet: rounded
 
 gesammelt: collected
 
+Gesamt-: total
+  der Gesamtbetrag der Ausgaben: the total sum of the expenditures
+
+Gesamtschule /ɡəˈzamtʃuːlə/, die, ~|-n: comprehensive/integrated school
+
 Gesang /ɡəˈzaŋ/, der, -(e)s|..e: singing, song
   der wunderschöne Gesang der Nachtigall: the wonderful singing of the nightingale
   geistliche Gesänge: spiritual songs

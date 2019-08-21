@@ -146,6 +146,8 @@ Kassenzettel /ˈkasənʦɛtəl/, der, -: receipt, sales slip
 Kastanie /kasˈtaːnjə/, die: chestnut
   Kastanienbaum, Kastanienbäume: chestnut trees
 
+kastanienbraun: maroon, chestnut
+
 Kasten /ˈkastən/, der, ..: box, case, crate
   ein Kasten Bier: a crate of beer
 
@@ -473,8 +475,9 @@ klirrend /ˈklɪrənt/: bitter
   => eisig
   klirrende Kälte: bitter cold 
 
-Klo /kloː/, das, -s: toilet
+Klo /kloː/, das, -s|-s: toilet
   eine Rolle Klopapier: a roll of toilet paper
+  aufs Klo gehen / müssen: to go/have to go to the john
 
 klopfen /ˈklɔpfən/: to knock, to pat, to tap, to pound, to tenderize, to hammer
   an die / der Tür klopfen: to knock on/at the door
@@ -555,6 +558,9 @@ Knopf /knɔpf/, der, -(e)s|..e: button, knob
   den richtigen Knopf drücken: to press the right button
   Dieser Schlingel hat auf alle Klingelknöpfe gedrückt.
   That rascal rang all the doorbells.
+
+knorrig /ˈknɔrɪç/: gnarled
+  eine knorrige alte Eiche: a gnarled old oak
 
 Knoten /ˈknoːtən/, der, -s|~: knot, lump
   einen doppelten Knoten machen: to tie a double knot
@@ -899,6 +905,8 @@ kreisen /ˈkraizən/: to circle
   They passed a bottle around.
   mit etw. kreisen: to move sth around in a circle
   mit den Armen / dem Kopf kreisen: to move your arms/head around in a circle
+
+Kreissäge, die: boater
 
 kreuz und quer: all over
   mit dem Auto kreuz und quer durch die Stadt fahren

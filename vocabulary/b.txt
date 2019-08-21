@@ -59,6 +59,8 @@ Bakterien /bakˈteːrjən/, pl
 
 bald /balt/: soon
 
+baldig: early
+
 Balken /ˈbalkən/, der: beam
 
 Balkon /balˈkɔŋ/, der, -e/-s: balcony
@@ -863,6 +865,13 @@ beschließen /bəˈʃliːsən/: to decide, to resolve, to pass, to end
   Lass uns den Abend bei einem Glas Wein beschließen.
   Let's finish off the evening with a glass of wine.
 
+beschmieren /bəˈʃmiːrən/: to spread, to soil, to besmirch, to scrawl on, to deface, to scribble
+  ein Brot mit Marmelade beschmieren: to spread jelly on a piece of bread
+  Die Kinder haben sich / ihre Hosen mit Farbe beschmiert.
+  The children have gotten paint all over themselves/paint on their trousers.
+  Der Junge hat die Tapete beschmiert.
+  The boy scrawled on the wallpaper.
+
 Beschränkung /bəˈʃrɛŋkʊŋ/, die, -en: restriction
   die Beschränkung der Redezeit auf 5 Minuten: limiting speaking time to 5 minutes
   jdm / sich Beschränkungen auferlegen: to impose restrictions on sb/yourself
@@ -946,6 +955,10 @@ bespitzeln /bəˈʃpɪʦəln/: to spy on
 besprechen /bəˈʃprɛçən/: to discuss, to consult, to review
   das weitere Vorgehen eingehend besprechen
   to have detailed discussions about the next steps
+
+Besprechung /bəˈʃprɛçʊŋ/, die, ~|-en: meeting
+  Mein Kollege ist momentan in einer Besprechung.
+  My colleague is at a meeting right now.
 
 bestätigen /bəˈʃtɛːtɪɡən/: to confirm
   Die Zahlen bestätigten die Schätzungen der Experten.
@@ -1048,7 +1061,7 @@ Beton /beˈtɔŋ/, der, -s|uncountable: concrete
 betrachten /bəˈtraxtən/: to look at, to consider, to observe
   ein Kunstwerk eingehend betrachten: to view an art work in detail
 
-Betrag /bəˈtraːk/, der, ..e: amount, sum
+Betrag /bəˈtraːk/, der, -(e)s|..e: amount, sum
   Beträge in Millionenhöhe: seven-figure amounts
 
 betragen /bəˈtraːɡən/: to be, to amount to, to behave
@@ -1406,7 +1419,14 @@ Blaskapelle, die: brass band
 
 Blasmusik: brass musik
 
-blass /blas/: pale
+blass /blas/: pale, faint
+  Du bist ja ganz blass. Bist du krank?
+  You look really pale. Are you ill?
+  ein blasses Gelb: a pale yellow
+  Ich habe keine blasse Ahnung, was du meinst.
+  I haven't the faintest idea what you mean.
+  Die Serie ist nur ein blasser Abklatsch des englischen Vorbilds.
+  The series is just a poor imitation of the English original.
 
 Blatt /blat/, das, Blätter /ˈblɛtɐ/: page, leaf, paper
   ein leeres Blatt: a blank page

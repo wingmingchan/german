@@ -365,6 +365,13 @@ Schild, der, -e: shield
 schildern /ˈʃɪldɐn/: to describe
   jdm die Situation schildern: to describe the situation to sb
 
+Schimmer /ˈʃɪmɐ/, der, -s|uncountable: glimmer, gleam, shimmer, flicker, trace
+  im Schimmer der Sterne: by the glimmer of the stars
+  der sanfte Schimmer ihrer Augen: the gentle gleam of her eyes
+  In der Luft lag ein erster zarter Frühlingsschimmer.
+  There was a first gentle hint of spring in the air.
+  keinen blassen Schimmer haben: not to have a clue
+
 schimpfen /ˈʃɪmpfən/: to moan/complain (about), to tell off
   über / auf die Regierung schimpfen
   to complain about the government
@@ -544,7 +551,7 @@ Schmatz /ʃmaʦ/, der, -es|-e: smacker
   Sie gab ihm einen dicken Schmatz auf die Backe.
   She gave him a big smacker on the cheek.
 
-schmecken: to taste, to like
+schmecken /ˈʃmɛkən/: to taste, to like
   Hat's geschmeckt?
 
 schmeicheln /ˈʃmaiçəln/: to flatter
@@ -846,6 +853,8 @@ Schulpflicht /ˈʃuːlpflɪçt/, die, |uncountable: compulsory school attendance
 Schulter /ˈʃʊltɐ/, die, ~|-n: shoulder
   ein Mann mit breiten Schultern: a man with broad shoulders
   mit den Schultern zucken: to shrug your shoulders
+
+Schuluniform, die: school uniform
 
 Schurke /ˈʃʊrkə/: villain
   Spielen Sie im Film lieber den Helden oder den Schurken?
@@ -1902,6 +1911,11 @@ stochern /ˈʃtɔxɐn/: to poke
   Das Kind stocherte lustlos mit der Gabel im Essen.
   The child poked at his food with his fork without much enthusiasm.
 
+Stock /ʃtɔk/, der, -(e)s|..e: stick, story
+  ein alter Mann, der am Stock geht: an old man who walks with a stick
+  Er wohnt im zehnten Stock eines Hochhauses.
+  He lives on the eleventh floor of a high rise.
+
 stocken /ˈʃtɔkən/: to falter, to come to a halt, to be interrupted
   Die Verhandlungen kamen ins Stocken.
   The negotiations ground to a halt.
@@ -1930,6 +1944,11 @@ stolpern /ˈʃtɔlpɐn/: to stumble, to trip
 stolz /ʃtɔlʦ/: proud
   Sie ist stolze Besitzerin einer Jacht.
   She is the proud owner of a yacht.
+
+stolzieren /ʃtɔlˈʦiːrən/: to strut 高視闊步
+  Die Models stolzieren über den Laufsteg.
+  The models are strutting along the catwalk.
+  herumstolzieren / umherstolzieren
 
 stopfen /ˈʃtɔpfən/: to stuff sth into sth
   Er stopfte das Geld hastig in seine Taschen.

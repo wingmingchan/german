@@ -483,6 +483,7 @@ fleißig /ˈflaisɪç/: hardworking, diligent
   ein fleißiger Schüler: a diligent student
 
 fliegen /ˈfliːɡən/: to fly
+  fliege, flog, geflogen
   Pinguine können nicht fliegen.
   Penguins can't fly.
 
@@ -706,10 +707,26 @@ fortschreiten /ˈfɔrtʃraitən/: to progress
 Fortschritt /ˈfɔrtʃrɪt/, der, -(e)s|e: progress, advance
   Fortschritte machen: to advance, to make progress
 
+fortsetzen /ˈfɔrtzɛʦən/: to continue
+  Nach einer Pause setzten sie das Gespräch fort.
+  After a break they continued the conversation.
+  Die positive Entwicklung der Aktienkurse setzt sich weiter fort.
+  The favorable trend in share prices continues.
+
+Fortsetzung /ˈfɔrtzɛʦʊŋ/, die, ~|-en: continuation, episode
+  die Fortsetzung der Diskussion: the continuation of the discussion
+  => Folge
+  Wie viele Fortsetzungen hat die Serie?
+  How many episodes are there in the series?
+
 Fotogalerie, Fotostrecke, die
 
 Foul /faul/, das: foul
   ein Foul begehen: to commit a foul
+
+Frack /frak/, der, -(e)s|..e: tailcoat
+  Er erschien auf dem Ball in Frack und Zylinder.
+  He came to the ball in a top hat and tails.
 
 Frage /ˈfraːɡə/, die, Fragen: question
   jdm eine Frage stellen: to ask sb a question
@@ -939,6 +956,7 @@ funktionieren /fʊŋkʦjoˈniːrən/: to function, to work
   Geburtstag /ɡəˈbuːɐʦtaːk/: birthday
 
 für
+  Tag für Tag: day after day
 
 fürchten /ˈfʏrçtən/: to be afraid of, to fear
   ein gefürchteter Gegnera: formidable opponent

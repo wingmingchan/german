@@ -620,6 +620,11 @@ allerdings /ˈalɐˈdɪŋs/: however, indeed, certainly
   „Ist das denn wichtig?‟ – „Allerdings!‟
   "Is that really important?" – "Indeed!"
 
+allergisch /aˈlɛrɡiʃ/: allergic
+  Sie ist gegen Nüsse allergisch.
+  She's allergic to nuts.
+  Sie ist allergisch dagegen.
+
 Allerheiligen /ˈalɐˈhailɪɡən/, das, -s|uncountable: katholischer Feiertag am 1. November, an dem alle Heiligen geehrt werden, All Saints' Day
 
 allerlei /ˈalɐˈlai/: all kinds of
@@ -774,6 +779,10 @@ anbringen /ˈanbrɪŋən/: to attach (to), to put up (on)
   ein Regal an der Wand anbringen
   to put up a shelf on the wall
 
+andauern /ˈandauɐn/: to last, to continue
+  Die Sitzung dauert zur Stunde noch an.
+  The meeting is still in progress.
+
 andauernd /ˈandauɐnt/: continuing, persistent, constant, ongoing
 
 Anden /ˈandən/, pl: Andes
@@ -865,6 +874,9 @@ anführen /ˈanfyːrən/: to lead, to state, to cite, to fool
   He said in his defense that…
   Du willst mich doch nur anführen!
   Come on, you're just taking me for a ride!
+
+Anführer /ˈanfyːrɐ/, der, -s|~: leader
+  der Anführer der Bande: the leader of the gang
 
 Angabe /ˈanɡaːbə/, die, ~|-n: information, statement
   Er hat der Polizei gegenüber falsche Angaben gemacht.
@@ -1103,6 +1115,8 @@ anschleichen /ˈanʃlaiçən/: to creep up
   Silently the lions crept towards their prey.
 
 anschießen /ˈanʃiːsən/: to wound
+
+anschließen /ˈanʃliːsən/: to connect, to lock, to follow, to join
 
 anschließend /ˈanʃliːsənt/: subsequent, following
   eine an den Vortrag anschließende Diskussion
@@ -1876,6 +1890,13 @@ Ausblick /ˈausblɪk/, der: view, outlook, perspective
   The teacher gave us a preview of what to expect in the coming months.
 
 ausbrechen /ˈausbrɛçən/: to break out, to escape, to erupt
+  Ein Tiger ist aus dem Zoo ausgebrochen.
+  A tiger has escaped from the zoo.
+  Unter den Passagieren brach Panik aus.
+  Panic broke out among the passengers.
+  in etw. ausbrechen: to burst into
+  in Tränen / Gelächter ausbrechen
+  to burst into tears / burst into laughter
 
 ausbreiten /ˈausbraitən/: to spread (out), to lay out
   Die Pest breitete sich schnell in ganz Europa aus.
@@ -1954,6 +1975,11 @@ ausgehen /ˈausɡeːən/: to go out, to finish, to run out, to go off
 ausgerechnet /ˈausɡərɛçnət/ oder /ausɡəˈrɛçnət/: of all things 偏偏
   Ausgerechnet heute musst du zu spät kommen!
   You had to be late today of all days!
+
+ausgesprochen /ˈausɡəʃprɔxən/: pronounced, really, downright
+  Das ist eine ausgesprochene Rarität!
+  That's an real rarity.
+  ausgesprochen nützlich sein: to be really useful
 
 ausgezeichnet /ˈausɡəʦaiçnət/: excellent
   => auszeichnen

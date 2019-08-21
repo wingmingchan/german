@@ -351,6 +351,12 @@ heimlich /ˈhaimlɪç/: secret
   eine heimliche Schwäche für jdn / etw. haben
   to have a secret crush on sb/a weakness for sth
 
+heimsuchen /ˈhaimzuːxən/: to plague, to afflict, to befall, to descend (up)on, to attack
+  Das Land wurde von einer Dürre heimgesucht.
+  The country was hit by drought.
+  Der Friedhof war von Vandalen heimgesucht worden, die viele Grabsteine beschmiert hatten.
+  The cemetery had been hit by vandals who had defaced many of the headstones.
+
 heiraten /ˈhairaːtən/: to get married
   kirchlich/standesamtlich heiraten
   to get married in church/in a civil ceremony 
@@ -572,6 +578,10 @@ herumlaufen /hɛˈrʊmlaufən/: to walk/run around
 herumreden /hɛˈrʊmreːdən/: to talk around sth
   Komm endlich zur Sache und sag, was du eigentlich willst, anstatt darum herumzureden.
   Cut to the chase and say what you want instead of talking around things.
+
+herumstolzieren /hɛˈrʊmʃtɔlʦiːrən/: to strut around/about, to flaunt, to prance around
+  Sie stolzierte mit ihrem neuen Kleid im Zimmer herum.
+  She was prancing around the room in her new dress.
 
 herumtreiben /hɛˈrʊmtraibən/: to hang around/about, to roam the streets, to gallivant
   Wo hast du dich nur wieder herumgetrieben?
@@ -809,6 +819,12 @@ Hochburg /ˈhoːxbʊrk/, die, -en: stronghold, bastion
 
 Hochebene, die: plateau
 
+hochkommen /ˈhoːxkɔmən/: to come up
+  Sie kam die Treppe / den Berg hoch.
+  She came up the stairs/mountain.
+  Wenn ich mich bücke, habe ich Probleme, wieder hochzukommen.
+  When I bend over, I have problems straightening up again.
+
 Hochzeit /ˈhɔxʦait/, die: wedding
   die kirchliche/standesamtliche Hochzeit
   the church wedding/civil wedding ceremony
@@ -843,6 +859,10 @@ hoffnungslos /ˈhɔfnʊŋsloːs/: hopeless, desperate
   The situation's hopeless.
   Mein Leben ist so trist, ich fühle mich so hoffnungslos.
   My life's so empty – I feel so desperate.
+
+Hoffnungsschimmer /ˈhɔfnʊŋsʃɪmɐ/, der, -s|uncountable: glimmer/ray of hope
+  Endlich gab es wieder einen Hoffnungsschimmer für die Eltern des kranken Kindes.
+  There was finally another glimmer of hope for the parents of the sick child.
 
 höflich /ˈhøːflɪç/: polite, politely
   jdn höflich grüßen/um etw. bitten

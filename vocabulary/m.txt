@@ -205,6 +205,17 @@ Mehl /meːl/, das: flour
   Für den Kuchen braucht man 500 Gramm Mehl.
   For the cake you need 500 grams of flour.
 
+mehr
+
+Mehrheit /ˈmeːɐhait/, die, ~|-en: majority
+  <=> Minderheit
+  Die Mehrheit der Bevölkerung ist gegen das neue Gesetz.
+  The majority of the population is against the new law.
+  Er wurde mit überwältigender Mehrheit zum Oberbürgermeister gewählt.
+  He was elected mayor by an overwhelming majority.
+  die absolute Mehrheit: an absolute majority
+  die einfache / relative Mehrheit: a simple/relative majority
+
 mehrfach /ˈmeːɐfax/: multiple, numerous
   Stargast war der mehrfache Oscarpreisträger …: Stargast won several Oscars …
 
@@ -371,7 +382,9 @@ Million /mɪlˈjoːn/, die
 Millionär /mɪljoˈnɛːɐ/, -in, -e
 
 Minderheit /ˈmɪndɐhait/, die: minority
-  eine diskriminierte/religiöse Minderheit: a minority facing discrimination/religious minority
+  <=> Mehrheit
+  eine diskriminierte / religiöse Minderheit
+  a minority facing discrimination/religious minority
 
 mindeste /ˈmɪndəstə/: least , slightest
 
@@ -515,13 +528,15 @@ möglich /ˈmøːklɪç/: possible
   „Ist das denn wahr?‟ – „Schon möglich!‟
   “Is it true?” – “It's possible.”
 
+möglicherweise /ˈmøːklɪçɐˈvaizə/: possibly
+
 Möglichkeit /ˈmøːklɪçkait/, die: possibility, chance, opportunity, option
   Ich hatte leider keine Möglichkeit, dich anzurufen.
   I'm afraid I didn't have a chance to call you.
   Es besteht durchaus die Möglichkeit, dass das wahr ist.
   It's perfectly possible that it's true.
 
-möglicherweise /ˈmøːklɪçɐˈvaizə/: possibly
+möglichst /ˈmøːklɪçst/: as much as possible
 
 Möhre /ˈmøːrə/: ~|-n: carrot
   Möhrengemüse: carrots
