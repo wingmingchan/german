@@ -241,6 +241,9 @@ abschätzig /ˈapʃɛʦɪç/: derogatory
   Das war nicht abschätzig gemeint.
   That wasn't meant to be condescending.
 
+Abscheu /ˈapʃɔy/, der, -s|uncountable: revulsion
+  Abscheu vor Spinnen haben: to hate spiders
+
 abscheulich /apˈʃɔylɪç/: hideous, disgusting
   Sei doch nicht so abscheulich zu deinem Bruder!
   Don't be so horrible to your brother.
@@ -1945,6 +1948,15 @@ ausdrücken /ˈausdrʏkən/: to express, to show
   seine Dankbarkeit ausdrücken: to express your gratitude 
   Seine Miene drückte Ablehnung aus.
   His expression showed he was against it.
+
+auseinander /aus|aiˈnandɐ/: apart, from/to each other
+  Unsere Kinder sind drei Jahre auseinander.
+  Our children are three years apart.
+  mathematische Größen auseinander ableiten
+  to deduce mathematical values from one another
+  auseinander sein: to have split up
+  Die beiden sind schon längst wieder auseinander.
+  The two of them have long since broken up again.
 
 Ausfall /ˈausfal/, der: loss, cancellation, breakdown
   Stromausfall: power outage

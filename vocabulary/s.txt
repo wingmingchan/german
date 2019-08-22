@@ -310,6 +310,10 @@ Schere /ˈʃeːrə/, die, -n: scissors, shears
   Die Schere zwischen Arm und Reich klafft immer weiter auseinander.
   The gap between rich and poor is getting even bigger.
 
+Scherz /ʃɛrʦ/, der, -es|-e: joke
+  Er meinte im Scherz, er sei am Verhungern.
+  He said as a joke that he was starving.
+
 scheuen /ˈʃɔyən/: to spare, to shrink from, to shy
   Wir haben für das Fest weder Kosten noch Mühe gescheut.
   We haven't spared any cost or effort with the party.
@@ -434,6 +438,10 @@ schleichen /ˈʃlaiçən/: to creep, to crawl, to slink
   He crept to the door on tiptoe.
   mit hängendem Kopf nach Hause schleichen
   to crawl home with head hanging
+
+Schleim /ʃlaim/, der, -(e)s|-e: mucus, phlegm, slime, mush, oatmeal, rice pudding
+  den Schleim in den Lungen lösen: to get rid of phlegm in the lungs
+  einem Kranken einen Haferschleim kochen: to make some oatmeal for a sick person
 
 schlenzen: to flick 輕拂
 
@@ -576,6 +584,10 @@ schmeißen /ˈʃmaisən/: to chuck, to throw, to drop, to manage, to put on
 
 Schmerz /ʃmɛrʦ/, der, -es|-en: pain
   ein stechender Schmerz im Knie: a stabbing pain in your knee 
+
+schmerzhaft /ˈʃmɛrʦhaft/: painful
+  Prellungen sind immer sehr schmerzhaft.
+  Bruises are always very painful.
 
 Schmied /ʃmiːt/: smith
   Hufschmied: blacksmith
@@ -767,6 +779,9 @@ Schreiner /ˈʃrainɐ/, Schreinerin: carpenter
 schreiten /ˈʃraitən/: to stride, to walk
   gemessenen Schrittes über den roten Teppich schreiten
   to walk with measured steps over the red carpet
+  zu etw. schreiten: to proceed to sth
+  Schreiten wir nun zur Tat / Wahl.
+  Now let's get down to action / the vote.
 
 schrie => schreien
 
@@ -1402,6 +1417,9 @@ Sozialismus /zoʦjaˈlɪsmʊs/, der, ~|uncountable: socialism
 spähen /ˈʃpɛːən/: to peer 端詳
   Er spähte über den Zaun/aus dem Fenster.
   He peered over the fence/out of the window.
+
+Spalt /ʃpalt/, der, -(e)s|-e: gap, crack
+  die Tür einen Spalt offen lassen: to leave the door slightly ajar
 
 Spalte /ˈʃpaltə/, die, -n: fissure, crevice, crack, column
   Im Fels zeigten sich tiefe Spalten.

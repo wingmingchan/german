@@ -445,6 +445,8 @@ Henne /ˈhɛnə/, die, -n: hen
 
 herab /hɛˈrap/: down
 
+herabhängen: to droop 下垂
+
 heran: used to express movement toward and proximity to the speaker, close
 
 herauf /hɛˈrauf/: up
@@ -602,6 +604,8 @@ hervorbringen /hɛɐˈfoːɐbrɪŋən/: to produce, to generate
   Dieses Land hat einige der berühmtesten Musiker der Welt hervorgebracht.
   This country has produced some of the most famous musicians in the world.
   kein Wort hervorbringen: not to be able to utter a sound
+
+hervorstoßen: to snap
 
 Herz /hɛrʦ/, das, -ens|-en: heart
   Sein Herz klopfte wild / hörte auf zu schlagen.
@@ -881,6 +885,10 @@ Höhe /ˈhøːə/, die, ~|-n: height, altitude, level, extent, amount
 Höhle /ˈhøːlə/, die: cave, den, cavity
   sich in einer Höhle verstecken: to hide in a cave
   Höhlenbewohner: cave dwellers 
+
+höhnen /ˈhøːnən/: to sneer, to jeer
+  „Siehst du, du bist einfach unfähig!‟, höhnte er.
+  “You see, you're just incompetent”, he jeered.
 
 hold /hɔlt/: fair
   eine holde Schöne: a fair maiden

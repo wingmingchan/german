@@ -863,6 +863,10 @@ entdecken /ɛntˈdɛkən/: to discover
 
 Ente /ˈɛntə/, die, -n: duck
 
+entfalten /ɛntˈfaltən/: to unfold
+  Er setzte sich und entfaltete seine Zeitung.
+  He sat down and unfolded his newspaper.
+
 entfernen /ɛntˈfɛrnən/: to remove, to go away, to depart
   Bitte entfernen Sie dieses Bild aus meinem Büro.
   Please remove that picture from my office.
@@ -1034,6 +1038,12 @@ erachten /ɛɐˈ|axtən/
 Erbe /ˈɛrbə/, das, -s|uncountable: inheritance, heritage
   Er hat sein ganzes Erbe verspielt.
   He gambled away his whole inheritance.
+
+erbittert /ɛɐˈbɪtɐt/: bitter, fierce
+  Sie hatten eine lange, erbitterte Auseinandersetzung deswegen.
+  They had a long and bitter dispute over that.
+  Sie sind seit Langem erbitterte Feinde.
+  They've been bitter enemies for a long time.
 
 Erbse /ˈɛrpsə/, die, ~|-n: pea
   im Garten Erbsen anbauen: to plant peas in the garden
@@ -1272,7 +1282,6 @@ erlauben /ɛɐˈlaubən/: to allow, to permit
   Mein Vater erlaubt mir nicht, diesen Film zu sehen.
   My father won't allow me to watch that movie.
   
-
 Erlaubnis /ɛɐˈlaupnɪs/, die, -se: permission
   => Genehmigung
   Sie ist ohne die Erlaubnis ihrer Eltern weggegangen.

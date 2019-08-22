@@ -45,6 +45,10 @@ U /uː/ U wie Ulrich, Ü wie Übermut
   Sie wurde auf dem Heimweg überfallen.
   She was attacked on her way home.
 
+überfliegen: to fly over, to take a quick look at, to glance at/over
+  Sie überflog die Rechnung.
+  She glanced at the check.
+
 überfluten /yːbɐˈfluːtən/: to flood
   Der Fluss hat ganze Landstriche überflutet.
   The river flooded entire tracts of land.
@@ -717,6 +721,10 @@ unterwegs /ʊntɐˈveːks/: on the way
 unterzeichnen /ʊntɐˈʦaiçnən/: to sign
 
 unvergesslich /ʊnfɛɐˈɡɛslɪç/: unforgettable
+
+unverwandt: intent 專注的
+  Mit unverwandtem Blick sah er sie an.
+  He looked at her intently.
 
 unverzüglich /ʊnfɛɐˈʦyːklɪç/: immediate
   die unverzügliche Umsetzung des Projekts: the immediate implementation of the project

@@ -205,6 +205,10 @@ wecken: to wake up, to arouse
 
 Wecker /ˈvɛkɐ/, der, -: alarm clock
 
+wechseln /ˈvɛksəln/: to change
+  Wechsel / Wechsle nicht dauernd das Thema!
+  Quit changing the subject all the time!
+
 wedeln: /ˈveːdəln/: to wave, to wag
   Sie wedelte mit der Hand, um die Mücken zu vertreiben.
   She waved her hand to drive away the mosquitos.
@@ -228,6 +232,10 @@ wegen /ˈveːɡən/: for, over, because of, on account of
 
 wegsaufen: to drink intended for else
   => saufen
+
+wegschnappen /ˈvɛkʃnapən/: to snatch sth away from sb
+  Sie hat mir den Job vor der Nase weggeschnappt.
+  She snatched the job from under my nose.
 
 Wegweiser /ˈveːkvaizɐ/, der, -: sign(post), guide
   den Wegweisern zur Almhütte folgen: to follow the signs to the Alpine hut
@@ -356,6 +364,8 @@ Weizen /ˈvaiʦən/, der: wheat
 Welle /ˈvɛlə/, die: wave
   Das Schiff schaukelte auf den Wellen.
   The ship was pitching and tossing on the waves.
+
+Wellhornschnecke, die: whelk 蛾螺
 
 *Welpe /ˈvɛlpə/, der, -n: puppy
 
@@ -855,6 +865,14 @@ Würfel /ˈvʏrfəl/, der: dice, die
 Wurfgeschoss, das: missile, projectile
 
 Wurfspeer, Wurfspieß, der: javelin
+
+würgen /ˈvyrɡən/: to strangle, to throttle, to retch, to choke
+  Er würgte sein Opfer, bis es sich nicht mehr bewegte.
+  He throttled his victim until he was no longer moving.
+  Das Essen schmeckte so widerlich, dass sie würgen musste.
+  The food tasted so disgusting that it made her retch.
+  Der Hund würgt an einem Fleischbrocken.
+  The dog choked on a bit of meat.
 
 Wurm /vʊrm/, der, Würmer /ˈvyrmɐ/: worm
   Der Vogel hat einen Wurm gefangen.

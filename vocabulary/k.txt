@@ -283,6 +283,8 @@ keuchen /ˈkɔyçən/: to pant, to gasp
   „Bitte helft mir tragen!‟, keuchte sie.
   “Please help me carry this!” she gasped.
 
+keuchend: wheezily
+
 kichern /ˈkɪçɐn/: to giggle, to snigger
 
 kieken: to peek, to peep
@@ -296,7 +298,7 @@ Kieker /ˈkiːkɐ/, der
 Kies /kiːs/, der, -es|uncountable: gravel, dough (money)
   Kiesweg: gravel path
   Eine Million? Das ist ganz schön viel Kies!
-  A million? That’s a heck of a lot of dough!
+  A million? That's a heck of a lot of dough!
 
 Kiesel /ˈkiːzəl/, der, -: pebble
   Kieselstein
@@ -825,6 +827,10 @@ krabbeln /ˈkrabəln/: to crawl
 krachen /ˈkraxən/: to crash, to bang
   An der Kreuzung kracht es öfter.
   There are often accidents at the intersection.
+
+krächzen /ˈkrɛçʦən/: to squawk, to caw
+  „Wer ist da?‟, krächzte er heiser.
+  “Who's there?” he croaked, hoarsely.
 
 Kraft /kraft/, die, ~|..e: strength, power
   Er zog mit aller Kraft am Seil.

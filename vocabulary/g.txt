@@ -622,6 +622,13 @@ Genehmigung /ɡəˈneːmɪɡʊŋ/, die, -en: permission, approval, authorization
   jdm die Genehmigung für etw. erteilen: to grant sb permission to do sth
   eine schriftliche Genehmigung vorlegen: to submit written authorization
 
+Genick /ɡəˈnɪk/, das, -(e)s|-e: neck
+  Das Tier hat sich bei dem Sturz das Genick gebrochen.
+  The animal broke its neck in the fall.
+  jdm / etw. das Genick brechen: to be the end of sb/sth
+  Der niedrige Dollarkurs hat der Aktie das Genick gebrochen.
+  The weak dollar sealed the demise of the shares.
+
 Genie /ʒeˈniː/, das: genius
 
 Genitiv /ˈɡeːnitiːf/, der, -s|-e: genitive
@@ -699,6 +706,10 @@ geraten /ɡəˈraːtən/: to come/get/run into , to hit, to get
   Sie gerät leicht in Wut.
   She's quick to get angry.
   außer sich geraten (vor etw dative ): to be beside oneself (with sth)
+
+Geräusch /ɡəˈrɔyʃ/, das, -(e)s|-e: noise
+  Was ist das für ein seltsames Geräusch?
+  What's that strange noise?
 
 geräuschvoll /ɡəˈrɔyʃfɔl/: noisy
   geräuschvolles Atmen / Kauen: noisy breathing/chewing
@@ -1171,6 +1182,8 @@ graben /ˈɡraːbən/: to dig
   nach jdm / etw. graben: to dig for sb/sth
 
 grabschen => grapschen
+
+Grabschrift: epitaph 墓誌銘
 
 Grad /ɡraːt/, der: degree, level
   zehn Grad Celsius/Fahrenheit: 10 degrees centigrade/Fahrenheit

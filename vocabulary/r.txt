@@ -143,6 +143,8 @@ Raumschiff /ˈraumʃɪf/, das: spaceship
 
 raunzen: to moan
 
+raus: (get) out!
+
 Rausch /rauʃ/, der: intoxication
   sich [ dative ] einen Rausch antrinken: to get drunk
 
@@ -407,6 +409,7 @@ Reise /ˈraizə/, die: journey, trip
 reisen /ˈraizən/: to travel
 
 reißen /ˈraisən/: to tear, to rip, to pull
+  reiße, riss, gerissen
   Die Tasche riss und alles fiel zu Boden.
   The bag tore and everything fell to the ground.
 ​ ein Stück Stoff in Streifen reißen
@@ -580,6 +583,8 @@ Rippe /ˈrɪpə/, die, -n: rib
 
 riskieren /rɪsˈkiːrən/: to risk
   sein Leben/seine Gesundheit riskieren: to risk your life/health
+
+riss => reißen
 
 Ritter /ˈrɪtɐ/, der, -s|~: knight
   Ritterburg: knight's castle
