@@ -588,6 +588,16 @@ einst: once, long ago
   Einst lebten hier Dinosaurier.
   Dinosaurs once lived here.
 
+einstecken /ˈainʃtɛkən/: to take with you, to pocket, to put in, to take
+  Hast du Geld eingesteckt?
+  Did you take money with you?
+  Sie hat den Lippenstift einfach eingesteckt.
+  She simply pocketed the lipstick.
+  Wo steckt man bei dem Automat die Karte ein?
+  How do you put the ticket into that machine?
+  Er kann gut austeilen, aber schlecht einstecken.
+  He's good at dishing it out, but he can't take it.
+
 einstellen /ˈainʃtɛlən/: to take on, to hire, to stop, to adjust
   <=> entlassen
   jdn als Hausmeister einstellen
@@ -655,11 +665,15 @@ Einwand /ˈainvant/, der, -(e)s|..e: objection
 Einweg-: disposable
   Einweg-Plastikflaschen
 
-einwerfen /ˈainvɛrfən/: to insert, to mail, to smash
+einwerfen /ˈainvɛrfən/: to insert, to mail, to smash, to interject, to throw in
   Könntest du diesen Brief für mich einwerfen?
   Could you mail this letter for me?
   Die Jungen haben mit dem Ball die Fensterscheibe eingeworfen.
   The boys smashed the windowpane with the ball.
+  „Und wer soll das finanzieren?‟, warf er ein.
+  “And who's supposed to pay for that?” he interjected.
+  Sie warf den Ball vom linken Spielfeldrand ein.
+  She threw the ball in from the left side of the field.
 
 Einwohner /ˈainvoːnɐ/: inhabitants
   Wie viele Einwohner hat München?
@@ -1015,6 +1029,8 @@ entwickeln /ɛntˈvɪkəln/: to develop
 Entwicklung /ɛntˈvɪklʊŋ/, die: development
   Softwareentwicklung
 
+entwinden: to wrench
+
 Entwurf /ɛntˈvʊrf/, der: design, draft, sketch
 
 Entzündung /ɛntˈʦʏndʊŋ/, die, ~|-en: inflammation
@@ -1044,6 +1060,12 @@ erbittert /ɛɐˈbɪtɐt/: bitter, fierce
   They had a long and bitter dispute over that.
   Sie sind seit Langem erbitterte Feinde.
   They've been bitter enemies for a long time.
+
+erbrechen /ɛɐˈbrɛçən/: to vomit, to throw up
+  Das Kind erbrach den Brei.
+  The child threw up the pap.
+  Sie hat sich mehrmals erbrochen.
+  She vomited several times.
 
 Erbse /ˈɛrpsə/, die, ~|-n: pea
   im Garten Erbsen anbauen: to plant peas in the garden

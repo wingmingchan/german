@@ -311,7 +311,27 @@ absehen /ˈapzeːən/: to foresee, to learn
 Absender /ˈapzɛndɐ/, -in, -s|~: sender
   <=> Empfänger
 
-absetzen /ˈapzɛʦən/: to drop sb off
+absetzen /ˈapzɛʦən/: to remove, to depose, to stop taking, to cancel, to take off, to put down, to sell, to defect, to accumulate
+  Der Aufsichtsrat hat den gesamten Vorstand abgesetzt.
+  The supervisory board removed the whole board of directors.
+  Er hat das Antibiotikum eigenmächtig abgesetzt.
+  He stopped taking the antibiotic of his own accord.
+  einen Punkt von der Tagesordnung absetzen
+  to remove a point from the agenda
+  etw. (von der Steuer) absetzen: to deduct sth (from your taxes)
+  Kann ich die Reisekosten absetzen?
+  Can I get tax relief on my travel expenses?
+  Setz doch bitte die Sonnenbrille ab, wenn ich mit dir rede.
+  Take off your sunglasses when I’m talking with you, please.
+  Ich musste den Sack kurz absetzen, weil meine Hände schmerzten.
+  I just had to put the sack down for a bit as my hands were hurting.
+  Von dem neuen Modell wurden bereits 500 Stück abgesetzt.
+  We’ve already sold 500 units of the new model.
+  sich ins Ausland absetzen, um seinen Gläubigern zu entkommen
+  to defect abroad to escape your creditors
+  Am Teichboden hat sich viel Schlamm abgesetzt.
+  A lot of mud has gathered at the bottom of the pond.
+  jdn irgendwo absetzen: to drop sb off
   Kannst du mich bitte an der Schule absetzen?
   Can you drop me off at the school, please?
 
@@ -782,6 +802,8 @@ anbringen /ˈanbrɪŋən/: to attach (to), to put up (on)
   ein Regal an der Wand anbringen
   to put up a shelf on the wall
 
+anbrüllen: to shout, to bellow at
+
 andauern /ˈandauɐn/: to last, to continue
   Die Sitzung dauert zur Stunde noch an.
   The meeting is still in progress.
@@ -831,7 +853,7 @@ andeuten /ˈandɔytən/: to hint at, to sketch out
   Den Hintergrund hat der Künstler nicht ausgearbeitet, sondern nur angedeutet.
   The artist didn't finish the background – he just outlined it.
 
-ahfahren /ˈanfaːrən/: to hit, to snap at, to stop at, to start up
+ahfahren /ˈanfaːrən/: to hit, to snap at 厲聲說, to stop at, to start up
   Sie wurde von einem Auto angefahren.
   She was hit by a car.
   „Halt die Klappe!‟, fuhr sie mich an.
@@ -899,6 +921,9 @@ Angebot /ˈanɡəboːt/, das, -(e)s|-e: offer, supply
   <=> Nachfrage
   Das Angebot übersteigt derzeit die Nachfrage.
   Supply is outstripping demand at the moment.
+
+angebunden /ˈanɡəbʊndən/: tied
+  kurz angebunden sein: to be brusque
 
 angegriffen /ˈanɡəɡrɪfən/: weakened, affected
   Sie ist von der Infektion noch ganz angegriffen.
@@ -1110,6 +1135,8 @@ anrufen /ˈanruːfən/: to call, to phone
   Hat jemand für mich angerufen?
   Did anyone call?
 
+anrühren: to mix, to touch
+
 ansah => ansehen
 
 Ansammlung /ˈanzamlʊŋ/, die, ~|-en: collection, crowd, gathering
@@ -1138,6 +1165,14 @@ anschließend /ˈanʃliːsənt/: subsequent, following
   a discussion following the lecture
   Wir gingen ins Kino und anschließend etwas essen.
   We went to a movie and then went for a bite to eat.
+  
+anschreiben /ˈanʃraibən/: to write down, to write to, to put on your tab
+  Der Lehrer schrieb eine Aufgabe an.
+  The teacher wrote down an exercise.
+  Die Stadt hat sämtliche Hausbesitzer angeschrieben.
+  The city wrote to all house owners.
+  Können Sie das bitte anschreiben? Ich zahle morgen.
+  Can you put it on my tab, please? I'll pay tomorrow.
 
 Anschrift /ˈanʃrɪft/, die, -en: address
   jdm seine Anschrift mitteilen: to give sb your address
@@ -2093,6 +2128,8 @@ ausmachen /ˈausmaxən/: to switch off, to extinguish, to arrange
 Ausmaß /ˈausmaːs/, das, -es|-e: extent
   eine Tragödie unvorstellbaren Ausmaßes: a tragedy of unimaginable proportions
   von gewaltigen Ausmaßen: of enormous size
+
+ausmerzen: to weed out, to eradicate, to eliminate
 
 Ausnahme /ˈausnaːmə/, die: exception
   von wenigen Ausnahmen abgesehen: aside from very few exceptions

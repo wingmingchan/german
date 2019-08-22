@@ -692,6 +692,12 @@ geradewegs /ɡəˈraːdəveːks/: straight, straightaway, straight-out
   Er fragte sie geradewegs nach ihrer Telefonnummer.
   He asked her for her phone number straight-out.
 
+Gerangel /ɡəˈraŋəl/, das, -s|uncountable: tussle, scrap 打架, wrangling, infighting
+  Er wurde bei dem Gerangel im Treppenhaus leicht verletzt.
+  He was slightly injured in the tussle in the stairwell.
+  Nach monatelangem Gerangel um die Posten steht der neue Vorstand nun fest.
+  After months of wrangling over the posts, the make-up of the new board has now been determined.
+
 Gerät /ɡəˈrɛːt/, das, -e: tool, appliance, equipment, device, apparatus
   landwirtschaftliche Geräte: agricultural equipment
   Elektrogerät: electronic appliances
@@ -877,6 +883,10 @@ Gespräch /ɡəˈʃprɛːç/, das, -e: conversation
   mit jdm ein Gespräch über private Dinge führen
   to have a conversation with sb about private matters
 
+gesprächig /ɡəˈʃprɛːçɪç/: talkative
+  Er ist heute nicht sehr gesprächig.
+  He's not very talkative today.
+
 Gestalt /ɡəˈʃtalt/, die, ~|-en: form, shape, figure, character
   Unsere Erde hat die Gestalt einer Kugel.
   Our earth has the form of a sphere.
@@ -919,6 +929,9 @@ Gesundheit /ɡəˈzʊnthait/, die: health
 getigert /ɡeˈtiːɡɐt/: striped
 
 Getränk /ɡəˈtrɛŋk/, das, -e: beverage, drink
+
+gewagt /ɡəˈvaːkt/: daring, risky
+  => wagen
 
 gewählt /ɡəˈvɛːlt/: refined, elegant, select, in a refined manner, elegantly
   => wählen

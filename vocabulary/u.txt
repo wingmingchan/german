@@ -7,7 +7,7 @@ U /uː/ U wie Ulrich, Ü wie Übermut
   Wenn ich Blut sehe, wird mir übel.
   The sight of blood makes me feel sick.
   Er hat morgens immer eine üble Laune.
-  He’s always in a bad mood first thing in the morning.
+  He's always in a bad mood first thing in the morning.
   üble Gerüchte über jdn verbreiten: to spread nasty rumors about sb
   eine übel riechende Flüssigkeit: a foul-smelling liquid
   Das könnte übel enden.
@@ -58,6 +58,8 @@ U /uː/ U wie Ulrich, Ü wie Übermut
 überfüllt /yːbɐˈfʏlt/: packed, overcrowded, congested
   Der Strand war völlig überfüllt.
   The beach was totally packed.
+
+übergeben /yːbɐˈɡeːbən/: to hand over, to entrust, to (officially) open, to surrender, to throw up
 
 übergehen /ˈyːbɐɡeːən/: to pass, to go over, to move on, to change, to ignore, to pass over
   Das Haus ging von der Mutter auf die Tochter über.
@@ -381,6 +383,17 @@ umschlingen /ʊmˈʃlɪŋən/: to embrace
   eng umschlungen auf der Bank sitzen/miteinander tanzen
   to sit on the bench/dance together in a tight embrace
 
+umsetzen /ˈʊmzɛʦən/: to move, to implement, to put into practise, to put sth into practise, to convert
+  Wenn die Fische größer werden, werden sie aus dem Teich in den Fluss umgesetzt.
+  When the fish get bigger, they are moved from the pond to the river.
+  Er konnte das Gelernte einfach nicht umsetzen.
+  He simply couldn't put what he had learned into practise.
+  etw. in die Praxis / Tat umsetzen: to put sth into practise
+  Der Konzern konnte im vergangenen Jahr 20 % mehr umsetzen.
+  The group was able to increase its turnover by 20% over the last year.
+  Traubenzucker setzt der Körper sofort in Energie um.
+  The body immediately converts glucose into energy.
+
 Umsetzung /ˈʊmzɛʦʊŋ/, die, -en: implementation
   Die Umsetzung des Gesetzes brachte Probleme mit sich.
   The implementation of the the law led to problems.
@@ -443,6 +456,10 @@ Umzug /ˈʊmʦuːk/, der, ..e: move, procession
   Trachtenumzug: costume parade
 
 Unabhängigkeit /ˈʊn|aphɛŋɪçkait/, die: independence
+
+unablässig /ʊn|apˈlɛsɪç/: incessant, unremitting
+  sein unablässiger Kampf gegen den Rassismus
+  his unremitting struggle against racism
 
 unangenehm /ˈʊn|anɡəneːm/: unpleasant
   Der Stoff fühlt sich auf der Haut unangenehm an.

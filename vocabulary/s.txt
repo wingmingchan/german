@@ -33,6 +33,14 @@ Sadismus /zaˈdɪsmʊs/, der, ~|uncountable: sadism
 Saft /zaft/, der, Säfte: juice
   Apfelsaft, Orangensaft
 
+saftig /ˈzaftɪç/: juicy, lush, steep, hefty
+  Die Birnen sind schön saftig.
+  These pears are lovely and juicy.
+  das saftige Grün nach dem Regen
+  the lush green after the rain
+  Er musste eine saftige Strafe zahlen.
+  He had to pay a hefty fine.
+
 sagen: to say
   sage, sagst, sagt, habe gesagt
   Ehrlich gesagt: Ich weiß es nicht.
@@ -369,6 +377,9 @@ Schild, der, -e: shield
 schildern /ˈʃɪldɐn/: to describe
   jdm die Situation schildern: to describe the situation to sb
 
+Schildkröte /ˈʃɪltkrøːtə/, die, ~|-n: tortoise, turtle
+  Landschildkröte: tortoise
+
 Schimmer /ˈʃɪmɐ/, der, -s|uncountable: glimmer, gleam, shimmer, flicker, trace
   im Schimmer der Sterne: by the glimmer of the stars
   der sanfte Schimmer ihrer Augen: the gentle gleam of her eyes
@@ -532,7 +543,7 @@ schlucken /ˈʃlʊkən/: to swallow, to guzzle, to booze
 
 schlugen => schlagen
 
-schlurfen /ˈʃlʊrfən/: to shuffle, to slurp
+schlurfen /ˈʃlʊrfən/: to shuffle 拖著腳走，曳足而行, to slurp
   Der Alte schlurfte zur Tür und öffnete sie.
   The old man shuffled to the door and opened it.
   Schlürf nicht so!
@@ -740,6 +751,9 @@ Schönheit /ˈʃøːnhait/, die, ~|-en: beauty
 Schorle /ˈʃɔrlə/, die: wine mixed with mineral water or lemonade, fruit juice mixed with mineral water
 
 schossen => schießen
+
+Schoß /ʃoːs/, der, -es|..e: lap
+  jdn auf seinen Schoß nehmen: to sit sb on your lap
 
 Schotte /ˈʃɔtə/, der: Scot
 
@@ -954,6 +968,11 @@ Schweden /ˈʃveːdən/, das, -s
 schweigen /ˈʃvaiɡən/: to remain silent
   Er sah mich betroffen an und schwieg.
   He looked at me in dismayed silence.
+
+schweigsam /ˈʃvaikzaːm/: quiet
+  Was ist mit dir? Du bist heute so schweigsam.
+  What's up with you? You're so quiet today.
+  Meistens bin ich sehr schweigsam. Aber heute bin ich gesprächig.
 
 Schwein /ʃvain/, das, Schweine: pig
   Schweine schlachten: to slaughter pigs
