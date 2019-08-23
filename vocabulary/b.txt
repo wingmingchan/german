@@ -1410,6 +1410,7 @@ Blase /ˈblaːzə/, die, ~|-n: bubble, blister, bladder
   die Blase entleeren müssen: to have to empty your bladder
 
 blasen /ˈblaːzən/: to blow, to play
+  blase, blies, geblasen
   blasen, damit die Suppe abkühlt
   to blow on the soup to cool it
   jdm einen blasen: to give sb a blow job
@@ -1465,6 +1466,8 @@ Blick /blɪk/, der, -(e)s|-e: look, glance, look, expression, eye, view
 blicken /ˈblɪkən/: to look, to get
   aus dem Fenster blicken: to look out of the window
   traurig blicken: to look sad
+
+blies => blasen
 
 blind: blind
   Blinder Eifer schadet nur.

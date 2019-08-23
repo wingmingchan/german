@@ -106,6 +106,9 @@ raten /ˈraːtən/: to guess, to advise
   Das möchte ich dir / ihm / … aber auch geraten haben!
   I wouldn't if I were you/him/…!
 
+Ration /raˈʦjoːn/, die, ~|-en: ration 定量配給
+  die Rationen kürzen / erhöhen: to cut/increase rations
+
 ratlos /ˈraːtloːs/: helpless, baffled
   Da bin ich ratlos.
   I'm completely at a loss.
@@ -618,6 +621,10 @@ Ritter /ˈrɪtɐ/, der, -s|~: knight
   Ritterburg: knight's castle
   jdn zum Ritter schlagen: to knight sb
 
+Ritze /ˈrɪʦə/, die, ~|-n: crack, gap
+  Der Sand drang bei dem Sturm in alle Ritzen.
+  The sand was forced into all the cracks by the storm.
+
 roch => riechen
 
 Rock /rɔk/, der: skirt
@@ -684,6 +691,12 @@ Rücken /ˈrʏkən/, der, -s|~: back
   mit dem Rücken an der / zur Wand stehen: to have your back to the wall
   jdm läuft es eiskalt über den Rücken / den Rücken hinunter: a shiver runs down sb's spine
 
+rücken /ˈrʏkən/
+  irgendwohin rücken: to move somewhere
+  Im Laufe des Gesprächs rückte er immer näher zu ihr.
+  While they were talking he moved closer and closer to her.
+  den Tisch an die Wand rücken: to move the table against the wall
+
 Rückfahrt, die: return journey
   Wie teuer ist die Hin- und Rückfahrt?
 
@@ -705,6 +718,8 @@ rückwärts /ˈrʏkvɛrʦ/: backward
 Rüde /ˈryːdə/, der: dog
 
 rüde /ˈryːdə/: rude, curt
+
+Ruderboot: rowing-boat, row-boat
 
 Ruf /ruːf/, der: cry, call, reputation
   Niemand hörte ihre verzweifelten Rufe.
@@ -799,3 +814,8 @@ rutschen /ˈrʊtʃən/: to slip, to skid, to slide
   Rutsch mal, ich möchte auch auf die Bank.
   Move up, would you. I'd like to sit on the bench too.
   das Herz rutschte ihm in die Hose: (one's) heart sinks into (one's) boots
+  
+rütteln /ˈrʏtəln/:
+  jdn / etw. rütteln: to shake sb/sth
+  jdn wach rütteln: to shake sb awake
+

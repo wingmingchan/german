@@ -157,6 +157,13 @@ sausen /ˈzauzən/: to rush, to zoom, to roar, to whistle
   Mir sauste das Blut in den Ohren.
   The blood was pounding in my ears.
 
+schäbig /ˈʃɛːbɪç/: shabby
+  Die Möbel waren alt und schäbig.
+  The furniture was old and shabby.
+  Es war schäbig von ihm, ihr diesen Fehler vorzuwerfen.
+  It was mean of him to reproach her for that mistake.
+  sich schäbig benehmen: to behave meanly
+
 Schach /ʃax/, das: chess
   Schach spielen: to play chess
   
@@ -519,6 +526,10 @@ schlingen /ˈʃlɪŋən/: to wrap, to tie, to coil itself, to scoff
   
 schlinger: to gobble, to swallow
 
+schlittern /ˈʃlɪtɐn/: to slide
+  Die Kinder schlitterten über die Eisfläche.
+  The children were sliding across the sheet of ice.
+
 Schlitz /ʃlɪʦ/, der, -es|-e: slit, slot, fly
   die Augen zu schmalen Schlitzen zusammenkneifen
   to narrow your eyes into slits
@@ -840,6 +851,8 @@ Schrott /ʃrɔt/, der: scrap, garbage
   Im Fernsehen kommt wieder nur Schrott!
   There's just garbage on TV again.
 
+schrumpeln /ˈʃrʊmpln/: to go wrinkled
+
 Schublade /ˈʃuːplaːdə/, die, ~|-n: drawer
 
 Schubs /ʃʊps/, der: shove, push
@@ -1071,6 +1084,8 @@ Seehöhe, die: sea level
 Seele /ˈzeːlə/, die: soul
   jdn/etw. aus tiefster Seele verabscheuen
   to loathe sb/sth with all your heart
+
+Seetang, der: seaweed, kelb
 
 Segel /ˈzeːɡəl/, das, -s|~: sail
   die Segel setzen: to set the sails
@@ -1652,7 +1667,9 @@ Stadtrand /ˈʃtatrant/, der, Stadtränder /ˈʃtatrɛndɐ/: outskirts
 
 Stadtteil /ˈʃtattail/, der: district
 
-*Stahl /ʃtaːl/, der: steel
+*Stahl /ʃtaːl/, der, -(e)s|Sorten: ..e: steel
+  eine Spüle aus rostfreiem Stahl
+  a stainless steel sink unit
 
 stammeln /ˈʃtaməln/: to stammer
   eine Entschuldigung stammeln: to stammer an apology
@@ -1926,6 +1943,10 @@ Stift /ʃtɪft/, der, -e: pen(cil), peg, tack, apprentice
 Stiftung /ˈʃtɪftʊŋ/, die, -en: foundation
   ein Stipendium einer privaten Stiftung erhalten
   to get a scholarship from a private foundation
+
+Stille /ˈʃtɪlə/, die, ~|uncountable: quietness, silence
+  Im Raum herrschte absolute Stille.
+  The room was absolutely silent.
 
 stillen /ˈʃtɪlən/: to breastfeed
    Planst du, dein Kind zu stillen?

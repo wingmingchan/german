@@ -64,6 +64,7 @@ Fahrt /ˈfaːɐt/, die, -en: trip, journey, speed
   jdm eine gute Fahrt wünschen: to wish sb a safe journey
   Der Dampfer verlangsamte die Fahrt.
   The steamer reduced speed.
+  in Fahrt kommen: to get going
 
 Fakt /fakt/, der-das, en: fact
   Das sind keine Vermutungen, sondern Fakten.
@@ -998,7 +999,7 @@ Fuß /fuːs/, der, -es|..e: foot
 Fußboden /ˈfuːsboːdən/, der, -s|..: floor
   Fliesen als Fußbodenbelag: tiles as a floor covering
 
-Futter, das: food
+Futter, das, -s|~: food
   dem Hund sein Futter geben: to give the dog his food 
 
 füttern /ˈfʏtɐn/: to feed

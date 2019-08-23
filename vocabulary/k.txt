@@ -172,6 +172,11 @@ Katze /ˈkaʦə/, die, ~|-n: cat
 kauen /ˈkauən/: to chew
   an den Fingernägeln kauen: to chew your fingernails
 
+kauern /ˈkauɐn/: to crouch (down), to squat, to cower
+  Er kauerte hinter dem Busch und wartete.
+  He crouched down behind bush and waited.
+  zusammenkauern 蜷縮
+
 Kauf /kauf/, der, -(e)s|..e: purchase
   etw. zum Kauf anbieten: to offer sth for sale
   etw. in Kauf nehmen (müssen): to (have to) accept sth
@@ -438,7 +443,9 @@ Kleid /klait/, das, -er: dress, clothes
   warme Kleider mitbringen: to bring warm clothes
   Sie trug ein langes Abendkleid.
   She was wearing a long evening dress.
-  
+
+Kleiderbügel /ˈklaidɐbyːɡəl/, der, -s|~: coat hanger
+
 Kleidung /ˈklaidʊŋ/, Kleidung: clothes
   warme Kleidung anziehen: to put on some warm clothes
 
@@ -845,6 +852,8 @@ krachen /ˈkraxən/: to crash, to bang
 krächzen /ˈkrɛçʦən/: to squawk, to caw
   „Wer ist da?‟, krächzte er heiser.
   “Who's there?” he croaked, hoarsely.
+
+Kräcker, der: cracker
 
 Kraft /kraft/, die, ~|..e: strength, power
   Er zog mit aller Kraft am Seil.

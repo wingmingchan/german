@@ -436,6 +436,9 @@ verlängert: elongated
 verlassen /fɛɐˈlasən/: to leave, to abandon
   Er verließ das Geschäft, ohne etwas gekauft zu haben.
   He left the store without buying anything.
+  sich auf jdn / etw. verlassen: to rely on sb/sth
+  Ich verlasse mich darauf, dass ihr euch gut benehmt.
+  I'm relying on you to be good.
   
 verlassen: deserted, lonely, abandoned
 
@@ -651,6 +654,10 @@ verschleiern /fɛɐˈʃlaiɐn/: to (cover with a) veil, to cover up, to conceal
 verschleiert: veiled
 
 verschmäht: jilted lover
+
+verschmitzt /fɛɐˈʃmɪʦt/: mischievous
+  Er lächelte verschmitzt.
+  He smiled mischievously.
 
 verschwand => verschwinden
 
@@ -1225,6 +1232,10 @@ vornehmen /ˈfoːɐneːmən/: to make, to carry out
 Vorort /ˈfoːɐ|ɔrt/, der, -e: suburb
   Er wohnt in einem Pariser Vorort.
   He lives in a suburb of Paris.
+
+vorrücken /’foːɐrʏkən/: to move forward(s), to advance
+  Könnten Sie mit dem Stuhl ein wenig vorrücken?
+  Could you move your chair forward a little?
 
 Vorschlag /ˈfoːɐʃlaːk/ , der, ..e: suggestion
   jdm einen Vorschlag machen: to suggest sth to sb
