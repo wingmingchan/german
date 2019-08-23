@@ -40,6 +40,12 @@ mager /ˈmaːɡɐ/: thin, skinny, poor
 mähen /ˈmɛːən/: to mow, to harvest
   den Rasen mähen: to mow the lawn
 
+mahnen /ˈmaːnən/: to urge, to admonish, to remind, to send a reminder (to)
+  mahne, mahnte, gemahnt
+  jdn zur Vorsicht mahnen: to urge sb to be careful
+  Der Handwerker hat schon zweimal gemahnt.
+  The tradesman has already sent two reminders.
+
 Mai /mai/, der: May, der 5. Monat im Jahr
 
 makaber /maˈkaːbɐ/: macabre
@@ -510,6 +516,9 @@ Möbel /ˈmøːbəl/, pl: furniture
 
 Möbelpacker /ˈmøːbəlpakɐ/: mover
 
+mod(e)rig /ˈmoːd(ə)rɪç/: musty 發黴的；有黴味的
+  ein moderiger Keller: a musty cellar
+
 Mode /ˈmoːdə/, die, Moden: fashion, custom
   die neue Herbstmode/Sommermode: the new fall/summer fashions
 
@@ -546,6 +555,9 @@ möglichst /ˈmøːklɪçst/: as much as possible
 
 Möhre /ˈmøːrə/: ~|-n: carrot
   Möhrengemüse: carrots
+
+Molkerei /mɔlkəˈrai/, die, ~|-en: dairy
+  Molkereiprodukte: dairy products
 
 Moment /moˈmɛnt/, der, -(e)s|-e: moment
   im geeigneten Moment handeln: to act at the right moment
@@ -608,6 +620,8 @@ müde /ˈmyːdə/: tired, weary
 Müdigkeit /ˈmyːdɪçkait/, die, ~|uncountable: weariness, tiredness
   Ihre Müdigkeit war verflogen.
   Her weariness had disappeared.
+
+muffig: musty
 
 Mühe /ˈmyːə/, die, Mühen: effort, trouble, bother
   Er scheute keine Mühe, um sein Ziel zu erreichen.

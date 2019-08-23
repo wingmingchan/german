@@ -201,7 +201,7 @@ Kehle /ˈkeːlə/, die, Kehlen: throat, windpipe, esophagus
   eine trockene / raue Kehle haben: to have a dry/sore throat
   aus voller Kehle lachen: to roar with laughter
 
-kehren /ˈkeːrən/ to sweep, to return
+kehren /ˈkeːrən/ to sweep, to turn, to return
   den Boden kehren: to sweep the floor
   etw. / sich irgendwohin kehren: to turn sth somewhere/turn in some direction
   die Taschen nach außen kehren: to turn your pockets inside out
@@ -451,6 +451,19 @@ Kleinigkeit /ˈklainɪçkait/, die, ~|-en: little thing
   jdm eine Kleinigkeit zum Geburtstag schenken
   to get sb a little something as a birthday present
 
+klemmen /ˈklɛmən/: to stick
+  Das Gartentor klemmt ein bisschen.
+  The yard gate sticks a bit.
+  irgendwo klemmen: to be stuck somewhere
+  Im Türschlitz klemmte ein Zettel.
+  There was a note stuck in the gap between the door and the doorframe.
+  Sie klemmte sich das Paket unter den Arm.
+  She stuck the package under her arm.
+  Ich habe mir den Finger in der Tür geklemmt.
+  I got my finger jammed in the door.
+  Klemm dich hinter die Bücher und lern für die Prüfung!
+  Get stuck into your books and do some studying for the exam!
+
 klettern /ˈklɛtɐn/: to climb
   auf einen Baum / über den Zaun klettern
   to climb a tree/over the fence
@@ -507,6 +520,7 @@ Klüngel /ˈklʏŋəl/, der, -s|~: clique
   der Bürgermeister und sein Klüngel: the mayor and his clique
 
 knallen /ˈknalən/: to bang, to pop, to crack, to crash
+  geknallt
   Sie knallte mit der Peitsche.
   She cracked her whip.
   Er ist mit dem Wagen gegen einen Baum geknallt.

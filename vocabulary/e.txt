@@ -305,6 +305,10 @@ einfärben: to dye
   => färben: to color
   Kleider schwarz einfärben: to dye dresses black
 
+einfinden /ˈainfɪndən/: to gather, to turn up
+  Auf dem Marktplatz hatten sich fast 1000 Demonstranten eingefunden.
+  Almost 1000 demonstrators had gathered at the marketplace.
+
 Einfluss /ˈainflʊs/, der, ..e: influence, authority, clout
   Sie scheint einen positiven Einfluss auf ihn auszuüben.
   She seems to exert a positive influence on him.
@@ -477,11 +481,6 @@ einmal /ˈainmaːl/: once, at once, one day, sometime
   Komm doch einmal auf einen Kaffee vorbei, ich würde mich freuen.
   Why don't you drop by for a coffee sometime? I'd like that.
 
-einnehmbar: capable of being taken (captured)
-
-einpacken /ˈainpakən/: to wrap (up), to pack
-  Weihnachtsgeschenke einpacken: to wrap up Christmas presents
-
 einmischen: to interfere
 
 Einnahme /ˈainnaːmə/, die, -n: revenue, income, takings
@@ -490,6 +489,11 @@ Einnahme /ˈainnaːmə/, die, -n: revenue, income, takings
   The use of the medication should be monitored by a doctor.
   Die Einnahme der belagerten Stadt stand kurz bevor.
   The capture of the besieged city was imminent.
+
+einnehmbar: capable of being taken (captured)
+
+einpacken /ˈainpakən/: to wrap (up), to pack
+  Weihnachtsgeschenke einpacken: to wrap up Christmas presents
 
 einprägen /ˈainprɛːɡən/: to memorize sth, to stamp, to make an impression on sb
   Hast du dir den Weg auch gut eingeprägt?
@@ -686,6 +690,8 @@ Einwohnermeldeamt /ˈainvoːnɐmɛldə|amt/: residents registration office
 Einzel, das, -s|~: single
   Er gewann im Herreneinzel.
   He won the men's singles.
+
+Einzelbett, das: single bed
 
 Einzelheit /ˈainʦəlhait/, die, ~|-en: detail
   Weitere Einzelheiten des Vorfalls wurden erst später bekannt.
@@ -1081,6 +1087,9 @@ Erdbeere /ˈeːɐtbeːrə/, die: strawberry
 Erde /ˈeːɐdə/, die
 
 Erdenrund, das: globe, world
+
+Erdgeschoss /ˈeːɐtɡəʃɔs/, das, -es|-e: first floor
+  im Erdgeschoss wohnen: to live on the first floor
 
 erdrutschartig, adj: landslide, devastating
 

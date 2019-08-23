@@ -213,7 +213,11 @@ Deck /dɛk/, das, -(e)s|-s
   The passengers are sunbathing on the deck.
   Passagierdeck: passenger deck
 
-Decke /ˈdɛkə/, die: blanket
+Decke /ˈdɛkə/, die, ~|-n: blanket, tablecloth, ceiling
+  sich in eine Decke wickeln: to wrap up in a blanket
+  eine neue Decke auflegen: to put on a new tablecloth
+  eine Lampe an die Decke hängen: to hang up a lamp on the ceiling
+  Eisdecke: layer of ice
 
 Deckel /ˈdɛkəl/, der, -s|~, -: top, lid, cover
   Flaschendeckel: bottle cap
@@ -224,6 +228,9 @@ decken /ˈdɛkən/: to cover
   The damage is covered by the insurance.
   eine Decke über einen Verletzten decken
   to cover an injured man with a blanket
+
+Deckung /ˈdɛkʊŋ/, die, ~|-en: cover
+  Deckung suchen: to look for cover
 
 dehnen /ˈdeːnən/: to stretch
   Sie gähnte und dehnte sich ausgiebig.
@@ -462,6 +469,8 @@ doof /doːf/: dumb, stupid
   He's too dumb to understand that.
   So ein doofes Wetter!
   What stupid weather!
+
+Doppelbett, das: double bed
 
 doppelt /ˈdɔpəlt/: double
   die doppelte Menge: double the amount
@@ -711,6 +720,8 @@ Durchsage /ˈdʊrçzaːɡə/, die, -n: announcement
   Es folgt eine wichtige Durchsage: …
   The following is an important announcement: …
   Verkehrsdurchsagen: traffic announcements
+
+durchschieben: to push through
 
 durchschneiden /ˈdʊrçʃnaidən/: to cut through
   einen Apfel/eine Schnur in der Mitte durchschneiden

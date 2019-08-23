@@ -1122,6 +1122,9 @@ Bettdecke /ˈbɛtdɛkə/, die, -n: blanket, comforter
 betteln /ˈbɛtəln/: to beg
   auf der Straße um Brot betteln: to beg for bread on the street
 
+Bettlaken /ˈbɛtlaːkən/, das, -s|~: bedsheet
+  das Bettlaken glatt streichen: to smooth the bedsheet
+
 Bettler /ˈbɛtlɐ/: beggar
 
 betupfen: to dab
@@ -1692,6 +1695,9 @@ brennen /ˈbrɛnən/: to burn , to be on fire
   Es brennt!
   Fire!
 
+Brett /brɛt/, das, -(e)s|-er: board, shelf
+  Bretter sägen / zuschneiden: to saw/cut wooden boards
+
 Breze(l) /ˈbreːʦə(l)/, die, -n: pretzel
   Riesenbrezen
 
@@ -1884,3 +1890,5 @@ Bußgeld, das: fine, penalty
 Butter /ˈbʊtɐ/, die: butter
   ein Brot mit Butter bestreichen
   to butter a slice of bread 
+
+Butzemann, der: boogeyman 惡鬼，妖怪

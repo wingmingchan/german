@@ -146,6 +146,17 @@ Säule /ˈzɔylə/, die, -n: pillar, column
 Sauna /ˈzauna/, die, ~|-s/Saunen
   in die Sauna gehen: to go to the sauna
 
+sausen /ˈzauzən/: to rush, to zoom, to roar, to whistle
+  Sie ist noch mal schnell zum Bäcker gesaust.
+  She rushed off to the bakery again quickly.
+  etw. sausen lassen: to let sth go
+  eine Gelegenheit / Party sausen lassen: to let an opportunity go/skip a party
+  jdn sausen lassen: to drop sb
+  Lass den untreuen Kerl doch sausen!
+  You should drop that two-timer!
+  Mir sauste das Blut in den Ohren.
+  The blood was pounding in my ears.
+
 Schach /ʃax/, das: chess
   Schach spielen: to play chess
   
@@ -353,12 +364,16 @@ schieben /ˈˈʃiːbən/: to push, to put, to blame, to reject
   Sie schob den Vorschlag / Vorwurf weit von sich.
   She rejected the suggestion/accusation completely.
 
+Schiedsrichter: referee, umpire
+  Der Schiedsrichter hat ein Foul gepfiffen.
+  The referee blew for a foul.
+
 schief /ʃiːf/: awry
 
 schien => scheinen
 
 schießen /ˈʃiːsən/: to shoot, to kick
-  schieße, schoss, schossest, schosst
+  schieße, schoss, schossest, schosst, geschossen
   auf einen Hasen schießen: to shoot at a hare
   den Ball über den Zaun schießen: to kick the ball over the fence
 
@@ -693,7 +708,7 @@ Schneefeld, das: snow field
 Schneeschipper: snow shoveler
 
 schneiden /ˈʃnaidən/: to cut, to chop, to slice
-  geschnitten
+  schneide, schnitt, geschnitten
   Tomaten klein schneiden
   to chop tomatoes
 
@@ -720,6 +735,9 @@ Schnitt /ʃnɪt/, der: cut, average, cross-section
   He got an average of 1.4 in his Abitur school-leaving exams.
   einen guten / seinen Schnitt bei etw. machen: to make a good profit / a profit from sth
   ein Gebäude im Schnitt darstellen: to depict a building in cross-section
+
+schnitzen /ˈʃnɪʦən/: to carve
+  eine Flöte aus Holz schnitzen: to carve a flute out of wood
 
 Schnur /ʃnuːɐ/, die, Schnüre /ˈʃnyːrə/: string, cord
   Er trug den Schlüssel an einer Schnur um den Hals.
@@ -831,6 +849,8 @@ Schubs /ʃʊps/, der: shove, push
 schubsen /ˈʃʊpsn/: to shove, to push, to nudge
   Die Kinder schubsten sich gegenseitig ins Wasser.
   The children were pushing each other into the water.
+
+schüchtern: shy
 
 schuf => schaffen
 

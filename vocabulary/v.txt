@@ -130,6 +130,9 @@ Verdächtige(r): suspect
 verdächtigen /fɛɐˈdɛçtɪɡən/: to suspect
   jdn des Mordes verdächtigen: to suspect sb of murder
 
+verdattert /fɛɐˈdatɐt/: dazed
+  jdn verdattert ansehen: to look at sb in a daze
+
 Verdeck /fɐɐˈdɛk/, das, -(e)s|-e: top, canopy, deck, hood
   ein Cabrio mit offenem Verdeck fahren: to drive an open-top convertible
 
@@ -162,7 +165,7 @@ verdrehen /fɛɐˈdreːən/: to twist, to distort, to roll
   Sie verdrehte genervt die Augen.
   She rolled her eyes in annoyance.
 
-verdutzt /fɛɐˈdʊʦt/: baffled
+verdutzt /fɛɐˈdʊʦt/: baffled 困惑
   ein verdutztes Gesicht machen: to look baffled
 
 Verein /fɛɐˈ|ain/, der, -e: association, club, society
@@ -224,6 +227,13 @@ verfechten /fɛɐˈfɛçtən/: to advocate, to champion
 
 Verfechter /fɛɐˈfɛçtɐ/, -s|~, -in: advocate, champion
   ein Verfechter der Todesstrafe: an advocate of the death penalty
+
+verfluchen /fɛɐˈfluːxən/: to curse
+  verflucht
+  Er verfluchte seinen eigenen Vater.
+  He cursed his own father.
+  Ich verfluche den Tag, an dem ich dieses Auto gekauft habe!
+  I curse the day I bought this car!
 
 verfolgen /fɛɐˈfɔlɡən/: to pursue, to follow
   => folgen
@@ -1122,6 +1132,8 @@ Vorbereitung /ˈfoːɐbəraitʊŋ/, die: preparation
 
 Vorbild /ˈfoːɐbɪlt/, das, -er: model
   ein gutes / schlechtes Vorbild für jdn sein: to be a good/bad role model for sb
+
+Vorder- /ˈfɔrdɐ/: front
 
 Vordermann /ˈfɔrdɐman/, der: person in front
   <=> Hintermann

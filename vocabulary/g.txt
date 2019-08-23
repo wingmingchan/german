@@ -789,6 +789,7 @@ Geschäftsmann: businessman
 
 geschehen /ɡəˈʃeːən/: to happen, to occur, to commit
   geschehe, geschiehst, geschieht, ihr gescheht, bin geschehen
+  geschah, geschehen
   Ein Wunder ist geschehen!
   A miracle has happened!
   ihr Selbstmord geschah aus Verzweiflung: her despair led her to commit suicide
@@ -822,6 +823,8 @@ Geschmack /ɡəˈʃmak/, der, -(e)s|..e: taste
   He has a lot of taste/has good taste when it comes to clothes.
 
 geschnitten => schneiden
+
+geschossen => schießen
 
 Geschütz /ɡəˈʃʏʦ/, das, -e: gun, cannon
   ein Geschütz laden / abfeuern: to load/fire a gun

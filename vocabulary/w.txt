@@ -626,6 +626,10 @@ wimmeln /ˈvɪməln/
   Unter dem Brett wimmelten Ameisen.
   The underside of the plank was swarming with ants.
 
+wimmern /ˈvɪmɐn/: to whimper
+  Das Kind wimmerte leise vor Schmerzen.
+  The child whimpered softly with pain.
+
 Wind /vɪnt/, der, -(e)s|-e: wind
   Draußen weht ein frischer Wind.
   A fresh wind is blowing outside.
@@ -657,6 +661,7 @@ winken /ˈvɪŋkən/: to wave
   She waved goodbye to us.
 
 wirken /ˈvɪrkən/: to have an effect, to work, to seem
+  wirke, wirkte, gewirkt
   Die Tabletten beginnen zu wirken.
   The tablets are starting to have an effect.
   Du wirkst heute ziemlich müde.
@@ -828,6 +833,16 @@ Wrack /vrak/, das, -(e)s|-s: wreck(age)
 wuchern /ˈvuːxɐn/: to run wild
   Im Garten wucherte das Unkraut.
   The weeds were running wild in the garden.
+
+wühlen /ˈvyːlən/: to dig, to rummage (around)
+  Der Hund wühlte in der Erde.
+  The dog was digging in the soil.
+  Sie wühlte in ihrer Tasche nach dem Autoschlüssel.
+  She rummaged in her purse for the car key.
+  ein Loch (in etw.) wühlen: to dig a hole (in sth)
+  sich irgendwohin wühlen: to burrow your way somewhere
+  Wir wühlten uns durch den hohen Schnee.
+  We burrowed our way through the deep snow.
 
 wund /vʊnt/: sore, raw
   sich [ dative ] die Finger wund schreiben: to write your fingers to the bone

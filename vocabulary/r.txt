@@ -167,7 +167,7 @@ raus: (get) out!
 Rausch /rauʃ/, der: intoxication
   sich [ dative ] einen Rausch antrinken: to get drunk
 
-rauschen /ˈrauʃən/: to rush, to whoosh, to hiss
+rauschen /ˈrauʃən/: to rush, to whoosh 發出嗖嗖（呼呼）聲, to hiss
   das gleichmäßige Rauschen des Verkehrs: the constant roar of the traffic
   Das Wasser rauschte in die Badewanne.
   The water whooshed into the bathtub.

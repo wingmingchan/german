@@ -297,6 +297,10 @@ abschöpfen /ˈapʃɶpfən/: to skim off, to make
   Mit einem Festgeldkonto kann man eine gute Rendite abschöpfen.
   With a fixed-term savings account you can make a healthy return on your investment.
 
+abschütteln /ˈapʃʏtəln/: to shake off
+  Er läuft mir überallhin nach und lässt sich nicht abschütteln.
+  He follows me wherever I go and I just can’t shake him off.
+
 absehen /ˈapzeːən/: to foresee, to learn
   Es ist jetzt schon abzusehen, dass daraus nichts wird.
   It's already clear that nothing's going to come of it.
@@ -1013,6 +1017,15 @@ angst
   She was afraid of the operation.
 
 angucken => ansehen
+
+anhalten /ˈanhaltən/: to stop, to continue, to last
+  an der Ampel anhalten müssen: to have to stop at the traffic light
+  Sie hielt einen vorbeikommenden Mann an und bat ihn, ihr zu helfen.
+  She stopped a passer-by and asked him to help her.
+  die Luft / den Atem anhalten: to hold your breath
+  die Uhr / Zeit anhalten wollen: to try to stop the march of time
+  Das gute Wetter hielt über Wochen an.
+  The good weather went on for weeks.
 
 Anhänger /ˈanhɛŋɐ/, der: trailer, pendant, follower
   <=> Gegner
@@ -1866,6 +1879,10 @@ auftragen /ˈauftraːɡən/: to tell sb to do sth, to apply sth to sth
   Mom told me to take the letter to the post office.
   Farbe auf die Wand auftragen: to put paint on the wall
 
+auftreiben /ˈauftraibən/: to rustle up, to get hold of
+  genügend Geld für eine Expedition auftreiben
+  to get together enough money for an expedition
+
 Auftreten /ˈauftreːtən/, das: occurrence, appearance, behavior
 
 auftreten /ˈauftreːtən/: to perform, to appear, to arise, to occur, to act
@@ -2429,6 +2446,10 @@ außerdem /ˈausɐdeːm/: besides, moreover
 außerhalb: outside
   außerhalb des Dorfes wohnen: to live outside of the village
   außerhalb der Öffnungszeiten: outside business hours
+
+außerirdisch /ˈausɐ|ɪrdɪʃ/: extraterrestrial
+  die Suche nach außerirdischen Lebensformen
+  the search for extraterrestrial forms of life
 
 äußern /ˈɔysɐn/: to express
   Möchten Sie noch einen Wunsch äußern?
