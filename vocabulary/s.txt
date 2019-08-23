@@ -1909,6 +1909,10 @@ steuern /ˈʃtɔyɐn/: to steer, to drive, to pilot, to head, to control
   Wer hat den Wagen gesteuert?
   Who was driving the car?
 
+stibitzen /ʃtiˈbɪʦən/: to pinch, to pilfer, to steal
+  Wer hat die Kekse stibitzt?
+  Who's pinched the cookies?
+
 Stich /ʃtɪç/, der: sting, bite, stab wound
   jdn im Stich lassen: to let sb down
 
@@ -2192,6 +2196,10 @@ Strophe /ˈʃtroːfə/, die, -n: verse
   Sie kann alle drei Strophen auswendig.
   She knows all three verses by heart.
 
+Struktur /ʃtrʊkˈtuːɐ/, die, -en: structure, texture
+  die soziale Struktur der Gesellschaft: the social structure of society
+  ein Gewebe mit einer rauen Struktur: a fabric with a coarse texture
+
 struppig /ˈʃtrʊpɪç/: scruffy, bedraggled
   Ist das Tier krank, dass sein Fell so struppig ist?
   Why is that animal's coat so scruffy? Is it sick?
@@ -2216,10 +2224,6 @@ Stufe /ˈʃtuːfə/, die: step, stair
 Stuhl /ʃtuːl/, der, -(e)s|..e: chair
   Setz dich auf deinen Stuhl!
   Sit down on your chair!
-
-Struktur /ʃtrʊkˈtuːɐ/, die, -en: structure, texture
-  die soziale Struktur der Gesellschaft: the social structure of society
-  ein Gewebe mit einer rauen Struktur: a fabric with a coarse texture
 
 Student /ʃtuˈdɛnt/, -in, -en|-en: student
   Sie ist Studentin an der Universität Leipzig.
@@ -2248,6 +2252,9 @@ Sturm /ʃtʊrm/, der: storm
   A storm blew up.
 
 stürmen /ˈʃtʏrmən/: to storm, to rush, to attack, to throng onto/into
+
+stürzen /ˈʃtʏrʦən/: to fall, to drop, to throw
+  mit dem / vom Fahrrad stürzen: to fall off your bike
 
 stützen /ˈʃtʏʦən/: to support, to prop up
   eine Mauer mit Stangen stützen: to support a wall with poles

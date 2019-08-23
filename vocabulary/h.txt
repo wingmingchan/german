@@ -151,6 +151,9 @@ handeln /ˈhandəln/: to deal, to trade, to bargin, to negotiate, to act
   Es handelt sich hier um einen Notfall.
   It's an emergency.
 
+Handgelenk /ˈhantɡəlɛŋk/, das: wrist
+  einen Armreif ums Handgelenk tragen: to have a bracelet on your wrist
+
 Handlung /ˈhandlʊŋ/, die: act, action
 
 handwerklich /ˈhantvɛrklɪç/: technical, artisanal
@@ -302,6 +305,7 @@ Hazienda /haˈtsjɛnda/, die, ~|-s/Hazienden: hacienda
 Hebel /ˈheːbəl/, der: lever
 
 heben /ˈheːbən/: to lift, to raise
+  hebe, hob, gehoben
   Der Vorhang hob sich zum zweiten Akt.
   The curtain rose for the second act.
   Die Tasche ist so schwer, dass ich sie kaum heben kann.
