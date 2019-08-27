@@ -827,6 +827,7 @@ geschnitten => schneiden
 geschossen => schießen
 
 Geschütz /ɡəˈʃʏʦ/, das, -e: gun, cannon
+  => Kanone
   ein Geschütz laden / abfeuern: to load/fire a gun
 
 geschützt /ɡəˈʃʏʦt/: sheltered, protected
@@ -1081,6 +1082,12 @@ glatt /ɡlat/: smooth, slippery, icy, straight, downright, complete
   Das ist das glatte Gegenteil von dem, was wir erreichen wollten.
   That's the complete opposite of what we wanted to achieve.
 
+glattweg /ˈɡlatvɛk/: point-blank, simply
+  Er hat unseren Vorschlag glattweg abgelehnt.
+  He turned our proposal down flat.
+  Das ist glattweg falsch.
+  That's simply wrong.
+
 Glatze  /ˈɡlaʦə/, die, ~|-n: bald head
   eine Glatze haben / bekommen: to be/go bald
   Er wurde von ein paar Glatzen verprügelt.
@@ -1088,7 +1095,6 @@ Glatze  /ˈɡlaʦə/, die, ~|-n: bald head
 
 glatzköpfig /ˈɡlaʦkœpfɪç/: bald(-headed)
   ein glatzköpfiger Mann: a bald-headed man
-
 
 Glaube /ˈɡlaubə/, der, -ns|uncountable: faith
 
@@ -1266,6 +1272,10 @@ grillen: to barbecue, to grill
   What sorts of vegetables are suitable for barbecuing?
 
 Grillspieß, der: spit, rotisserie
+
+grimmig /ˈɡrɪmɪç/: grim
+  Mit grimmiger Miene machte er sich auf den Weg.
+  With a scowl on his face he set off.
 
 Grinsen /ˈɡrɪnzən/, das: grin
 

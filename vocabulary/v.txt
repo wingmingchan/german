@@ -780,6 +780,8 @@ verstehen: to hear, understand, know
   I did not hear what he said.
   etwas falsch verstehen: to misunderstand sth, to mishear sth
 
+versteinern: to fossilize, to petrify
+
 verstrichen /fɛɐˈʃtrɪçn/: elapsed
   zwei Jahre verstrichen, bevor …
 
@@ -818,6 +820,20 @@ vertiefen /fɛɐˈtiːfən/: to strengthen, to extend, to deepen
 Vertrag /fɛɐˈtraːk/, der, -(e)s|..e: contract, treaty
   einen Vertrag mit jdm schließen: to sign a contract with sb
   Arbeitsvertrag
+
+vertragen /fɛɐˈtraːɡən/: to tolerate, to bear, to take, to get on, to make it up, to go together
+  Zigarettenrauch vertrage ich überhaupt nicht.
+  I can't tolerate cigarette smoke at all.
+  Sie verträgt keine Milch.
+  Milk disagrees with her.
+  Mach keine Witze über seine Figur, er verträgt das nicht.
+  Don't make any jokes about his figure. He can't take it.
+  Sie verträgt sich gut mit ihrer Schwiegermutter.
+  She gets on well with her mother-in-law.
+  Kommt, Jungs, vertragt euch doch wieder!
+  Come on, boys. Come and make it up again!
+  Rot und Orange vertragen sich nicht.
+  Red and orange don't go together.
 
 verträglich /fɛɐˈtrɛːklɪç/: easy to get on with, easy to digest, well-tolerated
   Sonst ist sie eigentlich recht verträglich.
@@ -1233,7 +1249,7 @@ Vorort /ˈfoːɐ|ɔrt/, der, -e: suburb
   Er wohnt in einem Pariser Vorort.
   He lives in a suburb of Paris.
 
-vorrücken /’foːɐrʏkən/: to move forward(s), to advance
+vorrücken /'foːɐrʏkən/: to move forward(s), to advance
   Könnten Sie mit dem Stuhl ein wenig vorrücken?
   Could you move your chair forward a little?
 

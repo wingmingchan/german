@@ -229,6 +229,10 @@ scharf /ʃarf/: sharp, strong, hot, spicy, rigorous, tough
   Her hands are all sore from the caustic cleaning products.
   scharf auf etw. sein: to be keen on sth
 
+Scharnier /ʃarˈniːɐ/, das, -s|-e: hinge
+  Die Scharniere müssen geölt werden.
+  The hinges need oiling.
+
 Schatten /ˈʃatən/, der: shadow, shade
   Er folgte mir wie ein Schatten.
   He followed me like a shadow.
@@ -820,6 +824,7 @@ schreien /ˈʃraiən/: to scream, to shout
 Schreiner /ˈʃrainɐ/, Schreinerin: carpenter
 
 schreiten /ˈʃraitən/: to stride, to walk
+  schreite, schritt, geschritten
   gemessenen Schrittes über den roten Teppich schreiten
   to walk with measured steps over the red carpet
   zu etw. schreiten: to proceed to sth
@@ -845,6 +850,8 @@ Schritt /ʃrɪt/, der, -(e)s|-e: step, crotch
   Schritt für Schritt: step by step
   Die Jeans ist im Schritt zu eng.
   These jeans are too tight around the crotch.
+
+schritt => schreiten
 
 Schrott /ʃrɔt/, der: scrap, garbage
   Schrotthändler: scrap (metal) dealer

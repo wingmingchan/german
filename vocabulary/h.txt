@@ -284,6 +284,8 @@ hausen /ˈhauzən/: pejorative: to live
   Die Familie hauste in einer verrosteten Blechhütte.
   The family lived in a rusty tin shack.
 
+Hausfriedensbruch, der: breaking and entering
+
 Haushalt /ˈhaushalt/, der, -e: budget, housekeeping, household, home
   über den Haushalt beraten: to deliberate on the budget
   den Haushalt erledigen: to do the housekeeping
@@ -706,6 +708,9 @@ himmlisch /ˈhɪmlɪʃ/: heavenly, divine
   Sie summte leise vor sich hin.
   She was humming quietly to herself.
   hin sein: to be broken, to be ruined, to be exhausted, to have kicked the bucket
+
+hinauf /hɪˈnauf/: up
+  eine Wanderung den Berg hinauf: a hike up the mountain
 
 hinauftragen: to carry up(wards)
 

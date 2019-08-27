@@ -74,6 +74,8 @@ abfällig /ˈapfɛlɪç/: derogatory
 abfärben: to run
   seine Farbe auf etw. anderes übertragen
 
+abfeuern: to fire (a gun), to discharge
+
 abfinden /ˈapfɪndən/: to pay off, to come to terms with
   Der scheidende Manager wurde mit einem Millionenbetrag abgefunden.
   The manager was given a million-dollar/million-euro golden handshake when he left.
@@ -299,7 +301,7 @@ abschöpfen /ˈapʃɶpfən/: to skim off, to make
 
 abschütteln /ˈapʃʏtəln/: to shake off
   Er läuft mir überallhin nach und lässt sich nicht abschütteln.
-  He follows me wherever I go and I just can’t shake him off.
+  He follows me wherever I go and I just can't shake him off.
 
 absehen /ˈapzeːən/: to foresee, to learn
   Es ist jetzt schon abzusehen, dass daraus nichts wird.
@@ -326,11 +328,11 @@ absetzen /ˈapzɛʦən/: to remove, to depose, to stop taking, to cancel, to tak
   Kann ich die Reisekosten absetzen?
   Can I get tax relief on my travel expenses?
   Setz doch bitte die Sonnenbrille ab, wenn ich mit dir rede.
-  Take off your sunglasses when I’m talking with you, please.
+  Take off your sunglasses when I'm talking with you, please.
   Ich musste den Sack kurz absetzen, weil meine Hände schmerzten.
   I just had to put the sack down for a bit as my hands were hurting.
   Von dem neuen Modell wurden bereits 500 Stück abgesetzt.
-  We’ve already sold 500 units of the new model.
+  We've already sold 500 units of the new model.
   sich ins Ausland absetzen, um seinen Gläubigern zu entkommen
   to defect abroad to escape your creditors
   Am Teichboden hat sich viel Schlamm abgesetzt.
@@ -964,7 +966,17 @@ Angeklagte /ˈanɡəklaːktə/, der-die, -n|-n: defendant
   Der Angeklagte bestritt die Tatvorwürfe.
   The defendant disputed the alleged crimes.
 
-angeln /ˈaŋəln/: to fish
+Angeln: angling, fishing
+
+Angeln, pl: angles
+
+angeln /ˈaŋəln/: to fish, to catch
+  angeln gehen: to go fishing
+  Er hat einen riesigen Fisch geangelt.
+  He caught a huge fish.
+  einen Brief aus dem Briefkasten angeln: to fish a letter out of the mailbox
+  Er angelte mit einem Stock nach dem Hut, der auf dem Wasser trieb.
+  He was fishing with a stick for the hat that was floating on the water.
 
 angemessen /ˈanɡəmɛsən/: suitable, appropriate
   In diesem Fall fände ich es angemessener zu schweigen.
@@ -1556,6 +1568,16 @@ aufessen /ˈauf|ɛsən/: to eat up, to finish off
   They ate all the bread.
 
 auffahren /ˈauffaːrən/: to run into, to tailgate, to start, to ascend
+  Der Lkw konnte nicht mehr bremsen und fuhr auf den Bus auf.
+  The truck couldn't brake and tan into the back of the bus.
+  Wer zu dicht auffährt, riskiert einen Unfall.
+  Tailgaters run the risk of an accident.
+  Überrascht fuhr er auf, als es klingelte.
+  He jumped in surprise when the doorbell rang.
+  Christus ist in den / zum Himmel aufgefahren.
+  Christ ascended to heaven.
+  Unglaublich, was die Gastgeber alles aufgefahren haben!
+  The spread of dishes that the hosts dished up was unbelievable!
 
 Auffahrt /ˈauffaːrt/, die, ~|-en: driveway, ramp, ascent, climb
   die Auffahrt zum Schloss: the driveway to a castle
@@ -1775,6 +1797,12 @@ aufräumen /ˈaufrɔymən/: to tidy (up)
   Du solltest mal wieder aufräumen!
   It's about time you tidied up again.
 
+aufrecht /ˈaufrɛçt/: upright, erect
+  Wann hat der Mensch den aufrechten Gang gelernt?
+  When did mankind learn how to walk upright?
+  eine aufrechte Kämpferin für die Menschenrechte
+  an upright campaigner for human rights
+
 aufregen /ˈaufreːɡən/: to get upset/worried/excited
 
 aufregend： exciting, thrilling
@@ -1871,6 +1899,12 @@ auftauchen /ˈauftauxən/: to appear, to surface, to arise, to come up, to show 
   The contours of a house materialized out of the fog.
   Leider sind unerwartet Schwierigkeiten aufgetaucht.
   I'm afraid some unexpected difficulties have cropped up.
+
+auftischen /ˈauftɪʃən/: to serve, to trot out
+  (den Gästen) Braten und Gemüse auftischen
+  to serve (your guests) a roast with vegetables
+  Was hat er dir denn heute wieder für eine Geschichte aufgetischt?
+  What kind of story did he trot out to you this time?
 
 Auftrag /ˈauftraːk/, der, -(e)s|..e /ˈauftrɛːɡə/: task, job, order, contract
   Er bekam von seiner Mutter den Auftrag, Brot einzukaufen.
@@ -2346,6 +2380,11 @@ ausstrahlen /ˈausʃtraːlən/: to broadcast
 Ausstrahlung /ˈausʃtraːlʊŋ/, die, -en: transmission, charisma
   die erste Ausstrahlung des Films im Fernsehen: the first showing of the movie on TV
   eine positive Ausstrahlung haben: to exude a positive aura
+
+ausstrecken /ˈausʃtrɛkən/: to reach out, to stretch out
+  Sie streckte die Hand nach dem Lichtschalter aus.
+  She reached her hand out for the light switch.
+  sich auf dem Sofa ausstrecken: to stretch out on the couch
 
 aussuchen /ˈauszuːxən/: to choose
   => auswählen

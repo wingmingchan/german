@@ -40,6 +40,10 @@ nachholen /ˈnaːxhoːlən/: to make up for, to catch up on, to fetch later
   He went abroad and brought his family to join him later.
 
 nachlassen: to bate, to deteriorate, to get worse
+  Die Wirkung lässt leider schon wieder nach.
+  Unfortunately the effect is already wearing off.
+  Die Augen lassen im Alter nach.
+  The eyes deteriorate with age.
 
 nachlässig /ˈnaːxlɛsɪç/: careless, negligent
   <=> sorgfältig
@@ -338,8 +342,6 @@ niederlassen /ˈniːdɐlasən/: to settle, to set up a business/practice, to sit
   Monks settled here in the eighth century and founded a monastery.
   niedergelassene Ärzte: registered doctors with their own practices
   sich auf einem Sessel niederlassen: to sit down in an armchair
-
-
 
 niedrig /ˈniːdrɪç/: low, base
   Der Zaun war so niedrig, dass der Hund darüberspringen konnte.

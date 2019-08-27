@@ -1204,7 +1204,7 @@ Bewältigung /bəˈvɛltɪɡʊŋ/, die: coping (with), handling
 
 bewarf => bewerfen
 
-bewegen /bəˈveːɡən/: to move, to budge, to move forward
+bewegen /bəˈveːɡən/: to move, to budge, to move forward, to budge up
   Der Felsblock ließ sich nicht von der Stelle bewegen.
   The boulder couldn't be budged.
   Du solltest dich mehr bewegen.
@@ -1814,6 +1814,9 @@ Buchstabe /ˈbuːxʃtaːbə/, der, -n(s)|-n: character, letter 字母
 buchstabieren /buːxʃtaˈbiːrən/: to spell
   Mein Name ist Mayr – ich buchstabiere: Martha, Anton, Ypsilon, Richard.
   My name is Mayr – I'll spell it: Mike, Alpha, Yankee, Romeo.
+
+bücken /ˈbʏkən/: to bend over
+  sich bücken, um etw. aufzuheben: to bend over to pick sth up
 
 Bückling /'bʏklɪŋ/, der, -s|-e: smoked herring, kipper, bow
   Bücklingsfilets: smoked herring filets

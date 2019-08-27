@@ -6,7 +6,7 @@ Kabel /ˈkaːbəl/, das, -: cable
   Kabel verlegen: to lay cables
    die Kabel einer Seilbahn: the cables of a cable car
 
-Käfer /ˈkɛːfɐ/, der, -: beetle, bug
+Käfer /ˈkɛːfɐ/, der, -s|~: beetle, bug
 
 Käfig /ˈkɛːfɪç/, der, -e: cage
   Hühner im Käfig halten: to keep chicken in a cage
@@ -91,6 +91,10 @@ Kandidat /kandiˈdaːt/, -in, -en
 
 Kaninchen /kaˈniːnçən/, das, -s|~: rabbit
   Kaninchenbau: rabbit burrow
+
+Kanone /kaˈnoːnə/, die, ~|-en: cannon, gun
+  => Geschütz
+  eine Kanone abfeuern: to fire a cannon
 
 △Kap /kap/, das, -s: cape
   das Kap der Guten Hoffnung umsegeln: to sail round the Cape of Good Hope
@@ -514,6 +518,9 @@ klopfen /ˈklɔpfən/: to knock, to pat, to tap, to pound, to tenderize, to hamm
   Es hat geklopft, machst du bitte auf?
   There was a knock at the door. Could you go and answer it, please?
 
+Klops /klɔps/, der, -es|-e: meatball
+  Königsberger Klopse: meatballs in white sauce with capers
+
 Kloster /ˈkloːstɐ/, das, -s|..: monastery, convent
   Klosterkirche: monastery church
   ins Kloster gehen: to become a monk/nun
@@ -527,6 +534,16 @@ klug /kluːk/: clever
 
 Klüngel /ˈklʏŋəl/, der, -s|~: clique
   der Bürgermeister und sein Klüngel: the mayor and his clique
+
+Knall /knal/, der, -(e)s|-e: bang, pop, crack
+  Der Luftballon platzte mit einem lauten Knall.
+  The balloon burst with a loud bang.
+  Knall auf Fall: plötzlich
+  jd hat einen Knall: jd ist verrückt
+
+knall-: bright, super
+  knallbunt: brightly colored
+  ein knallenges Kleid: a super-tight dress
 
 knallen /ˈknalən/: to bang, to pop, to crack, to crash
   geknallt
@@ -846,6 +863,8 @@ Köter /ˈkøːtɐ/, der, -s|~: mutt (dog)
 krabbeln /ˈkrabəln/: to crawl
   Ameisen krabbelten über die Terrasse.
   Ants were crawling across the terrace.
+
+Krachen, das: crash
 
 krachen /ˈkraxən/: to crash, to bang
   An der Kreuzung kracht es öfter.
